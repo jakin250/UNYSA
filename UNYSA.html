@@ -1,0 +1,2126 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UNYSA Study Notes Library</title>
+  <meta name="description" content="Structured study notes library for UNYSA modules across Law, Human Sciences, EMS, Education and Accounting Sciences." />
+  <style>
+    :root {
+      --bg: #050816;
+      --bg-alt: #0b1020;
+      --card-bg: #0f172a;
+      --accent: #2563eb;
+      --accent-soft: rgba(37, 99, 235, 0.12);
+      --accent-strong: #1d4ed8;
+      --accent-warm: #15803d;
+      --border-subtle: rgba(148, 163, 184, 0.35);
+      --text-main: #e5e7eb;
+      --text-soft: #9ca3af;
+      --text-muted: #6b7280;
+      --danger: #f97373;
+      --shadow-soft: 0 18px 40px rgba(15, 23, 42, 0.75);
+      --radius-lg: 18px;
+      --radius-md: 12px;
+      --radius-full: 999px;
+      --nav-height: 72px;
+      --container: 1200px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+        "Segoe UI", Roboto, sans-serif;
+      background: #f5f5f9;
+      color: #0f172a;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .container {
+      width: min(100% - 2.2rem, var(--container));
+      margin: 0 auto;
+    }
+
+    /* HEADER */
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      backdrop-filter: blur(16px);
+      background: linear-gradient(
+        to right,
+        rgba(15, 23, 42, 0.98),
+        rgba(15, 23, 42, 0.92)
+      );
+      border-bottom: 1px solid rgba(15, 23, 42, 0.92);
+      box-shadow: 0 10px 25px rgba(15, 23, 42, 0.45);
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      min-height: var(--nav-height);
+      padding-block: 0.25rem;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      font-weight: 700;
+      min-width: 0;
+    }
+
+    .logo-icon {
+      width: 34px;
+      height: 34px;
+      border-radius: 15px;
+      background:
+        conic-gradient(from 200deg, #2563eb, #22c55e, #facc15, #2563eb);
+      padding: 2px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow:
+        0 0 0 1px rgba(15, 23, 42, 1),
+        0 0 24px rgba(37, 99, 235, 0.5);
+      flex-shrink: 0;
+      font-size: 1.05rem;
+    }
+
+    .logo-icon::before {
+      content: "🎓";
+      width: 100%;
+      height: 100%;
+      border-radius: inherit;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at 30% 20%, #1d4ed8 0, #020617 60%, #000 100%);
+    }
+
+    .brand-text {
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+
+    .brand-title {
+      font-size: 1rem;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      line-height: 1.1;
+      text-transform: uppercase;
+      color: #f9fafb;
+    }
+
+    .brand-subtitle {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: rgba(226, 232, 240, 0.8);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .nav-link {
+      padding: 0.45rem 0.9rem;
+      border-radius: 999px;
+      font-size: 0.83rem;
+      font-weight: 600;
+      color: rgba(226, 232, 240, 0.9);
+      position: relative;
+      transition: color 0.18s ease-out, background 0.18s ease-out;
+    }
+
+    .nav-link::after {
+      content: "";
+      position: absolute;
+      left: 0.9rem;
+      right: 0.9rem;
+      bottom: 0.25rem;
+      height: 2px;
+      border-radius: 999px;
+      background: linear-gradient(to right, var(--accent), var(--accent-warm));
+      transform: scaleX(0);
+      transform-origin: center;
+      transition: transform 0.18s ease-out;
+    }
+
+    .nav-link:hover,
+    .nav-link:focus {
+      color: #f9fafb;
+      background: rgba(15, 23, 42, 0.6);
+      outline: none;
+    }
+
+    .nav-link:hover::after,
+    .nav-link:focus::after {
+      transform: scaleX(1);
+    }
+
+    .mobile-toggle {
+      display: none;
+      background: rgba(15, 23, 42, 0.9);
+      color: #e5e7eb;
+      border: 1px solid rgba(148, 163, 184, 0.45);
+      border-radius: 10px;
+      padding: 0.55rem 0.75rem;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+
+    .theme-toggle {
+      background: rgba(15, 23, 42, 0.9);
+      color: #e5e7eb;
+      border: 1px solid rgba(148, 163, 184, 0.6);
+      border-radius: 999px;
+      padding: 0.4rem 0.6rem;
+      cursor: pointer;
+      font-size: 0.9rem;
+      margin-left: 0.35rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .theme-toggle:hover {
+      border-color: var(--accent);
+      color: #f9fafb;
+    }
+
+    /* HERO (university educational blog style) */
+
+    .hero {
+      background: linear-gradient(135deg, #eef2ff 0%, #e0f2fe 40%, #f9fafb 100%);
+      color: #0f172a;
+      position: relative;
+      overflow: hidden;
+      padding: 2.6rem 0 2.3rem;
+      border-bottom: 1px solid #e5e7eb;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 0.4rem 0.8rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.9);
+      border: 1px solid #e0f2fe;
+      margin-bottom: 0.9rem;
+      box-shadow: 0 6px 16px rgba(15, 23, 42, 0.08);
+    }
+
+    .page-title {
+      margin: 0;
+      font-size: clamp(2.1rem, 4vw, 2.8rem);
+      line-height: 1.1;
+      letter-spacing: -0.03em;
+      font-family: "Georgia", "Times New Roman", serif;
+      color: #111827;
+    }
+
+    .page-title span {
+      background: linear-gradient(to right, #1d4ed8, #15803d);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .page-subtitle {
+      margin: 0.85rem 0 1.4rem;
+      color: #4b5563;
+      max-width: 900px;
+      font-size: 0.98rem;
+    }
+
+    /* Search bar with scrollable background image */
+
+    .search-hero-panel {
+      position: relative;
+      margin-bottom: 1.4rem;
+      border-radius: 18px;
+      overflow: hidden;
+      background-image: url("");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed; /* scrollable / subtle parallax on desktop */
+    }
+
+    @media (max-width: 800px) {
+      .search-hero-panel {
+        background-attachment: scroll; /* better perf on mobile */
+      }
+    }
+
+    .search-hero-panel::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        120deg,
+        rgba(15, 23, 42, 0.68),
+        rgba(15, 23, 42, 0.4)
+      );
+    }
+
+    body[data-theme="light"] .search-hero-panel::before {
+      background: linear-gradient(
+        120deg,
+        rgba(15, 23, 42, 0.55),
+        rgba(15, 23, 42, 0.3)
+      );
+    }
+
+    body[data-theme="dark"] .search-hero-panel::before {
+      background: linear-gradient(
+        120deg,
+        rgba(15, 23, 42, 0.85),
+        rgba(15, 23, 42, 0.7)
+      );
+    }
+
+    .search-wrap {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      gap: 0;
+      max-width: 900px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 0.85rem 0.85rem;
+      box-shadow: 0 16px 40px rgba(15, 23, 42, 0.8);
+      border-radius: 999px;
+      border: 1px solid rgba(209, 213, 219, 0.9);
+      background: rgba(249, 250, 251, 0.96);
+    }
+
+    .search-input {
+      flex: 1;
+      padding: 0.7rem 1.1rem;
+      border: none;
+      font-size: 0.95rem;
+      outline: none;
+      color: #111827;
+      background: transparent;
+    }
+
+    .search-input::placeholder {
+      color: #9ca3af;
+    }
+
+    .search-btn {
+      background: linear-gradient(135deg, #1d4ed8 0%, #15803d 100%);
+      color: #f9fafb;
+      border: none;
+      padding: 0.7rem 1.3rem;
+      cursor: pointer;
+      font-weight: 700;
+      font-size: 0.9rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      border-radius: 999px;
+      box-shadow:
+        0 10px 24px rgba(15, 23, 42, 0.45),
+        0 0 20px rgba(37, 99, 235, 0.35);
+      transition: transform 0.16s ease-out, box-shadow 0.16s ease-out,
+        filter 0.16s ease-out;
+    }
+
+    .search-btn:hover {
+      transform: translateY(-1px);
+      filter: brightness(1.03);
+      box-shadow:
+        0 16px 36px rgba(15, 23, 42, 0.6),
+        0 0 26px rgba(37, 99, 235, 0.4);
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin-top: 0.9rem;
+    }
+
+    .hero-chip {
+      background: #e0f2fe;
+      border: 1px solid #bfdbfe;
+      border-radius: 999px;
+      padding: 0.4rem 0.75rem;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    /* MAIN LAYOUT */
+
+    .main {
+      padding: 2.1rem 0 3.5rem;
+      flex: 1;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr);
+      gap: 1.5rem;
+      align-items: flex-start;
+    }
+
+    @media (max-width: 1100px) {
+      .layout {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .sidebar {
+      background: #ffffff;
+      border-radius: var(--radius-lg);
+      padding: 1.2rem 1.1rem 1.25rem;
+      box-shadow: 0 8px 20px rgba(15, 23, 42, 0.12);
+      height: fit-content;
+      position: sticky;
+      top: calc(var(--nav-height) + 10px);
+      border: 1px solid #e5e7eb;
+    }
+
+    .sidebar-section + .sidebar-section {
+      margin-top: 1.25rem;
+      padding-top: 1rem;
+      border-top: 1px dashed #e5e7eb;
+    }
+
+    .sidebar-title {
+      margin: 0 0 0.7rem;
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: #111827;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+    }
+
+    .filter-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+
+    .filter-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      padding: 0.55rem 0.75rem;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: 0.2s ease-out;
+      border: 1px solid transparent;
+      font-size: 0.88rem;
+      font-weight: 600;
+      background: #ffffff;
+      color: #111827;
+      width: 100%;
+      text-align: left;
+    }
+
+    .filter-link:hover,
+    .filter-link.active {
+      background: #eff6ff;
+      color: #111827;
+      border-color: #93c5fd;
+      box-shadow: 0 6px 16px rgba(15, 23, 42, 0.12);
+    }
+
+    .filter-count {
+      background: #e0f2fe;
+      color: #111827;
+      padding: 0.12rem 0.65rem;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      min-width: 2rem;
+      text-align: center;
+      border: 1px solid #bfdbfe;
+    }
+
+    .sidebar-note {
+      font-size: 0.82rem;
+      color: #4b5563;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 12px;
+      padding: 0.85rem;
+    }
+
+    .sidebar-note strong {
+      color: #111827;
+    }
+
+    .content {
+      min-width: 0;
+    }
+
+    .content-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .section-title {
+      margin: 0;
+      font-size: 1.2rem;
+      color: #111827;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-family: "Georgia", "Times New Roman", serif;
+    }
+
+    .section-title::before {
+      content: "";
+      width: 4px;
+      height: 24px;
+      background: linear-gradient(180deg, #2563eb, #15803d);
+      border-radius: 2px;
+      display: inline-block;
+    }
+
+    .results-summary {
+      color: #64748b;
+      font-size: 0.88rem;
+      font-weight: 600;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-bottom: 1.1rem;
+    }
+
+    .toolbar select,
+    .toolbar button {
+      border: 1px solid #dbeafe;
+      background: #ffffff;
+      color: #111827;
+      border-radius: 10px;
+      padding: 0.6rem 0.75rem;
+      font: inherit;
+      box-shadow: 0 4px 12px rgba(15, 23, 42, 0.06);
+    }
+
+    .toolbar button {
+      cursor: pointer;
+      font-weight: 700;
+      transition: border-color 0.18s ease-out, background 0.18s ease-out,
+        transform 0.18s ease-out;
+    }
+
+    .toolbar button:hover {
+      border-color: #93c5fd;
+      background: #eff6ff;
+      transform: translateY(-1px);
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 1rem;
+    }
+
+    .note-card {
+      background: #ffffff;
+      border-radius: var(--radius-lg);
+      padding: 1.05rem 1.1rem 1rem;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+      transition: all 0.2s ease-out;
+      border: 1px solid #e5e7eb;
+      display: flex;
+      flex-direction: column;
+      gap: 0.7rem;
+      min-height: 240px;
+    }
+
+    .note-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 28px rgba(15, 23, 42, 0.16);
+      border-color: #93c5fd;
+      background: #f9fafb;
+    }
+
+    .note-type {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: #2563eb;
+      font-weight: 700;
+      margin-bottom: 0.05rem;
+    }
+
+    .note-code {
+      display: inline-block;
+      align-self: flex-start;
+      background: linear-gradient(135deg, #1d4ed8 0%, #15803d 100%);
+      color: #f9fafb;
+      padding: 0.22rem 0.7rem;
+      border-radius: 999px;
+      font-size: 0.74rem;
+      font-weight: 700;
+      box-shadow: 0 8px 20px rgba(15, 23, 42, 0.25);
+    }
+
+    .note-title {
+      margin: 0;
+      font-size: 1rem;
+      color: #111827;
+      line-height: 1.3;
+    }
+
+    .note-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+
+    .meta-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      font-size: 0.76rem;
+      font-weight: 700;
+      padding: 0.28rem 0.6rem;
+      border-radius: 999px;
+      background: #eff6ff;
+      color: #1f2937;
+      border: 1px solid #dbeafe;
+    }
+
+    .note-description {
+      margin: 0;
+      color: #64748b;
+      font-size: 0.9rem;
+      flex-grow: 1;
+    }
+
+    .card-actions {
+      display: flex;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+      margin-top: auto;
+    }
+
+    .btn {
+      border: none;
+      border-radius: 10px;
+      padding: 0.65rem 0.9rem;
+      font: inherit;
+      font-size: 0.86rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: 0.18s ease-out;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #1d4ed8 0%, #15803d 100%);
+      color: #f9fafb;
+      box-shadow:
+        0 10px 24px rgba(15, 23, 42, 0.25),
+        0 0 16px rgba(37, 99, 235, 0.3);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      filter: brightness(1.03);
+    }
+
+    .btn-secondary {
+      background: #ffffff;
+      color: #111827;
+      border: 1px solid #dbeafe;
+    }
+
+    .btn-secondary:hover {
+      background: #eff6ff;
+      border-color: #93c5fd;
+    }
+
+    .empty-state,
+    .loading-state,
+    .error-state {
+      background: #ffffff;
+      border-radius: var(--radius-lg);
+      border: 1px solid #e5e7eb;
+      padding: 1.6rem 1.4rem;
+      text-align: center;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+      color: #4b5563;
+    }
+
+    .empty-state h3,
+    .loading-state h3,
+    .error-state h3 {
+      margin-top: 0;
+      color: #111827;
+    }
+
+    /* ABOUT / SETUP */
+
+    #about .empty-state,
+    #setup .empty-state {
+      text-align: left;
+    }
+
+    pre.note-content {
+      background: #0b1120;
+      border-radius: 14px;
+      border: 1px solid #1f2937;
+      padding: 0.9rem 1rem;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 0.9rem;
+      color: #e5e7eb;
+      overflow-x: auto;
+      box-shadow: 0 10px 24px rgba(15, 23, 42, 0.6);
+    }
+
+    /* FOOTER */
+
+    .site-footer {
+      background: #0b1120;
+      color: #e5e7eb;
+      padding: 2.4rem 0 1.6rem;
+      margin-top: 2.8rem;
+      border-top: 1px solid #111827;
+      box-shadow: 0 -10px 24px rgba(15, 23, 42, 0.85);
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1.25rem;
+    }
+
+    .footer-section h4 {
+      color: #e5e7eb;
+      margin: 0 0 0.9rem;
+      font-size: 0.98rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .footer-section p,
+    .footer-section li {
+      color: #cbd5f5;
+      font-size: 0.88rem;
+      margin: 0.3rem 0;
+    }
+
+    .footer-list {
+      padding-left: 1rem;
+      margin: 0;
+    }
+
+    .footer-bottom {
+      margin-top: 1.6rem;
+      padding-top: 1rem;
+      border-top: 1px solid #111827;
+      font-size: 0.82rem;
+      color: #9ca3af;
+    }
+
+    /* MODAL */
+
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.6);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      z-index: 3000;
+      backdrop-filter: blur(8px);
+    }
+
+    .modal.active {
+      display: flex;
+    }
+
+    .modal-panel {
+      width: min(100%, 900px);
+      max-height: 88vh;
+      background: #ffffff;
+      border-radius: 18px;
+      box-shadow: 0 24px 60px rgba(15, 23, 42, 0.4);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid #dbeafe;
+    }
+
+    .modal-header {
+      padding: 0.95rem 1.25rem;
+      background: linear-gradient(135deg, #1f2937 0%, #0b1120 100%);
+      color: #e5e7eb;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      border-bottom: 1px solid #111827;
+    }
+
+    .modal-title-wrap {
+      min-width: 0;
+    }
+
+    .modal-title {
+      margin: 0;
+      font-size: 1rem;
+      line-height: 1.3;
+    }
+
+    .modal-subtitle {
+      font-size: 0.8rem;
+      color: #cbd5f5;
+      margin-top: 0.2rem;
+    }
+
+    .modal-close {
+      border: none;
+      background: #020617;
+      color: #e5e7eb;
+      width: 38px;
+      height: 38px;
+      border-radius: 999px;
+      cursor: pointer;
+      font-size: 1rem;
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #4b5563;
+      transition: 0.18s ease-out;
+    }
+
+    .modal-close:hover {
+      background: #111827;
+      border-color: #38bdf8;
+    }
+
+    .modal-body {
+      padding: 1.1rem 1.15rem 1.25rem;
+      overflow: auto;
+      background: #f9fafb;
+    }
+
+    .note-content {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 0.92rem;
+      line-height: 1.7;
+      color: #e5e7eb;
+      background: #020617;
+      border: 1px solid #1f2937;
+      border-radius: 14px;
+      padding: 1rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.9);
+    }
+
+    .chapter-list {
+      list-style: none;
+      margin: 0.55rem 0 0;
+      padding: 0;
+    }
+
+    .chapter-list li {
+      margin-bottom: 0.3rem;
+    }
+
+    .chapter-list a {
+      color: #93c5fd;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .chapter-list a:hover {
+      text-decoration: underline;
+      color: #bef264;
+    }
+
+    /* TOAST */
+
+    .toast {
+      position: fixed;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      background: linear-gradient(135deg, #1f2937 0%, #0b1120 100%);
+      color: #e5e7eb;
+      padding: 0.9rem 1.15rem;
+      border-radius: 12px;
+      box-shadow:
+        0 20px 50px rgba(15, 23, 42, 0.98),
+        0 0 26px rgba(37, 99, 235, 0.35);
+      transform: translateY(120px);
+      opacity: 0;
+      transition: all 0.3s ease;
+      z-index: 5000;
+      border: 1px solid #1f2937;
+      max-width: 380px;
+      font-size: 0.88rem;
+      font-weight: 600;
+    }
+
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    /* DARK THEME OVERRIDES */
+
+    body[data-theme="dark"] {
+      background: radial-gradient(circle at top left, #1d2740 0, #020617 55%, #000 100%);
+      color: var(--text-main);
+    }
+
+    body[data-theme="dark"] .site-header {
+      background: linear-gradient(
+        to right,
+        rgba(15, 23, 42, 0.98),
+        rgba(15, 23, 42, 0.95)
+      );
+      border-bottom-color: rgba(15, 23, 42, 0.98);
+      box-shadow: 0 14px 40px rgba(15, 23, 42, 0.9);
+    }
+
+    body[data-theme="dark"] .hero {
+      background:
+        radial-gradient(circle at 0 0, rgba(37, 99, 235, 0.2), transparent 55%),
+        radial-gradient(circle at 100% 0, rgba(22, 163, 74, 0.2), transparent 55%),
+        #020617;
+      color: #e5e7eb;
+      box-shadow: var(--shadow-soft);
+      border-bottom-color: rgba(15, 23, 42, 0.9);
+    }
+
+    body[data-theme="dark"] .page-title {
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] .page-subtitle {
+      color: rgba(226, 232, 240, 0.9);
+    }
+
+    body[data-theme="dark"] .hero-badge {
+      background: rgba(15, 23, 42, 0.9);
+      border-color: rgba(148, 163, 184, 0.7);
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] .search-wrap {
+      background: rgba(15, 23, 42, 0.98);
+      border-color: rgba(30, 64, 175, 0.95);
+      box-shadow: 0 18px 40px rgba(15, 23, 42, 1);
+    }
+
+    body[data-theme="dark"] .search-input {
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] .search-input::placeholder {
+      color: #9ca3af;
+    }
+
+    body[data-theme="dark"] .hero-chip {
+      background: rgba(15, 23, 42, 0.9);
+      border-color: rgba(148, 163, 184, 0.7);
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] .main {
+      background: transparent;
+    }
+
+    body[data-theme="dark"] .sidebar {
+      background: radial-gradient(circle at 0 0, rgba(37, 99, 235, 0.2), transparent 55%),
+        #020617;
+      border-color: rgba(30, 64, 175, 0.95);
+      box-shadow: var(--shadow-soft);
+    }
+
+    body[data-theme="dark"] .sidebar-title {
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] .filter-link {
+      background: rgba(15, 23, 42, 0.95);
+      color: #e5e7eb;
+      border-color: transparent;
+    }
+
+    body[data-theme="dark"] .filter-link:hover,
+    body[data-theme="dark"] .filter-link.active {
+      background: radial-gradient(circle at 0 0, rgba(37, 99, 235, 0.28), transparent 70%);
+      border-color: rgba(37, 99, 235, 0.8);
+      box-shadow: 0 10px 26px rgba(15, 23, 42, 0.95);
+    }
+
+    body[data-theme="dark"] .filter-count {
+      background: rgba(15, 23, 42, 1);
+      color: #e5e7eb;
+      border-color: rgba(148, 163, 184, 0.8);
+    }
+
+    body[data-theme="dark"] .sidebar-note {
+      background: rgba(15, 23, 42, 0.96);
+      color: #9ca3af;
+      border-color: rgba(148, 163, 184, 0.7);
+    }
+
+    body[data-theme="dark"] .section-title {
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] .results-summary {
+      color: #9ca3af;
+    }
+
+    body[data-theme="dark"] .toolbar select,
+    body[data-theme="dark"] .toolbar button {
+      background: rgba(15, 23, 42, 0.96);
+      color: #e5e7eb;
+      border-color: rgba(30, 64, 175, 0.95);
+      box-shadow: 0 12px 28px rgba(15, 23, 42, 0.95);
+    }
+
+    body[data-theme="dark"] .toolbar button:hover {
+      background: radial-gradient(circle at 0 0, rgba(37, 99, 235, 0.24), #020617);
+      border-color: #2563eb;
+    }
+
+    body[data-theme="dark"] .note-card {
+      background: rgba(15, 23, 42, 0.98);
+      border-color: rgba(30, 64, 175, 0.95);
+      box-shadow: var(--shadow-soft);
+    }
+
+    body[data-theme="dark"] .note-card:hover {
+      background: radial-gradient(circle at 0 0, rgba(37, 99, 235, 0.2), rgba(15, 23, 42, 0.98));
+      border-color: #2563eb;
+      box-shadow:
+        0 22px 50px rgba(15, 23, 42, 1),
+        0 0 32px rgba(37, 99, 235, 0.4);
+    }
+
+    body[data-theme="dark"] .note-title {
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] .note-description {
+      color: #9ca3af;
+    }
+
+    body[data-theme="dark"] .empty-state,
+    body[data-theme="dark"] .loading-state,
+    body[data-theme="dark"] .error-state {
+      background: rgba(15, 23, 42, 0.98);
+      border-color: rgba(30, 64, 175, 0.95);
+      color: #9ca3af;
+      box-shadow: var(--shadow-soft);
+    }
+
+    body[data-theme="dark"] .empty-state h3,
+    body[data-theme="dark"] .loading-state h3,
+    body[data-theme="dark"] .error-state h3 {
+      color: #e5e7eb;
+    }
+
+    body[data-theme="dark"] pre.note-content {
+      background: #020617;
+      border-color: #1f2937;
+    }
+
+    body[data-theme="dark"] .site-footer {
+      background: #020617;
+      box-shadow: 0 -14px 40px rgba(15, 23, 42, 0.98);
+      border-top-color: #020617;
+    }
+
+    body[data-theme="dark"] .modal-panel {
+      background: #020617;
+      border-color: #1f2937;
+    }
+
+    body[data-theme="dark"] .modal-body {
+      background: #020617;
+    }
+
+    body[data-theme="dark"] .note-content {
+      background: #020617;
+      border-color: #1f2937;
+    }
+
+    body[data-theme="dark"] .toast {
+      background: linear-gradient(135deg, #020617 0%, #020617 100%);
+      border-color: #1f2937;
+    }
+
+    body[data-theme="dark"] .theme-toggle {
+      background: #020617;
+      color: #e5e7eb;
+      border-color: #4b5563;
+    }
+
+    body[data-theme="dark"] .theme-toggle:hover {
+      border-color: #2563eb;
+    }
+
+    /* RESPONSIVE */
+
+    @media (max-width: 900px) {
+      .nav {
+        display: none;
+        position: absolute;
+        top: var(--nav-height);
+        left: 1rem;
+        right: 1rem;
+        background: rgba(15, 23, 42, 0.98);
+        border: 1px solid rgba(30, 64, 175, 0.95);
+        border-radius: 16px;
+        padding: 0.6rem;
+        flex-direction: column;
+        align-items: stretch;
+        box-shadow: 0 16px 32px rgba(15, 23, 42, 0.9);
+      }
+
+      .nav.open {
+        display: flex;
+      }
+
+      .mobile-toggle {
+        display: inline-flex;
+      }
+
+      .footer-grid {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    @media (max-width: 700px) {
+      .search-hero-panel {
+        border-radius: 16px;
+      }
+
+      .search-wrap {
+        flex-direction: column;
+        border-radius: 16px;
+      }
+
+      .search-btn {
+        width: 100%;
+        justify-content: center;
+        margin-top: 0.3rem;
+      }
+
+      .cards {
+        grid-template-columns: minmax(0, 1fr);
+      }
+
+      .content-header {
+        align-items: stretch;
+      }
+
+      .toolbar {
+        flex-direction: column;
+      }
+
+      .toolbar select,
+      .toolbar button {
+        width: 100%;
+      }
+
+      .sidebar {
+        position: static;
+      }
+    }
+  </style>
+</head>
+<body data-theme="light">
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#" class="brand" aria-label="UNYSA Study Notes Library Home">
+        <div class="logo-icon"></div>
+        <div class="brand-text">
+          <span class="brand-title">UNYSA Study Notes Library</span>
+          <span class="brand-subtitle">Structured TXT Notes • Hosted JSON Index • Searchable Access</span>
+        </div>
+      </a>
+
+      <div style="display:flex;align-items:center;gap:0.4rem;">
+        <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle navigation">☰</button>
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle theme">☾</button>
+      </div>
+
+      <nav class="nav" id="mainNav">
+        <a href="#library" class="nav-link">Library</a>
+        <a href="#about" class="nav-link">About</a>
+        <a href="#setup" class="nav-link">Setup</a>
+      </nav>
+    </div>
+  </header>
+
+  <section
+  class="hero"
+  style="
+    position: relative;
+    background: url('https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/668606901_122193942410523886_7299163138827687511_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeEbDMDwQ6AAfg7aJOWObASu1uWAFZxmnwzW5YAVnGafDFxCwVsBAFqpC2u0DxyBdEg6mu0_YdoyM89I093pbG85&_nc_ohc=4ltp5S0C4v8Q7kNvwEDFb9t&_nc_oc=Adqc2tTHphDXq2H0Zaiu3oC5-IALqUXizBFGdm8aCJ03RJ7gpEfo8mEOLLoEmJr75j8&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&_nc_gid=LH_gE555ujsVkKzkoaxKEw&_nc_ss=7a3a8&oh=00_Af3JHPuAIx8DVFeiSxQvBma-X3lo9WRbKbYnd4LHS0GFLg&oe=69DC3268') center center / cover no-repeat;
+    min-height: 560px;
+    display: flex;
+    align-items: center;
+    padding: 72px 0;
+    overflow: hidden;
+    color: #fff;
+  "
+>
+  <div
+    style="
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.35) 0%,
+        rgba(0, 0, 0, 0.55) 100%
+      );
+      z-index: 0;
+    "
+  ></div>
+
+  <div class="container hero-content" style="position: relative; z-index: 1;">
+    <div class="hero-badge">📚 Hosted Note Index Ready</div>
+    <h1 class="page-title" style="color: #fff;">
+      Study Notes by <span>Faculty, Department &amp; Module</span>
+    </h1>
+    <p class="page-subtitle" style="color: #fff;">
+      A single-file searchable library for your UNYSA TXT study notes. Designed for hosted deployment using a JSON index that references module note files.
+    </p>
+
+    <div class="search-hero-panel">
+      <div class="search-wrap">
+        <input
+          id="searchInput"
+          class="search-input"
+          type="search"
+          placeholder="Search by module code, title, faculty, department, keywords..."
+          aria-label="Search study notes"
+        />
+        <button id="searchBtn" class="search-btn" type="button">Search</button>
+      </div>
+    </div>
+
+    <div class="hero-meta">
+      <span class="hero-chip">Law</span>
+      <span class="hero-chip">Human Sciences</span>
+      <span class="hero-chip">Economics &amp; Management Sciences</span>
+      <span class="hero-chip">Education</span>
+      <span class="hero-chip">Accounting Sciences</span>
+    </div>
+  </div>
+</section>
+
+  <main class="main" id="library">
+    <div class="container">
+      <div class="layout">
+        <aside class="sidebar">
+          <div class="sidebar-section">
+            <h3 class="sidebar-title">Faculty Filters</h3>
+            <div class="filter-list" id="facultyFilters"></div>
+          </div>
+
+          <div class="sidebar-section">
+            <h3 class="sidebar-title">Department Filters</h3>
+            <div class="filter-list" id="departmentFilters"></div>
+          </div>
+
+          <div class="sidebar-section">
+            <h3 class="sidebar-title">Deployment Note</h3>
+            <div class="sidebar-note">
+              Your local Windows folders must be converted into hosted web paths (for example <strong>/notes/law/public/...</strong>) because browsers cannot directly access <strong>C:\</strong> paths after deployment.
+            </div>
+          </div>
+        </aside>
+
+        <section class="content">
+          <div class="content-header">
+            <h2 class="section-title">Available Study Notes</h2>
+            <div class="results-summary" id="resultsSummary">Preparing library…</div>
+          </div>
+
+          <div class="toolbar">
+            <select id="sortSelect" aria-label="Sort notes">
+              <option value="title-asc">Sort: Title (A–Z)</option>
+              <option value="title-desc">Sort: Title (Z–A)</option>
+              <option value="code-asc">Sort: Module Code (A–Z)</option>
+              <option value="faculty-asc">Sort: Faculty (A–Z)</option>
+            </select>
+
+            <button id="clearFiltersBtn" type="button">Clear Filters</button>
+            <button id="reloadBtn" type="button">Reload Index</button>
+          </div>
+
+          <div id="contentArea">
+            <div class="loading-state">
+              <h3>Loading notes index…</h3>
+              <p>Attempting to fetch <strong>./notes-index.json</strong></p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <section class="main" id="about" style="padding-top:0;">
+    <div class="container">
+      <div class="content-header">
+        <h2 class="section-title">About This Structure</h2>
+      </div>
+      <div class="empty-state" style="text-align:left;">
+        <p><strong>This page expects a JSON file named <code>notes-index.json</code> in the same folder as <code>index.html</code>.</strong></p>
+        <p>Each JSON entry should point to a hosted TXT file path, not a local Windows drive path.</p>
+        <p>Example hosted path:</p>
+        <pre class="note-content" style="margin:0;">/notes/law/public/PVL3703-study-notes.txt</pre>
+      </div>
+    </div>
+  </section>
+
+  <section class="main" id="setup" style="padding-top:0;">
+    <div class="container">
+      <div class="content-header">
+        <h2 class="section-title">Required JSON Structure</h2>
+      </div>
+      <div class="empty-state" style="text-align:left;">
+<pre class="note-content" style="margin:0;">[
+  {
+    "title": "Criminal Procedure Study Notes",
+    "moduleCode": "CRW2601",
+    "faculty": "Law",
+    "department": "Criminal and Procedural Law",
+    "type": "Study Notes",
+    "path": "/notes/law/criminal-and-procedural/crw2601/chapter-1.txt",
+    "chapters": 10,
+    "chapterPathPattern": "/notes/law/criminal-and-procedural/crw2601/chapter-{n}.txt",
+    "description": "Structured study notes per chapter for CRW2601.",
+    "keywords": ["criminal", "procedure", "law"]
+  }
+]</pre>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-section">
+          <h4>Source Folders Provided</h4>
+          <p>Law (Criminal &amp; Procedural, Mercantile, Private, Public)</p>
+          <p>Human Sciences</p>
+          <p>Economics &amp; Management Sciences</p>
+          <p>Education</p>
+          <p>Accounting Sciences</p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Hosting Rule</h4>
+          <p>Local source folders are for extraction only.</p>
+          <p>Hosted deployment must use web paths and a JSON index.</p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Next Recommended Step</h4>
+          <ul class="footer-list">
+            <li>Copy TXT files into a website notes folder</li>
+            <li>Generate notes-index.json automatically</li>
+            <li>Deploy to AWS / static hosting</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        UNYSA Study Notes Library • Single-file HTML interface • University blog theme with Light / Dark toggle
+      </div>
+    </div>
+  </footer>
+
+  <div class="modal" id="noteModal" aria-hidden="true">
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <h3 class="modal-title" id="modalTitle">Study Note Preview</h3>
+          <div class="modal-subtitle" id="modalSubtitle">Loading content…</div>
+        </div>
+        <button class="modal-close" id="modalClose" aria-label="Close preview">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="note-content" id="modalContent">Loading…</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    const state = {
+      notes: [],
+      filtered: [],
+      activeFaculty: "All",
+      activeDepartment: "All",
+      search: "",
+      sort: "title-asc"
+    };
+
+    const els = {
+      contentArea: document.getElementById("contentArea"),
+      facultyFilters: document.getElementById("facultyFilters"),
+      departmentFilters: document.getElementById("departmentFilters"),
+      resultsSummary: document.getElementById("resultsSummary"),
+      searchInput: document.getElementById("searchInput"),
+      searchBtn: document.getElementById("searchBtn"),
+      sortSelect: document.getElementById("sortSelect"),
+      clearFiltersBtn: document.getElementById("clearFiltersBtn"),
+      reloadBtn: document.getElementById("reloadBtn"),
+      noteModal: document.getElementById("noteModal"),
+      modalTitle: document.getElementById("modalTitle"),
+      modalSubtitle: document.getElementById("modalSubtitle"),
+      modalContent: document.getElementById("modalContent"),
+      modalClose: document.getElementById("modalClose"),
+      toast: document.getElementById("toast"),
+      mobileToggle: document.getElementById("mobileToggle"),
+      mainNav: document.getElementById("mainNav"),
+      themeToggle: document.getElementById("themeToggle")
+    };
+
+    // Fallback data: 5 faculties, 4 law departments, full list of law modules with chapters 1–10
+    const fallbackNotes = [
+      /* LAW – CRIMINAL & PROCEDURAL LAW DEPARTMENT */
+      {
+        title: "Criminal Law",
+        moduleCode: "CRIM-LAW",
+        faculty: "Law",
+        department: "Criminal and Procedural Law",
+        type: "Module",
+        path: "/notes/law/criminal-and-procedural/criminal-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/criminal-and-procedural/criminal-law/chapter-{n}.txt",
+        description: "Criminal Law module with chapters 1–10.",
+        keywords: ["criminal law", "crime", "offences"]
+      },
+      {
+        title: "Criminal Procedure",
+        moduleCode: "CRIM-PROC",
+        faculty: "Law",
+        department: "Criminal and Procedural Law",
+        type: "Module",
+        path: "/notes/law/criminal-and-procedural/criminal-procedure/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/criminal-and-procedural/criminal-procedure/chapter-{n}.txt",
+        description: "Criminal Procedure module with chapters 1–10.",
+        keywords: ["criminal procedure", "procedure", "criminal"]
+      },
+      {
+        title: "Civil Procedure",
+        moduleCode: "CIV-PROC",
+        faculty: "Law",
+        department: "Criminal and Procedural Law",
+        type: "Module",
+        path: "/notes/law/criminal-and-procedural/civil-procedure/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/criminal-and-procedural/civil-procedure/chapter-{n}.txt",
+        description: "Civil Procedure module with chapters 1–10.",
+        keywords: ["civil procedure", "procedure", "civil"]
+      },
+      {
+        title: "Law of Evidence",
+        moduleCode: "LAW-EVID",
+        faculty: "Law",
+        department: "Criminal and Procedural Law",
+        type: "Module",
+        path: "/notes/law/criminal-and-procedural/law-of-evidence/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/criminal-and-procedural/law-of-evidence/chapter-{n}.txt",
+        description: "Law of Evidence module with chapters 1–10.",
+        keywords: ["evidence", "law of evidence"]
+      },
+
+      /* LAW – PUBLIC LAW DEPARTMENT */
+      {
+        title: "Constitutional Law",
+        moduleCode: "CONST-LAW",
+        faculty: "Law",
+        department: "Public Law",
+        type: "Module",
+        path: "/notes/law/public/constitutional-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/public/constitutional-law/chapter-{n}.txt",
+        description: "Constitutional Law module with chapters 1–10.",
+        keywords: ["constitutional law", "constitution"]
+      },
+      {
+        title: "Administrative Law",
+        moduleCode: "ADMIN-LAW",
+        faculty: "Law",
+        department: "Public Law",
+        type: "Module",
+        path: "/notes/law/public/administrative-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/public/administrative-law/chapter-{n}.txt",
+        description: "Administrative Law module with chapters 1–10.",
+        keywords: ["administrative law", "administration"]
+      },
+      {
+        title: "Human Rights Law",
+        moduleCode: "HR-LAW",
+        faculty: "Law",
+        department: "Public Law",
+        type: "Module",
+        path: "/notes/law/public/human-rights-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/public/human-rights-law/chapter-{n}.txt",
+        description: "Human Rights Law module with chapters 1–10.",
+        keywords: ["human rights", "rights", "public law"]
+      },
+      {
+        title: "International Law",
+        moduleCode: "INT-LAW",
+        faculty: "Law",
+        department: "Public Law",
+        type: "Module",
+        path: "/notes/law/public/international-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/public/international-law/chapter-{n}.txt",
+        description: "International Law module with chapters 1–10.",
+        keywords: ["international law", "public international"]
+      },
+
+      /* LAW – PRIVATE LAW DEPARTMENT */
+      {
+        title: "Law of Persons",
+        moduleCode: "LAW-PERSONS",
+        faculty: "Law",
+        department: "Private Law",
+        type: "Module",
+        path: "/notes/law/private/law-of-persons/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/private/law-of-persons/chapter-{n}.txt",
+        description: "Law of Persons module with chapters 1–10.",
+        keywords: ["persons", "status"]
+      },
+      {
+        title: "Family Law",
+        moduleCode: "FAM-LAW",
+        faculty: "Law",
+        department: "Private Law",
+        type: "Module",
+        path: "/notes/law/private/family-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/private/family-law/chapter-{n}.txt",
+        description: "Family Law module with chapters 1–10.",
+        keywords: ["family law", "marriage", "divorce"]
+      },
+      {
+        title: "Law of Succession",
+        moduleCode: "SUCCESSION-LAW",
+        faculty: "Law",
+        department: "Private Law",
+        type: "Module",
+        path: "/notes/law/private/law-of-succession/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/private/law-of-succession/chapter-{n}.txt",
+        description: "Law of Succession module with chapters 1–10.",
+        keywords: ["succession", "inheritance"]
+      },
+      {
+        title: "Law of Delict",
+        moduleCode: "DELICT-LAW",
+        faculty: "Law",
+        department: "Private Law",
+        type: "Module",
+        path: "/notes/law/private/law-of-delict/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/private/law-of-delict/chapter-{n}.txt",
+        description: "Law of Delict module with chapters 1–10.",
+        keywords: ["delict", "tort"]
+      },
+      {
+        title: "Law of Damages",
+        moduleCode: "DAMAGES-LAW",
+        faculty: "Law",
+        department: "Private Law",
+        type: "Module",
+        path: "/notes/law/private/law-of-damages/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/private/law-of-damages/chapter-{n}.txt",
+        description: "Law of Damages module with chapters 1–10.",
+        keywords: ["damages"]
+      },
+      {
+        title: "Law of Enrichment",
+        moduleCode: "ENRICH-LAW",
+        faculty: "Law",
+        department: "Private Law",
+        type: "Module",
+        path: "/notes/law/private/law-of-enrichment/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/private/law-of-enrichment/chapter-{n}.txt",
+        description: "Law of Enrichment module with chapters 1–10.",
+        keywords: ["enrichment", "unjustified enrichment"]
+      },
+      {
+        title: "Law of Contract",
+        moduleCode: "CONTRACT-LAW",
+        faculty: "Law",
+        department: "Private Law",
+        type: "Module",
+        path: "/notes/law/private/law-of-contract/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/private/law-of-contract/chapter-{n}.txt",
+        description: "Law of Contract module with chapters 1–10.",
+        keywords: ["contract", "obligations"]
+      },
+
+      /* LAW – MERCANTILE LAW DEPARTMENT */
+      {
+        title: "Entrepreneurial Law",
+        moduleCode: "ENTREP-LAW",
+        faculty: "Law",
+        department: "Mercantile Law",
+        type: "Module",
+        path: "/notes/law/mercantile/entrepreneurial-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/mercantile/entrepreneurial-law/chapter-{n}.txt",
+        description: "Entrepreneurial Law module with chapters 1–10.",
+        keywords: ["entrepreneurial law", "business"]
+      },
+      {
+        title: "Labour Law",
+        moduleCode: "LABOUR-LAW",
+        faculty: "Law",
+        department: "Mercantile Law",
+        type: "Module",
+        path: "/notes/law/mercantile/labour-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/mercantile/labour-law/chapter-{n}.txt",
+        description: "Labour Law module with chapters 1–10.",
+        keywords: ["labour law", "employment"]
+      },
+      {
+        title: "Company Law",
+        moduleCode: "COMPANY-LAW",
+        faculty: "Law",
+        department: "Mercantile Law",
+        type: "Module",
+        path: "/notes/law/mercantile/company-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/mercantile/company-law/chapter-{n}.txt",
+        description: "Company Law module with chapters 1–10.",
+        keywords: ["company law", "corporate"]
+      },
+      {
+        title: "Insolvency Law",
+        moduleCode: "INSOLVENCY-LAW",
+        faculty: "Law",
+        department: "Mercantile Law",
+        type: "Module",
+        path: "/notes/law/mercantile/insolvency-law/chapter-1.txt",
+        chapters: 10,
+        chapterPathPattern: "/notes/law/mercantile/insolvency-law/chapter-{n}.txt",
+        description: "Insolvency Law module with chapters 1–10.",
+        keywords: ["insolvency", "bankruptcy"]
+      },
+
+      /* OTHER FACULTIES – SAMPLE MODULES */
+      {
+        title: "Introduction to Psychology",
+        moduleCode: "PSY-101",
+        faculty: "Human Sciences",
+        department: "Psychology",
+        type: "Study Notes",
+        path: "/notes/human-sciences/psychology/psy-101.txt",
+        description: "Sample Human Sciences module.",
+        keywords: ["human sciences", "psychology"]
+      },
+      {
+        title: "Business Management IA",
+        moduleCode: "MNB1501",
+        faculty: "Economics and Management Sciences",
+        department: "Business Management",
+        type: "Study Notes",
+        path: "/notes/ems/business-management/mnb1501.txt",
+        description: "Sample Economics and Management Sciences module.",
+        keywords: ["economics", "management"]
+      },
+      {
+        title: "Foundations of Education",
+        moduleCode: "EDU1501",
+        faculty: "Education",
+        department: "Education",
+        type: "Study Notes",
+        path: "/notes/education/edu1501.txt",
+        description: "Sample Education module.",
+        keywords: ["education"]
+      },
+      {
+        title: "Financial Accounting Principles",
+        moduleCode: "FAC1502",
+        faculty: "Accounting Sciences",
+        department: "Accounting",
+        type: "Study Notes",
+        path: "/notes/accounting-sciences/fac1502.txt",
+        description: "Sample Accounting Sciences module.",
+        keywords: ["accounting", "financial accounting"]
+      }
+    ];
+
+    async function loadNotesIndex() {
+      els.contentArea.innerHTML = `
+        <div class="loading-state">
+          <h3>Loading notes index…</h3>
+          <p>Attempting to fetch <strong>./notes-index.json</strong></p>
+        </div>
+      `;
+
+      try {
+        const res = await fetch("./notes-index.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("notes-index.json not found");
+        const data = await res.json();
+
+        if (!Array.isArray(data)) {
+          throw new Error("notes-index.json must contain an array");
+        }
+
+        state.notes = normalizeNotes(data);
+        showToast("Live notes-index.json loaded successfully.");
+      } catch (error) {
+        console.warn("Using fallback notes:", error);
+        state.notes = normalizeNotes(fallbackNotes);
+        showToast("notes-index.json not found. Using built-in law modules & sample data.");
+      }
+
+      renderFilters();
+      applyFilters();
+    }
+
+    function normalizeNotes(items) {
+      return items.map((item, index) => {
+        const keywords = Array.isArray(item.keywords)
+          ? item.keywords
+          : item.keywords
+          ? String(item.keywords).split(/\s*,\s*/)
+          : [];
+        return {
+          id: item.id || `note-${index + 1}`,
+          title: item.title || "Untitled Note",
+          moduleCode: item.moduleCode || "N/A",
+          faculty: item.faculty || "Uncategorized",
+          department: item.department || "General",
+          type: item.type || "Study Notes",
+          path: item.path || "",
+          description: item.description || "No description provided.",
+          keywords,
+          chapters: item.chapters || 0,
+          chapterPathPattern: item.chapterPathPattern || ""
+        };
+      });
+    }
+
+    function renderFilters() {
+      const faculties = ["All", ...uniqueSorted(state.notes.map(n => n.faculty))];
+      const departments = ["All", ...uniqueSorted(state.notes.map(n => n.department))];
+
+      els.facultyFilters.innerHTML = faculties.map(faculty => {
+        const count = faculty === "All"
+          ? state.notes.length
+          : state.notes.filter(n => n.faculty === faculty).length;
+
+        return `
+          <button class="filter-link ${state.activeFaculty === faculty ? 'active' : ''}" data-filter-type="faculty" data-value="${escapeHtml(faculty)}">
+            <span>${escapeHtml(faculty)}</span>
+            <span class="filter-count">${count}</span>
+          </button>
+        `;
+      }).join("");
+
+      els.departmentFilters.innerHTML = departments.map(dept => {
+        const count = dept === "All"
+          ? state.notes.length
+          : state.notes.filter(n => n.department === dept).length;
+
+        return `
+          <button class="filter-link ${state.activeDepartment === dept ? 'active' : ''}" data-filter-type="department" data-value="${escapeHtml(dept)}">
+            <span>${escapeHtml(dept)}</span>
+            <span class="filter-count">${count}</span>
+          </button>
+        `;
+      }).join("");
+
+      bindFilterEvents();
+    }
+
+    function bindFilterEvents() {
+      document.querySelectorAll('[data-filter-type="faculty"]').forEach(btn => {
+        btn.addEventListener("click", () => {
+          state.activeFaculty = btn.dataset.value;
+          renderFilters();
+          applyFilters();
+        });
+      });
+
+      document.querySelectorAll('[data-filter-type="department"]').forEach(btn => {
+        btn.addEventListener("click", () => {
+          state.activeDepartment = btn.dataset.value;
+          renderFilters();
+          applyFilters();
+        });
+      });
+    }
+
+    function applyFilters() {
+      let items = [...state.notes];
+
+      const query = state.search.trim().toLowerCase();
+
+      if (state.activeFaculty !== "All") {
+        items = items.filter(n => n.faculty === state.activeFaculty);
+      }
+
+      if (state.activeDepartment !== "All") {
+        items = items.filter(n => n.department === state.activeDepartment);
+      }
+
+      if (query) {
+        items = items.filter(n => {
+          const haystack = [
+            n.title,
+            n.moduleCode,
+            n.faculty,
+            n.department,
+            n.type,
+            n.description,
+            ...(n.keywords || [])
+          ].join(" ").toLowerCase();
+
+          return haystack.includes(query);
+        });
+      }
+
+      sortNotes(items);
+      state.filtered = items;
+      renderCards();
+      updateSummary();
+    }
+
+    function sortNotes(items) {
+      switch (state.sort) {
+        case "title-desc":
+          items.sort((a, b) => b.title.localeCompare(a.title));
+          break;
+        case "code-asc":
+          items.sort((a, b) => a.moduleCode.localeCompare(b.moduleCode));
+          break;
+        case "faculty-asc":
+          items.sort((a, b) => {
+            const facultyCompare = a.faculty.localeCompare(b.faculty);
+            return facultyCompare !== 0 ? facultyCompare : a.title.localeCompare(b.title);
+          });
+          break;
+        case "title-asc":
+        default:
+          items.sort((a, b) => a.title.localeCompare(b.title));
+          break;
+      }
+    }
+
+    function renderCards() {
+      if (!state.filtered.length) {
+        els.contentArea.innerHTML = `
+          <div class="empty-state">
+            <h3>No study notes found</h3>
+            <p>Try changing your search term or clearing filters.</p>
+          </div>
+        `;
+        return;
+      }
+
+      els.contentArea.innerHTML = `
+        <div class="cards">
+          ${state.filtered.map(note => `
+            <article class="note-card">
+              <div class="note-type">${escapeHtml(note.type)}</div>
+              <span class="note-code">${escapeAttr(note.moduleCode)}</span>
+              <h3 class="note-title">${escapeHtml(note.title)}</h3>
+
+              <div class="note-meta">
+                <span class="meta-pill">🏛 ${escapeHtml(note.faculty)}</span>
+                <span class="meta-pill">📂 ${escapeHtml(note.department)}</span>
+              </div>
+
+              <p class="note-description">${escapeHtml(note.description)}</p>
+
+              <div class="card-actions">
+                <button class="btn btn-primary" data-preview="${escapeAttr(note.id)}">View Chapters</button>
+                <button class="btn btn-secondary" data-open="${escapeAttr(note.path)}">Open First TXT</button>
+              </div>
+            </article>
+          `).join("")}
+        </div>
+      `;
+
+      bindCardEvents();
+    }
+
+    function bindCardEvents() {
+      document.querySelectorAll("[data-preview]").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const note = state.filtered.find(n => n.id === btn.dataset.preview);
+          if (note) previewNote(note);
+        });
+      });
+
+      document.querySelectorAll("[data-open]").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const path = btn.dataset.open;
+          if (!path) {
+            showToast("No TXT file path available for this note.");
+            return;
+          }
+          window.open(path, "_blank", "noopener");
+        });
+      });
+    }
+
+    async function previewNote(note) {
+      els.modalTitle.textContent = note.title;
+      els.modalSubtitle.textContent = `${note.moduleCode} • ${note.faculty} • ${note.department}`;
+      els.modalContent.textContent = "Loading note content…";
+      openModal();
+
+      // For law modules and any note with chapters, show chapter hyperlinks 1–10
+      if (note.chapters && note.chapterPathPattern) {
+        let html = `<p>Choose a chapter from <strong>${escapeHtml(note.title)}</strong>:</p>`;
+        html += `<ol class="chapter-list">`;
+        for (let i = 1; i <= note.chapters; i++) {
+          const path = note.chapterPathPattern.replace("{n}", i);
+          html += `<li><a href="${escapeAttr(path)}" target="_blank" rel="noopener">Chapter ${i}</a></li>`;
+        }
+        html += `</ol>`;
+        els.modalContent.innerHTML = html;
+        return;
+      }
+
+      // Fallback: fetch a plain TXT file
+      if (!note.path) {
+        els.modalContent.textContent = "No TXT file path was provided for this note.";
+        return;
+      }
+
+      try {
+        const res = await fetch(note.path, { cache: "no-store" });
+        if (!res.ok) throw new Error("TXT file not found");
+        const text = await res.text();
+        els.modalContent.textContent = text || "The TXT file is empty.";
+      } catch (error) {
+        els.modalContent.textContent =
+          `Unable to load TXT content from:\n${note.path}\n\nReason: ${error.message}\n\nIf hosted, ensure the TXT file exists at that web path.`;
+      }
+    }
+
+    function updateSummary() {
+      const total = state.notes.length;
+      const shown = state.filtered.length;
+
+      let summary = `${shown} of ${total} notes shown`;
+
+      if (state.activeFaculty !== "All") {
+        summary += ` • Faculty: ${state.activeFaculty}`;
+      }
+
+      if (state.activeDepartment !== "All") {
+        summary += ` • Department: ${state.activeDepartment}`;
+      }
+
+      if (state.search.trim()) {
+        summary += ` • Search: "${state.search.trim()}"`;
+      }
+
+      els.resultsSummary.textContent = summary;
+    }
+
+    function openModal() {
+      els.noteModal.classList.add("active");
+      els.noteModal.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeModal() {
+      els.noteModal.classList.remove("active");
+      els.noteModal.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    }
+
+    function showToast(message) {
+      els.toast.textContent = message;
+      els.toast.classList.add("show");
+      clearTimeout(showToast._timer);
+      showToast._timer = setTimeout(() => {
+        els.toast.classList.remove("show");
+      }, 3200);
+    }
+
+    function uniqueSorted(arr) {
+      return [...new Set(arr.filter(Boolean))].sort((a, b) => a.localeCompare(b));
+    }
+
+    function escapeHtml(str = "") {
+      return String(str)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#39;");
+    }
+
+    function escapeAttr(str = "") {
+      return escapeHtml(str);
+    }
+
+    function applyTheme(theme) {
+      document.body.setAttribute("data-theme", theme);
+      try {
+        localStorage.setItem("unysa-theme", theme);
+      } catch (e) {}
+      if (els.themeToggle) {
+        els.themeToggle.textContent = theme === "light" ? "☾" : "☀";
+        els.themeToggle.setAttribute(
+          "aria-label",
+          theme === "light" ? "Switch to dark mode" : "Switch to light mode"
+        );
+      }
+    }
+
+    function initTheme() {
+      let stored = null;
+      try {
+        stored = localStorage.getItem("unysa-theme");
+      } catch (e) {}
+      const initial = stored === "dark" || stored === "light" ? stored : "light";
+      applyTheme(initial);
+    }
+
+    function bindGlobalEvents() {
+      els.searchBtn.addEventListener("click", () => {
+        state.search = els.searchInput.value;
+        applyFilters();
+      });
+
+      els.searchInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") {
+          state.search = els.searchInput.value;
+          applyFilters();
+        }
+      });
+
+      els.sortSelect.addEventListener("change", () => {
+        state.sort = els.sortSelect.value;
+        applyFilters();
+      });
+
+      els.clearFiltersBtn.addEventListener("click", () => {
+        state.activeFaculty = "All";
+        state.activeDepartment = "All";
+        state.search = "";
+        state.sort = "title-asc";
+
+        els.searchInput.value = "";
+        els.sortSelect.value = "title-asc";
+
+        renderFilters();
+        applyFilters();
+        showToast("Filters cleared.");
+      });
+
+      els.reloadBtn.addEventListener("click", () => {
+        loadNotesIndex();
+      });
+
+      els.modalClose.addEventListener("click", closeModal);
+
+      els.noteModal.addEventListener("click", (e) => {
+        if (e.target === els.noteModal) closeModal();
+      });
+
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && els.noteModal.classList.contains("active")) {
+          closeModal();
+        }
+      });
+
+      els.mobileToggle.addEventListener("click", () => {
+        els.mainNav.classList.toggle("open");
+      });
+
+      if (els.themeToggle) {
+        els.themeToggle.addEventListener("click", () => {
+          const current = document.body.getAttribute("data-theme") || "light";
+          const next = current === "light" ? "dark" : "light";
+          applyTheme(next);
+        });
+      }
+    }
+
+    initTheme();
+    bindGlobalEvents();
+    loadNotesIndex();
+  </script>
+</body>
+</html>
+```
