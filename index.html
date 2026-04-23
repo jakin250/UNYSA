@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,6 +56,19 @@
     .container {
       width: min(100% - 2.2rem, var(--container));
       margin: 0 auto;
+    }
+
+    .site-content-shell {
+      width: min(100% - 2.2rem, calc(var(--container) + 300px + 1.5rem));
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 300px;
+      gap: 1.5rem;
+      align-items: start;
+    }
+
+    .site-main-stack {
+      min-width: 0;
     }
 
     /* HEADER */
@@ -770,6 +782,48 @@
       color: #9ca3af;
     }
 
+    .site-ad-rail {
+      position: sticky;
+      top: calc(var(--nav-height) + 1rem);
+      display: grid;
+      gap: 1rem;
+      width: 300px;
+      padding-top: 1.5rem;
+    }
+
+    .ad-slot {
+      display: block;
+      overflow: hidden;
+      border-radius: var(--radius-lg);
+      background: #ffffff;
+      border: 1px solid rgba(148, 163, 184, 0.28);
+      box-shadow: 0 18px 40px rgba(15, 23, 42, 0.14);
+      transition: transform 0.18s ease-out, box-shadow 0.18s ease-out, border-color 0.18s ease-out;
+    }
+
+    .ad-slot:hover,
+    .ad-slot:focus-visible {
+      transform: translateY(-2px);
+      box-shadow: 0 24px 48px rgba(15, 23, 42, 0.2);
+      border-color: rgba(37, 99, 235, 0.38);
+      outline: none;
+    }
+
+    .ad-slot img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .ad-slot--box {
+      aspect-ratio: 6 / 5;
+    }
+
+    .ad-slot--tall {
+      aspect-ratio: 1 / 2;
+    }
+
     /* MODAL */
 
     .modal {
@@ -888,6 +942,35 @@
     .chapter-list a:hover {
       text-decoration: underline;
       color: #bef264;
+    }
+
+    .note-page {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .note-page__actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+    }
+
+    .comments-card {
+      border-radius: var(--radius-lg);
+      padding: 1.05rem 1.1rem 1rem;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+      background: #ffffff;
+      border: 1px solid rgba(148, 163, 184, 0.25);
+    }
+
+    .comments-card h3 {
+      margin: 0 0 0.35rem;
+      color: #0f172a;
+    }
+
+    .comments-card p {
+      margin: 0 0 0.9rem;
+      color: #475569;
     }
 
     /* TOAST */
@@ -1102,6 +1185,20 @@
       border-color: #1f2937;
     }
 
+    body[data-theme="dark"] .comments-card {
+      background: radial-gradient(circle at 0 0, rgba(37, 99, 235, 0.16), rgba(15, 23, 42, 0.98));
+      border-color: rgba(59, 130, 246, 0.24);
+      box-shadow: var(--shadow-soft);
+    }
+
+    body[data-theme="dark"] .comments-card h3 {
+      color: #f8fafc;
+    }
+
+    body[data-theme="dark"] .comments-card p {
+      color: #cbd5e1;
+    }
+
     body[data-theme="dark"] .toast {
       background: linear-gradient(135deg, #020617 0%, #020617 100%);
       border-color: #1f2937;
@@ -1120,6 +1217,19 @@
     /* RESPONSIVE */
 
     @media (max-width: 900px) {
+      .site-content-shell {
+        width: min(100% - 2.2rem, var(--container));
+        grid-template-columns: 1fr;
+      }
+
+      .site-ad-rail {
+        position: static;
+        width: min(100%, 620px);
+        margin: 0 auto 2rem;
+        padding-top: 0;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
       .nav {
         display: none;
         position: absolute;
@@ -1149,6 +1259,16 @@
     }
 
     @media (max-width: 700px) {
+      .site-content-shell {
+        width: min(100% - 1rem, var(--container));
+        gap: 1rem;
+      }
+
+      .site-ad-rail {
+        width: 100%;
+        grid-template-columns: 1fr;
+      }
+
       .search-hero-panel {
         border-radius: 16px;
       }
@@ -1269,6 +1389,8 @@
   </div>
 </section>
 
+  <div class="site-content-shell">
+  <div class="site-main-stack">
   <main class="main" id="library">
     <div class="container">
       <div class="layout">
@@ -1391,6 +1513,24 @@
       </div>
     </div>
   </footer>
+
+  </div>
+
+  <aside class="site-ad-rail" aria-label="Advertising spaces">
+    <a class="ad-slot ad-slot--box" href="https://selar.com/m/umthethx1985756" target="_blank" rel="noopener noreferrer" aria-label="Advertisement space 1, 300 by 250">
+      <img src="assets/ads/ad-300x250-1.png" alt="Advertisement space 1, 300 by 250" loading="lazy">
+    </a>
+    <a class="ad-slot ad-slot--box" href="https://selar.com/m/umthethx1985756" target="_blank" rel="noopener noreferrer" aria-label="Advertisement space 2, 300 by 250">
+      <img src="assets/ads/ad-300x250-2.png" alt="Advertisement space 2, 300 by 250" loading="lazy">
+    </a>
+    <a class="ad-slot ad-slot--tall" href="https://www.amazon.com/dp/B0G4F6LVWG?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin" target="_blank" rel="noopener noreferrer" aria-label="Advertisement space 3, 300 by 600">
+      <img src="assets/ads/ad-300x600-1.png" alt="Advertisement space 3, 300 by 600" loading="lazy">
+    </a>
+    <a class="ad-slot ad-slot--tall" href="https://www.amazon.com/dp/B0G4F6LVWG?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin" target="_blank" rel="noopener noreferrer" aria-label="Advertisement space 4, 300 by 600">
+      <img src="assets/ads/ad-300x600-2.png" alt="Advertisement space 4, 300 by 600" loading="lazy">
+    </a>
+  </aside>
+  </div>
 
   <div class="modal" id="noteModal" aria-hidden="true">
     <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
@@ -1746,6 +1886,12 @@
         showToast("notes-index.json not found. Using built-in law modules & sample data.");
       }
 
+      const activeNote = getActiveNoteFromUrl();
+      if (activeNote) {
+        await renderNotePage(activeNote);
+        return;
+      }
+
       renderFilters();
       applyFilters();
     }
@@ -1907,7 +2053,7 @@
               <p class="note-description">${escapeHtml(note.description)}</p>
 
               <div class="card-actions">
-                <button class="btn btn-primary" data-preview="${escapeAttr(note.id)}">View Chapters</button>
+                <button class="btn btn-primary" data-preview="${escapeAttr(note.id)}">Open Study Note</button>
                 <button class="btn btn-secondary" data-open="${escapeAttr(note.path)}">Open First TXT</button>
               </div>
             </article>
@@ -1938,40 +2084,118 @@
       });
     }
 
-    async function previewNote(note) {
-      els.modalTitle.textContent = note.title;
-      els.modalSubtitle.textContent = `${note.moduleCode} • ${note.faculty} • ${note.department}`;
-      els.modalContent.textContent = "Loading note content…";
-      openModal();
+    function buildNoteUrl(note) {
+      return `?note=${encodeURIComponent(note.id)}`;
+    }
 
-      // For law modules and any note with chapters, show chapter hyperlinks 1–10
+    async function loadNoteText(note) {
       if (note.chapters && note.chapterPathPattern) {
-        let html = `<p>Choose a chapter from <strong>${escapeHtml(note.title)}</strong>:</p>`;
-        html += `<ol class="chapter-list">`;
+        const chunks = [];
+
         for (let i = 1; i <= note.chapters; i++) {
           const path = note.chapterPathPattern.replace("{n}", i);
-          html += `<li><a href="${escapeAttr(path)}" target="_blank" rel="noopener">Chapter ${i}</a></li>`;
+
+          try {
+            const res = await fetch(path, { cache: "no-store" });
+            if (!res.ok) throw new Error(`TXT file not found for chapter ${i}`);
+            const text = await res.text();
+            chunks.push(`CHAPTER ${i}\n\n${text || "Chapter file is empty."}`);
+          } catch (error) {
+            chunks.push(`CHAPTER ${i}\n\nUnable to load TXT content from:\n${path}\n\nReason: ${error.message}`);
+          }
         }
-        html += `</ol>`;
-        els.modalContent.innerHTML = html;
-        return;
+
+        return chunks.join("\n\n" + "=".repeat(72) + "\n\n");
       }
 
-      // Fallback: fetch a plain TXT file
       if (!note.path) {
-        els.modalContent.textContent = "No TXT file path was provided for this note.";
-        return;
+        return "No TXT file path was provided for this note.";
       }
 
       try {
         const res = await fetch(note.path, { cache: "no-store" });
         if (!res.ok) throw new Error("TXT file not found");
         const text = await res.text();
-        els.modalContent.textContent = text || "The TXT file is empty.";
+        return text || "The TXT file is empty.";
       } catch (error) {
-        els.modalContent.textContent =
-          `Unable to load TXT content from:\n${note.path}\n\nReason: ${error.message}\n\nIf hosted, ensure the TXT file exists at that web path.`;
+        return `Unable to load TXT content from:\n${note.path}\n\nReason: ${error.message}\n\nIf hosted, ensure the TXT file exists at that web path.`;
       }
+    }
+
+    function mountComments(note) {
+      const commentsMount = document.getElementById("commentsMount");
+      if (!commentsMount) {
+        return;
+      }
+
+      commentsMount.innerHTML = "";
+
+      const script = document.createElement("script");
+      script.src = "https://utteranc.es/client.js";
+      script.async = true;
+      script.crossOrigin = "anonymous";
+      script.setAttribute("repo", "jakin250/UNYSA");
+      script.setAttribute("issue-term", "specific-term");
+      script.setAttribute("term", `study-note:${note.id}`);
+      script.setAttribute("label", "comments");
+      script.setAttribute(
+        "theme",
+        document.body.getAttribute("data-theme") === "dark" ? "github-dark" : "github-light"
+      );
+      commentsMount.appendChild(script);
+    }
+
+    async function renderNotePage(note) {
+      els.resultsSummary.textContent = `${note.moduleCode} • ${note.faculty} • ${note.department}`;
+      els.contentArea.innerHTML = `
+        <article class="note-page">
+          <div class="content-header">
+            <div>
+              <h2 class="section-title">${escapeHtml(note.title)}</h2>
+              <div class="results-summary">${escapeHtml(note.moduleCode)} • ${escapeHtml(note.faculty)} • ${escapeHtml(note.department)}</div>
+            </div>
+            <div class="note-page__actions">
+              <button class="btn btn-secondary" type="button" id="backToLibraryBtn">Back to Library</button>
+              <button class="btn btn-primary" type="button" id="openRawTxtBtn">Open Source TXT</button>
+            </div>
+          </div>
+          <div class="empty-state" style="text-align:left;">
+            <p>${escapeHtml(note.description)}</p>
+          </div>
+          <pre class="note-content" id="standaloneNoteContent">Loading study note…</pre>
+          <section class="comments-card">
+            <h3>Comments</h3>
+            <p>Readers can discuss this study note using GitHub-powered comments.</p>
+            <div id="commentsMount"></div>
+          </section>
+        </article>
+      `;
+
+      document.getElementById("backToLibraryBtn")?.addEventListener("click", () => {
+        const url = new URL(window.location.href);
+        url.searchParams.delete("note");
+        window.history.pushState({}, "", url.toString());
+        applyFilters();
+      });
+
+      document.getElementById("openRawTxtBtn")?.addEventListener("click", () => {
+        if (!note.path) {
+          showToast("No TXT file path available for this note.");
+          return;
+        }
+        window.open(note.path, "_blank", "noopener");
+      });
+
+      document.getElementById("standaloneNoteContent").textContent = await loadNoteText(note);
+      mountComments(note);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    async function previewNote(note) {
+      const url = new URL(window.location.href);
+      url.searchParams.set("note", note.id);
+      window.history.pushState({}, "", url.toString());
+      await renderNotePage(note);
     }
 
     function updateSummary() {
@@ -1993,6 +2217,15 @@
       }
 
       els.resultsSummary.textContent = summary;
+    }
+
+    function getActiveNoteFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      const noteId = params.get("note");
+      if (!noteId) {
+        return null;
+      }
+      return state.notes.find((note) => note.id === noteId) || null;
     }
 
     function openModal() {
@@ -2045,6 +2278,11 @@
           theme === "light" ? "Switch to dark mode" : "Switch to light mode"
         );
       }
+
+      const activeNote = getActiveNoteFromUrl();
+      if (activeNote && document.getElementById("commentsMount")) {
+        mountComments(activeNote);
+      }
     }
 
     function initTheme() {
@@ -2057,6 +2295,15 @@
     }
 
     function bindGlobalEvents() {
+      window.addEventListener("popstate", async () => {
+        const activeNote = getActiveNoteFromUrl();
+        if (activeNote) {
+          await renderNotePage(activeNote);
+        } else {
+          applyFilters();
+        }
+      });
+
       els.searchBtn.addEventListener("click", () => {
         state.search = els.searchInput.value;
         applyFilters();
@@ -2123,4 +2370,3 @@
   </script>
 </body>
 </html>
-```
