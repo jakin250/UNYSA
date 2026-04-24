@@ -1,0 +1,1372 @@
+# PLS2607 Study Notes
+
+## Part A: Science, Philosophy, and Philosophy of Science
+
+### Study Unit 1: Introduction to Philosophy of Science
+- **Definition**: Exploration of the relationships between reality, science, and philosophy.
+- **Importance**: Understanding underlying philosophical questions enhances scientific practice.
+
+### Study Unit 2: Objectivity and Value-Free Science
+- **Objectivity**: The principle that science should be free from personal biases.
+- **Value-Free Science**: The assertion that science can operate independently of moral or political values.
+
+---
+
+## Part B: Philosophy of Science in the Early 20th Century
+
+### Study Unit 3: The Vienna Circle and Logical Positivism
+- **Vienna Circle**: Group advocating for a formalistic approach to philosophy.
+- **Logical Positivism**: Emphasizes empirical verification of statements; rejects metaphysics.
+
+---
+
+## Part C: Philosophy of Science in the Late 20th Century
+
+### Study Unit 4: Induction, Popper, and Falsificationism
+- **Induction Problem**: Challenges in deriving universal laws from specific instances.
+- **Karl Popper**: Introduced **Falsificationism** as a criterion for demarcating science from non-science.
+
+### Study Unit 5: Kuhn, Scientific Revolutions, and Paradigms
+- **Thomas Kuhn**: Proposed the concept of paradigms in scientific progress.
+- **Scientific Revolutions**: Occur when paradigms shift after crises in prevailing theories.
+
+### Study Unit 6: Scientific Development and Research Programmes: Lakatos and Feyerabend
+- **Imre Lakatos**: Introduced the idea of research programmes with a hard core and protective belt.
+- **Paul Feyerabend**: Argued against methodological monism in favor of epistemological anarchism.
+
+---
+
+## Part D: A New Way Forward for Philosophy of Science?
+
+### Study Unit 7: Socially Relevant Philosophy of Science: Feminist and African Philosophy of Science
+- **Feminist Philosophy**: Examines how gender affects scientific knowledge and practice.
+- **African Philosophy**: Focuses on indigenous knowledge systems and critiques Eurocentric views.
+
+---
+
+## Conclusion
+- Philosophy of science is dynamic; ongoing reflection and debate are essential for scientific advancement.
+
+---
+
+## Glossary
+- Terms such as **ontology** and **falsificationism** explained for foundational understanding.
+
+## Bibliography
+- Suggested readings for deeper insights; not compulsory but recommended for further study.
+----- END OF CHUNK -----
+# PLS2607/1 Study Notes
+
+## FOREWORD
+- Use examples to illustrate terminology and problem addressed in questions.
+- Critiques of issues in prescribed material are crucial for marks above 60%.
+  
+### Marking Rubric for Assessments
+- **0–40%: POOR**
+  - Lack of understanding of the question.
+  
+- **41–49%: WEAK**
+  - Insufficient explanation and evaluation of arguments.
+  
+- **50–59%: SATISFACTORY**
+  - Needs practice in reasoning skills.
+  
+- **60–69%: VERY SATISFACTORY**
+  - Good grasp but needs detail on key points.
+  
+- **70–74%: GOOD**
+  - Requires deeper analysis of arguments.
+  
+- **75%+: EXCELLENT**
+
+## The Examination
+- **Timing:** MAY/JUNE (Semester 1) and OCTOBER/NOVEMBER (Semester 2).
+- **Format:** Two-hour examination with four essay-type questions, answer two.
+
+### Comments on Writing the Examination
+- Structure similar to assignment questions.
+- Read the entire paper before answering.
+- Exposition should be followed by a critical discussion.
+- Use examples to illustrate points.
+
+# PART A: SCIENCE, PHILOSOPHY, AND PHILOSOPHY OF SCIENCE
+
+## CONTENT
+- **STUDY UNIT 1:** Introduction to Philosophy of Science (Page 2)
+- **STUDY UNIT 2:** Objectivity and Value-Free Science (Page 11)
+
+## STUDY UNIT 1: Introduction to Philosophy of Science
+
+### Outcomes
+- Reflective and analytical dealings with science.
+- Differentiate “science” vs. “philosophy of science”.
+- Locate philosophy of science as a continuation of natural philosophy.
+- Distinguish between natural science and social science.
+
+### 1.1 WHAT IS “SCIENCE” AND “PHILOSOPHY OF SCIENCE”?
+- Distinction between practice of science and critical reflection.
+- Problem of demarcation: What constitutes science vs. non-science.
+  - **Cited Work:** Bortolotti (2008).
+- Logical positivists’ view emphasizes empirical methods.
+- **Counters:** Feyerabend's opposition to methodological hierarchy.
+
+### 1.2 THE DEVELOPMENT OF THE PHILOSOPHY OF SCIENCE FROM NATURAL PHILOSOPHY
+- Historical roots in Greek natural philosophy.
+- Prior to the 18th century, “scientia” encompassed both philosophy and science.
+- Key figures: Newton viewed his work as philosophy.
+- Separation of psychology and computer science from philosophy.
+- Continuity of knowledge: science and metaphysics might overlap (McMullin 1981).
+- **Example:** Recent cosmological research by Hawking and Mlodinow engages philosophical concepts.
+
+### 1.3 PHILOSOPHY IN SCIENCE
+- Complexity in defining and categorizing science.
+- **Demarcation Issues:**
+  - Homeopathy and acupuncture: are they scientific?
+  - Distinction between astronomy and astrology.
+- Considerations for demarcating science from non-science. 
+
+**Diagrams Reference:** (Include diagram references as necessary based on the text's context).
+----- END OF CHUNK -----
+# PLS2607/1
+
+## STUDY UNIT 1: Introduction to philosophy of science
+
+- Relation between sciences and life-world.
+- Scientific researchers: discovery of truths vs. production of theories; possible unknowability of the "real" world.
+- Progressive descriptions of unknowable reality?
+- Science and historical development.
+  - Haldane’s critique of Hawking and Mlodinow (2011:44): intersection of physical science and metaphysical problems.
+
+### 1.4 NATURAL SCIENCE AND SOCIAL SCIENCE
+
+- Science: systematised knowledge; results must be verifiable via stated methodology.
+- Distinction between natural and social sciences:
+  - Natural sciences: inanimate nature, plant/animal worlds.
+  - Social sciences: human life dimensions (psychology, sociology, anthropology, etc.).
+- Social scientists must consider subjects' interpretations and their belief systems.
+- Natural scientists: focus not complicated by subjective interpretations.
+
+### 1.5 PHILOSOPHY OF SCIENCE
+
+- Definition: the structure of scientific theories and nature of scientific explanation (Ruetsche 2006:555).
+- Concerns the validity of scientific knowledge; questions include:
+  - Methods of science.
+  - Facts, laws, and theories.
+  - Concept of truth in science.
+  - Progress of science.
+  - Scientific process composition.
+- Challenges to positivism: scientific knowledge is tentative, influenced by social/cultural factors, and informed by the scientist's subjectivity.
+- Philosophical analysis vs. scientific statements; natural laws example (Galileo).
+- Historical context and social influences on scientific development (Kuhn).
+
+### 1.6 CONCLUSION
+
+- Historical overview of thought paths: logical positivism (Vienna Circle), responses by Popper, Kuhn, Lakatos, Feyerabend.
+- Examination of "neutral" science and the context of philosophy of science in Africa.
+
+### REFLECTION
+
+- Difference between scientists and technologists in article publication motives.
+- Problems classified under philosophy of technology.
+- Relation between scientific progress and technical requirements.
+- Classification of excerpts into science, technology, or philosophy of science:
+  - a) Tycho Brahe: astronomy context.
+  - b) Moral views: ethics in science/technology.
+  - c) Newton’s method: philosophy of science.
+  - d) FM transmission sensitivity: technology.
+  - e) Scientific dishonesty: principles of science.
+
+### LEGISLATION AND CASES
+- **Haldane v. Hawking and Mlodinow** (2011): Discussion of the boundary between physical science and metaphysical inquiries.
+
+### DIAGRAM REFERENCES
+- Historical context and influence on scientific knowledge development.
+----- END OF CHUNK -----
+# PLS2607/1
+## 2 STUDY UNIT 2
+### Objectivity and value-free science
+*Quote by Heinz von Foerster: “Objectivity is a subject’s delusion that observing can be done without him...”*
+
+#### OUTCOMES
+- Analyze the presented problem of "objective" science.
+- Identify subjective and social factors in the generation of scientific knowledge.
+- Analyze science as a product of human engagement.
+- Explain the "value-laden" nature of science.
+
+### 2.1 THE OBJECTIVE SCIENTIST
+- Science holds high prestige compared to other institutions.
+- Traditional view: science as an objective, value-free activity; scientists portrayed as unbiased.
+- Trust in scientists stems from their perceived credibility over others (e.g., politicians).
+- Scientific conclusions are seen as products of the scientific method; believed to be free from ideology or prejudice.
+
+### 2.2 THE LOGIC OF SCIENCE
+- Importance of understanding scientific thought processes.
+- The scientific method is seen as giving science its character and standing.
+- Science regarded as rational: it effectively achieves discovery, explanation, and predictions.
+- Claiming something is scientific gives it merit and reliability.
+- Questions arise about the universality of rationality in science.
+
+### 2.3 THE QUESTION OF “OBJECTIVITY”
+- Belief in scientific inquiry as inherently objective.
+- Prestige stems from perceived objectivity; objectivity defined through various lenses:
+  - Accurate description of natural facts (scientific realism).
+  - Objectivity derived from non-arbitrary, non-subjective criteria in hypothesis development (Longino 1998).
+- According to Popper:
+  - Scientific objectivity entails posing refutable hypotheses, testing them, and unambiguously reporting results.
+- Objectivity achieved through critical scrutiny and peer review.
+- Four criteria for an objectively operating scientific community (Longino 1998):
+  1. Recognized avenues for criticism.
+  2. Shared standards for critics.
+  3. Serious consideration of criticism by the community.
+  4. Equal intellectual authority among qualified practitioners.
+
+### 2.4 IS “VALUE-FREE SCIENCE” POSSIBLE?
+- The assumption of value-free science is debated.
+- Hume's assertion: "ought cannot be derived from is," emphasizing the disconnect between facts and values.
+- Ideal of value-free science posits that science should describe "what is" rather than "what ought to be."
+- Hugh (1999:1) identifies two aspects of value-free science:
+  1. Interaction of values with theory choice and consequences from accepted theories.
+  2. The role of science in serving projects that express values.
+- Methodologies and scientific inferences should be value-free.
+- Common argument for value-free science: Science should be objective. 
+
+### Diagram References
+- Refer to diagrams showing relationships between objectivity, scientific method, and values in science (if applicable).
+----- END OF CHUNK -----
+# PLS2607/1 Study Notes
+
+## STUDY UNIT 2: Objectivity and Value-Free Science
+- **Premise 2**: Values are not objective.
+- **Conclusion**: Values shouldn't influence science.
+  - Contested by arguing that values could be objective.
+  
+- **Contamination Premise**: Introduction of non-objective elements leads to a non-objective subject (Nozick 2001:298).
+
+- **Accepted View**:
+  - Science's alleged value-free nature is criticized (Wing 2003:1809, Harding 1991, Holtzman 1981, Kuhn 1970).
+    - Methods shaped by social contexts.
+    - Scientific concepts and models are cultural products.
+    - Scientists' perspectives are socially formed.
+  
+- **Debates**:
+  - Nature of scientific rationality, change, realism, culture, and gender’s roles tied to values in science.
+  - Ethno-epistemologies view all knowledge as culture-embedded and value-laden.
+
+- **Reflection Points**:
+  1. Objectivity as a core scientific value reflects inherent value-laden nature.
+  2. Questioning objectivity’s integrity challenges science's authoritative knowledge status.
+  3. Compare Nozick, Longino, and Popper's views on objectivity.
+
+## PART B: PHILOSOPHY OF SCIENCE IN THE EARLY 20TH CENTURY
+### CONTENTS
+- **STUDY UNIT 3**: The Vienna Circle and Logical Positivism (Page 20)
+
+### STUDY UNIT 3: The Vienna Circle and Logical Positivism
+- **Notable Quote**: “The Scientific Method harvests evidence... Unfortunately, that engine is literally fabulous.” (Bogen 2002:128)
+
+- **Outcomes**:
+  - Discuss logical positivism’s historical context.
+  - Appreciate observation in empirical theory development.
+  - Distinction between theoretical and observational languages.
+  - Critical analysis of instrumentalism and realism in scientific theories.
+
+#### 3.1 OBSERVATION AND THE LAWS OF NATURE
+- Observations are selective; influenced by experience and context.
+- Example: Visual interpretation varies based on prior knowledge (William Ely Hill’s drawing).
+
+- **Broad Definition of Observation** (Chalmers 2009:1):
+  - Involves sight, hearing, touch, and prior knowledge influences perception.
+
+- Historical Perspective:
+  - Early 20th-century: belief in objective empirical data collection (Vienna Circle).
+  
+- **Thus**: Observation is influenced by understanding and social context; perceived facts are not neutral.
+
+- **Reflection Points**:
+  - Prior knowledge shapes observational meaning.
+  - All empirical facts can invite questions based on worldview acceptance.
+
+### Additional Notes:
+- **Diagram References**: Consider visualizing the relationship between observation and interpretation in the context of scientific inquiry.
+
+----- END OF CHUNK -----
+# PLS2607/1 
+
+## STUDY UNIT 3: The Vienna Circle and Logical Positivism
+
+### 3.1 The Nature of Scientific Laws
+- Scientific laws assumed to be universal; represent propositions about classes of objects/phenomena.
+- Laws are used to derive specific conclusions based on propositions about special circumstances.
+  
+#### Recognizing Laws of Nature
+- Distinctions from other universal propositions.
+- Examination of various propositions (e.g. the moon as the earth’s only satellite, gas pressure-volume relationship) leads to classification of laws.
+  
+#### Forms of Laws
+- Laws typically presented as generalizations.
+- Not all generalizations equate to laws (e.g., statistical/empirical truths versus laws).
+- **Key Examples**: 
+  - (3), (5), (7), (8) identified as laws of nature.
+
+#### Problems with Generalizations
+- Issues with claiming universality and validity over time and context.
+- Belief in the correlation between causes and effects (Hume's perspective on causation).
+  
+#### Approaches to Distinguish Laws from Accidental Generalizations
+- **Universal vs. Accidental Validity**: 
+  - Laws universally valid (e.g., mortality vs. accident of age).
+- **Role in a System**: 
+  - Laws serve specific functions within scientific theories.
+  
+#### Experimental vs. Theoretical Laws
+- Experimental laws can be directly falsified by empirical observations (e.g., Kepler's law).
+- Theoretical laws (e.g., law of energy conservation) are intertwined with broader scientific theories.
+
+### 3.2 The Hierarchy of Science
+- Science as a developing system, not merely a collection of statements.
+  
+#### Levels in the Hierarchy
+- **Empirical Data**: 
+  - Foundation of scientific observations.
+  - Examples of empirical statements regarding rainbows.
+- **Induction Produces Generalization**: 
+  - Empirical observations lead to universal statements (e.g., "All rainbows have seven colours").
+
+#### Criteria for Scientific Theories
+- **Empirical Adequacy**: 
+  - Success of empirical tests aligns with theoretical terms.
+- **Logical Criteria**: 
+  - Unifying power of theories enhances explanatory range.
+- **Predictive Power**: 
+  - Theories should predict phenomena beyond limited observations.
+
+### 3.3 The Logical Positivists
+- Evolution of logical positivism in the early 20th century led by figures like Carnap and Hempel.
+  
+#### Core Principles of Logical Positivism
+- Rejection of metaphysics and ethics as unverifiable.
+- Knowledge sources: logical reasoning (analytic a priori) and empirical experience (synthetic a posteriori).
+- **Verifiability Principle**: 
+  - A statement is meaningful only if verifiable through experience.
+  
+#### Role of Science versus Philosophy
+- Philosophy reduced to clarifying linguistic meanings, while science addresses empirical reality.
+- Scientific theories as systems obtaining empirical interpretations via linguistic statements.
+
+#### Structure of Scientific Theories
+- **Distinction of Terms**: 
+  - Observational vs. theoretical terms.
+- **Analytic and Synthetic Statements**: 
+  - Analytic statements are true based on language; synthetic require experience to validate.
+
+---
+
+### Diagram References
+- Consider structuring the hierarchy of science and the distinctions within scientific theories in diagrams for clarity.
+
+### Key Legislation and Cases
+- N/A (Focus on philosophical concepts rather than legal developments). 
+
+**End of Study Unit 3 Notes**
+----- END OF CHUNK -----
+# PLS2607/1 
+## STUDY UNIT 3: The Vienna Circle and Logical Positivism
+
+### 3.1 Empirical Meaning and Theoretical Terms
+- **Rules of Correspondence**: Provide empirical meaning to theoretical terms; analytic.
+- **Theoretical Axioms**: Express observational portion of theory; synthetic.
+- Deductive system required for formal distinction of sentences and terms.
+- **Verifiability Principle**: Statement meaningful if verifiable relative to reality; non-verifiable statements (e.g., quantum particles) considered meaningless.
+
+### 3.2 Approaches to Verifiability
+- **Schlick (1931)**: Scientific principles as rules of inference; problem of meaning resolved.
+- **Neurath (1931)**: Terms of abstract language defined via restricted, observable language.
+- Shift to acceptance of observational vs. theoretical terms.
+- **Carnap's Realization**: Theoretical terms indeterminable by observational terms; proposed reduction; ultimate elimination of theoretical terms.
+
+### 3.3 Observation and Theory
+- **Two-Language View of Science**: Science represents reality using observation language and theoretical language.
+  - **Observation Language**: Reflects sense experience; describes phenomena (weight, color, shape, size).
+  - **Theoretical Language**: Invented terms (wavelength, atomic weight) for unobservable phenomena (atoms, molecules).
+- Science aims to organize experiential data for explanation and prediction; significant advances through theoretical laws.
+  - **Example by Hempel (1965)**: Laws like “Wood floats on water and iron sinks” revised via theoretical term “specific gravity”: s = w/v.
+
+### 3.4 Positivist Theory Structure
+- Positivists classify terms: observational vs. theoretical.
+- Theory depicted as rules (correspondence rules) where empirical data linked to logical calculus.
+- **Scientific Theory**: Linguistic representation of human experience, capturing causal regularities in phenomena (Klee 1999).
+- **Interpretation of Terms**:
+  - Observational terms interpreted independently; theoretical terms gain meaning through correspondence rules.
+  - Indeterminacy issues affect both types of terms; clear observational/theoretical distinction problematic.
+
+### 3.5 Critique of Two-Language Structure
+- **Popper**: All scientific concepts are hypothetical; every assertion entails hypotheses.
+- **Quine**: Critiqued both observational/theoretical and analytic/synthetic distinctions.
+- **Hempel**: Denied existence of observational terms; all observations mediated; terms theory-laden.
+- **Carnap**: Emphasis on empirical laws directly confirmable vs theoretical laws only testable through empirical consequences.
+
+### 3.6 Synthetic, Analytic, A Priori and A Posteriori Statements
+- **Analytic vs. Synthetic Statements**: Analytic true by definition; synthetic defined beyond their terms.
+- **Verifiability Principle**: Synthetic a priori statements lack meaning if not observed; assertions are either synthetic a posteriori or analytic a priori.
+- Carnap's solution: Analyze theoretical terms against observational practices, separating synthetic from analytic statements.
+
+### 3.7 Realism and Instrumentalism
+- **Realism**: Claims entities exist independent of human perception; knowledge claims about reality possible.
+  - **Scientific Realism**: Theories describe reality beyond observation; access to unbiased objects/properties.
+  - Causal connections between theories and entities suggest likely truth of a theory.
+  
+- **Instrumentalism**: Contrasts realism; scientific theories viewed as mental constructs for organizing observable phenomena, relying on sensory observation for reality. 
+
+**Critical Realism**: Recognizes subjective experience in developing scientific theory.
+
+### Points to Ponder (Omitted) 
+- Consider implications of theoretical frameworks and their critiques.
+- Explore relationships between terms and statements.
+- Assess roles of theory in scientific explanation and representation of reality.
+----- END OF CHUNK -----
+# PLS2607/1
+
+## STUDY UNIT 3: The Vienna Circle and logical positivism
+
+### Key Concepts
+- **Instrumentalism Overview**
+  - Theories regarded as tools for handling observational statements.
+  - Science explains sensory observations through theories.
+  - Theories must fit what is observed, termed “saving the phenomena”.
+  - Useful theories don’t need to assume unobservable realities.
+
+- **Critique of Realism**
+  - Doubts the existence of reality beyond scientific theories.
+  - Scientific theories are seen as effective predictions rather than truths.
+
+### Perspectives on Reality
+- **Instrumentalist Stance**
+  - Belief in observable phenomena, questioning the existence of the unobservable.
+  - The instrumentalist must adapt perceptions of reality to sensory data.
+
+- **Theory Development**
+  - Theories codify observable phenomena efficiently without making claims about underlying reality.
+
+### Integration of Realism and Instrumentalism
+- Both perspectives considered valid; neither entirely contrary.
+- History of scientific theory illustrates the evolution from false theories to accepted truths (e.g., atomic theory).
+
+### Theoretical Language in Science
+- **Need for Theoretical Language**
+  - Scientists must use theoretical terms to express observations and findings.
+  - Everyday language lacks precision in scientific contexts.
+  
+- **Continuity between Science and Daily Life**
+  - Common terms may reflect theoretical foundations (e.g., temperature, acidity).
+
+---
+
+## PART C: PHILOSOPHY OF SCIENCE IN THE LATE 20TH CENTURY
+
+### CONTENTS
+- **STUDY UNIT 4:** Induction, Popper and falsificationism - Page 40
+- **STUDY UNIT 5:** Kuhn, scientific revolutions and paradigms - Page 72
+- **STUDY UNIT 6:** Scientific development and research programmes: Lakatos and Feyerabend - Page 90
+
+---
+
+## STUDY UNIT 4: Induction, Popper and falsificationism
+
+### Key Quote
+- “The criterion of the scientific status of a theory is its falsifiability, or refutability, or testability.” – **Karl Popper (2009:474)**
+
+### Induction Concepts
+- **Hypothesis Formation**
+  - Tentative propositions arising from observations.
+  - Used for developing scientific understanding.
+  
+- **Example of Hypothesis Development**
+  - Generalizations based on specific observations (e.g., metals expanding when heated).
+
+### Outcomes
+- Define induction's role in scientific theory.
+- Evaluate arguments supporting induction.
+- Discuss **David Hume's** "problem of induction".
+- Appraise **Popper's** demarcation problem and falsificationism.
+- Relate realism to induction challenges.
+----- END OF CHUNK -----
+# PLS2607/1
+
+## STUDY UNIT 4: Induction, Popper and Falsificationism
+
+### 4.1 Induction
+- **Induction Process:**
+  - Symbolization of observations: Object a (Fa), Object b (Fb) => Hypothesis: All objects possess quality F.
+  - Inductive generalization proceeds from specific instances to universal conclusions.
+  
+- **Forms of Induction:**
+  - **Statistical Generalization:**
+    - Example: Testing population for blood group A; if 10% of tested population belongs to blood group A, we generalize that 10% of the entire population may belong.
+  - **Analogy:**
+    - Example: Similarities between Mars and Earth imply potential for life on Mars.
+  - **Statistical Analogies:**
+    - Example: 20% of women smoking during pregnancy leading to babies with low birth weight suggests similar outcomes for the broader population.
+
+### 4.2 Arguing for Induction: Francis Bacon (1561–1626)
+- **Definition of Induction:** (Bortolotti 2008:170)
+  - Scientific reasoning based on observations leading to generalizations.
+  
+- **Bacon’s Inductivism:**
+  - Inductive methodology focused on specific observations to derive general conclusions.
+  - Critique of syllogisms for straying from experiential knowledge.
+  
+- **Replicability in Science:**
+  - Emphasis on observation leading to confirmable laws and theories.
+  
+- **Induction vs. Deduction:**
+  - Induction generates new knowledge; deduction confirms knowledge (universal premises leading to particular conclusions).
+
+### 4.3 The “Problem” of Induction: David Hume (1711–1776)
+- **Critique of Induction:**
+  - Hume posits that induction lacks rational justification, arguing against the assumption that universal principles can be derived from particular observations.
+  
+- **Key Problems of Induction:**
+  - **Uniformity of Nature:**
+    - Assumptions about consistent natural laws cannot be verified; e.g., the sun rising.
+  - **Cause-and-Effect Reasoning:**
+    - Assumptions about causal connections may transcend observable evidence; e.g., discovering a watch on a deserted island does not confirm human presence as a cause.
+
+### 4.3.1 The Problem of the Uniformity of Nature
+- Hume questions reliance on uniformity for future predictions; the acceptance of future events remains unverified until they occur.
+
+### 4.3.2 The Problem of Cause-and-Effect Reasoning
+- Relationship between observed fact and inferred conclusion may not reflect actuality; assumptions may rely on unobserved connections. 
+
+### Points to Ponder
+- Define “induction” with examples.
+- Differentiate between induction and deduction.
+- Evaluate rational justification for inductive conclusions.
+----- END OF CHUNK -----
+# PLS2607/1
+## STUDY UNIT 4: Induction, Popper and falsificationism
+
+### 4.1 Hume's Critique of Induction
+- **Principle of Imagination**: Reason, not experience, infers conclusions.
+- **Hume's Argument**: Cause and effect seen as unrelated; reality composed of causes without discernible effects (Hume 2009:221).
+- **Billiards Example**: Various outcomes possible from one cause; cause-effect relationships require observation (Hume 2009:221).
+
+### 4.2 The Problem of Reliance on Past Experience
+- **Inductive Inference**: Past experiences can inform future predictions but do not guarantee truth (Hume 2009:223).
+- **Assumptions in Inductivism**: Knowledge based solely on past experience lacks absolute certainty (Hume 2009:224).
+
+### 4.3 The Swans Example
+- **Historical Conclusion**: Premise that “all swans are white” based on observation lacks universality.
+- **Counterexample**: Discovery of black swans invalidates the universal claim.
+- **Hume’s Conclusion**: Induction cannot yield universal truths without complete observation.
+
+### 4.4 Attempting to Counter Hume
+#### 4.4.1 Reliance on Past Experience
+- **Repetition**: Verifiable outcomes lead to accepted scientific theories (e.g., carbon dioxide test with limewater).
+- **Limitations**: Observations only reflect current states, uncertain for future outcomes (Hume 2009:223).
+
+#### 4.4.2 Uniformity of Nature
+- **Premises**:
+  - Premise 1: Historical consistency (e.g., sun rising).
+  - Premise 2: Uniformity means future resembles past.
+- **Hume’s Challenge**: Justification for assuming future conformity to past is weak; cannot be derived just from experience.
+
+### 4.5 Reichenbach’s Vindication of Induction
+- **Reichenbach's Position**: Induction as a speculative method rather than a source of certainties (Reichenbach 2009:368).
+- **Best Assumption**: Inductive inference should derive from established knowledge.
+- **Example**: Medical emergency scenario justifies inductive inference (Reichenbach 2009:368).
+  
+### 4.6 Mid-20th Century Critique of Induction
+- **Naive Inductivism**: Criticism of science purely as observation without subjective factors.
+- **Selection of Facts**: Challenges in determining relevant facts for observation; reliance on hypotheses to guide fact selection.
+
+### 4.7 Falsificationism
+- **Observational Limitations**: Induction cannot provide universal conclusions; observations can never be identical.
+- **Popper's Rejection of Inductivism**: Emphasis on theories shaped by interpretations and expectations rather than repeated observations (Popper 2009:476-477).
+
+### Key Cases and Legislation
+- **Hume**: Explores the nature of induction and causality.
+- **Popper**: Introduction of falsificationism emphasizing the limitations of inductive reasoning.
+
+### Points to Ponder
+- Are true universals possible in nature?
+- How do we know which facts to select during scientific inquiry?
+- Can a "wager" adequately support scientific methodology?
+
+### Conclusion
+Induction faces significant philosophical challenges, particularly through the critiques of Hume and Popper, highlighting its limitations in establishing absolute knowledge and leading to universal conclusions.
+----- END OF CHUNK -----
+# PLS2607/1
+
+## STUDY UNIT 4: Induction, Popper and Falsificationism
+
+### Observations and Theory-Laden Insights
+- Observations influenced by pre-existing knowledge and theories (Jones 1982:335).
+- **Inductivism**: Conclusion content not in premise content.
+- Popper prioritizes prior knowledge in filtering observations over induction.
+- **Popper 2009:478**: Pure observations without theories are considered absurd.
+
+### Role of Theories in Observation
+- Observations cannot be isolated; require a point of view based on existing theories and interests (Jones 1982:336).
+- **Barrow 2007:192**: Science cannot rely solely on observation without theory.
+
+### Popper’s Critique of Induction
+- Induction viewed as misleading; scientific theories arise from conjectures, not observations (Prevos 2005).
+- Science advances through **falsification**, not induction.
+- Acceptance of counterinstances falsifies general laws (e.g., all swans are white).
+
+### The Scientific Method
+- Emphasizes conjecture and rigorous testing over observation and induction.
+- **Popper 2009:478**: Hypotheses must explain observations but depend on theoretical frameworks.
+
+### Problematic Nature of Induction 
+- Induction misrepresents observation's role. Experiments test hypotheses, not justify them.
+- Popper insists observations are inherently theory-laden (Popper 1972:107).
+
+### Problem-Solving in Science
+- Problems drive scientific inquiry; theory is crafted to solve observed issues.
+- New theories generate further problems, fostering continuous inquiry.
+
+### Distinctions of Discovery and Justification
+- Discovery involves psychological processes; logic applies only post-discovery.
+- Logical justification follows discovery, focusing on deduction over induction.
+- Popper: logical tests are crucial for justifying scientific theories, emphasizing context separation.
+
+### Corroboration vs. Confirmation
+- **Corroboration**: Survives critical tests; reflects quality, not quantity.
+- **Confirmation**: Inductive inference; lacks the depth of corroboration.
+- Popper emphasizes severe testing as significant for corroboration.
+
+### Testability and Theory Preference
+- Theories must possess high empirical content for robust testing.
+- Theories that withstand severe scrutiny are viable; those that persist beyond simpler tests are preferred.
+  
+### Conclusion on Popper’s Philosophy
+- **Corroboration**: A measure of acceptability among scientific communities.
+- Non-scientific theories lack testability; bold theories are favored.
+- Popper rejects modifications that shield theories from falsification.
+----- END OF CHUNK -----
+# PLS2607/1  
+## STUDY UNIT 4: Induction, Popper and Falsificationism
+
+### 4.1 Introduction  
+- Theories may incorporate auxiliary hypotheses to avoid falsification.
+- Example: Neptune's discovery confirmed Newton's theory regarding Uranus's orbit.
+
+### 4.2 Popper’s Methodological Rules  
+- Auxiliary hypotheses should not weaken a theory's falsifiability.
+- Falsificationism argues for logical deductive testing instead of induction.
+
+### 4.3 The Problem of Induction  
+- Induction relates to demarcating science from non-science (Popper, 2009).
+- Essential questions:  
+  - What makes a theory scientific?  
+  - How do we differentiate science from pseudoscience?
+
+### 4.4 Demarcation Criteria  
+- Popper critiques traditional inductive methodology. 
+- Comparison of theories (e.g., Marxism, psychoanalysis) to primitive myths due to reliance on verification.
+- Criteria for scientific theories:  
+  1. Seek confirmations often yield findings confirming theories.  
+  2. "Risky predictions" enhance scientific credibility.  
+  3. Stronger theories are less porous.  
+  4. Theories must be refutable.  
+  5. Testability is key to scientific nature.  
+  6. Corroborating evidence must arise from failed attempts to falsify.  
+  7. Ad hoc hypotheses diminish scientific integrity.
+
+### 4.5 Scientific vs. Pseudoscientific Theories  
+- Scientific theories (e.g., Einstein's gravitation) are falsifiable; pseudoscientific theories (e.g., astrology) are not.  
+- Non-scientific theories (e.g., metaphysics) lack empirical evidence but hold significance.
+
+### 4.6 Testing and Accepting Hypotheses  
+- Importance of hypothesis origin vs. testing methods.
+- Deductive implications derived from hypotheses to facilitate testing.
+
+### 4.7 Test Implications  
+- Conditional propositions are used in scientific testing (e.g., "If P then Q").
+- Testing hypothesis examples with observable outcomes.
+
+### 4.8 Control Over Test Conditions  
+- Observations in astronomy do not necessitate manipulation of objects.
+- Testing hypotheses can take forms that don't require direct control of variables.
+
+### 4.9 Falsification and Auxiliary Hypotheses  
+- Falsification relies on denying the consequent of conditional statements. 
+- Auxiliary hypotheses can obscure whether a central hypothesis is false.
+
+### 4.10 The Role of Ad Hoc Hypotheses  
+- Not all ad hoc hypotheses should be discarded; they can protect theories temporarily.
+- Example of neutrinos supporting a theory initially in conflict with energy conservation.
+  
+### 4.11 Testability of Scientific Hypotheses  
+- Empirical testability is a defining feature of science.
+- While ad hoc hypotheses protect certain principles, they risk becoming definitional rather than truly testable.
+
+### 4.12 Conclusion  
+- Questions of testability influence scientific character and categorization of hypotheses.
+- The verification theory of meaning poses further challenges to empirical testability.
+----- END OF CHUNK -----
+# PLS2607/1 
+## 65 
+### STUDY UNIT 4: Induction, Popper and Falsificationism
+
+#### Point to Ponder
+- Parallel between testability of hypotheses and verification of meanings.
+- Verification theory: Propositions must be verifiable, not just indirectly.
+- Weak form of verification: Verifies implications, not original statements.
+- Scientific hypotheses often lack direct empirical implications (e.g., neutrino hypothesis).
+- Accepted propositions are part of broader theoretical frameworks.
+
+#### Evaluation of Hypotheses (Hempel, 1966)
+- Non-formal criteria:
+  - Volume and nature of positive evidence.
+  - Variety and precision of positive evidence.
+  - Confirmation by new evidence.
+  - Compatibility with scientific systems.
+  - Simplicity principle: Preference for simpler hypotheses.
+  
+#### Theories vs. Hypotheses
+- Theories: More complex systems of hypotheses.
+- Criteria for theories:
+  - Testable and explanatory.
+  - Compatibility with known scientific facts.
+  - Systematic unification of diverse phenomena.
+  - Simplicity and precision.
+  - Predictive capacity.
+
+#### Critique of Popperian Falsificationism
+##### 4.10.1 Only Sets of Propositions Can Be Tested
+- Tests rely on assumptions and auxiliary hypotheses.
+- Negative results don't falsify individual hypotheses but potentially reveal issues in the hypothesis set.
+- Example: Faulty fuel gauge in car engine hypothesis.
+- Conventionalism: Observations conforming to theories, instrumental reliability counts.
+
+##### 4.10.2 The Observation Statements Underlying Falsification May Be False
+- Observations influenced by prior experiences and expectations.
+- Example: Galen's theory vs. Vesalius' observations; theory influencing interpretation of observations.
+
+##### 4.10.3 Science is Not Practised in a Falsificationist Manner
+- Scientists primarily seek to verify theories.
+- Popper's rebuttal may serve the preservation of his theory.
+
+##### 4.10.4 Lack of Popperian Criteria for Theory Choice
+- Question of how to choose between two non-falsified and fact-consistent hypotheses.
+
+#### Inductive Reasoning in Science
+- Induction unavoidable, essential for scientific progress.
+- Even Popper's model incorporates induction (bridging from falsification to corroboration).
+
+### 4.11 A Realist Solution to the Problem of Induction
+- Roy Bhaskar's proposal: Inductive success linked to reality.
+- Critical realism emphasizes universals and patterns in physical reality.
+- Induction limited to laws of nature (e.g., law of gravity).
+
+#### Bhaskar's Realism
+- Analyzes laws as independent of observation.
+- Examples illustrate physical laws impacting inductive reasoning.
+- Claims about entities delineate inherent possibilities based on their nature.
+
+#### Reflection
+- Quotation by Francis Bacon prescribes a structured approach to scientific practice, ascending from particulars to general principles.
+
+----- END OF CHUNK -----
+# PLS2607/1
+## STUDY UNIT 4: Induction, Popper and Falsificationism
+- **Bacon's Optimism**: Grounds for optimism include the potential of the inductive method to systematically gather facts leading to the formulation of scientifically useful generalizations.
+- **Objections to Bacon's View**: Potential weaknesses in inductivism include its reliance on incomplete data, the possibility of exceptions (e.g., "all swans are black"), and the time-consuming nature of deriving conclusions from facts.
+- **Bacon's Warning (2011:290)**: Warns against ungrounded leaps in understanding; advocates for a cautious, methodical approach to prevent missteps in scientific inquiry.
+- **Active Learner Participation**: Basic principle of learner knowledge acquisition is classified as inductive.
+- **Scientific Method**: Neither inducement nor deduction alone ensures the scientific nature of research; scientific validity lies in the justification process.
+- **Popper’s Method**: Advocates “conjecture and refutation” for hypothesis testing; asserts applicability to philosophy despite the challenges of testing philosophical theories.
+
+## STUDY UNIT 5: Kuhn, Scientific Revolutions and Paradigms
+- **Kuhn's Perspective (2009:509)**: Science progresses through revolutionary selections and normal research, without a fixed endpoint toward absolute truth. Knowledge becomes more specialized over time.
+  
+### 5.1 The Importance of the History of Science
+- **Traditional Views**: Induction and deduction assume objective facts exist independently from theories. The process is seen as a linear accumulation of true propositions.
+- **Kuhn's Challenge**: New theories create new conceptual frameworks which may not align with objective reality (Kuhn 2009:512). Scientific progress involves paradigm shifts rather than cumulative knowledge.
+
+### 5.2 The Stages of the Scientific Process: From Pre-Science to Revolution
+- **Historical Methodology**: Kuhn indicates both inductivist and deductivist approaches fail to fully explain scientific theory development (Chalmers 2009:104).
+- **Influencing Factors**: Historical, sociological, and political contexts are integral to scientific community dynamics (Bortolotti 2008:114).
+- **Chemical Revolution**: Examines Lavoisier’s challenge to the phlogiston theory, culminating in the acceptance of oxygen.
+
+#### 5.2.1 Pre-Science
+- **Stage Definition**: Initial exploration with no prevailing paradigm; various interpretations of phenomena occur without community consensus (Kuhn 2009:491).
+
+#### 5.2.2 Paradigm Emergence
+- **Emergence Criteria**: A leading theory must appear better relative to competitors without fully explaining all facts (Kuhn 2009:491).
+
+#### 5.2.3 Normal Science
+- **Paradigm Focus**: Research aimed at extending the currently accepted paradigm; conservative and limited exploration occurs (Bortolotti 2008:118).
+- **Role of Paradigms**: Dominate scientific work and dictate community norms; movement beyond a paradigm is typically resisted, akin to Wittgenstein's concept of games (Kuhn 2009:496).
+- **Puzzle-Solving**: Normal scientists concentrate on addressing specific problems within the framework of accepted paradigms (Kuhn 2009:494–495). 
+
+### **Diagrams**: Refer to illustrations detailing the stages of scientific processes, theoretical frameworks, and the paradigm shift model for a visual representation of Kuhn’s theories.
+----- END OF CHUNK -----
+**PLS2607/1**  
+**STUDY UNIT 5: Kuhn, scientific revolutions and paradigms**  
+
+- **5.1 Overview of Scientific Paradigms**
+  - Scientific enterprise opens new territory and tests beliefs; individual researchers focus on solving specific problems (Kuhn 2009:109).
+  - Anomalies challenge dominant paradigms but may also strengthen them.
+  
+- **5.2 Stages of Scientific Development**
+  - **5.2.1 Normal Science**
+    - Established standards, procedures, and meanings of terms.
+    - Narrow focus limits observation to facts significant within the accepted paradigm; contradictory evidence may be overlooked.
+  
+  - **5.2.2 Crisis**
+    - Novelties in scientific theories challenge paradigm expectations, revealing a crisis (Kuhn 2009:497).
+    - Practitioners must re-evaluate whether the paradigm fits anomalous observations (Bartolotti 2008:122).
+    - Anomalies strong enough to evoke a crisis necessitate consideration of a new paradigm (Kuhn 2009:499-500).
+
+  - **5.2.3 Revolution**
+    - Transition from normal science to revolution occurs as scientists challenge the status quo (Chalmers 2009:118).
+    - New paradigms emerge suddenly rather than progressively; shift results from addressing unresolved anomalies (Kuhn 2009:501).
+    - Psychological effects on scientists impact paradigm allegiance, leading to extraordinary scientific conflict and debate.
+
+- **5.3 Scientific Theory Development as Paradigm Changes**
+  - **5.3.1 Framework of Paradigms**
+    - Paradigms determine relevance of facts and problems (e.g., Newton vs. Ptolemaic astronomy).
+    - As new paradigms emerge, they lead to different interpretations of existing knowledge.
+
+  - **5.3.2 Crisis Resolution**
+    - Scientific crises require revolutionary new interpretations (e.g., transition from Ptolemy to Copernicus).
+    - During normal science periods, theories adapt within prevailing frameworks until breakdowns occur.
+
+  - **5.3.3 Incommensurability of Paradigms**
+    - Paradigms represented as distinct systems of understanding; different interpretations co-exist but cannot be unified.
+    - "Gestalt switches" illustrate paradigm shifts (Jastrow 1899).
+
+**Key Legislative and Case References**:
+- **Kuhn 2009**: Various pages referenced throughout the text regarding paradigms and scientific processes.
+- **Bartolotti 2008**: Discusses the psychological effects of crises on paradigms.
+- **Chalmers 2009**: Provides commentary on revolutionary science and paradigm shifts.
+
+**Diagram References**:
+- Illustrations of paradigm shifts and crises, along with the concept of incommensurability among competing theories.
+----- END OF CHUNK -----
+# PLS2607/1  
+**Study Unit 5: Kuhn, Scientific Revolutions and Paradigms**  
+
+## 5.4 Critique of Kuhn’s Paradigmatic View of Science  
+- Kuhn’s historical approach is debated; his view emphasizes structure within science (Chalmers 2009:119).  
+
+### 5.4.1 Instantaneous Nature of Paradigm Shifts  
+- Critiques assert that paradigm shifts are not instant; they often follow extensive development (Chalmers 2009:119-120).  
+- Scientific progress may be gradual rather than rapid.  
+
+### 5.4.2 Different Worlds Between Paradigms  
+- Kuhn asserts that paradigm shifts signify non-cumulative progress and differing perceptions of reality (Chalmers 2009:120-121).  
+- Example: phlogiston vs. oxygen paradigms; previous theories lead to anomalies enabling new theories.    
+
+### 5.4.3 Change in Standards of Evaluation Across Paradigms  
+- Paradigm metrics (criteria, evaluation standards) are relative to the paradigm (Chalmers 2009:122).  
+- Lack of universal standards raises questions about adequate paradigm replacement and relative comparison.  
+
+### 5.4.4 “Kuhn-Loss”  
+- New paradigms may fail to explain certain observations as well as the previous ones (Worrall 2002:32).  
+- Kuhn’s method of selecting paradigms does not provide a logical necessity for abandoning old paradigms.  
+
+### 5.4.5 Lakatos’s Critique of Kuhn  
+- Lakatos values Kuhn’s historical approach but critiques his use of “paradigm” as vague (Bortolotti 2008:126).  
+- Criticism focused on “revolution” suggesting Kuhn implies irrational science progression (2008:126).  
+- Proposes the concept of “research programs” with core and peripheral dimensions affected by evidence (2008:127).  
+
+## 5.5 Kuhn’s Self-Defence  
+- In “Objectivity, Value Judgment, and Theory Choice,” Kuhn defends the notion of collective scientific community decisions (1998:212).  
+- Concerns about consensus as a truth approach; he specifies five criteria for a good theory: accuracy, consistency, scope, simplicity, fruitfulness (1998:213).  
+- Acknowledges subjective factors influencing theory selection even with objective criteria (1998:215).  
+
+## 5.6 Revolutionary Implications for Science  
+- Kuhn’s insights reveal complexities of scientific development; paradigm shifts can precede gradual progress.  
+- Paradigms are often interconnected; discussions highlight a nuanced understanding of scientific history.  
+- Emphasizes a blend of subjective and objective factors in the acceptance of paradigm shifts.  
+
+### Reflection  
+- Consider different perspectives (pedestrian vs. motorist) illustrating paradigm differences in prioritizing facts; do they reflect Kuhn's ideas?  
+- Evaluate if criteria for what constitutes science can be determined through historical evolution.
+----- END OF CHUNK -----
+# PLS2607/1 Study Notes
+
+## STUDY UNIT 5: Kuhn, Scientific Revolutions and Paradigms
+- **Identifying Science**: Presupposes basic ideas and criteria for historical analysis.
+
+## STUDY UNIT 6: Scientific Development and Research Programmes: Lakatos and Feyerabend
+
+### Outcomes
+- Understand scientific theory development.
+- Critique Lakatos's middle path between Popper and Kuhn.
+- Analyze Feyerabend's postmodern anarchism.
+
+### 6.1 THE HISTORICAL EVOLUTION (DEVELOPMENT) OF SCIENTIFIC THEORIES
+
+#### 6.1.1 What is “Development” in Science?
+- **Definition of Development**: Progress involving growth and improvement on existing models.
+- Historical examples: 
+  - Galileo built on Copernicus, Bruno, and Brahe.
+  - Einstein progressed from Newtonian physics.
+
+#### 6.1.2 Popper and Kuhn on Scientific Development
+- **Popper**:
+  - Science advances through falsification.
+  - Reality bound to problem-solving rather than theory.
+- **Kuhn**:
+  - Focuses on paradigm shifts and their incomparability.
+  - No standard for choosing between paradigms.
+- **Critique by Lakatos**:
+  - Disagrees with Kuhn’s lack of demarcation between science and pseudoscience.
+  - Questions the robustness of Kuhn's paradigms.
+
+### 6.2 THE METHODOLOGY OF SCIENTIFIC RESEARCH PROGRAMMES (MSRP)
+- **Lakatos's Contributions**:
+  - MSRP aims to address limits of Popper’s and Kuhn’s theories.
+  - Emphasizes a series of interconnected theories rather than isolated hypotheses.
+- **Core Concepts**:
+  - Distinction between anomalies and falsifying instances.
+  - Theories are not discarded lightly; a robust core exists.
+  - Scientific progress defined by the emergence of theories with higher empirical content.
+
+### Method of Evaluation 
+- A theory is progressive if it yields novel predictions surpassed by past theories (Lakatos 1998:199).
+- Progressive vs. Degenerative theories:
+  - Progressive: Generates substantial factual advancements.
+  - Degenerative: Fails to foster new insights.
+
+### Diagram Reference
+- **Hard Core and Protective Belt of Scientific Research Programmes**:
+  - Core: Fundamental laws of a scientific theory.
+  - Protective belt: Auxiliary hypotheses that defend the core against falsification.
+
+### Conclusion
+- Scientific methodologies per Lakatos focus on broader research programmes, maintaining cumulative knowledge, emphasizing continuous development over isolated conjectures. 
+
+**Legislation and cases highlighted where relevant**: 
+- No specific legislation or case law cited within the content provided. 
+- Recommendations for further foundational readings regarding noted theorists and their philosophies are suggested for those interested in the expansive implications of the outlined principles.
+----- END OF CHUNK -----
+# PLS2607/1
+
+## STUDY UNIT 6: Scientific Development and Research Programmes: Lakatos and Feyerabend
+
+### 6.1 Heart of the Research Programme
+- **Hard Core**: Elemental principles defining a science; deemed "irrefutable" by its proponents (Lakatos, 1998).
+- **Auxiliary Hypotheses**: Additional reasons that connect the hard core to evidence; arise from anomalies.
+- **Protective Belt**: Adjustments to auxiliary hypotheses buffer the hard core against tests and challenges (Lakatos, 1998).
+
+### 6.2 Development of Research Programmes
+- **Progressive Problem Shift**: A successful research programme should lead to development; degenerating programmes lack this progression (Lakatos, 1998).
+- **Historical Examples**: 
+  - **Copernican Programme**: Needed auxiliary modifications (epicycles).
+  - **Newton’s Gravitational Theory**: Demonstrated problem shift by overcoming counterexamples.
+- **Theoretical vs. Empirical Progress**: 
+  - Theoretical progress discernible quickly, empirical slower; research must expand content consistently (Lakatos, 1998).
+
+### 6.3 Abandonment of Research Programmes
+- **Criteria for Termination**:
+  - Failure to produce novel predictions and explanations indicates degeneration (Lakatos, 1998).
+  - Comparison with rival programmes provides objective standard for rejection (Lakatos, 1998).
+
+### 6.4 Critique of Lakatos
+- **Vagueness in Replacement Criteria**: No clear rules for determining when to abandon degenerating programmes (Nickles, 2001).
+- **Subjectivity in Choices**: Decisions to abandon based on individual researchers; lacks consistent objective standards.
+- **Inadequate Instruments**: Transitioning theories may rely on evolving methods of measurement.
+- **Over-reliance on Future Potential**: Non-progressive theories may still be chosen based on expected future insights.
+  
+### 6.5 Comparison with Kuhn
+- **Kuhn's Paradigm vs. Lakatos's Research Programmes**: Both address theory evolution; however, Lakatos offers more structured testing against independent facts, unlike Kuhn's relativism.
+
+### 6.6 Realism vs. Idealism
+- **Kuhn’s Position**: Science operates within paradigms, yielding no common standards for inter-paradigm comparison; knowledge is subjective.
+- **Lakatos’s Realism**: Argues for objective evaluation of scientific progress; knowledge relates directly to external reality, contrary to Kuhn's idealism.
+
+### Conclusion
+- **Philosophical Divergence**: The conflict between falsificationists like Lakatos and idealists like Kuhn represents an ongoing inquiry into the fundamental nature of scientific theory and reality.
+
+--- 
+
+*References: Lakatos (1998), Chalmers (1999), Nickles (2001).*
+----- END OF CHUNK -----
+# PLS2607/1  
+## 101  
+### STUDY UNIT 6: Scientific Development and Research Programmes: Lakatos and Feyerabend  
+#### 6.5  
+##### FEYERABEND: A CRITIQUE OF METHOD IN SCIENCE  
+- **Quote**: "A truth that reigns without checks and balances is a tyrant..." (Feyerabend 1984:138).    
+
+#### 6.5.1  
+##### Feyerabend against the Popperians and the Kuhnians  
+- Critique of empiricism and philosophers: Popper and Kuhn.  
+- Historical inquiry shows successful scientific inquiries do not follow a rational method.  
+- Theories cannot be blamed for conflicts with facts; facts are influenced by older ideologies.  
+- Claims of pure observation are delusions; facts are constructed with human interests.  
+- Response to Popper: no non-arbitrary limits for theory testing; limits of "evidence" are arbitrary.  
+- **Key Concept**: Ad hoc hypotheses undermine Popper's falsifiability.  
+- Critiques Kuhn's paradigms as leading to narrow specialization and lacks universal standards for theory selection.  
+- Science likened to mythology; standards abstracted from science are not neutral arbiters.  
+- All science imbued with theory and prior ideologies; questioning scientific method is essential.  
+
+#### 6.5.2  
+##### Feyerabend’s “Method”  
+- Straightforward judgment via facts can eliminate ideas fitting older cosmologies.  
+- Evidence does not determine theory validity; seeks criteria for evaluating concepts.  
+- Two types of disagreement between theory and fact:  
+  1. **Numerical Disagreement**: Predictions differ significantly from observations (e.g., Bohr's model).  
+  2. **Qualitative Failure**: Inconsistencies between theory and facts (e.g., Newton's theory of colors).  
+- Scientists retain theories despite counter-evidence, often ignoring falsifications.  
+- Rejection of universal standards and rigid methods; sees scientific decision-making as politically influenced.  
+- Choices between theories are often irrational and arise pre-inductive support.  
+- Theories are incommensurable; no rational basis for comparison between them.  
+
+#### Feyerabend's Contributions  
+- **Key Argument**: No criteria for theory choice; "anything goes!"  
+- Success of scientific theories may lead to rigid ideologies; contradictions should stimulate theory advancement.  
+- Advocates for a variety of theories to enhance scientific inquiry and critical thinking.  
+- Critique of linear, uniform methodologies; supports pluralistic methodologies for growth and understanding.  
+- Emphasis on the necessity of alternative theories for robust theory construction.  
+- **Conclusion**: The most effective scientific framework consists of overlapping, inconsistent theories that together enrich understanding.  
+
+##### Reflection Points  
+1. Consider the implications of a pluralistic approach in scientific methods.  
+2. Discuss the implications of Feyerabend's views on the relationship between science and other belief systems.  
+
+###### Note:  
+- Notable works and theories referenced: Feyerabend ([1975]1993), critiques of Popper (1962), and discussion of Kuhn's paradigms.  
+- Reference to diagrams (e.g., Feyerabend's theory selections) omitted for brevity.
+----- END OF CHUNK -----
+**PLS2607/1**
+
+**PART D: A NEW WAY FORWARD FOR PHILOSOPHY OF SCIENCE?**
+
+---
+
+### CONTENTS
+
+- **STUDY UNIT 7: Socially relevant philosophy of science: feminist and African philosophy of science**
+  - Page 108
+
+---
+
+## 7 STUDY UNIT 7
+
+### Socially Relevant Philosophy of Science: Feminist and African Philosophy of Science
+
+- **Key Quote**: Paul Feyerabend emphasizes a pluralistic approach (1978:38).
+  
+#### Outcomes
+- Identify relevance and place of philosophy of science in society.
+- Critically consider power presence in knowledge systems.
+- Importance of feminist critique in science.
+- Contextualize science study in African realities.
+
+### 7.1 INTRODUCTION
+- Feyerabend's challenge to dominant paradigms supports liberationist intellectual movements.
+- Knowledge systems debate, questioning adequacy of dominant frameworks.
+- Science must engage with social realities.
+- New philosophies of science must incorporate ethical and political dimensions (Fehr & Plaisance 2010:302).
+  
+**Three dimensions for socially relevant philosophy of science**:
+1. **Public Welfare**: Covers issues like biomedical ethics.
+2. **Stakeholder Groups**: Focus on marginalized groups impacted by science (2010:303).
+3. **Awareness and Communication**: Philosophy of science should influence policy and practice (2010:304).
+
+- Engaging with feminist and African philosophies critiques existing epistemologies.
+
+### 7.2 FEMINIST PHILOSOPHY OF SCIENCE
+
+#### 7.2.1 Feminism as Socially Relevant Discipline
+- Definition: Feminism advocates for equal rights and opportunities (South African student’s dictionary 1996:350).
+  
+- Feminism's goal: Real change for women's societal roles and conditions.
+
+- Feminism critiques male-dominated ideologies, asserting these are not universally valid.
+
+#### Observations in Science
+- Male dominance evident in scientific fields, often justified by stereotypical claims of male superiority.
+- Studies (e.g., Machin & Pekkarinen 2008) show misconceptions about gender performance in mathematics.
+
+- Research by Kane & Mertz (2012) contradicts notions of inherent gender differences, showing equity positively influences performance.
+
+- Calls for equity are central to feminist objectives in science.
+
+- Value subjectivity in scientific theories reflects cultural biases (Tuana 1996:17).
+
+#### 7.2.2 Feminist Science Studies and Philosophy
+- Emerged during 1960s-70s feminist movements, concerned with male bias in science.
+- Critiques faced:
+  1. Relevance limited to women.
+  2. Ideologically motivated, lacking objectivity.
+  3. Absence of defined methodology.
+  
+- Feminist approaches do not merely critique but aspire to reshape epistemological frameworks (Richardson 2010:343).
+
+### Conclusion
+- The feminist philosophy of science seeks to dismantle oppressive structures in scientific practice and broaden the philosophical discourse to include marginalized perspectives. 
+
+---
+
+**Diagrams and Additional Notes**: Refer to diagrams illustrating the philosophy of science interactions with feminist and African perspectives for a detailed understanding.
+----- END OF CHUNK -----
+# PLS2607/1
+
+## STUDY UNIT 7: Socially relevant philosophy of science: feminist and African philosophy of science  
+
+### 7.2.3 Science from a feminist perspective
+- **Feminist Epistemology** (Tuana & Harding):  
+  - Critique of science from women scientists' perspectives emphasizes social context's influence on scientific work.  
+  - Science historically burdened by patriarchal influences (Namenwirth 1986).  
+- **Masculine Traits**:  
+  - Stereotypical masculine traits exclude women from disciplines like science and law (Namenwirth; Fee).  
+- **Francis Bacon's View**:  
+  - Science seen as "masculine"; historical exclusivity aligns with male ideology (Richardson 2010).  
+- **Perceived Neutrality**:  
+  - Scientists often view practice as politically neutral despite evident societal influences (Namenwirth).  
+- **Feminism Misunderstood**:  
+  - Science seen as neutral, yet often reflects dominant ideologies, leading to misconceptions about feminism's role (Namenwirth).  
+
+### 7.2.4 Themes of feminist philosophy of science  
+#### 7.2.4.1 Gender bias
+- Feminist philosophy exposes gender biases in science, leading to specific interpretations and expressions of scientific findings (Richardson 2010).  
+
+#### 7.2.4.2 Feminist epistemology
+- Holistic approach: Individual context (emotions, history) shapes knowledge; challenges subject/object separations (Fee 1986).  
+- Feminist-informed knowledge promotes liberation, diverging from traditional male-dominated science (1986).
+
+#### 7.2.4.3 Knowledge and power
+- Critique of power dynamics in knowledge production; intersectionality of race, class, and gender included (Grasswick 2011).  
+- Knowledge shaped by the producer’s context, influenced by experiences of oppression.  
+
+#### 7.2.4.4 Situated knowing
+- Science as a human activity integrates emotions, biases, and historical context.  
+- "Situated knowing": Social locations shape and limit understanding (Grasswick 2011).  
+
+#### 7.2.4.5 Ethics and epistemology
+- Knowledge acquisition has ethical implications.  
+- Feminist philosophers urge for "ethically sound knowledge"—considering applied impacts on society (Grasswick 2011).
+
+#### 7.2.4.6 Novel questions
+- Marginalization leads to unique feminist inquiries in philosophy of science, addressing humanity’s complexity and challenging traditional views (Richardson 2010).  
+
+### 7.2.5 Challenges for feminist philosophy of science  
+#### 7.2.5.1 Marginalisation of women
+- Feminist philosophy often sidelined in intellectual discourse; disparities in academic representation noted (Richardson 2010).  
+
+#### 7.2.5.2 Oversimplification
+- Feminist critiques described as "anti-scientific" or hostile due to misunderstandings (Gross & Levitt in Richardson 2010).  
+- Assumptions surrounding discrimination and traditional scientific values questioned.
+
+#### 7.2.5.3 Social context of science
+- Gender bias central but not exclusive to feminist philosophy; broader societal contexts also examined (Richardson 2010).
+----- END OF CHUNK -----
+# PLS2607/1 Study Unit 7: Socially Relevant Philosophy of Science: Feminist and African Philosophy of Science
+
+## 7.1 Feminist Philosophy of Science
+- **Richardson (2010:355)** critiques the stereotype of feminist philosophy presenting an idealized, value-free picture of science.
+- Feminist philosophy emphasizes science as a **value-laden social product**, rejecting the notion of total neutrality in scientific practices.
+- Promotes understanding scientific practices in social contexts, developing critical methods for science.
+
+## 7.2 Feminism as a Radical Epistemology
+- Feminist critiques align with epistemologies from former colonial contexts and marginalized groups, critiquing dominant scientific perspectives.
+- Feminists label “masculine” science as “white,” “colonial,” and “Western” (Fee 1986:50).
+- Dominant critiques address power relations in scientific knowledge, challenging oppressive structures (Fee 1986:53).
+
+## 7.3 African Philosophy of Science
+- **Nwankwo Ezeabasili (1977:88–89)** states there is commonality between African and Western science, particularly in the scientific method.
+
+### 7.3.1 The Colonial Legacy in Science
+- Science's success attributed to the West enhances Western superiority and contributes to non-Western inferiority (Okere 2005:20).
+- The term "science" derives from **scientia**, perceived as a Western construct (Okere 2005:22).
+- Historical roots of Western science stem from ancient Greece, evolving through the 17th century with a focus on measurable entities (Okere 2005:23).
+- The Western model limits knowledge to that which is quantifiable, discounting other forms of knowledge and perspectives (Okere 2005:27).
+
+### 7.3.2 Scientific Knowledge and Africa
+- **Traditional African thought** is logical within its context, often perceived as unscientific in Western paradigms (Ogunniyi 1988:1–2).
+- African epistemologies encompass both **natural and supernatural**, presenting a **homogeneous order of things** (Hallen & Wiredu [sa]:1).
+- Traditional explanations prompt deeper philosophical inquiries, addressing broader causal and teleological questions rather than solely identifying problems.
+- **Akan cosmology** integrates the supernatural as part of the natural order (Hallen & Wiredu [sa]:6), indicating no strict separation of realms.
+
+### Critiques of Western Science
+- Western science is viewed as a tool of oppression, imposing cultural dominance and silencing indigenous knowledge (Okere 2005:28).
+- The colonial education system, while providing access to Western knowledge, marginalized African intellectual traditions (Okere et al 2005:5–6).
+- Post-colonial movements aim to **Africanize** education but face challenges from entrenched Western paradigms (Okere et al 2005:8).
+
+### Discussion Points
+- Consider the implications of colonial legacies on contemporary scientific practices and knowledge systems.
+- Debate the validity of Western science as an authoritative knowledge system.
+- Reflect on the integration of indigenous knowledge into modern education and research frameworks.
+----- END OF CHUNK -----
+# PLS2607/1
+
+## STUDY UNIT 7: Socially relevant philosophy of science: feminist and African philosophy of science
+
+### 7.1 Introduction
+- Argument: Africa's lag in scientific development attributed to cultural rejection of "second-hand" knowledge ([sa]:10).
+- Propositional knowledge in Yoruba culture requires first-hand experience, seeing reliance on others as naive ([sa]:12).
+
+### 7.3.1 Cultural Perspectives on Knowledge
+- Scientific knowledge exists within systematic reasoning, contrasting the oral tradition of African peoples with Western written records ([sa]:16).
+- Okere (2005:31): Assuming Western modes of science is a theory-laden value stance.
+
+### 7.3.2 The False Dichotomy between Western Science and African Thought
+- Horton (1967:50): Critique of the notion that African thought precludes scientific activity; emphasizes overlapping characteristics.
+
+### 7.3.3 Theory Construction
+- **7.3.3.1 Systematic Order in Nature**
+  - Humans innately seek order amidst complexity (Horton 1967:51).
+- **7.3.3.2 Contextual Frameworks**
+  - Theory transcends common-sense experience, connecting mundane with broader natural contexts (Horton 1967:54).
+  - Traditional African explanations seen as seeking natural occurrences not "supernatural" (1967:54).
+- **7.3.3.3 Connection to Common Sense**
+  - Science and common sense relate equivalently in both Western and African contexts (Horton 1967:60).
+- **7.3.3.4 Analogical Reasoning**
+  - Scientific methodology relies on analogy to conceptualize the unknown (Horton 1967:64).
+  - Traditional thought employs similar analogical reasoning (1967:66).
+
+### 7.3.4 All Science is Local Knowledge
+- Knowledge is unique and context-dependent, influenced by culture, history, etc. (Okere et al 2005:1).
+- All scientific activity is considered "ethnoscience," revealing cultural biases (Harding 1997:45).
+
+### References to Legislation and Cases
+- Positions outlined in scholarly critique rather than specific legislation or case law, focusing on theoretical implications and cultural contexts.
+
+### Conclusion
+- African scientific thought is valid; the dichotomy between Western and African science is a falsehood (Horton 1967:69).
+- Western scientific norms stem from a specific cultural context, challenging claims of objectivity and universality in science. 
+
+### Diagram References
+- Diagrams illustrating theories of order in Western and African thought may further elucidate points discussed throughout this study unit.
+----- END OF CHUNK -----
+# PLS2607/1 STUDY NOTES
+
+## STUDY UNIT 7: Socially relevant philosophy of science: feminist and African philosophy of science
+
+- **Cultural Context of Science**
+  - Viewed as singular knowledge source; reflects European expansionism.
+    - Value-neutrality in Western science as culturally specific (Harding, in Okere et al. 2005:56).
+    - Most cultures favor their own values over neutrality (Confucian, Indigenous American, Islamic, Maori).
+
+- **Cultural Influence on Knowledge Production**
+  - Cultural dimensions manifest in scientific research practices.
+    - Geography affects knowledge priorities (e.g., water conservation in desert).
+    - Examples: Eugenics research by Nazi scientists exemplifying cultural biases (2005:58).
+  
+- **Localization vs. Universal Application**
+  - Knowledge emerges from specific contexts but can transcend locality (2005:59).
+    - Diversity in scientist backgrounds; effective modeling of natural laws leads to broader relevance (2005:62).
+  
+- **Compatibility of African and Western Science**
+  - Theoretical constructions of African thought contrast with Western "local knowledge" (Ogunniyi 1988:5).
+    - Mechanistic (Western) vs. anthropomorphic (African) explanatory models (Ogunniyi 1988:6).
+    - Coexistence of scientific and traditional perspectives (1988:6-7).
+    - Understanding human experience requires integrating both knowledge systems (1988:7).
+  
+- **Cultural Affiliation in Science**
+  - Caution against abandoning African cultural perspectives for Western science.
+    - Need for integration to avoid superficiality and oppression (1988:8).
+  
+- **Alternative Epistemologies**
+  - Critiques of positivism by feminism and African philosophy underscore need for pluralism in scientific understanding.
+    - Questioning absoluteness and acknowledging multiple accounts of phenomena (1988).
+  
+### REFLECTION QUESTIONS
+1. How should philosophy of science engage socially? Importance?
+2. Assess feminism's critique of patriarchal dominance in science.
+3. Define "African science".
+4. Examine colonial impact on science in Africa and commonalities in local sciences.
+
+## CONCLUSION
+- Proposing multiple hypotheses enhances scientific rigor (Campbell et al. 1999:14).
+- Module insights into the history, development, and philosophy of science highlight the contested nature of knowledge claims.
+  - Acknowledge human factors (cultural, ideological, linguistic influences) affecting scientific theories.
+  
+- Questions against absolute knowledge claims emphasizing plurality of accounts.
+  - Theories evolve, reflecting the historical process of idea contestation, striving for a deeper understanding of reality.
+
+## GLOSSARY (Selected Terms)
+- **Ad hoc hypothesis**: Protects a theory from rejection.
+- **Corroborate**: Hypothesis that survives rigorous tests.
+- **Falsifying**: Rejecting a hypothesis based on unfavorable evidence.
+- **Inductivism**: Building knowledge through empirical observation.
+- **Natural law**: Regularity statement in nature.
+----- END OF CHUNK -----
+# PLS26071 Study Notes
+
+## GLOSSARY (Page 137)
+
+- **Natural Sciences:** Sciences studying the physical world.
+- **Observational Statement:** Truth/falsity determined through direct observations.
+- **Observational Term:** Refers to directly observable entities.
+- **Ontology:** Subdiscipline of metaphysics investigating notions of existence.
+- **Operational Definition:** Procedure to determine expression applicability.
+- **Operationalism:** Scientific concepts synonymous with operational definitions.
+- **Paradigm:** Framework for scientific operation; "pattern" in science philosophy.
+- **Philosophy of Science:** Study of concepts, methods, and explanations in science.
+- **Scientific Prediction:** Statement about future events corroborated like past explanations.
+- **Rational Reconstruction:** Logical reinterpretation of scientific growth, term from Lakatos.
+- **Realism:** Assumes theories can describe an independent reality.
+- **Reductionism:** Complex matters may reduce to simpler terms; theoretical terms defined via observational terms.
+- **Relativism:** Denial of absolute standards.
+- **Research Programme:** Guide to research with core assumptions, auxiliary hypotheses, and development rules.
+- **Science:** Discipline aiming at systematic knowledge of the natural world.
+- **Scientific Explanation:** Must be testable, based on theories and empirical facts.
+- **Scientific Prediction:** See "Scientific Prediction."
+- **Technology:** Application of scientific knowledge for nature control.
+- **Teleological Explanation:** Refers to future purpose.
+- **Test Implication:** Empirical test hypothesis through deductive inference.
+- **Theoretical Entity:** Observed indirectly; existence derived theoretically.
+- **Theoretical Law:** Nature's law grounded in theory.
+- **Theoretical Term:** Refers to indirectly observable phenomena.
+- **Theory of Science:** See "Philosophy of Science" and "Methodology."
+- **Verification:** Confirmation of a hypothesis via observation.
+- **Verification Theory of Meaning:** Proposition's meaning depends on verifiability.
+
+## BIBLIOGRAPHY (Page 139)
+
+- **Aristotle, Physics** - Original 350 BCE; translated text.
+- **Bacon, F., Inductive Method** - In an anthology on philosophy of science.
+- **Bhaskar, R., A Realist Theory of Science** - Critical introduction to contemporary philosophy.
+- **Carnap, R.** - Various works on testability, theoretical terms, and philosophy.
+- **Hume, D.**, from the anthology on philosophy of science discussing induction.
+- **Kuhn, T.S.** - Major works on scientific revolutions and paradigms.
+- **Lakatos, I.** - Methodology of scientific research programmes; contrasts science with pseudoscience. 
+
+(Note: This is a brief overview of selected major themes and authors. Original references are included as necessary for deeper exploration of concepts.)
+----- END OF CHUNK -----
+# PLS26071  
+## 143
+
+### BIBLIOGRAPHY
+
+- Popper, KR. (2009). Science: Conjectures and Refutations, in *Philosophy of Science: An Historical Anthology*. Chichester: Wiley-Blackwell: 471-488.
+- Prevos, P. (2005). Origins of Modern Philosophy: The Problem of Induction. Retrieved from http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.4707&rep=rep1&type=pdf (Accessed on 23/02/2010).
+- Psillos, S. (2007). *Philosophy of Science A-Z*. Edinburgh: Edinburgh University Press.
+- Putnam, H. (1984). What is Realism?, in *Scientific Realism*. Berkeley: University of California Press.
+- Quine, WV. (1951). Two Dogmas of Empiricism. *The Philosophical Review*, 60: 20-43.
+- Quine, WV. (1961). Two Dogmas of Empiricism, in *From a Logical Point of View*. New York: Harper and Row.
+- Quine, WV. (1969). *Ontological Relativity: And Other Essays*. New York: Columbia University Press.
+- Reichenbach, H. (1928). *Philosophie der Raum-Zeit Lehre*. Leipzig & Berlin: Walter de Gruyter.
+- Reichenbach, H. (2009). The Pragmatic Vindication of Induction, in *Philosophy of Science: An Historical Anthology*. Chichester: Wiley-Blackwell: 366-371.
+- Richardson, SS. (2010). Feminist Philosophy of Science: History, Contributions, and Challenges. *Synthese*, 177: 337-362.
+- Rorty, R. (1980). *Philosophy and the Mirror of Nature*. Oxford: Blackwell.
+- Rorty, R. (1991). Solidarity or Objectivity?, in *Objectivity, Relativism, and Truth*. Cambridge: Cambridge University Press: 21-34.
+- Rosenberg, A. (2012). *Philosophy of Science: A Contemporary Introduction*. 3rd Edition. New York: Routledge.
+- Rosser, SV. (1987). Feminist Scholarship in the Sciences: Where Are We Now and When Can We Expect a Theoretical Breakthrough? *Hypatia*, 2(3): 5-17.
+- Ruetsche, L. (2006). Philosophy of Physical Sciences, in *The Philosophy of Science: An Encyclopedia*. New York: Routledge: 554-557.
+- Ruttkamp, EB. (2002). A Model-Theoretic Realist Interpretation of Science. Dordrecht: Kluwer.
+- Schlick, M. (1930). Die Wende der Philosophie. *Erkenntnis*, 1.
+- Schlick, M. (1931). Die Kausalität in der gegenwärtigen Physik. *Die Naturwissenschaften*, 19.
+- Schlick, M. (1932). Positivismus und Realismus. *Erkenntnis*, 3.
+- Schlick, M. (1934). Über das Fundament der Erkenntnis. *Erkenntnis*, 4.
+- Scriven, M. (1964). Critical Study of E Nagel’s “The Structure of Science”. *Review of Metaphysics*, XVII(67): 410-411.
+- Small, H. (1977). A Co-Citation Model of a Scientific Specialty: A Longitudinal Study of Collagen Research. *Social Studies of Science*, 7: 139-166.
+- South African Student’s Dictionary. (1996). Manzini: MacMillan Boleswa.
+- Speaks, J. (2006). Hume and the Classical Problem of Induction. Retrieved from http://www.nd.edu/~jspeaks/mcgill/201/hume-induction.pdf (Accessed on 23/02/2010).
+- Suppe, F. (ed.). (1974). *The Structure of Scientific Theories*. Chicago: University of Illinois Press.
+- Tauber, A. (1997). Science and the Quest for Reality. London: Macmillan.
+- Thornton, S. (2009). Karl Popper. *The Stanford Encyclopedia of Philosophy*, Summer. Retrieved from http://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=popper (Accessed on 15/08/2011).
+- Tuana, N. (1996). Revaluing Science: Starting from the Practices of Women, in *Feminism, Science, and the Philosophy of Science*. Dordrecht: Kluwer Academic: 17-35.
+- Van Fraassen, B. (1980). *The Scientific Image*. Oxford: Clarendon.
+- Von Glasersfeld, E. (1995). Radical Constructivism: A Way of Knowing and Learning, in *Studies in Mathematics Education, Series 6*. London: Falmer.
+- Wing, S. (2003). Objectivity and Ethics in Environmental Health Science. *Environmental Health Perspectives*, 3(14): 1809-1818.
+- Worrall, J. (2002). Classic Debates, Standard Problems, Future Prospects, in *The Blackwell Guide to the Philosophy of Science*. Malden: Blackwell: 18-36.

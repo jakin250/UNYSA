@@ -1,0 +1,1577 @@
+# PUB2606 Study Notes
+
+## PREFACE (Page 1)
+- Module focuses on redefining the relationship between humans and the environment.
+- Aim: Foster environmental ethics and management awareness.
+
+## CONTENT FRAMEWORK OF THE MODULE (Page 1)
+### THEME 1: NATURE AND ORIGIN OF THE GLOBAL ENVIRONMENTAL DILEMMA (Page 4)
+- **Learning Unit 1**: Introduction to Environmental Affairs (Page 8)
+- **Learning Unit 2**: Primary Environmental Issues (Page 20)
+
+### THEME 2: MANIFESTATION OF ENVIRONMENTAL MANAGEMENT IN INTERNATIONAL, REGIONAL, AND NATIONAL ARENA (Page 45)
+- **Learning Unit 3**: Environmental Management in the International Context (Page 50)
+- **Learning Unit 4**: Environmental Management in the Regional Context (Page 61)
+- **Learning Unit 5**: Introduction to Environmental Management in the National Context (Page 70)
+- **Learning Unit 6**: Environmental Management: A Functional Perspective (Page 80)
+- **Learning Unit 7**: Nongovernment Roleplayers and the Environment (Page 99)
+
+### THEME 3: THE PURSUIT OF SUSTAINABLE DEVELOPMENT IN SOUTH AFRICA (Page 110)
+- **Learning Unit 8**: Sustainable Development and the Reconstruction and Development Programme (Page 113)
+- **Learning Unit 9**: Integrated Environmental Management (Page 121)
+
+## CONNECTING ONLINE TO MODULE PUB2606 (Page 2)
+- **Importance of Online Learning**: Central to distance education, saves time with submission and communication.
+- **myLife e-mail**: Primary communication channel for announcements.
+
+## How to Register on myUnisa (Page 2)
+- Access through Unisa main website; claim login for myUnisa and myLife.
+- Refer to Study @ Unisa for troubleshooting registration issues.
+
+## myUnisa Tools for PUB2606 (Page 2)
+- Regularly check module website for resources and tools.
+
+### Key Legislation and Cases (To be Included in Relevant Units)
+- No specific legislation or cases detailed in the extracted text; ensure to reference environmental law pertinent to South African context in applicable units.
+
+### Diagram References
+- Not specified in the text; refer to diagrams outlined in respective learning units that explain environmental models and management structures.
+
+----- END OF CHUNK -----
+# PUB2606/1
+## THEME 1
+### NATURE AND ORIGIN OF THE GLOBAL ENVIRONMENTAL DILEMA
+
+---
+
+## CONTENT OVERVIEW
+### KEY QUESTIONS
+- Definition of environmental components
+- Historical relationship changes between people and nature
+- Interaction of environment and public administration
+- Scope of environmental management and its main roleplayers
+- Justifications for environmental concerns 
+- Impact of the global environmental dilemma on quality of life
+
+### KEY CONCEPTS
+- **Environment** – Tikologo
+- **Environmental management** – Taolo ya tikologo
+- **Ecology** – Tswalano ya diphedi le tikologo ya tšona
+- **Cultural heritage** – Bohwa bja dipopego tša bokgabo le setšo sa setšhaba
+- **Carrying capacity** – bontšitlalo bjo bo ka swarwago
+- **Demography** – thuto ya dipalopalo ka ga badudi
+- **Developing state** – naga ye e hlabologago
+- **Developed state** – naga ye e hlabolotšwego
+- **Third World State** – Naga ya Boemo bja Boraro Lefaseng
+- **Wetland** – Mohlaka
+- **Ozone layer** – llaga ya ozoune
+- **Chlorofluorocarbons (CFCs)** – tlhakantšhetšo ya digase tša kloroflorokhapone
+- **Erosion** – kgogolego
+- **Biodiversity** – diphedi tše di fapanego lefaseng
+- **Ecosystem** – tsenelelano ya diphedi le tikologo ya tšona
+- **Groundwater** – meetse a fase ga maswika le mobung
+- **Urbanisation** – go ata ga batho metsesetoropong
+- **Pollution** – tšhilafatšo
+
+---
+
+## LEARNING UNIT 1
+### INTRODUCTION TO ENVIRONMENTAL AFFAIRS
+#### Introduction
+- Overview of environmental issues in the public sector.
+
+#### The Concept of Environment
+- Constituents and significance.
+
+#### Historical Overview
+- Evolution of environmental understanding.
+
+#### Environment within the Field of Public Administration
+- Intersection and impact on governance.
+
+#### The Need for Environmental Services
+- Justification for environmental management services.
+
+#### Review
+- Summary of key concepts and principles addressed in this unit.
+
+--- 
+
+## LEARNING UNIT 2
+### PRIMARY ENVIRONMENTAL ISSUES
+#### Introduction
+- Identification of critical environmental challenges.
+
+#### The Population Question
+- Implications of population growth on resources.
+
+#### Global Warming
+- Contributing factors and consequences.
+
+#### Depletion of the Ozone Layer
+- Effects of CFCs and protective measures.
+
+#### The Use of Nuclear Power
+- Perspectives on energy security versus environmental risk.
+
+#### Soil Loss
+- Causes and implications for agriculture and ecosystems.
+
+#### Deforestation
+- Impact on biodiversity and climate.
+
+#### Water Scarcity
+- Challenges and management strategies.
+
+#### Urbanisation
+- Effects on environment and resource use.
+
+#### Pollution
+- Sources, types, and environmental consequences.
+
+#### Loss of Biodiversity
+- Importance and threats to species diversity.
+
+#### Poverty
+- Connection between environmental issues and socio-economic factors.
+
+#### Review
+- Recap of primary environmental concerns discussed.
+
+---
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## 1.1 INTRODUCTION
+- Daily life closely intertwined with the environment; influences quality of life and welfare.
+- Understanding environment components necessary for comprehending its impact.
+- Environmental dilemma originates from historical human actions.
+- Need for environmental services justified.
+
+## 1.2 THE CONCEPT "ENVIRONMENT"
+- **Definition**: Environment encompasses more than natural surroundings; includes objects, conditions, and influences impacting life.
+- **Components**:
+  - Natural environment/habitat.
+  - Social, political, cultural, economic, and working conditions influencing environments.
+  - Manmade environment, including infrastructure and technological resources.
+- Interaction among environment components crucial.
+  
+## 1.3 HISTORICAL OVERVIEW
+
+### 1.3.1 The Pre-Industrial Period
+- Limited manipulation and exploitation of natural resources; lack of technology.
+- Natural disasters and epidemics regulated population growth; minimal strain on resources.
+- Harmony between people and natural environment predominated.
+
+### 1.3.2 Industrial Period
+- Industrial revolution led to exploitation of resources for commercial gain; rise of waste disposal issues.
+- Increased life expectancy and population growth exerted pressure on natural ecosystems.
+- Disturbance of human-nature harmony; alienation emphasized by Indira Gandhi’s remarks on human disconnect from nature.
+
+### 1.3.3 Post-Industrial Period
+- Awareness of environmental damage increased; advancements in technology revealed extent of destruction.
+- Issues like ozone layer depletion and soil erosion become apparent.
+- Recognition that conservation and management of the environment are crucial.
+- Balance needed between development and environmental conservation.
+
+## 1.4 ENVIRONMENT WITHIN THE FIELD OF PUBLIC ADMINISTRATION
+- Certain services provided solely by government; determines service provision based on criteria learned in earlier studies. 
+
+**LEGISLATION & CASES**: Refer to the *White Paper on Environmental Management Policy for South Africa 1997* and quotations from significant figures like Indira Gandhi. 
+
+**DIAGRAM REFERENCES**: Include diagrams illustrating the interaction among environmental components and the historical progression of human-environment relationships.
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## Chapter 1: Environmental Services and Their Management
+
+### 1.1 Responsibility for Environmental Services
+- **Government Role**: Responsible for rendering environmental services; individuals may lack self-discipline.
+- **Cross-Border Relations**: Significant environmental conferences (Rio Conference 1992, World Summit on Sustainable Development 2002) highlight international cooperation.
+
+### 1.2 Government Action and Environmental Policy
+- **Nature Reserves**: Government manages and protects significant natural areas using taxpayer funds.
+- **Environmental Management Definition**: Activities related to environmental affairs, considering ecological factors (Beale 1980:20).
+  
+### 1.3 Collective Responsibility
+- **Shared Responsibility**: All individuals and sectors of society are responsible for environmental protection.
+
+### 1.4 Need for Environmental Services
+- **Survival**: Human existence relies on natural resources such as:
+  - Fresh air
+  - Clean water
+  - Fertile soil (Sitarz 1993:2).
+  
+- **Philosophical Argument**: Humans are trustees of the environment with a duty to preserve it for future generations (Weiss 1989:2, 18).
+
+### 1.5 Impacts of Environmental Condition
+#### 1.5.1 Survival
+- **Interdependence**: Quote from Chief Seattle emphasizes connection between man and the earth.
+
+#### 1.5.2 Welfare and Quality of Life
+- **Positive Environmental Impact**: Clean, natural settings improve emotional well-being.
+- **Negative Consequences**: Pollution affects health and quality of life.
+
+#### 1.5.3 Environmental Trusteeship
+- **Duty to Future Generations**: Decisions now impact future generations (Callahan 1981:72).
+- **Examples of Consequences**: Energy resource depletion and pollution affecting future generations, such as in Hiroshima and Nagasaki.
+
+### 1.6 Cultural Heritage
+- **Preservation Concerns**: Natural and cultural heritage needs protection from erosion and neglect to maintain historical identity (Weiss 1989:13).
+
+### 1.7 Conclusion
+- **Environmental Dilemma**: Human activities significantly impact the environment; collective action is essential for sustainability.
+
+---
+
+## Chapter 2: Primary Environmental Issues
+
+(Structure and content to be developed further as per course materials.)
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## 2.1 INTRODUCTION (p. 122)
+- Global environmental dilemma affects survival of humankind.
+- Critical issues require national and international attention.
+
+## 2.2 THE POPULATION QUESTION (p. 123)
+### 2.2.1 Demographic tendencies (p. 124)
+- 18th-century population growth: Shift from natural control to gradual increase (0.5% per year).
+- Population doubled from 1750-1900 to 1.7 billion; growth rate rose to 2% by 1950.
+- Current population: 6.8 billion (1.2% growth; 77 million annual increase); projected to approach 9 billion by 2042.
+- Key factor: Medical advancements leading to longer life expectancy.
+- 70% of the population in developing states (e.g., Mozambique, India).
+
+### 2.2.2 Impact of the population on the environment (p. 127)
+- Growing populations exert pressure for food, housing, education, and resources.
+- Insufficient environmental capacity leads to unemployment, squatter camps, crime, and pollution.
+- Demand for food increases; modern agricultural methods have improved food production.
+- Despite global food production exceeding population growth, regions like sub-Saharan Africa face shortages (e.g., grain production fell behind population growth).
+- Factors contributing to food shortages: poor agricultural methods, droughts, wars, and refugee influx.
+- Future challenges: Soil degradation and depletion of water sources may limit food production.
+- Expansion of agriculture into habitats threatens biodiversity (e.g., deforestation impacts).
+
+### 2.2.2.1 Activities and programmes to control population growth (p. 135)
+- 1994 UN Cairo conference aimed to address population growth.
+- Proposals faced opposition from various groups.
+
+## 2.3 GLOBAL WARMING (p. 136)
+- Industrialisation has increased atmospheric gases (CO2, methane, CFCs).
+- Gases create greenhouse effect, trapping heat and preventing its escape.
+
+## 2.4 DEPLETION OF THE OZONE LAYER (p. 28, not included in text)
+- [Notes not provided in original text; consider providing relevant information on issues impacting ozone depletion if available.]
+
+## 2.5 THE USE OF NUCLEAR POWER AS A SOURCE OF ENERGY (p. 31, not included in text)
+- [Notes not provided in original text; consider providing relevant information on nuclear energy.]
+
+## 2.6 SOIL LOSS (p. 33, not included in text)
+- [Notes not provided in original text; consider providing relevant information on soil loss.]
+
+## 2.7 DEFORESTATION (p. 33, not included in text)
+- [Notes not provided in original text; consider providing relevant information on deforestation.]
+
+## 2.8 WATER SCARCITY (p. 34, not included in text)
+- [Notes not provided in original text; consider providing relevant information on water scarcity.]
+
+## 2.9 URBANISATION (p. 37, not included in text)
+- [Notes not provided in original text; consider providing relevant information on urbanisation.]
+
+## 2.10 POLLUTION (p. 38, not included in text)
+- [Notes not provided in original text; consider providing relevant information on pollution.]
+
+## 2.11 LOSS OF BIODIVERSITY (p. 40, not included in text)
+- [Notes not provided in original text; consider providing relevant information on biodiversity loss.]
+
+## 2.12 POVERTY (p. 40, not included in text)
+- [Notes not provided in original text; consider providing relevant information on poverty.]
+
+## 2.13 REVIEW (p. 42)
+- [Notes not provided in original text; consider providing relevant summary of content.]
+
+### Diagram References
+- **Figure 2.1**: Map of Africa – demographic impact (referenced in impact of HIV/AIDS). 
+
+(Note: For sections 2.4 to 2.12, content was not provided, thus actual notes could not be derived. Consider reviewing materials or referencing external resources for detailed insights.)
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## Chapter 2: Environmental Issues
+
+### 2.1 Greenhouse Effect
+- **Factors Contributing**:
+  - Coal burning, vehicle exhaust, industrial waste.
+  - Deforestation exacerbates CO2 accumulation (Gauteng Reports, 1997; Grant & Hawkins, 1995).
+  
+- **Global CO2 Responsibility**:
+  - Developed countries: 50% of emissions.
+  - Eastern Europe and developing nations (Brazil, Chile, India): 25% each (McMichael, 1993).
+
+- **Consequences**:
+  - Climate change; global temperature rise since 1900 by 0.6°C (Sunter, 1996).
+  - Predictions: 1°C rise by 2025; 2.5 - 3°C by end of 21st century (McMichael, 1993).
+  - Effects: Glacier melting, sea-level rise, flooding of low-lying areas (Sunter, 1996; Wilkinson, 1980).
+  - Increased natural disasters; agricultural disruption; health impacts from warmer climates (Seager, 1990; McMichael, 1993).
+
+- **Mitigation Strategies**:
+  - Shift to lead-free fuel, battery-drawn vehicles, natural gas, renewable energy (solar, wind, hydro).
+  
+### 2.2 Kyoto Protocol
+- **International Summit**: December 1997, Kyoto, Japan.
+- **Treaty Objectives**:
+  - Reduce greenhouse gas emissions by 5.2% from 1990 levels by 2012. 
+  - Specific reductions: EU (8%), Japan (6%), USA (7%). No obligations for developing nations (Lemonick, 1997).
+  
+- **Implementation Challenges**:
+  - 55% of major polluters needed for ratification.
+  - USA's refusal cited industry concerns (Malan, 2002).
+  - Status as of July 2010: 191 states ratified.
+
+### 2.3 Ozone Layer Depletion
+- **Location**: Atmospheric layer between 10-50 km.
+- **Formation and Destruction**: Continuous process; CFCs as major destructors (Grant & Hawkins, 1990).
+  
+- **Consequences of Depletion**:
+  - Increased UV radiation linked to skin cancers, cataracts, and immune suppression (McMichael, 1993).
+  
+- **UV Impact on Marine and Terrestrial Life**:
+  - Negative effects on plant growth, agriculture; major crops sensitive to UV (McMichael, 1993).
+
+- **International Response**:
+  - Montreal Protocol (1987): Initiated CFC reduction (50% by 1999); revisions for complete phase-out by 2000 for developed nations.
+  - Ongoing commitment from 196 states to recover ozone by 2050 (Speth, 2004).
+
+### 2.4 Nuclear Power
+- **Energy Source**: Makes up 13-14% of global electricity (World Nuclear News, 2010).
+- **Advantages**: Fewer harmful emissions compared to fossil fuels (Seager, 1990).
+  
+- **Concerns**:
+  - Radioactive waste management; no safe disposal solution exists (Seager, 1990).
+  - Risks associated with reactor failure; historical context: Chernobyl disaster (1986) – extensive health and environmental consequences (Environmental Science Update, 1997).
+
+- **Nuclear Weapons Link**:
+  - Concerns over potential misuse or proliferation; threats from unstable regimes and terrorism (Wilkinson, 1980).
+  - Nuclear testing impacts rendering areas uninhabitable (Seager, 1990).
+
+## Conclusions
+- **Environmental Protection**: Requires international cooperation and comprehensive legislation.
+- **Energy Strategy**: Balances renewable energy sources with nuclear risks and waste management.
+----- END OF CHUNK -----
+### 2.6 SOIL LOSS
+- Annual soil loss in South Africa: 300-400 million tons; formation rate <0.1 ton per hectare/year (Huntley et al, 1989:38).
+- Global issue; exacerbated by:
+  - Intensive crop planting, inappropriate farming methods, chemical treatments.
+  - Deforestation and overgrazing enhance erosion (Wilkinson 1989:205–206).
+- Leads to desertification: irreversible crop production decline, biodiversity loss (McMichael 1990:206).
+
+### 2.7 DEFORESTATION
+- Global loss: from 6-7 billion hectares to ~4 billion (Schwella et al, 1996:313).
+- Causes:
+  - Commercial wood use, agricultural expansion, mining, firewood gathering, cattle grazing, veld fires (McMichael 1993:252; Schwella et al 1996:313).
+- Tropical forests: crucial for biodiversity; 2/3 of plant and animal species (McMichael 1993:253).
+- Need for education and protective measures against exploitation, fires, pests, and pollution (Sitar, 1993:96–97).
+
+### 2.8 WATER SCARCITY
+- Freshwater scarcity due to limited availability; heavy agricultural water use (~67%).
+- Pollution from industrial waste and inappropriate disposal exacerbates scarcity (McMichael 1993:226).
+- Water conflicts: e.g., Middle East waters shared among Turkey, Syria, Iraq (Euphrates & Tigris); Israel & Jordan (Jordan River); Egypt, Ethiopia, Sudan (Nile).
+- Helsinki Rules: shared water rights among states without inconvenience (South Africa, Department of Water Affairs and Forestry 1997).
+- South African policy: National Water Policy framework emphasizes equitable sharing, economic utilization, and environmental conservation (South Africa, Department of Water Affairs and Forestry 1997).
+
+### 2.9 URBANISATION
+- Definition: increased concentration of people in cities via rural-to-urban migration and natural city growth.
+- Trends:
+  - Developed countries: peaked 1955–60; stabilized at 0.8% in 1990.
+  - Developing countries: rapid increase; expected 60% urbanization by 2030 (Population Reference Bureau).
+- Impacts: urbanization strains natural resources, leads to habitat destruction and increased pollution (McMichael 1993:259; Seager 1990:107). 
+
+### 2.10 POLLUTION
+- Waste generation exceeds environmental absorption capacity, risking health and ecosystems (Fyfe 1990:21).
+- Sources: households, industries, agriculture; non-biodegradable waste (e.g., batteries) contaminates groundwater (Fyfe 1990:21; Grant & Hawkins 1995:42).
+- Disposal methods: improper waste management (landfills, burning), air pollution, and toxic residue production.
+- Recycling: effective method for waste management, income generation in Third World (Seager 1990:108–109).
+- Attitudes: littering leads to environmental degradation and psychological effects.
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## Table of Contents
+1. **Environmental Issues**
+   - 1.1 Littering  
+   - 1.2 Water Pollution  
+   - 1.3 Air Pollution  
+   - 1.4 Loss of Biodiversity  
+   - 1.5 Poverty  
+
+---
+
+### 1. Environmental Issues
+
+#### 1.1 Littering
+- Opinions favor strict laws against littering in South Africa.
+- Suggested penalties: fines and community service.
+- Public role: promoting awareness and attitudes against littering.
+
+#### 1.2 Water Pollution
+- Dumping of **untreated sewage**, **industrial waste**, and **chemical fertilizers** threatens water quality and ecosystems (Fyfe 1990; McMichael 1993).
+
+#### 1.3 Air Pollution
+- Main causes: gases (CO₂, SO₂, NO₂) and particles from burning waste, veld fires, and industrial emissions.
+- Health impacts: respiratory illnesses (e.g., bronchitis, asthma, lung cancer) (Seager 1990).
+- Ecological impacts:
+  - Contributes to greenhouse effect.
+  - Acid rain affects plant growth, soil quality, and aquatic life (McMichael 1993).
+
+#### 1.4 Loss of Biodiversity
+- Causes:
+  - Urban expansion, forest destruction, wetland drainage.
+  - Pollution and climate change effects (McMichael 1993).
+- Illegal trade in wildlife: significant decline in species like elephants and rhinos (De Swardt 1997).
+
+#### 1.5 Poverty
+- Definition: absolute poverty impacts one in five globally; lack of resources for health and dignity (Miller 1995).
+- Distinction: **North** (developed) vs **South** (developing countries) (Welsh & Butyrin 1990).
+- Relation to environment:
+  - **Poverty as impact**: Poor health linked to environmental conditions, leading to compromised livelihoods.
+  - **Poverty as cause**: Financial constraints hinder use of eco-friendly technologies; overpopulation pressures sensitive land (Tham 1992).
+- Addressing issues collectively is necessary for sustainable growth and ecological preservation (Sitarz 1993).
+
+---
+
+### 2. Review
+- Environmental issues impact health and quality of life: necessity for proactive measures by individuals and governments.
+- Future focus: role of the international community and national environmental management strategies, particularly within South Africa.
+
+--- 
+
+### 3. Key Legislation and Cases
+- Reference to relevant environmental legislation not specified but is crucial in the context of pollution control and biodiversity protection.
+
+---
+
+### 4. Diagrams 
+- Include visual representations where applicable, especially in understanding pollution impacts and biodiversity loss.
+----- END OF CHUNK -----
+# PUB2606/1
+
+## THEME 2
+
+### MANIFESTATION OF ENVIRONMENTAL MANAGEMENT IN THE INTERNATIONAL, REGIONAL AND NATIONAL ARENAS
+
+---
+
+### CONTENT
+
+#### OVERVIEW
+
+- **Key Questions:**
+  - Understanding of international environmental management.
+  - Mechanisms for international environmental management.
+  - Problems associated with international environmental management.
+  - Institutions for environmental management in Southern Africa.
+  - Objectives shaping environmental management in Southern Africa.
+  - Environment-related programmes in Southern Africa.
+  - Development of environmental management practice in Southern Africa.
+  - Government levels responsible for environmental management in South Africa.
+  - Roles and functions of government levels in environmental issues.
+  - Government obligation for delivering environmental services.
+  - Other role players in environmental management.
+
+- **Key Concepts:**
+  - International environmental management
+  - Sustainable development
+  - Sovereignty
+  - International treaties
+  - Local Agenda 21
+  - Land development
+  - Supranational mechanism
+  - Conservation
+  - Development
+  - Government levels: national, provincial, local
+  - Intergovernmental relations
+  - Private sector
+
+---
+
+### LEARNING UNIT 3: ENVIRONMENTAL MANAGEMENT IN THE INTERNATIONAL CONTEXT
+
+#### Introduction
+- Overview of global environmental management frameworks.
+
+#### Historical Development and Highlights of International Environmental Management
+- Evolution of environmental governance.
+- Key milestones in international agreements.
+
+#### International Treaties as an Environmental Management Mechanism
+- Role of treaties in regulating environmental standards.
+- Examples of significant treaties.
+
+#### Obstacles to International Environmental Management
+- Challenges in enforcement and compliance.
+- Conflicts between national interests and global standards.
+
+#### Review
+- Summary of international environmental management efficacy.
+
+---
+
+### LEARNING UNIT 4: ENVIRONMENTAL MANAGEMENT IN THE REGIONAL CONTEXT
+
+#### Introduction
+- Regional approaches to environmental management.
+
+#### Establishment of the Southern African Development Community (SADC)
+- Goals and structure of SADC concerning environmental issues.
+
+#### The Southern African Development Community and the Environment
+- SADC initiatives for environmental collaboration.
+
+#### The Lesotho Highlands Water Scheme
+- Impact on regional water resource management.
+
+#### Trans-border Parks
+- Role in conservation and regional cooperation.
+
+#### Review
+- Assessment of regional environmental management efforts.
+
+---
+
+### LEARNING UNIT 5: INTRODUCTION TO ENVIRONMENTAL MANAGEMENT IN THE NATIONAL CONTEXT
+
+#### Introduction
+- National frameworks for environmental management.
+
+#### Environmental Management in South Africa: A Historical Overview
+- Key developments in South African environmental policy.
+
+#### The Legacy of Apartheid
+- Effects of apartheid on environmental governance and access.
+
+#### Review
+- Evaluation of national environmental management frameworks.
+
+---
+
+### LEARNING UNIT 6: ENVIRONMENTAL MANAGEMENT: A FUNCTIONAL PERSPECTIVE
+
+#### Introduction
+- Functional approaches to environmental management within governance.
+
+#### Constitutional Framework
+- Constitutional mandates for environmental protection.
+
+#### Environmental Management in South Africa
+- Overview of relevant legislation (e.g., **National Environmental Management Act**).
+
+#### Implementation of Environmental Legislation by Executive Institutions
+- Role of governmental bodies in executing laws.
+
+#### Enforcement of Environmental Legislation by Executive Institutions
+- Mechanisms for ensuring compliance and enforcement.
+
+#### Obstacles to Optimal Environmental Management
+- Identifying barriers to effective management.
+
+#### Intergovernmental Relations and Environmental Management
+- Coordination among various government levels for environmental tasks.
+
+#### Review
+- Summary of functional environmental management strategies.
+
+---
+
+### LEARNING UNIT 7: NON-GOVERNMENTAL ROLEPLAYERS AND THE ENVIRONMENT
+
+#### Introduction
+- Role of non-governmental actors in environmental governance.
+
+#### The Role of Individuals
+- Importance of citizen engagement in environmental initiatives.
+
+#### The Private Sector Interest Groups
+- Contributions and impacts of private entities on environmental management.
+
+#### Traditional Communities
+- Traditional ecological knowledge and governance contributions.
+
+#### Review
+- Influence of non-governmental entities on environmental policies.
+
+---
+
+### SELF-EVALUATION
+
+(Note: Self-evaluation items removed as per instruction.)
+----- END OF CHUNK -----
+# PUB2606/1
+## TABLE OF CONTENTS
+- 3.1 INTRODUCTION ......................................................................................................................... 52
+- 3.2 HISTORICAL DEVELOPMENT AND HIGHLIGHTS OF INTERNATIONAL ENVIRONMENTAL MANAGEMENT ................................................................................... 53
+  - 3.2.1 Stockholm Conference ................................................................................................. 53
+  - 3.2.2 Brundtland Report ........................................................................................................ 53
+  - 3.2.3 Rio Conference ........................................................................................................... 54
+  - 3.2.4 World Summit on Sustainable Development ......................................................... 55
+- 3.3 INTERNATIONAL TREATIES AS AN ENVIRONMENTAL MANAGEMENT MECHANISM ..................................................................................................................... 57
+- 3.4 OBSTACLES TO INTERNATIONAL ENVIRONMENTAL MANAGEMENT ................................... 58
+  - 3.4.1 Sovereignty of states ................................................................................................... 58
+  - 3.4.2 North-South polarisation ........................................................................................... 59
+- 3.5 REVIEW ............................................................................................................................................ 60
+
+## 3.1 INTRODUCTION
+- Global environmental issues (e.g., climate change, ozone depletion, population growth, poverty) require international cooperation.
+- Environmental management is an international concern, not limited to national borders.
+
+## 3.2 HISTORICAL DEVELOPMENT AND HIGHLIGHTS OF INTERNATIONAL ENVIRONMENTAL MANAGEMENT
+- International environmental management encompasses activities by the global community, including treaties and conferences.
+- Key developments:
+  1. **Stockholm Conference (1972)**
+  2. **Brundtland Report (1987)**
+  3. **Rio Conference (1992)**
+  4. **World Summit on Sustainable Development (2002)**
+
+### 3.2.1 Stockholm Conference
+- **Stockholm Declaration**: 26 principles addressing natural resources, pollution, urbanization, education, and socio-economic development.
+- **Action Plan**: 109 recommendations for environmental actions.
+- Established **UNEP** (United Nations Environmental Programme):
+  - Promotes international cooperation.
+  - Monitors global environmental conditions.
+  - Guides policy formulation.
+
+### 3.2.2 Brundtland Report
+- Originated from the **World Commission on Environment and Development** (1983).
+- Published as **"Our Common Future"** (1987).
+- Introduced **sustainable development**: Meets present needs without compromising future generations.
+- Influenced **UN Resolution 44/228** (1989) for the **Rio Conference**.
+
+### 3.2.3 Rio Conference
+- Largest UN conference held in **Rio de Janeiro** (1992).
+- Key documents:
+  - **Rio Declaration on Environment and Development**: Guidelines for environmental management emphasizing development.
+  - **Agenda 21**: Comprehensive action plan covering socio-economic issues, biodiversity, and roles of various societal groups. 
+
+### 3.2.4 World Summit on Sustainable Development
+- Held in **Johannesburg** (2002) to review **Agenda 21**.
+- Objectives:
+  - Assess progress and identify new challenges.
+  - Set targets and timelines for sustainable development.
+- Key documents:
+  - **Political Declaration**: Renewed commitment to sustainable development; calls for addressing threats like chronic diseases and natural disasters.
+  - **Plan of Implementation**: Outlines activities and concrete targets for issues like sanitation, biodiversity, and renewable energy.
+
+## 3.3 INTERNATIONAL TREATIES AS AN ENVIRONMENTAL MANAGEMENT MECHANISM
+- Treaties serve as formal agreements for cooperation and regulation of environmental issues.
+
+## 3.4 OBSTACLES TO INTERNATIONAL ENVIRONMENTAL MANAGEMENT
+
+### 3.4.1 Sovereignty of states
+- States may resist international agreements due to national sovereignty concerns.
+
+### 3.4.2 North-South polarisation
+- Disparities between developed (North) and developing (South) countries impact cooperation and effectiveness in environmental management.
+
+## 3.5 REVIEW
+- Recap of international environmental management principles and the evolution of cooperative frameworks.
+----- END OF CHUNK -----
+# PUB2606/1
+
+## 3.3 INTERNATIONAL TREATIES AS AN ENVIRONMENTAL MANAGEMENT MECHANISM
+
+- Post-1972 treaties include:
+  - International Convention on the Prevention of Pollution from Ships, 1974
+  - Convention on International Trade in Endangered Species (CITES), 1973
+  - Montreal Protocol on Substances that Deplete the Ozone Layer, 1987
+  - Basel Convention on the Trans-boundary Movements of Hazardous Wastes, 1989
+  - Framework Convention on Climate Change, 1992
+  - Convention on Biological Diversity, 1992  
+- Treaties impose rules/obligations; compliance is voluntary due to state sovereignty. No external enforcement can be applied if a state refuses to comply.
+
+## 3.4 OBSTACLES TO INTERNATIONAL ENVIRONMENTAL MANAGEMENT
+
+### 3.4.1 Sovereignty of states
+- International cooperation is hindered by national interests prioritization.
+- "Global commons" are resources outside national jurisdictions, leading to competition.
+- States often disregard international treaty regulations.
+- Examples of non-compliance: Iceland's whaling practices.
+
+### 3.4.2 North-South polarisation
+- Historical context from the 1972 Stockholm Conference highlighted discrepancies in environmental priorities between the North (development) and the South (conservation).
+- South critiques Northern focus on environmental issues diverting attention from developmental needs (poverty, debt).
+- North contributes significantly to environmental issues (e.g., 90% CO2 emissions).
+  
+#### Summary Table of Perspectives
+
+**Causes of Environmental Dilemma**  
+- South: Poverty, debt burden, trade imbalances.  
+- North: Overpopulation, mismanagement, lack of technology.  
+
+**Solutions**  
+- South: Sustainable growth, debt relief, fair trade relations.  
+- North: Birth control, environmental impact evaluations, debt relief for programs.  
+
+- Sustainable development concept aims to balance growth and conservation, yet conflicts persist at international conferences.
+- The South employs environmental concerns in negotiations (e.g., "debt-for-nature swaps"), leading to debt reduction incentive schemes.
+
+## 3.5 REVIEW
+- Effective international environmental management hinges on cooperation.
+- Challenges include state sovereignty and North-South divides leading to prioritization of national interests over global environmental concerns. 
+
+---
+
+# LEARNING UNIT 4
+
+## ENVIRONMENTAL MANAGEMENT IN THE REGIONAL CONTEXT
+
+### TABLE OF CONTENTS
+- 4.1 INTRODUCTION ................................................................................................. 63
+- 4.2 ESTABLISHMENT OF THE SOUTHERN AFRICAN DEVELOPMENT COMMUNITY (SADC) ... 63
+- 4.3 THE SOUTHERN AFRICAN DEVELOPMENT COMMUNITY AND THE ENVIRONMENT ... 65
+- 4.4 THE LESOTHO HIGHLANDS WATER SCHEME ................................................... 67
+- 4.5 TRANS-BORDER PARKS .................................................................................. 69
+- 4.6 REVIEW ............................................................................................................. 69
+----- END OF CHUNK -----
+**63  
+PUB2606/1  
+Learning Unit 4  
+ENVIRONMENTAL MANAGEMENT IN THE REGIONAL CONTEXT**
+
+### KEY CONCEPTS  
+- Regional  
+- Southern African Development Community  
+- Trans-border parks  
+
+---
+
+### 4.1 INTRODUCTION  
+- Regional environmental management addresses unique local problems, specifically in Southern Africa with the role of SADC.
+
+### 4.2 ESTABLISHMENT OF THE SOUTHERN AFRICAN DEVELOPMENT COMMUNITY (SADC)  
+- **SADCC established on 1 April 1980** under Lusaka Declaration to reduce member states' economic dependency on South Africa.  
+- Initial members: Angola, Botswana, Lesotho, Malawi, Mozambique, Swaziland, Tanzania, Zambia, Zimbabwe, with Namibia joining in 1990.  
+- **SADC founded on 17 August 1992** for greater economic integration; South Africa and Mauritius joined in 1994 and 1995, respectively.  
+- Objectives of SADC:  
+  - Development and economic growth  
+  - Poverty relief  
+  - Improvement of population quality of life  
+  - Promotion of peace and security  
+  - Sustainable resource utilisation and environmental conservation  
+  - Development and transfer of technology (SADC ELMS, 1994; SADC ELM Sector, 1996)  
+
+---
+
+### 4.3 THE SOUTHERN AFRICAN DEVELOPMENT COMMUNITY AND THE ENVIRONMENT  
+- **Institutional Framework**: Environmental issues managed since inception; initial scope expanded from Soil and Water Conservation to Environment and Land Management Sector.  
+- **Long-term environmental policy and strategy enacted** to address:  
+  - Population growth impacting natural resources  
+  - Soil erosion  
+  - Desertification  
+  - Insufficient water  
+  - Decrease in biodiversity  
+  - Air and water pollution (SADC ELMS, 1994)  
+- **Challenges** facing SADC:  
+  - Limited financial and technological resources  
+  - Lack of expertise and training facilities  
+  - Insufficient research and environmental monitoring  
+  - Low public participation (SADC ELMS, 1994)  
+
+---
+
+### 4.4 ENVIRONMENTAL STRATEGY AND OBJECTIVES  
+- Objectives of Environmental and Land Management Sector:  
+  - Improve health and environment for southern Africa’s people  
+  - Support the majority poor  
+  - Preserve natural heritage, biodiversity, ecosystems  
+  - Promote sustainable economic development  
+  - Enhance decision-making and technological capabilities  
+  - Establish effective legal and institutional frameworks  
+  - Launch information and educational programs for public participation  
+  - Promote integration and global cooperation (SADC ELM Sector, 1996)  
+
+---
+
+### 4.5 PRIORITIES AND PROGRAMMES  
+- **Key Priorities Identified**:  
+  - Management of communal water resources  
+  - Improvement of water quality  
+  - Access to water and sanitation  
+  - Economic growth  
+  - Access to affordable housing  
+  - Control over hazardous waste disposal  
+  - Development of alternative energy sources (SADC ELMS, 1994)  
+- **Programmes include:**  
+  - Training in conservation, sustainable farming practices, and desertification management.  
+  - Development of an Environmental Information System for regional coordination.  
+  - Integrated water management planning (e.g., Zambezi River) to maximize benefits from communal water resources.  
+  - Funded by member states and external donors (UNDP, Norwegian, Danish, German aid).
+
+---
+
+### 4.6 THE LESOTHO HIGHLANDS WATER SCHEME  
+- Example of collaboration between Lesotho and South Africa.  
+- **Treaty details**: Water from Senqu-Orange River pumped to Vaal River for South Africa, generating hydroelectric power for Lesotho.  
+- **Economic Impacts**:  
+  - South Africa benefits from access to water, vital for survival, sanitation, manufacturing, and mining; supports economic stability.  
+  - Lesotho achieves energy self-sufficiency, receives royalties for water supplied, contributing to national income.  
+- **Definition**: "Royalties" refers to payments made by South Africa to Lesotho for water, derived from users in South Africa.
+
+---
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## 4.5 TRANS-BORDER PARKS
+- Definition: Conservation areas extending over national borders, managed collectively (Department of Environmental Affairs and Tourism 2002:88).
+- Purpose: Restore ecosystems and historical migration patterns; eliminate barriers (fences) for wildlife.
+- Key Contributors: 
+  - Authorities from bordering areas
+  - Private sector (funding support)
+  - NGOs
+  - Local communities (infrastructure development and job creation)
+- Examples of Trans-Border Parks:
+  - Ai-Ais/Richtersveld Park (South Africa and Namibia)
+  - Kgalagadi Park (South Africa and Botswana)
+  - Limpopo-Shashe Park (South Africa, Botswana, and Zimbabwe)
+
+## 4.6 REVIEW
+- Environmental issues specific to regions should be addressed at a regional level.
+- Institutional framework provided by Southern African Development Community (SADC) focused on environmental management.
+- Key objectives outlined in SADC relevant sectors.
+
+## LEARNING UNIT 5: INTRODUCTION TO ENVIRONMENTAL MANAGEMENT IN THE REGIONAL CONTEXT
+   
+### TABLE OF CONTENTS
+- 5.1 INTRODUCTION
+- 5.2 ENVIRONMENTAL MANAGEMENT IN SOUTH AFRICA: A HISTORICAL OVERVIEW
+- 5.3 THE LEGACY OF APARTHEID
+- 5.4 REVIEW
+
+### 5.1 INTRODUCTION
+- Focus shifts to national level environmental management in South Africa.
+- Historical context traced back to 17th century with a focus on conservation.
+- Evolution towards a holistic approach encompassing manmade and natural environments.
+
+### 5.2 ENVIRONMENTAL MANAGEMENT IN SOUTH AFRICA: A HISTORICAL OVERVIEW
+- Early focus: Conservation of species; later expanded to ecosystem management (Schwella & Müller 1992:72).
+- Initial regulations (1652): Protected gardens, soil, trees, and wildlife (Rabie & Fuggle 1992:13).
+- 1800-1900: 
+  - Enhanced laws for tree protection and wildlife conservation.
+  - Establishment of Cape Department of Forestry (1875) & first game reserve, Pongola Nature Reserve (1894) (Rabie & Fuggle 1992:14).
+- 1919-1969: 
+  - Legislation on air/water pollution, land use, pesticides (Rabie & Fuggle 1992:16-18).
+  - Creation of the Department of Planning (1964) for coordinated environmental legislation (Schwella & Müller 1992:73).
+- 1970s: Global environmental awareness; establishment of various committees focused on environmental conservation (Rabie & Fuggle 1992:18-19).
+- 1980-1990:
+  - Emphasis on national environmental policy; introduction of Environment Conservation Act 100 of 1982.
+  - Council for the Environment established as a statutory body (Schwella & Müller 1992:74).
+  - 1989: Environment Conservation Act 73 of 1989 created a comprehensive policy for environmental protection.
+- Need for integrated management recognized; the principle of sustainable development established (section 24 of Constitution, 1996).
+- Significant policies include:
+  - Reconstruction and Development Programme (RDP, 1994)
+  - White Paper on Environmental Management Policy (1997).
+  
+### 5.3 THE LEGACY OF APARTHEID
+*(Content not provided for summarization)*
+
+### 5.4 REVIEW
+*(Content not provided for summarization)*
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## Chapter 5: The Legacy of Apartheid
+- **Impact on Environment**
+  - Political policies, notably apartheid, significantly influenced the environment.
+  - Apartheid distorted relations with nature, causing overcrowding and unsafe practices for basic needs.
+
+### Effects of Apartheid on the Environment
+- **Manmade Environment**
+  - Restriction of residence for “non-Whites” led to overcrowding.
+  - Urban areas experienced inadequate infrastructure and sanitation.
+  - Pollution from industrial activity and urban waste disposal.
+  
+- **Natural Environment**
+  - Unsustainable land management in homelands.
+  - Overgrazed pastures, deforested areas, reduced stream flow.
+  - Soil erosion due to high population density.
+
+### Quality of Life Concerns
+- Quality of life closely linked to environmental conditions.
+- Poor housing, inadequate sanitation, and pollution negatively impacted physical and mental health.
+  
+### Conservation and Environmental Awareness
+- Apartheid hindered conservation efforts and awareness.
+- Lack of access to natural areas and education on environmental management.
+
+### Recommendations for Improvement
+- Address environmental injustices through government initiatives.
+- **Reconstruction and Development Programme (RDP)** aims to:
+  - Ensure sustainable resource use.
+  - Provide equal access to resources and healthy living conditions.
+  - Promote community participation and empowerment.
+
+## Chapter 6: Environmental Management: A Functional Perspective
+- **Holistic Environmental Management**
+  - Emerged gradually and requires consideration of multiple factors.
+  - Addressing apartheid's environmental issues is essential for overall well-being.
+
+---
+
+## Environmental Impact Assessment Regulations of 2014
+- **Legislation**: National Environmental Management Act 107 of 1998.
+- **Purpose**: Regulate environmental authorisation processes.
+  
+### Chapters Overview
+- **Chapter 1: Interpretation and Purpose**
+  - Definition of terms and intent of regulations.
+
+- **Chapter 2: Time Frames**
+  - Guidelines for application decision notification.
+
+- **Chapter 3: General Application Requirements**
+  - Application submission guidelines.
+  - Responsibilities of competent authorities, proponents, and applicants.
+
+- **Chapter 4: Application Process for Environmental Authorisation**
+  - General application procedures.
+  - Basic assessment and scoping process.
+
+- **Chapter 5: Amendment and Compliance**
+  - Amendments without change in scope, amendments with scope changes, compliance audits.
+
+- **Chapter 6: Public Participation**
+  - Importance and process of public participation in environmental decisions.
+
+- **Chapter 7: General Matters**
+  - Compliance issues, resubmission of applications, special assistance.
+
+- **Chapter 8: Transitional Arrangements**
+  - Definitions and continuity of actions under prior regulations.
+
+### Repeal Note
+- Regulations replaced the Environmental Impact Assessment Regulations of 2010, excluding Chapters 5 and 7.
+----- END OF CHUNK -----
+# PUB2606/1
+
+## TABLE OF CONTENTS
+- **3976.1 INTRODUCTION** .................................................................................................................. 82  
+- **3986.2 CONSTITUTIONAL FRAMEWORK** .................................................................................... 82  
+- **3996.3 ENVIRONMENTAL MANAGEMENT IN SOUTH AFRICA** .................................................. 84  
+  - **4036.3.1 Environmental management at the national level of government** .......................... 84  
+  - **4016.3.2 Environmental management at the provincial level of government** ..................... 86  
+  - **4026.3.3 Environmental management at local government level** ......................................... 88  
+- **4036.4 IMPLEMENTATION OF LEGISLATION BY EXECUTIVE INSTITUTIONS** ........................ 91  
+  - **4046.4.1 Performance of direct environmental functions** .......................................................... 92  
+  - **4056.4.2 Establishment of control measures** .......................................................................... 92  
+  - **4066.4.3 Authorisation of actions** ........................................................................................... 92  
+  - **4076.4.4 Granting of rights** ....................................................................................................... 93  
+  - **4086.4.5 Exemptions** ................................................................................................................ 93  
+  - **4096.4.6 Quasi-judicial functions** .......................................................................................... 93  
+- **4106.5 ENFORCEMENT OF ENVIRONMENTAL LEGISLATION BY EXECUTIVE INSTITUTIONS** ... 93  
+  - **4126.5.1 Notices** ......................................................................................................................... 94  
+  - **4136.5.2 Suspension or cancellation of authorisation** ......................................................... 94  
+  - **4146.5.3 Detention of property as security** ........................................................................... 94  
+  - **4156.5.4 Search and seizure** .................................................................................................. 94  
+  - **4166.5.5 Enforcement of court orders** ................................................................................... 95  
+- **4176.6 OBSTACLES TO OPTIMAL ENVIRONMENTAL MANAGEMENT** ....................................... 95  
+- **4186.7 INTERGOVERNMENTAL RELATIONS AND ENVIRONMENTAL MANAGEMENT** ............ 97  
+- **4196.8 REVIEW** ............................................................................................................................ 98  
+
+---
+
+## 81
+### 6.1 INTRODUCTION
+- National governments primarily responsible for environmental management.
+- Importance of understanding South African government’s functional role in environmental issues.
+
+### 6.2 CONSTITUTIONAL FRAMEWORK
+- **Constitution of the Republic of South Africa, 1996**: Highest authority; establishes framework for government actions.
+- **Section 24**: Rights to a healthy environment; obligations for protection and sustainable use of natural resources.
+  - **Government Obligations**:
+    - Protect ecosystems, biological diversity.
+    - Conservation and sustainable use of resources.
+    - Maintain a high-quality environment.
+    - Legislative measures for rights enforcement.
+  - **Individual Obligations**:
+    - Maintain clean environments.
+    - Avoid damaging practices.
+
+### 6.3 ENVIRONMENTAL MANAGEMENT IN SOUTH AFRICA
+- Three governmental spheres: National, provincial, local.
+- Requires legislative policy and organizational structures for implementation.
+
+#### 6.3.1 Environmental management at the national level of government
+- **Parliament**: Legislative powers over environmental matters per **Schedule 4**.
+  - Concurrent matters include pollution control, land preservation.
+- **Executive authority**:
+  - **Department of Environmental Affairs (DEA)**: Key role in environmental management.
+    - Establishes national standards, policies, monitors activities, implements international treaties.
+    - Key legislation: 
+      - **Environment Conservation Act 73 of 1989**
+      - **National Environmental Management Act 107 of 1998**.
+
+#### 6.3.2 Environmental management at the provincial level of government
+- Provincial legislatures empowered to legislate on concurrent powers.
+- Exclusive powers over matters in **Schedule 5**; Parliament's intervention only for national concerns (security, economic unity).
+
+### 6.4 IMPLEMENTATION OF LEGISLATION BY EXECUTIVE INSTITUTIONS
+#### 6.4.1 Performance of direct environmental functions 
+- Examine direct roles of executive institutions in environmental duties.
+
+#### 6.4.2 Establishment of control measures
+- Implementation of regulatory measures by executive bodies.
+
+#### 6.4.3 Authorisation of actions
+- Processes to permit environmentally impactful actions.
+
+#### 6.4.4 Granting of rights
+- Mechanisms for providing rights in environmental contexts.
+
+#### 6.4.5 Exemptions
+- Conditions under which regulations may be exempted.
+
+#### 6.4.6 Quasi-judicial functions
+- Roles of institutions in adjudicating environmental disputes.
+
+### 6.5 ENFORCEMENT OF ENVIRONMENTAL LEGISLATION BY EXECUTIVE INSTITUTIONS
+#### 6.5.1 Notices
+- Issuance of enforcement notices.
+
+#### 6.5.2 Suspension or cancellation of authorisation
+- Procedures for revoking permissions.
+
+#### 6.5.3 Detention of property as security
+- Legal basis for property detention.
+
+#### 6.5.4 Search and seizure
+- Protocols for environmental law enforcement.
+
+#### 6.5.5 Enforcement of court orders
+- Mechanisms ensuring compliance with judicial decisions.
+
+### 6.6 OBSTACLES TO OPTIMAL ENVIRONMENTAL MANAGEMENT
+- Identifying barriers to effective environmental governance.
+
+### 6.7 INTERGOVERNMENTAL RELATIONS AND ENVIRONMENTAL MANAGEMENT
+- Dynamics between governmental spheres affecting environmental policies.
+
+### 6.8 REVIEW
+- Summary and review of the key concepts and frameworks discussed.
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## Chapter 6: Environmental Management
+
+### 6.3 Provincial Environmental Governance
+
+#### 6.3.1 Legislative Competence of Provincial Legislatures
+- Exclusive legislative power in environmental matters as per South Africa 1996, section 44 (2).
+- Environment-related matters (Part A, Schedule 5):
+  - Provincial culture
+  - Archives (non-national)
+  - Libraries (non-national)
+  - Museums (non-national)
+  - Provincial recreation
+
+- Local government matters (Part B, Schedule 5):
+  - Noise pollution
+  - Refuse removal and dumps
+  - Solid waste disposal
+  - Municipal parks and recreation
+  - Beaches and amusement facilities
+
+#### 6.3.2 Provincial Executive Authority
+- All nine provinces have departments for environmental affairs executing related legislations; examples include:
+  - **Gauteng Department of Agriculture and Rural Development** operates in three branches: Agriculture, Conservation, Rural Development. 
+
+### 6.3.3 Local Government Environmental Management
+
+#### 6.3.3.1 Role of Local Councils
+- Local councils can promulgate by-laws under section 156 (1) and (2) of the Constitution for environmental matters in Part B of Schedules 4 and 5.
+
+#### 6.3.3.2 Local Executive Authority
+- Section 156(4): National and provincial governments assign administration of specific matters to local governments if:
+  - Best managed locally
+  - Local capacity exists
+
+- Local government handles:
+  - Noise pollution
+  - Littering
+  - Solid waste management
+  - Local nature reserves
+
+- Example: **City of Johannesburg** - Department of Environment and Infrastructure Services.
+
+### 6.4 Implementation of Legislation by Executive Institutions
+
+#### 6.4.1 Performance of Direct Environmental Functions
+- Direct functions relate to government-owned land (e.g., parks).
+- **National Parks Act 57 of 1976, section 12**: Authority to construct necessary infrastructure in parks.
+- Former **Forest Act 122 of 1984** outlined responsibilities for habitat restoration and soil erosion prevention.
+
+#### 6.4.2 Establishment of Control Measures
+- Delegation of legislative powers to executive institutions (ministers/MECs) for regulation.
+- **Environmental Conservation Act 73 of 1989**: Minister can issue regulations on waste management and noise control.
+
+- **Marine Living Resources Act 18 of 1998, section 77**: Ministerial regulation-making powers, e.g., fisheries management.
+
+#### 6.4.3 Authorisation of Actions
+- Authority to grant permits/licenses for actions otherwise prohibited.
+- **Environment Conservation Act**: Requires a permit for waste disposal site operations.
+- **Nuclear Energy Act 131 of 1993, section 51**: Licenses needed for nuclear installations and radioactive material handling.
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## 6.4    Executive Institutions and Environmental Rights
+### 6.4.4    Granting of Rights
+- **Legislation**: Environmental legislation empowers institutions to grant rights potentially harmful to the environment.
+- **Example**: Section 18 of the **Marine Living Resources Act of 1998** allows the Minister to grant rights for fishing and processing.
+
+### 6.4.5    Exemptions
+- **Legislation**: Institutions can exempt individuals from compliance with certain provisions.
+- **Examples**:
+  - Section 25 of **Prevention and Combating of Pollution of the Sea by Oil Act 6 of 1981** allows exemptions for vessels.
+  - Section 81 of the **Marine Living Resources Act** permits ministerial exemptions under specific conditions.
+
+### 6.4.6    Quasi-judicial Functions
+- **Definition**: Quasi-judicial actions affect rights, privileges, and liberties; encompass permit/license decisions.
+- **Example**: 
+  - **Council for Nuclear Safety** reviews licenses for nuclear installations (**South Africa 1993, section 51**).
+  - **Appeal Rights**: Section 35 of the **Environment Conservation Act** allows appeal against permit denials.
+
+## 6.5    Enforcement of Environmental Legislation
+### 6.5.1    Notices
+- **Authority**: Institutions can issue notices to cease pollution.
+- **Enforcement**: Non-compliance constitutes a criminal offense.
+- **Legislation**: **Atmospheric Pollution Prevention Act 45 of 1965** outlines procedures for remediation.
+
+### 6.5.2    Suspension or Cancellation of Authorization
+- **Conditions**: Permits/licenses may be suspended or revoked if conditions are breached.
+- **Legislation**: Section 28 of the **Marine Living Resources Act** details contravention grounds.
+
+### 6.5.3    Detention of Property
+- **Authority**: Certain institutions may detain property until damage costs are settled.
+- **Legislation**: Section 19 of the **Prevention and Combating of Pollution of the Sea by Oil Act** enables vessel detention.
+
+### 6.5.4    Search and Seizure
+- **Authority**: Officials may enter and seize property if pollution is suspected.
+- **Legislation**: Section 51 of the **Marine Living Resources Act** allows confiscation of fisheries-related items.
+
+### 6.5.5    Enforcement of Court Orders
+- **Authority**: Institutions can enforce compliance with court orders regarding environmental damages.
+- **Legislation**: Section 29(7) of the **Environment Conservation Act** allows institutions to repair damage if the transgressor fails.
+
+## 6.6    Obstacles to Optimal Environmental Management
+- **Fragmentation**: Numerous acts complicate implementation and enforcement.
+- **Lack of Priority**: Environmental management is not prioritized, leading to insufficient funding and personnel.
+- **Financial Solutions**:
+  - Airport tax for tourists.
+  - Allocation from gambling revenues.
+  - Tax incentives for donations to environmental preservation.
+  
+- **Judicial Challenges**: Fixed fines limit judicial discretion; alternative penalties like community service should be considered.
+
+## 6.7    Intergovernmental Relations and Environmental Management
+### Cooperation Principles (Constitution, Section 41)
+- Government levels must:
+  - Foster friendly relations.
+  - Assist and support each other.
+  - Inform and consult on common interests.
+  - Coordinate actions and legislation.
+  - Adhere to procedures to avoid litigation.
+
+### Legislative Conflicts
+- **National Legislation**: Prevails over provincial legislation if:
+  - It cannot be suitably regulated at the provincial level.
+  - Uniform treatment across the Republic is required.
+  - It is necessary for national security and environmental conservation (Section 146 of the Constitution).
+
+## 6.8    Review
+- Environmental management complexity arises from multi-tiered governance and various stakeholders, including NGOs. Further examination of non-governmental roles will be addressed in **Learning Unit 7**.
+----- END OF CHUNK -----
+# PUB2606/1
+## LEARNING UNIT 7
+### NON-GOVERNMENTAL ROLEPLAYERS AND THE ENVIRONMENT
+
+---
+
+### TABLE OF CONTENTS
+- 7.1 INTRODUCTION.............................................................................................................101
+- 7.2 THE ROLE OF INDIVIDUALS...........................................................................................101
+  - 7.2.1 Environmental education...........................................................................................................104
+- 7.3 THE PRIVATE SECTOR....................................................................................................104
+- 7.4 INTEREST GROUPS.........................................................................................................106
+- 7.5 TRADITIONAL COMMUNITIES.......................................................................................106
+- 7.6 REVIEW...........................................................................................................................107
+- 7.7 SELF-EVALUATION....................................................................................................................108
+
+---
+
+### 7.1 INTRODUCTION
+- Partnership of government, individuals, private sector, and interest groups essential for environmental management.
+- Focus on roles and contributions to environmental management.
+
+### 7.2 THE ROLE OF INDIVIDUALS
+- Individuals’ welfare linked to environmental quality; obligations toward environmental stewardship.
+- Awareness can lead to environmentally beneficial practices.
+  
+**Actions individuals can take:**
+- Recycling and waste reduction.
+- Planting trees; supporting environment-friendly products.
+- Forming carpool clubs to reduce greenhouse gas emissions.
+- Advocating through petitions against harmful corporate practices.
+
+- Individual actions matter; influential in shaping government policies (e.g., **White Paper on Environmental Management Policy for South Africa**).
+  
+### 7.2.1 Environmental education
+- Crucial for engaging individuals in environmental responsibility.
+- **White Paper on Environmental Education (1989)** aims to foster responsible living harmonizing with environmental health.
+  
+**Principles of effective environmental education:**
+- Holistic consideration of natural and manmade environments.
+- Lifelong learning approach; beginning at preschool, continuing throughout life.
+- Interdisciplinary methodology; promoting learner participation.
+- Addressing issues across various contexts (international to local).
+- Emphasizing individual responsibility in environmental matters (South Africa, Department of Environmental Affairs 1989).
+
+### 7.3 THE PRIVATE SECTOR
+- Private sector operations (mining, industry) often criticized for causing environmental degradation (e.g., industrial waste, air pollution).
+- Necessary for the private sector to contribute to effective environmental management.
+- Regulatory framework established by government requires cooperation (e.g., compulsory environmental impact assessments).
+
+--- 
+
+### 7.4 INTEREST GROUPS
+[Content not provided; structure preserved]
+
+### 7.5 TRADITIONAL COMMUNITIES
+[Content not provided; structure preserved]
+
+### 7.6 REVIEW
+[Content not provided; structure preserved]
+
+### 7.7 SELF-EVALUATION
+[Content not provided; structure preserved] 
+
+--- 
+
+**Note:** All legislative references and significant cases should be highlighted based on the context provided in the original document. Where diagrams are mentioned, adequate references should be indicated without detailed explication.
+----- END OF CHUNK -----
+# PUB2606/1 Study Notes
+
+## 7.4 INTEREST GROUPS
+- **Key Interest Groups**: Greenpeace, Earthwatch, Friends of the Earth, South African Wildlife and Environment Society, Earthlife Africa, National Heritage Programme, Trees for Africa.
+- **Role of NGOs**:
+  - Influence decision-making through protest actions, petitions.
+  - Direct communication with politicians and officials (media engagement).
+  - Lobbying for environmental policies.
+  - Providing expert advice to policymakers.
+- **Community Mobilization**: Involvement in environmental projects, fundraising, and education.
+- **Global Cooperation**: Formation of coalitions for international collaboration on environmental matters (Schwella et al 1996:268).
+
+## 7.5 TRADITIONAL COMMUNITIES
+- **Context**: Outlying rural communities may lack knowledge about environmental issues.
+- **Need for Education**: Environmental education to promote understanding while respecting cultural practices.
+
+## 7.6 REVIEW
+- **Importance of Participation**: Optimal management requires active involvement from all societal sectors.
+- **Barriers to Participation**: Apathy and complacency hinder engagement, necessitating a shift in attitudes towards environmental issues.
+
+## Principles of Environmental Responsibility (from CERES)
+- Protection of the biosphere (air, water, land).
+- Sustainable natural resource utilization.
+- Waste reduction through recycling; responsible disposal when recycling isn’t possible.
+- Responsible energy use.
+- Minimizing health and safety risks for communities.
+- Marketing of environmentally friendly products.
+- Responsibility for environmental damage; reparative actions.
+- Transparency in publicizing damaging practices.
+- Commitment to uphold ethical principles.
+- Evaluation of progress on principles (Baer-Brown & Rhein 1995).
+
+## Significance of Environmental Principles
+- Affirm corporate responsibility towards the environment.
+- Conduct business as responsible stewards.
+- Ensure future generations can meet their needs (Baer-Brown & Rhein 1995:157). 
+
+---
+
+### Learning Activities (removed for brevity)
+
+### Assessment: The following sections pertain to summarizing concepts and various evaluations related to international environmental management, treaties, and role of entities in sustainable development which are outside the scope of this summary. 
+
+---
+
+## THEME 3
+### THE PURSUIT OF SUSTAINABLE DEVELOPMENT IN SOUTH AFRICA
+- Contains multiple learning evaluations regarding environmental law and management in South Africa, as well as international perspectives on environmental strategies which emphasize the interconnectedness of local and global environmental issues.
+
+(*Note: Specific questions and evaluations have been omitted as per request.*)
+----- END OF CHUNK -----
+## PUB2606/1
+### CONTENT
+- **OVERVIEW**
+  - Key questions
+  - Key concepts
+
+---
+
+### LEARNING UNIT 8: SUSTAINABLE DEVELOPMENT AND THE RECONSTRUCTION AND DEVELOPMENT PROGRAMME
+
+#### 8.1 INTRODUCTION
+- Definition of sustainable development as the basis for environmental management in South Africa.
+- Examines the relationship between sustainable development and the Reconstruction and Development Programme (RDP).
+
+#### 8.2 SUSTAINABLE DEVELOPMENT
+- **Brundtland Report, 1987:** International prominence for sustainable development; foundation for 21st-century environmental management.
+- **Definition:** 
+  - Wise use of natural resources across generations (Yeld, 1997).
+  - Emphasis on conservation within the context of poverty alleviation and development (Yeld, 1997).
+  - Improvement of global quality of life with ecological consideration (Yeld, 1997).
+- **Requirements for Sustainable Development:**
+  - Improvement in quality of life.
+  - Prevention of non-renewable resource exhaustion.
+  - Respect for earth's carrying capacity.
+  - Change in attitudes and practices.
+  - Formation of a global alliance.
+  - Integration of development and conservation in national policy (Yeld, 1997).
+
+#### 8.3 THE RECONSTRUCTION AND DEVELOPMENT PROGRAMME (RDP)
+- Aims and objectives related to social, economic, and environmental improvement.
+  
+##### 8.3.1 The Working for Water (WfW) Programme
+- Focus on water resource management and job creation through ecological restoration.
+
+##### 8.3.2 The Working on Fire (WoF) Programme
+- Emphasis on fire management to enhance safety and reduce fire hazards while conserving biodiversity.
+
+#### 8.4 REVIEW
+- Summary of key points on sustainable development and the RDP. 
+
+---
+
+### KEY QUESTIONS
+- Definition and significance of sustainable development.
+- Overview of the RDP and its main objectives.
+- Connection between the RDP and sustainable development.
+- Influence of the RDP on environmental matters.
+- Explanation of Integrated Environmental Management (IEM).
+- Phases of IEM.
+
+### KEY CONCEPTS
+- Sustainable development – Tšwetšopele ye e swarelelago
+- Reconstruction and Development Programme – Lenaneo la Kagoleswa le Tlhabollo
+- Integrated environmental management – Taolo ye e akaretšago ya tikologo
+- Environmental impact assessment – Tekolo ya ditlamorago tikologong
+----- END OF CHUNK -----
+### 8.3 THE RECONSTRUCTION AND DEVELOPMENT PROGRAMME (RDP)
+
+- **Overview**
+  - RDP: socio-economic framework adopted in 1994
+  - Objectives:
+    - Basic needs satisfaction (housing, water)
+    - Human resources development (education, training)
+    - Economic development
+    - Societal democratisation (ANC, 1994:1)
+
+- **Environmental Considerations**
+  - RDP objectives align with sustainable development principles.
+  - Requires careful natural resource management.
+  - Environmental degradation from apartheid has lasting effects.
+  - Environmental considerations essential to prevent further damage.
+
+- **Job Creation and Environmental Impact**
+  - Natural resources critical for work (food, mining, manufacturing).
+  - Careful management of water, land, renewable energy essential.
+  - Wildlife and nature reserves contribute to job creation and tourism.
+  - Recycling industry offers economic and job opportunities. 
+  - Housing projects must avoid ecologically sensitive areas. 
+
+- **Development Implications**
+  - Economic development requires environmental impact studies.
+  - Promotion of recycling and eco-friendly technologies.
+  - Education in environmental matters enhances public awareness.
+  
+- **Policy Framework**
+  - White Paper on Environmental Management emphasizes integrated, sustainable environmental management.
+  - Environmental considerations must inform all decisions in project planning (ANC, 1994:39, 40).
+
+#### 8.3.1 The Working for Water (WfW) Programme
+- Launched in 1995 to address invasive alien plants and unemployment.
+- Focus on:
+  - Enhancing water security.
+  - Improving ecological integrity.
+  - Sustainable land use.
+- Achievements:
+  - Cleared over one million hectares of invasive plants.
+  - Offered jobs/training to marginalized individuals (Müller, 2007:49).
+- Multi-departmental initiative involving various government departments.
+
+#### 8.3.2 The Working on Fire (WoF) Programme
+- Initiated in 2003 to manage veld and forest fires.
+- Basis: National Veld and Forest Fire Act 101 of 1998.
+- Programme objectives:
+  - Promote sound land management.
+  - Job creation and skills development in firefighting.
+  - Resource pooling for cost-effective fire management.
+- Achievements:
+  - Establishment of firefighting bases and training for over 1,000 firefighters (Müller, 2007:54).
+
+### 8.4 REVIEW
+- RDP's primary objectives align with sustainable development, serving as a strategy for achieving sustainability in South Africa.
+- Implementation must prioritize environmental sensitivity to avoid resource depletion.
+
+---
+
+### LEARNING UNIT 9 INTEGRATED ENVIRONMENTAL MANAGEMENT
+
+#### 9.1 INTRODUCTION
+- Overview of Integrated Environmental Management (IEM).
+
+#### 9.2 MEANING AND OBJECTIVES OF INTEGRATED ENVIRONMENTAL MANAGEMENT (IEM)
+- Definition and key objectives of IEM.
+
+#### 9.3 PHASES OF IEM
+- **9.3.1 Phase 1: Proposal development and environmental impact assessment**
+- **9.3.2 Phase 2: Consideration of the application and decision-making by government**
+- **9.3.3 Phase 3: Implementation of development proposal**
+
+#### 9.4 REVIEW
+- Summary of IEM principles and framework.
+----- END OF CHUNK -----
+# PUB2606/1
+## Learning Unit 9: INTEGRATED ENVIRONMENTAL MANAGEMENT
+
+### 9.1 INTRODUCTION
+- Development in South Africa must consider environmental protection.
+- Integrated Environmental Management (IEM) processes guide the inclusion of environmental considerations in development planning.
+
+### 9.2 MEANING AND OBJECTIVES OF INTEGRATED ENVIRONMENTAL MANAGEMENT (IEM)
+- Established by the Council for the Environment in 1984; a national environmental policy recommended in 1989.
+- IEM aims to balance development and conservation by incorporating environmental considerations systematically during all development phases.
+
+### 9.3 PHASES OF IEM
+- **Phase 1:** Proposal development and environmental impact assessment.
+- **Phase 2:** Consideration of the proposal and decision-making.
+- **Phase 3:** Implementation of the development proposal.
+
+**Key Parties Involved:**
+- Developer: Individual/institution pursuing development.
+- Government: Local, provincial, or national bodies approving proposals.
+- Other stakeholders: Affected communities and interest groups.
+
+#### 9.3.1 Phase 1: Proposal Development and Environmental Impact Assessment
+- Proposal initiation for contemplated activities (e.g., construction).
+- Steps include:
+  - Notification and consultation with affected parties.
+  - Consultation with government institutions for required permissions.
+  - Identification of alternatives and environmental impact reduction strategies.
+- **Environmental Impact Assessment (EIA)**:
+  - Required if proposal significantly impacts the environment.
+  - Initial EA for uncertain impacts or activities listed in IEM documents.
+
+**Activity & List References:**
+- Activities with significant adverse effects (e.g., construction projects, hazardous waste transport).
+- Environments requiring assessment (e.g., conservation areas, wetlands).
+
+**Regulations (Gov Gazette, 5 Sept 1997):**
+- Governs EIAs, identifying activities with potential significant effects.
+
+**Approval Process:** 
+- Developers must appoint independent consultants to follow regulations.
+
+**Steps for Approval:**
+1. **Submission of Application:**
+   - Application to relevant provincial government or local authority.
+   - Special referrals to Minister in specific cases (importance or policy implications).
+   
+2. **Submission of Scoping Report:**
+   - Contains project description, environmental impact potential, issues, alternatives, and public consultation.
+
+3. **Investigation and Environmental Impact Report:**
+   - In-depth investigation into environmental impacts with a study plan submission before the EIR.
+   - The report should cover alternative assessments, public participation, and issues raised.
+
+#### 9.3.2 Phase 2: Consideration of Application and Decision-Making by Government
+- After EIR receipt, government decides to approve or reject with record documentation.
+- Appeals allowed within 30 days of decision issuance.
+
+**Conditions for Approval:**
+- Environmental management plans and contracts to enforce compliance during project implementation.
+
+#### 9.3.3 Phase 3: Implementation of Development Proposal
+- Approval leads to project implementation.
+- Developer must monitor:
+  - Compliance with condition approvals.
+  - Mitigation measures and adherence to plans.
+- Monitoring evaluates mitigation effectiveness and accuracy of environmental predictions.
+
+---
+----- END OF CHUNK -----
+### Chapter 9: Integrated Environmental Management (IEM)
+
+#### 9.4 Review
+- Auditing should occur after project completion to assess environmental impact.
+- **Objectives of Auditing**:
+  - Evaluate effectiveness of environmental planning.
+  - Verify accuracy of investigation outcomes.
+  - Reflect on decisions made during the process.
+  - Assess effectiveness of approval conditions and monitoring.
+
+- Information gleaned from audits enhances the IEM process (South Africa, Department of Environmental Affairs 1992; Council for the Environment 1989).
+  
+- **Importance of IEM**:
+  - Essential for environmental consideration throughout development phases—from planning to implementation.
+  - Achieves balance between environmental conservation and development.
+  
+- **Diagram Reference**: Figure 9.1 - Schematic Representation of Integrated Environmental Management. 
+
+#### Reference List
+- Listing of significant sources relevant to the IEM field and sustainable development principles, including:
+  - **African National Congress** (1994): Reconstruction and Development Programme framework.
+  - **Department of Environmental Affairs**: Online resources for further exploration.
+
+This summary retains key points and structures from the original content while compressing the information for study effectiveness.
+----- END OF CHUNK -----
+# Study Notes on Environmental Law and Governance
+
+## 1. Introduction
+- Understanding the integration of environmental law and sustainable development is crucial.
+- Legislation and policies shape environmental management practices.
+
+## 2. Key Literature and Resources
+- **Bangladesh**: Importance of integrating environment and development (Imber, 1994).
+- **International Agreements**: Understanding the Earth Summit Agreements (Grubb et al., 1993).
+- **Local Perspectives**: Insights on poverty & environment linkage (Tham, 1992).
+
+## 3. Legislation Overview
+- **South Africa's Environmental Policies**: 
+  - **1997 Legislation**: Activities detrimental to the environment (Govt. Notice R 1183).
+  - **Local Governance**: 1998 White Paper (Ministry for Provincial Affairs).
+- **International Framework**: 
+  - **UN Resolutions**: Intergenerational equity & common heritage (Weiss, 1989).
+
+## 4. Environmental Management Strategies
+- **Integrated Environmental Management**: Utilization and sustainable practices (South Africa, 1989).
+- **Pollution Control Strategies**: Framework for national policy in integrated pollution control (1994).
+- **Strategic Plans**: Environmental Sector 2009–2014 (South Africa, 2009).
+
+## 5. Sustainable Development Goals
+- **Johannesburg Declaration on Sustainable Development (2002)**: Focus on practical actions.
+- **Agenda 21**: Earth Summit strategy emphasizing sustainable practices (Sitarz, 1993).
+  
+## 6. Principles of Environmental Law
+- **Precautionary Principle**: Prevention of harm when the science is uncertain (Aldous, 1999).
+- **Polluter Pays Principle**: Hold polluters financially accountable (Rabie & Fuggle, 1992).
+  
+## 7. Socioeconomic Context
+- **Population Dynamics**: Influence on environmental policy (Myers, 1993; Population Reference Bureau, 2005).
+- **Resource Management**: Role in development within impoverished regions (Omara-Ojungu, 1992).
+
+## 8. Governance Models
+- **Emerging Governance**: Stakeholder involvement in sustainable practices (Müller, 2007).
+- **Public Resource Management**: Critical for effective environmental governance (Schwella et al., 1996).
+
+## 9. Conclusion
+- The integration of legal frameworks, local governance, and sustainable practices is imperative for effective environmental management.
+- Continuous assessment of policies and stakeholder engagement is necessary for advancing environmental goals.
+
+### References
+- Legislation and publications mentioned provide further detail on environmental laws and sustainable practices. 
+- Diagrams referenced in original texts supporting the understanding of governance structures and environmental impacts can be reviewed where applicable.

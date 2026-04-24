@@ -1,0 +1,1863 @@
+### © 2018 University of South Africa  
+**PVL3704/1**  
+**CONTENTS**
+
+- **INTRODUCTION**  
+  - Overview of module: Undue Enrichment and Estoppel  
+  - Importance of integrating knowledge from other private law modules  
+  - Role of equity and reasonableness, influence of the Constitution  
+  - Relevance of Ubuntu principle in legal development  
+
+---
+
+### Study unit 1: GENERAL OVERVIEW
+
+#### 1.1 INTRODUCTION TO UNJUSTIFIED ENRICHMENT
+
+- **Unjustified enrichment**: Legal remedy for situations where one party is enriched at the expense of another without just cause.
+- Key concepts include:
+  - **Defendant’s enrichment**
+  - **Plaintiff’s impoverishment**
+  - **Absence of a legal basis for enrichment**
+
+---
+
+### Study unit 2: GENERAL REQUIREMENTS FOR ENRICHMENT LIABILITY
+
+#### 2.1 INTRODUCTION
+- Enrichment liability requires satisfaction of conditions, including the lack of legal justification for enrichment.
+
+#### 2.2 GENERAL REQUIREMENTS FOR ENRICHMENT LIABILITY
+- **Key Requirements**:
+  - Enrichment must occur.
+  - Impoverishment of another party must be evidenced.
+  - No valid defense against the claim.
+
+#### 2.3 NATURE AND EXTENT OF ENRICHMENT CLAIMS
+- Consideration of limitations on claims and the principle of proportionality.
+
+---
+
+### Study unit 3: CONDICTIO INDEBITI: GENERAL REQUIREMENTS
+
+#### 3.1 INTRODUCTION
+- Focus on payments made by mistake.
+
+#### 3.2 ROMAN LAW
+- Historical background of **condictio indebiti**.
+
+#### 3.3 ROMAN-DUTCH LAW
+- Development and application in Roman-Dutch context.
+
+#### 3.4 APPLICATION IN SOUTH AFRICAN LAW
+- Interpretation and implementation of **condictio indebiti** within South African legal framework.
+
+---
+
+### Study unit 4: CONDICTIO INDEBITI: SPECIFIC APPLICATIONS
+
+#### 4.1 INTRODUCTION
+- Application of condictio indebiti in specific contexts.
+
+#### 4.2 STATUTORY ENRICHMENT ACTION: ALIENATION OF LAND ACT
+- Legal foundations addressing recoverable payments under statutory law.
+
+#### 4.3 THE CONDICTIO INDEBITI AND THE LAW OF SUCCESSION
+- Interaction of unjustified enrichment with succession law.
+
+#### 4.4 THE CONDICTIO INDEBITI AND THE LAW OF INSOLVENCY
+- Treatment of undue payments in insolvency cases.
+
+#### 4.5 ULTRA VIRES PAYMENTS AND THE CONDICTIO INDEBITI
+- Payments exceeding authority and recovery actions.
+
+#### 4.6 PAYMENTS MADE UNDER DURESS AND PROTEST
+- Recovery claims for coerced payments.
+
+---
+
+### Study unit 5: CONDICTIO OB TURPEM VEL INIUSTAM CAUSAM
+
+#### 5.1 INTRODUCTION
+- Overview on claims based on immoral cause.
+
+#### 5.2 ROMAN LAW
+- Historical stance on turpitude and contractual enforceability.
+
+#### 5.3 ROMAN-DUTCH LAW
+- Adaptation and development in Roman-Dutch law.
+
+#### 5.4 APPLICATION IN SOUTH AFRICAN LAW
+- Contemporary application and case law references.
+
+---
+
+### Study unit 6: CONDICTIO CAUSA DATA CAUSA NON SECUTA
+
+#### 6.1 INTRODUCTION
+- Conditions under which causa must follow.
+
+#### 6.2 APPLICATION IN SOUTH AFRICAN LAW
+- Practical examples and judicial interpretation.
+
+---
+
+### Study unit 7: CONDICTIO SINE CAUSA SPECIALIS
+
+#### 7.1 INTRODUCTION
+- Situations lacking a specific cause.
+
+#### 7.2 APPLICATION IN SOUTH AFRICAN LAW
+- Case law application of sine causa principle.
+
+#### 7.3 APPLICATION OF THE CONDICTIO INDEBITI IN CHEQUE LAW
+- Specifics of cheque law and unjust enrichment.
+
+---
+
+### Study unit 8: NEGOTIORUM GESTIO
+
+#### 8.1 INTRODUCTION
+- Concept of dealings in the interest of another.
+
+#### 8.2 APPLICATION IN SOUTH AFRICAN LAW
+- Recognition and remedies under South African statutes.
+
+---
+
+### Study unit 9: ENRICHMENT BY MEANS OF IMPROVEMENTS AND ATTACHMENTS (ACCESSIO)
+
+#### 9.1 INTRODUCTION
+- General principles of accessio.
+
+#### 9.2 SOUTH AFRICAN LAW
+- Implementation and relevant case references.
+
+---
+
+### Study unit 10: ENRICHMENT BY MEANS OF IMPROVEMENTS AND ATTACHMENTS (ACCESSIO) – CONTINUED
+
+#### 10.1 INTRODUCTION  
+- In-depth exploration of accessio applications.
+
+#### 10.2 OCCUPIERS AND HOLDERS (DETENTORES)
+- Distinctions between holders and possessors in law.
+
+#### 10.3 OCCUPIERS/HOLDERS AT WILL (PRECARIO HABENS)
+- Legal implications of precarious holdings.
+
+---
+
+### Study unit 11: RIGHTS OF RETENTION AND LIENS
+
+#### 11.1 INTRODUCTION
+- Fundamental rights concerning retention.
+
+#### 11.2 IMPENSAE NECESSARIAE
+- Definition and conditions of necessary expenses.
+
+#### 11.3 IMPENSAE UTILES
+- Classification of useful expenses.
+
+#### 11.4 IMPENSAE VOLUPTUARIAE
+- Non-essential but beneficial expenditures.
+
+---
+
+### Study unit 12: ENRICHMENT ACTION AGAINST AND BY MINORS
+
+#### 12.1 INTRODUCTION
+- Legal considerations and protection of minors in enrichment cases.
+
+#### 12.2 SOUTH AFRICAN LAW
+- Specific statutory provisions regarding minors.
+
+---
+
+### Study unit 13: COMPENSATION FOR WORK DONE AND SERVICES RENDERED
+
+#### 13.1 INTRODUCTION
+- Basic principles of compensation law.
+
+#### 13.2 CONTRACTS FOR WORK
+- Enrichment claims arising from work performed.
+
+#### 13.3 CONTRACTS FOR SERVICES
+- Legal framework concerning service-rendering claims.
+
+---
+
+### Study unit 14: GENERAL ENRICHMENT ACTION
+
+#### 14.1 INTRODUCTION
+- Overview of general enrichment claims and principles.
+
+#### 14.2 COMMON LAW
+- Case law principles guiding enrichment under common law.
+
+#### 14.3 NORTJÉ V POOL 
+- Analysis of case and implications for enrichment law.
+
+#### 14.4 WAY FORWARD: THREE RECENT SUPREME COURT OF APPEAL CASES
+- Impacts of recent decisions on enrichment principles.
+
+#### 14.5 CONCLUSION
+- Summation of enrichment principles moving forward.
+
+---
+
+### GLOSSARY OF LATIN TERMS AND THEIR MEANING  
+- Essential legal terms and definitions relevant to the study module.  
+
+---
+----- END OF FILE -----
+# PVL3704/1 Study Notes
+
+## 1. Introduction
+- Solve multidimensional legal problems
+- Engage with legal text, making notes/inferences
+- Perform basic research tasks in law
+- Write a basic research report
+
+### 1.2.2 Specific outcomes of this module
+- Understand pressing issues regarding **enrichment liability** and **estoppel** in South African law.
+- Apply knowledge of enrichment liability and estoppel in various contexts.
+- Conduct research to produce critical legal arguments, with responsibility for the opinions advanced.
+- Identify issues related to enrichment liability and estoppel in real or simulated scenarios.
+- Interpret daily occurrences concerning enrichment liability and estoppel.
+- Critically evaluate the relevance of legal sources regarding enrichment liability and estoppel.
+- Provide expert advice on actions to take regarding these legal issues.
+- Critically assess different viewpoints on theoretical and practical issues related to enrichment liability and estoppel.
+
+## 1.3 Method of Study
+
+### 1.3.1 Study Material
+- Study material consists of the study guide, extracts from cases, textbooks, and journal articles.
+- All case law and articles are accessible via Unisa library's e-resources, including **Jutastat, LexisNexis**, and **SAFLII**.
+- **The Law of South Africa (LAWSA)** is a key resource for this module, including topics on enrichment and estoppel.
+
+### 1.3.4 Historical Development
+- Understanding historical development aids in grasping modern enrichment liability.
+- Acknowledge Roman and Roman-Dutch law's influence on current enrichment actions.
+- Focus on:
+  - General requirements for enrichment liability.
+  - Specific requirements for different actions.
+  - Fields of application for each action.
+  - Critical assessment of differing legal views.
+
+## 1.4 Examination
+- Knowledge required:
+  - General requirements for **enrichment liability**.
+  - Specific requirements for different enrichment actions.
+
+### Examination Question Types
+- **Theoretical Questions:** Systematic discussion of material.
+- **Problem-type Questions:**
+  - Identify legal issues (1–2/10)
+  - Discuss relevant rules (3–4/10)
+  - Apply rules to facts (3–4/10)
+  - Provide solutions (1–2/10)
+- **Critical Assessment Questions:**
+  - Recognize issues (1–2/10)
+  - Summarize viewpoints (3–4/10)
+  - Critically evaluate viewpoints (3–4/10)
+  - Present a reasoned viewpoint (1–2/10)
+
+## 1.5 Study Unit 1: General Overview
+
+### 1.1 Introduction to Unjustified Enrichment
+- Examines **unjustified enrichment** as the third major source of obligations in South African law.
+- Historical context crucial for understanding modern law, particularly references to Roman and Roman-Dutch law principles.
+
+### 1.1.1 Enrichment as a source of obligation
+- **Private Law Categories**:
+  - **Contract**: Obligations created by agreement.
+  - **Delict**: Obligations arise from unlawful actions causing damage.
+  - **Unjustified Enrichment**: Obligations arising in situations outside contract and delict.
+- Current law derived from Roman and Roman-Dutch law, with minimal legislative influence (e.g., **Alienation of Land Act 68 of 1981**, **National Credit Act 34 of 2005**).
+- Modern enrichment law influenced by constitutional principles, yet limited influence evident thus far.
+
+### Recommended Reading Material
+- Du Plessis, J.: *The South African law of unjustified enrichment* (2012).
+- Eiselen, S. & Pienaar, G.: *Unjustified enrichment: a casebook* (4th ed. 2016).
+- Lotz, G. & Brand, F.D.J.: “Enrichment” in *The Law of South Africa* Vol 9 (2nd ed. 2005).
+- Visser, D.: *Unjustified enrichment* (2008).
+  
+### Significant Case References
+- **Chevron SA (Pty) Ltd v Wilson** (2015) 10 BCLR 1158 (CC)
+- **Cool Ideas 1186 CC v Hubbard** (2014) 4 SA 474 (CC)
+- **McCarthy Retail Ltd v Shortdistance Carriers CC** (2001) 3 SA 482 (SCA)
+- **National Credit Regulator v Opperman** (2013) 2 BCLR 170 (CC)
+
+## Diagram Reference
+- See **FIGURE 1.1**: Structure of private law for visual understanding of obligations sources.
+----- END OF FILE -----
+# PVL3704/1
+## STUDY UNIT 1: General overview
+
+### Development of Enrichment Law
+- **Supreme Court of Appeal (SCA)**: Recent emphasis on general requirements for enrichment liability.
+- **Structure Similarity**: Unjustified enrichment parallels delict law with General principles and specific remedies.
+- **Change in Principles**: Courts developing general principles, criticism of focus on specific remedies.
+
+### UNJUSTIFIED ENRICHMENT LAW
+#### General Principles
+- **Enrichment**
+- **Impoverishment**
+- **Sine causa requirement** (without sufficient legal cause)
+- **Causality** (at the expense of requirement)
+
+#### Condictiones sine causa
+- **Condictio Indebiti**
+- **Condictio ob turpem vel iniustam causam**
+- **Condictio causa data causa non secuta**
+- **Condictio sine causa specialis**
+- **Bona fide possessors**
+- **Bona fide occupiers**
+- **Mala fide possessors and occupiers**
+- **Actio negotiorum gestorum utilis**
+- **Actio negotiorum gestorum contraria**
+- **Locatio conductio operis**
+- **Locatio conductio operarum**
+
+### Obligations in Enrichment
+- **Nature of Obligation**: An obligation arises to restore the enrichment received at the expense of another.
+
+### Necessity for Enrichment Liability
+- **Justification for Enrichment**: Essential to address situations where assets are obtained without legal grounds.
+- **Examples in South African Law**: 
+    - **Accessio**: Improvements on property lead to unjust enrichment of the landowner at the occupant's expense.
+    - **Transfer of Ownership**: Mistaken belief in valid sales leading to unjust transfers.
+
+### Constitutional Framework
+- **Section 25 of the Constitution**: Protects property from arbitrary deprivation unless justified by law with compensation. 
+  - Includes broad interpretation of "property" to cover assets beyond land.
+  - **Case Reference**: *National Credit Regulator v Opperman and Others 2013 2 BCLR 170 (CC)*.
+
+### Concepts of Good Faith
+- **Relation to Good Faith**: Essential in the context of Ubuntu, public policy, and fairness in contract and enrichment law.
+- **Case Reference**: *Everfresh Market Virginia (Pty) Ltd v Shoprite Checkers (Pty) Ltd 2012 1 SA 256 (CC)* highlights incorporation of Ubuntu into legal interpretations.
+
+### Historical Development
+- **Roman and Roman-Dutch Law**: Root of South African enrichment law with minimal influence from English Common Law.
+- **Roman Law Sources**: 
+  - *D 12 6 14*: Prohibition against unjust enrichment.
+  - *D 50 17 206*: Natural law equity discouraging profiting at another’s expense.
+  
+- **Historical Shifts**: Evolution from specific enrichment actions to an emerging general enrichment action recognized under South African law.
+
+### Judicial Recognition of Enrichment Actions
+- **Distinct Judicial Opinions**: Some courts have highlighted an absence of general principle yet acknowledged principles of unjustified enrichment as sources for obligations.
+- **Key Cases**: 
+  - *McCarthy Retail Ltd v Shortdistance Carriers CC 2001 3 SA 482 (SCA)* recognizes piecemeal development of enrichment liability without unequivocal general action.
+
+### Ongoing Developments
+- Essential understanding of enrichment principles and actions stemming from a need for fairness and correction in legal relationships, reflecting communal values and principles of Ubuntu.
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 1: General overview (Page 9)
+
+- **General Action**: 
+  - Mediaeval writers and Grotius did not recognize an independent action for unjustified enrichment.
+  - Notable influence from Spanish jurists noted; Grotius possibly viewed unjustified enrichment as a source of obligations akin to contract/delict.
+  - Schrage (ed.) *Unjust Enrichment: The Comparative Legal History of the Law of Restitution* provides insights into Grotius’ stance.
+
+- **18th Century Developments**:
+  - By the 18th century, the **Hooge Raad** accepted the general enrichment action. 
+  - Individual judges differed in description; significant impact of unreported decisions by Bynkershoek and Pauw noted.
+  - The common-law basis for recognizing general enrichment action exists, although incorrect in **Nortjé’s case**.
+
+- **Current South African Enrichment Law**:
+  - No general enrichment action but general requirements applicable to specific enrichment acts.
+  - Existing actions can extend to new situations; potential development of a general enrichment action alongside existing ones.
+  - Tendency noted in case law to prioritize general principles over specific actions (Eiselen and Pienaar, Unjustified enrichment 3–4).
+
+- **Principles vs. Actions**:
+  - De Vos emphasized extraction of universally applicable principles, transforming liability focus from specific actions to broader principles.
+  - This shift aligned enrichment law with the principles seen in contract and delict.
+  
+- **Shift in Judicial Perception**:
+  - Recognition by the **Supreme Court of Appeal** (Kudu Granite Operations (Pty) Ltd v Caterna Ltd [2003] 3 All SA 1; Glenrand MIB Financial Services (Pty) Ltd and Others v Van den Heever NO [2013] 1 All SA 511) regarding general requirements.
+
+- **Ongoing Developments**:
+  - **Visser, McCarthy, Nissan South Africa (Pty) Ltd v Marnitz NO**, and **Glenrand** cases raised questions about enrichment liability's scope.
+  - Suggestions of expanding enrichment liability in line with the Constitution and Ubuntu.
+
+## Development of General Principles in South African Law (Page 11)
+
+- **Key Requirements for Enrichment**:
+  - Plaintiff must have been impoverished.
+  - Defendant must have been enriched.
+  - Enrichment must be sine causa (without legal cause).
+  - Causality: enrichment at the impoverished party's expense.
+  
+- **Judicial Citations**:
+  - **St Helena Primary School and Another v MEC: Department of Education** (2007) highlights the necessity of basic requirements under recognized actions.
+  - Reference to four identified requirements established in various cases (Kudu Granite Operations; McCarthy Retail Ltd).
+
+- **Distinction from Other Liabilities**:
+  - Enrichment law distinct from contractual and delictual liability.
+  - No overlap where contractual liability exists; enrichment liability excluded due to sine causa principle.
+  
+- **Extent of Liability**:
+  - Plaintiff entitled to the lesser amount between their impoverishment or the defendant's enrichment.
+  - Enrichment value determined at the action institute's time.
+  - Defendant not liable for unutilized potential benefits from enrichment gains.
+
+- **Reduction or Extinction of Liability**:
+  - Liability can be reduced if enrichment is lost before action starts.
+  - Instances where earlier dates for calculations apply:
+    - Awareness of unjust enrichment.
+    - Realization of potential unjust benefit.
+    - Mora debitoris.
+    - Bad faith (mala fide) actions.
+
+- **Minor Exception**:
+  - Enrichment of minors confined to amounts when an unauthorized contract is involved.
+  
+- **Purpose of Unjustified Enrichment Law**:
+  - Functions as a corrective mechanism to prevent unfair enrichment aligns with constitutional values of fairness and Ubuntu.
+
+## STUDY UNIT 2: General Requirements for Enrichment Liability (Page 14)
+
+### General Requirements for Enrichment Liability
+- **Elements**:
+  - **Enrichment**: Must show that the defendant has gained.
+  - **Impoverishment**: Plaintiff must demonstrate a loss.
+  - **Causality**: Enrichment should occur at the impoverished party's expense.
+  - **Sine causa**: Enrichment must lack legal justification.
+
+### Overview
+- In South African law, general requirements exist for actions based on enrichment despite no general enrichment action being recognized (**Nortjé case previously referenced**). 
+
+### Practical Scenarios
+1. **Deposit Case**:
+   - B paid a deposit for a stud bull that died before contract conclusion. Can B reclaim deposit?
+
+2. **Painting Case**:
+   - D mistakenly painted E’s house instead of C’s per contract. Can D claim from C or E?
+
+3. **Fencing Repairs**:
+   - H repaired fences for F who absconded. Can H claim from G?
+----- END OF FILE -----
+# PVL3704/1
+## STUDY UNIT 2: General requirements for enrichment liability
+- **Case Examples** 
+  - I’s sale of car to J; market value discrepancy: R50,000 vs R30,000.
+  - K steals L's laptop; sold to M for R2,000 – Can L claim?
+
+### Learning Outcomes
+- Assess enrichment and impoverishment via case law.
+- Clarify favorable/detrimental side-effects.
+- Define indirect enrichment.
+- Analyze key cases regarding “at-the-expense-of” requirement:
+  - **Brooklyn House Furnishers (Pty) Ltd v Knoetze and Sons 1970 3 SA 264 (A)**
+  - **Buzzard Electrical (Pty) Ltd v 158 Jan Smuts Avenue Investments (Pty) Ltd and Another 1996 4 SA 19 (A)**
+  - **Gouws v Jester Pools (Pty) Ltd 1968 3 SA 63 (T)**
+- Explain sine causa with case references.
+- Determine impoverished party's entitlements and claim valuation methods.
+- Apply principles to examples.
+
+### Recommended Reading Material
+- De Vos W “Enrichment at whose expense?” 1969 SALJ 227–230
+- Eiselen S & Pienaar G *Unjustified enrichment: a casebook* 4th ed (2016) 29–82
+- Lotz G *The law of South Africa* Vol 9 2nd ed (2005) paras 207–209
+- **Key Cases**:  
+  - Brooklyn House Furnishers (Pty) Ltd v Knoetze and Sons
+  - Buzzard Electrical (Pty) Ltd v 158 Jan Smuts Avenue Investments (Pty) Ltd
+  - Gouws v Jester Pools (Pty) Ltd
+  - Kudu Granite Operations (Pty) Ltd v Caterna Ltd
+  - McCarthy Retail Ltd v Shortdistance Carriers CC
+
+### Additional Reading Material
+- De Vos W *Verrykingsaanspreeklikheid in die Suid-Afrikaanse reg* (1987) 340–343
+- Du Plessis J *The South African law of unjustified enrichment* (2012) 151–160
+- Scholtens JE “Enrichment at whose expense?” 1968 SALJ 369–372
+- **Key Cases**: 
+  - ABSA Bank Ltd t/a Bankfin v Stander t/a CAW Paneelkloppers
+  - Auby and Patellides (Pty) Ltd v Glen Anil Investments (Pty) Ltd
+  - Odendaal v Van Oudtshoorn
+  - Singh v Santam Insurance Company Ltd
+  - Standard Kredietkorporasie v Jot Motors h/a Vaal Datsun
+  - Wynland Construction (Pty) Ltd v Ashley-Smith en Andere
+
+## 2.1 INTRODUCTION
+- **Liability Basis**: Asset movement must show:
+  - Plaintiff's impoverishment.
+  - Defendant's enrichment.
+  - Legally relevant relationship exists.
+- **Claim Recognition**: Requires enrichment to be unjustified (sine causa).
+- **Claim Calculation**: Lesser of the two amounts (enrichment or impoverishment).
+- **Property Transfer**: If property exists with enriched party, retransfer possible; otherwise claim value.
+- Distinguish between:
+  - Contractual liability arising from agreements.
+  - Delictual liability from unlawful acts.
+  - Enrichment liability from value transferred without legal basis.
+
+## 2.2 GENERAL REQUIREMENTS FOR ENRICHMENT LIABILITY
+### 2.2.1 The defendant must be enriched
+- **Forms of Enrichment**:
+  - Increase in assets: **Brooklyn House Furnishers Ltd v Knoetze & Sons**
+  - Non-decrease in assets: **Guarantee Investment Corporation Ltd v Shaw**
+  - Decrease in liabilities: 
+  - Non-increase in liabilities.
+
+- **Value in Claim**: Enrichment comprises either the thing or its value at claim time.
+
+### 2.2.2 The plaintiff must be impoverished
+- **Quantum of Claim**: Lesser of defendant's enrichment or plaintiff's impoverishment.
+- **Constitutes of Impoverishment**:
+  - Decrease in assets.
+  - Non-increase in assets.
+  - Increase in liabilities.
+  - Non-decrease in liabilities.
+  
+- **Side-effects**: Consideration of both beneficial and detrimental side-effects affecting claims.
+
+### Example Scenarios
+- A & B lease land, enhancing value and incurring expenses – proper evaluation of enriching and impoverishing facts is crucial.
+- Assessing favorable or detrimental factors in enrichment actions to determine actual amounts for claims.
+
+
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 2: General Requirements for Enrichment Liability
+
+### 2.2.3 The Defendant’s Enrichment Must Have Been at the Expense of the Plaintiff
+- Causal link required between the defendant's enrichment and the plaintiff's impoverishment.
+- Indirect enrichment issues arise when benefit accrues to a third party (C) while performing for another (B).
+  - **Examples**: 
+    - A contracts with B to build for B, but C owns the property.
+    - A repairs B's car, unknowingly belonging to C.
+    - A subcontracts from B for work benefiting C.
+- If B pays A, C is enriched at B's expense; if B becomes insolvent, A's claim may be complex.
+- **De Vos's View**: C enriched at B’s expense, not A’s, negating A’s claim against C.
+- **Gouws v Jester Pools (1968) 3 SA 653 (T)** endorsed De Vos's perspective, ruling no action from A against C.
+- **Criticism**: 
+  - Van der Walt, Scholtens, and Van Zyl argue A should succeed based on direct transfer.
+  - Illustrations of scenarios reinforcing the direct transfer concept.
+    - **Example**: A completes work for B; if B pays C directly, A can claim against C.
+    - **Example**: Materials supplied move from A to B and then C, not satisfying the direct transfer concept.
+
+### 2.2.4 The Enrichment Must Have Been Sine Causa (Unjustified)
+- Enrichment liability must also ensure that retention of benefits is inequitable.
+- **Van der Walt Definition**: Enrichment is sine causa if no obligation exists between the enriched and impoverished.
+- **De Vos's Critique**: Broadens the understanding of unjustified enrichment to include situations lacking direct obligations, such as court orders or prescription claims.
+
+### 2.2.5 Practical Examples from Case Law
+- **Greenhills Producers (Pty) Ltd v Benjamin (1960) 4 SA 188 (E)**:
+  - Facts: Contract for sheep between company and defendants fell away upon winding up.
+  - Company sought enrichment action for sheep kept post-contract; critical focus on whether enrichment was sine causa.
+  - **Decision**: Court held consideration of unjustified enrichment crucial, determining defendant's benefits were unjustified based on prior contract.
+
+**Notes on Enrichment and Rights**:
+- Enrichment lien (right of retention) indicates a strong interest in claims for necessary expenses incurred.
+- **Brooklyn House case & McCarthy considerations** explore lien possessor rights where ownership issues surfaced.
+
+**Diagram References**: 
+- Causal link concept illustrated via flowcharts depicting enrichment vs. impoverishment interactions.
+----- END OF FILE -----
+# PVL3704/1
+## STUDY UNIT 2: General requirements for enrichment liability
+
+### 2.1 Sine Causa Requirement
+- **Principle**: Enrichment must be unjust; joint errors by parties negate unjustness.
+   - Case: *Dugas v Kempster Sedgwick (Pty) Ltd* 1961 1 SA 784 (D): Buyer’s enrichment from invalid sale is not unjust.
+   - Case: *Auby and Patellides (Pty) Ltd v Glen Anil Investments (Pty) Ltd* 1960 4 SA 865 (A): Causa for transfer can justify enrichment; no entitlement for improvements post-cancellation.
+   - Case: *Buzzard Electrical*: Subcontractor claims against owner; enrichment justified by contract with the developer.
+
+### 2.2 Nature and Extent of Enrichment Claims
+- **Objective of Claim**: Transfer of specific items or property back to original owner from the enriched party.
+   - **Ownership Transfers**: Automatic under South African law despite invalid contracts; restitution via value claims if third party involved.
+   - Example: If a horse sold at R150,000 is resold at R140,000, original owner claims residual value of R140,000.
+  
+- **Calculation of Liability**: Generally at lodgment of claim (litis contestatio), but can be earlier under certain conditions:
+   - **Knowledge Provisions**: Liability diminished if the enriched party can prove loss not their fault.
+   - **Negligence**: Enriched party remains liable unless they demonstrate loss was unavoidable.
+   - **Implied Knowledge**: Enrichment pegged to when a reasonable person should have recognized the enrichment.
+
+- **Mora Debitoris**: Default does not relieve liability unless loss proved unavoidable if retransfer timely made.
+   - Distinction in mora contexts; only recognized post-demand for retransfer or payment.
+
+- **Mala Fide Conduct**: If bad faith in enrichment reduction, liability may fix to an earlier date than claim lodgment.
+
+- **Minors Exception**: Liability of minors restricted to enrichment amount at claim time (referencing *Edelstein case*).
+
+### 2.3 Practical Scenarios 
+- **Key Considerations**:
+   - Scenario 1: If deposit payment inconclusive due to void contract, B can make a full claim against A.
+   - Scenario 2: Enrichment determination hinges on contractual relationships and performance fulfillment; assess potential implicit enrichment of E.
+   - Scenario 3: Indirect enrichment needs application of principles from related cases (Gouws, Buzzard Electrical, McCarthy).
+   - Scenario 4: Valid contracts elicit analysis of enrichment cause (sine causa).
+   - Scenario 5: Distinguish enrichment claims from delictual or property claims (e.g., actio rei vindicatio). 
+
+## STUDY UNIT 3: Condictio Indebiti: General Requirements
+- **Learning Objectives**: Understand distinctions among various enrichment actions and requirements.
+  
+### General Principles of Unjustified Enrichment Law
+- **Fundamentals**:
+   - Enrichment, impoverishment, sine causa requirement, causality (enrichment at the expense of another).
+  
+### Types of Condictiones
+- **Condictio Indebiti**
+- **Condictio Ob Turpem Vel Iniustam Causam**
+- **Condictio Causa Data Causa Non Secuta**
+- **Condictio Sine Causa Specialis**
+- **Bona Fide Possessors and Occupiers**
+- **Mala Fide Possessors and Occupiers**
+- **Actio Negotiorum Gestorum Utilis**
+- **Actio Negotiorum Gestorum Contraria**
+- **Locatio Conductio Operis**
+- **Locatio Conductio Operarum** 
+
+### Practical Scenario Overview
+- **Scenario Analysis**: Evaluate mistaken payments and potential recovery from Bank B or debtor to determine legal recourse based on unjustified enrichment principles. 
+
+---
+
+This structured synthesis preserves key concepts while significantly condensing the original text.
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 3: Condictio indebiti: general requirements
+
+**Overview**
+- Examines condictio indebiti, focusing on the requirements and error element.
+
+---
+
+### 3.1 Introduction
+- Performance under a mistaken belief may be reclaimed via condictio indebiti.
+- Historical foundations in Roman law adapted into South African law.
+
+---
+
+### 3.2 Roman Law
+- **Requirements for condictio indebiti**:
+  - **Datio**: Transfer of money or things.
+  - **Error**: Payment made under the impression it was owed.
+  - **Undue Payment**: Payment made without a debt existing.
+
+- **Key Principles**:
+  - Knowledge of non-debt negates claim (animus donandi).
+  - Only factual mistakes (error facti) recoverable; legal errors (error iuris) generally not.
+  - No recovery under natural obligations.
+  - Receiver restores benefits (including fruit) with allowances for necessary expenses.
+
+---
+
+### 3.3 Roman-Dutch Law
+- Generally mirrors Roman law with equity considerations.
+- Obligation to return valued items or equivalent if the item is lost/alienated.
+- The receiver can defend against repayment if loss incurred after awareness (but before default).
+
+---
+
+### 3.4 Application in South African Law
+- **Condictio indebiti** as an unjustified enrichment remedy.
+- Can claim from parties other than actual recipients (e.g., agents).
+  
+**Requirements**:
+1. **Transfer of Ownership**: Includes corporeal and incorporeal things.
+2. **Mistake**: Must be a reasonable mistake (iustus error).
+3. **Claim under Duress/Protest**: Presumes reclaimable undues.
+
+- **Impoverished Party Must Prove**:
+  - Payment not owed.
+  - Payment made by mistake (excusable).
+
+- **Contention** over retention of iustus error requirement; seen as outdated by some schools of thought.
+
+---
+
+### Additional Notes on Legal Implications
+- **Defenses for Enriched Parties**: Non-enrichment claims; failure to retain separate accounting does not negate the defense.
+- **Circumstances for Total Liability**:
+  - Awareness of non-debt.
+  - Later realization of non-debt.
+  - Should have foreseen potential undue nature.
+
+- **Interest of Enrichment in Non-retention Cases**:
+  - Responsible for the total value if payment made knowingly or if no reasonable basis existed for returning partially.
+
+---
+
+**Pressure for Reform**: Potential for constitutional considerations (e.g., fairness and equality) to influence the removal or reform of the iustus error requirement in future legal interpretations.
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 3: Condictio indebiti: general requirements  
+
+- **Mora Interest**
+  - Liability for interest arises from mora, not enrichment principle.
+  - Damages equate to interest lost by the creditor due to delayed payment.
+  - Enriched party in mora only after demand for repayment by impoverished party.
+  - Impoverished party cannot claim interest earned by enriched party pre-mora.
+  
+- **Error Requirement for Condictio Indebiti**
+  - The delivering party must be unaware the performance was not owed.
+  - Action relevant only if the error is a mistake of fact (error facti); mistakes of law (error iuris) excluded prior to **Willis Faber Enthoven v Receiver of Revenue and Another**.
+  
+- **Case Law**
+  - **Rooth v The State**: Misinterpretation led to excluding error of law for condictio indebiti.
+  - **Willis Faber Enthoven (Pty) Ltd v Receiver of Revenue and Another** (1992): Established no logical distinction between error of law and fact for condictio indebiti.
+    - Both types of errors can qualify for claims if excusable.
+    - Critiques the reasonableness requirement (iustus error) and emphasizes the need for equitable relief.
+  
+- **Excusability or Reasonableness of Error (iustus error)**
+  - Criticism by Visser and Du Plessis regarding reasonableness as historically unfounded.
+  - **Rahim v Minister of Justice**: Conduct deemed inexcusably slack excludes claims for condictio indebiti.
+  - Constitutional equality principles support reconsidering the retention of the reasonableness requirement as leading to unfair outcomes.
+
+## STUDY UNIT 4: Condictio Indebiti: Specific Applications  
+
+### Unjustified Enrichment Law
+- **General Principles**
+  - Enrichment, impoverishment, sine causa requirement, and causality.
+
+- **Condictiones Sine Causa**
+  - Various forms of condictio including:
+    - **Condictio indebiti**
+    - **Condictio ob turpem vel iniustam causam**
+    - **Condictio causa data causa non secuta**
+    - **Condictio sine causa specialis**
+  
+### Practical Scenarios
+- **Scenario 1**:
+  - X, creditor of deceased estate, failed to claim R3 million post-winding-up of estate worth R2 million. Advice on claims against attorneys or heirs (B & C).
+
+- **Scenario 2**:
+  - M, factory owner, pays R500,000 due to erroneous electricity bill threat. Advise on potential recovery under duress circumstances.
+
+### Overview
+- Specific applications of condictio indebiti in South African law covering multiple scenarios and legislative background. 
+
+### Recommended Reading Material
+- **Administration of Estates Act 66 of 1955**
+- **Alienation of Land Act 68 of 1981**
+- Key cases include:
+  - **Bowman, De Wet and Du Plessis NNO and Others v Fidelity Bank (1997)**
+  - **Commissioner for Inland Revenue v Visser (1959)** 
+  - **Kommissaris van Binnelandse Inkomste v Willers (1994)** 
+
+### Additional Reading Material
+- Various scholarly articles discussing payment mechanisms and condictio applications. Various cases illustrate practical applications and consequences.   
+
+--- 
+
+This condensed summary provides key principles and relevant case law related to the condictio indebiti in South African law while maintaining structural integrity as per the original document.
+----- END OF FILE -----
+# PVL3704/1  
+## STUDY UNIT 4: Condictio indebiti: specific applications  
+
+### 4.1 INTRODUCTION  
+- Overview of specific applications of **condictio indebiti** in South African law, including:  
+  - Statutory enrichment action under **s 28 of the Alienation of Land Act 68 of 1981**  
+  - Applications in insolvency law and succession law  
+  - Payments made under duress and protest  
+  - Ultra vires payments  
+
+### 4.2 STATUTORY ENRICHMENT ACTION: ALIENATION OF LAND ACT  
+- Void contracts lack legal enforceability; parties can reclaim performance through **condictio** if all requirements are met.  
+- If a party knows the contract is void yet expects counter-performance, they may invoke **condictio causa data causa non secuta**.  
+- **Carlis v McCusker 1904 TS 917**: Entitlement to restitution exists if performance in a void contract is demonstrated.  
+- **Wilken v Kohler 1913 AD 135**: Recovery barred where both parties perform; if the defendant is willing to perform, the plaintiff must plead this in their claim.  
+- The **Cape Provincial Division** rejected the Transvaal view in **CD Development Co (East Rand) (Pty) Ltd v Novick 1979 2 SA 546 (C)**:  
+  - Plaintiff must prove entitlement to condictio.  
+  - Recovery is possible even if the defendant performed.  
+- **s 28 of the Alienation of Land Act** establishes a statutory enrichment action:  
+  - **Subsection (1)**: Allows recovery of performance due to void contracts.  
+  - **Subsection (2)**: Validates transactions where the alienee has fully performed.  
+  - Legislation accounts for all factors of enrichment and impoverishment.  
+
+### 4.3 THE CONDICTIO INDEBITI AND THE LAW OF SUCCESSION  
+- **Condictio indebiti** applicable to executors, creditors, and beneficiaries:  
+  - Executors can reclaim incorrect payments (s 50(b) of the **Administration of Estates Act 66 of 1965**) due to improper distribution.  
+  - Creditors may pursue claims (ss 50(a), 31) against executors for late claims.  
+  - Executors can reclaim from beneficiaries who received overpayments.  
+  - Creditors cannot pursue those already paid (s 31(b)).  
+- Liability of executors ceases upon discharge unless acted in bad faith (s 56(2)).  
+- Unpaid creditors can utilize the **condictio indebiti** against overpaid beneficiaries.  
+- **Prescription** for claims under **s 11(d) of the Prescription Act 68 of 1969**: Claims prescribe after three years.  
+- **Rapp v Ruflex Holdings (Pty) Ltd 1972 3 SA 835 (T)**: Clarified claims post-executor discharge: creditors can pursue beneficiaries for overpayments.  
+
+### 4.4 THE CONDICTIO INDEBITI AND THE LAW OF INSOLVENCY  
+- **Rapp case**: Court rejected use of **condictio indebiti** for unpaid creditors against shareholders post-liquidation.  
+- Differing outcome in **Kommissaris van Binnelandse Inkomste v Willers 1994 3 SA 283 (A)**: Found condictio indebiti available for creditors.  
+- Confirmed in **Bowman, De Wet and Du Plessis NNO and Others v Fidelity Bank 1997 2 SA 35 (A)**.
+
+### 4.5 ULTRA VIRES PAYMENTS AND THE CONDICTIO INDEBITI  
+- Uncertainty around reclaiming ultra vires payments resolved in **Bowman case**: Payments made beyond powers can recover through **condictio indebiti**.  
+- Court stated such payments are not owed ("onverskuldig").  
+
+### 4.6 PAYMENTS MADE UNDER DURESS AND PROTEST  
+- **Condictio indebiti** requires:  
+  - Payment should not be owing.  
+  - Payment made under duress.  
+  - Payment must be protested at the time.  
+- Example: Dispute in **CIR** case led to tax duties paid under force; majority held tacit agreement for repayment, while minority preferred the presumption of intention to not donate due to duress.
+
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 4: Condictio indebiti: specific applications
+
+- **Common Law Requirements**
+  - Payment must result from an excusable error.
+  - Exception exists for payments made under duress; knowledge of non-debt impacts obligation.
+  
+- **Case Analysis**
+  - Discuss whether the Tshwane City Council's threat constitutes duress.
+  - Requirement: payment made under protest, fulfilled through M's letter of protest.
+
+- **Practical Scenarios**
+  - Oral agreement for A's house: implications of non-signature by A after deposit payment (R150,000).
+    - Relevant Case Law: Before and After **Alienation of Land Act 68 of 1981**.
+  - Discuss statutory enrichment action under **s 28** of the Act.
+  - Application of condictio indebiti in succession law.
+  - X's creditor claim against B: understanding of prescription.
+
+---
+
+## STUDY UNIT 5: Condictio ob turpem vel iniustam causam
+
+### General Principles
+- **Key Concepts**
+  - Enrichment vs. impoverishment.
+  - Requirement of **sine causa**.
+  - Causality principle.
+
+- **Types of Condictio**
+  - condictio indebiti
+  - condictio ob turpem vel iniustam causam
+  - condictio causa data causa non secuta
+  - condictio sine causa specialis
+
+### Practical Scenarios
+1. **Scenario 1**: Illegal sale of diamonds (R500,000)
+   - Advice to B regarding reclamation of deposit after A's arrest.
+   - Consideration of B's role as an undercover policeman.
+
+2. **Scenario 2**: Defrauded payment into X Company (by C).
+   - Claim considerations against D, X, or N.
+
+### Overview of Condictio ob turpem vel iniustam causam
+- **Existence of One Action**: Distinguished from two separate actions (turpem and iniustam causam).
+- Used for reclaiming money for void agreements based on illegality.
+
+### Roman Law Context
+- **Key Requirements for Condictio**
+  - Transfer of property linked to illegal agreement.
+  - Plaintiff must not be **turpis persona**.
+
+- **Legal Constraints**
+  - In pari delicto principle: both parties in shameful conduct cannot claim.
+
+### Roman-Dutch Law Context
+- No significant differentiation from Roman law except strict application of the **par delictum** rule.
+
+### Application in South African Law
+- Third-party claims restricted by **par delictum rule**.
+- Courts' discretion to relax this rule post **Jajbhay case**.
+- Reclaimability of performances based on unlawful agreements.
+- Distinction between void due to illegality vs. merely non-compliant formalities (e.g., **Alienation of Land Act**).
+
+### Conclusion
+- Condictio ob turpem vel iniustam causam operates under the principle of reclaiming losses tied to unlawful agreements with varying nuances across different legal precedents and statutes.
+
+---
+
+*Note: The text has been summarized and reorganized for educational syntheses as per instructed format; case names and legislative references have been preserved for scholarly accuracy.*
+----- END OF FILE -----
+PVL3704/1  
+57  
+**STUDY UNIT 5: Condictio ob turpem vel iniustam causam**  
+
+- **Definition**: Legal principle governing recovery where one party is enriched at the expense of another due to an illegal or immoral agreement.  
+
+- **Examples**:  
+  - A payment for an unlawful act, e.g., murder.  
+  - A verbal contract for land sale (not unlawful but void due to lack of writing under **s 2 of the Alienation of Land Act 68 of 1981**).  
+
+- **Key Inference**: Noncompliance with formalities does not render a contract unlawful; it may simply be void.  
+
+- **Requirements to Succeed with Condictio ob turpem vel iniustam causam**:  
+  - Performance rendered under an illegal agreement.  
+  - Enrichment at plaintiff's expense.
+  - Tender of return of the performance has to be made.
+  - Plaintiff is not a **turpis persona** or valid reasons exist to relax the par delictum rule.  
+
+- **Requirements Explained**:    
+  - **Performance and Enrichment**: Plaintiff must show that their performance met the requirements above.  
+  - **Tender Requirement**: Stemming from **Albertyn v Kumalo (1946 WPA 529)**, where the plaintiff must return received performance, aiding the efficiency of enrichment (see **MCC Bazaar** case).  
+  - **Turpis Persona**: Distinguished as a subjectively assessed concept; knowledge of the agreement's unlawfulness is pivotal.   
+
+- **Relaxation of Par Delictum Rule**:  
+  - **Jajbhay v Cassim**: Recognizes flexibility in applying the par delictum (principle that parties in equal fault cannot sue each other) rule based on public interest.
+  - **Cases for Reference**: **Rousseau and Others NNO v Visser and Another (1989) 2 SA 289 (C)**; **Visser en 'n Ander v Rousseau en Andere NNO (1990) 1 SA 139 (A)**.  
+
+58  
+- **Recent Developments**:  
+  - The requirement to tender return before claiming based on **condictio ob turpem vel iniustam causam** has emerged in South African law.
+  
+- **Case Notable for Restatement**:  
+  - **Minister van Justisie v Van Heerden**: Illustrated the boundary of the tender return obligation and supported the argument that the defendant being a **turpis persona** undermines their defense.  
+
+- **Key Cases for Enrichment Action**:  
+  - **First National Bank of Southern Africa Ltd v Perry NO (2001) 3 SA 960 (SCA)**: Fund traceability, bank obligations, and conditions for enrichment claims.  
+  - **ABSA Bank Ltd v Lombard Insurance Company Ltd (2012 4 All SA 485 (SCA))**: Details on the liability of banks in cases of fraud and the limits of enrichment.  
+
+59  
+- **Notable Principles**:  
+  - An enrichment action is not available if the bank acted in good faith without knowledge of unlawful funds (see **Perry case**). 
+  - Case law indicates that finances cannot be treated as patronage or as property belonging to the recipient when paid mistakenly (see **Nissan South Africa (Pty) Ltd v Marnitz NO (2006) 4 All SA 120 (SCA)**).
+
+60  
+- **Critical Analysis**: 
+  - The issue of which action (condictio sine causa specialis vs. condictio ob turpem) is suitable in complex cases remains debated amongst legal scholars, particularly in light of factual complexities.  
+
+---
+
+**Self-Evaluation**:  
+- Address the application of the **condictio ob turpem vel iniustam causam** and the par delictum rule in your responses.
+
+**Feedback Sections Removed** as requested.
+----- END OF FILE -----
+# PVL3704/1
+
+## 6 STUDY UNIT 6
+### CONDICTIO CAUSA DATA CAUSA NON SECUTA
+#### UNJUSTIFIED ENRICHMENT LAW
+
+**General principles**
+- Enrichment
+- Impoverishment
+- Sine causa requirement
+- Causality (at the expense of requirement)
+
+**Condictiones sine causa**
+- Improvements to property
+- Management of another’s affairs
+- Work done, or services rendered
+  - **condictio indebiti**
+  - **condictio ob turpem vel iniustam causam**
+  - **condictio causa data causa non secuta**
+  - **condictio sine causa specialis**
+  - Bona fide possessors
+  - Bona fide occupiers
+  - Mala fide possessors and occupiers
+  - **actio negotiorum gestorum utilis**
+  - **actio negotiorum gestorum contraria**
+  - **locatio conductio operis**
+  - **locatio conductio operarum**
+
+### OVERVIEW
+- Focus on **condictio causa data causa non secuta**.
+- Scope of application has become limited compared to Roman law, now replaced largely by contractual remedies.
+
+#### 6.1 INTRODUCTION
+- Traditional enrichment action for reclaiming performance.
+- Application now narrower than in Roman law.
+
+#### 6.2 APPLICATION IN SOUTH AFRICAN LAW
+- Uncertainty exists regarding the action's application.
+- Common in scenarios with:
+  - Transfer of a thing made
+  - Performance rendered based on future event conditions.
+  - **Causa futura**: if the future event does not occur, performance is reclaimable.
+
+##### 6.2.1 Suspensive and Resolutive Conditions
+- **Resolutive Conditions**: Do not affect validity but lead to termination upon realization.
+- **Suspensive Conditions**: Suspend rights/obligations until future event occurs. Failure to occur leads to voiding the contract, potentially invoking **condictio causa data causa non secuta**.
+
+##### 6.2.2 Unfulfilled Assumptions
+- Definition: Assumptions are facts elevating importance in contracts.
+- **Fourie v CDMO Homes (1982)**: Distinction between assumptions (current/past facts) and conditions (future).
+- Correct enrichment action in mistaken contracts should be **condictio indebiti** when the contract is void.
+
+##### 6.2.3 A Modus
+- Condition of obligation, present mainly in testamentary dispositions, affecting the legacy.
+- Modern law tightens the applicability to testamentary contexts; breaches dealt with contract law.
+
+##### 6.2.4 Breach of Contract Cases
+- De Vos: **condictio** no longer relevant post-breach; contractual remedies dominate.
+- Confirmed in **Baker v Probert (1985)**, emphasizing enrichment claims are separate contractual remedies.
+
+## 7 STUDY UNIT 7
+### CONDICTIO SINE CAUSA SPECIALIS
+#### UNJUSTIFIED ENRICHMENT LAW
+
+**General principles**
+- Enrichment
+- Impoverishment
+- Sine causa requirement
+- Causality (at the expense of requirement)
+
+**Condictiones sine causa**
+- Improvements to property
+- Management of another’s affairs
+- Work done, or services rendered
+  - **condictio indebiti**
+  - **condictio ob turpem vel iniustam causam**
+  - **condictio causa data causa non secuta**
+  - **condictio sine causa specialis**
+  - Bona fide possessors
+  - Bona fide occupiers
+  - Mala fide possessors and occupiers
+  - **actio negotiorum gestorum utilis**
+  - **actio negotiorum gestorum contraria**
+  - **locatio conductio operis**
+  - **locatio conductio operarum**
+
+### OVERVIEW
+- Study differences between **condictio sine causa generalis** and **condictio sine causa specialis**; examine requirements and applications.
+
+**Practical Scenarios**
+1. Television repair: Examine claims regarding return of compensation after a settlement.
+2. Cheque payment countermand: Discuss validity of debit and possible enrichment claims involved.
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 7: Condictio sine causa specialis
+
+### LEARNING OUTCOMES
+- Explain actions under condictio sine causa generalis.
+- Distinguish condictio sine causa generalis vs. specialis application.
+- Discuss differences between condictio indebiti and condictio sine causa specialis, referencing **Govender v Standard Bank of South Africa Ltd 1984 4 SA 392 (C)**.
+- Analyze drawee bank's position after mistakenly paying a countermanded cheque.
+- Differentiate bona fide possessors receiving a thing ex causa onerosa vs. ex causa lucrativa.
+
+### 7.1 INTRODUCTION
+- Distinction between **condictio sine causa specialis** and **condictio sine causa generalis**.
+- **Condictio sine causa generalis**: alternative to condictio data causa non secuta, condictio ob turpem vel iniustam causam, condictio indebiti.
+- Generalis formula less complex; often preferred in Roman law.
+
+### 7.2 APPLICATION IN SOUTH AFRICAN LAW
+- **Uncertainty in scope** (Govender, **B & H Engineering v First National Bank of SA Ltd 1995 2 SA 279 (A)**).
+- Used as catch-all for cases needing remedy outside defined enrichment actions.
+- Four sets of circumstances for condictio sine causa specialis:
+  - (a) Performance was due, but causa has fallen away (**condictio ob causam finitam**).
+  - (b) Plaintiff's property alienated/consumed by another.
+  - (c) Bank paying countermanded/forged cheque.
+  - (d) Ownership transferred sine causa without relevant condictiones applying.
+
+### 7.3 APPLICATION OF THE CONDICTIO INDEBITI IN CHEQUE LAW
+- **CIR v Visser 1959 1 SA 452 (A)**: payment by A through Z not considered undue; court stated Z, not A, made payment.
+- Critique on payment belief (John Bell & Co Ltd v Esselen 1954 1 SA 147 (A)): payment deemed not made by customer.
+- **Govender case** analysis: bank's payment for no just cause; differentiation between condictio indebiti and condictio sine causa.
+- **B & H case**: payment extinguishes debt; net position unchanged for B & H; no enrichment claim against beneficiary if underlying debt extinguished.
+
+### ADDITIONAL NOTES
+- Importance of distinguishing between performance rendered and unjustifiable enrichment in cheque law.
+- Legal stance on payments made under false pretenses or countermanded scenarios.
+
+----
+
+**Legislation and Cases Highlighted:** 
+- **Govender v Standard Bank of South Africa Ltd 1984 4 SA 392 (C)**
+- **B & H Engineering v First National Bank of SA Ltd 1995 2 SA 279 (A)**
+- **CIR v Visser 1959 1 SA 452 (A)**
+- **John Bell and Co Ltd v Esselen 1954 1 SA 147 (A)**
+
+**Diagram References:** Refer to summary and visual aids related to the categories of condictiones sine causa (if included in original text).
+----- END OF FILE -----
+**PVL3704/1**  
+**8 STUDY UNIT 8: NEGOTIORUM GESTIO UNJUSTIFIED ENRICHMENT LAW**  
+
+**General Principles**  
+- **Enrichment**: Benefit gained by one party.  
+- **Impoverishment**: Loss incurred by another party.  
+- **Sine Causa Requirement**: Requirement that enrichment must occur without a legal basis.  
+- **Causality**: Requirement that enrichment must be at the expense of another.  
+
+**Condictiones Sine Causa**   
+- **Condictio Indebiti**: Claim for recovery of money mistakenly paid.  
+- **Condictio Ob Turpem Vel Iniustam Causam**: Claim for recovery linked to an immoral or illegal cause.  
+- **Condictio Causa Data Causa Non Secuta**: Recovery for benefit delivered when the expected result did not ensue.  
+- **Condictio Sine Causa Specialis**: Specific unjustified enrichment claims without a general cause.  
+- **Bona Fide Possessors**: Possession without wrongful intent grants certain protections.  
+- **Bona Fide Occupiers**: Rights of individuals occupying another’s property in good faith.  
+- **Mala Fide Possessors and Occupiers**: Rights of those who occupy or possess unlawfully.  
+- **Actio Negotiorum Gestorum Utilis**: Action for management of another's affairs based on enrichment.  
+- **Actio Negotiorum Gestorum Contraria**: Action for management performed in another's interest.  
+- **Locatio Conductio Operis**: Contract for work to be performed.  
+- **Locatio Conductio Operarum**: Contract for services rendered.  
+
+**Overview**  
+- Study of **actio negotiorum gestio**, concerning administration of another's affairs without consent.  
+- Focus on two types:  
+  - **Actio Negotiorum Gestorum Contraria**: True management action.  
+  - **Actio Negotiorum Gestorum Utilis**: Enrichment-based extended management action.  
+
+---
+
+**8.1 INTRODUCTION**  
+- Expenses incurred by a gestor can be recovered from the dominus through actio negotiorum gestorum contraria.  
+- Distinction between true management action and enrichment actions is crucial for understanding claims.  
+
+**8.2 APPLICATION IN SOUTH AFRICAN LAW**  
+- **Negotiorum Gestio**: Conduct by gestor intended for the benefit of the dominus, without animus donandi.  
+
+**8.2.1 True Management of Affairs Action (Actio Negotiorum Gestorum Contraria)**  
+- **Requirements**:  
+  - Service performed without instruction.  
+  - Actions must be reasonable.  
+  - Intention to benefit the dominus (animus negotia aliena gerendi).  
+  - Not intended as a donation (animo donandi).  
+  - No express prohibition by dominus.  
+- **Duties of the Gestor**:  
+  - Complete management commenced.  
+  - Exercise required care.  
+  - Account for acquired benefits.  
+  - Surrender benefits to dominus.  
+- **Rights of the Gestor**:  
+  - Claim for reasonable compensation and expenses incurred.  
+  - Right to recourse for debts incurred in management.  
+
+---
+
+**8.2.2 Extended Management of Affairs Action (Actio Negotiorum Gestorum Utilis)**  
+- **Exceptional Circumstances**:  
+  - Minor's affairs managed only to the extent of their own enrichment (Pretorius v Van Zyl).  
+  - Acts against dominus’s wishes allow for enrichment claim but require just cause (e.g., Colonial Government v Smith & Co).  
+- Summary of **Key Cases**:  
+  - **Odendaal v Van Oudtshoorn**: Gestor paid debts without dominus’s consent and could claim on enrichment basis despite acting in self-interest.  
+  - **Standard Bank Financial Services Ltd v Taylam**: Allowed enrichment claims despite acting against dominus's express wishes if just cause exists.  
+  - **Klug and Klug v Penkin**: Acknowledged the extended negotiorum gestorum as an enrichment action.  
+
+---
+
+**Conclusion**  
+- Distinct separation between true negotiorum gestio creating firm expense claims and enrichment actions allowing for variable claims based on unjust enrichment principles.
+----- END OF FILE -----
+# PVL3704/1 
+
+## STUDY UNIT 8: Negotiorum gestio
+
+- **Legal Policy and Reasonableness**
+  - Court's stance on actions in personal interest.
+  - Examination of cases needed to assess unjustified enrichment.
+  - Conduct assessment based on reasonableness; improper motives may negate enrichment claims.
+
+- **Ubuntu and Fairness**
+  - Court's obligation to apply principles of Ubuntu and fairness.
+  - Key in cases involving improper motives by impoverished parties.
+
+- **ABSA Bank v Stander Case**
+  - Case Summary:
+    - K acquired a vehicle on instalment; ownership retained by seller until payment.
+    - Vehicle lent to B; B damaged it, leaving Stander to repair under the belief he was the owner.
+    - Bank initiated rei vindicatio; Stander counterclaimed for repair costs.
+  - Legal Argument:
+    - Stander asserted unjustified enrichment due to repair costs.
+    - Claimed he acted as unauthorized manager (negotiorum gestor) intending reimbursement.
+  - Judicial Considerations:
+    - Van Zyl J analyzed common law and various opinions.
+    - Mentioned **De Vos's** objection on equality of creditors and insolvency implications.
+    - Noted need for individual case assessment, focusing on fairness and public interest.
+  
+- **Conclusion by Van Zyl J**
+  - Issues of insolvency absent; facts of the case merited considering Stander's impoverishment and ABSA’s enrichment.
+  - Stander viewed as bona fide gestor rather than an ordinary gestor; entitled to extended actio negotiorum gestorum.
+
+- **Van Zyl’s Remarks on Extended Action**
+  - Affirmed that extended actio negotiorum gestorum exists as an independent enrichment action in South African law.
+  - Potential for further application expansion; recommends against statutory regulation currently.
+
+---
+
+## STUDY UNIT 9: ENRICHMENT BY MEANS OF IMPROVEMENTS AND ATTACHMENTS (ACCESSIO)
+
+### General Principles
+- **Key Concepts**
+  - Enrichment.
+  - Impoverishment.
+  - Sine causa requirement.
+  - Causality (expense of requirement).
+
+### Condictiones Sine Causa
+- Categories of claims include:
+  - **Condictio indebiti**
+  - **Condictio ob turpem vel iniustam causam**
+  - **Condictio causa data causa non secuta**
+  - **Condictio sine causa specialis**.
+
+### Possessor Types 
+- **Bona Fide and Mala Fide Possessors**
+- Rights and remedies are differentiated based on bona fide versus mala fide status.
+
+### Management of Another’s Affairs
+- **Actio Negotiorum Gestorum Utilis**
+- **Actio Negotiorum Gestorum Contraria**
+
+### Practical Scenarios
+1. **Scenario 1: Boundary Fence Improvements**
+   - A built on land owned by B, not aware of boundary error.
+   - Potential recoveries for expenses on hunting lodge, dam, and other improvements.
+   - A's net profits from land usage must be analyzed.
+
+2. **Scenario 2: Rental Car Repair Claim**
+   - D rented a vehicle under a void contract.
+   - Springbok Motors repaired the vehicle; Avis's claim for payment hinges on contractual validity.
+
+3. **Scenario 3: Office Refurbishment Costs**
+   - E expended significant amounts refurbishing rented offices.
+   - F terminated the lease; E’s claims for expenses must consider the lease terms on improvements.
+
+### Recommended Legislation and Cases
+- **Key Cases**
+  - **Bellingham v Bloommetje (1874)**
+  - **Lechoana v Cloete (1925)**
+  - **Weilbach v Grobler (1982)**.
+
+**Note:** Further details should be reviewed in property law to assist in understanding accessio principles.
+----- END OF FILE -----
+# PVL3704/1 
+## STUDY UNIT 9: Enrichment by means of improvements and attachments (accessio)
+
+### 9.1 INTRODUCTION
+- Movable property may be attached to movable/immovable property of another.
+- Ownership transfers depending on attachment type (accessio).
+- Question arises whether the original owner can claim compensation for enrichment.
+- Improvements and attachments are original means of acquiring ownership.
+
+### 9.2 SOUTH AFRICAN LAW
+
+#### 9.2.1 General
+- Roman law: No general enrichment action; remedies limited to specific actions.
+- 18th-century modifications recognized general enrichment action in Roman-Dutch law.
+- South African law recognized new actions through analogy and public policy, allowing broader recourse for unjustified enrichment.
+- Different categories of individuals can bring compensatory actions (discussed further in unit 10).
+
+#### 9.2.2 Bona fide possessor
+- Definition: A bona fide possessor believes, reasonably or not, they own a property.
+- Reasonableness of mistake not a factor in establishing bona fide status; subjective belief determines status.
+- Ownership of attached material passes to owner of immovable property.
+- Right of recourse based on unjustified enrichment if the bona fide possessor has enriched the owner through improvements.
+- Right to remove attachments (ius tollendi) exists as long as the possessor is still in possession.
+- Compensation claims allowable for:
+  - Necessary expenses (impensae necessariae) - full reimbursement if successful.
+  - Useful expenses (impensae utiles) - lesser of total expense or value enhancement.
+  - Luxurious expenses (impensae voluptuariae) - non-compensable unless there's an increase in property value for sale.
+- Right of retention (ius retentionis) allows the bona fide possessor to withhold property until compensated.
+- Voluntary relinquishment of control results in loss of retention right.
+
+#### 9.2.3 Mala fide possessor
+- Definition: Mala fide possessor knows they lack ownership but exercises owner's rights.
+- Case law indicates mala fide possessors may be compensated, subject to restrictions:
+  - Lord de Villiers’ view in **Bellingham v Bloommetje** permits compensation for enhancements.
+  - **De Beers case** allows compensation only for necessary improvements unless the owner is silent.
+- Proposed view: mala fide possessors should have similar rights as bona fide possessors, based on enrichment.
+- Conflicting opinions on the right of retention:
+  - **De Beers case** denies retention rights to mala fide possessors.
+  - **JOT Motors case** upheld retention right, although legally termed as lawful.
+  
+***  
+**Cases/Laws to Note:**
+- **Acton v Motau** 1909 TS 841 
+- **De Beers Consolidated Mines v London and SA Exploration Company (1893)** 10 SC 359
+- **JOT Motors (Edms) Bpk h/a Vaal Datsun v Standard Kredietkorporasie Bpk (1984)** 2 SA 510 (T)
+- **Kommissaris van Binnelandse Inkomste v Anglo American (OFS) Housing Co Ltd (1960)** 3 SA 642 (A)
+- **Minister van Wet en Orde v Erasmus en ’n Ander (1992)** 3 SA 819 (A)
+- **Nortjé en ’n Ander v Pool NO (1966)** 3 SA 96 (A)
+- **Peens v Botha-Odendaal (1980)** 2 SA 381 (O)
+- **Rademeyer and Others v Rademeyer and Others (1968)** 3 SA 1 (C)
+- **Standard Kredietkorporasie v Jot Motors h/a Vaal Datsun (1986)** 1 SA 223 (A)
+
+*Diagram references applicable as per relevant context when studying improvements or legal distinctions related.* 
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 9: Enrichment by means of improvements and attachments (accessio)
+
+- Law confusion; hope for judicial clarity on mala fide possessor's retention rights.
+- Equal treatment for bona fide and mala fide possessors emphasized (De Vos 236–238).
+- Owner may waive enrichment; mala fide possessor can potentially remove attachments (ius tollendi).
+  - Factors: permanence of attachment, removability without damage, cost, usability, and owner’s probable improvement intention (Eiselen & Pienaar 287).
+  
+### Remedies of the mala fide possessor
+- **Peens v Botha-Odendaal 1980 2 SA 381 (O)**: mala fide possessor does not gain ownership of gathered fruits; owner retains entitlement to claim compensation for fruits consumed or unused.
+- Remedies available:
+  - Enrichment claim for necessary improvements.
+  - Possible retention right (ius retentionis) - uncertain availability.
+  - Right to remove attachments (ius tollendi) under certain conditions.
+
+### Distinguishing between bona fide and mala fide possessors
+- **Bona fide possessor**:
+  - Mistaken belief of ownership.
+  - Right to recourse for necessary, useful, and possibly luxurious expenses.
+  - Has retention rights.
+
+- **Mala fide possessor**:
+  - Aware of non-ownership.
+  - Right to recourse only for necessary expenses (not luxurious; exceptions for thieves).
+  - Uncertainty regarding retention rights.
+
+## STUDY UNIT 10: Enrichment by means of improvements and attachments (accessio) – continued
+
+### General Principles
+- **Enrichment**: increase in value due to improvements.
+- **Impoverishment**: corresponding decrease in owner's value.
+- **Sine causa requirement**: necessity for a cause justifying the enrichment.
+- **Causality**: relationship between enrichments and impoverishments.
+
+### Condictiones sine causa
+- Various forms include:
+  - **condictio indebiti**: for unduly paid sums.
+  - **condictio ob turpem vel iniustam causam**: claimed due to an immoral or illegal cause.
+  - **condictio causa data causa non secuta**: cause given without result.
+  - **condictio sine causa specialis**: specific unjust enrichment claims.
+  
+### Transactions Involving Occupiers
+- Different types of occupiers (bona fide, mala fide, lawful) impact rights to compensation and recourse.
+- Reference cases highlight those distinctions, particularly regarding the rights of enrichment for bona fide and mala fide possessors.
+
+### Practical Scenarios Overview
+- **Scenario 1**: C subleasing and making improvements without A's consent; complications arise from knowledge of contractual prohibitions.
+- **Scenario 2**: Rental contract void yet involving repairs—dispute regarding compensation.
+- **Scenario 3**: E’s significant expenses on leased property, uncertainty of claims after termination of lease.
+
+## Recommended Reading Material (Optional)
+- **Legislation and cases**: Include notable judgments (e.g., Business Aviation Corporation (Pty) Ltd v Rand Airport Holdings (Pty) Ltd 2007).
+- Case law and academic works on unjust enrichment and property law essential for deeper understanding.
+
+## Additional Reading Material (Optional)
+- Exploration of further cases beneficial for comprehensive grasp of property and enrichment law dynamics.
+
+### 10.1 Introduction
+- **Occupants/Holders Types**:
+  - Lawful (recognized rights).
+  - Bona fide (mistaken identity).
+  - Mala fide (knowingly misrepresenting ownership).
+
+- Clarification on lawful occupancy/holding and its implications in case of enrichment claims.
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 10: Enrichment by means of improvements and attachments (accessio) – continued
+
+### 10.2 OCCUPIERS AND HOLDERS (DETENTORES)
+- **General Principle**: Occupiers/holders typically cannot claim compensation from owners for improvements.
+  - Courts have extended remedies permitting claims for compensation.
+
+#### 10.2.1 Legal occupiers/holders
+- **Common Law Rights**: Certain legal occupiers (lessee, pledgee, usufructuary) entitled to recourse for expenses.
+- **Case Law**:
+  - **Brown v Brown (1929)**: Granted compensation to a buyer for improvements despite being a legal occupier with no right of recourse under common law (minus seller compensation).
+  - **Eiselen and Pienaar** (at 312): No extra deduction from compensation for fruit gathered unless impossible to value.
+  - **Actio negotiorum gestorum contraria**: Claims for compensation can be instituted under specific conditions (Nortjé en ’n Ander v Pool NO 1966).
+  - **Wynland Construction (Pty) Ltd v Ashley-Smith en Andere (1985)**: Adjustments for owner’s enrichment or occupier’s impoverishment in compensation claims.
+- **Enrichment Lien**: Lawful occupiers can retrieve expenses if owner is enriched at their expense, but improvements must still be attached to the property.
+- **Example**: Loss of right of retention if maize crop is removed post-harvest (Peens case).
+- **Standard Kredietkorporasie Case**: Established lien rights for lawful holders; referenced inaccurate terminology regarding lawful possession.
+- **Placaats**: Applicable to farmland, not urban land; protect landlords from unconsented improvements.
+- **Business Aviation Corporation (Pty) Ltd v Rand Airport Holdings (Pty) Ltd (2007)**: Confirmed Placaats’ application only to farmland.
+- **Eiselen and Pienaar (at 333–334)**: Lessees can:
+  - Remove non-necessary improvements during lease; essential improvements stay with the land.
+  - Claim compensation for improvements (value of materials used, seed costs, and labor excluded).
+  - No compensation rights if lease is prematurely terminated ("Kumalo v Piet Retief Village Council 1931").
+  
+- **Modern Critique**: Brand JA in **Business Aviation** questioned the fairness and relevance of the Placaats today, especially regarding inequalities between rural and urban leases.
+
+### 10.2.2 Bona fide occupiers/holders
+- **Definition**: Occupiers/holders who believe, albeit mistakenly, they have a legal right to the property.
+- **Case Law**:
+  - **Bellingham v Bloommetje (1874)**: Recognized a bona fide occupier's right to compensation and retention.
+  - **Rubin v Botha (1911)**: Confirmed entitlement of bona fide occupiers to compensation based on improvements made.
+    - Established two principles for calculating compensation: impoverishment vs. enrichment.
+  - **Fletcher and Fletcher v Bulawayo Waterworks Co Ltd (1915)**: Equalized treatment of bona fide possessors and detentors in improvement claims, with adjustments for occupation value.
+  
+- **Compensation Calculation**: 
+  - Bona fide detentor can have occupation value subtracted from improvement value.
+  - **Eiselen and Pienaar (at 291)**: Advocated consideration of gathered fruit's value when occupation cannot be evaluated.
+
+### Conclusion
+- The distinction is important between legal, bona fide occupiers/holders, affecting their right to compensation for improvements made.
+- Continuous legal evolution is necessary to address current societal and constitutional imperatives.
+----- END OF FILE -----
+**PVL3704/1**  
+105  
+**STUDY UNIT 10: Enrichment by means of improvements and attachments (accessio) – continued**  
+
+- **10.2.3 Mala fide occupiers/holders**  
+  - Definition: Occupiers who know their occupation lacks legal grounding; they control the property for their benefit unlawfully.  
+  - Case Law:   
+    - **Grobler NO v Boikhutsong Business Undertaking (Pty) Ltd** 1987 (2) SA 547 (B); appeal: **Boikhutsong Business Undertaking (Pty) Ltd v Grobler NO** 1988 (2) SA 676 (BA) [683E–F].  
+      - No right of recourse for mala fide occupiers if their profit exceeds the owner's enrichment from improvements.  
+    - Pienaar and Mostert advocate for compensating based on owner's enrichment.  
+    - Courts have discretion to order removal of improvements or deny compensation based on circumstances (Eiselen & Pienaar 304–305).  
+
+- In **Quarrying Enterprises (Pvt) Ltd v John Viol (Pvt) Ltd and Others** 1985 (3) SA 572 (Z), mala fide occupier rights align with mala fide possessor rights.  
+- Debate exists over extending a retention right to mala fide occupiers (Eiselen & Pienaar 276).  
+- De Vos argues for extending Roman-Dutch law principles to mala fide occupiers.  
+
+- **Fruits**:  
+  - Cannot offset against owner's enrichment if value of occupation has been accounted for.  
+  - Can only be considered separately if occupation value is indeterminate.
+
+---
+
+**11STUDY UNIT 11**  
+**RIGHTS OF RETENTION AND LIENS**  
+**UNJUSTIFIED ENRICHMENT LAW**  
+
+- **General principles**  
+  - Enrichment  
+  - Impoverishment  
+  - Sine causa requirement  
+  - Causality (at the expense of requirement)  
+
+- **Condictiones sine causa**:  
+  - Various forms:  
+    - **condictio indebiti**  
+    - **condictio ob turpem vel iniustam causam**  
+    - **condictio causa data causa non secuta**  
+    - **condictio sine causa specialis**  
+
+- **Occupiers**:  
+  - Bona fide possessors  
+  - Bona fide occupiers  
+  - Mala fide possessors and occupiers  
+  - **actio negotiorum gestorum**:  
+    - Utilis  
+    - Contraria  
+  - **locatio conductio**:  
+    - Operis  
+    - Operarum  
+
+**OVERVIEW**  
+- Rights of retention and liens are essential in enrichment law; require detailed examination.
+
+**PRACTICAL SCENARIOS**  
+- **Scenario 1**: A leases farm to B; sublease to C invalid. C's improvements:  
+  - Fences (R125 000)  
+  - New shed (R150 000)  
+  - Repainting (R115 000)  
+  - Borehole (R110 000)  
+  - Maize crop (value R750 000, costs R200 000).  
+- Advise C against A's ejectment claim.  
+
+- **Scenario 2**:  
+  - D rents car from Avis; contract void.  
+  - Car breakdown leads to Springbok Motors repairing; they want R19 000 for repairs.  
+  - Administer Avis's claim for vehicle retrieval from Springbok Motors.  
+
+**LEARNING OUTCOMES**  
+- Differentiate between types of liens: debtor-creditor vs. enrichment liens.  
+- Understand enrichment lien function.  
+- Clarify differences between impensae necessariae, impensae utiles, and impensae voluptuariae.
+
+**DEFINITIONS**  
+- Right of retention (ius retentionis): Legal right of possession until compensation for expended money/labor is secured (Wille at 85).
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 11: Rights of retention and liens
+
+### 11.1 Rights of retention
+
+- **Types of liens:**
+  - **Enrichment liens:** Real rights for unpaid expenses incurred for preservation (impensae necessariae) or improvement (impensae utiles) of property.
+  - **Debtor and creditor liens:** Not real rights; arise from an agreement regardless of necessity or utility.
+  
+- **Key case: Goudini Chrome (Pty) Ltd v MCC Contracts (Pty) Ltd 1993 1 SA 77 (A)**
+  - Differentiates between enrichment liens and debtor-creditor liens.
+  
+- **Retention Rights:**
+  - Enrichment lien allows possession retention until reimbursed for necessary/useful expenses, irrespective of contractual relationship.
+  - Debtor-creditor lien secures full agreed remuneration against the other contracting party.
+
+### 11.2 IMPENSAE NECESSARIAE
+
+- **Definition**: Necessary expenses required for property preservation or protection.
+- **Recovery**: Full recovery of expenses incurred if they are reasonable; retention until compensated.
+  
+### 11.3 IMPENSAE UTILES
+
+- **Definition**: Useful expenses that enhance market value but are not necessary.
+- **Recovery**: Lesser of market value enhancement or amount spent.
+  
+### 11.4 IMPENSAE VOLUPTUARIAE
+
+- **Definition**: Luxurious expenses that do not preserve property or increase value.
+- **Recovery**: No right of retention arises from these expenses.
+
+### Control Requirement
+
+- Right of retention depends on physical control; loss of control leads to loss of retention. Restoration of control can revive the right.
+
+---
+
+## STUDY UNIT 12: Enrichment action against and by minors
+
+### 12.1 INTRODUCTION
+
+- **Contracts with Minors**: Minors may enter contracts but are not liable without guardian approval. Other party’s performance can lead to undue enrichment claims.
+  
+### 12.2 SOUTH AFRICAN LAW
+
+- **Contract Validity**: A minor’s contract without guardianship is voidable. Ratification allows enforcement.
+- **Enrichment actions**: 
+  - Minor can reclaim property (rei vindicatio) if contract rescinded, but money is claimed via **condictio sine causa specialis** due to valid causa that fell away. 
+  - **Condictio indebiti** is inappropriate since the minor’s performance was due.
+
+---
+
+### References
+
+- **Key Cases**:
+  - Goudini Chrome v MCC Contracts
+  - United Building Society v Smookler’s Trustees
+  - Brooklyn House Furnishers v Knoetze
+  - Edelstein case
+- **Literature**: Eiselen & Pienaar on unjust enrichment principles.
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 12: Enrichment action against and by minors
+- **Key Principle**: 
+  - If a minor refrains from enforcing a contract after the other party has performed, the minor may be unjustly enriched.
+- **Applicable Actions**:
+  - **Condictio sine causa specialis**: Inapplicable; cause for performance remains (contract valid but unenforceable).
+  - **Condictio indebiti**: Inapplicable; performance due until rescinded.
+- **Roman Law Reference**: The actio in quantum locupletior factus est (praetorian action for unjust enrichment).
+- **Calculation of Enrichment**:
+  - Enrichment period starts from **litis contestatio**.
+  - Minor not liable for lost property or money spent before **litis contestatio**.
+  - Exception: Money for necessaries of life constitutes enrichment by saved expenses (Eiselen & Pienaar 203).
+
+---
+
+## STUDY UNIT 13: Compensation for work done and services rendered
+
+### 13.1 Introduction
+- **Contract Distinctions**:
+  - Contracts for **services** (locatio conductio operarum) vs. **work** (locatio conductio operis).
+  - Unjustified enrichment action allows for recovery when contract canceled due to breach.
+
+### 13.2 Contracts for Work
+- **General Principle**: 
+  - Workers entitled to remuneration after acceptance by employer.
+  - Faulty or incomplete work may deny claim via **exceptio non adimpleti contractus**.
+- **Enrichment Recovery**:
+  - Employer may be enriched by accepting imperfect work, permitting recovery not based on contract but unjust enrichment:
+    - **Hauman v Nortjé (1914)**: Compensation awarded based on unjust enrichment principle.
+    - **BK Tooling v Scope Precision (1979)**: New approach; courts determine the claim basis (contract vs. enrichment) based on case facts, considering employer’s benefit and performance shortcomings.
+
+---
+
+### Additional Key Concepts and Cases
+- **Condictiones**:
+  - **Condictio sine causa**: No valid basis for a claim.
+  - **Condictio indebiti**: Improper receipt and restitution.
+  - **Condictio ob turpem vel iniustam causam**: Recovery barred due to unlawful cause.
+  - **Condictio causa data causa non secuta**: Recovery in situations where intended cause has not occurred.
+- **Court's Discretion**: 
+  - Analysis must consider use of performance and extent of deficiencies to determine remedy.
+  
+---
+
+### Notable Cases
+- **Smit v Workmen’s Compensation Commissioner (1979)**: Clear distinction and principles regarding service and work contracts.
+- **Eiselen & Pienaar**: Discussions on unjust enrichment and applicable legal frameworks.
+
+[Diagrams and specific cases referenced throughout the notes]
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 13: Compensation for work done and services rendered
+
+### 13.1 Contractual Claims and Enrichment
+- If exceptio not allowed, plaintiff has contractual claim; entitled to contract price minus costs to eliminate defect.
+- Onus to prove costs on skilled artisan (worker).
+- If exceptio allowed, plaintiff's claim shifts to enrichment claim based on principles of enrichment liability (whichever is least: enrichment or impoverishment), not contract price minus defect elimination costs.
+- Court retains discretion regarding substantial performance; must allege proper performance or grounds for discretion.
+- **Case Reference**: *BK Tooling*.
+
+### 13.2 Contracts for Services
+- Employee (locator operarum) entitled to remuneration only upon full term completion.
+- If not fully rendered, cannot claim full agreed remuneration unless contract states otherwise.
+- May lead to unjust enrichment claim if contract claim defeated by exceptio non adimpleti contractus.
+- **Leading Case**: *Spencer v Gostelow* (1920 AD 617).
+  - Employee dismissed before service completion entitled to compensation based on enrichment liability (remuneration for period served).
+  - Plaintiff's claim tied to employer's saved costs (pro rata remuneration).
+  - Employee must establish impoverishment correlating to remuneration earned.
+- Law treats desertion differently; deserting employees lose enrichment claim.
+- Criticism exists regarding fairness between terminated contracts and those resulting from desertion.
+
+## STUDY UNIT 14: General Enrichment Action
+
+### 14.1 Introduction
+- Prior to 1966, belief in recognition of subsidiary general enrichment action in South African law.
+- Goal to develop all-embracing general action covering unjustified enrichment instances.
+- Case law lacks clarity on whether enrichment serves as general obligation source.
+- **Notable Case**: *Nortjé* case (1966): no general enrichment action recognized.
+
+### 14.2 Common Law Overview
+- **De Vos' Analysis**: Initial views rejected existence of general enrichment action based on Roman-Dutch law.
+- New insights led De Vos to revise his stance; acknowledgment of cases supporting enrichment action not presented in *Nortjé*.
+
+### 14.3 Nortjé v Pool (1966)
+- **Facts**: A and B's agreement for prospecting on B's land, null due to lack of notarial attestation (s 3 of *Act 50 of 1956*).
+- A claimed compensation after discovering kaolin; executor resisted based on lack of recognized enrichment action.
+- **Court Decision**: 
+  - Majority upheld exception; A’s claim did not satisfy recognized enrichment actions.
+  - No general enrichment action acknowledged; needs specific conditions and tangible improvements.
+  - Notable Dictum: Enrichment rules have influenced development of recognized legal enrichments but no overarching action yet.
+
+### Key Cases
+- *Spencer v Gostelow* (1920 AD 617)
+- *Nortjé v Pool* (1966) 
+
+**Legislation**: Act 50 of 1956 (s 3).
+  
+(Note: Diagrams may assist in visualizing claims and court discretion.)
+----- END OF FILE -----
+# PVL3704/1
+## 129
+### STUDY UNIT 14: General Enrichment Action
+
+#### 14.1 Introduction
+- Historical context of enrichment actions in Roman and Roman-Dutch law.
+- Lack of a unified principle of unjustified enrichment in South African law.
+
+#### 14.2 Development of Enrichment Liability
+- Rule against unjustified enrichment does not create independent obligations.
+- Development is casuistic and context-dependent.
+
+#### 14.3 Summary of Effects (De Vos 327)
+- Classical actions still apply; courts extend enrichment liability ad hoc.
+- Specific circumstances limit ad hoc extensions; these actions factor in detrimental side effects of enrichment.
+- Old actions must be applied first; ad hoc actions are secondary.
+- Initial criteria for general enrichment action are relevant for ad hoc actions but require specific circumstances.
+
+#### 14.4 Way Forward: Three Recent Supreme Court of Appeal Cases
+**(a) McCarthy Retail Ltd v Shortdistance Carriers cc**
+- Enrichment law lacks a universally recognized principle; extensions of liability evolving.
+- Cited **Nortjé en ’n Ander v Pool NO 1966 (3) SA 96 (A)** for context on enrichment actions.
+- Concerns about potential litigation surge vs need for general action recognition.
+
+**(b) First National Bank v Perry NO**
+- Highlighted inaccuracies in identifying the correct condictio.
+- Advocated for a general action to simplify focusing on enrichment requirements rather than definitions.
+
+**(c) Kudu Granite Operations (Pty) Ltd v Caterna Ltd**
+- Discussed failure of agreements; emphasized return to status quo, treating uncertainty over cause of action.
+- Distinction between contractual damages and unjust enrichment claims.
+
+#### 14.5 Conclusion
+- Roman law recognized unjust enrichment but lacked developed actions.
+- Gaps in legal remedies continue, e.g., recovery of value from factum, dual claims for improvements.
+- Debate on whether a general enrichment action will evolve; proposals advocating for principled rather than action-oriented development in law (Eiselen).
+
+#### Legislation and Cases Highlighted
+- **Condictio indebiti**
+- **Condictio sine causa**
+- **Nortjé en ’n Ander v Pool NO 1966 (3) SA 96 (A)**
+- **Pucjlowski v Johnston’s Executors 1946 WLD 1**
+- **Cantiere San Rocco v Clyde Shipbuilding and Engineering Co 1923 SC (HL) 105** 
+
+#### Diagram References
+- Consider diagram outlining traditional vs modern approaches to unjust enrichment actions and their requirements.
+----- END OF FILE -----
+# PVL3704/1
+### 135
+## STUDY UNIT 14: General enrichment action
+
+- **Principles of General Enrichment Action**  
+  - Focuses on shifting from Roman action-based to a principle-based approach in enrichment law.
+  - Aims for liability based on general principles, supported by nuanced rules to incorporate public policy.
+
+- **Lotz’s Exposition (1979)**  
+  - Introduced general principles as prerequisites for enrichment liability.
+  - Acknowledged by Sonnekus as significant in court perspectives.
+
+- **Judicial Acceptance**  
+  - Supreme Court of Appeal (SCA) in **Kudu Granite Operations (Pty) Ltd v Caterna Ltd [2003] 3 All SA 1 (SCA)** aligns with a general principles approach.
+  - No general enrichment action recognized as per **Glenrand MIB Financial Services (Pty) Ltd and Others v Van den Heever NO [2013] 1 All SA 511 (SCA)**, confirming four general requirements for liability.
+
+- **Ongoing Developments**  
+  - Recent cases like **Nissan South Africa (Pty) Ltd v Marnitz NO (2006) 4 All SA 120 (SCA)** question general enrichment liability, revealing a lack of reference to specific enrichment actions.
+
+- **Constitutional Considerations**  
+  - Emphasis on constitutional values and Ubuntu in enrichment law.
+  - **Everfresh Market Virginia** case highlights good faith in relation to Ubuntu.
+
+- **Yacoob J's Insights on Ubuntu**  
+  - Advocates for integrating Ubuntu into contract law, emphasizing communal values and fairness in economic and contractual contexts.
+  - Suggests necessity for corrective measures for unjust gain or loss due to error or transfers lacking legal grounds.
+
+### 136
+- **Assessment of Current Law**  
+  - Evaluates if existing enrichment actions align with Ubuntu principles.
+  - Necessity for a potential general enrichment action guided by these principles.
+
+## GLOSSARY OF LATIN TERMS AND THEIR MEANING
+- **Actio de dolo malo**: Action against defrauder for enrichment due to fraud.
+- **Actio in quantum locupletior factus est**: Action for enrichment with minor, post-performance.
+- **Actio legis Aquiliae (Aquilian)**: Delictual action for wrongful patrimonial loss.
+- **Condictio sine causa**: Action for repayment without a valid cause.  
+- **Condictio indebiti**: Action for return of an unwarranted payment.
+
+### 139
+- **Essential Legal Maxims**  
+  - Reflect good faith (**bona fide**) and the community’s moral standards (**boni mores**), which are foundational to evaluating enrichment law.
+----- END OF FILE -----
+# PVL3704/1
+## STUDY UNIT 14: General enrichment action
+
+- **condictio sine causa specialis**
+  - Used when facts fall outside the application of the other three condictiones
+  - Applicable only in certain circumstances
+  - Sometimes called **condictio ob finitam causam**
+
+- **Key Terms:**
+  - **conductor operarum**: Employer
+  - **conductor operis**: Worker
+  - **consensus**: Agreement
+  - **contra bonos mores**: Contrary to good morals
+  - **culpa**: Fault or negligence
+  - **damnum**: Damage
+  - **datio**: Transfer
+  - **debitum**: Debt
+  - **error**: Mistake
+    - **error facti**: Mistake of fact
+    - **error iuris**: Mistake of law
+  - **ex aequitate**: According to justice
+  - **exceptio doli**: Exception of fraud
+    - **exceptio doli generalis**: General exception of fraud
+    - **exceptio doli specialis**: Special exception of fraud
+  - **ius**: Right
+
+- **Legal Concepts:**
+  - **ex contractu**: Arising from contract
+  - **ex delicto**: Arising from delict
+  - **habitatio**: Free lodging
+  - **in pari delicto, potior est conditio defendenti**: Equal wrongful conduct, defendant in stronger position
+  - **ius tollendi**: Right to remove
+  - **litis contestatio**: Date action was lodged
+  - **locatio conductio operarum**: Employment contract
+  - **mandatum**: Contract of mandate
+
+- **Notable Principles:**
+  - **nemo contra suum factum venire debet**: No one can go against their own act
+  - **nemo ex suo delictio meliorem conditionem suam facere potest**: No one can benefit from their own misdeed
+  - **naturalis obligatio**: Natural or unenforceable obligation
+  - **paritas creditorum**: Parity of creditors
+
+- **Miscellaneous Terms:**
+  - **modicae refectiones**: Everyday repairs
+  - **mora**: Default
+  - **novus actus interveniens**: New intervening cause
+  - **obiter dictum**: Incidental remark by a court
+
+- **Key Legislation and Cases:**
+  - Refer to relevant statutes governing **contract law**, **delict**, and **unjust enrichment**.
+  - Look for landmark cases establishing principles of enrichment actions.
+
+- **Diagrams and Visual Aids:**
+  - Reference required diagrams related to enrichment actions. 
+
+---
+
+This summarization condenses important legal terms and principles relevant to "General enrichment action" while preserving the original structure and references.
+----- END OF FILE -----
+# PVL3704/1
+
+## STUDY UNIT 14: General Enrichment Action
+
+### Key Concepts and Terms
+- **Precarium**  
+  - Legal relationship of possession granted gratuitously; revocable at will.
+
+- **Prima Facie**  
+  - At first sight; evident based on appearance.
+
+- **Pro Rata**  
+  - In proportion; divided equally.
+
+- **Quantum**  
+  - Amount or size of enrichment.
+
+- **Quantum Meruit**  
+  - Amount of enrichment due.
+
+- **Quasi Negotiorum Gestorum**  
+  - Extended management of affairs.
+
+- **Ratio**  
+  - Reason or rationale behind legal principles.
+
+- **Rei Vindicatio**  
+  - Action by an owner to recover possession of property.
+
+- **Replicatio**  
+  - Replication; response in legal pleadings.
+
+- **Res**  
+  - Thing or property.
+
+- **Res Fungibiles**  
+  - Replaceable things; items of equivalent value.
+
+- **Res Incorporalis**  
+  - Incorporeal things; intangible assets.
+
+- **Res Inter Alios Acta**  
+  - Acts of third parties should not prejudice others.
+
+- **Restitutio in Integrum**  
+  - Restoring to original position.
+
+- **Sine Causa**  
+  - Without legal cause; absence of basis for obligation.
+
+- **Sine Qua Non**  
+  - Indispensable condition; necessary element.
+
+- **Solvendi Animo Per Errorem**  
+  - Under the impression that the performance was owed.
+
+- **Solvens**  
+  - Debtor; party owing a debt.
+
+- **Speciﬁcatio**  
+  - Creation of a thing or item.
+
+- **Stipulatio**  
+  - Verbal contract; binding agreement made orally.
+
+- **Sui Generis**  
+  - Of its own nature; unique kind.
+
+- **Supra**  
+  - Above; refers back to prior content.
+
+- **Traditio Per Cartam**  
+  - Delivery of record of transfer; formal conveyance of property.
+
+- **Turpis Persona**  
+  - Disgraceful or infamous person; lacking moral or legal standing.
+
+- **Ubi Meam Rem Invenio, Ibi Vindico**  
+  - "Where I find my thing, I claim it."
+
+- **Ubi Rem Meam Invenio, Ibi Eam Vindico**  
+  - "Wherever I find my property, there I claim it."
+
+- **Ultra Vires**  
+  - Beyond the scope of powers; exceeding authority.
+
+- **Utilis Actio Negotiorum Gestorum Contraria**  
+  - Extended management of affairs action.
+
+- **Utiliter Coeptum**  
+  - Useful undertaking; beneficial endeavor.
+
+- **Vinculum Juris**  
+  - Juristic bond; legal connection between parties.
+
+- **Vis Maior**  
+  - Force majeure; unavoidable events or acts of God.

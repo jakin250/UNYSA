@@ -1,0 +1,2635 @@
+# CMY1501 Guide 2019 South African Perspective
+## Introduction to Criminology: Crime, Offenders and Criminal Behaviour (University of South Africa)
+
+### Orientation
+- **Module Diagram**: Overview of criminology themes and topics.
+- **Study Start**: Read Tutorial Letters CMY101 and KRMALLR initially.
+- **Course Focus**: Local, national, and international relevance of criminology.
+- **Terminology**: 'Criminal' and 'offender' are interchangeable.
+- **Approach**: 
+  - Pragmatic framework addressing community needs.
+  - Emphasis on critical and systematic understanding of crime phenomena.
+  - Contextual problem-solving through applied knowledge.
+
+### Themes
+#### THEME 1: TRADITIONAL JUSTICE AND THE ROLE OF TRADITIONAL LEADERS IN JUSTICE AND CRIME PREVENTION
+- **Study Unit 1.1**: 
+  - Legislative and Policy Framework
+- **Study Unit 1.2**: 
+  - Traditional Courts and Justice Administration
+- **Study Unit 1.3**: 
+  - Traditional Leaders in Crime Prevention
+- **Study Unit 1.4**: 
+  - Traditional Leaders in Democratic Context
+
+#### THEME 2: VIGILANTISM AS REACTION TO CRIME
+- **Study Unit 2.1**: 
+  - Definition and Concept of Vigilantism
+- **Study Unit 2.2**: 
+  - Vigilantism's Rise in South Africa
+- **Study Unit 2.3**: 
+  - Typical Vigilante Group Functions
+- **Study Unit 2.4**: 
+  - Vigilantism's Link to Crime Rates
+
+#### THEME 3: THE THEORETICAL BASIS OF RESTORATIVE JUSTICE
+- **Study Unit 3.1**: 
+  - Development of Restorative Justice Principles
+- **Study Unit 3.2**: 
+  - Role of Truth and Reconciliation Commission (TRC)
+- **Study Unit 3.3**: 
+  - Analysis of Restorative Justice Concept
+- **Study Unit 3.4**: 
+  - Overview of Restorative Justice Models
+
+#### THEME 4: THE APPLICATION OF THE PRINCIPLES OF RESTORATIVE JUSTICE
+- **Study Unit 4.1**: 
+  - Foundations of Restorative Justice Praxis
+- **Study Unit 4.2**: 
+  - Victim’s Position in Justice Processes
+- **Study Unit 4.3**: 
+  - Offender Accountability and Development
+- **Study Unit 4.4**: 
+  - Implementation of Restorative Justice in South Africa
+
+### Learning Units
+- **Overall Object**: Knowledge acquisition and skill development in criminology.
+- **Holistic Thinking**: Exposure to various criminological schools of thought, both locally and globally.
+----- END OF CHUNK -----
+# Criminology Orientation Study Notes
+
+## (vi) Orientation
+
+- **Aim of the Course**
+  - Awareness of crime phenomena; develop a responsible attitude towards prevention.
+  - Encourage commitment to finding solutions for crime at various levels.
+  - Emphasize understanding causes and effects of behavior.
+  - Promote humaneness; foster sympathy towards crime victims.
+  - Highlight respect for equality and law-abiding values.
+
+- **Skills Development**
+  - Essential skills include reading and studying effectively.
+  - Communicative thinking and social skills for criminological discussions.
+  - Ability to observe, collect, summarize, and arrange information meaningfully.
+
+## 16. Outcomes-based Outputs
+
+- Connection to critical and specific outcomes of learning.
+
+### 18. Critical Outcomes
+- **Criminological Literacy**
+  - Identify problems and solutions via critical and creative thinking.
+  
+- **Global and Contextual Perspectives**
+  - Awareness of local and international criminology perspectives and crime trends.
+  
+- **Sense of Responsibility**
+  - Distance study promotes dedication and self-evaluation.
+
+- **Communication Skills**
+  - Active engagement with real-world crime events enhances communication efficacy.
+
+- **Reading and Research Skills**
+  - Ability to collect and critically analyze information.
+
+- **Cooperation in Community Contexts**
+  - Application of criminology in community policing and victim support.
+
+- **Individual Values and Skills**
+  - Development of learning, schematic, and synthesizing skills.
+  - Reinforcement of positive legal values.
+
+### 20. Specific Learning Outcomes
+- **Innovative Thinking**
+  - Evaluate schools of thought in criminology.
+  
+- **Engagement with Role-players**
+  - Recognize and describe crime-related issues.
+
+- **Demonstrate Academic Literacy**
+  - Understanding of criminological issues.
+
+- **Awareness of Criminology's Contribution**
+  - Analyze the crime issue in South Africa.
+
+- **Risk Factor Expansion**
+  - Identify factors leading to criminal behavior.
+
+- **Explanation of Criminal Behavior Causes**
+  - Discuss factors behind criminal actions.
+
+## 22. Overview of the Module
+- **Theme Structure**
+  - Four interconnected themes.
+
+### 24. Theme 1: Introduction to Criminology
+- Define criminology and the role of criminologists.
+- Overview of schools of thought, focused on South African context.
+
+### 25. Theme 2: Crime in South Africa
+- Classification, patterns, trends and sources of crime information.
+
+### 26. Theme 3: Individuals in Crime Situations
+- Analysis of criminals and victims; factors like culture, gender, and age.
+
+### 27. Theme 4: Causes of Crime
+- Individual-oriented causes: biological, psychological, social.
+- Explanation of theory and its characteristics using **Gottfredson and Hirschi's General Theory of Crime**.
+
+## 28. The Study Package
+- Consists of a study guide and tutorial letters.
+
+## 31. Learning Units
+- Each unit begins with learning outcomes, followed by study material.
+
+## 42. Study Objectives
+- Outlined at the beginning of each learning unit.
+
+## 51. Action Words and Their Meanings
+- **Mention:** List of facts or concepts.
+- **Indicate:** Recall symbols or concepts.
+- **Discuss:** Explain essence of a matter.
+- **Describe:** Document knowledge without personal comments.
+- **Sketch:** Outline key points in words.
+- **Define:** Authoritative explanation of a term.
+- **Explain:** Demonstrate understanding of relationships.
+- **Illustrate:** Use sketches/diagrams for clarity.
+- **Interpret:** Provide commentary with examples.
+- **Summarise:** Recapitulate the essence of the topic.
+- **Demonstrate:** Substantiate information with examples.
+- **Apply:** Use knowledge in new situations.
+- **Deduce:** Draw logical conclusions.
+- **Classify:** Arrange information categorically.
+- **Distinguish:** Clarify differences between concepts.
+- **Compare:** Analyze matters against each other.
+- **Analyse:** Identify characteristics and links.
+- **Investigate:** Analyze for causes and relationships.
+- **Design:** Create a new combination of data.
+- **Propose:** Expert guidance for problem-solving.
+- **Criticise/Evaluate:** Justify assessments based on criteria. 
+
+### Legislation and Cases
+- **Gottfredson and Hirschi’s General Theory** relevant for explaining criminal behavior.
+
+### Diagram References
+- Include diagrams where applicable for visual representation of concepts.
+----- END OF CHUNK -----
+# THEME 1: WHAT IS CRIMINOLOGY?
+- **Page: 76**
+- **Outcome**: Understanding of criminology, crime, criminals, and criminal behavior.
+
+## LEARNING UNIT 1.1: WHAT IS CRIMINOLOGY ABOUT?
+- **Page: 94**
+  
+### 1.1.1 Introduction
+- Study of criminology includes:
+  - Definition of criminology
+  - Criminologist's role
+  - Independence of criminology as a discipline
+  - Parameters of crime
+  - Juridical vs. nonjuridical approaches
+
+### 1.1.2 Key Concepts
+- **Criminology**: Scientific study of crime, offenders, victims, and the criminal justice system (Walsh 2015:2).
+- **Law**: Enacted statutes by authorities.
+- **Criminal Law**: Legal rules defining crimes and penalties.
+- **Common Law**: Unwritten, accepted legal rules.
+
+### 1.1.3 What is Criminology?
+- **Definitions**:
+  - Siegel (2013): Scientific approach to criminal behavior.
+  - Walsh (2015): Interdisciplinary science analyzing criminal behavior and societal impact.
+  - Key questions addressed by criminologists:
+    - Variability in crime rates
+    - Individual propensities for crime
+    - Victimization factors
+    - Prevention strategies
+
+### 1.1.4 The Criminologist's Role
+- Criminologists utilize the scientific method for empirical validation of theories.
+- Aim to develop verified knowledge beneficial to policymakers and law enforcement.
+
+### 1.1.5 Is Criminology a Discipline in its Own Right?
+- Criminology studies crime in its context, considering various influencing factors.
+
+### 1.1.6 The Fluctuating Parameters of Crime
+- Crime understanding requires consideration of offender, victim, justice process, and societal context.
+
+### 1.1.7 Various Approaches to the Study of Crime
+- Studies encompass:
+  - Causes of crime
+  - Reactions to criminal behavior
+  - Variation in crime across demographics and locations
+  - Judicial process explanations
+
+### 1.1.8 The Juridical Definition of Crime
+- Historically defined by legal statutes.
+
+### 1.1.9 The Nonjuridical Definition of Crime
+- Focus on societal impact and perceptions of crime.
+
+### 1.1.10 Conclusion
+- Criminology bridges theoretical and practical aspects of crime and justice.
+
+### 1.1.11 Self-assessment Questions
+- Excluded
+
+### 1.1.12 Feedback on Self-assessment Questions
+- Excluded
+
+### Notable Theorist
+- **Edwin H. Sutherland**: Father of American criminology; focuses on law-making, breaking, and societal reactions.
+
+### Diagram Reference
+- **Theme Diagram**: See corresponding diagram for visual representation of criminological concepts.
+
+(End of Learning Unit 1.1)
+----- END OF CHUNK -----
+# LEARNING UNIT 1.1
+
+## 1.1 What is criminology about?
+- **Definition of Criminology**
+  - Focuses on law making, law breaking, and societal reactions.
+  - Juridical concept: studies everything pertinent to crime.
+
+- **Fields of Specialisation (Bezuidenhout & Little 2011:15)**
+  - **Criminal Law:** Defines crime and outlines control, prevention, and punishment.
+  - **Crime Theories:** Explanations for causes of criminal behaviour.
+  - **Victimology:** Examination of crime victims and perceptions.
+  - **Behaviour Systems:** Risk assessment for deviant behaviour.
+  - **Criminal Justice:** Studies institutions managing offenders (courts, police, prisons).
+
+## 1.1.4 The criminologist’s role
+- **Definition (Brown et al. & Gibbons in Bezuidenhout & Little 2011:14)**
+  - Criminologist: Professional focused on crime phenomena.
+- **Main Roles**
+  - Lecturing and research.
+  - Community service for victims.
+  - Policy development and crime prevention programmes.
+- **Functionality**
+  - Explain and analyze crime dynamics.
+  - Research implications for criminal justice.
+  - Submit court reports impacting sentence determinations.
+- **Occupational settings:** Academics, law enforcement, correctional services, security, policy development.
+
+## 1.1.5 Is criminology a discipline in its own right?
+- **Defining Science (Du Preez & Neser 1993:62)**
+  - Systematic knowledge collection, reliable and applicable.
+- **Requirements for Independent Discipline (Johnson 1978:49–71)**
+  - Unique object of study.
+  - Clear study area and methodologies.
+  - Theoretical foundation and societal application.
+- **Criminology meets criteria:** Clear study of crime, unique methodologies, and global application.
+
+## 1.1.6 The fluctuating parameters of crime
+- **Contextual Nature of Crime (Walsh 2015:3)**
+  - Variance in legal definitions based on culture and time.
+  - Examples of varying definitions.
+- **Subjectivity of Justice**
+  - Inconsistent application of laws and definitions based on societal norms.
+- **Power Relations:** 
+  - Minority groups influence laws, reflecting societal values and biases.
+
+## 1.1.7 Various approaches to the study of crime
+- **Influences on Definitions (Siegel 2013:12–13)**
+  - Personal and professional biases shape criminological perspectives.
+- **Perspectives:**
+  - Juridical (legal definition) vs. non-juridical (social definition).
+- **Criminal Justice Evolution:**
+  - Influenced by Roman-Dutch and British law; Constitutional Court upholds rights.
+
+## 1.1.8 The juridical definition of crime 
+- **Narrow Definition (Bezuidenhout & Little 2011:15)**
+  - Focus on behavior violating state law, leading to punishment.
+- **Key Elements:**
+  - **The Act:** Must be human, voluntary, observable.
+  - **Legal Recognition:** Criminal law must define act; punishment required.
+- **Precept:** "No crime without law, no punishment without law" (Snyman et al. 1991:21ff).
+
+### 1.1.8.1 The act itself
+- **Criteria for Criminal Acts:**
+  - Must be voluntary, intentional, and observable.
+  - Exceptions for certain scenarios where acts may be deemed criminal despite non-observability.
+
+*For further details refer to diagrams illustrating criminological theories and the structure of the criminal justice system.*
+----- END OF CHUNK -----
+**LEARNING UNIT 1.1**
+
+- **1.1.8.1 Elements of a Crime**
+  - Crime defined by deliberate intent to commit
+  - Complicity requires conscious advancement of a crime
+  - Human acts and their consequences must be punishable
+
+- **1.1.8.2 The Wrongfulness of the Act**
+  - Wrongful act: conflicts with legal norms (prescription/prohibition)
+  - Objective requirement; exceptions: self-defense, emergencies, victim consent
+
+- **1.1.8.3 The Element of Guilt**
+  - Guilt: culpable frame of mind in committing a wrongful act
+  - Forms of guilt: deliberate intent (dolus) and negligence (culpa)
+  - Accountability factors: mental illness, age, intoxication, emotional stress
+
+- **1.1.8.4 The Element of Punishment**
+  - Only acts punishable by the state constitute crimes
+  - Punishment specified by common law or legal prescriptions
+  - Possible sanctions: prison, fines, correctional supervision, suspended sentences
+
+- **1.1.9 The Nonjuridical Definition of Crime**
+  - Scholars suggest broad understanding beyond legal definitions of crime 
+  - Consideration of deviant behavior and societal norms crucial
+
+- **1.1.9.1 Crime as a Violation of Behavioural Norms**
+  - Sellin's focus on social norms violation alongside legal definitions
+  - Behavioral norms influenced by tradition, religion, law
+
+- **1.1.9.2 Crime as Social Harm**
+  - Sutherland's definition includes illegal behavior harming society
+  - Focus on white-collar crime and civil injustices
+
+- **1.1.9.3 Crime as a Violation of Human Rights**
+  - Schwendingers advocate for human rights violations as crime
+  - Examples include restrictions on freedom of movement, speech, and imperialism
+
+- **1.1.9.4 Crime as a Form of Social Deviance**
+  - Social deviance: deviation from accepted societal norms with punishments
+  - Variability in definitions of criminal behavior over time and culture
+
+- **1.1.10 Conclusion**
+  - Criminology defined; exploration of criminologist roles
+  - Juridical vs. nonjuridical approaches considered
+  - Emphasis on comprehensive understanding of crime
+
+**LEARNING UNIT 1.2: SCHOOLS OF THOUGHT IN CRIMINOLOGY**
+
+- **1.2.1 Introduction**
+- **1.2.2 Key Concepts**
+- **1.2.3 The Purpose of Criminological Theory**
+- **1.2.4 Classical Criminology**
+- **1.2.5 The Neo-Classical School**
+- **1.2.6 Positivist Criminology**
+- **1.2.7 Critical Criminology**
+- **1.2.8 Feminist Criminology**
+- **1.2.9 The Social Milieu School of Thought**
+- **1.2.10 Post-Modern Criminology**
+- **1.2.11 Criminology in Africa**
+- **1.2.12 Criminology in South Africa**
+- **1.2.13 Conclusion**
+----- END OF CHUNK -----
+# LEARNING UNIT 1.2 
+
+## LEARNING OUTCOMES 
+- Discuss schools of criminological thought: classical, positivist, critical, feminist, social milieu, and post-modern criminology in Africa and South Africa.
+- Answer multiple-choice questions on criminology schools of thought.
+
+### 1.2.1 Introduction 
+- Development of influential schools of criminological thought.
+- Schools of thought are also called approaches, ideologies, movements, or paradigms.
+
+### 1.2.2 Key Concepts 
+- **Classical Criminology** (Burke 2014:37)
+  - Free will and hedonism; human behavior is pleasure-pain based.
+  - Fixed punishments indelibly written in law, equal application to all citizens.
+  - Punishment must exceed the pleasure from crime without diminishing overall happiness.
+
+- **Positivism** (Wash 2015:72–3)
+  - Focuses on the criminal's lack of control over crime (determinism).
+  - Emphasizes treatment over punishment.
+
+- **Critical Criminology** (Walsh 2015:147–148)
+  - Defines crime through oppression; crimes of the powerful go unpunished.
+
+- **Feminist Theory** (Burke 2014:227–228)
+  - Critiques male-centered criminology; highlights significance of gender roles.
+
+- **Rational Choice** (Burke 2014:63)
+  - Criminals weigh costs and benefits; deterrence through punishment.
+
+- **Postmodernism** (Burke 2014:369)
+  - Rejects a single theory of crime; embraces eclecticism.
+
+- **Social Process Approach** (Walsh 2015:127)
+  - Crime is influenced by social interactions and institutions.
+
+- **Social Structure Approach** (Walsh 2015:105)
+  - Crime results from disadvantaged economic class positions.
+
+### 1.2.3 The Purpose of Criminological Theory 
+- Theory as interconnected propositions explaining observed facts (Walsh 2015:16).
+- Theory helps to understand and make sense of complexities (Walsh 2015:17).
+- Theories connect to empirical research through hypotheses.
+- Theories should be universally applicable, contextually fluid.
+
+### 1.2.4 Classical Criminology
+- Emerged in late 18th century (Beccaria, Bentham) (Eamonn et al. 2015:49).
+- Draws from Enlightenment thinkers like Locke, Rousseau, Montesquieu, and Hobbes.
+- Social contract emerged from the Renaissance, humans are rational beings.
+- Fear, especially of punishment, is key to behaviour control.
+- Beccaria’s "On Crimes and Punishments" (1764); supports utilitarianism.
+- Punishments must be public, prompt, necessary, and proportionate (Vold & Bernard 1986:25).
+- Emphasis on deterrence; potential criminals weigh consequences of actions.
+- Key assumptions of the classical school:
+  - Humans are self-seeking.
+  - Social contracts require sacrifice of freedoms for safety.
+  - Punishment deters crime.
+  - Punishment must fit the crime, not aim at rehabilitation.
+  - Individuals are accountable for actions.
+
+### 1.2.5 Limitations of the Classical Model
+- Overly rational view of human nature, ignoring complexities.
+- Assumes equal freedom to make choices.
+- Does not address the relationship between inequality and crime.
+
+### 1.2.6 The Neo-Classical School
+- Modifies classical assumptions; recognizes extenuating circumstances (Brown et al. 2001:279–280).
+- Free will may be inhibited by individual circumstances (White & Haines 2001:46).
+- Continues the deterrence doctrine but includes individual differences.
+
+### 1.2.7 Crime Control and Due Process Models 
+- **Crime Control Model** (Einstadter and Henry 1995:43)
+  - Emphasizes law enforcement, strict penalties, prioritizes public safety over civil rights.
+
+- **Due Process Model** (Burke 2015:44-45)
+  - Protects individual rights, emphasizes fairness, limits discretion of criminal justice personnel.
+
+### 1.2.8 Criticisms of the Classical Approach 
+- Simplistic view of rational decision-making.
+- Ignores social inequalities impacting crime.
+- Fails to explore causation of crime, focusing on crime control instead (Taylor, Walton & Young 1973:2).
+
+### 1.2.9 Neoclassical Responses 
+- Recognized the rigid nature of classical laws (e.g., French Code of 1791).
+- Advocated for individual circumstances in justice administration (Vold & Bernard 1986:26).
+- Consideration of offender backgrounds and the notion of free will.
+----- END OF CHUNK -----
+# Schools of Thought in Criminology
+
+## 1.2.6 Positivist Criminology (Page 24-25)
+- **Origins**: Emerged in late 19th century; influenced by physical and natural sciences.
+- **Focus**: Criminal behavior, treatment, rehabilitation.
+- Key Figures: 
+  - *Adolfe Quetelet* (Belgian mathematician)
+  - *Cesare Lombroso* (1876 publication "Criminal Man") – emphasized biological determinism.
+- **Shift from Classical Thinking**: Recognized hereditary, psychological, and social factors; redirected focus from rationalism and punishment.
+
+### Key Principles:
+- Emphasis on observable facts and scientific methods.
+- Individual behavior influenced by social, biological, psychological factors.
+- Crime defined more broadly than individual actions.
+
+### Assumptions of Positivism:
+- Criminal behavior caused by genetic, biological, psychological features and social context.
+- Individuals lack complete rationality; decisions influenced by various constraints.
+- Offenders driven by external and internal factors beyond their control.
+
+### Divisions:
+- **Individual Positivism**: Biological and psychological explanations.
+- **Sociological Positivism**: Focus on social factors.
+
+### Limitations:
+- Assumes pure objectivity in research; overlooks biases.
+- Accepts status quo; limits critique of social and economic structures.
+- Over-reliance on scientific methods for knowledge.
+
+## 1.2.7 Critical Criminology (Page 25-27)
+- **Nature**: Encompasses various theories critiquing power and class conflict dynamics in society.
+- **Definition of Crime**: Seen as a function of oppression; negatively impacts marginalized groups (e.g., working class, women, ethnic minorities).
+  
+### Key Critiques of Previous Criminological Theories:
+- Previous theories lacked acknowledgment of class, race, and gender in defining crime and deviance.
+- Radical criminology highlights the meaningful context of deviant behavior versus societal labels.
+
+### Edwin Sutherland's Contribution:
+- Introduced "white-collar crime"; emphasized inequalities in the treatment of crimes committed by different societal classes.
+
+### Arguments:
+- Working-class crime is often less consequential than white-collar and corporate crimes, which incur significant societal costs.
+- Calls for redistribution of resources and direct participation in decision-making as responses to crime and inequality.
+
+### Critiques:
+- Overlooks harsh realities of crime affecting vulnerable communities.
+- Tends to minimize criminal pathology among oppressed groups.
+
+## 1.2.8 Feminist Criminology (Page 28-29)
+- **Development**: Evolved in late 1960s-1970s as a critique of male-centered criminology.
+- **Main Tenet**: Gender and class inequalities significantly influence crime perceptions and responses.
+
+### Perspectives on Female Criminality:
+- Rejects generalization of women as mere victims; portrays them as survivors.
+- Criticism of male-dominated narratives which trivialize or mislabel female criminality.
+
+### Varied Feminist Views:
+- Some advocate for radical systemic change (capitalism and patriarchy); others seek reforms.
+- No singular feminist theory; diverse interpretations of female oppression and criminality.
+
+### Impact on Criminology:
+- Challenges traditional criminological explanations and emphasizes a need for gender-sensitive perspectives in criminal justice research and policy.
+----- END OF CHUNK -----
+# LEARNING UNIT 1.2
+
+## Contemporary Variants of Feminism
+
+- **Liberal Feminism** (Burke 2014:229–230)
+  - Focuses on legal reform to achieve equality.
+  - Analyzes social structures and discrimination in public spheres.
+
+- **Radical Feminism**
+  - Emphasizes patriarchy as the dominant force controlling women.
+  - Attributes practices like prostitution to patriarchal societal structures.
+
+- **Marxist Feminism**
+  - Links subordination of women to capitalist exploitation.
+  - Critiques the ideological portrayal of women as primary caregivers.
+
+- **Socialist Feminism**
+  - Merges radical and Marxist viewpoints.
+  - Recognizes both capitalism and patriarchy as oppressive systems.
+
+- **Black Feminism**
+  - Investigates the intersectionality of race, gender, and class.
+  - Highlights a "matrix of domination" affecting black women.
+
+- **Postmodern Feminism**
+  - Advocates for gender equality, encompassing race and sexuality.
+  - Questions universal feminist theories.
+
+## Contributions of Feminist Approach
+- Critiques malestream criminology regarding women's representation.
+- Suggests new areas of study within criminology.
+- Focuses on gender issues, especially men's roles in crime (Eamonn et al. 2014:106–7).
+
+## Limitations of Feminist Criminology
+- Fails to explain root causes of gender inequalities.
+- Radical feminism criticized for universal male dominance assumptions.
+- Overemphasis on crimes against women while neglecting other forms of violence.
+
+## Social Milieu School of Thought
+- **Proponents**: Tarde, Guerry, Quetelet
+- **Approaches**:
+  - **Social Structure**: Focuses on community organization (economic systems, family dysfunction, etc.) (Van der Westhuizen 2011:134).
+  - **Social Process**: Examines individual law-violating behavior through social interactions (Brown, Esbensen, Geis 2007:319).
+
+### Premises of Social-Environment School
+- Based on a juridical conception of crime.
+- Focus on social environment of criminals.
+- Assumes improved social conditions can reduce crime.
+- Lacks emphasis on punishment or rehabilitation.
+
+### Differential Association Theory 
+- **Edwin H. Sutherland (1883–1950)**:
+  - Criminal behavior learned through interaction with others.
+  - Emphasizes external social influences while recognizing individual responses differ.
+
+## Postmodern Criminology
+- Emerged in the late 1980s, challenging rationality and science (Schwartz & Friedrichs; Burke 2014:507).
+- Not confined to specific crime perspectives.
+- Questions conventional definitions of crime and advocates for interdisciplinary approaches.
+
+### Universal Factors Contributing to Crime (Van Dijk 1998:8)
+- Economic constraints and income inequality.
+- Low education levels.
+- High firearm availability.
+- Inadequate urban infrastructure.
+- Youth population.
+- High rates of substance abuse.
+- Repeat victimization.
+
+## Key Focus Areas of Postmodern Criminology
+- Embraces both juridical and nonjuridical crime definitions.
+- Rejects limited definitions of social concepts.
+- Integrates diverse factors in crime explanation.
+- Prioritizes victim rights and community-based approaches.
+
+## Criminology in Africa
+- Limited literature due to political instability.
+- Crime largely attributed to colonial capitalism (Mushanga 1992:78).
+- Shifted focus from community protections to contemporary victims of various crimes.
+
+### Contributing Factors to Crime in Africa
+- Rapid urbanization and cultural transition from ubuntu to individualism.
+- Youth population growth and inadequate state support contribute to rising crime rates.
+- Need for poverty eradication and community empowerment (Mushanga 1992:x; Kibuka 1980:14).
+
+## Criminology in South Africa
+- Criminology aligns with either positivism or critical criminology, depending on crime definitions.
+- Early criminologists influenced by Bonger focused on economic disparities.
+- Contemporary criminologists address both universal and unique local factors affecting crime.
+
+### Key Factors from National Crime Prevention Plan (1996):
+- Destruction of social control post-democratization.
+- Political violence and conflict.
+- Political justifications for crime.
+- Social marginalization and inadequate victim support.
+- Socio-psychological influences unique to South Africa.
+----- END OF CHUNK -----
+# Study Notes on Schools of Thought in Criminology
+
+## Chapter 1: Schools of thought in criminology (36)
+
+### 1.2.13 Conclusion
+- Various schools of criminological thought examined:
+  - **Classical Criminology**
+  - **Positivist Criminology**
+  - **Critical Criminology**
+  - **Feminist Criminology**
+  - **Social Milieu Criminology**
+  - **Postmodern Criminology**
+- Consideration of African and South African criminology, highlighting specific factors leading to crime in South Africa.
+
+### 1.2.14 Self-Assessment Questions (Exclusion of activities)
+
+- **Key Premises of Classical Criminology**
+  - Individuals are self-seeking, prone to crime.
+  - Social contract for protection through governance.
+  - Deterrence through punishment, proportionality critical.
+  
+- **Social Milieu School of Thought**
+  - Emphasizes social environment over individual criminality.
+  - Advocates that improved social conditions deter crime.
+
+- **Points of Departure in Positivist Criminology**
+  - Focus on biological, psychological, socioeconomic determinants.
+  - Crime can be mitigated through treatment and improved conditions.
+  - Punishment linked to treatment and proportionality.
+
+- **Main Premises of Postmodern Criminology**
+  - Accepts both juridical and non-juridical crime concepts.
+  - Denies strict adherence to any single theoretical perspective.
+  - Questions conventional definitions and emphasizes integrated approaches.
+
+- **Mushanga’s Views on Crime Prevention in Africa**
+  - Advocates compulsory education and poverty elimination.
+  - Focus on family values restoration and slum conditions.
+
+- **Unique Crime Factors in South Africa**  
+  - Social control erosion post-democracy.
+  - Political violence culture and justification of crime.
+  - Economic conditions, youth marginalization, and gender inequalities. 
+
+### 1.2.15 Answers to Self-Assessment Questions
+
+- **(1)** Classical School: Self-seeking nature, social contract, deterrent punishment.
+  
+- **(2)** Key Terms in Social Milieu: Juridical crime concept, social environment focus, conditions for prevention.
+  
+- **(3)** Positivist Attributes: Focus on individual behavior, context-driven crime prevention, treatment-centric punishment.
+  
+- **(4)** Postmodern Attributes: Multi-perspective, deconstruction of norms/values, community policing emphasis.
+  
+- **(5)** **Mushanga's Insights:** Education, poverty eradication, family norm restoration.
+
+- **(6)** **South African Crime Factors:** Social control breakdown, violence culture, socioeconomic disparities.
+
+### Multiple-Choice Concepts
+- Familiarize with prominent figures and theories:
+  - **Classical School:** Beccaria, Bentham.
+  - **White Collar Crime:** Sutherland.
+
+---
+
+## Chapter 2: Crime in South Africa
+
+### 290 Crime in South Africa
+- Systematic understanding of the crime problem in South Africa.
+
+### 291 Outcomes for the Theme
+- Knowledge of crime classification importance.
+- Ability to discuss official crime statistics and their limitations.
+- Overview of crime data from unofficial sources and victim surveys. 
+
+### 294 Assessment Criteria
+- Understand the dropout process of offenders in the legal system.
+- Evaluate victim surveys’ benefits and challenges.
+- Describe self-report studies in criminological context.
+----- END OF CHUNK -----
+# (42) THEME 2: CRIME IN SOUTH AFRICA
+
+- **THEME DIAGRAM** (p. 296)
+  
+- **298 Introduction**
+  - Criminology: scientific study of crime.
+  - Key questions: What is crime? How many crimes? Why do they occur?
+  - Crime stats highlight the severity of crime as a government challenge.
+  - National Crime Prevention Programme: aims to limit crime opportunities and improve judicial handling of crime.
+  - Importance of understanding crime definitions, measurement, and classification.
+
+### Learning unit 2.1: The classification and measurement of crime
+#### 305 Overview
+- Focus on categorization and measurement of crime.
+- Section details crime trends and sources of information.
+
+#### 307 The classification of crime
+#### 310 Learning Unit 2.1
+##### 2.1.1 Introduction
+- Crime: broad concept, needs categorization for measurement.
+
+##### 2.1.2 Key concepts
+- **Crime**: Intention to violate criminal law; penalized by the state.
+- **Code of crime list**: 35 categories for classification.
+- **Official crime statistics**: Data from police, courts; indicative of crime extent.
+- **Crime trends**: Variations over time for specific crimes.
+- **Dark figure of crime**: Unreported crimes not in official stats.
+
+##### 2.1.3 The classification of crime
+- Classification: Systematizing crime data by similarities (e.g., violent crimes).
+- Categories may overlap; criticism over non-mutual exclusivity.
+- Past SAPS classification includes seven categories:
+  1. Crimes of violence: murder, robbery.
+  2. Social fabric crime: rape, assault.
+  3. Property-related crime: burglary, theft.
+  4. Commercial crime: fraud.
+  5. Violence towards property: arson.
+  6. Police-dependent crimes: illegal possession of firearms.
+  7. Robbery with aggravating circumstances: hijacking, cash-in-transit robbery.
+- Current classification uses a code of crime list from SAPS with trends recorded over nine provinces.
+
+##### 2.1.4 Crime patterns and trends
+###### 338. Classes can be subdivided:
+- Example: Murder subclasses include domestic and firearm-related.
+
+###### 340 Contact Crimes (p. 340)
+- **Murder Stats**:
+  - Yearly breakdown from 2008-2014.
+  
+###### 346 Total Sexual Crimes
+- Yearly breakdown from 2008-2014.
+
+###### 348 Attempted Murder
+- Yearly breakdown from 2008-2014.
+
+###### 350 Assault Statistics
+- Yearly breakdown from 2008-2014.
+
+###### 352 Common Robbery
+- Yearly breakdown from 2008-2014.
+
+###### 354 Robbery with Aggravating Circumstances
+- Yearly breakdown from 2008-2014.
+
+###### 356 Contact-Related Crimes
+- **Arson and Malicious Injury to Property**:
+  - Yearly breakdown from 2008-2014.
+
+###### 361 Property-Related Crimes
+- **Burglary at Non-Residential Premises**:
+  - Yearly breakdown from 2008-2014.
+----- END OF CHUNK -----
+# Learning Unit 2.1: Classification and Measurement of Crime
+
+## Crime Statistics Overview (Table 2.1)
+- **Burglary at Residential Premises** (2008-2014)
+  - 2008: 237853
+  - 2009: 246616
+  - 2010: 256577
+  - 2011: 247630
+  - 2012: 245113
+  - 2013: 261742
+  - 2014: 259424
+
+- **Theft of Motor Vehicle and Motorcycle** (2008-2014)
+  - 2008: 80226
+  - 2009: 75968
+  - 2010: 71776
+  - 2011: 64504
+  - 2012: 59120
+  - 2013: 58312
+  - 2014: 56616
+
+- **Theft Out of or From Motor Vehicle** (2008-2014)
+  - 2008: 111661
+  - 2009: 109548
+  - 2010: 120862
+  - 2011: 123091
+  - 2012: 130453
+  - 2013: 139572
+  - 2014: 143305
+
+- **Stock Theft** (2008-2014)
+  - 2008: 28778
+  - 2009: 30043
+  - 2010: 32380
+  - 2011: 30144
+  - 2012: 31009
+  - 2013: 29889
+  - 2014: 28026
+
+### Crimes Heavily Dependent on Police Action for Detection
+- **Unlawful Possession of Firearms and Ammunition** (2008-2014)
+  - 2008: 13476
+  - 2009: 14045
+  - 2010: 14542
+  - 2011: 14472
+  - 2012: 14484
+  - 2013: 14837
+  - 2014: 15333
+
+- **Drug-Related Crime** (2008-2014)
+  - 2008: 109134
+  - 2009: 117172
+  - 2010: 134840
+  - 2011: 150673
+  - 2012: 175823
+  - 2013: 206609
+  - 2014: 258472
+
+- **Driving Under the Influence of Alcohol or Drugs** (2008-2014)
+  - 2008: 48405
+  - 2009: 56165
+  - 2010: 62939
+  - 2011: 66697
+  - 2012: 69232
+  - 2013: 71029
+  - 2014: 69490
+
+## Other Serious Crimes
+- **All Theft Not Mentioned Elsewhere** (2008-2014)
+  - 2008: 395296
+  - 2009: 394124
+  - 2010: 367442
+  - 2011: 368095
+  - 2012: 377073
+  - 2013: 362424
+  - 2014: 366336
+
+- **Commercial Crime** (2008-2014)
+  - 2008: 65286
+  - 2009: 77474
+  - 2010: 84842
+  - 2011: 88388
+  - 2012: 88068
+  - 2013: 91500
+  - 2014: 79009
+
+- **Shoplifting** (2008-2014)
+  - 2008: 66992
+  - 2009: 80773
+  - 2010: 88634
+  - 2011: 78383
+  - 2012: 71844
+  - 2013: 71101
+  - 2014: 70136
+
+## Subcategories Forming Part of Aggravated Robbery
+- **Carjacking** (2008-2014)
+  - 2008: 14201
+  - 2009: 14915
+  - 2010: 13902
+  - 2011: 10627
+  - 2012: 9540
+  - 2013: 9988
+  - 2014: 11129
+
+- **Truck Hijacking** (2008-2014)
+  - 2008: 1245
+  - 2009: 1437
+  - 2010: 1412
+  - 2011: 999
+  - 2012: 886
+  - 2013: 943
+  - 2014: 989
+
+- **Robbery at Residential Premises** (2008-2014)
+  - 2008: 14481
+  - 2009: 18438
+  - 2010: 18786
+  - 2011: 16889
+  - 2012: 16813
+  - 2013: 17938
+  - 2014: 19191
+
+- **Robbery at Non-Residential Premises** (2008-2014)
+  - 2008: 9862
+  - 2009: 13920
+  - 2010: 14534
+  - 2011: 14667
+  - 2012: 15977
+  - 2013: 16354
+  - 2014: 18476
+
+## Other Crimes Categories
+- **Culpable Homicide** (2008-2014)
+  - 2008: 13184
+  - 2009: 12571
+  - 2010: 12272
+  - 2011: 11974
+  - 2012: 11833
+  - 2013: 11388
+  - 2014: 11257
+
+- **Public Violence** (2008-2014)
+  - 2008: 895
+  - 2009: 1500
+  - 2010: 1323
+  - 2011: 1226
+  - 2012: 1216
+  - 2013: 1782
+  - 2014: 1704
+
+- **Crimen Injuria** (2008-2014)
+  - 2008: 33064
+  - 2009: 30355
+  - 2010: 32356
+  - 2011: 33308
+  - 2012: 31903
+  - 2013: 29003
+  - 2014: 25763
+
+- **Neglect and Ill-Treatment of Children** (2008-2014)
+  - 2008: 4106
+  - 2009: 4034
+  - 2010: 4014
+  - 2011: 3473
+  - 2012: 3011
+  - 2013: 2745
+  - 2014: 2617
+
+- **Kidnapping** (2008-2014)
+  - 2008: 2323
+  - 2009: 2535
+  - 2010: 2889
+  - 2011: 3604
+  - 2012: 3935
+  - 2013: 4327
+  - 2014: 4117
+
+## Crime Reporting Implications
+- **Significance of Crime Classification**
+  - Essential for police reporting on crime fluctuations.
+  - Enables better understanding of crime trends over time.
+
+## Additional Concepts
+- **Effects of Alcohol on Behavior**
+  - Alcohol as a depressant influencing behavior.
+  - Interaction of substance with personal and social factors.
+  
+- **Dark Figure of Crime**
+  - Unreported crimes affecting official statistics.
+  - Reasons include victim perceptions, fear of reporting, and systemic issues.
+
+- **Crime Patterns and Trends**
+  - Differentiation based on geographical, demographic, and social factors.
+  - Analysis of rises and falls influenced by socio-economic conditions.
+----- END OF CHUNK -----
+# LEARNING UNIT 2.1: Crime Trends and Patterns in South Africa
+
+## 2.1.4.1 Crime Trends According to Categories
+- **Categories of Crime**: Different types of crime and their frequency compared.
+- **Problematic Crimes**: Theft, robbery, murder, rape; high report rates, difficult to prevent.
+- **National Crime Prevention Strategy**:
+  - Identifies seven key threat categories:
+    - Firearm-related crime.
+    - Organised crime (drug smuggling, illegal immigration).
+    - White collar crime.
+    - Sexual violence and crimes against children.
+    - Group conflict violence (e.g., KwaZulu-Natal taxi wars).
+    - Vehicle theft and hijacking.
+    - Legal system corruption.
+- **State Responsibility**: Various departments (SAPS, Justice, Correctional Services) combat these crimes.
+- **Practical Measures**: Legislation against firearms, cooperation to combat smuggling, intelligence improvements, community policing for vehicle theft.
+
+## 2.1.4.2 Crime Trends According to Region
+- **Regional Variations**: Crime varies significantly by province.
+- **Gauteng**: Highest crime rates; population density influences crime opportunities.
+- **Population Dynamics**: Rapid urbanization, economic refugees, young population contributing to crime rates.
+
+## 2.1.4.3 Crime Trends According to Day, Season, and Climate
+- **Seasonal Variations**: Increased crime during warm months; youth active in crime during holidays.
+- **Monthly Trends**: Increased crime at month's start (e.g., pension payouts).
+- **Alcohol Consumption**: Crime spikes related to weekend socializing.
+
+## 2.1.4.4 Social Class and Crime
+- **Traditional View**: Crime seen as a lower-class issue; impoverished individuals may commit crimes for basic needs.
+- **Types of Crimes**:
+  - **Instrumental Crimes**: Committed for practical purposes (e.g., theft).
+  - **Expressive Crimes**: Driven by emotional expression (e.g., violence stemming from frustration).
+- **Drug and Alcohol Abuse**: Contributes to violent crime in impoverished areas.
+
+## 2.1.4.5 Use of Firearms
+- **Firearm Role**: Critical in criminal activities; significant healthcare costs due to firearm injuries.
+- **Debate on Firearm Control**: Advocates argue for control to reduce crime; historical parallels with prohibition raise questions about effectiveness.
+
+## 2.1.6 Conclusion
+- **Significance of Classification**: Necessary for understanding crime causes, predicting crime trends, and developing prevention strategies.
+- **Crime Distribution**: Shows need to target specific regional crimes for effective government response. 
+
+## LEARNING UNIT 2.2: Official and Unofficial Sources of Crime Information
+### 2.2.1 Key Concepts
+### 2.2.2 Introduction
+### 2.2.3 Crime Information According to Official Sources
+- **2.2.3.1 Police Statistics**
+- **2.2.3.2 Judicial and Prison Statistics**
+- **2.2.3.3 Shortcomings of Official Crime Statistics**
+### 2.2.4 Crime Information According to Unofficial Sources
+- **2.2.4.1 Information According to Victim Surveys**
+- **2.2.4.2 Limitations of Victim Surveys**
+- **2.2.4.3 Self-Report Studies**
+- **2.2.4.4 Data Mining**
+- **2.2.4.5 Crime Mapping**
+### 2.2.5 Conclusion
+### 2.2.6 Self-Assessment Questions
+### 2.2.7 Feedback on Self-Assessment Questions
+----- END OF CHUNK -----
+# LEARNING UNIT 2.2 
+
+## LEARNING OUTCOMES 
+- Discuss official crime statistics  
+- Indicate the dropout of offenders in the legal system  
+- Demonstrate shortcomings in official crime statistics  
+- Overview crime information from unofficial sources  
+- Investigate victim surveys  
+- Argue advantages and drawbacks of victim surveys  
+- Describe self-report studies  
+
+## 2.2.1 KEY CONCEPTS 
+- **Arson**: Unlawful intentional setting of fire to immovable property (Kemp et al. 2012:623).  
+- **Assault**: Unlawful and intentional application of force or instilling fear of imminent force (Kemp et al. 2012:623).  
+- **Burglary/housebreaking**: Breaking into and entering a structure to commit a crime (Kemp et al. 2012:626).  
+- **Car hijacking**: Forceful theft of a motor vehicle using violence or threats.  
+- **Questionnaire**: A series of questions to gather information on attitudes, opinions, and biographical data; can be structured or unstructured.  
+- **Self-report studies/surveys**: Collect personal experience data on offending (Walsh 2015:38).  
+- **Victimisation survey**: A statistical measurement of victimisation patterns within the population (Walsh 2015:35).  
+
+## 2.2.2 Introduction 
+- Reliable crime statistics are vital for assessing and addressing crime (Singh 2011:91).  
+- Accurate reporting helps eliminate misrepresentation of crime and influences public perception and fear. Many fear crime more than the actual risk.  
+- Regular crime trend reporting can alleviate public fears; awareness led to initiatives like Childline and Child Justice Act (Singh 2011:91).  
+- **Adolphe Quetelet**: First to compile crime statistics to demonstrate crime as a social phenomenon.  
+- **Official crime sources in South Africa** include police, court, and prison statistics.  
+- Data compiled by Statistics South Africa, which processes information from law enforcement and judicial bodies.  
+- **Shortcomings of official statistics**: Do not reflect total crime extent; complementary data from victim surveys reveal more accurate crime experiences.  
+
+## 2.2.3 Crime information according to official sources 
+
+### 2.2.3.1 Police statistics 
+- Originates from records detailing crime nature, perpetrator, victim, and consequences (Singh 2011:106).  
+- Compiled by **Crime Information Analysis Centre (CIAC)**; influenced by public willingness to report based on police perception.  
+- **Survey Outcome**: 83% viewed SAPS as corrupt; influence on public cooperation.  
+- Media heavily scrutinizes annual crime reports, reflecting societal fears of crime and questioning law enforcement efficacy.  
+
+### 2.2.3.2 Judicial and prison statistics 
+- Courts and correctional figures are lower, reflecting only prosecuted or convicted cases.  
+- Factors for prosecution include evidence strength, offender's age, and crime severity.  
+- **Conviction Rates**: Highlight the dropout between reported crimes and convictions; 6 out of 100 violent crimes reported lead to conviction.  
+- Inadequate resources and community non-cooperation exacerbate the prosecution problem.
+
+### 2.2.3.3 Shortcomings of official crime statistics 
+- Limitations include:  
+  - Only crimes reported are included.  
+  - Statistics relative to total population can misrepresent the data (e.g. children under seven excluded).  
+  - Variation in reporting practices across police stations affects data reliability.  
+  - Social/economic factors can distort crime trends; new crimes emerge with changing social contexts.  
+
+----- END OF CHUNK -----
+# LEARNING UNIT 2.2
+
+## 2.2.1 Factors Influencing Crime Rate
+- **Age Distribution**: Changes may lead to reduced criminal behavior.
+- **Community Structure**: Decline in close-knit communities and increased mobility may diminish informal social control.
+- **Norms and Values**: Shifts in public tolerance towards certain crimes (e.g., child abuse, domestic violence).
+
+### Legislation/Case References
+- **National Youth Victimisation Survey**: Findings indicate young offenders often commit first crimes between ages 10-15, not reflected in official statistics.
+  
+## 2.2.4 Crime Information According to Unofficial Sources
+
+### 2.2.4.1 Information from Victim Surveys
+- **Purpose**: Generate data on unrecorded crime by surveying individuals about personal experiences.
+- **Content of Surveys**: Include inquiries on attitudes towards crime, fears, prevention measures, and opinions on the justice system (e.g., police and courts).
+- **Findings in South Africa**: Highlight corruption within the justice system as a major concern among respondents.
+
+### 2.2.4.2 Limitations of Victim Surveys
+- **Inability to Capture Certain Crimes**: Crimes with no identifiable victim often go unreported.
+- **Cultural Perceptions**: May affect respondent answers.
+- **Memory Limitations**: Victims may forget details if not questioned soon after the event.
+- **Underreporting**: Some victims believe nothing can be done, leading to omitted statistics.
+- **Indirect Victims**: Less likely to report, leading to lost data.
+
+### 2.2.4.3 Self-Report Studies/Surveys
+- **Definition**: Surveys where respondents anonymously report their own criminal activities.
+- **Strengths**: Allows examination of attitudes, values, and demographics related to offending behavior.
+- **Limitations**: Often focused on petty crimes and may not reflect broader population dynamics. Risk of dishonesty in responses.
+
+### 2.2.0.01 Are Self-Report Studies Accurate?
+- **Methodological Issues**: Concerns about honesty and representation of offenders; may not capture high-level offenders.
+- **Verification Techniques**: e.g., polygraph tests, costly but necessary for accuracy validation.
+
+### 2.2.0.02 Data Mining
+- **Technique**: Uses computational methods to analyze large datasets for identifying patterns/trends.
+- **Application**: Useful in forecasting criminal behavior based on analyzed data.
+
+### 2.2.0.03 Crime Mapping
+- **Purpose**: Utilizes Geographic Information Systems (GIS) to visualize crime trends and allocate police resources effectively.
+- **Influencing Factors**: Geography of areas influences crime rates, making mapping essential for strategic police patrols.
+
+## 2.2.5 Conclusion
+- Crime in South Africa is a significant concern; crime statistics are essential for understanding crime magnitude and informing judicial policy.
+- Despite gaps in data, crime statistics are critical for developing prevention strategies and evaluating their success. Reliable statistics underpin effective crime management.
+
+### Legislation/Case References
+- Emphasizes the necessity for consistent reporting and accurate crime data for effective crime prevention and analysis.
+----- END OF CHUNK -----
+# STUDY NOTES
+
+## LEARNING UNIT 2.2
+
+- **Assumptions**: High incidence of violent crimes and alcohol abuse in certain police areas (Section 2.2.3.1).
+- **Crime Decline**: Explained through reporting, prosecution, guilty findings, and parole placements (Section 2.2.3.2).
+- **Shortcomings of Crime Statistics**: Summarized in five points (Study Section 2.2.3.3).
+- **Victim Surveys**: Most reliable records of victim experiences; includes victim-offender relationship and circumstances (Sections 2.2.1 and 2.2.4.1).
+- **Further Details**: Section 2.2.4.2.
+
+--- 
+
+## THEME 3: INDIVIDUALS IN THE CRIME SITUATION
+
+### OUTCOMES FOR THE THEME
+- Define "criminal".
+- Describe the offender's general profile: cultural diversity, gender, age.
+- Overview of key concepts: "needs," "drives," "motivation," "emotion".
+- Motive process explanation.
+- Categories of needs understanding.
+- Types of crime linked to specific emotions.
+
+### THEME DIAGRAM
+- Structure of the theme follows: 
+  - **Introduction**
+  - **Learning units**
+    - 3.1: The criminal: a general profile
+    - 3.2: The criminal: needs and motives for criminal behaviour
+    - 3.3: Risk factors contributing to criminal behaviour
+
+### INTRODUCTION
+- Purpose: Explore crime situation participants; challenge binary view of law-abiding vs. law-breaking.
+- Focus: Offender's profile, needs, reasons for criminal behaviour, and risk factors.
+
+---
+
+## LEARNING UNIT 3.1: THE CRIMINAL – A GENERAL PROFILE
+
+### COMMON CHARACTERISTICS OF CRIMINALS
+
+#### 3.1.1 Introduction
+- Examination of criminal behaviour concerning South African violence.
+- Overview of offender characteristics based on crime statistics and self-report studies.
+
+#### 3.1.2 Key Concepts
+- **Criminal**: Juridical definition as transgressor, adult (18+) guilty of a crime.
+- **Juvenile Delinquent**: Defined by age; distinction between juvenile (under 21) and child (under 18) as per South African law.
+- **Self-report studies**: Collecting personal experience information regarding offending.
+- **Liberal Feminist Approach**: Gender equality perspective; women denied equal criminal opportunities.
+- **Differential Association**: Criminal behaviour acquisition through social group interactions.
+- **Violent Offenders Types**:
+  - **Culturally Violent**: Limited education, acting out due to community frustration.
+  - **Criminally Violent**: Economic motivation for property-related offences; better educated.
+  - **Pathologically Violent**: Result of mental illness; likely to commit serious crimes.
+  - **Situationally Violent**: Acquainted with victims; generally no prior offences.
+
+#### 3.1.3 Common Characteristics of Criminals
+- Crime incidence varies across ethnic groups; higher rates in predominantly black societies.
+- Self-report studies show fewer differences in minor offences across cultures. 
+
+---
+----- END OF CHUNK -----
+# LEARNING UNIT 3.1
+
+## Racial and Ethnic Factors in Crime
+
+- **Differences in Crime Incidence** (Sykes & Cullen 1992:109)
+  - Social position, discrimination, and urban decline contribute to variations in crime rates among ethnic groups.
+- **Disputed Claims of Police Prejudice** 
+  - J Philippe Rushton attributes racial crime rate differences to genetic factors (Conklin 2004:92).
+  - Criticism: Overlooks socio-economic factors; Jerome Neapolitan's analysis shows minimal correlation between race and cross-national homicide rates when controlling for income inequality, living standards, etc. (Conklin 2013:133).
+
+- **Crime Correlates** 
+  - Social and economic disadvantages correlate with high crime rates (Siegel et al. 2003:42).
+  - Young African American males often receive harsher judgments by the justice system.
+  - Chronic exposure to violence in impoverished neighborhoods fuels violent behavior.
+
+- **Socio-economic Conditions** 
+  - Conventional crime linked to systemic issues: poverty, unemployment, and unstable family environments (Sykes & Cullen 1992:111).
+  - Study of 52 countries indicates economic inequalities strongly correlate with murder rates (Conklin 2004:147).
+
+- **Unemployment and Crime** 
+  - No definitive relationship; unemployment is not a primary cause for most crimes (Siegel 2004:56).
+  - Relative deprivation may heighten feelings of frustration, linking perceived economic inequities to criminal behavior (Conklin 2013:132).
+
+- **Urbanization Effects** 
+  - Migration from rural areas leads to diminished family structure and fewer job opportunities in urban centers, exacerbating crime (Sykes & Cullen 1992:111).
+ 
+- **Sentenced Offenders in South Africa (2014)** 
+  - Disproportionate racial representation in prisons raises questions about socio-economic conditions:
+    - Black: 79%
+    - Coloured: 18%
+    - White: 2% (Jules-Macquet 2014:9).
+
+- **Economic Development** 
+  - High crime rates associated with modernization; traditional values help maintain lower crime rates in societies like Japan (Conklin 2004:144).
+
+## Gender Differences in Crime
+
+### General Trends
+
+- Males commit more crimes than females; gender differences vary across societies (Conklin 2013:84; Siegel 2013:53–54).
+- Female incarceration rates in South Africa: 2% of total prison population, focusing on economic offenses (Jules-Macquet 2014:8).
+
+### Crime Patterns
+
+- **Arrest Trends** 
+  - Male arrest rates significantly higher; female rates increase at a quicker pace (Siegel 2004:69).
+  - Females often serve as accomplices, resulting in lower detection and prosecution rates.
+
+- **Masked Behavior** 
+  - Pollak's concept of "masked criminality": females may engage in more criminal behaviors than reported (Dastile 2011:291).
+  - Chivalry hypothesis suggests women receive lighter sentences, reflecting societal biases (Siegel 2013:53).
+
+### Aggression and Socialization
+
+- **Biological vs. Socialization Theories** 
+  - Aggression innate in males; females may become aggressive under specific circumstances (Siegel et al. 2003:175).
+  - Differences in crime may stem from varying socialization practices for boys and girls, with stricter control over daughters leading to less delinquency (Siegel 2004:69; Sykes & Cullen 1992:108).
+
+- **Power-Control Theory**
+  - Delinquency linked to family structure; greater male-female differences in delinquent behaviors observed in patriarchal families (Burke 2014:204–205).
+
+### Opportunities for Crime
+
+- Women have fewer opportunities for large-scale crime, often driven into different criminal roles (e.g., prostitution) (Conklin 2004:161).
+- Changes in women's economic and social status have led to increased opportunities for certain types of crime, such as theft.
+
+### Feminist Perspectives
+
+- Liberal feminist theory links women's lower crime rates to historical socio-economic status; however, the influence of feminism on crime rates appears minimal (Siegel 2004:69).
+- Women's crime rates not significantly influenced by feminism; more related to economic marginalization (Mears et al. 1998:253).
+
+### Peer Influence
+
+- Exposure to delinquent peers varies by gender; males significantly more likely to engage with delinquent friends, while females are less influenced by such dynamics (Mears et al. 1998:263).
+
+---
+### Notes on Diagram References
+- Diagrams illustrating trends in crime rates across demographics may be referenced in specific sections but are not included here.
+----- END OF CHUNK -----
+# LEARNING UNIT 3.1
+
+## 3.1.3 Age
+
+- **Inversely related to criminality**: Young offenders have the highest crime rates; rates decline as offenders mature (Siegel et al. 2003:43).
+- **Universal correlation**: Younger people commit crimes more than older individuals, reflecting the **age-crime curve** - peaks in adolescence, declines in early adulthood (Walsh 2015:212).
+- **Peak age for crime**: Most transgressions peak between 16-20 years (Sykes & Cullen 1992:111). In the USA, arrests peak at age 17 (Conklin 1995:108).
+- **Crime types**: Property crime peaks earlier than violent crime; sophisticated theft peaks in early twenties. Gambling and white-collar crimes appear at a later age.
+- **South African context**: Majority of prisoners aged 18-25 years; those over 50 comprise only 2% of the total (Jules-Macquet 2014:9).
+- **Universal patterns**: Serious crimes (murder, rape, robbery) peak in adolescence and decline with age (Sheley 2000:106).
+- **Violent crime statistics**: In the USA (2014), juveniles responsible for 19% of violent crime. In South Africa, conviction rates for 18-25 age group exceed those for adults.
+- **Reasons for juvenile crime**:
+  - **Developmental factors**: Physicality and mental maturity impact crime commission.
+  - **Social factors**: Poor life goals, unsuccessful job searches push juveniles to crime (Sheley 2000:108).
+  - **Substance abuse**: Alcohol and drug involvement facilitate delinquency.
+  - **Youth culture**: Reduced parental supervision, peer influence, and materialistic advertising drive crime (Cullen & Sykes 1992:114).
+  - **Life transition**: Social pressures shift from crime to work/marriage (Siegel et al. 2003:44).
+
+### Developmental Theories
+- **Agnew’s super traits theory**: Interaction of low self-control and irritability with life domains impacts offending probability.
+- **Farrington’s ICAP theory**: Antisocial potential and cognition shaped into pro or antisocial behaviors; distinguishes between long-term and short-term potential.
+- **Moffit’s dual-pathway model**: Differentiates between adolescent-limited offenders (AL) and life-course persistent offenders (LCP); LCPs have predispositions to antisocial behavior.
+- **Sampson and Laub’s age-graded theory**: Emphasizes informal social control; turning points (marriage, job) vital for desistance.
+
+## 3.1.4 Conclusion
+
+- **Criminal profile**: Higher crime rates among blacks due to social conditions (poverty, unemployment) and political factors (discrimination, urbanization).
+- **Gender differences**: Fewer women commit crimes; when they do, they are less serious. Explains factors include social pressure, supervision, and opportunity.
+- **Age factors**: Criminal behavior peaks 16-20; influenced by physical capacity, parental supervision, peer pressure. As individuals age, adherence to social norms increases, reducing crime's allure.
+
+## 3.1.5 Self-Assessment Questions
+
+1. Juridical definition of "criminal".
+2. General characteristics of criminals based on ethnicity and culture.
+3. List of developmental theories.
+4. Role of age in crime incidence.
+
+## 3.1.6 Feedback on Self-Assessment Questions
+
+1. Legal definition: A person accused and found guilty of a crime.
+2. Higher crime rates among blacks linked to socio-economic issues; religion/restrain noted in other cultures.
+3. Theories:
+   - Agnew’s super traits theory.
+   - Farrington’s ICAP theory.
+   - Moffit’s dual-pathway theory.
+   - Sampson and Laub’s age-graded theory.
+4. Crime frequency peaks in adolescence; young offenders often engage due to physical capacity, peer pressure, and decreased supervision. Social responsibilities increase with age.
+
+# LEARNING UNIT 3.2: THE CRIMINAL – NEEDS AND MOTIVES FOR CRIMINAL BEHAVIOUR
+
+- Types of motives.
+- Distinction between motive and intent.
+- Process of motivation.
+- Motivation in relation to criminal behavior.
+- Emotion as a motive for criminal behavior.
+----- END OF CHUNK -----
+# LEARNING UNIT 3.2: The criminal – needs and motives for criminal behaviour
+
+## 3.2.1 Introduction 
+- Main inquiry: What causes criminal behaviour?
+- Motivation → compulsion behind actions.
+
+## 3.2.2 Key concepts
+- **Motive vs. motivation**: 
+  - Motive: Inner drive compelling action (Hickey 2003:227).
+  
+- **Internal motives**: 
+  - Factors like needs, desires, interests energizing behaviour (Reeve 2009:9).
+  
+- **External events**: 
+  - Social, cultural destinations influencing actions (Reeve 2009:10).
+  
+- **Needs**: 
+  - Essential conditions for life and well-being (Reeve 2009:9).
+  
+- **Emotion**: 
+  - Short-lived subjective feelings arising from perceived events (Walsh 2015:99).
+  
+- **Cognitions**: 
+  - Mental events shaping thoughts and beliefs (Reeve 2009:9).
+
+## 3.2.3 Types of motive
+
+### 3.2.3.1 Internal motives
+- **Needs**:
+  - Biological, psychological, social: 
+    - Hunger, belonging, achievement (Reeve 2009:9-10).
+  
+- **Cognitions**: 
+  - Plans, goals, beliefs impacting motivation.
+  
+- **Emotions**: 
+  - Short-lived subjective-physiological responses; four components:
+  - Feelings, physiological responses, functional goals, social expressions (Reeve 2009:299-301).
+  - Important in understanding criminal behaviour (Walsh 2015:100).
+
+### 3.2.3.2 External events
+- **Environmental incentives**: Stimuli (e.g., money, praise) motivating behaviour (Reeve 2009:10).
+  
+- **Incentives**: 
+  - Drive behaviour through perceived outcomes (Ferguson 2000:11).
+  - Example: Contract killing motivated by financial gain.
+  
+## 3.2.4 Distinction between motive and intent
+- Clarification on how motives inform criminal intent and actions.
+
+## 3.2.5 The process of motivation
+- Examination of dynamics between internal and external factors influencing behaviour.
+
+## 3.2.6 Motivation and criminal behaviour
+- Linking motivational factors with criminal acts; necessity of addressing unmet needs.
+
+## 3.2.7 Emotion as motivation for criminal behaviour
+- Analyzed connection between emotional responses to frustration and criminal actions.
+
+## 3.2.8 Conclusion
+- Understanding criminal behaviour requires a comprehensive view of needs, motives, and emotional responses.
+
+### Diagram reference:
+- **Figure 3.1**: Hierarchy of the four sources of motivation (Reeve 2009:9).
+----- END OF CHUNK -----
+# LEARNING UNIT 3.2
+
+## 3.2.4 Distinction between motive and intent
+- **Motive**: reason behind an action; causative factor driving action (Drives individual to act).
+- **Intent**: aimed goal; conscious deliberation and purposefulness (Tebit 2005:169).
+- Importance of distinguishing motive and intent:
+  - Example 1: Doctor administering lethal medication out of love vs. wife motivated by greed to murder.
+  - Judge determines motive and intent to inform crime type (e.g., murder vs. culpable manslaughter).
+- Intent indicates desired outcome from action; motive explains reason for desire (Tebit 2005:169).
+- Case Reference: Taxi driver conviction for murder (CMY1501, 2007:94–95).
+  - Intent evidenced by deliberate actions and indifference to consequences.
+
+## 3.2.5 The process of motivation
+- **Motivation Theories**:
+  - **Instrumental Theories**: behavior influenced by reward or punishment.
+  - **Content Theories**: focus on fulfilling needs.
+  - **Process Theories**: psychological processes affecting motivation (Armstrong 2003:218).
+- **Maslow’s Hierarchy of Needs**:
+  - Ranges from basic physiological needs to self-actualization.
+  - Basic needs must be met before higher-order needs (Dreyer 2008:8).
+- **Components of Motivation** (Armstrong 2003:216):
+  - **Direction**: objective of the person's action.
+  - **Effort**: intensity of the attempts.
+  - **Persistence**: duration of attempts.
+- **Motivation Process**:
+  - Initiated by recognition of unsatisfied need, creating wants.
+  - Goals established to satisfy needs, leading to selected behaviors (Armstrong 2003:217).
+- **Cognition**: Influences judgment and strategy, informed by primary and secondary appraisal (Reeve 2009:346–348).
+- **Social Setting**: Emotional socialization impacts motivation and may catalyze crime.
+
+## 3.2.6 Motivation and criminal behaviour
+- **Key Questions**: What causes criminal behavior? Why do people commit crime?
+- **Theoretical Frameworks**:
+  - **Rational Choice Theory**:
+    - Behavior motivated by hedonistic calculus; free will to choose actions (Walsh 2015:89).
+    - Crime is both offence-specific and offender-specific; individual considers risks and benefits.
+  - **Trait Theory**:
+    - Originated from Lombroso; considers biological/psychological traits influencing behavior (Siegel 2009:122).
+  - **Social Structure Theories**:
+    - Links crime to poverty and unemployment; focuses on social institutions affecting behavior (Walsh 2015:105).
+    - Subcategories include:
+      - **Social Disorganisation Theory**: Examines urban conditions impacting crime.
+      - **Strain Theory**: Crime arises from conflicts between goals and means of achievement.
+      - **Cultural Deviance Theory**: Addresses unique strains in lower-class cultures (Siegel 2009:166).
+  - **Social Process Theories**:
+    - Emphasizes socialization as determinant of criminal behavior; includes:
+      - **Social Learning Theory**: Crime techniques learned through social interactions.
+      - **Social Control Theory**: Natural motivations toward crime curbed by societal bonds.
+      - **Labelling Theory**: Labels affect self-identity and behavior (Siegel 2009:202; Walsh 2015:131).
+  
+- **Motivation Factors in Rape** (Cohen et al. in De Wet 2008:19; Bezuidenhout & Klopper 2011:232–3):
+  - **Power**: Rapist expresses dominance and inadequacy.
+  - **Anger**: Attack driven by frustration and hostility.
+  - **Sexuality/Sadism**: Enjoyment derived from victimization and control.
+
+### Types of Rape Motivation
+- **Power Rape**:
+  - Power-Assertion: Expression of dominance; reassurance for feelings of inadequacy.
+  - Power-Reassurance: Attempting to overcome doubts about masculinity.
+- **Anger Rape**:
+  - Anger-Retaliation: Expression of hostility.
+  - Anger-Excitation: Pleasure derived from the act.
+- **Sexually Motivated/Sadistic Rape**: Power and anger eroticized; sexual gratification through torment.
+----- END OF CHUNK -----
+### LEARNING UNIT 3.2
+
+- **Types of Rapists**  
+  - **Sadistic Rapists**  
+    - Engage in humiliating and abusive actions.  
+    - Mentally ill motivations.  
+    - Harm victims severely; intent may include murder (Bezuidenhout & Klopper 2011:232).  
+  - **Serial Rapists**  
+    - Involve sexual contact with two or more victims without consent over multiple incidents (De Wet et al. in Bezuidenhout & Klopper 2011:233).  
+    - Motivations include:  
+      - Lust - primary motive (De Wet 2008:29).  
+      - Righteousness - blames victims for crimes committed.  
+      - Peer motivation - similar to righteous rape.  
+      - Control and anger - seen in violence (De Wet 2008:41).  
+      - Supremacy - excessive violence for victim submission.  
+    - No single representative pattern for serial rapists (De Wet 2009:32).
+
+- **Emotion as Motivation for Criminal Behaviour**  
+  - **General Role of Emotions**  
+    - Energize and direct criminal behavior (Reeves 2009:301).  
+  - **Hate Crimes**  
+    - Crimes against groups based on race, ethnicity, etc. (Soyombo 2008:89).  
+    - Forms include physical assaults, harassment, property damage.  
+  - **Xenophobia**  
+    - Excessive fear or hatred towards foreigners.  
+    - Linked to social distinctions between "in-group" and "out-group" (Soyombo 2008:86).  
+    - Contributing factors include service delivery issues, leadership impacts, and competition for resources.
+
+- **Xenophobic Violence**  
+  - Historical context since 1994 with increasing attacks on foreign nationals.  
+  - Examples:  
+    - December 1994 attacks in Alexandra Township.  
+    - September 1998 train attacks on Senegalese and Mozambican individuals.  
+    - Cape Flats killings in 2000.  
+    - Major violence outbreak in May 2008, leading to extensive destruction and fatalities.  
+    - Multiple cases of violent attacks from 2008-2015, often blamed on resource competition and crime.  
+    - Examples of mob violence resulting in severe injuries and deaths of foreign nationals.
+
+- **Revenge as Motivation**  
+  - Powerful and can lead to aggressive behavior.  
+  - Example: Vigilante attacks by community members against suspected criminals (Man dies after vigilante attack 2009).  
+  - Associated with violence, including murder and property damage.
+
+- **Jealousy and Envy as Motivators**  
+  - Significant in crimes such as attempted murder and orchestration of murders (e.g., Nancy Kerrigan, Najwa Petersen).  
+  - Reflects deep emotional responses leading to violent acts (Jooste 2008).  
+  - Recent cases, including Oscar Pistorius, highlight jealous motivations in criminal actions.
+
+- **Concluding Insights**  
+  - Motives can vary widely, including financial gain, revenge, spite, intimidation, and jealousy.  
+  - Importance of case-specific analysis rather than broad generalizations.  
+
+### References
+- Bezuidenhout & Klopper 2011
+- De Wet 2008
+- Reeves 2009
+- Soyombo 2008
+- Jooste 2008
+
+**Note**: Diagrams referenced in specific sections were omitted during the reconstruction of study notes.
+----- END OF CHUNK -----
+# Study Notes on Legal Concepts of Motivation and Criminal Behaviour
+
+## LEARNING UNIT 3.2: Motivation for Criminal Behaviour  
+
+### 3.2.8 Conclusion  
+- Understanding crime necessitates establishing the perpetrator’s **motives**.  
+- Key distinctions:  
+  - **Motive** vs. **Intent**: Motive drives the action; intent desires specific results from actions.  
+- **Process of Motivation**: Illustrated via examples of actual crimes to demonstrate varied motivations behind criminal behaviour.
+
+---
+
+## LEARNING UNIT 3.3: Risk Factors Contributing to Criminal Behaviour  
+
+### 3.3.1 Introduction  
+- Focus: Risk factors linked to youth misbehaviour.  
+- Definition of **risk factors** as individual, social, and environmental influences increasing propensity for delinquency.  
+- Discussion points: Risk factors contributing to criminal behaviours, delinquent careers, and cessation from crime.
+
+### 3.3.2 Key Concepts  
+- **Risk Factor (Walsh 2015:215)**: Increases likelihood of offending.  
+- **Criminogenic Risk Factors**: Specifically linked to crime, delinquency, and offending.  
+- **Somatotypes** (Burke 2014:92; Eamonn et al. 2014:61):  
+  - **Endomorphs**: Heavy, soft round shape; extroverted, friendly personality.  
+  - **Mesomorphs**: Well-built, athletic; strong and aggressive personality.  
+  - **Ectomorphs**: Thin, fragile; introverted and sensitive personality.  
+
+### 3.3.3 Risk Factors Contributing to Criminal Behaviour  
+
+#### 3.3.3.1 Individual Risk Factors  
+- Begin with genetic makeup's influence on criminal causation.  
+- Aspects include:  
+  - Genetic predispositions  
+  - Intelligence, personality (traits like low empathy), and temperament  
+  - Mental and physiological disorders  
+
+#### 3.3.3.2 Familial Risk Factors  
+- Criminal behaviour may originate from familial contexts.  
+- Children of criminal parents show heightened risk despite foster care environments (Conklin 2001:137).  
+- Emphasis on **interaction between genetic predispositions and environmental triggers**.
+
+### 3.3.3.3 Community Associated Criminal Risk Factors  
+- Explore socio-economic influences and community environments contributing to delinquency.
+
+### 3.3.4 Risk Factors Contributing to a Delinquent Career  
+- Identification of persistent risk factors leading to ongoing criminal conduct.
+
+### 3.3.5 Risk Factors Based on South African Research Findings  
+- Localised investigations and contextual findings discussed regarding crime in South Africa.  
+
+### 3.3.6 Factors Contributing to Desisting from Criminal Activities  
+- Understanding elements that assist individuals in moving away from crime.  
+
+### 3.3.7 Conclusion  
+- Summary of critical risk factors and their implications for understanding criminal behaviour.  
+
+---
+
+### Diagram References  
+- **Figure 3.2**: Process of Motivation (refer to relevant section for details).  
+
+---  
+
+(Note: Removed learning activities and self-assessment questions as per instructions.)
+----- END OF CHUNK -----
+# LEARNING UNIT 3.3
+
+## 3.3.1 Somatotypes
+- **Somatotypes:**
+  - Endomorph: 
+    - Characteristics: Heavy, short arms/legs, soft.
+    - Emotional traits: Relaxed, extroverted, non-criminal.
+  - Mesomorph: 
+    - Characteristics: Muscular, athletic.
+    - Emotional traits: Aggressive, prone to violent crimes.
+  - Ectomorph: 
+    - Characteristics: Thin, fragile.
+    - Emotional traits: Introverted, sensitive.
+- **Key Theory:** Sheldon’s somatotypes suggest delinquency correlates with body types, specifically mesomorphs. Criticism exists regarding research methodology.
+- **Further Research:** Body types influence perceptions and cognitions about criminality (Stratts 2002).
+
+## 3.3.2 Intelligence as Risk Indicator
+- **IQ and Crime:**
+  - High proportion of offenders have low IQ (Siegel & Welsh 2009).
+  - Two perspectives: 
+    - Indirect link: Low IQ leads to frustration, engagement in crime.
+    - Direct link: Low IQ limits understanding of consequences and empathy (Siegel & Welsh 2009).
+- **Debate Status:** Controversial, inconclusive findings. Educational interventions may mitigate risks.
+
+## 3.3.3 Personality and Temperament
+- **Definitions:**
+  - Personality: Unique, stable behavior patterns (Hunter & Dantzker 2002).
+  - Temperament: Emotional response patterns (Louw et al. 1998).
+- **Key Traits Linked to Crime:**
+  - Impulsivity.
+  - Lack of empathy (Hill 2002).
+- **Influence of Genetics and Environment:** Genetic predispositions shape responses to challenges, potentially leading to criminal behaviors.
+
+## 3.3.4 Mental and Physiological Disorders
+- **Disorders Overview:** Behavior linked to biological, psychological, and social processes (Hill 2002).
+- **Mental Disorders:** Range from mild to severe; can lead to crime when coping mechanisms fail (Hunter & Dantzker 2002).
+- **Physiological Disorders:** Include neurological and muscular disorders, leading to delinquency due to frustration (Walsh 2015).
+- **Causation Complexity:** Interactive nature of mental and physiological disorders with environment needs thorough understanding.
+
+## 3.3.5 Socialization as Risk Factor
+- **Socialization Defined:** Sum of learned behaviors conforming to societal norms (Barkan in Schoeman 2002).
+- **Negative Socialization Effects:** Incomplete or negative socialization leads to poor self-image and alienation (Siegel & Welsh 2009).
+- **Components:**
+  - Conscientiousness.
+  - Pro-sociality.
+  - Adult responsibility acceptance (Lykken in Schoeman 2002).
+- **Agents of Socialization:** Family, peers, school, media; can lead to adherence to or rejection of societal norms (Siegel & Welsh 2009).
+
+## 3.3.6 Alcohol and Drug Abuse
+- **Alcohol's Role in Crime:** Linked to aggression and diminished inhibition (Burke 2014).
+- **Lombroso's View:** Alcoholism deemed a key individual factor in crime (Moyer 2001).
+- **Youth Studies:** Alcohol increases likelihood of delinquency and aggression (Burton 2007).
+- **Substance Abuse:** Direct link to crime; drug consumption often associated with prior criminal behavior (Conklin 2001).
+
+## 3.3.7 Familial Risk Factors
+- **Influence of Family:** Families shape socialization and can be pivotal in delinquency (Barkan in Schoeman 2002).
+- **Perinatal Factors:** Maternal behavior during pregnancy impacts neurological development and future behavior (Wilson & Petersilia 1995).
+- **Family Structure:**
+  - Broken homes correlate with higher delinquency (Conklin 2001).
+  - Parental absence and influence critical in criminal behavior (Siegel & Welsh 2009).
+- **Research Findings:** Middle children and larger families display higher delinquent behavior (Hirschi in Bartollas).
+----- END OF CHUNK -----
+**LEARNING UNIT 3.3**  
+
+**Risk factors contributing to criminal behaviour**  
+
+- **Family Structure and Functioning**  
+  - Limited time for parents to socialize and discipline (Siegel & Senna 2000:284).  
+  - Research indicates children in families with a deceased parent fare better than those from divorced families.  
+  - Family structure not directly linked to criminality; it serves as a predisposing factor (Siegel & Welsh 2009:254).  
+  - **Stable family environments** are crucial in preventing delinquency (Bartol & Bartol 2005:57).  
+
+- **Family Functioning as a Risk Factor**  
+  - Criminal risk factors derived from interpersonal relationships, family functioning, socialization.  
+    - Categories linked to delinquency:  
+      - Marital conflict and break-up.  
+      - Interfamilial and interpersonal conflict.  
+      - Parental neglect/insensitivity to emotional needs.  
+      - Parental deviance leading to deviant socialization (Siegel & Senna 2000:278).  
+
+- **Child Perception of Conflict**  
+  - Child perceptions of marital conflict influenced by past experiences and cognitive appraisal (Cummings & Davies in Schoeman 2002:116).  
+  - Effects range from negative to positive based on the nature of the conflict (Cummings & Davies in Schoeman 2002:117).  
+  - Negative familial behavior includes verbal aggression, threats, withdrawal, and conflicts over child-related issues.  
+
+- **Impact of Conflict on Children**  
+  - Exposure leads to externalized (behavioral issues) and internalized disorders (anxiety/depression).  
+  - Results in a hostile family image affecting interpersonal relationships (Cummings & Davies in Schoeman 2002:117).  
+
+- **Parental Neglect and Deviance**  
+  - Parental neglect includes emotional deprivation and is linked to child abuse (Siegel & Senna 2000:288).  
+  - Deviant socialization is reflected in juvenile records similar between children and parents (Siegel & Welsh 2009:258).  
+
+- **Role of Socialization**  
+  - Early parental socialization crucial for preventing criminal behavior (Conklin 2001:152).  
+  - Effective socialization involves monitoring behavior and reinforcing pro-social behavior (Conklin 2001:230).  
+
+- **Disciplinary Methods and Delinquency**  
+  - Poor parenting versus children undermining parental control; leads to more tolerant parenting practices (Siegel & Welsh 2009:256).  
+  - Harsh discipline linked to delinquency; children in such environments tend to model violent behavior (Bartol & Bartol 2005:58).  
+
+- **The Importance of Social Support**  
+  - Parental emotional support is critical for coping with daily life (Wright & Cullen in Schoeman 2002:121).  
+  - Effective parental actions include surveillance of children's activities and protection against harm.  
+
+- **Community Associated Criminal Risk Factors**  
+  - Communities with violence, delinquent peers, poverty, and substance access foster criminal behavior (Burton 2007:102).  
+  - Disorganized communities associate with social control breakdown, leading to higher violence rates (Bartol & Bartol 2005:53).  
+  - Criminal role models exist within socially disorganized communities, impacting youth behavior.  
+
+- **Peer Influence**  
+  - Peers significantly influence socialization; schools can be settings for delinquent socialization opportunities (Burton 2007:108).  
+  - Peer pressure can lead to involvement in crimes, impacting pro-social development.  
+
+- **Longitudinal Studies on Delinquency**  
+  - Cambridge Youth Survey by David Farrington highlights patterns of chronic offenders, including early onset of criminality (Siegel & Welsh 2009:258).  
+  - Traits of persistent offenders include family background, parental supervision issues, and antisocial behavior emerging early.  
+  - **Pathways to Delinquency**:  
+    - Conflict pathway: Early stubborn behavior leads to authority defiance.  
+    - Covert pathway: Minor deceit evolves into more severe crimes.  
+    - Overt pathway: Aggression escalates to serious delinquent acts.  
+
+**End of LEARNING UNIT 3.3**  
+----- END OF CHUNK -----
+# LEARNING UNIT 3.3
+
+- Initial antisocial behavior in children persists; lower levels tend to desist.
+- Aggression is a significant predictor of continual problematic behavior and criminal activity (Brown et al. 2001:432).
+
+## 3.3.5 Risk Factors Based on South African Research Findings
+
+- Risk factors influencing juvenile offending in South Africa:
+  - Running away from home, becoming street children.
+  - Lack of parental guidance due to **AIDS**.
+  - Joining criminal gangs (notably in Cape Flats).
+  - Drug addiction leading to criminal activity for sustenance (burglary, theft, prostitution).
+
+- Maree's (2003:74) 1998 study (Family Preservation Pilot Project) in Inanda:
+  - Youths in conflict with the law often from dysfunctional families (stepfathers, poor parent-child relationships).
+  - Common issues: absenteeism, school dropouts, substance abuse, gang involvement, running away.
+  - Female misbehavior linked to sexual conduct and strained maternal relationships.
+
+- Schiff and Louw (in Maree 2003:75) study:
+  - Characteristics: violent behavior at school, fire-setting, frustration-related aggression, low frustration tolerance, suicidality, enuresis.
+
+- Padayachee (in Maree 2003:75) identified risk factors:
+  - Poor education, failure to meet children’s needs, abandonment, abuse, neglect, low socioeconomic status, overcrowding.
+  - Lack of community involvement and awareness of rights without responsibility.
+
+- Shaw and Tshiwula (in Maree 2003:75):
+  - Risk factors include poverty, inconsistent discipline, poor supervision, early aggression, parental conflict, lack of jobs, inadequate schooling, truancy.
+
+- Burton (2007:2):
+  - Children frequently victims of robbery, assault, and violence, often becoming perpetrators.
+  - Violence prevalent in traditionally safe environments (schools, homes).
+  - Exposure to violence increases cycles of violence among youth.
+
+- Risk factors identified in youth violence (Burton 2007:3):
+  - Media exposure to violence.
+  - Legacy of apartheid leading to alienation and violent change advocacy.
+  - Dislocated families under apartheid lacking parenting skills.
+  - Availability of drugs and alcohol, linked to gang activity.
+
+- Ward (in Burton 2007:6):
+  - Deviant beliefs/attitudes increase aggression. 
+  - Community drug use and gang membership interlinked. 
+  - 65% of male arrestees under 20 tested positive for drugs.
+
+## 3.3.6 Factors Contributing to Desisting from Criminal Activities
+
+- Complex interaction of risk/protective factors influencing youth behavior.
+  - Higher risk exposure correlates with delinquency.
+  - More protective factors lead to pro-social behaviors (Burton 2007:6–7).
+
+- Farrington (Siegel et al. 2003:146):
+  - Predicts that background risk factors contribute to eventual criminality or desistance.
+  
+- Protective factors for high-risk youths:
+  - Shyness, limited friendships, non-deviant families, maternal regard.
+  - Shy youths avoid high-risk group associations.
+
+- Research indicates good employment reduces criminal activity; however, unemployment is linked to theft (not violence or drug abuse).
+- Marriage can diminish criminal activity, but marrying into criminality increases risks.
+- Relocation can sever ties to co-offenders, fostering desistance.
+
+- Findings suggest that at-risk youths avoiding convictions often encounter other social problems (low-paying jobs, social isolation).
+
+- Farrington's theory (in Siegel et al. 2003:147):
+  - Life experiences shape behavioral choices over time; continuity in offending may change with life events.
+
+- Protective factor through religious practices: 
+  - Pro-social attitudes linked to less violent behavior, influenced by modeling healthy norms.
+
+## 3.3.7 Conclusion
+
+- Examination of risk factors for youth misbehavior, comparing longitudinal studies across regions.
+- Focus on South African risks related to **AIDS**, increased street children from parental absence.
+- Noted protective factors contributing to reduced crime participation. 
+
+## 3.3.8 Self-Assessment Questions
+
+- Define "risk factor".
+- Analyze individual, family, and community risk factors for youth misbehavior.
+- Describe risk factors in South Africa specifically.
+- Identify factors contributing to desisting from criminal activities.
+
+- Multiple-choice questions assessing understanding of criminogenic risk factors, socialization components, family functioning, effects of neglect, and predictors of adolescent violence.
+----- END OF CHUNK -----
+# Study Notes: Explanation of Criminal Behaviour 
+
+## (132) LEARNING UNIT 3.3
+- **Paths of Antisocial Behaviour:** Identified by Loeber (in Siegel & Welsh 2009:185)
+  - (a) **Conflict pathway, covert pathway, overt pathway** 
+  - (b) Social pathway, covert pathway, overt pathway
+  - (c) Conflict pathway, aggressive pathway, overt pathway
+  - (d) Conflict pathway, covert pathway, hidden pathway
+
+---
+
+## (133) THEME 4: EXPLANATION OF CRIMINAL BEHAVIOUR
+
+### Outcomes for the Theme
+- Comprehensive understanding of **crime causation** and explanation (risk factors and theories).
+  
+### Assessment Criteria
+- Understand different **dimensions** (biological, psychological, social) of crime causation.
+- Describe **risk factors** contributing to criminal behaviour.
+- Illustrate application of **crime theories**.
+- Solve problems related to crime causation and explanation.
+
+---
+
+### 4.1: Introduction
+- **Focus:** Causes of crime and their explanations.
+- **Perspectives:** Individualized and environmental causes (biological, psychological, social).
+- **General factors impacting crime in SA:**
+  - Rapid urbanization, political factors, inadequate education, illegal immigration, poor weapon control.
+  
+### Examples of Specific Factors 
+- Poverty, unemployment, apartheid deprivation, marginalization of youth, inadequate victim support, gender inequality.
+
+### Theoretical Framework
+- **Gottfredson & Hirschi’s General Theory:** Explained in terms of applicability and relevance.
+
+### Challenges in Criminology
+- Understanding why crime is prevalent in South Africa despite socio-economic theories.
+
+---
+
+## (134) LEARNING UNIT 4.1: INDIVIDUAL-ORIENTATED PERSPECTIVES ON THE CAUSES OF CRIME
+
+### 4.1.1 Introduction
+- Crime studied via three dimensions: biological, psychological, and social.
+- These dimensions interact and influence one another.
+
+### 4.1.2 Key Concepts
+- **Biological Dimension:** Inherited predisposition to crime.
+- **Social Learning Approach:** Learning criminal behaviour through reinforcement in social contexts.
+- **Rational Choice Perspective:** Evaluating risks and rewards in decision-making processes.
+- **Determinism:** Behaviour differences rooted in external factors.
+- **Free Will:** Rational choice in behaviour leads to personal responsibility.
+
+### 4.1.3 The Biological Dimension
+- Biology as key in understanding criminal behaviour. 
+
+---
+
+## Relevant Case Laws and Legislations
+- **Key Legislation/Cases:** Not explicitly mentioned in provided text, but refer to broader legal frameworks when discussing crime causation.
+
+---
+
+*Diagrams and further detail may refer to lecture notes or advanced texts.*
+----- END OF CHUNK -----
+# LEARNING UNIT 4.1
+
+## Biological Factors in Criminal Behaviour  
+
+- **Biological Basis**  
+   - All human actions have a biological foundation; behavior is influenced by genetic predispositions and biological processes (Franken 1998:25).  
+
+- **Role of Biological Processes**  
+   - Biological processes are secondary and indirect in crime causation but are significant in understanding criminal behavior (Blackburn 1994:137).  
+
+- **Classification of Biological Factors**  
+   - **Genetic Factors**  
+     - Inherited criminogenic characteristics.  
+     - Investigated through family, twin, and adoption studies.  
+     - Disorders linked include chromosomal disorders, ADHD, and Tourette’s syndrome.  
+   - **Neurological Factors**  
+     - Malfunctions in the nervous system contribute to violent behavior.  
+     - Technologies: EEG, CAT scans, PET scans, BEAM, SQUID (Eamonn et al. 2014:62; Siegel 2004:145).  
+     - Higher brain dysfunction found in violent criminals vs the general population.  
+   - **Biochemical Factors**  
+     - Influencing factors: diet, blood chemistry, hormonal influences.  
+     - Conditions like hypoglycemia and serotonin deficiency linked to aggression and impulsiveness (Adler et al. 1995:98; Siegel 2004:142).  
+
+## Nature vs Nurture
+
+- Debate between genetic (nature) and experiential (nurture) influences on behavior, with emerging consensus on their interaction.  
+
+- Research highlights the connection between abusive childhoods and neurological dysfunction in violent offenders (Lewis and Pincus).  
+
+- Neurological abnormalities linked with ethical decision-making and moral reasoning.  
+
+## Psychological Dimension  
+
+### 4.1.4.1 Cognitive Component  
+
+- **Cognitive Processes**  
+   - Cognition involves awareness, learning, memory, and thinking (Cincero 2015).  
+
+### (a) Social Cognition and Criminal Behaviour  
+
+- **Components**  
+   - **Empathy**: Offenders typically score lower in empathy (Hollin 1992:62).  
+   - **Locus of Control**: Offenders often perceive behaviors as externally controlled (Hollin 1992:62).  
+   - **Moral Reasoning**: Delinquency linked to delayed moral reasoning development.  
+   - **Self-Control and Impulsiveness**: High impulsivity linked to delinquency, with mixed research findings (Hollin 1992:63).  
+   - **Social Problem Solving**: Offenders show limited problem-solving strategies and higher aggression (Bartol & Bartol 2005).  
+   - **Mind-set of Offenders**: Criminality spans a continuum of thought processes (Yochelson & Samenow).  
+
+### (b) Cognitive Theories  
+
+- **Moral Development**  
+   - **Kohlberg's Theory**: Divided into three levels with six stages, reflecting moral reasoning progression and relation to offending behavior (Walsh 2015).  
+     - **Pre-conventional Level**: Focus on egocentric reasoning; associated with immaturity in ethical behavior.  
+
+**Note**: For diagram references and further detailed content, please refer to original materials.
+----- END OF CHUNK -----
+# LEARNING UNIT 4.1  
+
+## I. Moral Development Stages  
+
+- **Stage One: Obedience and Punishment Driven**  
+  - Focus on consequences for self; actions deemed "wrong" due to punishment.  
+  - Egocentric and lacks recognition of different perspectives.  
+  - Deference to authority prevails.  
+   
+- **Stage Two: Self-Interest Driven**  
+  - Morality defined by personal gain; "What's in it for me?" attitude.  
+  - Limited concern for others, based on reciprocity.  
+  - Moral relativism dominates at this stage.  
+
+## II. Conventional Level  
+
+- **Overview**  
+  - Typical of adolescents and adults, morality judged by societal norms.  
+  - Includes Stages Three and Four; adherence to rules and expectations is rigid.  
+
+- **Stage Three: Good Intentions as Determined by Social Consensus**  
+  - Individuals conform to societal standards for approval.  
+  - Actions evaluated based on relationships and societal views.  
+
+- **Stage Four: Authority and Social Order Obedience Driven**  
+  - Importance of obeying laws for societal function; moral reasoning beyond seeking approval.  
+  - Laws perceived as obligations; duty to uphold societal rules denoted here.  
+
+## III. Post-Conventional Level  
+
+- **Overview**  
+  - Individuals recognize personal moral principles over societal standards.  
+  - Changes to laws are perceived as necessary for justice.  
+
+- **Stage Five: Social Contract Driven**  
+  - Views laws as social agreements that should reflect the general welfare.  
+  - Acknowledges diversity in opinions and values.  
+
+- **Stage Six: Universal Ethical Principles Driven**  
+  - Moral reasoning grounded in justice and ethical principles.  
+  - Commitment to justice may necessitate disobeying unjust laws.  
+  - Action driven by intrinsic morality rather than external factors.  
+
+## IV. Case Study Reflection  
+
+- **Case Study 4.4**  
+  - Mr. X's unethical conduct towards Michelle illustrates Stage Two: Instrumental Relativist Orientation (Pre-Conventional Level).  
+
+## V. Social Learning Approach  
+
+- **Key Theorists**: Albert Bandura, Richard Walters, Ronald Akers  
+  - Behavior learned by modeling responses from others; influenced by family, media, and peers.  
+  - Role of observational learning established via Bandura’s Bobo Doll experiment.  
+  - Key processes: Attention, Reinforcement, Vicarious Reinforcement, Identification.  
+
+## VI. Rational Choice Approach  
+
+- **Overview**  
+  - Assumes rational decision-making; individuals evaluate risks vs. rewards of criminal acts.  
+  - Criminal behavior is goal-oriented; cost-benefit analysis affects actions.  
+
+## VII. Emotional Component  
+
+- **Overview**  
+  - Emotions are complex, encompassing subjective feelings and biological reactions.  
+  - Influence of emotions (e.g., anger) on criminal behavior is significant.  
+
+- **Emotions and Crime**  
+  - Hostile aggression often triggers violent crimes; anger tied to stimuli provoking frustration.  
+  - Emotional responses can lead to impulsive actions without forethought.  
+  - Humiliation and personal threats escalate the likelihood of violent retaliation.  
+
+- **Psychopathy Traits**  
+  - Defective emotional development, lack of empathy, and impulsivity characterize psychopaths.  
+
+## VIII. Volitional Component  
+
+- **Overview**  
+  - Focuses on the individual’s will to act; combines cognitive and emotional components within behavior.  
+
+---
+
+### Diagram References  
+- Consider diagrams illustrating moral development stages, Bandura’s observational learning model, and rational choice theory frameworks to reinforce concepts.
+----- END OF CHUNK -----
+# Learning Unit 4.1: Purposeful Behavior and Intention
+
+- **Purposeful Behavior**  
+  - Free will, choice, conscious and voluntary actions.
+
+- **Volition and Intention**  
+  - Intention comprises:  
+    - Cognitive element: Knowledge of circumstances and means.  
+    - Conative element: Willingness towards a specific act (Snyman 1995:168).  
+  - Legal definition of intention includes “evil intention” with awareness of the act’s unlawfulness (Snyman 1995:168).  
+  - Three forms of intention:  
+    - Direct intention (dolus directus)  
+    - Indirect intention (dolus indirectus)  
+    - Foreseeing consequences (dolus eventualis).
+
+- **Theories of Free Will**  
+  - **Classical School Perspective**  
+    - Assumes total free will and rational behavior (Beccaria).
+  - **Hard Determinism**  
+    - Behavior determined by external factors (Lombroso).  
+  - **Soft Determinism**  
+    - Limited free will influenced by biological and environmental factors (Blackburn 1993:25).
+
+- **Assessment of Intention**  
+  - Requires determination of knowledge and capability to appreciate the wrongfulness of actions.  
+  - Factors influencing capability include mental illness, immature age, non-pathological criminal incapacity, provocation, and intoxication (Snyman 1995:153).
+
+- **Case Study: Dr. Manuela Costa**  
+  - Injected children and set fire to home; context of severe personal distress (cancer, financial issues).  
+  - Claimed lack of control during actions.  
+  - Found not guilty due to inability to discern her actions.
+
+# 4.1.5 The Social Dimension
+
+- **Interaction with Social Environments**  
+  - Individuals do not operate in isolation; familial, educational, and peer influences contribute to behavior.
+  
+## 4.1.5.1 Family Environment
+
+- **Parental Influence on Delinquency**  
+  - Traits formed in childhood; positive or negative parenting shapes self-image. 
+  - Family issues impacting delinquency:  
+    - Divorce, single-parent homes, neglect, financial stress, substance abuse.
+
+- **Influential Factors in Delinquency**  
+  - **Parental Conflict and Broken Homes**  
+    - High parental conflict correlates with delinquency (Bartollas 2003:222).  
+    - Divorce linked to economic hardship, loss of role models.  
+    - Research indicates that broken homes show higher delinquency rates (10-15% higher).
+
+  - **Parental Rejection**  
+    - Emotional deprivation leads to deviant group associations (Trojanowicz et al. 2001:143).  
+    - Links between parental love and delinquent behavior; hostile parenting harms emotional development.
+
+  - **Parental Control Methods**  
+    - Ineffective or harsh disciplinary styles contribute to delinquency.  
+    - Lax or erratic discipline leads to antisocial behavior (Hollin 1992:80).  
+    - Importance of active parental engagement for socialization.  
+  
+These notes summarize key arguments regarding intentionality and the impact of familial and social environments on behavior, including legal implications and case studies relevant to the subject matter.
+----- END OF CHUNK -----
+### LEARNING UNIT 4.1 
+
+#### **4.1.5.1 Family Environment**
+- Parental control methods (Wells & Rankin):
+  - Rules & constraints for child behavior.
+  - Monitoring behavior (direct observation).
+  - Punishment for misconduct.
+- Reasonable rules correlate with low delinquency; both strict and lax rules are linked to high delinquency.
+- Discipline types (McCord et al.):
+  - Love-oriented: Reasoning, withholding rewards.
+  - Punitive: Physical violence, aggression.
+  - Lax: Minimal parental control.
+  - Erratic: Mixed methods between parents.
+- Lax/erratic discipline connected to high delinquency; consistent discipline (punitive/love-oriented) linked to non-delinquency.
+
+#### **4.1.5.2 School Environment**
+- Schools as socialization agents can foster delinquency (Trojanowicz et al.).
+- Poor school performance and negative attitudes linked to delinquency (Bartollas).
+- High school failures and association with delinquent peers strongly correlate with delinquency (Trojanowicz & Morash).
+- South African schools rank lowest in safety globally (Plusnews 2008).
+- School violence influenced by:
+  - Lack of conflict resolution skills among staff.
+  - Poor control over external social issues (disrespect, family discipline).
+  - Failure to address internal negative attitudes.
+- Schools in inner cities suffer from poverty and crime, affecting educational focus.
+- Delinquency stems from unmet social skills and negative self-images due to academic failure.
+
+#### **4.1.5.3 Peer Group Influences**
+- Peer groups gain significance during adolescence; help shape behavior (Kassin).
+- Youth from deprived backgrounds more susceptible to peer influence.
+- Delinquent peer groups form from shared interests and fulfill basic needs for belonging.
+- Relationship between delinquent peers and individual delinquency is strong (Trojanowicz et al.).
+- Gang classification (Yablonsky):
+  - Social: Individual social goals.
+  - Delinquent: Material profits from criminal acts.
+  - Violent: Emotional gratification through violence.
+- Gang attraction includes security, fun, and social interaction.
+- Gang activities often include drug use and are influenced by socio-economic factors, particularly in South Africa.
+
+#### **4.1.6 Conclusion**
+- Diagram reference: Figure 4.1 illustrates biological, psychological, and social dimensions affecting criminal behavior.
+- Biological: Genetic, neurological, biochemical factors may provoke aggressive behavior.
+- Psychological: Cognitive, emotional, volitional aspects influence criminality.
+- Social: Environmental factors, such as family dynamics and school conditions, critically shape development and delinquency outcomes.
+
+### 4.1.7 Self-assessment Questions
+(1) Outline biological factors in criminal behavior.  
+(2) Summarize styles of social cognition impacting criminal behavior.  
+(3) Describe three cognitive approaches to explaining criminal behavior.  
+(4) Role of emotion in violent crimes.  
+(5) Three viewpoints on free will.  
+(6) Factors in family contributing to juvenile delinquency.  
+(7) Factors in South African schools contributing to juvenile delinquency.  
+(8) Why some youths are more prone to gang involvement.  
+
+#### **Multiple-choice Questions**  
+(9) Epilepsy is a … disorder: (a) genetic (b) biochemical (c) congenital (d) social (e) neurological  
+(10) Violent young offenders display greater … than non-violent: (a) internal control (b) cognitive ability (c) emotional stress (d) external control (e) emotional immaturity  
+(11) Intention elements: (a) conative and emotional (b) conscious and intellectual (c) expressive and volitional (d) affective and cognitive (e) cognitive and volitional  
+(12) Mental illness affects a person’s … of wrongful actions.
+----- END OF CHUNK -----
+# LEARNING UNIT 4.1
+
+## Factors Influencing Criminal Behavior
+
+- **Knowledge and Understanding**:  
+  - Awareness, capacity to understand, and insight into factors influencing behavior.  
+  - Determination to understand criminal behavior is essential.
+
+## Biological and Psychological Influences 
+
+- **Genetic, Neurological & Biochemical Factors** (Section 4.1.3):  
+  - Influence of biology on criminal behavior.
+  
+- **Psychological Traits** (Section 4.1.4.1):  
+  - Empathy, locus of control, moral reasoning, self-control, impulsivity.
+
+- **Theories** (Section 4.1.4.1):  
+  - **Kohlberg’s Theory**: Stages of moral reasoning.  
+  - **Social Learning Approach**: Behavior learned from society.  
+  - **Rational Choice Approach**: Decision-making process of offenders.
+
+- **Emotional Factors** (Section 4.1.4.2):  
+  - Role of fear, anger, frustration, aggression, depression.
+
+- **Determinism Views** (Section 4.1.4.3):  
+  - Classical free will, hard determinism, soft determinism.  
+  - Mental illness impacts understanding of actions (capacity).
+
+## Environmental Influences
+
+- **Parenting Effects** (Section 4.1.5.1):  
+  - Negative parental responses, family dynamics, and impact on behavior.
+
+- **Educational & Social Environment** (Section 4.1.5.2):  
+  - Influence of academic performance, peer associations, and socio-economic factors.
+
+- **Gang Dynamics** (Section 4.1.5.3):  
+  - Juvenile gangs fulfill needs (attention, status, excitement).
+
+---
+
+# LEARNING UNIT 4.2: MILIEU-RELATED CAUSES OF CRIMINAL BEHAVIOUR
+
+## General Factors Contributing to Crime in South Africa
+
+### 4.2.1 Introduction
+- Overview of broader social factors influencing criminal behavior in South Africa.
+
+### 4.2.2 Key Concepts 
+- **Vigilantes**: Unauthorized moral crusaders.
+- **Social Disorganisation**: Breakdown of institutions leading to crime.
+- **Revenge & Compensation**: Social responses to crime and restitution systems.
+- **Marginalisation**: Process of exclusion from societal systems.
+
+### 4.2.3 General Factors Contributing to Crime in South Africa
+
+- **Population Structure (4.2.3.1)**:  
+  - Youthful demographic leading to high crime involvement.
+
+- **Migration and Urbanization (4.2.3.2)**:  
+  - Pressure on urban areas from rural migration; crime proliferation due to resource scarcity. 
+
+- **Urbanization effects (4.2.3.3)**:  
+  - Breakdown of norms, increased crime in densely populated areas.
+
+- **Unemployment (4.2.3.4)**:  
+  - High unemployment rates correlating with increased crime opportunities.
+
+- **Political Instability (4.2.3.5)**:  
+  - Exploitation of unrest for criminal activity; improved stability since 2009.
+
+- **Social Transformation (4.2.3.6)**:  
+  - Breakdown of norms leading to anomie and increased crime.
+
+- **Migrant Labor System (4.2.3.7)**:  
+  - Absence of role models and its impact on rural violence.
+
+- **Education and Labor Preparation (4.2.3.8)**:  
+  - Educational shortcomings contributing to unemployment.
+
+- **Welfare Services Issues (4.2.3.9)**:  
+  - Lack of comprehensive welfare systems causing social instability.
+
+- **Criminal Justice System Problems (4.2.3.10)**:  
+  - Issues with police, courts, and corrections leading to public dissatisfaction.
+
+- **South African Police Issues (4.2.3.11)**:  
+  - Distrust due to corruption and power abuse, increase in officer violence.
+
+### 4.2.4 Specific Factors Contributing to Crime in South Africa
+- **Political Culture and Violence (4.2.4.1)**:  
+  - Influence of political rivalries on crime.
+
+- **National Consensus Absence (4.2.4.4)**:  
+  - Lack of agreement on crime solutions contributing to the problem.
+
+- **Economic Disparities from Apartheid (4.2.4.5)**:  
+  - Poverty and unemployment leading to crime cycles.
+
+- **Youth Marginalization (4.2.4.7)**:  
+  - Insufficient support systems for youth.
+
+### 4.2.5 Conclusion
+- Summary of critical points explored related to milieu factors and their impact on criminal behavior.
+
+
+----- END OF CHUNK -----
+**LEARNING UNIT 4.2: Milieu-related causes of criminal behaviour**
+
+- **Overview of Issues**
+  - **Staff Shortage in SAPS** (1208)
+    - Overworked, underpaid officers; increased police suicides.
+    - Insufficient numbers for effective crime combat.
+
+- **Poor Credibility of the Courts** (1209)
+  - Public loss of faith in courts; perceptions of racial discrimination in bail decisions.
+  - Low trial progression rates; many serious offenders released on parole.
+  - Increasing serious crimes with fewer convictions leads to public discontent.
+
+- **Problems with Prison Sentences** (1211)
+  - Shift from prison sentences to community corrections.
+  - Growing prison overcrowding despite alternatives; high recidivism rates allowing more offenders back in communities.
+
+- **Presence of Large Numbers of Illegal Immigrants** (1212)
+  - Immigration creates job competition and increases crime vulnerability.
+  - Associated conflict and violence, exemplified by xenophobia.
+
+- **Emphasis on Human/Individual Rights** (1213)
+  - Conflict between individual rights (e.g., bail) and public safety.
+  - Case example: **Frans du Toit and Theuns Kruger** underscores the risks of bail.
+  - Amendments to the **Criminal Procedure Second Amendment Act 75 of 1995** aimed to address bail issues.
+
+- **Large-scale Amnesty** (1214)
+  - Recidivism projected at 70% post-amnesty release of convicts; significant risk of reoffending.
+
+- **Poor Firearms Control** (1215)
+  - Ongoing arms smuggling issues; rise in crimes involving firearms.
+  - **Firearms Control Act 60 of 2000** enacted to address violence; effectiveness uncertain.
+
+---
+
+**4.2.4 Specific Factors Contributing to Crime in South Africa**
+
+- **Negotiated Transition and Destruction of Social Control** (1220-1222)
+  - Breakdown of social control post-apartheid; communities susceptible to crime.
+  - Emergence of crime syndicates taking advantage of vulnerabilities.
+
+- **Political Culture, Violence, and Crime** (1223)
+  - Historical violence leads to acceptance of violent conflict resolution; taxi violence noted as a unique phenomenon.
+
+- **Political Rivalry as a Factor** (1225)
+  - Political violence during apartheid influences current violent crime; cases like the Shobashobane massacre illustrate ongoing issues.
+
+- **Absence of National Political Consensus** (1226)
+  - Crime politicization offers simplistic solutions; need for integrated crime-fighting strategies.
+
+- **Poverty, Unemployment, and Relative Deprivation** (1227-1229)
+  - Socioeconomic factors exacerbated by apartheid; experiences of deprivation linked to crime.
+  - Complex relationship among crime, poverty, and unemployment; economic conditions affect crime motivations.
+
+- **Crime and Economic Development** (1230)
+  - South Africa displays mixed economic development; poorly controlled borders facilitate organized crime.
+
+- **Youth Marginalisation** (1231)
+  - Historical disenfranchisement leads youth towards gangs and crime; drug and alcohol abuse entrenches criminal activities.
+
+- **Inadequate Support for Victims of Crime** (1232-1233)
+  - Limited state support for victims; criminal justice system inadequately addresses victim needs.
+
+**Factors Affecting Victimisation** (1234-1238)
+  - **Influential factors**: Location, lifestyle risks, attractiveness as a target, extent of guardianship.
+  - **Demographic insights**: Young age and vulnerable socio-economic statuses increase victimisation risks. 
+
+---
+
+**Legislation Highlights**:
+- **Criminal Procedure Second Amendment Act 75 of 1995**
+- **Firearms Control Act 60 of 2000**
+
+**Notable Cases**:
+- **Frans du Toit and Theuns Kruger**: Bail implications on public safety. 
+
+**Diagram References**:
+- Consider diagrams relating to socio-economic impacts on crime rates and survivor statistics for better comprehension.
+----- END OF CHUNK -----
+### LEARNING UNIT 4.2
+
+#### Location Variables
+- Urban vs. rural living increases victimisation risk (no significant difference in low vs. affluent areas).
+- Inner city (e.g., Hillbrow) has marginally higher victimisation than diffuse townships (e.g., Meadowlands).
+- Variations in victimisation rates exist between provinces.
+
+#### Lifestyle Factors
+- UNICRI survey: social lifestyles and potential alcohol abuse correlate with higher victimisation risk.
+- Statistics South Africa: affluent households report higher crime experiences than poorer households.
+
+#### Target Hardening
+- Home security impacts victimisation risk; minimal security increases vulnerability.
+
+#### Contextual Factors
+- Foreigners in South Africa face elevated victimisation and xenophobic attacks.
+- Community cohesion levels influence crime rates; strong cohesion deters criminal activity.
+
+#### Vigilantism, Revenge and Self-Defence
+- Credibility issues in the justice system and lack of victim services lead to informal justice forms (e.g., vigilante groups, community courts).
+
+#### Socio-Psychological Factors
+- Post-1990s socio-political changes incite fear, insecurity, and stress.
+- Public sentiment reveals a perception of government ineffectiveness, exacerbating feelings of powerlessness.
+- Results in rise of vigilantism, violence, and increased substance abuse.
+
+#### Access to Firearms
+- High illegal firearm availability due to historical conflict; frequent use in serious crimes (robbery, assault).
+- Insecurity drives firearm ownership; over 1.9 million licensed gun owners document 30,000 stolen firearms annually.
+- Correlation found between gun ownership and violence (Naudé et al. 2006).
+
+#### Gender Inequality
+- Recognised as a contributor to gender-specific violence, particularly against women.
+- Inadequate victim support systems exacerbate crime risk.
+- Women represent <2% of South African prison population; limited rehabilitation programs available.
+
+### LEARNING UNIT 4.3: APPLICATION OF THEORY
+
+#### 4.3.1 Introduction
+- Theories as logical constructions; they can be empirically supported or challenged.
+- Everyday applications of theory in rationalising events; complexity in crime requires multiple theories.
+
+#### 4.3.2 Key Concepts
+- **Theory**: Core component in science, including criminology; different theories explain crimes variably.
+- **Systematic Observations**: Methods for gathering information from environments, influenced by past experiences.
+- **Generalisation**: Extending findings from limited cases to broader populations.
+- **Valid (True)**: Research demands validity in observations and survey results.
+----- END OF CHUNK -----
+# LEARNING UNIT 4.3
+
+## 4.3.1 Theories of Crime
+
+### Structure Theories
+- Focus on societal organization and its influence on behavior
+  - Individual offender not emphasized.
+
+### Process Theories
+- Explain offender development through learning mechanisms.
+
+### Conflict Theories
+- Argue behavior shaped by interpersonal conflict; power dynamics influence needs.
+
+### Consensus Theories
+- Based on shared societal ideals; crimes are acts against majority rules.
+
+## 4.3.2 What is Theory?
+- A theory consists of logically interconnected propositions explaining relationships within a domain.
+- Provides answers to "why"; serves as a basis for crime understanding in criminology.  
+- Historical viewpoints:
+  - **Biological:** Crime as hereditary.
+  - **Psychological:** Crime as acquired by individuals.
+  - **Sociological:** Crime linked to societal structure/function.
+
+## 4.3.3 Characteristics of a "Good" Theory
+- **Components of a good theory (Maguire & Radosh 1999):**
+  - **Plausibility:** Provides logical and meaningful explanations.
+  - **Validity:** Supported by empirical research.
+  - **Falsifiability:** Must be able to be proven false.
+  - **Predictability:** Ability to anticipate future behaviors.
+
+## 4.3.4 How to Study Theory
+
+### Background
+- Theorists' social and intellectual environments influence theory development.
+- Different orientations (psychological vs. sociological) lead to different crime prevention strategies.
+
+### Key Premises
+- Framework of theory reduced to essential arguments; theorists' own terminologies.
+
+### Responsibility for Actions (Free Will)
+- Critical to establish individual agency under various influences (biological, psychological, social).
+
+### Policy Implications
+- Theories influencing social policy based on empirical evidence, guiding strategies for crime control.
+
+### Evaluation
+- **Theoretical Adequacy:** Assessed via plausibility, empirical support, falsifiability, predictability.
+- **Comprehensiveness:** Able to explain all types of crime across classes and types.
+
+
+## 4.3.5 Usefulness of Theory
+- Understanding crime leads to controlling behavior; theories influence policy.
+- SA examples include preventative measures by SAPS and treatment guidelines from criminological assessments.
+
+## 4.3.6 Classification of Theories
+
+### Classical vs. Positivist Theories
+- **Classical:** Focus on laws, rights of individuals.
+- **Positivist:** Concentrate on the pathology of criminality.
+
+### Structure vs. Process Theories
+- **Structure Theories:** Focus on societal organization; strain theory as a subfield.
+- **Process Theories:** Focus on individual development of criminal behavior.
+
+### Consensus vs. Conflict Theories
+- **Consensus Theories:** Assumption of shared societal values.
+- **Conflict Theories:** No societal consensus; conflicting values exist across classes.
+
+## 4.3.7 Conclusion
+- Theories must balance individual and societal influences; a good theory is meaningful, valid, and adaptable for predictions.
+----- END OF CHUNK -----
+# LEARNING UNIT 4.3
+
+### Theories of Crime
+- **Utility of Theories**: 
+  - Theories aid in practical understanding and classification of crime forms.
+  - General theories attempt to comprehensively explain crime phenomena.
+
+### Components of a Good Theory
+- Four essential components:
+  - **Plausibility**: Meaningfulness and logical consistency.
+  - **Validity**: Supported by research findings; can predict outcomes.
+  - **Falsifiability**: Capability to be proven false.
+  - **Reliability**: Consistent results over time.
+
+### Classifying Theories
+- Methods of classification:
+  - **By focus**: Differentiates schools of thought.
+  - **By structure/process**: Highlights focus on crime mechanisms.
+  - **By orientation**: Consensus vs. conflict theories.
+  
+### Evaluation of Theories
+- Criteria:
+  - **Plausibility, empirical support, validity**.
+  - **Adequacy, comprehensiveness and usefulness**. 
+
+---
+
+# LEARNING UNIT 4.4: EXPLANATION OF CRIME
+
+### 4.4.1 Introduction
+- Theories vary in comprehensiveness; some focus on individual factors (biological, psychological), while others on social structures.
+- Michael Gottfredson & Travis Hirschi's **General Theory of Crime** (1990) aims for comprehensive explanation.
+
+### 4.4.2 Key Concepts
+- **Self-control**: Established early; moral sense that inhibits harm.
+- **White-collar crime**: Illegal acts exploiting one's market status (e.g., embezzlement, fraud).
+- **Self-Control Theory**: Resultant of natural human impulses, leading to crime; linked to personality traits.
+
+### 4.4.3 Key Premises of the General Theory of Crime
+- Crime definition is expansive, encompassing various acts unlike traditional theories.
+- Distinction between the criminal act and the offender.
+- Individual differences in criminality correlate with levels of self-control.
+- Poor child-rearing practices as root cause of low self-control.
+
+### 4.4.4 The Criminal Act
+#### 4.4.4.1 Definition of Crime
+- Crime varies by culture/time; core crimes (mala in se) consistently condemned.
+- Gottfredson & Hirschi's definition: "Acts of force or fraud for self-interest."
+
+#### 4.4.4.2 Common Characteristics of Crime
+- Immediate gratification of desires.
+- Easy, simple, and exciting satisfaction of needs; minimal effort required.
+- Crime leads to negative consequences for victims, such as harm and distrust.
+
+### 4.4.5 The Potential Offender
+- Traits of potential offenders:
+  - Impulsiveness and minimal frustration tolerance.
+  - Preference for immediate solutions without perseverance.
+  - Attracted to crime due to poor self-image and lack of long-term outlook.
+- Traits include self-centeredness and lack of sensitivity; propensity for physical harm.
+
+### Evaluation of the Theory
+- **4.4.7.1 Empirical Support**: Supported by evidence; needs further investigation.
+- **4.4.7.2 Shortcomings**: The theory has limitations; not comprehensive for all crime forms.
+
+---
+
+**References**
+- **Legislation & Cases**: Not cited; refer to relevant statutory materials for definitions.
+- **Diagrams**: Refer to personal notes for visual representations of theories.
+----- END OF CHUNK -----
+# LEARNING UNIT 4.4
+
+## 4.4.6 Causes of Poor Self-Control
+
+- **4.4.6.1 Poor Child-Rearing Practices**
+  - Ineffective parenting is the main cause of low self-control; early inability to instill self-control difficult to remedy later.
+  - Behavioural problems in childhood often correlate with delinquency and adult offending.
+  - **Gottfredson and Hirschi**: Traits contributing to poor self-control are established early and persist throughout life.
+  - Quality of early parenting affects self-control development: neglectful or lax parenting leads to impulsive and risk-prone behavior.
+  - **In South Africa**: Chronic stress, unemployment, and poverty contribute to lax parenting.
+  - **Research Findings**: Juvenile delinquents lack discipline, supervision, and affection. Poor parental conduct often seen (e.g., substance abuse, criminal records).
+  - Minimum requirements for effective child-rearing:
+    - Monitoring and supervision of child's behaviour.
+    - Ability to identify and address delinquency.
+    - Punishment for misbehaviour.
+  - Affectionate investment by supervisors enhances educational outcomes and social sensitivity.
+
+- **When Education Goes Wrong**:
+  - Parents' neglect or failure to supervise impacts child development.
+  - Lack of appropriate punishment contributes to poor self-control in children.
+
+- **Summary**: Children lacking self-control may struggle academically, socially, and in employment. Conversely, effective parenting fosters self-control, supporting educational and relational success.
+
+- **4.4.6.2 Circumstantial Factors**
+  - Poor self-control often conflated with social circumstances; difficult to distinguish inherent traits from environmental influences.
+  - **Gottfredson and Hirschi**: Crime potential intrinsic to human nature; higher risk without socialisation.
+  - Crime requires rewarding motives and absence of detection or consequences.
+  - Manifestations of poor self-control include antisocial behaviour; patterns vary among individuals.
+
+## 4.4.7 Evaluation
+
+- **4.4.7.1 Empirical Support**
+  - Research supports self-control theory; correlations between impulsiveness/self-control and criminality observed in studies (e.g., impulsivity in drunk driving).
+
+- **4.4.7.2 Shortcomings**
+  - Criticism of attributing self-control variability solely to parental influence; child behaviour also affects parental actions.
+  - Some studies indicate genetic factors contribute to low self-control.
+  - Personality alone cannot conclusively differentiate criminals from non-criminals.
+  - Theory insufficient to explain regional crime rate variations amidst ecological factors (e.g., poverty, unemployment).
+
+## 4.4.8 Conclusion
+
+- **Gottfredson and Hirschi**: Crime is characterized by distinct traits; disciplined child-rearing practices vital in fostering self-control.
+- Consideration of circumstantial factors alongside self-control essential for understanding crime and related behaviours like substance abuse.
+----- END OF CHUNK -----
+# BIBLIOGRAPHY
+
+### General Works
+- Adler, F, Mueller, G & Laufer, WS. *Criminology*. 2nd ed. New York: McGraw-Hill (1399).
+- Barlow, HD. *Introduction to Criminology*. 7th ed. New York: Harper Collins (1410).
+- Bartol, CR & Bartol, AM. *Criminal Behavior: A Psychosocial Approach*. 7th ed. Upper Saddle River, NJ: Pearson Prentice-Hall (1411).
+- Conklin, JE. *Criminology*. 11th ed. Boston: Pearson (1445).
+- Curran, DJ & Renzetti, CM. *Theories of Crime*. Boston: Allyn and Bacon (1448).
+- Lilly, JR, Cullen, FT & Ball, RA. *Criminological Theory: Context and Consequences*. 6th ed. Thousand Oaks: Sage (1504).
+
+### Crime and Victimology
+- Bezuidenhout, C, & Little, K. *Crime and Criminology: A Southern African Perspective on Fundamental Criminology*. Cape Town: Pearson (1419).
+- Doorewaard, C. "The Dark Figure of Crime and its Impact on the Criminal Justice System." *Acta Criminologica* 27(2): 1–13 (1457).
+- Fattah, EA. *Understanding Criminal Victimization*. Scarborough, Ontario: Prentice-Hall (1463).
+- Hollin, CR. *Criminal Behaviour: A Psychological Approach to Explanation and Prevention*. London: Falmer Press (1487).
+- Mawby, RI & Walklate, S. *Critical Victimology: International Perspectives*. London: Sage (1513).
+
+### Specific Studies and Reports
+- Burton, P. *Someone Stole My Smile: An Exploration into the Causes of Youth Violence in South Africa*. Monograph Series 3. Cape Town: Centre for Justice and Crime Prevention (1425).
+- Camerer, L. *Victims and Criminal Justice in South Africa: Putting Victims on the Agenda*. Proceedings of National Workshop (1427).
+- Department of Correctional Services. "Annual Report." Pretoria: Government Printer (1455).
+
+### Theoretical Perspectives
+- Cohen, S. *Folk Devils and Moral Panics*. Oxford: Martin Robertson (1439).
+- Currie, E. "Market, Crime and Community." *Theoretical Criminology* 1(2): 147–172 (1450).
+- Glick, L. *Criminology*. Boston, Mass: Allyn & Bacon (1475).
+- Heidensohn, F. *Gender and Crime*. In *The Oxford Handbook of Criminology*, edited by M Maguire, R Morgan & R Reiner. Oxford: Clarendon (1482).
+
+### Related Theories
+- Bandura, A. *Social Learning Theory*. (Reference for Bandura's work on social learning) (1515).
+- Gül, SK. "An Evaluation of the Rational Choice Theory in Criminology." *Journal of Social & Applied Sciences* 4(8), 36–44 (1480).
+
+### Key Resources and Government Publications
+- Annual Reports from the Department of Correctional Services (1400-1406).
+- South African Police Service: *Crime Information Analysis Centre Reports* (1446, 1447).
+
+### Notable Case References 
+- Cohen, S. *Against Criminology*. New Brunswick: Transaction (1440).
+- Grobbelaar, MM & Snyman, HF. "The Second International Crime (Victim) Survey in Johannesburg." Pretoria: Unisa (1526). 
+
+### Additional Literature
+- Maguire, B & Radosh, PF. *Introduction to Criminology*. Belmont, Calif: West/Wadsworth (1510).
+- Naudé, CMB, Prinsloo, JH & Ladikos, A. "Experiences of Crime in Thirteen African Countries." Unpublished Report, Pretoria: University of South Africa (1525).
+
+### Notes on Online Resources
+- Various articles and reports accessed online (e.g., department reports, articles in the media reflecting social issues) (Asohan, 2008; Bearak & Dugger, 2008; etc.). 
+
+### Conclusion
+- The bibliography provides a comprehensive overview of significant publications in criminological studies, theories, victimology, and crime statistics, essential for further academic pursuits in the field. 
+
+*Legislative references and cases remain abundantly vital for professionals and scholars to contextualize crime and criminology in practice.*
+----- END OF CHUNK -----
+# BIBLIOGRAPHY
+
+- Ramasar, P. (1996). The impact of child abuse as a life experience on the self and self-concept of the victim of abuse. In *Violence and family life in contemporary South Africa: research and policy issues*, edited by LE Glanz and AD Spiegel. Pretoria: HSRC.
+  
+- Rawoot, I. (2009). Grammar of violence. *Mail & Guardian online*. Available at: http://www.mg.co.za/article/2009-08-27-grammar-of-violence [Accessed 15 October 2009].
+
+- Reeve, J. (2009). *Understanding motivation and emotion*. John Wiley & Sons.
+
+- Reeve, J. (2005). *Understanding motivation and emotion*. Wiley.
+
+- Reid, ST. (2003). *Crime and criminology*. Boston, Mass: McGraw-Hill.
+
+- Renzetti, CM, Curran, DJ & Maier, SL. (2014). *Women, Men and Society*. 6th edition. Essex: Pearson.
+
+- Roblee, CL & McKechnie, AJ. (1981). *The investigation of fires*. Englewood Cliffs, NJ: Prentice-Hall.
+
+- Rotimi, A & Oloruntimehin, S. (1992). Teaching and research network in Africa in the field of criminology, in *Criminology in Africa*, edited by M Mushanga. Rome: UNICRI.
+
+- Salzinger, S, Feldman, RS, Hammer, M & Rosavio, M. (1991). Risk for physical child abuse and the personal consequences for its victims. *Criminal Justice and Behaviour*, 18(1), 64–81.
+
+- Sarason, IG & Sarason, BR. (1993). *Abnormal psychology: the problem of maladaptive behavior*. 7th edition. Englewood Cliffs, NJ: Prentice Hall.
+
+- Saunders, DG. (1984). Helping husbands who batter: social casework. *Journal of Contemporary Social Work*, 65(6), 347–353.
+
+- Schärf, W. (1990). The resurgence of urban street gangs and community responses in Cape Town during the late eighties, in *Towards justice? Crime and state control in South Africa*, edited by D Hanson & D van Zyl Smit. Cape Town: Oxford University Press.
+
+- Schmalleger, F. (1994). *Criminal justice: a brief introduction*. Englewood Cliffs, NJ: Prentice-Hall.
+
+- Schurink, E. (1992). Rape victimization, in *Victimization: nature and trends*, edited by WJ Schurink, I Snyman & WF Krugel. Pretoria: Human Sciences Research Council.
+
+- Snyman, CR. (1995). *Criminal law*. 3rd edition. Durban: Butterworths.
+
+- Snyder, HN & Sickmund, M. (1995). *Juvenile offenders and victims: a national report*. Pittsburgh: US Department of Justice, Office of Juvenile Justice and Delinquency Prevention.
+
+- Sutherland, EH. (1949). *White collar crime*. New York: Dryden Press.
+
+- Trojanowicz, R & Morash, M. (1992). *Juvenile delinquency concepts and control*. 5th edition. Englewood Cliffs, NJ: Prentice Hall.
+
+- Van Dijk, J. (1996). Victim empowerment and support in an international perspective. Putting victims on the agenda. Proceedings of a national workshop on victim empowerment and support, November. Halfway House: Institute for Defence Policy.
+
+- Williams, D. (2009). Taxi driver convicted of murder. *Mail & Guardian online*. Available at: http://www.mg.co.za/article/2009-09-10-taxi-driver-convicted-of-murder [Accessed 15 October 2009]. 
+
+(Additional references omitted for brevity).

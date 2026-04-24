@@ -1,0 +1,708 @@
+# PYC2602 Study Notes
+
+### Orientation
+- Overview of course material and objectives.
+
+### Unit 1: Basic Concepts of Child and Adolescent Development (Page 1)
+- Definition and scope of child and adolescent development.
+- Frameworks and theories influencing development.
+    - **Piaget’s stages of cognitive development**
+    - **Erikson’s psychosocial development theory**
+- Importance of development in sociocultural context.
+
+### Unit 2: Prenatal Development and the Birth Process (Page 4)
+- Stages of prenatal development:
+    - Germinal, embryonic, fetal.
+- Factors affecting prenatal development:
+    - Nutrition, stress, teratogens.
+- Birth process:
+    - Stages of labor, complications, and interventions.
+
+### Unit 3: The Neonatal Phase and Infancy (Page 7)
+- Characteristics of the neonatal phase.
+    - Reflexes and sensory capabilities.
+- Influences on infant growth:
+    - Attachment theory (Bowlby, Ainsworth).
+- Developmental milestones during infancy.
+
+### Unit 4: Early Childhood (Page 14)
+- Physical, cognitive, and socioemotional development.
+    - Language acquisition theories.
+- Play in early childhood:
+    - Types and significance of play.
+- Regulatory frameworks for early childhood education.
+
+### Unit 5: Middle Childhood (Page 21)
+- Growth patterns, cognitive advancements.
+    - Piaget’s concrete operational stage.
+- Peer relationships and social skills.
+- Role of family dynamics in development.
+
+### Unit 6: Adolescence (Page 27)
+- Physical changes and puberty:
+    - Hormonal influences, growth spurts.
+- Cognitive development:
+    - Formal operational stage (Piaget).
+- Identity formation (Erikson):
+    - Exploration vs. commitment.
+
+### Unit 7: Vulnerabilities, Resilience, and Rights of Children (Page 34)
+- Factors influencing vulnerability:
+    - Socioeconomic status, exposure to violence.
+- Resilience frameworks.
+- Legal rights of children:
+    - UN Convention on the Rights of the Child (CRC).
+- Protective measures and interventions. 
+
+### Diagrams
+- Developmental stages frameworks.
+- Attachment theory visual representations. 
+
+(Note: Please refer to original materials for detailed diagrams as they are not represented in this summary.)
+----- END OF CHUNK -----
+# PYC2602/1 - Study Notes on Child and Adolescent Development
+
+## ORIENTATION
+
+- **Developmental Psychology**: Focuses on physical, cognitive, personality, and social development throughout the lifespan, particularly childhood and adolescence.
+- **Module Purpose**: 
+  - Enhance personal experiences with scientific (academic/theoretical) knowledge.
+  - Understand normal and healthy developmental stages.
+  - Identify factors promoting optimal development.
+  - Apply knowledge in practical and professional contexts.
+
+## THE PURPOSE AND FORMAT OF THIS STUDY GUIDE
+
+- **Study Guide Structure**:
+  - Organized by units, matching chapters in the prescribed book.
+  - Each unit includes:
+    - **Summary**: Key aspects of the unit for focus.
+    - **Orientation**: Brief introduction and a relevant case study to contextualize learning.
+    - **Study Sections**: Specific sections to prepare for examination, with notes for guidance.
+      - Figures, tables, or blocks to focus on for exams are clearly indicated.
+
+- **Prescribed Book**: 
+  - **Title**: *Child and Adolescent Development* (2nd ed.) by Louw & Louw (2014).
+  - Must be studied alongside the study guide.
+
+## ASSESSMENT FOR THIS MODULE
+
+- **Self-Assessment**: Engage with "Review this section" blocks for personal evaluation of understanding.
+- **Assignments & Examination**:
+  - Multiple-choice format for assessments.
+  - Assignments critical for gaining examination admission and year mark.
+  - Feedback provided post-submission.
+
+## NAVIGATION TOOL
+
+- **Module Content Overview**: A diagrammatic representation of the topics within the module focused on child and adolescent development. 
+
+> Note: Ensure to consult relevant chapters, tables, figures, and blocks as outlined in your study guide for comprehensive examination preparation.
+----- END OF CHUNK -----
+# PYC2602/1 Study Notes 
+
+## UNIT 1: Basic Concepts of Child and Adolescent Development
+### Orientation
+- Covers foundational aspects of child psychology.
+- Key goals, historical perspectives, developmental stages, and theories discussed.
+
+### 1.6 Theories of Development
+- Importance of understanding developmental theories. 
+
+#### 1.6.1 The Biological Perspective
+- Biological determinants significantly influence human behavior.
+  
+#### 1.6.2 The Psychodynamic Perspective
+- Brief overview; includes unconscious conflicts and social environment influence.
+  
+##### 1.6.2.2 Erikson’s Psychosocial Theory
+- Focus on social impact; Table 1.2 details eight stages of development.
+
+#### 1.6.3.2 Social Cognitive Theory
+- Developed by Bandura; focuses on learning processes through observation.
+
+#### 1.6.4 The Cognitive Developmental Perspective
+- Describes cognitive growth through various life stages.
+
+##### 1.6.4.1 Piaget’s Theory of Cognitive Development
+- Covers cognitive development up to adolescence. Refer to Table 1.3 for stages.
+
+##### 1.6.4.2 The Information-Processing Theory
+- Focuses on processing information over specific stages.
+
+#### 1.6.5 The Contextual Perspective
+- Examines cultural influences on development.
+
+##### 1.6.5.1 Vygotsky’s Socio-Cultural Theory
+- Highlights importance of adult guidance in cultural contexts.
+
+#### 1.6.6 The African Perspective
+- Emphasizes a holistic view, spirituality, and collective existence; Nsamenang's stages of selfhood.
+
+#### 1.6.7 The Bigger Picture
+- Summary of key developmental perspectives; discussion on theory validity included.
+
+---
+
+## UNIT 2: Prenatal Development
+### Orientation
+- Human development starts from conception to birth (approximately 280 days).
+- Focus on genetic and environmental factors affecting development.
+
+### Key Points
+- Genetic foundations shape both commonalities and uniqueness in individuals (phenotypes vs. genotypes).
+- Prenatal factors can hinder or enhance development:
+  - Character traits are established during prenatal phase.
+  - Environmental exposure before birth plays a critical role.
+  - Substantial growth occurs in this period compared to later life stages.
+  - Attitudes of parents and significant others are formed, influencing postnatal interactions. 
+
+### Required Sections
+- **2.1 The Prenatal Period**
+- **2.2 The Prenatal Stages**
+- **2.4 The Birth Process** 
+
+These sections provide insight into prenatal environmental influences crucial for understanding development.
+----- END OF CHUNK -----
+# STUDY NOTES
+
+## UNIT 2: Prenatal Development
+
+### 2.3 Prenatal Environmental Influences
+- Environmental factors are critical for prenatal development.
+
+#### 2.3.1 The Age of the Parents
+- Parent age can significantly influence prenatal outcomes.
+
+#### 2.3.2 Nutrition of the Mother
+- Malnutrition risks damage to fetal development; specific mention of issues in South Africa.
+
+#### 2.3.3 Radiation
+- Certain developmental stages are particularly vulnerable to radiation exposure.
+
+#### 2.3.4 Diseases During Pregnancy
+- Maternal diseases can adversely affect fetal development.
+
+#### 2.3.5 The Use of Medication and Drugs
+- Maternal use of medication and drugs poses risks to the fetus.
+
+#### 2.3.6 The Emotional State of the Mother
+- The mother's emotional health can impact fetal development.
+
+---
+
+## UNIT 3: The Neonatal Phase and Infancy
+
+### 3.1 The Neonatal Phase
+- Neonates (birth to 4 weeks): evoke mixed emotions in caregivers; critical bond forms.
+
+#### 3.1.1 Physical Appearance Assessment
+- Apgar Scale used for initial assessment of newborns.
+
+#### 3.1.2 Adjustment to Life Processes
+- Newborns' adaptation to basic physiological functions.
+
+#### 3.1.3 Reflexes
+- Overview of neonatal reflexes (Refer to Table 3.2).
+
+#### 3.1.4 Perception
+- Neonatal perceptual abilities are surprising and measurable.
+
+#### 3.1.5 Sleep and Dreaming
+- Sleep functions critically in infant development.
+
+#### 3.1.6 Feeding
+- Focus on early feeding methods; note important paragraphs.
+
+#### 3.1.8 Individual Differences
+- Unique differences in physiological and neurological makeup at birth.
+
+---
+
+### 3.2 Infancy
+- Infancy (from birth to speech development): crucial for caregiver relationships and development.
+
+#### 3.2.1 Physical Development
+- Dramatic physical growth affects other developmental areas; includes motor and perceptual development.
+
+#### 3.2.2 Cognitive Development
+- Cognitive growth during infancy is significant.
+
+##### 3.2.2.1 Piaget’s View: Sensorimotor Development
+- Discusses stages and cognitive skills (a-c must be studied).
+
+##### 3.2.2.2 Information Processing
+- Insights into infant information processing and learning.
+
+##### 3.2.2.3 Memory
+- Assessment of infant memory types and retention.
+
+##### 3.2.2.4 Language Development
+- Focus on phases of development: introductory and concluding paragraphs only; theories section must be studied in full.
+
+#### 3.2.3 Personality Development
+- Defines personality and discusses developmental theories affecting emotions, temperament, and self-concept.
+
+##### 3.2.3.1 Defining Personality
+- Key dimensions and theoretical perspectives of personality.
+
+**Table 3.3:** The Big Five Personality Traits - provides a strong personality description.
+
+##### 3.2.3.2 Personality Development During Infancy
+- Critical stage for personality; includes discussions on emotions, temperament, and self-concept.
+
+**Application:** Research findings on comforting crying infants; guidelines for managing emotional regulation in infants.
+
+**Table 3.4:** Thomas and Chess’s Temperamental Patterns - classification of infant temperaments.
+----- END OF CHUNK -----
+### UNIT 3: The neonatal phase and infancy
+
+#### 3.2.4 Social development
+- Study the infant’s relationships with others.
+  
+##### 3.2.4.1 Attachment
+- Emotional bonding discussed.
+- **Harlow’s experiment**: attachment insights.
+- **Erikson’s view**: trust development.
+- (a) Development of attachment
+- (b) Types of attachment
+- (c) Factors influencing attachment
+- (d) Long-term effects of attachment
+- (e) Role of the father
+- (f) Role of other caregivers
+- (g) Stranger anxiety
+- (h) Separation anxiety
+- Research focus: Attachment development in deprived communities; insights from South Africa’s Ubuntu.
+- Critical thinking: Ability of children in homes to form positive attachments; effects of institutionalization.
+
+##### 3.2.4.2 Socialisation
+- Infants learn acceptable behavior through socialization.
+- Parents as primary role models.
+- Key aspect: Acquisition of toilet skills.
+
+##### 3.2.4.3 Sibling interactions
+- Importance of sibling relations stressed.
+
+##### 3.2.4.4 Peer interactions
+- Emerging peer interactions during infancy.
+
+---
+
+### UNIT 4: Early childhood
+
+#### Orientation
+- Focus on physical, cognitive, personality, and social development from ages 2 to 5.
+
+#### 4.1 PHYSICAL DEVELOPMENT
+- Influences cognitive, personality, social development.
+- Read whole section: preschool physical development factors and effects on other domains.
+
+#### 4.2 COGNITIVE DEVELOPMENT
+- Understanding of preschool cognitive progress outlined.
+
+##### 4.2.1.1 Piaget’s theory: the preoperational stage
+- Advances and types of immature thought.
+- (a) Advances in preoperational thought
+- (b) Immature aspects
+- (c) Evaluation of Piaget’s view
+- Figure 4.1: Conservation experiments.
+- Figure 4.2: Three-mountains task; egocentric thought exploration.
+- Table 4.1: Characteristics of preschoolers’ preoperational thinking.
+
+##### 4.2.1.2 Neo-Piagetians
+- Case and Fischer's research vs. Piaget.
+
+##### 4.2.1.3 The child as theorist
+- Preschoolers' naïve theories:
+  - (a) Naïve physics
+  - (b) Naïve biology
+  - (c) Naïve psychology and theory of mind
+- Figure 4.3: False-belief task with Sally and Anne.
+
+##### 4.2.1.4 Vygotsky’s sociocultural theory
+- Focus on cultural influences, parental role in development:
+  - (a) Zone of proximal development
+  - (b) Language and thought
+  - (c) Mechanisms of development
+  - (d) Evaluation of Vygotsky’s theory.
+
+##### 4.2.1.5 Theory of information processing
+- Advances in children’s memory systems.
+
+#### 4.3 PERSONALITY DEVELOPMENT
+- Personality becomes more defined and complex.
+  
+##### 4.3.1 Theories of personality development
+- Focus on emotions, self-concept, gender identity, ethnic identity.
+----- END OF CHUNK -----
+# Unit 4: Early Childhood
+
+## 4.3.2 Emotions
+- Emotions become more varied and controlled in early childhood.
+
+### 4.3.2.1 Children’s Understanding of Emotions
+- Influence of cognitive development and family relationships on emotional comprehension.
+
+### 4.3.2.2 Emotional Expression: Basic Emotions
+- Focus on preschooler emotions: 
+  - (a) Happiness 
+  - (b) Fear and anxiety 
+  - (c) Anger
+
+### 4.3.2.3 Emotional Expression: Involving the Self
+- Development of self-related emotions.
+
+### 4.3.2.4 Emotional Expression Involving Others
+- Emergence of empathy and understanding others' emotions.
+
+### 4.3.2.5 Emotion Regulation
+- Variation in emotional display based on different factors.
+
+## 4.3.3 The Self-Concept
+- A crucial part of personality formation.
+
+### 4.3.3.1 The Development of the Self-Concept
+- Preschooler self-perception.
+
+### 4.3.3.2 Self-Esteem
+- Self-evaluation influenced by external reactions and cultural context.
+
+## 4.3.4 Gender
+- Awareness of gender identity. Importance of understanding gender stereotypes.
+
+### 4.3.4.1 Gender-Role Development
+- Acquisition of expected behavioral patterns.
+
+### 4.3.4.2 Theories of Gender-Role Development
+- Overview of four theories:
+  - Biological
+  - Psychoanalytic
+  - Social influences
+  - Cognitive influences
+
+### Application: Reducing Gender Stereotyping in Young Children
+- Awareness and strategies to mitigate gender stereotypes.
+
+## 4.3.5 Racial and Ethnic Identity
+- Development of understanding regarding race and ethnicity in later early childhood.
+
+## 4.4 Social Development
+- Exploration of preschool child relationships within family and outside.
+
+### 4.4.1 Family Relationships
+- Key features of family dynamics during early childhood.
+
+#### 4.4.1.1 Parents or Caregivers
+- Importance of attachment; includes:
+  - (a) Attachment 
+  - (b) Parenting style
+
+#### 4.4.1.2 Sibling Relationships
+- Learning about social interactions through sibling relationships.
+
+### 4.4.2 Peer Relationships
+- Importance of peer interactions.
+
+#### 4.4.2.1 Play
+- Value and types of play.
+
+#### 4.4.2.2 Aggressive Behaviour
+- Stability of aggression; includes:
+  - (a) Causes of aggression 
+  - (b) Controlling aggression
+
+#### 4.4.2.3 Prosocial Behaviour
+- Importance and stability of prosocial actions.
+
+### 4.4.3 Moral Development
+- Factors affecting differentiation between right and wrong.
+
+### Conclusion
+- Overview of children's developmental context, relationships, and socialization.
+
+---
+
+# Unit 5: Middle Childhood
+
+## Orientation
+- Study of physical, cognitive, personality, and social development during the school years (6-12 years).
+
+### Case Study
+- Example of gradual physical development (Bongani, 10 years old) highlighting curiosity, exploration, and the role of play.
+
+## 5.1 Physical Development
+- Overview of gradual physical changes between ages 6-12.
+
+## 5.2 Cognitive Development
+- Examination of cognitive skill progression.
+
+### 5.2.1 Piaget’s Theory: Concrete Operational Stage
+- Major cognitive advances; abstract thought limitations still present.
+
+### 5.2.2 Development of Information-Processing Skills
+- Study aspects like memory, processing speed, etc.
+
+- **Table 5.1**: Age-related advances in memory capabilities.
+
+### 5.2.3 Language Development
+- General aspects of language development during this stage. 
+
+## 5.3 Personality Development
+- Increased awareness and regulation of personal emotions.
+
+
+----- END OF CHUNK -----
+# UNIT 5: Middle childhood
+
+## 5.3 Personality Development
+- **5.3.1 Theories of Personality Development**
+  - Important theories to study.
+
+- **5.3.2 Self-understanding: Self-Concept and Self-Esteem**
+  - Focus on self-concept, its structure and content, self-esteem, and self-efficacy.
+  
+- **Figure 5.1** 
+  - Structure of self-esteem during middle childhood.
+
+- **Application** 
+  - Methods to increase children’s self-esteem.
+
+- **5.3.3 Emotional Development**
+  - Examine emotional development in middle childhood.
+  
+- **Research Focus**
+  - Children’s coping strategies for fearful events.
+
+## 5.4 Social Development
+- **5.4.1 The Role of the Family**
+  - Defines family’s role in child’s social development.
+
+- **5.4.1.1 Parent-Child Relationship**
+  - Changes in the parent-child dynamic during middle childhood.
+
+- **5.4.1.2 Models of Influence in the Family**
+  - Overview of three models depicting family influence directions.
+
+- **5.4.1.3 Parents’ Role in Children’s Social Development**
+  - Explore parental contributions to socialization.
+
+- **5.4.1.4 Discipline**
+  - Features of positive discipline as a socialization tool.
+  
+- **Critical Issue** 
+  - Corporal punishment considerations.
+
+- **5.4.1.5 Sibling Relationships and Only Children**
+  - Impact of siblings or lack thereof.
+
+- **5.4.2 Peer Relationships**
+  - Emphasis on importance and nature of peer relationships.
+
+- **5.4.2.1 Nature and Function of the Peer Group**
+  - Evolution of peer groups and their functions.
+
+- **5.4.2.2 Friendships**
+  - Phases of friendship during middle childhood.
+
+- **5.4.2.3 Play in Middle Childhood**
+  - Changes and significance of play during this phase.
+
+- **Application** 
+  - Value of Masekitlana: A traditional African game.
+
+- **Table 5.6** 
+  - Trends in play and suitable toys/materials for age groups.
+
+- **5.4.2.4 Peer Acceptance**
+  - Four categories of peer acceptance.
+
+- **5.4.2.5 Peer Victimization**
+  - Forms of bullying and consequences of peer victimization.
+
+- **5.4.3 Media Influence**
+  - Role of television, technology, and cellphones in socialization.
+
+- **5.4.4 Moral Development**
+  - Importance of moral development.
+
+- **5.4.4.1 Moral Emotions**
+  - Influence of emotional responses on prosocial or antisocial behavior.
+
+- **5.4.4.2 Moral Behavior**
+  - Views on moral behavior according to learning theorists.
+
+- **5.4.4.3 Moral Reasoning**
+  - Theories by Piaget, Kohlberg, and Eisenberg on moral reasoning.
+  
+- **Table 5.8** 
+  - Kohlberg’s levels and stages of moral reasoning.
+
+- **5.4.4.4 Promoting Morally Competent Behavior**
+  - Factors influencing moral reasoning and behavior.
+
+# UNIT 6: Adolescence
+
+## 6.1 What is Adolescence?
+- Define adolescence as transitional stage between childhood and adulthood.
+
+- **6.1.1 Demarcating Adolescence**
+  - Evolving understanding of adolescence.
+
+- **6.1.2 A Stormy Phase?**
+  - Varied views on psychological characteristics of adolescents.
+
+## 6.2 Physical Development
+- **6.2.3 The Psychological Effects of Physical Changes**
+  - Influence of physical maturation (early/late) on psychological well-being.
+
+## 6.3 Cognitive Development
+- **6.3 Cognitive Development**
+  - Major cognitive changes during adolescence.
+
+- **6.3.1 Theories of Cognitive Development**
+  - Understanding adolescent cognitive changes.
+
+- **6.3.1.1 A Constructive Perspective: Jean Piaget**
+  - Characteristics of formal operational thinking and evaluation of Piaget’s theory.
+
+- **6.3.1.2 A Componential Approach: Information-Processing View**
+  - Review of information-processing changes and Sternberg’s views.
+
+- **6.3.1.3 The Psychometric Approach: Intelligence**
+  - Overview of psychometric intelligence approach.
+
+- **Table 6.2** 
+  - Gardner’s eight intelligences.
+----- END OF CHUNK -----
+### UNIT 6: Adolescence
+
+#### 6.3.3 Practical cognition: The effects of adolescents’ cognitive abilities on certain areas of their development
+- Major influence of cognitive development on adolescent functioning
+- **6.3.3.1 Implications for the classroom**
+  - Application of cognitive development in educational settings
+- **6.3.3.2 Argumentativeness, idealism, and criticism**
+  - Parent-child relationship affected by adolescent cognitive characteristics
+- **6.3.3.3 Social cognition**
+  - Importance of perspective-taking and implicit personality theories
+- **6.3.3.4 Self-consciousness and self-focusing**
+  - Reasons for adolescent self-consciousness; concepts of imagery audience, personal fable, optimistic bias
+- **6.3.3.5 Planning and decision-making**
+  - Improved cognitive self-regulation; behavioral decision theory in adolescent decision-making
+
+#### 6.4 PERSONALITY DEVELOPMENT
+- Personality formation linked to temperament profiles and identity exploration
+- **6.4.1 Theories of personality development**
+  - Importance of temperament, personality traits, and adaptive functioning; psychoanalytic views
+  - **Table 6.3**: Change in the Big Five dimensions of temperament/personality during adolescence
+  - **Table 6.4**: Outcomes/Correlates of temperament and personality in adolescence
+- **6.4.1.2 Adaptive functioning**
+  - Selection, optimization, and compensation effects
+- **6.4.1.3 The psychoanalytic perspective**
+  - Study Freud and Erikson on adolescent personality development
+
+- **6.4.2 Identity development**
+  - Major developmental task of identity formation in adolescence
+- **6.4.2.1 Erikson’s theory: Identity versus identity confusion**
+  - Development of identity, identity confusion, and evaluation of Erikson’s theory
+- **6.4.2.2 James Marcia’s theory: The formulation of identity statuses**
+  - Contributions of Marcia’s theory to identity formation understanding
+  - **Table 6.5**: Criteria for identity statuses
+- **6.4.2.3 Forming a group identity**
+  - Importance of group identity in adolescence
+- **Research focus: Identity development of South African adolescents in a democratic society**
+
+- **6.4.3 Self-conceptions: Adolescents’ understanding of self**
+  - Changes in self-understanding
+- **6.4.3.1 The actual self, possible self and false self**
+  - Concepts of actual, possible, ideal, feared, and false selves
+- **6.4.3.2 Self-esteem**
+  - Changes and aspects of adolescent self-esteem
+- **6.4.3.3 Culture and the self**
+  - Cultural differences in self-conception in collectivistic vs. individualistic cultures
+- **6.4.4 Emotions**
+  - Changes in adolescent emotionality
+
+#### 6.5 SOCIAL DEVELOPMENT
+- Social context of adolescent development; significance of peer relationships
+- **6.5.1 The parent-adolescent relationship**
+  - Changes during adolescence
+- **6.5.1.1 Parent-adolescent conflict**
+  - Interactional changes, reasons, and generation gap
+- **6.5.1.2 Autonomy and attachment**
+  - Impact of autonomy on parent-child relationships and role of attachment bonds
+- **6.5.1.3 Parenting styles**
+  - Baumrind’s three parenting styles and dimensions of parental behavior; reciprocal effects
+
+- **6.5.2 Peer group relationships**
+  - Changes in peer relationships during adolescence
+- **6.5.2.1 The structure of the peer group**
+  - Stages of peer group formation 
+  - **Figure 6.4**: Stages of peer group formation
+- **6.5.2.2 Conformity**
+  - Increase in conformity, benefits, dangers of excessive conformity, and counter-culture
+- **6.5.2.3 Friendships**
+  - Nature and purpose of friendships in adolescence
+- **6.5.2.4 Romantic relationships**
+  - Importance of romantic relationships, stages of development, and their developmental influence
+- **6.5.2.5 Adolescents and cyberspace**
+  - Role of ICTs and their impact on adolescent development
+
+- **6.5.4 Moral development**
+  - Importance of developing an appropriate value system
+- **6.5.4.1 Theories of moral development**
+  - Study various theories: Psychoanalytic, Social learning, and Cognitive perspectives; criticism of Kohlberg’s theory
+- **Research Focus**: Moral development in black and white South African adolescents
+- **6.5.4.2 Factors influencing moral development**
+  - Various factors impacting moral development
+
+### UNIT 7: Vulnerabilities, resilience and rights of children
+#### 7.1 VULNERABILITIES
+- Vulnerability refers to decreased coping capacity in children
+- **7.1.1 Family influences**
+  - Importance of stable family environments for child development
+- **7.1.1.1 Divorce**
+  - Effects of divorce on children; various determining factors discussed
+  - **Table 7.1**: Suggestions for helping children adjust to divorce
+- **7.1.1.2 Stepfamilies**
+  - Effects of remarriage on children discussed
+- **7.1.1.3 Single-parent families**
+  - Impact on children raised by single parents
+----- END OF CHUNK -----
+# UNIT 7: Vulnerabilities, resilience and rights of children 
+
+## 7.1 Child-Headed Households
+- Significant presence of child-headed households in South Africa.
+- Research highlights their challenges and problems faced by children.
+
+## 7.1 Street Children
+- Common occurrence of street children in urban areas.
+- Insights from research findings discussed.
+
+## 7.1.3 Poverty
+- Over 50% of the South African population affected by poverty.
+- Material deprivation impacts physical and psychological development.
+
+## 7.1.9 Age-Related Reactions to Trauma
+- Discussion on children's unique reactions to trauma.
+
+## 7.2 RESILIENCE
+- **Definition**: Innate ability to adapt successfully amidst adversities.
+- Children face daily challenges requiring resilience.
+- **Case study reference**: Hamilton Naki (Louw & Louw, 2014) for demonstrating resilience. Not examinable.
+
+### Study Sections:
+- **7.2 Resilience**: Comprehensive study excluding case studies.
+- **Table 7.2 Characteristics of Resilient Children**: Protective factors in children, families, and communities.
+
+## 7.3 THE RIGHTS OF THE CHILD
+- Essential for child development, wellbeing, and sustainability in South Africa.
+- Historical racial divisions impact children's vulnerability.
+- **Children's Charter of South Africa**: Rights include access to education, healthcare, and security.
+
+### Study Section:
+- **7.3 The Rights of the Child**: Discussion on children’s rights and the implementation of the Children’s Charter. South Africa as an example of people’s rights development.
+
+## Conclusion
+- Development influenced by risk factors and resilience.
+- Importance of protective factors in family, community, and culture.
+- Reflection on personal experiences with risk factors and community awareness of children’s needs.

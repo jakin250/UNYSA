@@ -1,0 +1,3701 @@
+# LPL4804 Study Notes
+
+## Unit 1: OVERVIEW OF THE SOUTH AFRICAN LAND REGISTRATION SYSTEM (Page 1)
+- **Introduction (Page 1)**
+  - Land registration as vital to property rights.
+
+- **Types of Land Registration Systems (Page 2)**
+  - Distinction between deeds registration, title registration, and other systems.
+
+- **South African Land Registration System (Page 2)**
+  - Lexis of the Deeds Registries Act (Act 47 of 1937).
+  - Role of the Registrar of Deeds.
+
+- **Summary (Page 10)**
+
+---
+
+## Unit 2: THE CONVEYANCER (Page 11)
+- **Introduction (Page 11)**
+  - Definition and importance of conveyancers.
+
+- **Origin of the Conveyancing Profession in South Africa (Page 11)**
+  - Historical context and evolution of the profession.
+
+- **The Contemporary Conveyancer (Page 12)**
+  - Skills and functions in modern legal practice.
+
+- **Summary (Page 28)**
+
+---
+
+## Unit 3: THE REGISTRAR OF DEEDS (Page 30)
+- **Introduction (Page 30)**
+
+- **Appointment of Registrars of Deeds (Page 31)**
+  - Qualifications and role of the Registrar.
+
+- **Duties of a Registrar of Deeds (Page 32)**
+  - Overseeing land registration and maintaining public records.
+
+- **Powers of the Registrar (Page 33)**
+  - Authority to approve or reject submissions.
+
+- **Registration Process (Page 35)**
+  - Steps for registering a property transfer.
+
+- **Summary (Page 39)**
+
+---
+
+## Unit 4: THE DEED OF TRANSFER (Page 40)
+- **Introduction (Page 40)**
+
+- **Analysis of the Deed of Transfer (Page 41)**
+  - Essential elements and legal requirements.
+
+- **Summary (Page 75)**
+
+---
+
+## Unit 5: SUPPORTING DOCUMENTS (Page 76)
+- **Introduction (Page 76)**
+
+- **Special Power of Attorney (Page 76)**
+  - Required for property transactions.
+
+- **Transfer Duty Receipt or Exemption Certificate (Page 100)**
+  - Tax implications on transfers.
+
+- **Rates Clearance Certificates (Page 102)**
+  - Assurance of no outstanding municipal debts.
+
+- **Consents (Page 103)**
+  - Necessary approvals for certain transactions.
+
+- **Insolvency and Solvency Affidavits (Page 106)**
+  - Confirmation of the financial status of parties.
+
+- **Supporting Documents Kept on File (Page 107)**
+
+- **Summary (Page 108)**
+
+---
+
+## Unit 6: SPECIAL TRANSFERS (Page 109)
+- **Introduction (Page 109)**
+
+- **Estate Transfers (Page 110)**
+  - Procedures for transferring inherited property.
+
+- **Partition Transfers (Page 126)**
+  - Division of jointly owned property.
+
+- **Expropriation Transfers (Page 135)**
+  - Government acquisition of private land.
+
+- **Transfers by Virtue of an Order of Court (Page 141)**
+
+- **Deeds of Grant (Page 143)**
+
+- **Summary (Page 145)**
+
+---
+
+## Unit 7: TRANSFERS OF OWNERSHIP BY VIRTUE OF ENDORSEMENT IN TERMS OF ACT 47 OF 1937 (Page 147)
+- **Introduction (Page 147)**
+
+- **Section 16 Proviso of Act 47 of 1937: Acquisition of Land by the State or Local Authority (Page 147)**
+
+- **Section 24bis(2): Dissolution of a Firm or Partnership (Page 150)**
+
+- **Section 25(3): Establishing the Identity of Children (Page 151)**
+
+- **Section 58(2): Reversion of Property to an Insolvent (Page 153)**
+
+- **Section 45: Transfer by Endorsement if One of the Spouses Dies (Page 156)**
+
+- **Section 45bis (1)(a): Transfer by Endorsement Where the Parties are Divorced (Page 160)**
+
+- **Section 45bis (1)(b): Transfer by Endorsement Due to a Court Order (Page 161)**
+
+- **Section 45bis (1A): Vesting in Both Former Spouses (Page 162)**
+
+- **Summary (Page 165)**
+
+---
+
+## Unit 8: SUBSTITUTED TITLES/CERTIFICATES OF REGISTERED TITLE (Page 166)
+- **Introduction (Page 166)**
+
+- **Procedure for Issuing Certificates of Registered Title (Page 166)**
+
+- **Section 34(1): Certificate of Registered Title of an Undivided Share (Page 168)**
+
+- **Section 34(2): Certificate for Lost or Destroyed Title Deed (Page 172)**
+
+- **Section 35: Aggregate Shares (Page 174)**
+
+- **Section 36: One or More Properties Under One Title (Page 175)**
+
+- **Section 38: Certificate for Lost or Destroyed Deed (Page 175)**
+
+- **Section 39(1): Correction of Registration Errors (Page 177)**
+
+- **Section 39(2): Omission of Non-Applicable Conditions (Page 178)**
+
+- **Section 43: Portion of Land Title (Page 179)**
+
+- **Section 40: Consolidated Title (Page 184)**
+
+- **Section 46(4): Township Title (Page 194)**
+
+- **Section 18: Registered State Title (Page 197)**
+
+- **Summary (Page 198)**
+
+---
+
+## Unit 9: TYPES OF MORTGAGE BONDS (Page 199)
+- **Introduction (Page 199)**
+
+- **Mortgage Bond (Page 199)**
+
+- **Collateral Bond (Page 217)**
+
+- **Surety Bond (Page 218)**
+
+- **Covering Bond (Page 219)**
+
+- **Debenture Bond (Page 220)**
+
+- **Kinderbewys Mortgage Bond (Page 220)**
+
+- **Substituted Bond (Page 221)**
+
+- **Judicial Mortgage (Page 222)**
+
+- **Indemnity Bond (Vrywaringsverband) (Page 222)**
+
+- **Kustingsbrief (Page 223)**
+
+- **Charges (Page 224)**
+
+- **Annuity Bond (Page 225)**
+
+- **Sectional Mortgage Bond (Page 227)**
+
+- **Notarial Bond (Page 227)**
+
+- **Participation Mortgage Bond (Page 227)**
+
+- **Summary (Page 228)**
+
+---
+
+## Unit 10: BOND CANCELLATIONS, RELEASES, CESSIONS, SUBSTITUTIONS AND VARIATIONS (Page 229)
+- **Introduction (Page 229)**
+
+- **Cancellation of Mortgage Bonds (Page 230)**
+
+- **Releases from Mortgage Bonds (Page 232)**
+
+- **Cession of Registered Mortgage Bonds and Cancellation of Cessions (Page 236)**
+
+- **Substitution of Debtor/Mortgagor by Endorsement (Page 242)**
+
+- **Part Payments (Page 251)**
+
+- **Reduction in Cover (Page 253)**
+
+- **Waiver of Preference (Page 254)**
+
+- **Agreements Varying Terms of a Bond (Section 3(1)(s) - Page 258)**
+
+- **Summary (Page 260)**
+
+---
+
+## Unit 11: SEQUENCE OF DEEDS AND MISCELLANEOUS APPLICATIONS (Page 261)
+- **Introduction (Page 261)**
+
+- **Significance of Section 14 (Page 261)**
+
+- **The General Rules (Page 262)**
+
+- **Transfer Duty on Intermediary Transfers (Page 268)**
+
+- **Diverse Applications and Endorsements (Page 270)**
+
+- **Applications in Terms of Administration of Estates Act (Page 283)**
+
+- **Summary (Page 288)**
+
+- **Conclusion and Integrated Case Study (Page 288)**
+
+---
+
+## GLOSSARY (Page 297)
+
+## BIBLIOGRAPHY (Page 302)
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## (vii)
+- **Ownership and Co-ownership**: Core principles of sectional title ownership.
+- **Sectional Titles Act**: Regulates:
+  - Control over rights of separate section ownership and common property.
+  - Transfer and registration of ownership of units.
+  - Registration of sectional mortgage bonds and real rights.
+  - Disposal and rights in common property.
+  - Creation of a body corporate for management of sectional title schemes.
+
+- **Real Rights Registration**: Registered in South African deeds registries; focus of this module is on conventional land.
+- **Study Resources**:
+  - Legislation/statutes, Registrars’ Conference Resolutions, Chief Registrar’s Circulars, case law.
+  - Tutorial letters and DVD resources for sale, mortgage, and transfer registration.
+- **Examination Focus**: Detailed study guidelines to be provided in Tutorial Letter 101.
+- **Glossary**: Definitions of subject-specific terminology available at the guide's end.
+
+## 1 UNIT 1
+### Overview of the South African Land Registration System
+
+#### 1. Introduction
+- **Conventional Land Registration**: A meticulous government process recording ownership and real rights through conveyancing. Publicity through delivery or registration is essential for ownership transfer.
+
+#### 2. Types of Land Registration Systems
+- **Positive System**:
+  - State guarantees accuracy of deeds register.
+  - Legality examination of documentation and transactions.
+  - Maintains a register of title linked to cadastral maps.
+  - Transfers occur through annotated register rather than new deeds.
+  - Liability for inaccuracies resides with the State.
+  - Example: **Torrens System (New Zealand, New South Wales)**.
+
+- **Negative System**:
+  - No State guarantees on deeds register accuracy.
+  - Records deeds face value; no prior legal examination.
+  - New deeds required for each transfer.
+  - Minimal State intervention; parties may insure rights.
+  - Example: **Dutch Land Registration System**.
+
+#### 3. South African Land Registration System
+- **Statutory Basis**: Governed by **Alienation of Land Act 68 of 1981** and **Deeds Registries Act 47 of 1937**. 
+- **Hybrid System**: Nominally negative, incorporates positive elements.
+
+- **Components**:
+  - **Deeds Registries**: Government offices registering real rights. Locations include Pretoria, Johannesburg, and others.
+  - **Conveyancers**: Attorneys specialized in conveyancing, requisite qualifications include passing the Law Society exam.
+  - **Land Surveyors**: Professionals with qualifications to identify and diagram land precisely for registration.
+  - **Surveyor-General’s Offices**: Maintain cadastral systems (maps and diagrams).
+  - **Local Authorities**: Require consent for land developments; must ensure payments of levies and rates prior to transfer registration.
+  - **State Departments**: May need to consent for registrations, especially under laws like the **Subdivision of Agricultural Land Act 70 of 1970**.
+
+### Diagrams
+- **Diagram 1.1**: Gridline coordinates representation.
+- **Diagram 1.2**: Subdivisional diagram with Surveyor-General annotations.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Overview of the South African Land Registration System
+
+- Participants:
+  - **South African Revenue Service (SARS)**: Proof of tax payment required for property transfer registration.
+  - **Property Developers**: Involved in township establishment and land subdivision.
+  - **Financial Institutions**: Finance land purchases, secure repayments via mortgage bonds.
+
+- **State Involvement**: Significant oversight in land registration.
+
+## Characteristics of Land Registration Systems
+
+### Positive System Characteristics
+- State examines documentation & transactions for legality.
+- Maintains a register of title.
+- Transfers executed via new deed of transfer (s16).
+- Linked to a cadastral system of maps.
+- Preventive State liability for shortcomings in specific situations.
+
+### Negative System Characteristics
+- No guarantees on the accuracy of the State register.
+- Liability from the State limited to extraordinary circumstances.
+- Over-reliance on deeds registry data despite lack of State guarantee.
+
+- **Hybrid System**: South Africa's system reflects attributes of both positive and negative systems, securing title without guaranteeing correctness.
+
+### Key Cases
+- **Barclays Nasionale Bank Bpk v Registrateur van Aktes**: Transfer did not terminate mortgagee’s rights.
+- **Standard Bank v Breitenbach**: A missing bond endorsement was still valid once registered.
+- **Legator McKenna Inc v Shea**: Abstract theory of ownership applies; real agreements take precedence over defective original causes.
+
+## Title Validity Issues 
+- Registration does not ensure valid title. Example:
+  - Expropriated land not reflecting current ownership until registered.
+  
+### Legal Interpretations
+- Incorrect or incomplete titles do not negate bona fide purchasers' rights.
+- State liability under **section 99 Deeds Registries Act 47 of 1937**: Claimants must demonstrate loss from negligence or intentional misconduct by Registry officials.
+
+## Public-Private Partnership in Land Registration
+- **Conveyancer's Role**: Manages financial transactions, ensures legal compliance, coordinates with multiple parties (sellers, buyers, banks, authorities).
+- **Registrar of Deeds**: Ensures compliance and registrability of deeds.
+
+## Example Transaction Dynamics
+- **Scenario**: Sale of mortgaged property with simultaneous loan and bond registration from multiple banks.
+- Important Elements:
+  - Valid deed of sale (s2(A) Alienation of Land Act 68 of 1981).
+  - Cancellation of existing mortgage bonds before transfer.
+  - Coordination among financial institutions and local authorities.
+
+## Conclusion
+- The South African land registration system, despite being nominally negative, is reliable and widely used by third parties.
+- Emphasis on thorough verification processes and the importance of a well-coordinated conveyancing process. 
+
+## Future Units Exploration
+- Units 2-3: Duties of conveyancers and Registrars.
+- Units 4-11: Ownership transfers, documentation, contractual capacity, mortgage bonds, and transaction sequencing.
+
+*(Note: Reference legislation, sections, and associated court cases throughout notes for detailed understanding.)*
+----- END OF FILE -----
+# LPL4804/1  
+## UNIT 2: The Conveyancer
+
+### 1. Introduction
+- Understand conveyancer qualifications and duties.
+- Integration of knowledge from previous unit on financial management and obligations.
+- Key Questions:
+  - Requirements to become a conveyancer.
+  - Who can act as a conveyancer, prepare deeds, and lodge them?
+  - Duties per **Regulations 43 & 44A of the Deeds Registries Act 47 of 1937**.
+  - Differences in deed preparation between conveyancers, attorneys, and notaries.
+  - General format requirements for deeds in deeds registry.
+
+### 2. Origin of the Conveyancing Profession in South Africa
+- **Late 17th Century**: Transferors engaged State Secretary's office for land registration.
+- **19th Century**: Establishment of deeds registries across regions (e.g., Pietermaritzburg, King William’s Town).
+  - Transition from provisional titles to official deeds due to legislative developments.
+- **Cape Ordinance No. 14 of 1844**: Shifted deed preparation to legal professionals, leading to specialised conveyancers.
+
+### 3. The Contemporary Conveyancer
+
+#### 3.1 What Does It Take to Be a Conveyancer in the Republic of South Africa?
+- **Section 102, Deeds Registries Act 47 of 1937**: Defines conveyancer as practicing in the Republic, including certain Transkeian attorneys.
+- **Legal Practice Act 28 of 2014**: Defines conveyancer; requires attorney admission and passing of national exams by the Legal Practice Council.
+- Requirements for a conveyancer:
+  - Specialisation in deed preparation.
+  - Pass additional exams.
+  - High Court admission and electronic enrollment in the deeds registry as per **Regulation 16 of the Deeds Registries Act 47 of 1937**.
+
+#### 3.2 Duties of the Conveyancer
+- **Diagram Reference**: Conveyancer's duties overview.
+
+##### 3.2.1 Ensure Valid Agreement of Sale of Land (Deed of Alienation)
+- **Section 2(1) Alienation of Land Act 68 of 1981**: Requires agreements in a deed of alienation.
+- Case references: 
+  - **Thorpe NNO v Trittenwein (2006)**: Validity of sales and trustee actions.
+  - **Legator McKenna Inc v Shea (2010)**: 
+  - **Section 28(2)**: Validates alienations despite non-compliance if transfer is registered.
+
+##### 3.2.2 Manage Financial Matters and Transaction Process
+- Responsibilities include:
+  - Ensure adequate funds/guarantees cover purchase costs.
+  - Ensure purchase price sufficient to settle existing bonds.
+  - Verify transfer duty and related fees are paid.
+  - Provide undertakings for seller's obligations upon registration.
+  - Present guarantees for collection on registration date.
+
+##### 3.2.3 Prepare Deeds and Documents and Take Responsibility for Correctness of Facts
+- Preparation involves thorough checking of contents and certifying correctness.
+  - **Section 15A(1)** and **Regulation 44(A)**: Place responsibility on conveyancer, relieving Registrar from fact-checking.
+  - **Section 15, Deeds Registries Act 47 of 1937**: Mandates conveyancer preparation for various deed types.
+
+### Conclusion
+- Conveyancers play a critical role in managing property transactions, ensuring compliance with legal provisions, and facilitating effective conveyancing practices.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 3.2.3 Conveyancer Responsibilities and Deeds Preparation
+
+- **Initialing Requirements (reg 43(2))**
+  - Conveyancer must initial all alterations and every page of non-signature deeds.
+  - Responsibility for correctness necessitates initialing to verify information.
+  - Minor errors may allow the executing conveyancer to initial amendments (per Registrar’s discretion).
+
+- **Material Alterations (reg 44(2))**
+  - Must be initialed by the preparer:
+    - Changes to names, identity numbers, marital status of transferor/mortgagor
+    - Date of sale, property description, purchase price, mortgage amount
+  - Registrar determines if changes are minor or material.
+
+- **Documents for Registration**
+  - Must be prepared by either:
+    - Attorney, Notary, or Conveyancer
+    - Includes power of attorney, applications, consent to registration, partition agreements (Deeds Registries Act 47 of 1937).
+  - Preparer accepts accountability for correctness (reg 44A, section 15A(1)(2)).
+
+## 3.2.4 Types of Deeds
+
+- **Deeds Prepared by Conveyancer**
+  - Deed of transfer, partition transfer deed, cession of mortgage bond, mortgage bond, application for correction.
+
+- **Deeds Prepared by Attorney/Notary/Conveyancer**
+  - Partition agreement, power of attorney, consent to cancellation of a bond, cession of notarial bond.
+
+- **Preparation Clause Signing**
+  - Only conveyancers generally sign preparation clauses.
+  - Attorney/notary signatures must be countersigned by a conveyancer.
+
+## 3.2.5 Liability and Responsibility in Deeds
+
+- **Section 15A and Regulation 44A Responsibilities**  
+  - Upon signing preparation certificate, conveyancer is responsible for:
+    - Accuracy of document facts.
+    - Identical copies on lodgement date.
+    - Correctly carrying forward township conditions from previous deeds.
+    - Confirming representative signatories are authorized.
+    - Ensuring correct reflective identities and marital statuses.
+
+- **Registrar of Deeds Responsibilities (Section 15A(3))**
+  - Assumes facts signed by preparer are conclusively proved unless prima facie incorrect.
+  - Duties align with conveyancers’ to create an effective registration system.
+
+## 3.2.6 Deed Format and Compliance (reg 20)
+
+- **Lodgement Requirements**
+  - Use of good quality A4 paper.
+  - Specific blank spaces and margin rules.
+  - Dark ink for clarity and minimum font size of 2 mm.
+  - Initials required on changes.
+  - Originals lodged in government offices must be certified.
+
+## 3.2.7 Linkage of Deeds for Registration
+- Separate lodging covers for each transaction, can be linked for simultaneous registration (reg 63(3)).
+- Commonly used codes for transactions:
+  - T: Deeds of transfer, titles
+  - B: Mortgage bonds
+  - PA: Powers of attorney
+  - H: Antenuptial contracts
+  - VA: Copies of lost deeds
+
+- **Example of Linked Transactions**
+  - Mortgaging property for sale linked to mortgage bond registration, indicated on lodgement covers.
+
+---
+**Note**: Ensure to consult specific sections and regulations for detailed operational framework and definitions related to each document type and respective responsibilities.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Page 23-28
+
+### Chapter 3: Conveyancing Process
+
+#### 3.2.5 Lodge deeds
+- **Simultaneous Lodgement**: 
+  - Required when conveyancers finalize financial arrangements and transaction processes.
+  - Involves communication among conveyancers for transactions such as bond cancellations or new mortgages.
+  - All deeds must be ready to lodge simultaneously; if one is unready, the whole batch is rejected.
+  
+- **Legislation**:
+  - Regulation 45(1) stipulates that deeds, bonds, and powers of attorney must be lodged by conveyancers at the deeds registry.
+  - Exceptions: Government department representatives may lodge documents without being conveyancers (subject to Registrar's approval).
+
+- **Tracking System**:
+  - DOTS (Deeds Office Tracking System) implemented for monitoring lodged deeds.
+  - Involves bar-coded stickers on lodgement covers, allowing tracking through the registration process.
+
+#### 3.2.6 Execute and register deeds
+- **Registration Process**:
+  - After 5-6 working days (reg 45(3)), deeds are reviewed by conveyancers for amendments based on deeds examiner's notes.
+  - Corrections must be finalized within three days before registration.
+  
+- **Execution**:
+  - Conveyancers sign deeds in the presence of the Registrar of Deeds.
+  - Registrar's signature signifies registration (s 13(1) of the Act).
+
+#### 3.2.7 After registration
+- **Post-Registration Duties**:
+  - Conveyancers inform clients of registration.
+  - Payment guarantees and undertakings are processed.
+  - Registered deeds are returned after sealing and recording.
+  - Title deeds provided to clients or relevant parties (e.g., bondholders).
+
+### Summary of Conveyancer's Role
+- **Definition**: An admitted attorney specialized in conveyancing after passing national exams and being registered.
+  
+- **Duties**:
+  - Ensure validity of alienation.
+  - Manage overall process, especially finances.
+  - Prepare deeds and guarantee correctness of records in compliance with section 15A and regulation 44A.
+
+### Important Case Law and Legislation References
+- **Act**: Refer to specific sections mentioned (e.g., s 5, s 13(1)).
+- **Regulations**: 
+  - Regulation 45(1) regarding lodgement by qualified individuals.
+  - Regulation 45(3) regarding timelines for registration activities. 
+
+*(Note: The examples of bond cancellation and registration lodgement covers mentioned on pages 23-24 are referenced for context but not included in dense text.)*
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Table of Contents
+- **UNIT 3**
+  - 1. Introduction
+  - 2. Appointment of Registrars of Deeds
+  - 3. Duties of a Registrar of Deeds
+  - 4. Powers of the Registrar
+
+---
+
+### UNIT 3
+
+#### 1. Introduction
+- Historical progression of registration: Initially by State Secretaries, evolved through various roles to the current Registrar of Deeds established by *Cape Ordinance No. 39 of 1828* and expanded under *Deeds Registries Act 47 of 1937*.
+- Key provisions:
+  - Appointment of Chief Registrar, Registrars, and Deputy Registrars (*s 2*)
+  - Duties of the Registrar (*s 3*)
+  - Powers of the Registrar (*s 4*)
+
+#### 2. Appointment of Registrars of Deeds
+- Diagram Reference: Management structure of the Deeds Registries.
+- Required qualifications (per *s 2 of Deeds Registries Act 47 of 1937*):
+  - Diploma Juris or equivalent.
+  - Proven expertise or capacity to perform duties.
+  
+#### 3. Duties of a Registrar of Deeds
+- *Section 3 Duties*:
+  - **Take charge of records** (*s 3(1)(a)*).
+  - **Examine deeds** (*s 3(1)(b)*): 
+    - Verify legal compliance and endorse relevant documents.
+    - Update records.
+  - **Record interdicts** (*s 3(1)(w)*): 
+    - Maintain court notices and related documents.
+  - **Keep registers**: 
+    - Ensure compliance with the Act via efficient land registration systems.
+  - **Access to public registers** (*s 7(1)*): 
+    - Allow inspections and copies under prescribed conditions.
+  - Additional responsibilities: 
+    - Register government grants, mortgages, cessions, and comply with directives from the Chief Registrar (*s 3(1)(j)-(p)*).
+
+#### 4. Powers of the Registrar
+- *Section 4 Powers*:
+  - **Proof requirements** (*s 4(1)(a)*): May demand specific proof for registration.
+  - **Rectification powers** (*s 4(1)(b)*): Correct errors in registered documents.
+  - **Certified copies** (*s 4(1)(c)*): Issue certified versions of documents.
+  - **Obtain replacements** (*s 4(1)(d)*): For illegible or unserviceable documents.
+  - **Court reports** (*s 97(1)*): Submit reports concerning Deeds Registry acts.
+- The Registrar operates as a semi-judicial officer, focusing on civil law, and is not liable for damages unless actions are mala fide or negligent (*Section 99*). 
+
+--- 
+
+*Note: Ensure to reference the sections of the *Deeds Registries Act 47 of 1937* for detailed legislative context.*
+----- END OF FILE -----
+### 4 UNIT 4: The Deed of Transfer
+
+#### 1 Introduction
+- **Deed of Transfer Purpose**
+  - Primary means for transferring land ownership.
+  - Section 16 of the Deeds Registries Act: Ownership of land transferred by deed of transfer unless exceptions apply.
+  
+- **Key Questions:**
+  - Purpose of a deed of transfer.
+  - Prescribed clauses in a standard deed.
+  - Significance of various clauses.
+  - Drafting key clauses and operative parts.
+  - Incorporation of conditions in a deed of transfer.
+  - Definition of "owner" of land.
+  - Description requirements for transferor/transferee.
+
+#### Exceptions in the Deeds Registries Act
+- **Ownership Transfer Alternatives:**
+  - **Deed of Grant:** Transfer from the State.
+  - **Section 16 Endorsement:** Expropriation transfer.
+  - **Section 33 Endorsement:** Court-ordered transfers.
+  - **Section 25(3) Endorsement:** Transfers to unascertained children.
+  - **Section 45(1) Endorsement:** Transfers to surviving spouses.
+  - **Section 45bis Endorsements:** Transfers after divorce or change in property regime.
+  - **Section 58(2):** Transfers from insolvent estates.
+  - **Withdrawal:** Expropriation notices under Section 31(7).
+  - **Dissolution of Firms:** Section 24bis(2) provisions.
+
+---
+
+### 5 Registration Process
+
+#### 5.1 Day 1
+- **Lodgement Process:**
+  - Conveyancer lodges documents with a slip at the Deeds Registry.
+  - Documents may undergo pre-linking if multiple conveyancers involved.
+  - Scanned into the Deeds Office Tracking System (DOTS).
+
+#### 5.2 Day 2
+- **Deeds Examination:**
+  - Examined by deeds examiners.
+  - Endorsements on deeds indicating necessary checks for interdicts.
+  - Non-compliance leads to registration denial.
+
+#### 5.3 Day 3
+- **Second Examination:**
+  - Chief Deeds Examiners review for compliance and registrability.
+  - Decisions recorded on lodgement covers.
+
+#### 5.4 Day 4
+- **Monitoring by Assistant Registrar:**
+  - Tests compliance with examination notes.
+  - Incorrectly rejected deeds can be reinstated.
+
+#### 5.5 Day 5
+- **Compliance with Notes:**
+  - Conveyancers required to respond to examiners’ notes.
+  - Failure to comply results in rejection.
+
+#### 5.6 Days 6–9
+- **Final Checks:**
+  - Conveyancer submits for “black booking” and execution.
+  - New interdicts checked; compliance leads to registration.
+
+#### 5.7 Day 7
+- **Execution Process:**
+  - Deeds scanned, numbered, sealed, and dated.
+  - Seal of office used by Registrar serves as authentication.
+
+#### 5.8 Days 8–9
+- **Data Capture:**
+  - Registered information captured in the Deeds Registry database.
+
+#### 5.9 Day 10
+- **Final Instructions:**
+  - Address any specific instructions from deeds examiners.
+
+#### 5.10 Days 11–13
+- **Delivery Process:**
+  - Copies captured on microfilm or computer.
+  - Registered deeds delivered to conveyancer.
+
+### 6 Summary
+- Role understanding of conveyancers and Registrar of Deeds.
+- Familiarity with the registration process concerning negative/positive systems.
+- Preparedness for detailed analysis of specific conveyancing deeds, particularly the deed of transfer.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Chapter 2: Analysis of the Deed of Transfer
+
+### 2.1 Introduction
+- **Legislation**: Section 20 of the Act mandates a deed of transfer is to be drawn in prescribed forms; minor deviations allowed (reg 82).
+- **Forms of Deed**:
+  - **Form E**: Sales, donations, inheritance (most common).
+  - **Form F**: Partition transfers.
+  - **Form G**: Expropriation transfers.
+  - **Form H**: Transfers by court order.
+  - **Form DDD**: Transfers under specific Acts.
+
+### 2.2 Prescribed Form: FORM E
+
+### 2.3 Discussion of Component Clauses
+- **Preparation Clause (Certificate)**:
+  - Indicates the conveyancer's responsibility (reg 43).
+  - **Legislation**: Section 15 prohibits registration unless prepared by a conveyancer.
+  - Exceptions exist for entities like SANRAL.
+
+- **The Heading**: Title indicating the nature of the deed (e.g., “Deed of Transfer” or “Partition Transfer”).
+
+- **The Preamble**:
+  - Identifies conveyancer's details, transferor's name, identity number, and power of attorney specifics.
+  - **Legislation**: Section 20 states deeds must be executed by the landowner or authorized conveyancer.
+
+- **Definition of Owner**:
+  - **Registered Owner**: Includes owners with specific legal roles such as trustees, liquidators, and executors (§ 102).
+  - **Marriage Implications**: Joint ownership in community property scenarios affects ownership designation.
+
+- **Case Reference**: *Gumede v President of the Republic of South Africa* 2009 (3) BCLR 243 (CC) - implications for customary marriages' property regimes.
+
+### 2.3.4 The Recital
+- Purpose: Provides the cause of the transfer to assess registrability.
+- Examples of causes:
+  - Sale
+  - Donation
+  - Succession
+  - Exchange
+  - Rectification
+- Recitals must be concise and specific to the nature of the transaction.
+
+#### 2.3.4.1 Sale Definition
+- Recital must reflect clear intent of sale and include transaction dates for legal clarity regarding ownership and insolvency implications.
+
+### 2.3.6 Notes on Multiple Owners
+- **Ownership Transfer**:
+  - Co-owners may transfer shares in a single deed (s 24(2)).
+  - Separate deeds required for distinct properties owned separately by different parties.
+- **Sequential Transactions**: Section 96 allows continuous transactions by a recognized party, simplifying registration processes.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+### 2.3.4 Transfer of Land
+
+#### 2.3.4.1 Sale and Deceased
+
+- Mention if the buyer died before registration.
+- Recital example:
+  - “The deceased Ben Claasen did... purchase the property...”
+
+#### 2.3.4.2 Donation
+
+- Pre-1982 donations require acceptance reference in the deed.
+- Post-1982: No acceptance reference needed as per **section 2(1) Alienation of Land Act 68 of 1981**.
+
+#### 2.3.4.3 Succession
+
+- Recital facts:
+  - Date of testator's death.
+  - Mode of inheritance (testate/intestate).
+  - Statement of entitlement (e.g., redistribution agreement).
+  - Handling of testamentary conditions.
+
+#### 2.3.4.4 Exchange
+
+- Recital must disclose land exchanged and title deed reference.
+- Simultaneous registration of both deeds typically expected.
+
+#### 2.3.4.5 Rectification
+
+- **S 4(1)(b)** provides simple procedure for minor deed errors.
+- Major errors require a rectification transfer with full recital disclosure.
+- Example of recital format in **Bester v Schmidt Bou Ontwikkelings CC**.
+
+### 2.3.5 The Vesting Clause
+
+- Description includes:
+  - Natural persons: Name, ID number, marital status.
+  - Local authorities/corporations: Name, registration number.
+  - Transfers to trustees or office bearers: “successors in office or assigns”.
+
+### Deed of Transfer: Descriptions of Persons
+
+#### A. Transferor
+
+1. **Unmarried Person**  
+   - Example: Kate Smith, Identity number...
+   
+2. **Divorced/Widowed**  
+   - Example: Kate Smith, Identity number...
+
+3. **No Valid ID**  
+   - Example: Cameron Campher, Born on 7 September 1952...
+
+4. **Incorrectly Reflected ID**  
+   - Example: Simona Partridge...
+
+5. **Married in Community of Property**  
+   - Example: Marius Lionhart and Lina Lionhart...
+
+6. **Civil Partnership in Community**  
+   - Example: John Smith and Peter Jones...
+
+7. **Community Property Exclusion**  
+   - Example: Andrew Evans...
+
+8. **Married Out of Community**  
+   - Example: Samantha Stephens...
+
+9. **Married Out of Community (Both Names)**  
+   - Example: George Michaels and Beatrix Michaels...
+
+10. **Individual Transfer in Out of Community Marriages**  
+    - Example: Note under section specifics...
+
+11. **Unequal Shares in Property**  
+    - Example: Adrian Taljaard and Patricia Taljaard...
+
+12. **Name Change Post-Registration**  
+    - Example: Denise Jacobs...
+
+13. **Hindu or Muslim Marriages**  
+    - Example: Nizaam Pillay...
+
+14. **South African Customary Marriages**  
+    - Joint or separate descriptions as per Act 120 of 1998...
+
+### Notes:
+- Ensure clarity in detailing both transferor and transferee.
+- Reference relevant acts and case law consistently for accuracy.
+----- END OF FILE -----
+# LPL4804/1 Legal Study Notes
+
+## 1. Transferor and Transferee Descriptions
+### 1.1 Persons Married Under Foreign Laws
+- **Registration of Property**  
+  - Property in name of one party:  
+    - **Yo Yang** (Identity No. ......) married under **Chinese** laws, assisted by **Ding Yang**.
+  - Property in name of both spouses:  
+    - **Jeff Connor** (Identity No. ......), married under **Texas, USA** laws, assisted by **Ethel Connor**.  
+    - **Ethel Connor** (Identity No. ......), married under **Texas, USA** laws.
+
+### 1.2 Example of Multiple Transferors/Transferees
+- **Transferors and Their Share**  
+  - **John Brown** (Identity No. ......), unmarried, **½ share**.  
+  - **Mabel Syrup** (Identity No. ......), widow, **¼ share**.  
+  - **Merry Maverick** (Married under **Spanish** laws), **¼ share**.
+
+### 1.3 Minors
+- **Under Age 7**  
+  - **Nigel Major** (Identity No. ......), unmarried minor, parents **John** and **Sarah Major**.
+- **Ages 7 and Older**  
+  - **Hans Little** (Identity No. ......), unmarried minor, assisted by parents **Linus** and **Linda Little**.
+
+## 2. Property Transfers in Specific Scenarios
+### 2.1 Property to Future Children
+- **Bequest Description**:  
+  - Property to children of **Claud Clemens**, in trust for them.
+
+### 2.2 Transfer of Bare Dominium and Usufruct
+- **Wally Forsman** (Bare owner) and **Landi Rose** (Usufructuary), both involved in property transfer.
+
+### 2.3 Fiduciary and Heir Transfers
+- **Fiduciary**: **Milas Maposa** (Identity No. ......), unmarried.  
+- **Fideicommissary Heir**: **Raymond Maposa** (Married out of community), involved in property transfer.
+
+## 3. Deed of Transfer: Descriptions for Juristic Persons
+### 3.1 Partnership
+- **Power of Attorney**:  
+  - Description varies by transaction; partners must sign if membership changes.
+- **Example**:  
+  - **Carel Combrink**, partnership with **Anna Anderson** and **Bennie Bookbank**.
+
+### 3.2 Company
+- **Company Citation**: Refer to **Chief Registrar’s Circular 28/2013** for details.  
+- **Example**:  
+  - **Sunrise (Pty) Ltd 1997/011234/07** in power of attorney and deed.
+
+### 3.3 Liquidation Status
+- **In Power of Attorney**:  
+  - Trustee **James Jones**, reference to **Down the Drain (Pty) Ltd** in liquidation.
+
+### 3.4 Close Corporation
+- **Power of Attorney**:  
+  - **Dorian Fabian** authorized by **Fabian Fabrics CC 1992/112345/23**.
+
+### 3.5 Inter Vivos and Mortis Causa Trusts
+- **Power of Attorney and Deed**:  
+  - Trust identified as **Fantastic Family IT 1234/93 C**, with trustees for the time being. 
+
+### References
+- **Chief Registrar’s Circulars**: Key for company and partnership citations.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Page 59
+
+### Trusts
+- Mortis causa trust: created in a will; no assigned name.
+  - **Legislation**: Chief Registrars Circular 17/2014.
+  - Trusts registered post 15/09/2014 require a suffix for Master’s Office identification (e.g., IT 123/2015 B).
+
+### Powers of Attorney 
+- Example: John Smith authorized by trustees of the late Pieter Pankop’s estate.
+- Deed reference follows power of attorney format.
+
+---
+
+## Page 60
+
+### Deed of Transfer: Descriptions in Representative Capacity
+#### 1. General Power of Attorney
+- Authorised: Jane Fondness, granted by Sarah Matthews.
+
+#### 2. Special Power of Attorney
+- Authorised: Manette Cilliers, for a specific transaction.
+
+#### 3. Curator Bonis
+- Authorised: San Bona, letters of curatorship for Thandile Ndlovu.
+
+#### 4. Sheriff of the Court
+- Example: Neels Jansen, as Sheriff in Boksburg or Johannesburg.
+
+---
+
+## Page 61
+
+### Deed of Transfer: Deceased or Insolvent Estates
+#### 1. Single Deceased Estate
+- Executor: John Jones in the estate of Danny Done.
+
+#### 2. Married in Community of Property
+- Executor: John Jones as executor; surviving spouse not joined as transferor (s 21 Act 37 of 1947 disregarded).
+
+#### 3. Surviving Spouse as Executor
+- Example: Raynier Raphado, surviving spouse and executor of Miriam Raphado.
+
+#### 4. Joined Transferor (s 21 Act 37 of 1947 applies)
+- Example: Wikes Marais, executor of Sanusha Naidoo; Jana Naidoo as surviving spouse.
+
+---
+
+## Page 62
+
+### Continued: Deceased or Insolvent Estates
+#### 5. Both Spouses Deceased
+- Executors: Sarel Smit and Roda Rademan, estates of Pieter and Katrina Heyns.
+
+#### 6. Trustee in Insolvent Estate
+- Authorised: Victor Viscous, trustee of Down Andout.
+
+--- 
+
+## Page 63
+
+### Key Considerations
+- Ensure compliance with statutory requirements when preparing deeds of transfer.
+- Understanding the dual nature of transferor and transferee roles in estates.
+
+---
+
+## Overview
+- Note the importance of the nature of representative authority, the distinction in roles governed by legislation, and the varying requirements based on the party's status in transactions involving trusts, estates, and powers of attorney. 
+
+### Diagram References
+- **References to charts/diagrams** indicating the flow of authority and responsibilities would be beneficial for visual learners.
+----- END OF FILE -----
+### LPL4804/1 Law Study Notes
+
+---
+
+#### 2.3.6 The Property Clause
+
+- **Definition:** Contains information about the land being transferred.
+  
+##### 2.3.6.1 A Full Description of the Land
+- Must include registered number, portion number, or remaining extent (reg 28(1)(b)).
+- Must use “share” for undivided shares; however, transfers of defined portions are not registrable (s 24(1)).
+- No references in deeds to buildings or other properties attached to the land (reg 28(2)).
+
+##### 2.3.6.2 The Situation of the Land
+- Must mention registration division, administrative district, and province (reg 28(1)(a)).
+- Examples:
+  - Erf: **Erf 38 Delmas township, Registration Division K R, Province of Mpumalanga**
+  - Farm: **The farm Rooivallei 278, Registration Division JP, Province of Gauteng**
+
+##### 2.3.6.3 The Extent or Area of the Land
+- Extent must be in words and figures (reg 29).
+  - Examples:
+    - 3,5076 hectares (THREE COMMA FIVE ZERO SEVEN SIX)
+    - 8 565 square metres (EIGHT FIVE SIX FIVE)
+- Transfers of multiple pieces/portions must describe each separately (s 22(2)-(3)).
+
+---
+
+#### 2.3.7 The Extending Clause
+
+- **Purpose:**
+  - References diagram/general plan approved by Surveyor-General for land location and boundaries.
+  - Indicates title under which the land was held at the time of the deed execution.
+
+- **Forms:** Prescribed by reg 26 and forms TT and UU.
+
+---
+
+#### Ownership Transfer Regulations
+
+- Section 23(1): Land held by one can be transferred to multiple persons in undivided shares via one deed.\  
+- Section 23(2): Land held by multiple persons can be transferred to any individual in undivided shares by one deed.
+- Treat equal share acquisitions as presumed unless stated otherwise; unequal shares must be explicitly stated.
+- Undivided shares across different properties cannot be transferred to one transferee with unequal portions in the same deed (s 23bis).
+
+---
+
+#### Identification of Natural Persons in Deeds (reg 18)
+
+- Must include name and identity number or birthdate if ID incorrect.
+- Must indicate marital status unless representing someone else.
+
+##### Examples:
+- Suzy Smith: **Identity number xxxxxx, married (community property excluded by a will condition).**
+- Sophia Mtwetwe: **Identity number 650409 0023 056, Unmarried (mentally ill).**
+- John Peters & Jim Jones in partnership: **Identify with marital status included.**
+
+---
+
+### Legislation and Cases
+
+- **Deeds Registries Act**: Key legislation governing the transfer and registration of property.
+- **Regulation 28, 29**: Specific requirements for property description and extent.
+- **Section 23, 24, 22**: Rules governing transfer procedures and undivided shares.
+
+--- 
+
+#### Diagram References
+- Mentioned for property descriptions and extending clauses related to cadastral information system.
+
+--- 
+
+This structured format condenses important legal principles without examples and activities, maintaining key legislation and clarity.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.3.7 Deeds of Transfer
+
+### 2.3.7.1 As a Diagram or Original Deed
+- New land registration must appear on an approved diagram by the Surveyor-General or a general plan. 
+- Extending clause examples:
+  - **First Transfer:** Deed of transfer T 3729/1993, diagram SG Number A 1711/92 annexed.
+  
+### 2.3.7.2 As Subsequent Deed of Transfer
+- Extending clause examples:
+  - First transferred by deed T 3729/1993, with diagram SG 1711/92 annexed and held by deed T 43165/2002.
+- If the diagram number is not in the preceding deed, it’s unnecessary to repeat it (See footnote to form UU).
+
+## 2.3.8 The Conditional Clause
+- Contains conditions applicable upon transfer registration.
+- Must include registered real rights and restrictive conditions but not all applicable conditions.
+- Endorsed conditions on title must be checked.
+- New conditions must be consolidated into the conditional clause but may be annexed in rare instances (reg 35(5)).
+- No conditions imposing duties on Registrar unless sanctioned by law (reg 35(6)).
+- Conditional clauses containing terms from prior deeds must mirror original wording and order.
+
+## 2.3.9 The Divesting Clause
+- Declares previous owner divested.
+- Simplifies reference to marital status (e.g., “married as aforesaid”).
+- Specific requirements when the transferor is an estate (reg 50(2)(c)).
+- Omit state rights reservation if transferred to the Republic (reg 35(1)(f)).
+
+## 2.3.10 The Consideration Clause
+- Must state value or purchase price in the deed.
+- If transfer duty differs from purchase price due to various reasons, must be disclosed in the clause.
+
+## 2.3.11 The Execution Clause
+- Records act of execution before the Registrar (s 3(1)(d)).
+- Ownership passes upon Registrar's attestation unless in batches (s 13(1)).
+- Full execution date included in the clause.
+
+## 3 Summary
+- The deed of transfer transfers land and serves as proof of ownership post-registration.
+- Transferor must be the lawful owner with the capacity to transfer.
+
+## 5 Supporting Documents
+
+### 1 Introduction
+- Discusses documents necessary with the ordinary deed of transfer.
+- Key focus: required supporting documents and their purposes.
+- Essential documents include:
+  - Current deed of transfer
+  - Special power of attorney for the conveyancer
+  - Transfer duty receipt/exemption certificate
+  - Rates clearance certificate
+  - Necessary consents or proofs of compliance
+  - Solvency affidavits
+
+### 2 Special Power of Attorney
+- Written authority for representation in performing juristic acts.
+- Conveyancer acts on behalf of the owner (transferor).
+- All deeds of transfer must be executed per the Deeds Registries Act unless specified otherwise.
+----- END OF FILE -----
+# LPL4804/1 Legal Study Notes
+
+## 2. Deeds of Transfer and Special Power of Attorney
+
+### 2.1 Execution of Deeds of Transfer
+- **Deeds of Transfer** may only be executed by:
+  - Owner in person
+  - Conveyancer authorized via power of attorney
+- **Practicality**: Most transfers utilize a special power of attorney due to owner in-person attendance challenges
+
+### 2.2 Analysis of a Special Power of Attorney
+- **Legislation**: 
+  - No prescribed form per Regulation 65(3) 
+  - Must include:
+    - Clear description of land
+    - Registered number of property (if applicable)
+    - Serial number and year of holding deed
+    - Disposal date for land transfer
+
+- **Power of Attorney Elements**:
+  - **Preparation Clause**: Required, signed by practicing attorney or notary and countersigned by a conveyancer (Reg 44).
+  - **Preamble**: Identifies transferor’s details (name, ID, marital status) and must accurately describe entities involved.
+  - **Causa/Recital**: Background and intention for the transfer.
+  - **Transferee Identification**: Name and description.
+  - **New Registrable Conditions**: Relevant conditions attached to the transfer.
+  - **Execution Clause**: Finalizing the document.
+
+### 2.2.1 Preparation Clause or Certificate
+- Must include a signed certificate from a practicing attorney/notary.
+- **Responsibility**: Preparer ensures accuracy regarding facts (Reg 44A).
+
+### 2.2.2 Preamble Requirements
+- **Natural Person**: Full names, identity number, date of birth, marital status.
+- **Entity/Other**: Full name and registration number.
+- **Executor of Deceased Estate**: Must cite evidence from the letter of executorship (Legator McKenna Inc v Shea 2010 (1) SA 35 (SCA)).
+- **Matrimonial Property Act 88 of 1984, Section 15(2)**: Consent required from spouse for transfers involving immovable property.
+- **Error Correction**: Requires consent and initial from grantors for minor amendments.
+
+### 2.2.2.1 Transferor Categories
+- **Married/Civil Union Partners**:
+  - **Out of Community**: Full contractual capacity (Matrimonial Property Act).
+  - **In Community**: Limited capacity; consent from both spouses required for immovable property transactions.
+
+- **Foreign Marriages**: 
+  - Governed by husband’s domicile law (Frankel’s Estate v The Master).
+  - Spousal assistance may be required unless waived by Registrar (Section 17(6) of the Deeds Registries Act).
+
+- **Customary Marriages**:
+  - **Recognition of Customary Marriages Act 120 of 1998**: Ensures equal status, rights, and obligations.
+  - **Prior to Act**: Distinction made until **Gumede v President** found unconstitutional, deeming polygamous unions in community property postact.
+
+### 2.2.2.2 Additional Notes on Customary Marriages
+- **Further Marriages Post-Act**: Requires court approval and compliance with established property agreements.
+- **Polygamous Relationships**: Must comply with requisite court-sanctioned agreements; described accordingly in deeds and documentation.
+
+---
+
+*Note: Case references and specific regulations have been highlighted for quick reference.*
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.2.2 Transferors
+
+### 2.2.2.1 A spouse married under customary law as transferor
+- If marrying again, court approval required for new proprietary contract.
+- New contract supersedes previous; must uplift previous interdict.
+- Deed description must comply with **Section 17(2) Deeds Registries Act 47 of 1937**.
+- Spouse in monogamous marriage (in community of property) with subsequent customary marriage:
+  - Valid if court application under **Section 7(6) Recognition of Customary Marriages Act 120 of 1998** is made, otherwise treated as marriage out of community of property.
+
+### 2.2.2.2 A divorced person as transferor
+- Full contractual capacity equivalent to unmarried major.
+- Divorce order may award property, noted as a caveat against the property.
+
+### 2.2.2.3 A minor as transferor
+- No capacity if under seven; others may act on their behalf.
+- Limited capacity for ages 7-18; parental/guardian assistance required.
+- **Section 80(1) Administration of Estates Act 66 of 1965** mandates High Court/Master consent based on property value:
+  - High Court for properties valued R250,000.00 or more.
+  - Master for properties valued beneath.
+- Transfers must comply with court appointments or wills when applicable.
+
+### 2.2.2.4 A deceased estate as transferor
+- Discussed in detail in Unit 6.
+
+### 2.2.2.5 A mentally ill person as transferor
+- No capacity as per **Mental Healthcare Act 17 of 2002**.
+- Requires an administrator appointed by the Master of the High Court.
+- Curator's powers strictly defined; cannot exceed without court authorization.
+- **Section 80** of the Administration of Estates Act applies to property alienation.
+
+### 2.2.2.6 An association as transferor
+- Title deed determines if an association is a legal person or voluntary association.
+- Legal persons act through authorized representatives per special resolution from governing body.
+
+### 2.2.2.7 A partnership as transferor
+- Not a legal person; may be described with partners' details.
+- All deeds must include full names and marital status of partners.
+- Transfer requires authorization from all partners.
+- **Section 15(2)(a) Matrimonial Property Act 88 of 1984** applies when a partner married in community of property engages in transfer.
+
+### 2.2.2.8 A trustee in a deceased estate as transferor
+- Trusts can be intervivos or mortis causa.
+- Criteria for validity:
+  - Land must vest in the trust.
+  - Prior authorization from the Master of the High Court is necessary.
+  - Transactions must be authorized by trust deed or will.
+  - Compliance with alienation procedures in trust deed required.
+
+### 2.2.2.9 An owner of land and the holder of a personal servitude as transferors
+- Joint disposal permits combined rights transfer.
+
+## References
+- **Deeds Registries Act 47 of 1937**
+- **Recognition of Customary Marriages Act 120 of 1998**
+- **Administration of Estates Act 66 of 1965**
+- **Mental Healthcare Act 17 of 2002**
+- **Matrimonial Property Act 88 of 1984**
+- **Relating Case:** Ex parte Oberholzer and Others 1951 (1) SA 554 (AD); Ward NO v Lockhat Ltd 1928 AD 279; Ex parte De Lange 1939 EDL 186.
+
+### Diagrams and figures referenced
+- (Ensure inclusion of any diagrams necessary when providing or reconstructing substantive content related to conveyancing practices).
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.2.2.9 Transfer of Land and Personal Servitude  
+- **Section 69(1)**: Transfer of land must accompany personal servitude; cession of rights without land transfer is prohibited.  
+- **Section 66**: Cession of usufruct, usus, or habitatio allowed only to the land owner.  
+- **Merger**: Transfer of both land and servitude to one person results in termination through merger.  
+- **Deed of Transfer**: Describes transferor as owner of bare dominium and holder of servitude (*s 69(2)*).  
+
+## 2.2.2.10 Fideicommissary Transferors  
+- **Fideicommissary Substitution**: Property first vests in fiduciary; upon condition, it vests in fideicommissary (e.g., X to Y).  
+- **Section 69bis(1)**: Both fiduciary and fideicommissary can transfer property together.  
+- **Minor Fideicommissaries**: Court consent required for minor rights transfer (Ex parte de Winnaar 1959; Rogers NO v Erasmus 1975).  
+- **Deed of Transfer**: Describes fiduciary and holder of fideicommissary rights (*s 69bis(2)*).  
+
+## 2.2.2.11 Sheriff of the Court as Transferor  
+- **Attachment**: Sheriff attaches property only with a court order; notice must be served on the Registrar of Deeds.  
+- **Transfer of Attached Property**: Only debtor's rights transferred; e.g., sold subject to servitude.  
+- **Bondholder Preferences**: Bondholders can acquire property free from servitudes if servitude holder waives preference (United Building Society v Du Plessis 1990).  
+- **Sequestration**: If debtor's estate is sequestrated, sheriff cannot deal with assets; caution required.  
+- **Installment Sales**: Notification required for purchasers on claims against the attached property (*s 21(3) of Alienation of Land Act 68 of 1981*).  
+
+## 2.2.2.12 Trustee in an Insolvent Estate as Transferor  
+- **Proof of Insolvency**: Required before property transfer (*s 17 of Insolvency Act 24 of 1936*).  
+- **Sequestration Order**: Must be lodged with the Registrar of Deeds.  
+- **Provisional vs. Final Trustees**: Only a final trustee can sell property (*s 20*).  
+- **Marriages**: Impact of marital property systems on asset sequestration (*s 21 of Act 24 of 1936*).  
+- **Exceptions to General Rule**: Independence of transaction during insolvency; automatic rehabilitation under *s 127A*.  
+
+## 2.2.2.13 Liquidator as Transferor  
+- **Liquidation Process**: Initiated by court or voluntary decision (*s 79-81 of Companies Act 71 of 2008*).  
+- **Deregistration**: Conditions under which companies may be deregistered (*s 82*).  
+- **Liquidator’s Authority**: Transfer must be authorized by creditors or Master; no specific registrations required (*regulation 44A*).  
+- **Effect of Liquidation on Attachments**: Attachments after commencement of liquidation are void.  
+
+## 2.2.2.14 Business Rescue Manager as Transferor  
+- **Business Rescue Definition**: Court-ordered process; copy of the order must be noted at the Registrar of Deeds.  
+- **Asset Disposal**: Allowed if in ordinary course of business and approved at business rescue meeting (*s 152 of Companies Act 71 of 2008*).  
+
+## 2.2.2.15 Juristic Person as Transferor  
+- **Contractual Capacity Considerations**: Check memorandum of incorporation and relevant resolutions.  
+
+## 2.2.2.16 Municipality as Transferor  
+- **Varied Capacities**: Dependent on provincial ordinance; consent from the premier may be required for alienation.  
+
+## 2.2.2.17 Statutory Body as Transferor  
+- **Powers Under Statute**: Verify contractual authority as per authorising statute; administrator may transfer land if appointed.  
+
+(Note: Include diagram references as applicable in original text.)
+----- END OF FILE -----
+## LPL4804/1 Study Notes
+
+### Chapter 1: Transferor and Power of Attorney
+
+#### 1.1 Transferor Description
+- **Sonja Spies**
+  - Identity number: 840306 0032 081
+  - Status: Unmarried
+  - Consent: No special consents required.
+
+- **Sarel Spies**
+  - Identity number: 200318 0032 008
+  - Status: Unmarried minor
+  - Consent: Requires consent from the Master of the High Court or High Court (value dependent).
+  
+- **Sipho Nzo**
+  - Identity number: 58910 5032 008
+  - Status: Insolvent, married out of community of property
+  - Consent: Written consent from the trustee in insolvent estate required.
+
+#### 1.2 Legislation Reference
+- **Deeds Registries Act 47 of 1937:**
+  - **Section 69(1):** Transfer and mortgage land subject to personal servitude.
+  - **Section 69bis(1):** Transfer of land subject to fideicommissum.
+
+### Chapter 2: Power of Attorney Analysis
+
+#### 2.1 Appointment of Appearer
+- Must name appearer(s), who must be conveyancers (s 20 of Act 47 of 1937).
+- Identity of appearer not required.
+- If original appearers unavailable, substitute provisions must be followed (Registrars Conference Resolution 7/2010).
+
+#### 2.2 The Causa
+- Required Disclosure: 
+  - Type of transfer (e.g., sale, donation).
+  - Transaction date and purchase price corresponding to transfer duty receipt.
+  
+#### 2.3 Transferee Information
+- **Disclosures:**
+  - Names, identity number/date of birth, marital status if natural person.
+  - Registration number if other than natural person.
+
+#### 2.4 Property Description
+- **Requirements:**
+  - Complete description, extent, and reference (reg 65(3)).
+  
+#### 2.5 New Registrable Conditions
+- Must disclose any new conditions, personal servitudes, etc.
+
+#### 2.6 Execution Clause
+- Must be signed and witnessed (reg 25, s 95).
+- Requires clarity on place of execution, re-execution needed if signed prior to transaction (Res. 26 of 1974).
+- **Witnessing:**
+  - Two witnesses or a designated legal officer.
+  - No attestor can derive benefit (s 95(1)).
+
+#### 2.7 General Rules
+- **Initialling Requirements:** All pages initialled except signed pages (Res. 19 of 1989).
+- **Alterations:** All material alterations must be initialled by the executing party and witnesses (reg 44(2)).
+  
+### Chapter 3: Transfer Duty and Legal Compliance
+
+#### 3.1 Transfer Duty Overview
+- **Legislation:**
+  - Transfer Duty Act 40 of 1949
+  - Tax based on property value, sliding scale.
+  
+#### 3.2 Registration Requirements
+- **Section 92(1):**
+  - Deeds of grant or transfer require receipt/certificate of tax payments or exemption.
+
+### Important Legislation & Cases
+- **Deeds Registries Act 47 of 1937** 
+- **Transfer Duty Act 40 of 1949**
+- **Cases:** Hersch v Bedelia Gift Centre (Pty) Ltd 1958 (3) SA 838 (O); Barclays National Bank Ltd v Wollach 1980 (1) SA 615 (C).
+
+### Diagram References
+- Diagrams relating to property descriptions and servitudes should be referred to in 2.3.5 of unit 4. 
+
+---
+This condensed summary captures essential principles, theories, and concepts relevant to the power of attorney and transfer processes under South African law while minimizing extraneous details and maintaining the original structure.
+----- END OF FILE -----
+# LPL4804/1 - Study Notes
+
+## 1. Transfer Duty Receipt
+- Transfer duty receipt or exemption certificate required with deed of transfer.
+- Receipt must be endorsed by South African Revenue Services (SARS) or issued electronically.
+- Certification by conveyancer/notary/commissioner of oaths required for electronic receipts.
+  
+### 1.1 Antenuptial Contract Donations
+- Section 92(2) prohibits certain transactions (transfer, cession, mortgage) unless transfer duty paid on property donated in antenuptial contract.
+- Caveat noted until receipt for transfer duty is lodged.
+
+### 1.2 Transfer Duty Receipt Specifics
+- Full transfer duty amount receipt mandatory; “Deposito”/“Deposit” receipts not accepted unless signed by Receiver per s 11(3) of Transfer Duty Act 40 of 1949.
+- Minor errors can be corrected with a conveyancer's certificate.
+
+## 2. Inheritance and Transfer Duty
+- X and Y's joint will and the inheritance to Z requires both a transfer duty receipt for the surviving spouse’s share and an exemption for the deceased's share. 
+- Recent SARS policy requires lodging a transfer duty exemption for inheritance transfers.
+
+## 3. Rates Clearance Certificates
+- Required under section 118(1) & (1A) of Local Government Municipal Systems Act 32 of 2000 prior to property transfer.
+- Must certify payment of municipal fees, valid for 60 days, cannot be reused.
+
+### 3.1 Charges on Property
+- Municipal fees due become a charge on the property, taking precedence over mortgage bonds.
+
+## 4. Consents Required 
+### 4.1 Title Conditions
+- Title may include conditions prohibiting transactions or requiring consent from other parties.
+
+#### 4.1.1 Pre-emptive Rights
+- Holder has a right to buy before others; transfer possible only post pre-emptor's refusal.
+
+#### 4.1.2 Reversionary Rights
+- Ownership reverts to former owner upon specific events; conditions must persist in new deed.
+
+### 4.2 Statutory Provisions
+- Various Acts dictate consent requirements unrelated to title deed conditions.
+
+#### 4.2.1 Subdivision of Agricultural Land Act 70 of 1970
+- Actions concerning agricultural land require written consent from the Minister of Agriculture.
+
+#### 4.2.2 Advertising on Roads and Ribbon Development Act 21 of 1940
+- Consent required for transferring undivided shares near major roads to ensure traffic safety.
+
+#### 4.2.3 Agricultural Holdings (Transvaal) Registration Act 22 of 1919
+- Consent required from town council for subdivisions and portions less than 8,565 square meters.
+
+#### 4.2.4 Matrimonial Property Act 88 of 1984
+- Spousal consent required for juristic acts; specific conditions regarding business acts detailed.
+
+#### 4.2.5 Further Education and Training Colleges Act 16 of 2006
+- Disposal of college property requires concurrence from the MEC.
+
+#### 4.2.6 Deeds Registries Act 47 of 1937
+- Requires lodgment of open mortgage bonds and consents for disposal.
+
+#### 4.2.7 Insolvency
+- Certain acquisitions by an insolvent permitted with a disclaimer from the trustee.
+
+### 4.3 General Consent Guidelines
+- Clear, unambiguous drafting of consent; full identification details necessary.
+
+## 5. Insolvency and Solvency Affidavits
+- Individuals remain insolvent until rehabilitation order; sequestration interdict noted against their names.
+- Solvency affidavit may be lodged to confirm non-insolvency and prevent transaction delays.
+
+---
+*References: Chief Registrar’s Circular 9/2009, Transfer Duty Act 40 of 1949, Act 32 of 2000, Registrars Conference Resolution 36/2011, act-specific provisions as outlined.*
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Supporting Documents for Transfer
+
+### 7. Supporting documents kept on file
+- **Solvency Affidavit**
+  - Must indicate if deponent was previously sequestrated.
+  - Registrar checks if ten years have elapsed since sequestration; if yes, individual may manage property freely. If not, must comply with **section 58** of the Act.
+
+### 7.1 Marital status affidavit
+- Completed by both transferor and transferee.
+- Confirms current marital status and property regime.
+- Conveyancer should keep copies of any **antenuptial contracts**.
+
+### 7.2 Personal affidavit
+- Signed by both parties, confirming names and identities per South African ID or date of birth if ID is incorrect.
+- Conveyancer ideally keeps copies of IDs.
+
+### 7.3 FICA affidavit
+- Under **Financial Intelligence Centre Act 38 of 2001 (FICA Act)**, financial particulars must be on file.
+- Affidavit includes names, identity numbers, addresses, tax registration numbers, and financing details (e.g., mortgage).
+
+### 7.4 Transfer duty declarations
+- Conveyancers can complete transfer duty declarations electronically.
+- Hard copies signed by parties should be retained for records.
+
+### Summary
+- Discussed ordinary deeds of transfer and supporting documents.
+- Next focus on complex transfers: estate transfers, partition transfers, etc.
+
+---
+
+## UNIT 6: Special Transfers
+
+### 1. Introduction
+- Overview of complex transfers: estate, partition, expropriation, court-order, endorsements.
+- Key questions to guide understanding of these transfers.
+
+### 2. Estate Transfers
+- Utilization of **form E deed of transfer** for deceased estates.
+- Executor acts on behalf of the estate.
+  - **Executor's authority**: 
+    - Letters of executorship granted by the Master of the High Court (Administration of Estates Act 66 of 1965, **s 15**).
+    - Act under law recognized representatives per **s 102 of Deeds Registries Act**.
+
+### 2.1 The Preable
+- Power of attorney must disclose executor's name and date of issuance.
+- The deed preamble should reference executor without mentioning letters of executorship.
+
+### 2.1.1 Land Not in Joint Estate
+- Executor must pass transfer; described as:
+  - "The executor (or representative) in the estate of the late [Name] number [Estate Number]".
+- Surviving spouse's role in massed estates per **Registrars’ Conference Resolution 15 of 1986**.
+
+### 2.1.2 Land in Joint Estate
+- Surviving spouse must join executor in transfer unless exceptions apply:
+  - Executing only deceased's share.
+  - Land sold to pay estate debts.
+  - Massing occurred and spouse adiated.
+  - Transfer is to spouse or spouse has signed as executor.
+
+### Example Preable Format
+- Indicate both parties' roles clearly for joint estates where applicable.
+
+--- 
+
+### Key Legislative References
+- **Financial Intelligence Centre Act 38 of 2001 (FICA)**
+- **Administration of Estates Act 66 of 1965**
+- **Deeds Registries Act**, sections relevant for executor authority and estates.
+- **Registrars’ Conference Resolution 15 of 1986** for joint estates.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2. Estate Transfers
+
+### 2.1 Deceased Estates: Overview
+- **Executor's Role**: The executor manages the estate and transfers property as per the deceased's will or through intestate succession.
+- **Transfer Without Co-signature**: Surviving spouse may not need to co-sign if the executor transfers deceased’s half share only.
+- **Establishment of Cause**: Recitals must establish the cause for transfer including the date of death, mode of inheritance, and reasons for transferee’s entitlement.
+
+### 2.2 Supporting Documents for Transfer from a Deceased Estate
+- **General Requirement**: Registrar checks causa validity and necessary consents.
+- **Causae for Estate Transfers**:
+  - Testate succession
+  - Intestate succession (Intestate Succession Act 81 of 1987)
+  - Other modes: sales, donations, and specific provisions under the Administration of Estates Act 66 of 1965
+
+### 2.2.1 Testate Succession
+- **Documents Required**:
+  - Conveyancer’s certificate per section 42(1) (transfer applies to liquidation account).
+  - Proof of waiver or repudiation of inheritance.
+  - Redistribution agreement (certified).
+  - Certified copy of the will (verified by Master).
+  - Affidavit of next-of-kin for unidentified heirs.
+  - Marriage certificate if servitude bequeathed (section 67, Deeds Registries Act).
+  - Proof of death for deceased heirs (death certificate).
+  - Proof of adiated surviving spouse.
+  - Documents proving marital status for estate determination.
+  - Acceptance proof of conditional bequests.
+  - Transfer duty/vat exemption documentation.
+
+### 2.2.2 Intestate Succession
+- **Applicable Legislation**: Intestate Succession Act 81 of 1987 for deaths post-18 March 1988.
+- **Support Documents**:
+  - Affidavit from executor about intestacy.
+  - Affidavit of next-of-kin confirming heirs.
+  - Proof of marriage for surviving spouse.
+  - Liquidation and distribution account.
+
+### 2.2.3 Sales by Deceased
+- **Necessary Documents**:
+  - Certificate from Master (sec 42(2) of the Administration of Estates Act).
+  - Transfer duty receipt or exemption proof.
+
+### 2.2.4 Donations by Deceased
+- **Documents Required**:
+  - Certificate from conveyancer (sec 42(1)).
+  - Copy of the will or donation agreement based on timing.
+  - Transfer duty receipt.
+
+### 2.2.5 Sales by Executor
+- **Required Documents**:
+  - Master’s endorsement (section 42(2)).
+  - Proof of consent if property purchased during estate administration.
+  - Transfer duty receipt or exemption.
+
+### 2.2.6 Transfers (Section 18(3) Administration of Estates Act)
+- **Key Points**:
+  - Applies to estates under R250,000.
+  - No consent needed for sales; transfer duty exemption required.
+
+### 2.2.7 Take-over (Section 38 Administration of Estates Act)
+- **Requirements**:
+  - Master’s authorization.
+  - Conveyancer’s certificate.
+  - Spousal documentation.
+
+### 2.2.8 Sales by Executor in Insolvent Estates
+- **Key Considerations**: 
+  - No formal insolvency order recorded.
+  - Required documents mirror those for lawful sales, including:
+    - Master’s endorsement.
+    - Transfer duty receipt/exemption.
+    - Title deeds (certified absence permissible).
+
+### Key Legislation
+- **Administration of Estates Act 66 of 1965**
+- **Intestate Succession Act 81 of 1987**
+- **Transfer Duty Act 40 of 1949**
+- **Deeds Registries Act** 
+
+### Important Cases
+- **Registrars' Conference Resolutions** inform procedures (Various years).
+
+### Diagrams
+- Reference to diagrams indicating relationships between parties in estate transfers (not included here for brevity). 
+
+---
+
+**Note**: Ensure to refer to appropriate sections of legislation for detailed provisions and cross-reference with previous units for contextual understanding.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.2 Transfer of Property from Deceased Estates
+
+### 2.2.9 Property Registered in the Name of the Survivor of Spouses Married in Community of Property  
+- **Executor and Joint Estate**: Executor must conduct transfer as property forms part of joint estate.
+- **Surviving Spouse Rights**: Surviving spouse is not a necessary co-transferor; signature of executor suffices. 
+- **Section 45 Transfer**: If survivor entitled to whole property, transfer by endorsement of the deceased’s half share. 
+
+### 2.2.10 Transfer from Estates Governed by the Black Administration Act 38 of 1927  
+- **Context**: Customary law applies to intestate succession of black persons.
+- **Constitutional Court Rulings**:
+  - **Moseneke v Master** (2001) - Unconstitutionality of specific provisions; new legislation required.
+  - **Bhe v Magistrate Khayelitsha** (2005) - Repealed section 23 and regulated estates; all administered by Master of High Court.
+
+#### 2.2.10.1 Summary of Bhe Decision  
+- Section 23 repealed retroactively to 27 April 1994.
+- Magistrates lose authority over black intestate estates.
+- Estates administered by Master per Administration of Estates Act 66 of 1965.
+- Existing estates continue under magistrate unless already finalized; the Intestate Succession Act applies.
+  
+#### 2.2.10.2 Current Position  
+- **Deceased before 27 April 1994**: Estates to be referred to magistrate; administered under the Black Administration Act.
+- **Deceased after 27 April 1994**: Administered under the Administration of Estates Act; applicable laws depend on the date of death.
+- **Deceased after 27 April 1994, before 15 October 2004**: Magistrates finalize estates according to Intestate Succession Act.
+- **Deceased after October 2004**: Estates must be administered as per the relevant acts.
+
+#### 2.2.10.5 Intestate Succession in Polygamous Marriages  
+- Estates divided equally amongst wives when no descendants exist.
+- If descendants survive, each wife entitled to a child’s share or R125,000, whichever greater.
+
+### 2.2.10.3 Effect of Bhe Decision on Deeds Office Practice and Procedure  
+#### 2.2.10.3.1 Deceased Before 27 April 1994  
+- Draft causa must reflect transfer entitlements; include certificate from magistrate as per regulation 4(2). 
+- **Supporting Documents**: Regulation 4(2) certificate, proof of VAT registration, existing bonds for disposal.
+
+#### 2.2.10.3.2 Deceased After 27 April 1994, Before 15 October 2004  
+- Follow previous procedural guidelines if wound under Black Administration Act.
+
+#### 2.2.10.3.3 Deceased After 15 October 2004  
+- Supporting documents for transfers must include: 
+  - Conveyancer’s certificate per section 42(1).
+  - Proof of waivers or repudiations.
+  - Redistribution agreements if applicable. 
+  - Proof of intestacy and the validity of heirs, marriage proof.
+
+#### 2.2.10.3.4 Administration Under Section 18(3)  
+- Required documents except for conveyancer’s certificates and distribution accounts.
+
+## 2.3 Drafting of the Causa of an Estate Transfer  
+### 2.3.1 Date of Death  
+- Crucial for determining inheritance rights and applicable inheritance laws.
+
+### 2.3.2 Method of Devolution  
+- Specify if land devolves testate or intestate; reference applicable statutes.
+
+### 2.3.3 Explanation for Inheritance Devolution  
+- Required when transferring to non-original heirs or in differing proportions.
+
+### 2.3.4 Compliance with Testamentary Conditions  
+- Clarify any conditions affecting the inheritance subject to registration against property.  
+
+**Note**: Ensure all statutory references are current and relevant to the specific transfers being processed.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.3.5 Transfer from a Massed Estate
+- **Causa**: Must indicate transfer on behalf of the joint estate (Deeds Registries Act, Reg 50(2)(c))
+- **Section 21**: Surviving spouse co-signs with executor unless exceptions apply.
+
+### **Examples of Estate Transfers**
+- **Late Ben Botes' Estate**: 
+  - Transfer to Jan Lowe. Married in community of property to Susan Botes.
+- **Mary Masela**: 
+  - Married out of community of property. Joint will with Joe Masela. Property to Arnold Masela, subject to usufruct in favor of survivor.
+- **Transfer to Susan Botes** from Ben Botes' Estate: Married in community of property.
+
+## 2.4 Conditional Clause
+- Registrable testamentary conditions must be disclosed in:
+  - Power of attorney
+  - Conditional clause of the deed of transfer
+- Disclose conditions verbatim if discrepancies arise.
+
+## 2.5 Divesting Clause
+- Transfer must divest the estate, not the “transferor”.
+- In case of a joint estate, “joint estate” must be divested (Reg 50(2)(c)).
+
+## 3 Partition Transfers
+
+### 3.1 Introduction
+- **Purpose**: Divide co-owned land ensuring each owner receives demarcated land.
+- **Co-ownership**: Land held collectively by multiple owners, each with undivided share.
+
+### 3.1.1 Undivided Share
+- Cannot force co-owner to stay as co-owner if they prefer full ownership.
+- Agreement to partition is required if co-owners wish to divide land.
+
+### 3.1.2 Agreement Terms
+- Written agreements required (Alienation of Land Act 68 of 1981, Section 2(1)).
+- Court can enforce partition if co-owners disagree (Deeds Registries Act, Section 26(6)).
+
+### 3.1.3 Effects of Partitioning
+- **Equal share**: Each owner acquires specific portions equal to their original share.
+- **Surveyor's diagram approval**: Required for partitioned portions.
+
+### 3.1.4 Difference Between Partition and Subdivision
+- **Subdivision**: Owner splits land into separate titles, remaining in ownership of the land.
+- **Partition**: Entire property divided between co-owners; cannot be partial.
+
+### 3.2 Analyzing a Partition Transfer (Form F)
+- Similarities to normal deed of transfer but includes uniqueness detailed below:
+
+#### 3.2.1 Preamble
+- Describes all co-owners as transferors to facilitate partition.
+
+#### 3.2.2 Recital
+- Describes original property and references title(s) and partition agreement/ court order.
+
+#### 3.2.3 Vesting Clause
+- Identifies new co-owners (transferees) for awarded shares.
+
+#### 3.2.4 Property Clause
+- Full description of awarded portions and their respective extents.
+
+#### 3.2.5 Extending Clause
+- Refers to original title deeds following the property description.
+
+#### 3.2.6 Conditional Clause
+- New shares subject to existing title conditions and any new ones.
+
+#### 3.2.7 Divesting Clause
+- Divests former co-owners from property, transferring ownership to new co-owners.
+
+#### 3.2.8 Consideration Clause
+- Specifies acceptable consideration for awarded portions:
+  - If no consideration exists, acknowledges total partitioning as fair exchange.
+  - If parties compensating for value, this must be disclosed.
+
+---
+
+These notes provide a concise reference structure for key principles and concepts pertaining to transfers from massed estates and partition transfers within South African law.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 3.2.9 Execution Clause
+- Deeds of partition transfer must be executed simultaneously (reg 52(2)).
+- Land may be registered in different deeds registries (s 26(7)); conveyancers must ensure simultaneous execution.
+
+## 3.3 Supporting Documents
+### 3.3.1 Partition Agreement or Court Order
+- Necessary documents: partition agreement or court order, and power of attorney.
+#### 3.3.1.1 Forms of Agreement
+- Basis may be a partition agreement, court order, or arbitration award (s 26(6)).
+- Agreement must be signed by all co-owners; power of attorney must adhere to agreement.
+#### 3.3.1.2 Contracting Parties
+- Each party must own a share; shares need not be equal (s 26(1) & (2)).
+- Joint owners must be competent; minor involvement requires consent from the Master (section 94, Estates Act 1965).
+#### 3.3.1.3 Requisites for the Partition Agreement (s 26 of the Act)
+- Must include details on:
+  - Partitioned land (reg 52(2)).
+  - Shares registered in each owner's name, referencing titles.
+  - Allocated land (reg 52(2)).
+  - Conditions on allocated portions.
+  - Consideration given to equalize partition (not solely money as per s 26(2)(c)).
+
+#### 3.3.1.3.1 Mineral Rights
+- Registrar of Deeds cannot register transactions on mineral rights (Mineral and Petroleum Resources Development Act 28 of 2002, effective 1 May 2004).
+
+#### 3.3.1.3.2 Conditions
+- Section 26(5) of the Deeds Registries Act 47 of 1937: partition does not affect land conditions unless stipulated in agreement.
+- Praedial servitudes must be created notarially, not in the power of attorney.
+
+#### 3.3.1.3.3 Consideration
+- Section 26(2)(e): consideration must be disclosed for transfer duty purposes; can be non-monetary.
+
+### 3.3.2 Bondholder’s Consent
+- If shares are encumbered by a bond, consent is required for partition transfer (s 27(1) Deeds Registries Act 47 of 1937).
+
+### 3.3.3 Partition Diagrams
+- Must be lodged in duplicate when each party receives a demarcated portion; no diagram needed for the remainder.
+
+### 3.3.4 Clearance Certificate
+- Required for rated land upon registration.
+
+### 3.3.5 Consents to Subdivision
+- Necessary consents must be lodged if there are restrictions against subdivision.
+
+### 3.3.6 Consent by Spouse
+- If a party is married in community of property, spouse's written consent must be obtained (s 15(2)(a) Matrimonial Property Act 88 of 1984).
+
+### 3.3.7 Effect of Partition Transfer
+- Upon registration, parties receive new title deeds; old deeds are replaced.
+
+## 4 Expropriation Transfers
+- Expropriation occurs without the owner's consent; a notice is served detailing ownership transfer and compensation.
+
+### 4.1 Requirements for Registration
+- Expropriation must be legally authorized.
+- Only the State or authorized entity can expropriate (s 31(1) Act 47 of 1937).
+- Written notice must have been given to the owner.
+- Registration requires a certified notice and expropriation plans.
+
+### 4.2 Analysis of Expropriation
+- Ownership vests in the State before registration when expropriated.
+- Registration confirms an existing fact rather than transferring ownership legally.
+
+### 4.2.1 Prescribed Form (Form G)
+- Similar to standard deed of transfer; includes standard clauses with specific wording for expropriation.
+
+**Diagram References:**
+- Related diagrams must accompany partition agreements where applicable.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 4.2 Expropriation Transfer
+- **4.2.1 Authority and Transfer**
+  - Cession and transfer to transferee as per the Act.
+  - Registered owner dispossessed (potential expropriation by State).
+  - Jurisdiction and ownership compliance with local custom.
+
+- **4.2.2 Preamble**
+  - Details on property acquisition by transferee.
+  - Description follows title registration standards.
+
+- **4.2.3 Recital**
+  - State that the transferee provided the certificate per **Section 31(4)(a)** of the **Deeds Registries Act 47 of 1937**.
+
+- **4.2.4 Vesting Clause**
+  - Describes expropriating authority per regulations and **Section 17**.
+
+- **4.2.5 Property Clause**
+  - Detailed description of the property and extent, incorporating subdivision diagrams if applicable.
+
+- **4.2.6 Extending Clause**
+  - Incorporation of applicable extending clause.
+
+- **4.2.7 Conditional Clause**
+  - Expropriation registered with existing title conditions.
+  - Servitudes outlined under **Section 32**; conditions imposed under **Section 11** omitted if state expropriates.
+
+- **4.2.8 Divesting Clause**
+  - Registered owner is divested; includes alternatives and State’s rights reservation.
+
+- **4.2.9 Execution**
+  - Only executed by the Registrar of Deeds.
+
+## 4.3 Supporting Documents
+- **4.3.1 Title Deed**
+  - Expropriation authority submits title deed or sworn affidavit if the deed is unavailable (**Section 31(2)(b)**).
+
+- **4.3.2 Certificate on Legal Provisions**
+  - Certification required from expropriating authority confirming compliance with laws regarding ownership change (**Section 31(4)(a)**).
+
+- **4.3.3 Mortgage Bonds**
+  - If bonded, no need for original bond to be lodged; endorsement on registry duplicate required (**Section 31(1)**).
+
+- **4.3.4 Attachments and Interdicts**
+  - Existing attachments/interdicts do not impede transfer post-expropriation.
+
+- **4.3.5 Subdivisional Diagrams**
+  - Required if only part of property expropriated.
+
+- **4.3.6 Expropriation Notice**
+  - Must be lodged simultaneously with transfer if not done earlier.
+
+- **4.3.7 Municipal Rates Clearance**
+  - Not required, nor power of attorney or transfer duty receipt.
+
+## 4.4 Restraint on Expropriating Authority
+- Authority prohibited from dealing with expropriated land until registered in their name per **Section 31(5)**.
+
+## 4.5 Restraint on Registered Owner
+- Expropriated land cannot be transferred until registered in expropriator's name (**Section 31(6)(b)**).
+- Owner may not deal with land if recognized as a single entity.
+- Partial expropriation permits transfer with a noted expropriation condition.
+
+## 5 Transfers by Virtue of an Order of Court
+- **5.1 Introduction**
+  - **Section 14** mandates transaction sequence for land transfers. **Section 33** offers a court-petition alternative for ownership registration without conventional transfer method.
+
+- **5.2 Owner's Capacity**
+  - New owner cannot trade property until title is registered; former owner's ability to deal with property suspended during court proceedings.
+
+- **5.3 Notice to Registrar**
+  - **Section 97**: Applicant must notify Registrar 7 days before court hearing; Registrar notes a caveat.
+
+- **5.4 Supporting Documents**
+  - **5.4.1 Order of Court**
+    - Must include owner reference, property description, declaration of ownership.
+
+  - **5.4.2 Transfer Duty Receipt and Rates Clearance**
+    - Must be lodged; transferee exempt from prior taxes/duties unless assumed by agreement.
+
+  - **5.4.3 Mortgage Bonds**
+    - Usually transferred free from existing bonds unless court order stipulates otherwise. 
+
+**Diagram References:** See diagrams in sections 4.2.5 and 5.4.1 for visual depiction of processes.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 5.4.4 Title Deed
+- Title to be lodged unless proviso to **section 33(1)** applies.
+- Endorsement of office copy required if title not lodged.
+- Caveat noted against client’s copy for non-lodgement.
+- Sworn affidavit needed for non-availability of client’s title copy.
+- **Power of attorney** not required as owner does not authorize transfer.
+
+## 6 Deeds of Grant
+
+### 6.1 General
+- **Section 3(1)(c)** of the **Deeds Registries Act 47 of 1937** enables registration of deeds of grant by the State.
+- Deed of grant formalizes transfer of unalienated/acquired state land.
+- Unalienated land transferred only through a deed of grant (**s 18(1) of the Act**); must include diagram.
+- Acquired state land may be transferred via deed of grant or deed of transfer (**s 18(2) of the Act**).
+
+### 6.2 Form for a deed of grant
+#### 6.2.1 Format
+- No prescribed form; usually follows **standard form E** deed of transfer.
+
+#### 6.2.2 Requirements
+- No **regulation 43** preparation clause needed; duties of preparer per **section 15A** and **regulation 44A** do not apply.
+
+#### 6.2.3 Vesting Clause
+- Must include full names, identity numbers, and marital status of grantees.
+- Registrar will check proof of status unless a preparation clause exists (**Registrars’ Conference Resolution 5 of 1986**).
+
+#### 6.2.4 Right of the State
+- Right of State must be reserved prior to property description.
+
+#### 6.2.5 Description of Property
+- Complete, correct property description including an extension clause (**reg 26**).
+
+#### 6.2.6 Title Conditions
+- Title conditions must be carried forward.
+
+#### 6.2.7 Personal Rights
+- Personal rights may be included in a deed of grant (**s 63(2) of the Act**).
+
+#### 6.2.8 Special Conditions
+- Must be included in the deed or attached as a separate schedule.
+
+#### 6.2.9 Who May Issue
+- Issued to holder of land settlement lease; lease not carried forward as title condition.
+
+#### 6.2.10 Divesting Clause
+- Not required.
+
+#### 6.2.11 Signature
+- Must be signed by an authorized official; pages must be initialled by the signer (**Registrars’ Conference Resolution 51 of 1987**).
+
+#### 6.2.12 Registration Clause
+- Must include a registration clause for completion and signature by the Registrar of Deeds.
+
+### 6.3 Supporting Documents
+- No power of attorney required.
+- Rates and transfer duties must be paid before registration (**s 92(1) of the Act**); receipts required.
+- Document of authority for personal rights or conditions must be lodged.
+- Certified copies of grants without preparation clauses required as per **regulation 20(7)**.
+
+## 7 Transfers of Ownership by Virtue of Endorsement (Act 47 of 1937)
+
+### 1 Introduction
+- **Section 16** states ownership of land conveyed only via deed of transfer, except as provided otherwise (e.g., endorsement).
+- Transfers by endorsement governed by various sections (**s 16, 24bis(2), 25(3), 58(2), 45, 45bis**).
+
+### 2 Section 16 Proviso: Acquisition of Land by the State/Local Authority
+- Local authority acquiring all land under one title can transfer via endorsement (**s 16**).
+- No registration fee payable; title deed must be fully acquired.
+
+#### 2.1 Requirements Prior to Application
+- State/local authority must acquire all land; partial acquisition necessitates a normal deed of transfer.
+- Expropriation transfers possible via endorsement if title deed is available; **s 31(4)(a)** must be complied with.
+
+#### 2.2 The Application
+##### 2.2.1 The Applicant
+- Governed by relevant government department/local authority; acquisition must be lawful.
+
+##### 2.2.2 Contents of Application
+- Must describe property, state registered owner, and causa for transfer.
+
+##### 2.2.3 Supporting Documents
+- Title deed must be lodged for endorsement or else normal deed of transfer applies.
+- In cases of mortgages, section 31(1) applies regarding bonds; caveat noted if registry copies endorsed.
+- No transfer duty receipt needed, and municipal rates clearance not required.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.2.3.2 All Other Transfers by Endorsement in Terms of Section 16
+- **Title Deed Requirements:**
+  - Title deed of the land must be lodged.
+  - Sworn affidavit by registered owner authorizing endorsement required, with a regulation 44 preparation clause.
+  
+- **Hypothecation:**
+  - If property is hypothecated, consent for disposal of mortgage bonds must be lodged (Registrars’ Conference Resolution 6 of 1966), unless property is expropriated.
+
+- **Additional Documentation:**
+  - Clearance certificates.
+  - Certificates by the Master and conveyancer if estate is involved.
+  
+- **Importance of Existing Title Deed:**
+  - Essential for proof of transfer; registrar affixes a stamp to the existing deed for transfer verification.
+
+## 2.3 Effect of Registration
+- Title deed endorsed under section 16 allows State or local authority to dispose of land via grant or deed (Registrars’ Conference Resolution 6 of 1966).
+- Local authority requires a deed of transfer, unless transferring to another local authority.
+
+## 3 Section 24bis(2) of Act 47 of 1937: Dissolution of a Firm or Partnership
+- **Endorsement upon Dissolution:**
+  - Title deed endorsed post-dissolution to reflect land vests in individuals mentioned.
+
+- **Reasons for Dissolution:**
+  - Agreement, death of partner, expiry of duration, insolvency, court order.
+
+## 3.1 The Application
+- Written application required from all partners, including:
+  - Names, identity numbers, marital status, and shareholding.
+  - Reason for dissolution.
+  - Full property description.
+
+## 3.2 Supporting Documents
+- All title deeds for endorsement must be lodged (Registrars’ Conference Resolution 7 of 1996).
+- Proof of dissolution (e.g., certified dissolution agreement or death notice).
+- Transfer duty receipt or exemption certificate required.
+
+## 3.3 Disposal of the Bond
+- Must be addressed as detailed in Unit 10.
+
+## 3.4 Effect of Registration of Transfer by Endorsement
+- Individuals named can dispose of property as if they had formal transfer.
+
+## 4 Section 25(3) of Act 47 of 1937: Establishing Identity of Children
+- **Transfer in Trust:**
+  - If land is registered in a parent/guardian's name for children, endorsement under section 25(3) can be used to reflect the transfer in trust.
+
+- **Simplified Process:**
+  - Endorsement is less complex than registering a deed of transfer.
+
+## 4.1 The Application
+- Written application must be lodged by or on behalf of children; assistance may be required for minors.
+
+## 4.2 Supporting Documents
+- All deeds for endorsement required.
+- Proof of identity of children must be established; varies by circumstances (e.g., death certificate if parent is deceased).
+
+## 4.3 Effect of Registration
+- Beneficiary children can handle property as if formally transferred or ceded in their names.
+
+## 4.4 General
+- For children married in community of property, vesting must reflect both spouses; death prior to endorsement leads to interest vesting in the child's estate.
+
+## 5 Section 58(2) of Act 47 of 1937: Reversion of Property to an Insolvent
+### 5.1 Introduction
+- Insolvent cannot transfer property until registrar adds an endorsement indicating re-vesting (s 58(2) of Act 47 of 1937).
+- Example: Rehabilitation process requires endorsement to restore property control.
+
+### 5.2 The Application
+- Formal application required by the insolvent or trustee for endorsement.
+
+#### 5.2.1 The Applicant
+- Application lodged by either the insolvent or the trustee.
+
+#### 5.2.2 Contents of the Application
+- Application must identify property and detail agreement with creditors.
+
+### 5.3 Supporting Documents
+- Copy of rehabilitation agreement (certified by the Master and accepted by creditors).
+- Certificate from the Master confirming acceptance of agreement necessary (if required by registry).
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 5.4 Effect of Registration of the Section 58(2) Endorsement
+- Title deeds must be lodged for endorsement as per **Section 58(2) of Act 47 of 1937**.
+- If encumbered by a bond, the bond does not require endorsement and need not be lodged.
+- Rehabilitated insolvent can deal with property without consent from former trustee.
+
+## 6. Section 45: Transfer by Endorsement if One of the Spouses Dies
+### 6.1 Requirements
+- **Section 45(1) of Deeds Registries Act** applies to immovable property, leases, or bonds forming part of a joint estate when the surviving spouse has acquired the deceased spouse's share.
+- Customary marriages resulting in a joint estate are included.
+
+### 6.2 Other Circumstances for Application
+- **6.2.1 Later Marriage in Community of Property**: Surviving spouse may apply to register share under new marriage.
+- **6.2.2 Partnership**: Section 45(1) applies to property registered in one spouse’s name.
+- **6.2.3 Foreign Law Marriage**: Section 45(1) may apply under proof of joint estate as per foreign laws.
+
+### 6.3 The Application
+- Written application to endorse title, signed by surviving spouse and executor (if applicable).
+- Must be lodged in a white cover.
+
+#### 6.3.1 Content of the Application
+- Reason for transfer (e.g., bequest, section 38 of **Administration of Estates Act 66 of 1965**, intestate succession).
+- Rates clearance certificate needed.
+- Existing mortgage bonds must be lodged for disposal.
+- Proof of joint estate (e.g., marriage certificate, affidavit).
+- Proof of VAT registration status of the deceased.
+- Certified copy of the will if applicable.
+- Inheritance certificate by conveyancer confirming compliance with the liquidation and distribution account.
+
+### 6.4 Documents That Need Not be Lodged
+- No conveyancer’s certificate required if **section 18(3) of Act 66 of 1965** applies.
+- No community of property proof needed if property is registered in both names or evident from the title deed.
+
+## 7. Section 45bis(1)(a): Transfer by Endorsement After Divorce
+### 7.1 Requirements
+- Application under **Section 45bis(1)(a)** applies to properties in joint estate following the dissolution of a marriage by divorce.
+- Customary marriages included.
+
+### 7.2 The Application
+- Application must be made by the person entitled to the property as per the divorce order.
+- Not necessarily the registered owner.
+
+#### 7.2.1 Contents of the Application
+- Reason for transfer (e.g., divorce settlement, redistribution agreement, purchase).
+- Applicant's full details (name, ID number, marital status).
+- Preparation clause in compliance with regulation 44.
+- Date and place of signing.
+- Description of property and title deed involved.
+----- END OF FILE -----
+# LPL4804/1
+
+## 7.3 Supporting Documents
+- Divorce agreement as court order.
+- Redistribution agreement for asset entitlement.
+- Title deeds endorsed per **section 45bis(1)(a)**.
+- Further court order for unilateral action if needed.
+- Transfer duty exemption.
+- Proof of marriage in community of property (certified marriage certificate).
+- Municipal clearance certificate.
+
+## 8 Section 45bis(1)(b) of Act 47 of 1937: Transfer by Endorsement
+### 8.1 Circumstances Surrounding Application
+- Appplies during subsistence of marriage/community of property.
+- Applies when court orders changes in matrimonial property regime as per **Matrimonial Property Act 88 of 1984** (sections 20 or 21(1)).
+  
+### 8.2 The Application
+#### 8.2.1 The Applicant
+- Application made by the spouse receiving property.
+
+#### 8.2.2 Contents of the Application
+- Reason for endorsement; refer to 7.2.1 for other required details.
+
+### 8.3 Supporting Documents
+- Original court order/certified copy.
+- Deeds to be endorsed.
+- Transfer duty exemption.
+- Certified marriage certificate (if applicable).
+- Municipal clearance certificate.
+
+## 9 Section 45bis(1A)(a) or (b) of Act 47 of 1937: Vesting in Both Former Spouses
+### 9.1 Requirements Before Application
+- Pertains to immovable property or lease/bond in joint estate.
+- Applicable if:
+  - Spouses divorced, with property accruing to both in undivided shares.
+  - Court order allocates property, lease, or bond to both in undivided shares.
+
+### 9.2 The Application
+#### 9.2.1 The Applicant
+- Written application by both former spouses.
+
+#### 9.2.2 Contents of the Application
+- Reason for endorsement (divorce agreement, redistribution agreement, regime change).
+- Full names, ID number/birth date, marital status.
+- Proof of compliance with regulation 44.
+- Place and date of signing.
+- Full description of property and title deed.
+
+### 9.3 Supporting Documents
+- Court order and settlement agreement/authorization.
+- Title deeds to be endorsed.
+- Municipal rates clearance certificate not required.
+- Required consents as per other legislation (e.g., Subdivision of Agricultural Land Act 70 of 1970).
+
+## 10 Summary
+- Discussed cost-effective transfers via endorsement, particularly for spouses in community of property.
+- Transition to next unit: Substituted title deeds or certificates of registered title.
+
+# UNIT 8: Substituted Titles/Certificates of Registered Title
+## 1 Introduction
+- Focus on circumstances for applying for substituted title deeds.
+- Key questions include conditions for issuance and identification in the vesting clause.
+
+## 2 Procedure for Issuing Certificates of Registered Title
+- Certificates serve as substituting title deeds; no ownership transfer.
+- Follow general procedure per **section 37** of the Act:
+  - Written application with existing title deed.
+  - If married in community of property, both must apply (Registrar's Resolution 25/2011).
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Registered Bonds and Certificates of Title
+- **Lodging Bonds**: All registered bonds over the property must be lodged (sections 40, 42, 43, 46 exceptions).
+- **Registrar's Statement**: Registrar will note on title deeds/mortgage bonds that a registered title certificate has replaced them.
+- **Types of Certificates of Title**:
+    - Undivided share certification: Section 34(1) permits co-owners to obtain a certificate for their share.
+    - Lost joint title: Section 34(2) allows issuing a certificate for undivided share if the title is lost (s. 34 and regulation 68(12)).
+    - Total shareholding: Section 35 allows obtaining a certificate reflecting total shareholding under multiple deeds.
+    - Specific land pieces: Section 36 allows certification for one or more pieces of land held in one title deed.
+    - Lost title deeds: Section 38 for certificates to replace lost deeds.
+    - Error correction: Section 39(1) enables issuing a certificate for registration errors.
+    - Omission of obsolete conditions: Section 39(2).
+    - Township titles: Section 43 specifics for certificates related to township land.
+
+---
+
+## Section 34(1): Certificate of Registered Title of an Undivided Share 
+
+### 3.1 Circumstances for Issuance
+- Co-owners with a single title deed must obtain a certificate for transferring or hypothecating shares.
+- Certificate necessary for partial transfers, mortgages, or leases of undivided shares.
+
+### 3.2 Prescribed Form
+- **Form I** must include:
+    - **Preparation clause**: Prepared by a conveyancer.
+    - **Heading**: State issuance under section 37.
+    - **Preamble**: Owner's application referenced.
+    - **Vesting clause**: Indicates current ownership status based on registry.
+    - **Property clause**: Must match the title but reflect applicant's share.
+    - **Extending clause**: Similar to deeds of transfer.
+    - **Conditional clause**: Existing conditions verbatim; no new conditions unless statutory.
+    - **Execution clause**: Can be executed unilaterally by the registrar.
+
+### 3.3 Supporting Documents
+- **Bond Requirement**: Section 37(2) necessitates bond production without mortgagee consent.
+- **Owner’s application & title deeds**: Must be lodged.
+- **Clearance certificates**: Not required; no transfer of rights occurs.
+- **Transfer duty**: No duty payable; no transfer involved.
+
+---
+
+## Section 34(2): Certificate of Registered Title of an Undivided Share in Case of Lost Title Deed 
+
+### 4.1 Circumstances for Issuance
+- Certificate issued when a joint title deed is lost; other owners remain valid under the original deed.
+
+### 4.2 Prescribed Form
+- The prescribed form as discussed in section 3.2 applies mutatis mutandis.
+
+### 4.3 Supporting Documents
+- An affidavit required from all co-owners; absent owners’ consent must be declared in the application.
+
+## Key Legislation and Cases
+- **Deeds Registries Act 47 of 1937**: Governs the registration of certificates and title deeds.
+- **Regulation References**: Detailed in various sections throughout the Act.
+  
+### Note
+For detailed diagram references, consult the unit materials related to deeds and certificates provisions.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Section 34: Certificates of Registered Title 
+- **34(2) Certificate for Lost/Destroyed Deed**
+  - Certificate allows a joint owner to apply for a title of an undivided share.
+  - Only applicable when lost deed is not yet exhausted.
+  - In other cases, use regulation 68 for certified copy, invalidating original deed.
+
+## Section 35: Certificate of Registered Title of Aggregate Shares 
+- **5.1 Circumstances for Certificate Issuance**
+  - Owner can obtain a single title for total share in multiple properties.
+  - Joint owners with equal shares can apply collectively; unequal shares must apply separately.
+
+- **5.2 Prescribed Form**
+  - Use Prescribed form I referencing section 35.
+  
+- **5.3 Supporting Documents**
+  - Title deeds and owner’s application required; no mortgagee consent needed.
+
+## Section 36: Certificate of Registered Title for Properties Under One Title Deed 
+- **Circumstances of Certification**
+  - Owner can obtain a title for one or more properties but must retain at least one under original title deed.
+
+- **6.1 & 6.2 Prescribed Form and Documents**
+  - Use Prescribed form I, alterations as needed; supporting documents same as section 35.
+
+## Section 38: Certificate for Lost/Destroyed Deed 
+- **7.1 Circumstances for Certification**
+  - Issued when both original title and registry copy are lost. 
+  - Interested parties must be notified; objections allowed.
+
+- **7.2 Prescribed Form**
+  - Use Form L, with modified preamble.
+
+- **7.3 Supporting Documents**
+  - Owner’s application, draft deed, diagrams if necessary; notice of application required.
+
+## Section 39(1): Correction of Registration Errors 
+- **8.1 Circumstances for Certificate Issuance**
+  - Issued when land registered under different titles due to error. One party must transfer ownership to the correct title holder.
+
+- **8.2 Prescribed Form**
+  - Use Form M with required clauses.
+
+- **8.3 Supporting Documents**
+  - Certificate must be lodged with deeds and bonds. No mortgage consents needed.
+
+## Section 39(2): Omission of Non-applicable Conditions
+- **9.1 Circumstances for Certificate Issuance**
+  - For removing lapsed conditions from title deeds via new certificate under section 39(2).
+  - Must be complete property owners to apply.
+
+- **9.2 Prescribed Form**
+  - Certificate must be in prescribed Form N.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Supporting Documents
+- Certificate of registered title, title deeds, and property bonds must be submitted.
+- No mortgagee's consent required.
+- Sections 3.3.2 to 3.3.4 apply mutatis mutandis.
+
+## Section 43: Certificate of Registered Title of a Portion of Land
+
+### Circumstances for Issuance
+- **10.1.1 Specific Portion of Land**
+  - Owner must obtain a certificate for mortgage purposes (s 43(4)).
+- **10.1.2 Individual Erf or Portion**
+  - Owner of township must apply for a certificate to deal with individual erf, except when erven are separately described in the title deed.
+  - *Note*: Title is not exhausted by issuing certificates for separate erven; streets remain under township title.
+  
+- **10.1.3 Division of Property**
+  - Owner dividing property must obtain a certificate for the retained part before transferring the remainder (s 43(1)).
+
+### Prescribed Form
+- **10.2** Certificate must be in prescribed form R. 
+
+#### Conditional Clause
+- **10.2.1.1 Notarial Deed**
+  - If a diagram involves a new servitude, a notarial deed must be registered simultaneously (reg 60(2)).
+- **10.2.1.2 Servitude**
+  - Can omit servitude from clause if not applicable.
+- **10.2.1.3 New Conditions**
+  - New conditions must be recorded, referring to relevant legislation (Acts 21/1940, 54/1971, 10/1944).
+- **10.2.1.4 Title Conditions**
+  - All title conditions must be included, referencing case law (Ronnie’s Motors v Van der Walt 1962 (4) SA 660 (A)).
+
+### Supporting Documents
+- Written application required; no conditions allowed in the application.
+- Title deed must be lodged.
+- Mortgage bonds must be lodged or mortgagee must provide consent (form MM).
+- No need for consent from other parties (lessees, servitude holders).
+- Additional requirements for section 10.1.1:
+  - Approved subdivisional diagrams and parent diagram must be lodged.
+  - Consent from mortgagees required under specific conditions (ss 65(3), 75(3), 76(2)).
+  
+- For section 10.1.2:
+  - No diagram unless previous general plan (s 46(7) of Act 47/1937).
+  - Proof of paid endowments and transferred endowment properties necessary.
+  - Mortgage bonds must be lodged with consents.
+  - Township title must be endorsed.
+  - Certificates cannot be issued while property is attached unless attachment is removed or sheriff's consent is obtained. 
+
+## Section 40: Certificate of Consolidated Title
+
+### Circumstances for Issuance
+- Consolidates two or more adjacent parcels of land into a single unit.
+- Typically done to facilitate development (e.g., combining Erven 3 and 5 into Erf 9 for a sectional title scheme).
+- Must issue a certificate of consolidated title before transfer of combined land can occur (s 40(8) of Deeds Registries Act 47 of 1937).
+----- END OF FILE -----
+### 11.2 Prerequisites
+
+- **Section 40(1) of the Act** outlines prerequisites for issuing a certificate of consolidated title.
+
+#### 11.2.1 Common Boundary
+- Land must be contiguous or adjacent with a common boundary (s 40(1)(a)).
+- If subdivided, the remainder is not viewed as separate (reg 32bis).
+
+#### 11.2.2 Owners
+- Land must be owned by the same person or co-owners holding equal undivided shares in each component.
+
+#### 11.2.3 Consolidation Diagram
+- Must be prepared per **Land Survey Act 9 of 1997**; approved by Surveyor-General.
+- Serves as a basis for the certificate of consolidated title.
+- Requires a certificate from the Surveyor-General if components are not described.
+
+#### 11.2.4 Requirements for Certificate
+- For registered deeds (e.g., lease, servitude) affecting the land:
+  - Attach diagrams reflecting affected portions.
+  - The consolidated diagram must highlight affected areas.
+
+#### 11.2.5 Recording
+- Land must be recorded in the same property register (s 40(1)(d)).
+- Properties in separate townships cannot be consolidated (Registrars’ Conference Resolution 22 of 1972).
+
+#### 11.2.6 Administrative District
+- Land must be in the same administrative district (s 40(1)(e)) and province (s 40(1)(f)).
+- Cannot consolidate land in different provinces, even under the same register (Registrars’ Conference Resolution 12 of 1996).
+
+#### 11.2.7 Process of Consolidation
+- Cannot consolidate erven directly from township title; a registered title per section 43 of the **Deeds Registries Act 47 of 1937** is required first (Registrars’ Conference Resolution 10 of 1994).
+- All prerequisites must be cumulatively met.
+
+### 11.3 Prescribed Form
+- Certificate of consolidated title must follow prescribed form (s 40(1)).
+  
+#### 11.3.1 Preamble
+- Describes owner(s) applying for the certificate.
+
+#### 11.3.2 Recital
+- Refers to components and associated title deed(s) without disclosing component areas.
+
+#### 11.3.3 Vesting Clause
+- Identical to the vesting clause in a certificate of registered title.
+
+#### 11.3.4 Description of Property
+- Must match the diagram precisely.
+
+#### 11.3.5 Extending Clause
+- Must reflect a specific format without the title reference.
+
+#### 11.3.6 Conditional Clause
+- All title conditions must be accurately described; eliminate redundant references.
+- Different scenarios of qualifications based on conditions attached to components outlined as follows:
+
+1. **Components subject to same conditions**: No qualification necessary, subject to those conditions.
+2. **Some components subject to same conditions**: Qualifications required; specify the contiguous components.
+3. **Different components subject to different conditions**: Conditions must be qualified for each respective component.
+4. **General and individual conditions**: General conditions apply to all but need specific qualifications for particular components. 
+
+> **Note**: Ensure adherence to presentation and requirements in consolidation for each land component to avoid discrepancies.
+----- END OF FILE -----
+### 11.3.6.5 Method of Qualification
+- **Condition/Servitude Reference**:
+  - If qualified in the title of the component, reference the original land unit.
+  - If not qualified, refer to the previous application in the certificate of consolidated title.
+- **Avoid References**: Do not reference figures from prior consolidations or subdivisions.
+- **Creative Deeds**: Reference the notarial deed for servitude conditions.
+- **Conditions**: No new conditions may be added; must be created via notarial deed or can be imposed by Act/proclamation directly into the consolidation certificate (s 40(3), *Registrars’ Conference Resolution 11 of 1986*).
+
+### 11.3.7 Execution Clause
+- Must align with execution clause in registered title certificate. Note: certificate of title is registered, not executed.
+
+### 11.4 Supporting Documents
+#### 11.4.1 Application with Details of Owner
+- Written application by owner representative is essential (s 40(3)), detailing the owner and components.
+
+#### 11.4.2 Consolidation Diagram
+- Approved by Surveyor-General.
+
+#### 11.4.3 Title Deeds
+- Submit title deeds of components with any bonds when applying for the certificate (s 40(3)).
+
+#### 11.4.4 Bondholder’s Consent
+- Must submit bondholder’s consent, or if all properties under one bond, one consent is sufficient.
+- **Cancellation**: If only part of land is mortgaged, bond must be cancelled (s 40(5)(a)).
+- Different bonds require bond cancellations (s 40(5)(b)).
+
+#### 11.4.5 Special Consent
+- Generally, no special consent needed; if required, must adhere to *Deeds Registries Act 47 of 1937* (s 65(3), *Registrars’ Conference Resolution 16 of 1989 and 11 of 1986*).
+
+#### 11.4.6 Attachment
+- Property under attachment cannot consolidate without withdrawal of attachment or sheriff's consent (*Registrars’ Conference Resolution 52 of 1990*).
+
+#### 11.4.7 Diagrams of Components
+- Component diagrams must be submitted for cancellation by Surveyor-General.
+
+---
+
+### 12 Section 46(4): Certificate of Township Title
+
+#### 12.1 Circumstances for Issuance
+- A township cannot be opened without a certificate of township title (s 46(4)), or a certificate of registered title (s 43(1)) if establishing on full property.
+
+#### 12.2 Prerequisites
+- **Section 43 Applicability**: Applies mutatis mutandis to a township title.
+
+#### 12.3 Prescribed Form
+- Adhere to prescribed form V. 
+
+#### 12.3.1 Description of Property
+- Description must match diagrams, including township name as specified.
+
+#### 12.3.2 Extending Clause
+- Must follow form TT.
+
+#### 12.3.3 Conditional Clause
+- Include all title conditions in the certificate, even those that may later lapse upon township declaration by the Premier.
+
+#### 12.4 Supporting Documents
+- Written application for certificate required; list all subdivision conditions (s 46(1)).
+- Include general plan, title deeds, mortgage bonds with written consent, and a compliance certificate from local municipality (s 3(1) of Ordinance 15 of 1985).
+- Submit general plan within a year of approval; Premier may extend this period.
+- Proof of compliance with any imposed conditions by the Premier is required.
+----- END OF FILE -----
+# Section 18: Certificate of Registered State Title
+
+## 13.1 Circumstances for Issuance
+- Applicable to unalienated, unsurveyed State land.
+- Registration requires identification on a general plan approved by Surveyor-General.
+- Certificate necessary for creating real rights (s 18(5)).
+- **Example**: To register a servitude over State land, a certificate is needed after survey and diagram approval.
+
+## 13.2 Prerequisites
+- Land must be surveyed and depicted on an approved diagram.
+
+## 13.3 Prescribed Form
+- **Form D** is the specified form.
+  - **Preparation Clause**: Required unlike deed of grant.
+  - **Property Description**: Must match the diagram exactly.
+  - **Extending Clause**: Follows form TT; no title deed reference.
+  - **Conditional Clause**: No conditions are present.
+
+## 13.4 Supporting Documents
+- Written application by the Minister or authorized officer.
+- Required diagram submission.
+- No existing registered title for examination or endorsement.
+
+## Summary of Substituted Title Forms
+- Multiple certificates: 
+  - Title of undivided share (s 34(1))
+  - Title for lost or destroyed deed (s 34(2))
+  - Title of aggregate shares (s 35)
+  - Title for multiple properties under one deed (s 36)
+  - Title replacing lost deed (s 38)
+  - Title correcting registration errors (s 39(1))
+  - Title omitting obsolete conditions (s 39(2))
+  - Title for a portion of land (s 43)
+  - Consolidated title (s 40)
+  - Uniform title (s 42)
+  - Township title (s 46)
+  - Registered state title (s 18(5))
+
+---
+
+# UNIT 9: Types of Mortgage Bonds
+
+## 1 Introduction
+- Focus on mortgage bonds and variance from notarial bonds.
+- Discuss purposes, requirements, and clauses of mortgage bonds.
+
+## 2 Mortgage Bond
+- Defined under **s 102 of the Deeds Registries Act 47 of 1937**; provides hypothecation of immovable property.
+- Formal agreement to secure repayment of a debt by creating a real right (Estate Chin v National Bank 1925 AD 353).
+- Benefits for registered landowners seeking credit.
+
+## 2.1 Requirements for Existence
+- Agreement to create a debt, which must not contravene public policy.
+- Immovable property must be capable of being mortgaged.
+- Existence of a registered mortgage bond.
+
+## 2.2 Structure of a Bond
+- No fixed form prescribed, but standard structure evolved from practice.
+- Preparation by a conveyancer required, identifying mortgagor, mortgagee, and details of the obligation.
+
+### 2.2.1 Heading
+- Usually titled “Mortgage Bond” with specific type mentioned (e.g., collateral, surety, etc.).
+
+### 2.2.2 Preparation Clause
+- Similar requirements as discussed in previous units.
+
+### 2.2.3 Preamble
+- Identification of conveyancer and mortgagor details.
+
+### 2.2.4 Acknowledgment Clause
+- Mortgagor acknowledges the debt to the mortgagee.
+
+### 2.2.5 Mortgagee (Bondholder)
+- Identified as the creditor; can have multiple mortgagees but different obligations require separate bonds (s 50(5)). 
+
+**Diagram Reference**: Structure of a conventional mortgage bond should be illustrated, demonstrating constituent elements.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.2 Mortgage Bonds
+
+### 2.2.5 Preference
+- A mortgage bond may not prioritize one mortgagee over another (s 55(2) of the Act).
+- No transaction yielding preferential claims among bondholders is permissible.
+
+### 2.2.6 Amount
+- Bond amount disclosure is not mandated by the Act, but is standard practice.
+- Registration fees calculated based on debt amount.
+- For future debts, a maximum amount must be specified (s 51(1) of the Act).
+- Foreign currency bonds require an exchange rate certificate upon registration.
+- If co-mortgagees exist, the total bond amount and individual shares must be stated (Registrars’ Conference Resolution 21 of 1954).
+
+### 2.2.7 Cause of Debt (Causa)
+- A bond secures a debt; without debt, no bond exists (Kirburn v Estate Kilburn 1931 AD 501).
+- Common causes include money lent, goods sold/delivered, etc.
+- Future debts can be secured via covering bonds (s 50(2) of the Act).
+- Section 50(5) restricts multiple creditors for different causes to be secured by a single bond without legal or court authorization.
+- Illegal debts cannot be secured.
+
+### 2.2.8 Waiver of Legal Exceptions
+- Prior to the National Credit Act 34 of 2005, mortgagors and mortgagees could contractually exclude defenses. Such waivers are now void (s 90).
+  
+#### 2.2.8.1 Non Causa Debiti
+- Debt lacks cause; waived in bonds securing non-monetary claims (Conradie v Rossouw 1919 AD 279).
+
+#### 2.2.8.2 Non Numeratae Pecuniae
+- Claims that the acknowledged debt was not paid; waived in monetary loan bonds (Cohen v Louis Blumberg 1949 (2) SA 849).
+
+#### 2.2.8.3 Revision of Accounts, Errore Calculi, No Value Received
+- Collective exceptions resulting in the burden of proof on mortgagor for debt amounts claimed by creditor.
+
+#### 2.2.8.4 De Duobus Vel Pluribus Reis Debendi
+- Remedies for multiple co-debtors’ liability; waiver creates joint liability.
+
+#### 2.2.8.5 Beneficium Ordinis Seu Excussiones
+- Surety must be pursued post-debtor; renunciation allows creditor to pursue surety first.
+
+#### 2.2.8.6 Beneficium Divisionis
+- Multiple sureties typically liable proportionately; waiver permits creditor to sue any surety for full amount.
+
+### 2.2.9 Interest and Repayment Clauses
+- No statutory requirement to disclose interest rates; common practice to disclose.
+- Repayment terms depend on mutual agreement, typically in installments.
+
+### 2.2.10 Cost Clause
+- Secures payment for costs incurred by creditor in addition to debt.
+- Covers expenses like legal costs, taxes, and maintenance.
+- Often includes an additional security amount representing 20% of the principal loan.
+
+### 2.2.11 Ranking
+- No mandatory disclosure of bond ranking in Deeds Registries Act 47 of 1937.
+- Ranking based on registration date (qui prior est tempore potior est iure).
+- Established practice to disclose ranking (1st, 2nd, 3rd).
+- Same day registration requires time stamp for bonds lacking explicit ranking.
+- Bonds registered pari passu do not require waiver for simultaneous registrations. 
+
+--- 
+
+**Legislation and Cases Highlighted:**
+- **Deeds Registries Act 47 of 1937**
+- **National Credit Act 34 of 2005**
+- **Kirburn v Estate Kilburn 1931 AD 501**
+- **Conradie v Rossouw 1919 AD 279**
+- **Cohen v Louis Blumberg 1949 (2) SA 849**
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.2 Security and Charges on Property
+
+### 2.2.1 Ranking of Bonds
+- **Ranking Clause**: Bonds can rank equally. E.g., “This bond ranks pari passu with a bond registered on this day in favour of…”
+- **Charges**: Must be disclosed, e.g., “A first bond subject to Charge Number 359/1982 for R1,000.00.”
+- **Alienation of Land Act 68 of 1981, Section 20**: Contracts for sale of land must be mentioned. E.g., “A first bond subject to B792/2006AL.” (Section 29 prevents waiver of rights).
+
+### 2.2.12 Property and Security Clauses
+- **Immovable Property**: Defined in **Deeds Registries Act 47 of 1937**, Section 102. Can be registered land or real rights.
+- **Description Requirements**: Must include full property description, extent, title deed number—separate for multiple properties (regulation in terms of s 41(2)).
+
+### 2.2.13 Special Conditions of Title
+- **Existing Conditions**: Must be specified in the bond (s 41(1)).
+  
+#### 2.2.13.1 General Conditions
+- Land described as “subject to the conditions of title.”
+
+#### 2.2.13.2 Restrictions
+- **Written Consent**: Required for mortgaging land with specific conditions (common in low-cost housing). Not needed if “disposed of” (s 41(1)).
+
+#### 2.2.13.3 Lease
+- **Disclosure**: Leased land must be disclosed (Huur gaat voor koop). Lessee can waive preference by notarial deed.
+
+#### 2.2.13.4 Reversionary Right
+- **Definition**: Ownership returns to the previous owner upon specified event. Can bind successors in title (s 63).
+- **Conditions**: Must be evaluated individually (e.g., Bodasing v Christie NO 1961 (3) SA 553 (A)).
+
+#### 2.2.13.5 Personal Servitudes
+- **Options**:
+  - Bond subject to servitudes, reducing bondholder security.
+  - Holder may waive rights (s 3(1)(i)).
+  - Land may be jointly mortgaged (s 69(3)).
+  - Principal bond with personal servitude as surety (s 69(4)).
+
+#### 2.2.13.6 Fideicommissum
+- Bond subject to fideicommissum described as “X the fiduciarius…” .
+
+#### 2.2.13.7 Expropriation
+- Bond must specify non-encumbrance by expropriated land.
+
+#### 2.2.13.8 Restriction on Alienation
+- Bonds must be made subject to restrictions on separate alienation.
+
+#### 2.2.13.9 Attachments
+- Attachment against property prevents mortgaging until uplifted.
+
+### 2.2.14 Conditions in Bonds
+- **General Rule**: Any condition may be included unless illegal or deceptive.
+  
+#### Prohibited Conditions (Deeds Registries Act 47 of 1937)
+- No preferential bond arrangement among multiple holders (s 55(2)).
+- No conditions imposing unauthorized obligations on a registrar (reg 35(6)).
+- General clauses binding immovable and movable properties together are banned (s 53(1)).
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 2.2.15 Domicilium citandi et executandi
+- Mortgagor selects address for serving notices, known as domicilium citandi et executandi (Gerber v Stolze and Others 1951 (2) SA 166 TPD).
+
+## 2.2.16 Executions clause  
+- **Section 50(1)**: Mortgage bond execution must occur in presence of registrar by property owner or authorized conveyancer, attested by registrar.
+- **Section 13(2)**: Mortgage bond deemed registered when registrar signs, even if data not recorded; batch registrations only deemed registered when all signed.
+- Omitted signatures can be affixed later, dating back to original required time (s 13(2)).
+- Specific time noted for multiple bonds if not ranking disclosed (reg 45(4)).
+- Signatures must appear on the last page of the bond.
+
+## 2.2.17 Special power of attorney
+- Must be properly executed and dated to authorize bond execution (reg 25).
+- Should include draft bond as annexure.
+- No material changes allowed without initials; non-material changes by preparer (reg 20(4)).
+- **Chief Registrar’s Circular 17 of 2006**: Real rights holders can waive rights in favor of the bond.
+
+## 3 Various Types of Mortgage Bonds
+
+### Collateral bond
+- Additional security bond for existing debt.
+- Must be between the same mortgagor and mortgagee.
+- Example: Additional security for a loan might involve hypothecating another property.
+- Registered simultaneously or separately (reg 48).
+- **Form KK** prescribed by Deeds Registries Act 47 of 1937.
+
+### Surety bond
+- Two types: 
+  1. General surety bond for existing secured debt.
+  2. Surety bond for unsecured debt.
+- Example: Co-debtor (Y) hypothecates property as security for another's (X's) debt.
+- Renunciation of **beneficium ordinis** and **beneficium divisionis** may be required (Union Government v Van der Merwe 1921 TPD 318).
+- **Form LL** prescribed for surety bonds.
+
+### Covering bond
+- Special mortgage securing a future debt.
+- Must explicitly state intent to secure future debts with a stipulated maximum amount.
+- Example: Future loans under an overdraft facility secured by property loan already registered.
+- Constraints under **Section 51(1)** of Deeds Registries Act 47 of 1937.
+
+### Debenture bond
+- Created and issued by companies under **Companies Act 71 of 2008**.
+- Secured by notarial or mortgage bonds in favor of debenture holders/trustee.
+- Certified copies of debentures must accompany the bond.
+
+### Kinderbewys mortgage bond
+- Surviving spouse acts as guardian for minor’s inheritance; must secure money with a mortgage bond.
+- Must be approved by the Master of the High Court (s 43(2) Act 66 of 1965).
+- If insufficient property exists, a notarial bond can be passed over movable property with additional sureties.
+- Requires Master’s approval; forms available with approval clause from the Master.
+----- END OF FILE -----
+# Study Notes on Various Types of Mortgage Bonds
+
+## Chapter Overview
+- Types of Mortgage Bonds
+- Associated Legislation
+- Practical Examples
+
+### 1. Kinderbewys Bond (Section 38, Administration of Estates Act 66 of 1965)
+- Surviving spouse may secure the inheritance of minor beneficiaries via mortgage bond.
+- Bond must be approved by the Master of the High Court.
+- Structure:
+  - Approval required for the estate to avoid insolvency.
+  - Registered at deeds registry; contingent on separate certificate from Master.
+
+### 2. Substituted Bond
+- Definition: Replaces existing mortgage bond; same creditor and debtor.
+- Causa (cause of debt) required; acknowledgment of debt included.
+- Old bond cancels upon registration of new bond.
+  
+### 3. Judicial Mortgage
+- Not a traditional bond, but a court attachment order.
+- Process:
+  - Creditor takes legal action for unpaid debts; court issues warrant.
+  - Registrar notes attachment as interdict against property.
+- Key Outcome: Prohibits property transfer and offers preference in insolvency cases.
+
+### 4. Indemnity Bond (Vrywaringsverband)
+- Purpose: Ensures compliance with obligations of one party on behalf of another, secured by a mortgage.
+- Types:
+  1. Indemnity by principal debtor for suretyship without existing mortgage.
+  2. Indemnity by mortgagor to a surety with existing mortgage bond.
+- Structure: Bond details obligations and waivers of legal exceptions by the indemnifier.
+
+### 5. Kustingsbrief
+- Definition: Special mortgage to secure unpaid purchase price upon land transfer.
+- Characteristics:
+  - Registered simultaneously with property transfer.
+  - Provides better security for creditors over ordinary mortgage bonds.
+
+### 6. Charges
+- Defined: Not a mortgage bond; attaches to the land.
+- Statutes require noting charges against land for debts owed.
+- Example Legislation: 
+  - **Land Bank Act 13 of 1963** (now replaced by **Land and Agricultural Development Bank Act of 2002**).
+  - **Municipal Systems Act 32 of 2000**, Section 118(3): Allows municipality charge against property for unpaid claims.
+
+### 7. Annuity Bond
+- Definition: Secures regular payments (annuity) via registered bond if lump sum payment is not feasible.
+- Causa should explain the obligation to pay annuity and specific terms.
+
+### Important Legislation and Cases
+- **Administration of Estates Act 66 of 1965**
+- **Deeds Registries Act 47 of 1937**
+- **Magistrate’s Court Act and Rules**
+- **High Court Act and Rules**
+- **BOE Bank Limited v City of Tshwane Metropolitan Municipality** 2005 (4) 336 (A)
+
+### Key Principles
+- Registration Requirements: Bonds must adhere to specific formats as mandated by legislation.
+- Preference in Ranking: Certain bonds (like kustingsbrief) achieve priority even against other registered bonds.
+- Indemnity: Protects sureties and allows for compensation in event of claims from creditors.
+
+## Conclusion
+- Understanding the differences between types of bonds and their registration processes is crucial for navigating property law and credit security.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+### Chapter 14: Types of Mortgage Bonds
+- **Sectional Mortgage Bond**
+  - Hypothecates sectional title properties.
+  - Conditions are in an annexure per the **Sectional Titles Act**.
+  - Executed by mortgagor and attested by a conveyancer; registered in deeds registry.
+
+- **Notarial Bond**
+  - Hypothecates movable property.
+  - Executed before a notary public and registered in deeds registry.
+
+- **Participation Mortgage Bond**
+  - Regulated by **Collective Investment Schemes Control Act 45 of 2002**.
+  - Forms part of an investment scheme; collaterally secured by mortgage bonds.
+
+#### Key Features:
+- Registered in favor of a nominee company, not individual investors.
+- Investors earn returns through interest paid by debtors.
+- Nominee company requirements include registration, management fee limitations, and maintaining minimum capital reserves.
+- Debt secured is acknowledged as owed to participants, with rankings and transfer restrictions.
+
+### Chapter 10: Bond Cancellations, Releases, Cessions, Substitutions, and Variations
+#### 1. Introduction
+- Discuss registration of:
+  - Cancellation of mortgage bonds.
+  - Release of immovable property.
+  - Cessions of mortgage bonds.
+  - Substitutions of debtors.
+  - Part payments/reductions in cover.
+  - Waivers of preference.
+  - Variations of terms.
+
+#### 2. Cancellation of Mortgage Bonds
+- **Section 56(1) of the Deeds Registries Act** states:
+  - Mortgaged land cannot transfer until bond cancellation or property release.
+- Bonds typically cancelled when property is sold or debt is paid.
+- Exceptions under S56(1):
+  - Transfers under court orders.
+  - Actions by trustees in insolvency or liquidation.
+  - Executor transactions in insolvent estates.
+
+#### 3. Releases from Mortgage Bonds
+- Release occurs when multiple properties are hypothecated.
+- If sufficient security remains, the mortgagee may consent to release.
+- **Examples**:
+  - Property release means it no longer serves as security.
+  - With property release, person obligations must also be addressed unless alternative security exists.
+
+#### Important Notes:
+- Consent for acts regarding bonds must be signed, witnessed per **Reg 39(1)**, and concise for each bond.
+- The **prescribed form** MM can be adapted for specific consents regarding bond dealings. 
+
+#### Additional Regulations:
+- Separate written consent for each cancellation or registration is required.
+- Only the bondholder or authorized agent can grant authority for registration acts.
+
+---
+
+This concise format captures the main legal principles and regulatory frameworks presented in the original text while significantly reducing the verbosity. Please reference the specific sections or legislation for further details or case illustrations as needed.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Table of Contents
+1. **Releases from Mortgage Bonds**
+   - 1.1 The Consent 
+      - 1.1.1 The consent to release form
+      - 1.1.2 Operational clause
+   - 1.2 Consent by Co-Mortgagors 
+      - 1.2.1 Release of part of co-mortgagor’s immovable property
+      - 1.2.2 Release of all immovable property of one of the mortgagors
+      - 1.2.3 Consent – co-mortgagors and a collateral bond
+   - 1.3 General
+2. **Cession of Registered Mortgage Bonds and Cancellation of Cessions**
+   - 2.1 General
+   - 2.2 Out-and-out cession
+   - 2.3 Cession as security
+   - 2.4 Form of cession
+      - 2.4.1 Heading
+      - 2.4.2 Cedent
+      - 2.4.3 Sum of the mortgage bond
+      - 2.4.4 Operational clause
+      - 2.4.5 Causa for cession
+
+---
+
+## 1. Releases from Mortgage Bonds
+
+### 1.1 The Consent
+
+#### 1.1.1 The consent to release form
+- Use prescribed form MM for consent to release.
+
+#### 1.1.2 Operational clause
+- **Property only:** “… do hereby consent to the release of: Erf 5, Evaton township...”
+- **Property and person:** “… do hereby consent to the release of Erf 5, Evaton township... and Y Identity number... Unmarried.”
+
+### 1.2 Consent by Co-Mortgagors 
+
+#### 1.2.1 Release of part of co-mortgagor’s immovable property
+- Consent of all co-mortgagors required for any release (s 55(1)(a)).
+  
+#### 1.2.2 Release of all immovable property of one of the mortgagors
+- Possible only if both property and co-mortgagor are released, with consent from other mortgagor (s 55(1)(b)).
+
+#### 1.2.3 Consent – co-mortgagors and a collateral bond
+- Collateral bonds prevent the release of co-mortgagor/property even with consent. Registrar must note collateral bonds (Registrars’ Conference Resolution 12 of 1989).
+
+### 1.3 General
+- Release of subdivided land allowed only when registered transfer coincides with the release (Registrars’ Conference Resolution 20 of 1954 and 8 of 1967).
+
+---
+
+## 2. Cession of Registered Mortgage Bonds and Cancellation of Cessions
+
+### 2.1 General
+- Cession transfers mortgagee's rights from holder (cedent) to another (cessionary).
+- Distinction between out-and-out cession and cession as security.
+
+### 2.2 Out-and-out cession
+- Bond may be ceded for value received; cedent loses all interest. New bondholder can act as creditor without recourse against cedent.
+
+### 2.3 Cession as security
+- Bond ceded as security for debt does not remove cedent’s interest. Upon debt settlement, cancellation of cession required.
+
+### 2.4 Form of cession
+
+#### 2.4.1 Heading
+- Change form MM from “Consent to Cession” to “Cession”.
+
+#### 2.4.2 Cedent
+- Include cedent's full name, status, and identity number.
+
+#### 2.4.3 Sum of the mortgage bond
+- Register cession of balance only after all payments reducing the balance noted (reg 47).
+
+#### 2.4.4 Operational clause
+- Actual transfer wording required: “cede, transfer and assign...”.
+
+#### 2.4.5 Causa for cession
+- Must disclose reason for cession; failure results in non-registration (reg 41(4)). 
+
+--- 
+
+**Legislation/Case References:**
+- Deeds Registries Act 47 of 1937
+- Registrars’ Conference Resolution 12 of 1989
+- Registrars’ Conference Resolution 20 of 1954 and 8 of 1967
+- Registrars’ Conference Resolution 21 of 1949 and 32 of 1972
+- Registrars’ Conference Resolution 1 of 1988
+- Furnival v Cornwall’s (case reference)
+----- END OF FILE -----
+# LPL4804/1: Executors and Cession of Mortgage Bonds
+
+## Page 239
+
+### 4.4.6 The Cessionary
+- Full details required per **section 17** and **regulations 18 and 24**:
+  - Natural persons: full names, marital status, ID number/date of birth.
+  - Non-natural persons: full name and registration number.
+- Multiple bonds and heirs: cessions must be joint (e.g., both heirs must jointly hold each bond) **(Registrars’ Conference Resolution 2 of 1940)**.
+- Redistribution agreement can allow deviations from standard joint cession rules.
+
+### 4.5 Supporting Documents
+- Documents listed in unit 5 are required for heir cession registration.
+- Mortgagor consent is generally not required for bond cession.
+- Bond can be ceded as a whole; splitting payment obligations requires mortgagor consent **(Lief v Dettman 1964 (2) SA 252 (A))**.
+
+### 4.6 General
+- Cancellation of ceded bonds requires joint consent of mortgagee and cessionary.
+- Cessions can be registered before bond registration, but full details must be disclosed **(Registrars’ Conference Resolution 12 of 1951)**.
+- Cession of surety bonds requires simultaneous cession of the principal bond **(Inter-Union Finance Ltd v B Dunsterville 1956 (4) SA 280 (D))**.
+- Cessation of collateral bonds deemed null **(Registrars’ Conference Resolution 31 of 1964)**.
+
+## Page 240
+- **Indemnity bonds**: Can only be ceded if surety and principal bonds ceded simultaneously **(Registrars’ Conference Resolution 25 of 1988)**.
+- Changes to bond terms can be registered with cession **(Registrars’ Conference Resolution 28 of 1971)**.
+
+## Page 241
+- Cession cancellation:
+  - Registered cession as security: can be cancelled via underhand consent.
+  - Out-and-out cession: requires court order per **section 6(1) of the Act**. Can also be rectified by re-cession.
+- Differences in cession types: implications for debtor obligations versus creditor rights.
+
+## Page 242
+### 5. Substitution of Debtor/Mortgagor by Endorsement
+- Replacement of debtor/mortgagor retains bond obligations for new party. Original debtor absolved from obligations.
+- **Section 24bis(3)** regarding partnership dissolution dictates endorsement conditions for substitution:
+  - Bond must be cancelled or mortgagee consent needed for member substitutions.
+
+### 5.1 **Example of Substitution via Endorsement**
+- Partnership (Adam & Peet) requires consent for substitution due to partner retirement.
+
+## Page 243
+### 5.2 **Section 45(2)(c): Substitution of Mortgagor by Endorsement**
+- Surviving spouse may replace joint estate in mortgage bond with consent.
+- Required documents include endorsement of title deed and consent forms.
+
+### 5.3 **Section 45bis(2)(a): Substitution for Ownership Transfer**
+- Examples of ownership changes post-divorce or marital regime changes necessitate adherence to relevant provisions concerning encumbered properties.
+
+### Key Legislation and Cases
+- **Lief v Dettman 1964 (2) SA 252 (A)**
+- **Inter-Union Finance Ltd v B Dunsterville 1956 (4) SA 280 (D)**
+- Various **Registrars’ Conference Resolutions** relevant to cessions and bond transactions.
+
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Page 245
+
+### Form T of Act 47 of 1937
+- Used without reference to a survivor or late spouse.
+- **Substitution of Debtor:** 
+  - **Example:** If X and Y, married in community of property, pass a bond to Z, Y can substitute X as the sole debtor if:
+    - Y is the sole owner of the property.
+    - Z and Y consent to the substitution and release of X.
+    - Title deed endorsed per **section 45bis(1)** of the Act.
+
+### Section 45bis(1A)(a) or (b): Substitution of Debtor by Endorsement
+- Discussed in Unit 6 regarding registration of property in both spouses' names post-marriage dissolution/change.
+- **Example:** In a divorce, both X and Y may own property in equal shares. If there's a bond:
+  - Title deed is not endorsed unless:
+    - Bond is canceled.
+    - Property released from bond.
+    - X and Y accept full debt responsibility in writing (s 45bis(2)(b)).
+
+## Page 246
+
+### Section 57: Substitution of Debtor Under a Bond
+
+#### 5.5.1 General
+- A debtor may be substituted as mortgagor when a purchaser takes over a mortgage bond (s 57(1) of the Act).
+- **Example:** 
+  - X sells Erf 1 to Y. If Z agrees, Y is substituted for X as debtor.
+  - If joint owners X and Y transfer mortgaged land to X, Y, and Z (partnership), Y and Z can be substituted for X and Y.
+
+- New debtors must waive **exception de duobus vel pluribus reis debendi (s 57(4)(b))** for joint liability.
+
+- A **surviving spouse** can be substituted as mortgagor for existing mortgage, irrespective of the devolution method, requiring a formal deed of transfer (Registrars’ Conference Resolution 2/2005).
+
+#### 5.5.2 When Substitution May Not Occur
+- **5.5.2.1 Status of Transferor:**
+  - No substitution if transferor is:
+    - a trustee in an insolvent estate
+    - an executor under the Estates Act 66 of 1965
+    - a company liquidator (s 57(1) with s 56(1)(b)).
+
+- **5.5.2.2 If Property Not Fully Transferred:**
+  - New debtor must receive entire property to be substituted (s 57(1)).
+  - Example: Transfer of part of property disallows substitution due to security issue. 
+  - **Case Ruling:** Section 57 can apply if a co-owner transfers his/her entire share to another co-debtor (Registrar's Conference Resolutions 7/1994, 19/2005).
+  
+- **5.5.2.3 If Transferor Reserves a Real Right:**
+  - Substitution not allowed if transferor reserves rights (e.g., usufruct), affecting bond security (s 57(1)).
+  - Example: Usufruct reservation prohibits substitution unless waived.
+
+- **5.5.2.4 If New Owner Incapable of Mortgaging:**
+  - Minors cannot substitute unless guardians act with High Court consent if bond > R250,000 (Ex parte Ross 1940 CPD 6).
+
+- **5.5.2.5 If Bond Secures Surety Obligations:**
+  - No substitution if bond secures a surety’s obligations (s 57(1)).
+  
+- **5.5.2.6 Two Mortgagors May Not Substitute for One:**
+  - A single mortgagor cannot transfer multiple properties to different entities as mortgagors (Registrar's Conference Resolution 18(a) of 1996).
+
+#### 5.5.3 Substitution in Covering Bonds
+- Substitution possible with consent from all parties in form W (based on regulations).
+- Non-fulfillment of bond amount necessitates registration of part payment/reduction (reg 47).
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 7. Differentiation of Section 45(2)(a) and Section 45bis(2)(a) of the Act
+
+- Sections refer to real rights in property transfer under marriage
+  - **Section 45(2)(a)**: Application post the death of a spouse
+  - **Section 45bis(2)(a)**: Application upon divorce
+
+## 6. Part Payments
+### 6.1 General 
+- Part payments can be endorsed on a bond to reduce secured amounts 
+- Endorsement requires mortgagee's application 
+- Example: X owes R300 000, pays R100 000, debt noted as R200 000
+- Cannot register part payment on covering bonds as they secure fluctuating debts
+
+### 6.2 Consent to Part Payment
+- Only mortgagee can consent to part payment registration (Reg 39)
+- Multiple bondholders’ consent needed for recording part payments against shared debt 
+- Cancellation of bond follows consent, securing interests equally
+
+### 6.3 Surety Bonds
+- Part payments do not reduce surety bonds relative to principal debt
+- Must cancel surety bond, register new lower amount bond 
+- Followed by collateral bonds adjustments
+
+## 7. Reduction in Cover
+### 7.1 General
+- Covering bonds provide for fluctuating debts, necessitating reduction in cover instead of part payments 
+- Reduction applies to future debt-secured bonds 
+- Co-mortgagee reductions do not require mortgagor consent 
+
+## 8. Waiver of Preference
+### 8.1 General
+- **Section 3(1)(i)**: Allows waiver of preference for mortgage bonds
+- Certain waivers (e.g., minors) may require approval from the Master of High Court 
+- Process of waiver extends to personal rights (e.g., usufruct)
+- Waivers must be registered against bonds
+
+### 8.2 Notarial Waivers
+- Notarial deed required for waivers regarding registered real rights 
+- Consent must be prepared by a conveyancer (Reg 44(1))
+- Example: Holder can consent to waive preference to rank new bond
+
+### 8.3 General Conditions
+- If a bond over bare dominium exists, later registered bonds may incorporate waivers securing future interests 
+- Explicit wording needed for joint owner bond waiver agreements 
+
+**Reference to specific cases and regulations must be reviewed for detailed application**.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 8.3.2 If the ranking clause indicates a waiver of preference or pari passu ranking
+- **Bondholder Obligations**: Existing bondholder must waive preference when ranking clause indicates a waiver of preference.  
+  - Reference: **Section 3(1)(h) of the Deeds Registries Act 47 of 1937** (Registrars’ Conference Resolution 1 of 1994).
+
+### Waivers of Preference 
+1. **Types & Effects**:
+   - Registered bonds: Changing registration order for payment.
+   - Registered limited real rights: Foreclosure allowed notwithstanding rights; limited rights holders act as sureties.
+   - Registered personal rights (e.g., pre-emption): Similar effects as above.
+2. **Cession of Security**: Both Y and Z must consent to a waiver if a bond is ceded.
+3. **Simultaneous Registrations**: Waiver needed only if one bond is registered.
+
+## 9 Section 3(1)(s): Agreements varying the terms of a bond
+
+### 9.1 General
+- **Registrar's Duty**: Register agreements varying terms of a bond (Section 3(1)(s) of the Act).  
+  - Example: If interest rate changes from 10% to 15%, register variation.
+
+### Terms That Cannot Be Varied:
+- Conditions relating to:  
+  - **Cause of debt**
+  - **Mortgaged security**
+  - **Debt amount**: Registration for part payment instead.
+  - **Additional amounts**: Costs clause.
+- **Real Right**: A new bond required; existing bond terms cannot change character (Reference: **Lief v Dettman 1964 (2) SA 252 (A)**).
+
+### Conditions and Amendments
+- Incorrectly registered conditions must be rectified (Section 4(1)(b)).
+- Usual bond conditions (e.g., interest rates) can be varied.
+
+### 9.2 General
+- Amending trust deeds: Registered variation agreement required (Section 3(1)(s)).
+- **Mergers**: May be endorsed as a variation in bonds.
+
+## 10 Summary
+- Focus on registered mortgage bond cancellation, cession, and debtor substitution methods, and variation of bond terms.
+
+## 11 UNIT 11: Sequence of deeds and miscellaneous applications
+
+### 1 Introduction
+- Transfers and cessions must follow prescribed sequence under **Section 14 of the Deeds Registries Act 47 of 1937**.
+
+### 2 Significance of Section 14
+- Cornerstone of land registration system; requires registration for ownership and rights.  
+  - **Purpose**: Ensures comprehensive records and protects titles; transfer duty applicable even in exemptions.
+
+### 3 The general rules
+- **Sequence Required**: 
+  - Transactions must follow the order of ownership rights.
+  - Unlawful to alter the sequence in deeds registry.
+- **Exceptions**: Insolvency law not subject to Section 14.
+
+- **Transfer Process Examples**: 
+  - X → Y → Q → Z (no direct transfer to Z). 
+  - Bequeathal requires passage to estate before transfer to heirs or executors.
+----- END OF FILE -----
+## 3.1 Exceptions to the rules contained in section 14
+
+### 3.1.1 Exceptions contained in section 14 of the Deeds Registries Act itself
+
+#### # Section 14(1)(b)(i)
+- Transfer of land or real rights via executor to descendant's heir ab intestatos if:
+  - Land/right devolved via will or intestate succession.
+  - Descendant died intestate, minor, before deceased.
+  - No executor appointed for minor’s estate.
+- **Cumulative requirements**.
+  
+#### # Section 14(1)(b)(ii)
+- Executor may transfer property directly to purchaser if:
+  - Property devolved to heir or legatee.
+  - Costs of transfer exceed property value.
+  - Heir/legatee sold property and consented in writing.
+- **Written valuation by sworn appraiser required (Reg 55)**.
+
+#### # Section 14(1)(b)(iii)
+- Executor or trustee can transfer land directly to entitled persons during asset redistribution, reflected in the liquidation and distribution account.
+- Redistribution can include movable assets for equality in division.
+
+#### # Section 14(1)(b)(iv)
+- **Applicable mutatis mutandis** to:
+  - Redistribution of joint estate assets post-divorce.
+  - Redistribution on partnership dissolution without intermediary transfer.
+
+#### # Section 14(1)(b)(v)
+- Similar conditions apply in certain situations post-divorce or partnership dissolution allowing direct transfer without intermediary steps.
+
+#### # Section 14(1)(b)(vi)
+- Direct transfer to fideicommissary if fiduciary interest expires before transfer registration.
+- Applicable to testamentary and inter vivos fideicommissa.
+
+#### # Section 14(1)(b)(vii)
+- Transfer may directly pass to third person under court order or sale in execution, avoiding intermediary transfers.
+
+### 3.1.2 Other exceptions contained in the Deeds Registries Act 47 of 1937
+
+#### 3.1.2.1 Section 33(1)
+- Court can authorise direct registration of property when usual process fails due to circumstances such as disappearance of intermediary.
+
+#### 3.1.2.2 Section 92(2)
+- Property settled/donated in antenuptial contract can't be transferred to another by donor without required payments.
+
+#### 3.1.2.3 Section 24bis
+- Change in partnership shareholding does not require registration for property, though transfer duty applies.
+
+### 3.1.3 Instances where the court directs otherwise
+- Court rulings can permit registration bypassing standard transaction sequences.
+
+### 3.1.4 Exceptions contained in other Acts
+- Other Acts, e.g., **Prescription Act 68 of 1969**, allow deviations from section 14 general rule.
+
+## 4 Transfer duty on intermediary transfers
+- **Section 14(2)** stipulates transfer duty applies to intermediary transactions even with direct transfers authorized by court.
+- **Section 12 of the Transfer Duty Act of 1949** requires transfer duty receipts for each acquisition during registration.
+  
+---
+
+**Note**: The examples, learning activities, and self-assessment have been excluded as per your request.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+---
+
+## 2. Heritage and Inheritance Sequences
+
+- **Inheritors**: Y and Q inherit X's property.
+- **Agreement**: Y registers property; Q receives cash before liquidation and distribution account finalised.
+
+### 2.1 Transfer Sequence
+- **Transfer Order**: Entire property from estate to Y.
+  - **Legal Basis**: Section 14(1)(b)(iii) – transfer duty must be settled before further registrations.
+
+### 2.2 Parties to Agreement
+- **Parties**: Y, Q, and executor of X’s estate.
+
+### 2.3 Post-Liquidation Agreement Impact
+- **Difference**: Yes, if agreement signed after liquidation; redistribution impacts liquidation and distribution account (Refer to p. 240).
+
+### 2.4 Minor Heir's Sequence
+- **Scenario**: Y (minor grandson) dies intestate; no executor.
+- **Heirs**: Y’s mother and father.
+- **Transfer Sequence**: Refer to section 14(1)(b)(i).
+
+---
+
+## 3. Exceptions to Section 14 Rules
+
+- **Categorical Exceptions**:
+  - Exceptions within section 14.
+  - Other Deeds Registries Act provisions.
+  - Court directives.
+  - Other legislative exceptions.
+
+---
+
+## 5. Diverse Applications and Endorsements
+
+### 5.1 Amendment of Errors (Section 4(1)(b))
+
+#### 5.1.1 General 
+- **Error Definition**: Registered deed corrections (e.g., name spelling errors).
+- **Conditions**: Error must exist at registration time; subsequent changes in circumstances are not correctable.
+
+#### 5.1.2 Amendable Errors
+- **Authorized Edits by Registrar**:
+  - Person’s name details (e.g., spelling).
+  - Identity/registration numbers.
+  - Property names and descriptions.
+  - Property conditions.
+
+#### 5.1.3 Conditions for Amendment
+- **Restrictions**:
+  - No contravention of other Acts (e.g., Subdivision of Agricultural Land Act 70 of 1970).
+  - Must not transfer rights (s 4(1)(b)(iv)).
+  - No changes to "dead" deeds (e.g., no further transactions possible).
+
+#### 5.1.4 Applications
+- **Required**: Written application by registered owner or real right holder, with sworn affidavit.
+- **Consent**: All interested parties must consent or rectification may require a court order (s 4(1)(b)(ii)).
+
+### 5.2 Endorsements (Section 17(4))
+
+#### 5.2.1 General
+- **Marital Status Changes**: Must reflect changes in title deeds for real rights or mortgage bonds.
+- **Conditions for Endorsement**:
+  - Person married post-registration.
+  - Initial non-reflection of marital status at registration.
+  - Joint estate properties registered prior to 1 November 1984 must show joint ownership.
+
+---
+
+## References
+- **Legislation**: Deeds Registries Act 47 of 1937; Recognition of Customary Marriages Act 120 of 1998.
+- **Key Sections**: Section 14(1)(b)(iii), Section 4(1)(b), Section 17(4).
+- **Relevant Cases and Examples**: Not included in this summary.
+- **Note**: Consultation of provided page references is essential for specific legal interpretations.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## 5.2 Application for Title Deed Endorsement
+
+### 5.2.1 General 
+- **Section 17(4)**: Allows title deed endorsement to reflect marital status changes.
+- Cannot rectify errors in marital status at registration (use **s 4(1)(b)**).
+- Changes in marital status for those married in community of property must comply with **s 45 and 45bis**.
+
+### 5.2.2 Application 
+- Lodged by person listed on the title deed of immovable property.
+- Must include full marital status details.
+- No consents required, but note:
+  - Mutually dependent deeds must be lodged simultaneously (s 17(4)).
+  - Proof of marital status required (certified marriage certificate if applicable).
+  - Certified death notice if spouse is deceased.
+  - Certified divorce order if applicable.
+  - Relevant deeds must be lodged.
+
+## 5.3 Application for Title Deed Endorsement under Section 44
+
+### 5.3.1 General 
+- **Section 44**: Title endorsement required when land extent differs from that in the deed after re-survey.
+- Example: Title deed indicates 45.2765 hectares, new survey shows 56.0034 hectares.
+
+### 5.3.2 Application 
+- Owner must submit application for endorsement to the registrar.
+- Must include property description, title extent according to the title, and new diagram extent.
+
+### 5.3.3 Supporting Documents
+- Lodge title deed(s) (s 44(1) and (3)).
+- Include bonds with mortgagee’s consent, along with endorsements required by section 44.
+- Any lease/deed must include lessee’s consent and relevant endorsements.
+- Submit the new diagram approved by the Surveyor-General plus the original or a conveyancer’s certificate if lost.
+
+## 5.4 Application to Note Lapse of Personal Servitude (Section 68(1))
+
+### 5.4.1 General 
+- **Section 68(1)**: Noting lapse of personal servitude due to particular occurrences without owner consent.
+- Difference between lapsing and cancellation: 
+  - Lapsing does not require consensus; cancellation does (must be a bilateral notarial deed under **s 68(2)**).
+
+### 5.4.2 Application 
+- Written application by a conveyancer (reg 44) needed from the owner of land embodying the servitude.
+
+### 5.4.3 Supporting Documents
+- Proof of servitude lapse (death certificate if applicable).
+- Relevant title deed(s).
+- Separate title deed if servitude is held separately.
+- Inform Surveyor-General if represented on a diagram.
+- Transfer duty receipt if applicable; exemptions apply if inherited without duty.
+
+## 5.5 Application for Change of Name (Section 93(1))
+
+### 5.5.1 General 
+- **Section 93(1)**: Applies to name changes for individuals, companies, or partnerships.
+- Only name change, not ownership change.
+- Change in name not necessary for conditions in title deed unless consent is needed.
+- Companies must provide amended registration certificate as proof (Cipro).
+- Individuals changing surnames must comply with **Deeds Registries Act** and **Births and Deaths Registration Act 51 of 1992**.
+----- END OF FILE -----
+# Study Notes: Legal Framework for Name Changes and Immovable Property Applications
+
+## 5.5 Name Changes
+
+### 5.5.1 Assumption of Surnames  
+- **Act 51 of 1992**: Section 26(1) - Director-General of Home Affairs authorization required for surname changes, except:
+  - Woman adopts husband’s surname.
+  - Woman resumes prior surname.
+  - Woman adds maiden name to married surname.
+- **Section 24 compliance**: Required if a divorced or widowed woman uses maiden name as first name.
+- **Deeds**: No obligation to indicate previous surname in deeds when resuming maiden name (Sections 93(1)(c) of Act 47 of 1937, 26(1)(b) of Act 51 of 1992).
+- **Hindu/Muslim Marriages**: Automatic surname assumption; exemption from section 93 requirements, with certification needed from the conveyancer.
+
+### 5.5.2 Change of Name of Immovable Property  
+- Property name change requests can be made based on offensive racial connotations (Section 93 of Act 47 of 1937).
+  - **Example**: Changing BOESMANSKRAAL to REDDERSFONTEIN authorized by the Minister.
+- Minister directs Surveyor-General for necessary registry changes.
+
+### 5.5.3 Application for Name Change  
+- Application must include old and new names, reasons for change.
+- Required signatories: All partners in name change cases.
+- **Affidavit**: Likely necessary to confirm no change of person implied.
+
+### 5.5.4 Supporting Documents  
+- **Consent**: Required from interested parties (e.g., mortgagees).
+- **Resolution**: From a church or partnership on name change.
+- **Affidavit**: Sworn declaration of no change of person (if not included in the application).
+- **Affected Deeds**: All affected deeds must be submitted for simultaneous endorsement. Registrar may allow piecemeal endorsements.
+- **Notification**: To other registrars if the applicant's name appears in other registries (Reg 77).
+- **Refer to**: Section 93 of the Deeds Registries Act 47 of 1937; Chief Registrars Circular 3 of 2012 for company name changes.
+
+---
+
+## 6 Applications in Terms of Administration of Estates Act and Other Statutes
+
+### 6.1 Applications under Section 39(2) of the Administration of Estates Act 66 of 1965
+
+#### 6.1.1 General  
+- **Executor duties**: Register inherited property in heir's name (s 39(1) of Act 66 of 1965).
+- **Exceptions**: Usufruct or limited interests bequeathed must have endorsement against title deeds.
+
+#### 6.1.2 Application  
+- **Executor**: Application by the executor prepared by a conveyancer (Reg 44 compliance).
+- Must reference the will and describe the property according to the title deed.
+
+#### 6.1.3 Supporting Documents  
+- **Will copy**: Certified true copy by the Master (Reg 49(1)(c)).
+- **Conveyancer certificate**: Section 42(1) and section 39(2) endorsement by Master.
+- **Proof of marriage**: Community property conditions if the deceased is not registered owner.
+- **Title deeds**: Required for endorsement.
+
+#### 6.1.4 Effect of the Endorsement  
+- Endorsement is a caveat, not a transfer of ownership.
+
+---
+
+### 6.2 Applications under Section 39(3) of the Administration of Estates Act 66 of 1965
+
+#### 6.2.1 General  
+- If transfer costs hardship for heirs, Master can authorize title deed endorsement indicating bequeathal or inheritance.
+
+#### 6.2.2 Application  
+- Prepared by a conveyancer, needs executor's reference (Reg 44 compliance).
+
+#### 6.2.3 Supporting Documents  
+- **Conveyancer certificate**: Section 42(1) and endorsement by the Master (Registrars’ Conference Resolution 20 of 1968).
+- **Title deeds**: Required for endorsement.
+
+#### 6.2.4 Effect of the Endorsement  
+- Endorsement does not transfer ownership; it acts as a caveat.
+
+---
+
+### 6.3 Application under Section 40(1)(b) of the Administration of Estates Act 66 of 1965
+
+#### 6.3.1 General  
+- Will provisions for asset administration by a trustee require an endorsement on immovable property title deeds to reflect this.
+
+#### 6.3.2 Application  
+- Executor lodges application for endorsement of relevant deeds (Reg 44 compliance).
+
+#### 6.3.3 Supporting Documents  
+- **Will copy**: Certified by the Master.
+- **Conveyancer’s certificate**: Section 42(1) to confirm that the account is clear.
+- **Marriage proof**: If a joint estate is involved.
+
+#### 6.3.4 Effect of the Endorsement  
+- Trustee gains authority to administer property but does not acquire ownership title until duties are fulfilled per will provisions. 
+
+---
+
+**Refer to diagrams and additional regulations for visual representation and further regulatory notes as per specified sections in the original text.**
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Page 287
+
+### Administration of Estates Act vs Deeds Registries Act
+- **Administration of Estates Act**: Trustee administers the deceased estate.
+- **Deeds Registries Act**: Defines "owner" to include the trustee in an insolvent estate, permitting disposal of property per granted powers.
+
+## Page 288
+
+### Administration of Estates Act Procedures
+1. **Bequeathal with fideicommissum**: Refer to **Section 39(2)** for necessary procedures.
+2. **Insufficient funds for transfer**: Refer to **Section 39(3)** for alternative procedures.
+3. **Undefined trust beneficiaries**: Section 40 cannot apply; beneficiaries and termination must be specified. 
+
+## Page 289
+
+### Conversion & Mergers
+- **Companies Act 71 of 2008**: Lacks specific registration processes in Deeds Registry.
+  - **Chief Registrars Circular 6/2011**: Requires application per **Section 3(1)(v)** for close corporation to company conversion documentation.
+  - **Mergers**: Lodge merger agreement, filing notice with CIPRO, and applicable deeds for property transfer under **Section 116(8)** of the Deeds Registries Act 47 of 1937.
+
+### Summary of Registration Principles
+- Discussed deed registration sequence, exceptions per **Section 14**, and pertinent applications for deed endorsements under the **Deeds Registries Act 47 of 1937**, the **Administration of Estates Act 66 of 1965**, and other statutes.
+
+## Page 290
+
+### Case Study: Ms Benn's Properties
+- **Ownership Transfer**: Involves registration of deed of transfer in Deeds Registry.
+- **Usufruct Considerations**: Must ensure mother's usufruct right upon inheritance transfer.
+- **Mortgage Bonds**: Bank X secured by mortgage of Portion 1, necessitating consent for further transactions involving the property.
+
+## Page 291
+
+### Property Registration Actions
+1. **Consolidation of Portions**: Involves land survey, preparation of diagrams, submission to Surveyor-General, and certification of consolidated title per **Section 40(1)** of the Deeds Registries Act 47 of 1937.
+2. **Subdivision of Consolidated Property**: Requires creation of Portion 5; legal and survey requirements to prepare deeds for transfer.
+3. **Sale and Transfer Processes**:
+   - **(a)** Benn to Khumalo
+   - **(b)** Khumalo to Naidoo
+4. **Servitude Rights**: Must secure servitude for road access.
+5. **Financial Arrangements**: Ensuring loan financing and mortgage bonds are in place.
+6. **Registration of Transfers**: Key process involving documentation from all parties.
+
+### Essential Acts of Registration
+- **Consolidation of Tweefontein Properties**:
+  - Surveyor's diagram approval; certificate of consolidated title.
+- **Subdivision and Transfers**:
+  - Relevant documentation for subdivided property, including compliance and financial documents. 
+
+## Conclusion and Integrated Case Study
+- Comprehensive understanding of land registration, including title transfers, servitudes, and financial security measures critical for estate management and conveyancing. 
+
+*(Note: Further diagrams and detailed procedural documentation aligned with material might be referenced in unit sections.)*
+----- END OF FILE -----
+# Section 1: Case Study Overview
+
+## 1. Sale and Transfer of Portion 5 (a portion of Portion 4) of the Farm Tweefontein
+
+- **Parties Involved**: 
+  - Ms. Benn (Seller)
+  - Mr. Khumalo (Purchaser)
+  
+- **Development**: 
+  - Property to be surveyed and SG diagram prepared by Ms. Benn’s surveyor.
+  - Transfer requires consent from Bank X for release from mortgage.
+
+- **Usufruct**: 
+  - Mrs. Benn’s mother holds a usufruct over the property; her consent is needed for subdivision.
+
+## 2. Legal Framework
+
+### 2.1 Alienation of Land Act
+- Requires a written deed for sales.
+- Deed includes:
+  - Seller and purchaser details
+  - Property description
+  - Purchase price
+  - Payment terms
+  - Cooling-off clause
+  
+### 2.2 Deeds Registries Act 47 of 1937
+- **Section 14**:
+  - Transfer must follow sequential registration.
+  - Direct transfer from Ms. Benn to A and F Naidoo is forbidden without a tripartite agreement.
+
+## 3. Servitude of Right of Way
+
+- **Definition**: Limited real right to use another's land for a specific purpose.
+- Classification: Praedial servitude benefiting the Remainder of Portion 4.
+- **Creation**: Requires notarial execution to register.
+
+## 4. Transfer Processes
+
+### 4.1 Documents Required
+- Original deeds of transfer for Remainder and Portion 1.
+- Certificates and diagrams.
+- Power of attorney from Ms. Benn.
+
+### 4.2 Certificates and Clearances
+- Transfer duty declarations.
+- Municipal clearance certificates must be obtained prior to registration.
+
+### 4.3 Deeds Preparation
+- Diagram deed includes transfer details and SG diagram.
+- Separate deed for transfer from Khumalo to Naidoo brothers.
+
+### 4.4 Financial Arrangements
+- Ensure all financial transactions are completed by registration date.
+
+## 5. Registration Procedures
+
+### 5.1 Nelspruit Deeds Registry
+- Transactions linked and registered in a specific batch order:
+  1. Certificate of consolidated title
+  2. Bank X consent
+  3. Transfer to Khumalo
+  4. Release consent from Bank X
+  5. Usufruct waiver
+  6. Transfer to Naidoo brothers
+  7. Bond of Naidoo in favor of Bank Y
+  
+### 5.2 Examination Process
+- Deeds examined by deed examiners; errors rectified before re-lodging.
+
+## 6. Maintenance of Registers
+
+- Procedures for maintaining accurate records post-registration.
+  
+## 7. Additional Considerations
+
+### 7.1 Transfer in Durban
+- Related transactions handled under Pietermaritzburg jurisdiction.
+  
+### 7.2 Coordination Between Registries
+- Communication ensures simultaneous registration across jurisdictions.
+
+## 8. Conclusion
+- Understanding these processes aids in practical application of property law principles.
+
+# Glossary
+
+- **Agent**: Acts on behalf of another via power of attorney.
+- **Cession**: Transfer of rights from cedent to cessionary.
+- **Mortgage Bond**: Secures payment of a debt through limited real security.
+- **Notaial Agreement**: Formal agreement executed before a notary for registration.
+- **Praedial Servitude**: Real right benefiting a dominant tenement.
+----- END OF FILE -----
+# LPL4804/1 Study Notes
+
+## Legal Concepts
+
+- **Interdict**: 
+  - Court orders preventing transactions or restraining individuals.
+
+- **Intestate Estate**: 
+  - Estate of a deceased without a valid will or a will not accepted by the Master.
+
+- **Joint Will**: 
+  - Document containing wills of multiple individuals, typically spouses.
+
+- **Legal Capacity**: 
+  - Ability to bear rights and duties.
+
+- **Legatee**: 
+  - Person bequeathed specific items or sums by a testator.
+
+### Property Registration
+
+- **Linking**: 
+  - Registering multiple deeds simultaneously via a code for financial reasons.
+
+- **Lodgement**: 
+  - Formal submission of documents for registration.
+
+### Financial Management
+
+- **Liquidation**: 
+  - Process of winding up a company’s affairs.
+
+- **Liquidation and Distribution Account**: 
+  - Account detailing estate assets, liabilities, and distribution methods.
+
+### Estate Management and Distribution
+
+- **Massing**: 
+  - Merging of estates under a joint will for distribution after death.
+
+- **Redistribution Agreement**: 
+  - Agreement among heirs to adjust estate bequests during administration.
+
+- **Repudiation**: 
+  - Rejection of a joint will by a surviving spouse.
+
+### Real Rights
+
+- **Mortgage**: 
+  - Not synonymous with "bond"; a secured debt against property.
+
+- **Mortgagee**: 
+  - Lender holding the mortgage.
+
+- **Mortgagor**: 
+  - Borrower providing property as security.
+
+- **Notarial Bond**: 
+  - Mortgage over movable property executed under notary.
+
+- **Praedial Servitude**: 
+  - Property benefiting from a servitude over another property.
+
+- **Personal Servitude**: 
+  - Limited rights over another's property for personal use.
+
+### Legal Instruments
+
+- **Power of Attorney**: 
+  - Authorization for an agent to act on behalf of a principal.
+
+- **Special Power of Attorney to Transfer**: 
+  - Specific authorization for conveyancers to execute transfers.
+
+- **Title Deed**: 
+  - Document affirming ownership or rights over property.
+
+### Insolvency and Financial Status
+
+- **Sequestration**: 
+  - Court declaration of insolvency.
+
+- **Unrehabilitated Insolvent**: 
+  - Individual with limited capacity post-insolvency.
+
+### Special Terms
+
+- **Usus**: 
+  - Right to use property for personal needs without major alterations.
+
+- **Usufruct**: 
+  - Right to use and enjoy property and its benefits.
+
+- **Waiver**: 
+  - Document renouncing an estate benefit.
+
+### Legislation References
+
+- **Key Acts**:
+  - **Insolvency Act 24 of 1936**
+  - **Deeds Registries Act 47 of 1937**
+  - **Administration of Estates Act 66 of 1965**
+  - **Alienation of Land Act 68 of 1981**
+  
+### Bibliography
+- Jones, RJM. **Conveyancing in South Africa**, 4th ed. Juta.
+- Kleyn, DG & Boraine, A. **Silberberg and Schoeman’s the Law of Property**, Butterworths.
+- West, AS. **Practitioner’s guide to conveyancing and notarial practice**, 9th ed. The Association of Law Societies of the Republic of South Africa.

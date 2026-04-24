@@ -1,0 +1,752 @@
+# LCP4804/1/2019–2021
+
+## CONTENTS
+
+### PART 1: THEORETICAL AND STRUCTURAL OVERVIEW OF AFRICAN CUSTOMARY LAW
+
+#### Learning unit 1: Historical overview of customary law
+- **Introduction** (p. 2)
+- Lecture 1: Pre-colonial era (before 1652) (p. 2)
+- Lecture 2: Colonial era (1652–1909) (p. 3)
+- Lecture 3: Union era (1910–1947) (p. 4)
+- Lecture 4: Apartheid era (1948–1990) (p. 4)
+- Lecture 5: Transitional era (1990–1996) (p. 5)
+- Lecture 6: Democratic era (1994 to date) (p. 5)
+- Lecture 7: Transformation of customary law (p. 6)
+- **Conclusion** (p. 10)
+
+#### Learning unit 2: The nature and concept of customary law
+- **Introduction** (p. 11)
+- Lecture 1: Definition and concept of customary law (p. 11)
+- Lecture 2: Nature and concept of customary law (p. 12)
+- Lecture 3: Difference between living and official customary law (p. 13)
+- Lecture 4: Transformation of customary law (p. 13)
+- **Conclusion** (p. 15)
+
+#### Learning unit 3: Ascertainment and Proof of Customary Law
+- **Introduction** (p. 16)
+- Lecture 1: Traditional framework for ascertainment (p. 16)
+- Lecture 2: Statutory framework for ascertainment (p. 16)
+- Lecture 3: Constitutional framework for ascertainment (p. 17)
+- Lecture 4: Transformation of customary law (p. 17)
+- **Conclusion** (p. 18)
+
+#### Learning unit 4: Internal conflict of laws
+- **Introduction** (p. 19)
+- Lecture 1: Conflict of laws under customary law (p. 19)
+- Lecture 2: Conflict during pre-constitutional period (p. 19)
+- Lecture 3: Conflict during post-constitutional period (p. 20)
+- Lecture 4: Transformation of customary law (p. 20)
+- **Conclusion** (p. 21)
+
+### PART 2: PERSONAL LAW AND PERSONAL RIGHTS IN AFRICAN CUSTOMARY LAW
+
+#### Learning unit 5: Customary marriage – requirements for validity
+- **Introduction** (p. 24)
+- Lecture 1: Statutory requirements (p. 24)
+- Lecture 2: Additional requirements? (p. 25)
+- Lecture 3: Validity of further marriage (p. 25)
+- Lecture 4: Transformation of customary law (p. 25)
+- **Conclusion** (p. 28)
+
+#### Learning unit 6: Consequences of customary marriage–personal and proprietary
+- **Introduction** (p. 29)
+- Lecture 1: Personal consequences (p. 30)
+- Lecture 2: Consequences regarding children (p. 30)
+- Lecture 3: Proprietary consequences (p. 30)
+- Lecture 4: Transformation of customary law (p. 30)
+- **Conclusion** (p. 31)
+
+#### Learning unit 7: Dissolution of the customary marriage
+- **Introduction** (p. 32)
+- Lecture 1: Divorce (p. 32)
+- Lecture 2: Death (p. 32)
+- Lecture 3: Consequences of divorce (p. 33)
+- **Conclusion** (p. 33)
+
+#### Learning unit 8: Customary Law of Succession
+- **Introduction** (p. 34)
+- Lecture 1: Succession and inheritance (p. 35)
+- Lecture 2: Legislative interventions (colonial, union, apartheid) (p. 36)
+- Lecture 3: Interventions under the Constitution, 1996 (p. 36)
+- Lecture 4: Transformation of customary law (p. 38)
+- **Conclusion** (p. 42)
+
+#### Learning unit 9: Customary law of obligations (contracts)
+- **Introduction** (p. 43)
+- Lecture 1: Capacity for customary law commitments (p. 43)
+- Lecture 2: Types of customary law contracts (e.g., *ukwenzelela*, *ukwethula*) (p. 44)
+- Lecture 3: Specific contract *ukufakwa* (p. 44)
+- Lecture 4: Attributes of *ubuntu* in *ukufakwa* (p. 45)
+- Lecture 5: Transformation of customary law (p. 46)
+- **Conclusion** (p. 48)
+
+#### Learning unit 10: Customary law of obligations (delicts)
+- **Introduction** (p. 49)
+- Lecture 1: Delictual liability (p. 49)
+- Lecture 2: Defamation in customary law (p. 49)
+- Lecture 3: Adultery and seduction delicts (p. 50)
+- Lecture 4: Transformation of customary law (p. 50)
+- **Conclusion** (p. 52)
+
+### PART 3: POLITICAL AND CIVIC ASPECTS OF AFRICAN CUSTOMARY LAW
+
+#### Learning unit 11: Traditional leadership institutions
+- **Introduction** (p. 54)
+- Lecture 1: History of institutions (p. 54)
+- Lecture 2: Recognition and jurisdiction (p. 55)
+- Lecture 3: Recognition of traditional communities (p. 55)
+- Lecture 4: Recognition of traditional councils (p. 55)
+- Lecture 5: Transformation of customary law (p. 55)
+- **Conclusion** (p. 58)
+
+### BIBLIOGRAPHY (p. 59)
+----- END OF FILE -----
+# LCP4804/1 Study Notes
+
+## PART 1: THEORETICAL AND STRUCTURAL OVERVIEW OF AFRICAN CUSTOMARY LAW
+
+### Learning Unit 1: Historical Overview of Customary Law
+
+- **Introduction**
+  - Customary law evolved through pre-colonial, colonial, union, apartheid, and democratic eras, shaped by political contexts and state power.
+
+#### Lecture 1: The Pre-Colonial Era (Before 1652)
+- Customary law was supreme, founded on an indigenous framework and the philosophy of **ubuntu**.
+- **Ubuntu Characteristics**:
+  - Communal living, accountability, cooperation, and reciprocity.
+- Key Institutions:
+  - **Ukwakha ukulobola**, **isondlo**, **ukwethula**, **ukwenza**: Central to indigenous obligations, reflecting the human element.
+
+#### Lecture 2: The Colonial Era (1652–1909)
+- **Textbook Reference**: Pages 4–9
+- Colonialism began with the Dutch settlers and led to the marginalization of indigenous legal systems.
+- The **Khoisan** experienced significant loss of legal systems, leading to **obsolescence**.
+- British occupation (1806) retained **Roman-Dutch law**, initially excluding indigenous law, promoting the principle of equality.
+- **amaXhosa** retained some social structures post-colonialism but lost land sovereignty across South Africa.
+
+#### Lecture 3: The Union Era (1910–1947)
+- **Textbook Reference**: Pages 9–13
+- **Status of Africans**: Established by the **Native Administration Act 1927**, granting the Governor-General immense powers over Africans.
+- **Judicial Views**:
+  - **Ngcobo J** in *Bhe v The Magistrate Khayelitsha* commented on forced removals.
+  - **Schreiner JA** in *Ex parte: Minister of Native Affairs – In re Yako v Beyi* held that indigenous law was not favored, favoring common law instead.
+
+#### Lecture 4: The Apartheid Era (1948–1990)
+- **Textbook Reference**: Pages 13–17
+- The apartheid period perpetuated colonial restrictions on customary law via the **repugnancy clause**.
+- Key References:
+  - **Black Authorities Act 1951**
+  - *Tongoane v National Minister for Agriculture and Land Affairs* (2010)
+
+#### Lecture 5: The Transitional Era (1990–1996)
+- **Textbook Reference**: Pages 17–22
+- Transition marked by **Constitution of 1993** sections on traditional leadership and customary law recognition.
+- Emerged issues: patriarchy, racism, sexism, and inequality re-examined.
+
+#### Lecture 6: The Democratic Era (1994 to Date)
+- Recognition of customary and traditional institutions enshrined in the **Constitution of 1996**:
+  - Chapter 12: Recognizes traditional institutions.
+  - Chapter 1: Constitutional values.
+  - Chapter 2: Fundamental rights.
+  - Section 39(2): Equates customary law with common law under constitutional principles.
+
+#### Lecture 7: Transformation of Customary Law
+- **Indigenous Values**: Acknowledgment of traditional leaders, law, and culture.
+- **Constitutional Values**: Customary law applies universally, adhering to equality, dignity, and freedom.
+
+## Legislation and Cases Highlighted
+- **Native Administration Act 1927**
+- **Black Authorities Act 1951**
+- *Bhe v The Magistrate Khayelitsha* (2005)
+- *Yako v Beyi* (1948)
+- *Tongoane v National Minister for Agriculture and Land Affairs* (2010)
+
+---
+
+*Notes to Diagram References: Refer to diagrams in specified chapters for visual representation of the evolution of customary law and its context within broader legal frameworks.*
+----- END OF FILE -----
+## LCP4804/1 Study Notes
+
+### 1. Introduction to Customary Law
+- Traditional institutions (ukufakwa ukulobola, isondlo, ukwethula, ukwenzelela) enhance human condition.
+- Colonial intervention (1652-1830) led to dispossession, sovereignty destruction, and legal invalidation of African values.
+
+### 2. Relationship Between Customary Law and Common Law
+- **Schreiner JA Interpretation** (Black Administration Act - BAA):
+  - Customary law applied at discretion of Commissioners’ Courts for African customs, not opposed to public policy or natural justice.
+  - BAA does not grant customary law its own status; common law prevails.
+  
+### 3. Impact of BAA on Poverty
+- BAA functions as a tool for separate administration, institutionalizing black impoverishment.
+- Established segregation and false geographic divisions, leading to displacement of black populations.
+
+### 4. Transitional Period in South Africa (Post-1994)
+- Participation of all races in governance marks significant shift in legal landscape.
+- **Interim Constitution (27 April 1994)**: Customary law recognized as distinct, aligned with constitutional values.
+
+### 5. Legislation Impacting Customary Law
+- **Recognition of Customary Marriages Act, 1998**:
+  - Definition of customary law as indigenous customs observed by African peoples.
+  
+- **Reform of Customary Law of Succession Act, 2009**:
+  - Reinforces and regulates aspects of customary law.
+
+### 6. Nature and Characteristics of Customary Law
+- Customary law as distinct foundational legal system.
+- Should not be viewed through the common law lens; consists of unique normative values.
+
+### 7. Key Case Law
+- **Alexkor v The Richtersveld Community & Others (2004)**:
+  - Indigenous law defines rights to land; must not derive from common law.
+  - Indigenous law seen as integral to South African law, valid under the Constitution.
+  - Courts must apply customary law as per section 211(3) of the Constitution; consistent with Bill of Rights.
+
+### 8. Attributes of Indigenous Law
+- Not fixed; evolves with societal changes.
+- Unwritten and orally transmitted; reflects community norms and values.
+- Subject to Constitution and complementary legislation.
+
+### 9. Conclusion
+- Customary law has undergone significant transformation from colonial distortions to its current recognized status under democratic governance.
+- Its integration into South African law underscores the need for continuous evolution within its cultural context.
+----- END OF FILE -----
+# LCP4804/1 Study Notes
+
+## Lecture 3: The Difference Between Living Customary Law and Official Customary Law
+
+- **Nature and Characteristics of Customary Law**
+  - *Pilane v Pilane 2013 (4) BCLR 431 (CC)*:
+    - Customary law is recognized and protected by the Constitution.
+    - It is a **living body of law**, active and dynamic, capable of evolving.
+    - Historical imposition led to the fossilization of customary law through codification.
+    - The Constitution aims to preserve and evolve customary law, ensuring compliance with constitutional norms.
+
+## Lecture 4: Transformation of Customary Law
+
+- **Indigenous Values**
+  - Living customary law reflects dynamic social practices.
+  
+- **Constitutional Values**
+  - Established a relationship between living customary law and the Constitution.
+  - Overcame objections regarding contradictions between customary law and constitutional provisions.
+
+### Case Analysis
+- **Recognition of Customary Marriages Act, Act 120 of 1998**
+  - Definition highlights cultural specificity of customary law, asserting its connection to indigenous peoples' cultures.
+  
+- **Mayelane v Ngwenyama and Another 2013 (8) BCLR 918 (CC)**
+  - Confirmed requirement of main wife's consent for subsequent marriages within Xitsonga custom.
+  - Established nationwide applicability of consent due to constitutional equality and dignity principles.
+
+### Landmark Jurisprudence
+- **Alexkor Ltd and Another v Richtersveld Community and Others 2003 (12) BCLR 1301 (CC)**
+  - Affirmed equality of customary law and common law.
+  - Jettisoned repugnancy clause; recognized customary law on its own normative values.
+  - Critiqued previous assessment of customary law through Western lenses, emphasizing its own epistemology.
+
+## Learning Unit 3: Ascertainment and Proof of Customary Law
+
+### Introduction
+- Explores the processes for ascertaining and proving customary law via historical and constitutional frameworks.
+
+### Lecture 1: Traditional Framework
+- Customary law derived from community narratives and social practices.
+
+### Lecture 2: Statutory Framework
+- **Black Administration Act, 38 of 1927**:
+  - Given discretion to Commissioners’ Courts concerning customs among Blacks.
+  
+- **Law of Evidence Amendment Act, 45 of 1988**:
+  - Allowed judicial notice of indigenous law, maintaining non-repugnancy to public policy.
+
+### Lecture 3: Constitutional Framework
+- **Constitution of the Republic of South Africa, 1996**:
+  - *Section 211(3)* stresses the importance of customary law in South Africa.
+  - Cases to reference include:
+    - *Mthembu v Letsela and Another 2000 (3) SA 867 (SCA)*
+    - *Bhe v Magistrate Khayelisha and Others 2005 (1) BCLR 1 (CC)*
+    - *Shilubana v Nwamitwa 2008 (9) BCLR 914 (CC)*.
+
+### Lecture 4: Transformation of Customary Law
+- **Bhe Case**: Recognized living law aligned with contemporary social practice; gender equality integrated into customary practices.
+  
+- **Shilubana Case**: Adopted gender equality, allowing women equal rights concerning leadership succession.
+
+## Conclusion
+- Customary law examined highlights important distinctions between living and official customary law.
+- Emphasis on the evolution from responsible practices to adherence in conjunction with constitutional values.
+- Frameworks for ascertaining customary law demonstrate significant shifts from previous oppressive legislation to contemporary, inclusive approaches.
+----- END OF FILE -----
+# LCP4804/1 Study Notes
+
+## 19
+### Learning unit 4: Internal Conflict of Laws
+
+#### Study
+- Chapter 5 of the textbook
+
+#### Learning Outcomes
+- Determine appropriate rules amid competing legal systems using connecting factors.
+- Distinguish outdated conflict rules from current constitutional choice of law rules.
+
+#### Introduction
+- Internal conflict of laws governs choice of law where common law or customary law is applicable; includes scenarios involving different versions of customary law.
+
+### Lecture 1: Conflict of Laws under Customary Law
+- Study pages 72–74.
+- Customary law seeks to minimize conflict situations.
+
+### Lecture 2: Conflict of Laws during the Pre-Constitutional Period
+- Study pages 74–79.
+- Analyze conflict management during colonial, union, and apartheid periods, with a notable emphasis on:
+  - Official customary law via the repugnancy clause (Section 11(1) BAA).
+  - Section 1(1) of the LEAA.
+
+### Lecture 3: Conflict of Laws during the Post-Constitutional Period
+- Study pages 81–88.
+
+### Lecture 4: Transformation of Customary Law
+#### Indigenous Values
+- **Section 211(3) of the Constitution**: Courts must select customary law in relevant cases over common law, advancing indigenous law.
+  
+#### Constitutional Values
+- Customary law applications must align with the Constitution and/or the Bill of Rights, ensuring constitutional supremacy in South African law.
+
+### Conclusion
+- Overview of conflict resolution approaches in customary law across pre-colonial, pre-constitutional, and post-constitutional contexts.
+
+## 24
+### Learning Unit 5: Customary Marriage – Requirements for Validity
+
+#### Study
+- Chapter 6 of the textbook
+- **Recognition of Customary Marriages Act, 120 of 1998 (RCMA)**, Section 3
+- **Key Cases**:
+  - **Mabuza v Mbatha** 2003 (7) BCLR 43 (C)
+  - **Mabena v Letsoalo** 1998 (2) SA 1068 (T)
+  - **Maluleke v Minister of Home Affairs** Case no 02/24921 [2008] ZAGPHC 129 (9 April 2008) (unreported)
+  - **Mayelane v Ngwenyama and Another** 2013 (8) BCLR 918 (CC)
+
+#### Learning Outcomes
+- Define nature and characteristics of a customary marriage.
+- Establish formal requirements for formation, registration, and dissolution of customary marriage.
+- Distinguish between “negotiated”, “entered into”, or “celebrated” in customary law.
+
+#### Introduction
+- Focus on the definition, formation, and formal validity requirements of a customary marriage.
+
+### Lecture 1: Statutory Requirements for the Formation of a Customary Marriage
+- Study Section 3 of the RCMA:
+  - (a) Requirements:
+    - (i) Minimum age of spouses
+    - (ii) Consent to marriage
+  - (b) Marriage negotiated, entered into, or celebrated under customary law.
+- Section 3(a)(i) and (ii) requirements generally non-problematic.
+----- END OF FILE -----
+# LCP4804/1 Study Notes
+
+## Chapter 6: Consequences of Customary Marriage
+### Learning Unit 6: Consequences of customary marriage–personal and proprietary
+
+- **Personal consequences of a customary marriage**
+  - Changes in status and capacities of spouses.
+  - **Wife's improved capacities**: Transition from perpetual minor to full legal capacity.
+
+- **Proprietary consequences of customary marriage**
+  - Interaction regarding matrimonial property.
+  - Relevant legislation: **Recognition of Customary Marriages Act** (RCMA) sections 6 & 7.
+
+### Lecture 1: Personal consequences of the customary marriage
+- Refer to pages 110–121 of the textbook.
+
+### Lecture 2: Consequences of customary marriage in respect of children
+- Refer to pages 110–118 of the textbook.
+
+### Lecture 3: Proprietary consequences of customary marriage
+- Refer to pages 128–146 of the textbook.
+
+### Lecture 4: Transformation of customary law
+- **Indigenous values**
+  - Recognition of Tsonga custom requires consent from the first wife for additional marriages.
+  - Judicial support for polygamy reflects respect for indigenous values.
+
+- **Constitutional values**
+  - Emphasis on women and children's rights post-apartheid.
+  - Importance of property rights and interests in judicial and legislative decisions.
+
+## Chapter 5: Customary Marriage Validity
+### Lecture 2: Any additional requirements?
+- No additional requirements if essential conditions met for marriage validity.
+  - **Case references**: 
+    - *Mabuza v Mbatha* (2003) - Validity upheld despite ritual non-observance.
+    - *Maluleke v Minister of Home Affairs* - Marriage valid despite failure to observe consent (imvume).
+
+### Lecture 3: Further marriage requirements
+- **Approval under section 7(6)**: Not a requirement for validity, but impacts matrimonial property regime.
+  - *Ngwenyama* (2012) and *Mayelane* (2013) support this.
+  - Further marriage invalid if first wife's consent is not obtained (Mayelane case).
+
+### Lecture 4: Transformation of customary law
+- **Indigenous values**: Current social practices endorsed over historical norms.
+- **Constitutional values**: Affirmation of human dignity, freedom, and equality; rejection of patriarchal practices.
+
+## Chapter 5: Ngwenyama Case Analysis
+- **SCA Judgment**:
+  - Interpreted section 7(6) of the RCMA as relating solely to matrimonial property.
+  - Non-observance does not affect marriage validity (only property regime).
+- Court emphasized protection for all wives.
+- **Reflections**:
+  - Importance of consent in further marriages not sufficiently addressed by SCA.
+  - Need to uphold first wife's rights.
+
+## Conclusion
+- Familiarization with the definition and validity requirements of customary marriages.
+- Understanding legislative and judicial impacts on customary law evolution concerning marriage validity.
+----- END OF FILE -----
+# LCP4804/1 Study Notes
+
+## Page 31
+### Conclusion
+- Consequences of customary marriage include:
+  - Spousal rights and duties.
+  - Implications for minors and children.
+  - Proprietary rights arising from marriage.
+
+---
+
+## Page 32
+### Learning Unit 7: Dissolution of the Customary Marriage
+- **Required Study Materials:**
+  - Chapter 8 of the textbook.
+  - **Recognition of Customary Marriages Act, 120 of 1998**.
+  - **Gumede v President of the Republic of South Africa** 2009 (3) BCLR 243 (CC).
+
+#### Learning Outcomes
+- Describe circumstances for dissolving a customary marriage.
+- Understand consequences of dissolution.
+
+### Introduction
+- Focus on methods of dissolution and their consequences.
+
+### Lecture 1: Dissolving a Customary Marriage by Divorce
+- Study pages 149–150 of the textbook.
+
+### Lecture 2: Dissolving a Customary Marriage by Death
+- Study pages 153–154 of the textbook.
+
+### Lecture 3: Consequences of Divorce
+- Study pages 154–156 of the textbook.
+
+### Conclusion
+- Overview of court dissolution circumstances for customary marriage.
+
+---
+
+## Page 34
+### Learning Unit 8: Customary Law of Succession
+- **Required Study Materials:**
+  - Chapter 9 of the textbook.
+  - **Reform of Customary Law of Succession and Regulation of Related Matters Act, 11 of 2009**.
+  - **Mthembu v Letsela and Another 1997 (2) SA 936 (T)**.
+  - **Mthembu v Letsela and Another 1998 (2) SA 675 (T)**.
+  - **Mthembu v Letsela and Another 2000 (3) SA 867 (SCA)**.
+  - **Bhe v Magistrate Khayelisha and Others 2005 (1) BCLR (1) (CC)**.
+  - **Nwamitwa v Philia and Others 2005 (3) SA 536 (T)**.
+  - **Shilubana and Others v Nwamitwa 2007 (2) SA 432 (SCA)**.
+  - **Shilubana v Nwamitwa 2008 (9) BCLR 914 (CC)**.
+
+#### Learning Outcomes
+- Apply principles regulating customary law of succession.
+- Distinguish succession from inheritance in customary law.
+- Describe pre-constitutional legislative interventions.
+- Appreciate post-1996 judicial reforms.
+- Explain **Reform of Customary Law of Succession Act**.
+
+### Introduction
+- Discuss the evolution of succession customs.
+- Notable role of pre-democratic authorities in distortion.
+
+### Lecture 1: Succession and Inheritance in Customary Law
+- Study pages 161–167 of the textbook.
+
+#### Key Extracts:
+- **Bhe v Magistrate Khayelisha**:
+  - Emphasizes family collective ownership over individual inheritance (para 76).
+  
+- **Grant E**:
+  - Critique of transition to Western notions of inheritance versus family maintenance.
+
+- **Mthembu v Letsela**:
+  - Confirms male heir’s duty to support women and children (1997, para 945).
+
+### Lecture 2: Legislative Interventions Under Colonial, Union, and Apartheid
+- Study pages 167–171 of the textbook.
+- Statutes:
+  - **Black Administration Act, 38 of 1927**.
+  - **KwaZulu Act on the Code of Zulu Law**.
+  - **Natal Code of Zulu Law**.
+- Historical backdrop of statutory oppression on customary law. 
+
+### Lecture 3: Legislative and Judicial Interventions Under the Constitution, 1996
+- Study pages 173–185 of the textbook.
+- Important Constitutional Provisions:
+  - **Section 9**: Equality.
+  - **Sections 30 & 31**: Cultural rights.
+  - **Section 39(2)**: Development of customary law.
+  - **Section 211**: Recognition of traditional leadership.
+- **Reform of Customary Law of Succession Act, 11 of 2009**.
+- **Mthembu v Letsela**: Relevance to customary law from a judicial perspective.
+----- END OF FILE -----
+# LCP4804/1 Study Notes
+
+## Table of Contents
+
+1. **Case Law Overview**
+   - Mthembu v Letsela and Another 1998 (2) SA 675 (T)
+   - Mthembu v Letsela and Another 2000 (3) SA 867 (SCA)
+   - Bhe v Magistrate Khayelisha and Others 2005 (1) BCLR (1) (CC)
+   - Nwamitwa v Philia and Others 2005 (3) SA 536 (T)
+   - Shilubana and Others v Nwamitwa 2007 (2) SA 432 (SCA)
+   - Shilubana v Nwamitwa 2008 (9) BCLR 914 (CC)
+
+## 1. Case Law Overview
+
+- **Focus**: Abolition of patriarchy, racism, and sexism in colonial and apartheid administrations.
+  
+- **Key Rules Targeted**:
+  - Male primogeniture and unfair discrimination.
+  
+### **Mthembu Cases**
+- Technical survival of rules due to:
+  - Death before 27 April 1994; pre-constitutional law applied.
+  - Validity of marriage not proved; no widow’s protection.
+  - Lack of legitimacy of descendants prevented claims against deceased's father.
+  - Court upheld male primogeniture for intestate succession.
+  - **Legislation**:
+    - Intestate Succession Act, 81 of 1987, §1(4) excluded black people from benefits.
+    - BAA §23 regulated black estates; survival of rules.
+
+- Outcome: Estate reverted to deceased’s father (senior male relative).
+
+### **Bhe Case**
+- Claim involved deceased’s father vs. two minor daughters.
+- Court invalidated primogeniture rule, along with:
+  - BAA §23.
+  - Intestate Succession Act exclusions, enabling equality in customary law estates.
+
+### **Nwamitwa/Shilubana Cases**
+- Nwamitwa v Philia (2005) & Shilubana v Nwamitwa (2007): Primogeniture rule upheld as not unconstitutional.
+- Shilubana v Nwamitwa (2008): Declared primogeniture unconstitutional; affirmed gender equality in leadership appointments.
+
+## 2. Transformation of Customary Law
+
+### **Indigenous Values**
+- Recognition of lineage; Philia Shilubana's appointment as traditional leader restored rights.
+- Amendment of Valoyi customary law permitted due to constitutional provisions.
+
+### **Constitutional Values**
+- Abolition of male primogeniture and legislative exclusions led to equality in distribution of estate rights.
+- Affirmation of human dignity, equality, and freedom.
+
+## 3. Relevant Cases and Commentary
+
+### **Shilubana/Nwamitwa Case Overview**
+- Philia Shilubana denied leadership in 1968; appointed by community in 2001.
+- **Legal Questions**:
+  - Allowed female appointment as traditional leader?
+  - Authority to amend customary law?
+
+### **Court Decisions**:
+- Early rulings favored traditional past practices (High Court & SCA).
+- **Constitutional Court Decision**: Philia Shilubana’s appointment as valid; customary law recognized as living and evolving.
+- Emphasized contemporary practices over historical precedent.
+
+### **Commentary on Customary Law Values**
+- Court supported community law development but conflicted with lineage considerations for succession.
+- Should have ensured future appointments honored lineage continuity.
+
+## 4. Succession vs. Inheritance in Customary Law
+
+### **Critical Distinctions**
+- **Succession**: Rights to inherit according to customary practices.
+- **Inheritance**: Actual distribution of property upon death.
+  
+### **Living Law Development**
+- Customary law retains capacity for evolution post-Bhe case and RCLSRRMA.
+- Family/community rights to equitable distribution upheld.
+
+## Conclusion
+- Explored differences between inheritance and succession in customary law.
+- Emphasis on decolonization aligning with constitutional ideals of dignity, equality, and freedom.
+----- END OF FILE -----
+# LCP4804/1
+## Learning unit 9
+### Customary law of obligations (contracts)
+
+**Study**  
+Study chapter 10 of the textbook.
+
+### Learning outcomes
+- Appreciate the communitarian nature of the customary law of contracts and its philosophical foundations.
+- Describe the community's role in creating binding commitments in traditional societies.
+- Conceptualize individual participation as representatives of families or communities.
+
+### Introduction
+- Exploration of indigenous African obligations (contracts) and unique values regulating binding agreements.
+- Individuals undertake customary commitments as family heads, with binding obligations underwritten by family heads.
+- The traditional economy relies heavily on cattle as currency.
+- Indigenous contracts illustrate communal contexts: *ukulobola*, *ukwenzelela*, *ukwethula*, *ukufakwa*, *isondlo*, and *inqoma* reveal the collective nature of agreements.
+
+### Lecture 1: Capacity to enter into binding customary law commitments
+- Understand the Constitution and legislation's role in enabling individuals to act in customary law (equality rights & age of majority).
+
+### Lecture 2: Customary law contracts: 
+*ukwenzelela, ukwethula, isondlo/dikotlo, inqoma/mafi sa/sisa*
+- Distinguish between contracts reflecting communal living; oral tradition emphasizes community presence during transactions.
+- Contracts embody *ubuntu* principles.
+
+### Lecture 3: Ukufakwa as a specific customary law contract
+- *Ubuntu*: Fundamental measure for human conduct; promotes communal living, solidarity, responsibility, generosity, co-operation, and reciprocity.
+- *Ukufakwa* allows male relatives to assume paternal responsibilities, entitled to lobolo goods and liable for the daughter’s delicts.
+- Rights to lobolo portion arise immediately upon identification of goods; no claims against the father allowed if goods are not delivered.
+
+### Lecture 4: The attributes of ubuntu as found in ukufakwa
+- **Communal Living**: Collective family unit; shared wealth and burdens.
+- **Shared Sense of Belonging**: Interdependence among community members.
+- **Group Solidarity**: Collective strength; shared shame and disgrace.
+- **Reciprocity**: Mutual assistance and benefits; good deeds are investments.
+- **Collective Ownership of Assets**: Family driving shared goals; individual contributions enhance collective wealth.
+- Attributes for a good life include generosity, respect, responsibility, and accountability.
+
+### Lecture 5: Transformation of customary law
+- **Indigenous values**: Contracts reflect *ubuntu*, focusing on individual well-being.
+- **Constitutional values**: *Ubuntu* harmonizes with constitutional principles (human dignity, equality, freedom), validated in *Mabena* case and highlighted in *Makwanyane* and *Dikoko* cases for transformative impact.
+
+### Conclusion
+- The learning unit emphasizes the centrality of *umuntu/motho* in forming binding commitments, demonstrating *ubuntu* in practice.
+----- END OF FILE -----
+## LCP4804/1
+
+### Learning unit 10  
+**Customary law of obligations (delicts)**  
+**Study:** Chapter 11 of the textbook.
+
+#### Learning outcomes  
+- Understand vicarious liability in customary law delict.  
+- Recognize collective ownership of family property in customary law.  
+
+---
+
+### Introduction  
+- Exploration of delict as a regulator within indigenous African obligations.  
+- Examination of indigenous values regarding binding nature of obligations.  
+
+---
+
+### Lecture 1: Delictual liability in customary law  
+**Study:** Pages 197-198  
+
+---
+
+### Lecture 2: Defamation of character in customary law  
+**Study:** Pages 199-200  
+- **Case:** **Dikoko v Mokhatla 2006(6) SA 235 (CC); 2007(1) BCLR 1 (CC)**  
+
+---
+
+### Lecture 3: The delicts of adultery and seduction in customary law  
+**Study:** Pages 199-206  
+- Distinction between adultery and seduction.  
+
+---
+
+### Lecture 4: Transformation of customary law  
+- **Indigenous values:**  
+  - Family head's liability reflects communal accountability.  
+  - Compensation is paid into the family fund.  
+  - Historical aspect: Cattle as currency are owned by family heads.  
+
+- **Constitutional values:**  
+  - **Children’s Act**: Sets majority age at 18 for all, empowering youths and women against family head authority (see **Mabena case**).  
+
+---
+
+### Conclusion  
+- The collective nature of delictual liability and its impact on corporate home members.  
+- Examination of defamation, adultery, seduction, and statutory age of majority effects on parental authority.  
+
+---
+
+## PART 3  
+### Political and Civic Aspects of African Customary Law  
+
+---
+
+### Learning unit 11  
+**Traditional leadership institutions**  
+**Study:**  
+- Chapter 13 of the textbook.  
+- **Legislation:** Traditional Leadership and Governance Framework Act (TLGFA), 41 of 2003  
+- **Cases:**  
+  - **Nwamitwa v Philia and Others 2005 (3) SA 536 (T)**  
+  - **Shilubana and Others v Nwamitwa 2007 (2) SA 432 (SCA)**  
+  - **Shilubana v Nwamitwa 2008 (9) BCLR 914 (CC)**  
+
+#### Learning outcomes  
+- Knowledge about traditional leadership institutions' concept, constitution, and functioning.  
+- Laws regulating appointment, succession, and removal of traditional leaders.  
+
+---
+
+### Introduction  
+- Study of traditional leadership, councils, and courts reveals recognition and removal processes for traditional leaders and communities.  
+
+---
+
+### Lecture 1: History of traditional leadership institutions  
+**Study:** Pages 227-235  
+- Understanding the impact of colonial and apartheid authorities on traditional leadership.  
+- **Cases:** **Nwamitwa v Philia and Others 2005 (3) SA 536 (T)** and **Shilubana and Others v Nwamitwa 2007 (2) SA 432 (SCA)** address succession disputes as per old order principles.  
+----- END OF FILE -----
+# LCP4804/1 Study Notes
+
+## Lecture 2: Recognition and Jurisdiction of Traditional Leaders
+- **Study References**:  
+  - **TLGFA**: Recognition of traditional leaders, communities, and councils (pp. 235-246)  
+  - **Case Law**: *Shilubana v Nwamitwa* 2008 (9) BCLR 914 (CC)  
+
+## Lecture 3: Recognition of Traditional Communities
+- **Study References**:  
+  - Developments under **TLGFA** (pp. 247-251)  
+  - *Shilubana v Nwamitwa* 2008 (9) BCLR 914 (CC)  
+
+## Lecture 4: Recognition of Traditional Councils
+- **TLGFA** transformations aligning with democratic Constitution mandates (e.g., women leaders).  
+- **Judicial Endorsement**: Supporting changes instituted by TLGFA.  
+
+## Lecture 5: Transformation of Customary Law
+### Indigenous Values
+- **Restoration of Leadership Selection**: Royal families now identify next leaders reducing risks of illegitimate claims.  
+  - **Case Reference**: Valoyi community's utilization of *Constitution* §211(2) to amend laws for rightful lineages, acknowledged in *Shilubana v Nwamitwa* 2008 (9) BCLR 914 (CC).
+
+### Constitutional Values
+- **Upholding Non-sexism and Equality**: 
+  - Case *Shilubana v Nwamitwa* recognized women in leadership roles and validated law amendments following the Constitution.  
+
+## Conclusion
+- Overview of traditional leadership evolution.  
+- Impact of the Constitution and legislative transformation on traditional leadership and communities.  
+
+## Bibliography
+### Decided Cases
+- *Alexkor Ltd v Richtersveld Community* 2003 (12) BCLR 1301 (CC)  
+- *Bhe v The Magistrate Khayelitsha*; *Shibi v Sithole*; *Human Rights Commission v President of RSA* 2005 (1) BCLR 580 (CC)  
+- *Dikoko v Mokhatla* 2006(6) SA 235 (CC)  
+- *Mayelane v Ngwenyama and another* 2013 (8) BCLR 918 (CC)  
+- *Shilubana and Others v Nwamitwa* 2007 (2) SA 432 (SCA)  
+- *Mthembu v Letsela and Others* (various years and reports)  
+
+### Statutes
+- **TLGFA**: Traditional Leadership and Governance Framework Act, 41 of 2003  
+- **Constitution**: South Africa, 1996  

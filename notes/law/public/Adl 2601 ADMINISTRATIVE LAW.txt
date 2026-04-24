@@ -1,0 +1,3219 @@
+## INTRODUCTION
+- Overview of administrative law principles.
+
+## Part 1: STATE AUTHORITY AND THE HOLDERS OF SUCH AUTHORITY
+
+### LEARNING UNIT 1: Describing administrative law  
+- **1.1 An overview of the general features of administrative law**
+  - **1.1.1 State authority**  
+    - Defined by the entities with legal power.  
+  - **1.1.2 Administrative action**  
+    - Actions taken by public authorities.  
+  - **1.1.3 Just administrative action**  
+    - Principles ensuring fairness and legality.  
+  - **1.1.4 Control of administrative action**  
+    - Mechanisms for oversight and legal review.  
+
+- **1.2 General concepts and technical terms**
+  - Key terms relevant to administrative law.
+
+- **1.3 What is administrative law?**
+  - Definition and scope of administrative law as a legal field.
+
+- **1.4 Abbreviations in administrative law**
+  - Commonly used abbreviations in legal texts.
+
+- **1.5 Conclusion**
+  - Summary of key points in administrative law.
+
+### LEARNING UNIT 2: The administrative-law relationship  
+- **2.1 Characteristics of the administrative-law relationship**
+  - Defining features of relationships within administrative law contexts.
+  
+- **2.2 Distinction between general and individual administrative-law relationships**
+  - **2.2.1 General or objective relationship**  
+    - Broad applications impacting multiple parties.  
+  - **2.2.2 Individual or subjective relationship**  
+    - Specific applications impacting individual parties.  
+
+- **2.3 Conclusion**
+  - Summary of distinctions drawn.
+
+### LEARNING UNIT 3: The legal subjects of the administrative-law relationship  
+- **3.1 Identification of the authoritative party**  
+  - Recognizing parties with power in administrative processes.  
+
+- **3.2 Role of associations and private organizations**
+  - Influence of non-state entities on administrative law.
+
+- **3.3 Affected persons: natural or juristic**  
+  - Those whose rights are impacted by state actions.
+
+- **3.4 Power dynamics in authoritative relationships**  
+  - Examination of subordinate parties’ power and agency.
+
+- **3.5 Object of administrative-law relationship**  
+  - Purpose driving the legal relationship.
+
+- **3.6 Conclusion**
+  - Summary of legal subjects in administrative relationships.
+
+### LEARNING UNIT 4: The sources of administrative law  
+- **4.1 What are the sources of law?**  
+  - Overview of law source typologies.
+
+- **4.2 Sources of administrative law**  
+  - **4.2.1 Binding or authoritative sources**  
+    - Legal texts that must be adhered to.  
+  - **4.2.2 Persuasive sources**  
+    - Legal texts that influence but are not mandatory.  
+
+- **4.3 Locating administrative-law sources**  
+  - Strategies for finding relevant texts.
+
+- **4.4 Finding sources in specific situations**  
+  - Tailoring searches to context.
+
+- **4.5 Conclusion**
+  - Summary of source identification methods.  
+
+## Part 2: ADMINISTRATIVE ACTION
+
+### LEARNING UNIT 5: Administrative action  
+- **5.1 Definition of “administrative action”**  
+  - Fundamental legal interpretation of the term.
+  
+- **5.1.1** **Section 1 of PAJA**  
+  - Legal context provided by the Promotion of Administrative Justice Act.
+
+- **5.1.2 Action that does NOT qualify**  
+  - Definitions of excluded actions.
+
+- **5.1.3 Judicial interpretation**  
+  - How courts have defined and interpreted.
+
+- **5.1.4 Constitutional background**  
+  - Foundations provided by the Constitution.
+
+- **5.2 Establishing administrative action**  
+  - Criteria for determining administrative action involvement.
+
+- **5.3 Classes of administrative action**  
+  - **5.3.1 Three classes and characteristics**  
+    - Distinctions in types and their relevance.  
+  - **5.3.2 Separation of powers**  
+    - Interaction of government branches.
+
+- **5.4 Legal force of administrative action**  
+  - **5.4.1 When does it take effect?**  
+    - Timing of enforceability.  
+  - **5.4.2 Termination of legal force**  
+    - Conditions under which force ceases.
+
+- **5.5 Conclusion**
+  - Summary of administrative action principles.
+
+## Part 3: JUST ADMINISTRATIVE ACTION
+
+### LEARNING UNIT 6: Just administrative action – setting the scene  
+- **6.1 Introductory remarks**  
+  - Rationale and importance.
+
+- **6.2 Concept of just administrative action**  
+  - **6.2.1 Section 33 of the Constitution**  
+    - Legal hierarchy emphasized here.  
+  - **6.2.2 Principles and values from Section 195(1)**  
+    - Related principles ensuring fairness.  
+
+- **6.3 Overarching terms**  
+  - Synonyms and their implications for the concept of fairness.
+
+- **6.4 Conclusion**
+  - Summary of just administrative action.
+
+### LEARNING UNIT 7: Lawful administrative action  
+- **7.1 Introductory remarks**
+
+- **7.2 Concept of lawfulness**  
+  - **7.2.1 PAJA and lawful action**  
+    - Legal frameworks supporting validity.  
+  - **7.2.2 Meaning in Section 33(1)**  
+    - Clarifying lawful definitions.
+
+- **7.3 Provisions concerning administrators**  
+  - **7.3.1 Introduction**  
+    - Focus on the role and authority of administrators.  
+  - **7.3.2 Qualifications of administrators**  
+    - Legal requirements for appointment.
+
+- **7.4 Delegation**  
+  - **7.4.1 Rules on delegation**  
+    - Guidelines governing delegation.  
+  - **7.4.2 When delegation is permissible**  
+    - Conditions and limitations.
+
+- **7.5 Powers of the administrator**  
+  - Legal and geographical parameters.  
+  - **7.5.5 Prohibition on abuse of power**  
+    - Ensuring checks and balances.
+
+- **7.6 Conclusion**
+  - Summary of lawful action parameters.
+
+### LEARNING UNIT 8: The constitutional right to reasonable administrative action  
+- **8.1 Introductory remarks**
+
+- **8.2 Present position**  
+  - **8.2.1 Section 33(1) of the Constitution**  
+    - Established rights and protections.  
+  - **8.2.2 PAJA role in reasonable action**  
+    - Framework supporting rights.  
+
+- **8.3 Justifiable administrative action**  
+  - Decision-making principles.
+
+- **8.4 Common law and reasonableness**  
+  - Legal precedents shaping the interpretation.  
+
+- **8.5 Conclusion**
+  - Key insights on reasonable administrative action.
+
+### LEARNING UNIT 9: The right to procedurally fair administrative action  
+- **9.1 Purpose of procedural fairness**  
+  - Importance in administrative processes.
+
+- **9.2 PAJA and procedural fairness**  
+  - **9.2.1 Introduction to PAJA**  
+    - Core provisions for fairness.  
+  - **9.2.3 Application in public decisions**  
+    - Regulatory framework emphasized.
+
+- **9.3 Legitimate expectation**  
+  - Historical context and current applications.
+
+- **9.4 Constitutional right observations**  
+  - Courts' interpretations and implications.
+
+- **9.5 Origin of procedural fairness rights**
+  - Historical development in law.
+
+- **9.6 Common-law rules of natural justice**  
+  - **9.6.1 Audi alteram partem rule**  
+    - Ensuring fairness in hearings.  
+  - **9.6.2 Nemo iudex in sua causa rule**  
+    - Bias prevention principles.
+
+- **9.7 Application stage of procedural fairness**  
+  - Timing considerations in decision-making.
+
+- **9.8 Conclusion**
+  - Summary of procedural fairness rights.
+
+### LEARNING UNIT 10: The right to be given written reasons  
+- **10.1 PAJA and reasons**  
+  - Structured requirements under PAJA.
+
+- **10.1.1 Request for reasons**  
+  - Protocols for obtaining justifications.
+
+- **10.2 Adequacy of reasons**  
+  - Criteria for evaluating written reasons.
+
+- **10.3 Rights in section 24(c) and 33(2)**  
+  - Comparative analysis of constitutional provisions.
+
+- **10.4 Importance of reasons**  
+  - Justifications in administrative contexts.
+
+- **10.5 Rights to reasons**  
+  - Who is entitled to receive justifications.
+
+- **10.6 Conclusion**
+  - Summary of the rights regarding reasons.
+
+## Part 4: CONTROL AND REMEDIES
+
+### LEARNING UNIT 11: Internal control of administrative action  
+- **11.1 Control vs. remedy**  
+  - Distinctions in oversight mechanisms.
+
+- **11.2 Internal control mechanisms**  
+  - **11.2.1 Forms of internal control**  
+    - Various avenues of administrative checks.  
+  - **11.2.3 Advantages of internal control**  
+    - Benefits of maintaining internal oversight.
+
+- **11.3 PAJA and internal control**  
+  - **11.3.1 Internal remedies exhaustion**  
+    - Legal requirements before escalation.
+  
+- **11.4 Conclusion**
+  - Summary of internal controls.
+
+### LEARNING UNIT 12: Judicial control of administrative action  
+- **12.1 Preconditions for judicial control**  
+  - Thresholds to accessing judicial reviews.
+
+- **12.2 Forms of judicial control**  
+  - **12.2.1 Statutory appeal**  
+    - Established statutory pathways.  
+  - **12.2.2 Judicial review**  
+    - Processes for legal examination of administrative actions.  
+  - **12.2.3 Interdict**  
+    - Legal prevention measures.  
+
+- **12.3 Conclusion**
+  - Summary of judicial control mechanisms.  
+
+---  
+*Emphasized key legislative provisions: PAJA (Promotion of Administrative Justice Act) and constitutional references. Noted the importance of procedural fairness, legitimacy, and judicial review mechanisms throughout.*
+----- END OF FILE -----
+# ADL2601/1 Study Notes
+
+## 12.2.4 Mandamus
+- Mandamus: A judicial remedy issued as a command to compel a public authority to perform a duty.
+  
+## 12.2.5 Declaratory order
+- Declaratory order: A court judgment that clarifies the legal status or rights of parties without ordering any specific action.
+
+## 12.2.6 Defence in criminal proceedings
+- Defence in criminal proceedings: Legal arguments or strategies used to challenge prosecution's case in criminal matters.
+
+## 12.3 Judicial review: Grounds for review in terms of section 6 of PAJA
+### 12.3.1 Introductory remarks
+- Overview of judicial review mechanisms under PAJA, emphasizing administrative decision accountability.
+
+### 12.3.2 The decision-maker (administrator) (s 6(2)(a)(i)–(iii))
+- Review based on decision-maker's legal authority, legitimacy, and procedural adherence.
+
+### 12.3.3 The manner in which the decision was taken (s 6(2)(b)–(e))
+- Focus on legality, fairness, and reasonableness in the decision-making process.
+
+### 12.3.4 The administrative action itself (s 6(2)(f)–(i))
+- Examination of the substantive aspects of the action for legality against statutory guidelines.
+
+## 12.4 Procedure for judicial review in terms of PAJA
+### 12.4.1 Which court may review administrative action?
+- Jurisdictional overview determining which court has authority for administrative reviews.
+
+### 12.4.2 The procedure prescribed for the review of administrative action
+- Detailed steps for initiating judicial review under PAJA, including timeframes and documentation.
+
+## 12.5 The orders made by a court as prescribed by section 8 of PAJA
+### 12.5.1 Introduction
+- Authority of courts to issue orders that remedy administrative action, including setting aside or confirming decisions.
+
+### 12.5.2 Section 8
+- Specifics on remedies available, including just and equitable relief.
+
+## 12.6 The “constitutionalisation” of administrative action and judicial review
+- Discussion on how constitutional principles influence the standards of administrative actions, reinforcing accountability.
+
+## 12.7 The importance of judicial control and the courts’ traditional (common-law) function of controlling administrative action through review
+- Emphasis on courts' role in ensuring lawful administrative actions and protecting citizens' rights.
+
+## 12.8 Conclusion
+- Summary of judicial review's critical role in upholding administrative justice.
+
+## ANNEXURE A: Promotion of Administrative Justice Act No. 3 of 2000
+- Text of PAJA outlining the principles governing administrative actions and citizens' rights.
+
+## ANNEXURE B: Earthlife Africa (Cape Town) v Director-General: Department of Environmental Affairs and Tourism and Another 2005 (3) SA 156 (C)
+- Case analysis highlighting important legal principles derived from judicial review precedent.
+
+## ANNEXURE C: The Refugees Act, 130 of 1998
+- Summary of the Refugees Act and its implications for administrative law regarding refugee status adjudication.
+----- END OF FILE -----
+# ADL2601/1 Study Notes
+
+## Introduction
+- **Objectives of the learning journal**:
+  - Reflect on learning experiences
+  - Identify strengths, weaknesses, preferences, values, and biases
+  - Evaluate learning and development
+  - Integrate theory and practice
+  - Assist with assignments and exam prep
+  - Foster reflective practice
+- **Keeping a learning journal**:
+  - Use a dedicated notebook or digital format
+  - Include date, description, reflections, assumptions, insights, questions, follow-up actions
+  - Personalize content to enhance learning
+
+## Assessment
+- **Formative Assessment**:
+  - Activities enhance administrative law skills but do not affect year mark
+- **Summative Assessment**:
+  - Compulsory assignments (20% of final mark; 10% each)
+  - Final examination (80% of final mark)
+
+---
+
+## PART 1: STATE AUTHORITY AND THE HOLDERS OF SUCH AUTHORITY
+
+### LEARNING UNIT 1: Describing Administrative Law
+- **Objectives**:
+  - Identify areas of administrative law
+  - Apply administrative law concepts broadly
+  - Define administrative law
+
+1.1 **Overview of General Features of Administrative Law**
+- Focus on basic principles related to:
+  - **State Authority**:
+    - Public power exercised by an organ of state or legal person over subordinates.
+    - First question: Is there state authority involved in the action?
+  - **Administrative Action**:
+    - Conduct of administrators exercising public power under legislation.
+    - Defined by **Section 1 of PAJA**; must result in adverse effect.
+  - **Just Administrative Action**:
+    - Duty of state to act lawfully, reasonably, and afford fair procedures (**Section 33 of the Constitution**).
+    - Assessment: Was the action lawful, reasonable, fair? Were reasons provided?
+  - **Control of Administrative Action**:
+    - Mechanisms to rectify unjust or unfair administrative actions.
+    - Questions: What remedies are available for aggrieved persons? What can be claimed?
+  
+- **Diagram Reference**: See learning units 6 to 12 for detailed discussions on “just” and control of administrative actions.
+
+1.2 **General Concepts and Technical Terms**
+- Familiarize with common terminology in administrative law.
+
+1.3 **Definition of Administrative Law**
+- Understanding the scope and application of administrative law.
+
+1.4 **Abbreviations in Administrative Law**
+- Review commonly used abbreviations in legal sources.
+
+1.5 **Conclusion**
+- Recap of the importance and role of administrative law principles. 
+
+---
+
+**Case Reference**: Telkom tender row (March 2009), highlights potential relevance to administrative law.
+----- END OF FILE -----
+# ADL2601/1  
+## Learning Unit 1: Describing Administrative Law  
+
+### 1.2 A List of General Concepts and Technical Terms  
+- **Accountability**  
+  - Controls arbitrary exercise of public power.  
+   
+- **Administration**  
+  - Government's implementation of legislation; daily management by government bodies.  
+
+- **Administrator**  
+  - Defined under PAJA as an organ of state or individual performing administrative action.  
+
+- **Arbitrary Action**  
+  - Random or impulse-driven actions, lacking reason.  
+
+- **Basic Values and Principles**  
+  - Section 195(1) of the Constitution governs public administration (e.g., transparency, ethics).  
+
+- **Bill of Rights**  
+  - Chapter 2 of the Constitution outlining fundamental rights upheld by the state.  
+
+- **Case Law**  
+  - Decisions of courts reported in Law Reports.  
+
+- **Common Law**  
+  - Unwritten laws not codified in legislation.  
+
+- **Constitution**  
+  - Both a broad body of rules governing state authority and a specific written document (South Africa's Constitution, 1996).  
+
+- **Constitutionalism**  
+  - Governance limited by the Constitution; supremacy of law and authority.  
+
+- **Constitutional State**  
+  - A state where constitutionalism prevails.  
+
+- **Delegated (Subordinate) Legislation**  
+  - Laws enacted by the executive rather than Parliament.  
+
+- **Duty**  
+  - Legal obligations of individuals or administrators.  
+
+- **Executive (Authority)**  
+  - Political officials and their functions.  
+
+- **Fons et Origo**  
+  - Latin term for "source and origin."  
+
+- **Function**  
+  - Task performed by an authority or administrator.  
+
+- **Government**  
+  - Ambiguous term encompassing legislative, executive, and judicial functions; primarily refers to executive actions.  
+
+- **Inter Se**  
+  - Latin term for "between themselves."  
+
+- **Legal Subject**  
+  - Entities capable of rights and duties within the legal framework.  
+
+- **Judicial Precedent (Stare Decisis)**  
+  - Binding nature of higher court decisions on lower courts.  
+
+- **Judicial Authority**  
+  - Definition includes all courts in the Republic (s 165(1) of the Constitution).  
+
+- **Judicial Review**  
+  - Courts examining excess of power and procedure in administrative action.  
+
+- **Just Administrative Action**  
+  - Lawful, reasonable, and procedurally fair actions (s 33 of the Constitution).  
+
+- **Law**  
+  - Encompasses Constitution, statutes, and common/customary law.  
+
+- **Legality**  
+  - Lawfulness of government action under legal principles.  
+
+- **Legislature**  
+  - Elected body responsible for law-making (e.g., Parliament).  
+
+- **Limitation Clause**  
+  - Allows limitations on fundamental rights (s 36 of the Constitution).  
+
+- **Ne Bis in Idem**  
+  - Rule against double jeopardy.  
+
+- **Organ of State**  
+  - Defined in s 239 of the Constitution; includes state departments performing public functions.  
+
+- **Parliamentary Sovereignty**  
+  - Parliament's supreme legislative power without judicial review of substance.  
+
+- **Power**  
+  - Authority to act; discretionary powers indicated by "may."  
+
+- **Public Administration**  
+  - Actions and institutions involved in government outside of courts.  
+
+- **Public Service**  
+  - Section 197(1); structured to implement government policy.  
+
+- **Res Iudicata**  
+  - Matter conclusively settled and not revisitable by the same body.  
+
+- **State (the State)**  
+  - Defined territory, community, legal order, and government system.  
+
+- **Statutory Bodies**  
+  - Entities created by law to perform state functions.  
+
+- **Statutory Law**  
+  - Written laws in statutes and subordinate legislation.  
+
+- **Supreme Constitution**  
+  - Constitution as the highest law; conflicting actions invalid.  
+
+- **Testing of Legislation**  
+  - Judicial review process comparing legislation against the Constitution.  
+
+- **Ubuntu**  
+  - African philosophy emphasizing community care and respect.  
+
+### 1.3 What is Administrative Law?  
+- Administrative law covers a wide range of legal relationships and impacts everyday life.  
+- Illustrative scenarios include:
+  - **Scenario 1:** Disciplinary hearing consequences for a student.  
+  - **Scenario 2:** Asylum seeker’s permit withdrawal and legal recourse.  
+  - **Scenario 3:** School educator’s unjust suspension pending inquiry.  
+  - **Scenario 4:** Tender process dispute and late submission consequences.  
+----- END OF FILE -----
+# ADL2601/1
+## LEARNING UNIT 1: Describing administrative law
+
+- **Key Questions to Consider:**
+  - Are all parties acting on equal terms?
+  - Describe the administrative action in each scenario.
+  - Was the action authorized by law?
+  - Did the action comply with legal requirements?
+  - How can action be controlled and corrected if it does not comply?
+
+---
+
+### Characteristics of Administrative Law
+
+- **Legal Relationships:**
+  - Govern relationships between legal subjects, who hold rights and duties (e.g., John Learner vs. school principal; Theodor Refugee vs. reception officer; Thami Educator vs. Department of Education; Maria vs. municipality).
+
+- **Power Dynamics:**
+  - Entities exercise authority over subordinates, creating vertical relationships:
+    - Principal, refugee reception officer, Department of Education, municipality (exercise public power).
+  - Subordinate parties are compelled to act under this authority (e.g., inability to attend school, stay in South Africa, perform educational duties, submit tenders).
+
+- **Definition of Administrative Action:**
+  - Decisions made by those with state authority (e.g., expulsion of John, withdrawal of permit for Theodor, suspension of Thami, awarding of tenders).
+
+---
+
+### Administrative Action vs. Executive Action
+
+- **Confusion Among Students:**
+  - **Administrative Action:** Performed by organs of state as defined in **s 239 of the Constitution**.
+  - **Executive Action:** Excluded from administrative action as defined in **s 1 of the PAJA**; refers to policy-formulating decisions made by ministers (e.g., housing policy).
+  - **Implementation of Legislation:** When acting per legislation, ministers act administratively (e.g., execution of the Refugees Act).
+
+---
+
+### Authority and Legal Compliance
+
+- **Authorization to Act:**
+  - Action must be permissible as derived from law (e.g., Constitution, specific legislation).
+
+- **Compliance with Legal Requirements:**
+  - Actions must adhere to the rights of individuals, ensuring they are lawful, reasonable, and procedurally fair:
+    - **Lawful:** Must comply with relevant legal sources.
+    - **Reasonable:** Decisions must be sound and based on objective facts.
+    - **Procedural Fairness:** Subordinate parties must be allowed to present their case.
+    - **Right to Written Reasons:** Enshrined in **s 33(2)** of the Constitution; necessary when a decision adversely affects rights.
+
+---
+
+### Just Administrative Action Requirements
+
+1. **Lawfulness:**
+   - Comply with constitutional and legal mandates.
+
+2. **Reasonableness:**
+   - Decisions must have a logical basis and be reasonable to an outsider.
+
+3. **Procedural Fairness:**
+   - Fair procedures must be followed, ensuring impartiality and opportunity for representation.
+
+4. **Written Reasons:**
+   - Required for decisions impacting rights negatively.
+
+---
+
+### Control and Correction of Administrative Action
+
+- **Correcting Non-compliant Actions:**
+  - Initial internal mechanisms (appeals within the department) should be pursued before judicial intervention.
+  - Courts serve as a last resort.
+
+- **Potential Remedies:**
+  - Aggrieved parties may seek judicial review or reversal of the administrative decision.
+
+---
+
+### Defined Framework of Administrative Law
+
+- **Definition:**
+  - Regulates activities of organs of state and entities with public powers/functions, ensuring procedures and actions comply with the law.
+
+---
+
+### Situations Involving Administrative Law (Examples)
+- Planning of townships, provision of public utilities (water/electricity), public health inspector duties, transportation regulations, housing allocation, governmental functions related to public interest.
+
+--- 
+
+### Further Scenarios Analysis (Table Example)
+
+1. **Scenario 5:** Department of Transport purchasing cars - Administrative Law? **Yes.** Authority involved in public procurement.
+2. **Scenario 6:** Housing allocation to Irene - Administrative Law? **Yes.** Decision affects rights to housing.
+3. **Scenario 7:** Health official's fitness for duty - Administrative Law? **Yes.** Authority's decision involves public interest and personnel management.
+----- END OF FILE -----
+# ADL2601/1
+
+## LEARNING UNIT 1: Describing administrative law
+
+### Table A
+
+- **Scenario 5**
+  - **Administrative law**: "no"
+  - **Reasons**: Department of Transport acting in a private law capacity; no state authority involved in car purchase.
+
+- **Scenario 6**
+  - **Administrative law**: "yes"
+  - **Reasons**: Municipality director exercises authority affecting subordinate Irene; authority must be lawfully exercised.
+
+- **Scenario 7**
+  - **Administrative law**: "yes"
+  - **Reasons**: Official under the authority of the director-general; protected by law against abuse of superior power.
+
+### 1.4 A BRIEF LIST OF ABBREVIATIONS ENCOUNTERED IN ADMINISTRATIVE LAW SOURCES
+
+- **B** = Supreme Court of Bophuthatswana
+- **CC** = Constitutional Court
+- **BCLR** = Butterworths Constitutional Law Reports
+- **CJ** = Chief Justice
+- **J** = Judge
+- **JA** = Judge of the Supreme Court of Appeal
+- **MEC** = Member of the Provincial Council
+- **P** = President of the Supreme Court of Appeal
+- **PAJA** = Promotion of Administrative Justice Act 3 of 2000
+- **RA** = Appeal Court of Rhodesia (now Zimbabwe)
+- **SCA** = Supreme Court of Appeal
+
+### 1.5 CONCLUSION
+
+- Scenarios illustrate applicability of administrative law.
+- Defined administrative law based on authority relationships.
+- Understand "state authority" and "organ of state," reference **section 239 of the Constitution**.
+
+---
+
+## LEARNING UNIT 2: The administrative-law relationship
+
+### Learning Outcomes
+
+- Explain administrative-law relationships.
+- List characteristics of such relationships.
+- Distinguish general from individual relationships.
+- Identify administrative-law relationships in factual situations.
+
+### 2.1 The characteristics of the administrative-law relationship
+
+- **Public vs. Private Law**:
+  - Public Law: Regulates state and individual relationships with state authority involved.
+  - Private Law: Equal relationships between individuals.
+
+- **Administrative-law relationship characteristics**:
+  1. At least one party exercises state authority.
+  2. Authority must be held by a state entity, capable of affecting the rights of the subordinate party.
+
+- **Diagram Reference**:
+  - **Public Law Relationship**: 
+    - Someone in authority ↔ Subordinate individual
+  - **Private Law Relationship**: 
+    - Individual ↔ Individual
+
+### 2.2 Distinction between General and Individual Administrative-Law Relationships
+
+#### 2.2.1 The general or objective relationship
+
+- Defined by broader public authority contexts.
+
+#### 2.2.2 The individual or subjective relationship
+
+- Focuses on specific interactions and authority implications in distinct cases.
+
+### 2.3 Conclusion
+
+- Identification of administrative-law relationships is foundational to understanding the exercise of state authority and ensuring lawful interactions.
+
+### Relationship Analysis Table (Referencing Scenarios)
+
+| Relationship of Authority? | Someone Exercising State Authority | Person in Subordinate Position |
+|-------------------------|-----------------------------------|-------------------------------|
+| 5                       | No                                | Not applicable                |
+| 6                       | Yes                               | Irene (subordinate)           |
+| 7                       | Yes                               | Health official (dependent)   |
+
+- **Recognition**: Critical to identify authority dynamics in various scenarios to understand legal relationships within administrative law.
+----- END OF FILE -----
+# ADL2601/1
+## 23
+### LEARNING UNIT 2: The administrative-law relationship
+
+- **Definition**: The administrative-law relationship exists between:
+  - (1) Authority figures and private individuals (e.g., actions affecting rights like education).
+  - (2) Authority figures and subordinate officials in the same department.
+
+- **Authority Dynamics**: Superiors exercise power over subordinates. The relationship is public-law based; the subordinate must comply.
+
+- **Delegation of Power**: Relationships can become complex due to delegation, to be discussed in Learning Unit 7.
+
+---
+
+### 2.2 The distinction between a general and an individual administrative-law relationship
+
+- **General or Objective Relationship**:
+  - Legal rules apply to all individuals within a defined group (e.g., refugees).
+  - Governed by legislation (e.g., **Refugees Act 130 of 1998**).
+  - Cannot be altered by individual decisions of officials.
+
+- **Individual or Subjective Relationship**:
+  - Rules apply specifically to identifiable parties.
+  - Created through individual administrative decisions, less affected by new general legislation unless explicitly stated (presumption against retrospectivity).
+  - Example: A decision affecting **Theodor**, an asylum seeker directly.
+
+---
+
+### 2.3 Comparative Scenarios
+- **Scenario 8**: General relationship recognized between the municipality and residents prohibiting access to a public park (based on **Jacobs v Waks 1992 1 SA 521 (A)**).
+  
+- **Scenario 9**: General relationship with **NSFAS** but individual relationship with **Tsepo** regarding loan application denial.
+
+---
+
+### 2.4 Conclusion
+- Reviewed features of the administrative-law relationship, distinguishing between general and individual types.
+
+---
+
+## 27
+### LEARNING UNIT 3: The legal subjects of the administrative-law relationship
+
+- **Objectives**:
+  - Identify organs of state and their powers.
+  - Recognize legal subjects in factual situations.
+  - Assess the impact on rights and interests.
+
+---
+
+### 3.1 The identification of the authoritative party in the administrative-law relationship
+
+- **Definition of "Organ of State"** (s 239 of the Constitution):
+  - (a) Departments in national, provincial, or local government.
+  - (b) Institutions exercising public power but excluding courts/judicial officers.
+
+---
+
+### Breakdown of Section 239:
+- **Section 239(a)**:
+  - Refers to all state departments (e.g., Health, Education) and their administrators.
+  - Includes cabinet members and executive heads (President, Deputy President).
+  
+- **Section 239(b)**:
+  - Covers other functionaries/institutions, crucial for identifying public power holders.
+
+---
+
+### Note:
+- Memorization of definitions, especially s 239, is essential for understanding administrative law.
+----- END OF FILE -----
+# ADL2601/1
+
+## LEARNING UNIT 3: The legal subjects of the administrative-law relationship
+
+### 3.1 Definition of “Organ of State”
+- **Section 239(b)** broadens the definition of “organ of state”:
+  - Includes functionaries or institutions exercising powers or functions under the Constitution or any legislation.
+- Difficulty in distinguishing whether an entity acts in public vs. private capacity.
+  - **Chirwa v Transnet Ltd**: Langa CJ notes the complex nature of defining "public" powers (2008).
+- Essential considerations:
+  - (a) Determining if functions are public.
+  - (b) Assessing if these functions are in accordance with legislation.
+- Focus on the nature of the function, not the individual performing it.
+  - Reference: **President of the Republic of South Africa v SARFU** (2000).
+
+### 3.2 Distinction between Private and Public Law
+- Traditional private/public law distinctions increasingly blurred.
+- Example: Legislation regulating private-law relationships (e.g., leases).
+- **Legislation Examples**: 
+  - Employment of Educators Act 1998.
+  - Prevention of Family Violence Act 1993.
+  - Promotion of Equality and Prevention of Unfair Discrimination Act 2000.
+
+### 3.3 Privatization of Public Functions
+- State privatizes functions traditionally public (e.g., transport, telecommunications).
+- Entities like **Transnet**, **Telkom**, and **Eskom** exercise public powers under legislation despite not being public administration.
+
+### 3.4 Identifying Organs of State
+- Analyze if entities qualify as “organs of state” based on statutory frameworks.
+- Examples:
+  - **National Soccer League**: Lacks legislative foundation, thus not an organ of state.
+  - **SABC Board**: Qualifies as it is established under the Broadcasting Act.
+  - **Unisa**: Acts under the Higher Education Act.
+  - **Private Schools**: Generally not organs of state, but subject to government legislation.
+  - **High Court**: Not considered an organ of state as per Section 239.
+
+### 3.5 Associations and Clubs
+- **Voluntary Associations** (e.g., jockey clubs):
+  - Not statutory bodies and generally not organs of state.
+  - Disciplinary powers derived from internal constitutions.
+- **Common-Law Application**:
+  - Courts may apply administrative law principles based on authority-subordinate dynamics.
+  - Cases: 
+    - **Government of the Self-Governing Territory of KwaZulu v Mahlangu** (1994) emphasizes contractual authority.
+    - **Tirfu Raiders Rugby Club v SARU** (2006): Court acknowledges public interest in rugby affairs justifies PAJA application.
+    - **Calibre Clinical Consultants v National Bargaining Council** (2010): Decision not bound by PAJA.
+
+### 3.6 Affected Parties in Administrative Relationships
+- **Earthlife Africa** as a legal subject within an administrative-law relationship; subordinate status confirmed.
+- Characteristics of administrative-law relationships:
+  - Based on authority and public power.
+  - Inequality between parties (authority vs. subordinate).
+- Subordinate individuals or entities retain rights and interests under the law.
+- Constitutional protections reinforce safeguards against abuse of power by authorities.
+
+### 3.7 Rights of Subordinate Persons
+- Individuals in subordinate positions hold rights and interests; they cannot be rendered powerless within these relationships.
+- Authorities must comply with legal standards and promote public interest.
+- Legal frameworks (e.g., the Constitution) ensure protection of rights against arbitrary actions by authoritative bodies.
+----- END OF FILE -----
+# ADL2601/1 Study Notes
+
+## Page 35
+
+### LEARNING UNIT 3: The legal subjects of the administrative-law relationship
+- **Compliance:** Actions of organs of state must align with **section 33 of the Constitution** and **PAJA**. Non-compliance allows subordinates to seek internal remedies.
+  
+### 3.5 THE OBJECT OF OR REASON FOR THE ADMINISTRATIVE-LAW RELATIONSHIP
+- **Definition:** The object signifies the rationale behind forming the legal bond between subjects.
+- **Example:** A municipality issues trade licenses to regulate street trading.
+- **Empowering Act:** Details the object of authorization for administrative action.
+
+### 3.6 CONCLUSION
+- Overview of administrative law, its features, and sources to be discussed in the next unit.
+
+---
+
+## Page 36
+
+### LEARNING UNIT 4: The sources of administrative law
+- Goals:
+  - Define sources of law.
+  - Highlight importance of identifying sources of law.
+  - Classify and discuss administrative law sources.
+  - Apply sources to real situations.
+
+### 4.1 WHAT ARE THE SOURCES OF LAW?
+- **Definition:** Locations of legal rules, norms, principles, and values governing law.
+- **In Administrative Law:** Sources confer public or authoritative power, particularly referenced in **PAJA** as “empowering provision.”
+- **Power Source:** Administrative power is conferred by law, not self-generating (Baxter, 1984).
+
+### 4.2 THE SOURCES OF ADMINISTRATIVE LAW
+#### 4.2.1 Binding or authoritative sources
+1. **Constitution of the Republic of South Africa, 1996**
+2. **Legislation**
+3. **Case law / Judicial precedent**
+4. **Common law**
+5. **Administrative practice (custom or usage)**
+6. **Ubuntu**
+7. **International law**
+
+#### 4.2.2 Persuasive sources
+1. **Academic writings in books and journals**
+2. **Policy documents (Green and White Papers)**
+3. **Reports by state institutions supporting constitutional democracy**
+4. **Foreign law**
+
+### 4.3 WHERE TO FIND ADMINISTRATIVE-LAW SOURCES 
+- **Identifying sources for governance:** PAJA and section 33 are primary authoritative sources.
+
+### 4.4 HOW TO FIND SOURCES OF ADMINISTRATIVE LAW
+- **Case study application** highlighted to determine authoritative sources.
+
+### 4.5 CONCLUSION
+- Recaps the sources applicable to administrative law as detailed in this guide.
+
+---
+
+## Page 37
+
+### 4.2.1 BINDING OR AUTHORITATIVE SOURCES
+1. **The Constitution**
+   - **Supremacy Clause** (*Section 2*): Constitution is the highest law; inconsistent laws are invalid.
+   - Establishes standards for administrative power and promotes human rights.
+   - **Significance:** Guarantees just administrative action per **section 33**.
+   - **Case Reference:** *Pharmaceutical Manufacturers Association of SA v President of the RSA* (2000).
+
+2. **Legislation**
+   - Major source of administrative power.
+   - Must align with constitutional provisions. 
+   - **Types of Legislation:**
+     - **Original (Enabling) Legislation:** Passed by Parliament, e.g., **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**, **Promotion of Access to Information Act 2 of 2000 (PAIA)**.
+     - **Delegated (Subordinate) Legislation:** Enacted under original legislation, must not conflict with enabling Act (e.g., regulations by functionaries).
+
+### Note: 
+- PAJA emphasizes aspects of administrative law, to be examined in subsequent units.
+
+### More Examples:
+- Discussion of specific provincial and local legislation aligns with constitutional mandates, ensuring original legislative powers against constitutional parameters. 
+- **Case Reference:** *Fedsure Life Assurance Ltd v Greater Johannesburg* (1998) - acknowledges local governments' constitutional status.
+
+## Page 38
+
+### 4.2.1 (contd.)
+#### Delegated Legislation
+- **Define:** Must be enacted in alignment with original legislation.
+- **Purpose:** Regulates specialized matters after parameters set by primary legislation.
+
+### Examples:
+- Presidential proclamations issued under empowering statutes.
+
+**Diagram Reference:** Diagram illustrating legislative hierarchy and sources of administrative law (not included).
+----- END OF FILE -----
+# ADL2601/1
+## LEARNING UNIT 4: The Sources of Administrative Law
+
+### 1. Regulations Made by Ministers
+- Derived from enabling statutes.
+- **Example**: Proclamation by the President regarding the Refugees Act, 1998 (Act No. 130 of 1998).
+- Example of **Government Notice** under the Refugees Act, including regulations made by the Minister of Home Affairs.
+
+### 2. Delegated Legislation
+- Exists at provincial and local government levels.
+- Regulations issued by MECs, e.g., **Schools Education Act 6 of 1995 (Gauteng)**.
+- Local government by-laws affecting municipal areas.
+
+### 3. Case Law (Judicial Precedent)
+- Courts interpret and apply legal rules based on the Constitution and statute law.
+- The **Interpretation of Statutes module** focuses on how courts apply legislative rules, such as in **PAJA**.
+- Courts control public power and functions of state organs:
+  - Reference: **Pharmaceutical Manufacturers Association of South Africa case** (Chaskalson P).
+
+### 4. Common Law
+- Unwritten law of South Africa, less significant in administrative law.
+- Influences from English and Roman-Dutch law.
+- Example principles: 
+  - **Ultra vires**.
+  - **Natural justice** (also encapsulated in PAJA).
+
+### 5. Administrative Practice/Custom or Usage
+- Unwritten rules passed down through generations, including African customary law recognized by **PAJA**.
+- Requirements for recognition:
+  - Reasonableness, longevity, and general acceptance.
+- Potential for practices, directives to gain legal force.
+
+### 6. Ubuntu
+- Concept of humaneness linked to community and relationships.
+- Prof. Emeritus George Devenish's views and **S v Makwanyane** (1995).
+- Emphasizes cooperation, accountability of leadership, and community spirit.
+- Ubuntu absent in current Constitution but reflects a valuable aspect of African jurisprudence.
+
+### 7. International Law
+- Important but less prominent in administrative law.
+- Relevant sections: **39(1)(b)**, **231-233** of the Constitution.
+- Regulates relationships between states and international organizations.
+
+### 8. Persuasive Sources
+- Non-binding but influential in legal decision-making.
+1. **Academic Opinions**: Courts may reference legal writings.
+2. **Policy Documents**: 
+   - **Green Papers**: Consultative documents for public participation.
+   - **White Papers**: Articulate final government policy positions.
+----- END OF FILE -----
+# ADL2601/1  
+## 47  
+### LEARNING UNIT 4:  The sources of administrative law  
+
+- **Government Documents**  
+  - **White Papers** outline government policy commitments (e.g., White Paper on Renewable Energy Policy, N 513/2004).  
+
+- **Reports by State Institutions**  
+  - Institutions supporting constitutional democracy (e.g., Public Protector, Auditor-General) report on administrative conduct, recommending remedies for maladministration.  
+
+- **Foreign Law**  
+  - **Section 39(1)(c) of the Constitution** allows courts to consider foreign law when domestic law lacks guidance.  
+
+### 4.3 WHERE TO FIND ADMINISTRATIVE-LAW SOURCES  
+
+- **Legislation**  
+  - Government Gazettes (published by Government Printer)  
+  - LexisNexis/Butterworths loose-leaf statutes  
+  - Online resources:  
+    - [Polity](http://www.polity.org.za/legislation)  
+    - [Acts](http://www.acts.co.za)  
+    - [SAFLII](http://www.saflii.org)  
+
+- **Case Law**  
+  - South African Law Reports (monthly by Juta)  
+  - Butterworths Constitutional Law Reports (BCLR) for constitutional and administrative-law cases  
+  - Online access to Constitutional Court and Supreme Court of Appeal decisions  
+
+- **Journals**  
+  - Southern African Public Law (SAPL)  
+  - South African Journal on Human Rights (SAJHR)  
+
+- **Policy Documents and Reports**  
+  - Access via government websites, [Polity](http://www.polity.org.za) and [SAFLII](http://www.saflii.org)  
+
+### 4.4 HOW TO FIND SOURCES IN A PARTICULAR SITUATION  
+
+- **Scenario Examination**: Ms. Lucy Green, terminally ill, applies for parole after a conviction; her request is denied based on health appearance and high-profile status.  
+
+- **Sources to Argue Case**:  
+  - **The Constitution**  
+    - Section 2: All actions must align with the Constitution.  
+    - **Section 33**: Right to lawful, reasonable, and procedurally fair administrative action (referencing PAJA).  
+  - **Legislation**:  
+    - **Correctional Services Act**—details on parole conditions and refusal grounds.  
+  - **Regulations**:  
+    - Issued under the Act, providing specifics on parole applications and procedures.  
+  - **Policy Guidelines**: Relevant departmental guidelines for parole.  
+  - **Case Law**: Investigate precedents relevant to Lucy's situation.  
+
+### 4.5 CONCLUSION  
+
+- Discussed sources of administrative law and their relevance in the administrative law framework. Next focus on the concept of 'administrative action' in Learning Unit 5.
+
+# ADL2601/1  
+## 51  
+### PART 2  
+### ADMINISTRATIVE ACTION  
+
+## 5 LEARNING UNIT 5  
+
+- **Objectives**: Establish significance of administrative action, define it per PAJA, discuss qualifying elements, and explore legal implications.  
+
+### 5.1 THE DEFINITION OF “ADMINISTRATIVE ACTION”  
+- **5.1.1 Section 1 of PAJA**  
+  - Defines 'administrative action' as decisions made by an organ of state exercising power under the Constitution or legislation.
+
+### 5.1.2 Action that does not qualify as administrative action  
+### 5.1.3 Judicial interpretation of administrative action  
+### 5.1.4 Constitutional instruction  
+### 5.2 The need to establish whether administrative action is involved  
+### 5.3 The classes of administrative action  
+- **5.3.1 Three classes**: Characteristics of each class defined.  
+- **5.3.2 Separation of Powers**: Relation to classes of administrative action.  
+
+### 5.4 The legal force of administrative action  
+- **5.4.1** When administrative action takes effect.  
+- **5.4.2** Termination of legal force of administrative action.  
+
+### 5.5 Conclusion
+----- END OF FILE -----
+# ADL2601/1
+
+## 53
+
+### LEARNING UNIT 5:  Administrative Action
+
+- **Definition of Administrative Action**  
+  - Natural or juristic person, other than an organ of state, performing a public function adversely affecting rights with direct legal effect.
+  - Exclusions include:
+    - aa) Executive powers of National Executive (Constitution Sections 79, 84, 85, 91, 92, 93, 97-100).
+    - bb) Executive powers of Provincial Executive (Constitution Sections 121, 125-127, 132, 133, 137-139, 145).
+    - cc) Executive functions of municipal council.
+    - dd) Legislative functions of Parliament, provincial or municipal councils.
+    - ee) Judicial functions (Constitution Section 166; Special Investigating Units Act, 1996).
+    - ff) Decisions on prosecution.
+    - gg) Decisions on judicial officer appointments by Judicial Service Commission.
+    - hh) Access to Information Act decisions.
+    - ii) Decisions under section 4(1) of PAJA.
+
+- **Important Definitions for Section 1 PAJA**  
+  - **Administrator**: Organ of state or any natural/juristic person taking administrative action.
+  - **Decision**: Includes proposals, refusals, and decisions of an administrative nature (various forms specified).
+  - **Empowering Provision**: Legislations, common law, or agreements underpinning administrative actions.
+  - **Failure**: Includes a refusal to make a decision.
+  - **Organ of State**: Definition from Constitution Section 239.
+
+### 54
+
+1. **Decision**  
+   - Administrative action must arise from a decision.
+   - Includes proposed decisions and failures to make decisions (see Melani case).
+
+2. **Of an Administrative Nature**  
+   - Distinction between constitutional and administrative law.
+   - Administrative law deals with executive functions managing daily operations.
+   - Focus on implementing and administering policy (not high-level decisions).
+
+3. **Under an Empowering Provision**  
+   - Required legal basis for decisions under law or authoritative documents.
+   - Ensures decisions are valid and lawful (addressed in subsequent units).
+
+4. **Organ of State or Natural/Juristic Person**  
+   - Administrative action qualifies when exercising public powers under law.
+   - Institutions that are not defined as organs of state may still perform public functions (Eden Security Services case).
+
+5. **Adversely Affects Rights**  
+   - To constitute administrative action, decisions must impose burdens on individuals (restriction to PAJA scope).
+
+6. **Direct, External Legal Effect**  
+   - Must create an identifiable legal impact; introduced to delimit PAJA's reach (adopted from German law).
+
+### 55
+
+7. **Exclusions from Administrative Action**  
+   - No administrative action falls under certain specific complex exclusions listed in PAJA (items aa to ii).
+
+### 56
+
+### 5.1.2 Exception Clause
+- Exclusions cover powers/functions that do not define administrative action.
+- PAJA embraces decisions by all designated bodies unless stated exclusions apply.
+
+### References
+- **Legislation**: Constitution of the Republic, PAJA.
+- **Key Cases**: 
+  - *Melani and Others v City of Johannesburg* 2016 (5) SA 67 (GJ)
+  - *Eden Security Services CC v Cape Peninsula University* [2014] ZAWCHC 148
+  - *Association of Mineworkers v Chamber of Mines* 2017 (3) SA 242 (CC).
+----- END OF FILE -----
+# ADL2601/1
+## 59
+### LEARNING UNIT 5: Administrative Action
+#### (a) Executive Powers and Functions in National Sphere
+- **Examples of Executive Actions**:
+  - President assenting to bills (s 84(2)(a) of the Constitution)
+  - Appointing commissions (s 84(2)(f) of the Constitution)
+  
+- **Self-evaluation Activity**: Focus on distinctions between constitutional and administrative law.
+
+- **Categories Excluded from Administrative Action**:
+  - Functions of constitutional nature (national executive, provincial executives, local executive).
+    - Ceremonial actions by President (e.g., national referendums, accrediting ambassadors).
+    - These are policy or political functions, not administrative.
+  
+- **Case Law**: 
+  - **Pharmaceutical case**: President's act of signing legislation not administrative (requires policy judgment). 
+  - **Minister of Defence and Military Veterans v Motau**: Decision to terminate board membership is executive (not administrative).
+  - **University of the Free State v Afriforum**: Language policy change is an executive decision.
+
+#### (b) Legislative Functions
+- **Exclusions**:
+  - Legislative functions of Parliament, provincial legislatures, municipal councils (s 1(dd)).
+  - Distinction between legislation and administrative action (Fedsure decision).
+  
+#### (c) Judicial Functions
+- **Exclusions**:
+  - Judicial functions of court officers (judges, magistrates, traditional leaders).
+  - Exclusion of decisions regarding prosecution (s 1(ff)).
+    - **National Director of Public Prosecutions v Freedom Under Law**: Withdrawing prosecution is not administrative.
+  - Judicial Service Commission nominations (s 1(gg)).
+
+#### (d) Decisions under PAIA
+- **Exclusion**:
+  - Decisions under the Promotion of Access to Information Act 2 of 2000 (PAIA) (s 1(hh)).
+  - Simplifies matters by excluding PAIA from additional operating procedures.
+
+#### (e) Decisions in terms of Section 4(1) of PAJA
+- **Exclusion**:
+  - Any decision/failure to decide under section 4(1) of PAJA (s 1(ii)).
+  - Reflects an administrator's discretion on procedural choice.
+  
+- **Notes**: 
+  - No public action above law; regulated under constitutional law.
+
+### 5.1.3 Judicial Interpretation of Administrative Action
+- **Grey’s Marine Hout Bay (Pty) Ltd v Minister of Public Works**: Definition of "administrative action" often convoluted; requires examining multiple definitions and qualifications.
+  
+- **SCA Broad Interpretation**: Bureaucratic actions implicating direct consequences for individuals/groups.
+
+- **Historical Context**: 
+  - **Constitutional Court** focuses on actions NOT considered administrative (legislative actions, head of state functions).
+
+- **Leading Cases**: 
+  - **SARFU case**: Clarified exclusions related to separation of powers.
+
+### 5.1.4 Constitutional Instruction (Background to Section 1)
+- **Section 33 of the Constitution**:
+  - Rights to lawful, reasonable, and procedurally fair administrative action.
+  - Right to written reasons for adversely affected rights.
+  - Mandate for national legislation for administrative action review (33(3)).
+  
+- **Frameworks**: Broad constitutional guidelines with detailed guidance required from legislation.
+----- END OF FILE -----
+# ADL2601/1  
+## LEARNING UNIT 5: Administrative action  
+
+### 5.1 Introduction  
+- **Constitutional Provision**: Parliament must enact legislation for just administrative action.  
+- **Hoexter's Interpretation**: “To give effect to the rights” implies detailed expression of rights to just administrative action and associated remedies.  
+- **Legislative Timeline**: Deadline for legislation was February 2000, leading to the promulgation of the **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**.  
+- **Act Implementation**: Effective from 30 November 2000, with exceptions for sections 4 and 10.  
+
+### 5.2 Establishing Administrative Action  
+- **Importance**: Determining if administrative action exists is crucial for the application of the right to just administrative action (s 33, Constitution).  
+- **Threshold Requirement**: Recognition of action as administrative is needed for legal application of rights.  
+- **Exclusions**: Many actions may resemble administrative action but do not qualify under PAJA.
+
+### 5.3 Classes of Administrative Action  
+#### 5.3.1 Three Classes of Conduct  
+- **Legislative Administrative Acts**:  
+  - Recognizable form, published in official documents (e.g., Government Gazette).  
+  - Creates, varies, or ends general relationships; cannot be regulated by decision alone.  
+  - Governed by specific rules; delegation of legislative power requires express statutory authority.  
+  - Must comply with original Act's framework, avoiding conflict or vagueness.
+
+- **Judicial Administrative Acts**:  
+  - Characterized as **quasi-judicial**, resembling court actions.  
+  - Conducted by administrative tribunals, e.g., **Films and Publications Appeal Board**.  
+  - Not part of judiciary hierarchy; subject to judicial control via appeal/review.
+
+- **Administrative Acts**:  
+  - Refers to day-to-day government activities, e.g., licensing, promotions, arrests.  
+  - Types include police acts (urgent actions) and discretionary administrative acts (choice in action context).
+
+### 5.4 Discretionary Administrative Acts  
+- **Definition**: Discretion involves the choice of action in particular situations.  
+- **Types of Discretion**:  
+  - **Wide Discretion**: Broad choice, e.g., "in his or her opinion" language.  
+  - **Narrow Discretion**: Conditions specified in enabling provision guide discretion.  
+- **Legal Boundaries**: Choices must remain lawful, governed by legal frameworks (e.g., referee analogy).
+
+### 5.5 Separation of Powers and Administrative Action  
+- **Principle**: Separation of powers divides state authority into legislative, executive, and judicial branches, preventing concentration of power.  
+- **Administrative Law Principle of Deference**: Courts respect administrators’ decisions while maintaining the obligation to review actions based on legal standards.  
+- **Judicial Control**: Cases like **Department of Transport v Tasima** highlight varying views on the extent of judicial control in administrative actions.  
+
+### 5.6 Conclusion  
+- **Significance of Classes**: The classification of administrative action reflects distinct governmental functions, rooted in the separation of powers.  
+
+----- END OF FILE -----
+# ADL2601/1  
+## LEARNING UNIT 5: Administrative Action  
+
+### 5.4 THE LEGAL FORCE OF ADMINISTRATIVE ACTION  
+- **Definition**: The legal effect of administrative action in law; aspects include when it takes effect and when it is terminated.
+
+#### 5.4.1 When does administrative action take effect?  
+- **Legislative Administrative Acts**: Effective upon promulgation or commencement date.
+- **Judicial Administrative Acts**: Effective at the ruling or judgment unless a statute specifies an appeal period.
+- **Administrative Acts**: Effective upon notification by publication or individual announcement.  
+  - Importance: Determines compliance with deadlines for appeals, objections, etc. (Baxter 1984:367).
+
+#### 5.4.2 Termination of the legal force of administrative action  
+- **Causes for Termination**: Repeal, revocation, amendment, lapse of time, withdrawal, or court order.
+- **Functus Officio**: The organ of state is “having completed the task” and cannot alter the decision once the matter is finalized.
+
+##### Legislative Administrative Acts  
+- Can be repealed or amended at any time, but does not apply retrospectively once rights are acquired.
+
+##### Judicial Administrative Acts  
+- Functus officio upon ruling; force of **res iudicata**.
+
+##### Administrative Acts  
+- **Invalid Administrative Action**: Action can be rectified if challenged before court; invalidity confirmed in **Merafong City Local Municipality v AngloGold Ashanti Ltd 2017 (2) SA 211 (CC)**.
+- **Valid Administrative Action**:
+  - **Onerous/Burdensome**: Can be altered at any time.
+  - **Beneficial**: Can only be altered if expressly authorized.
+  - **Status-Affecting**: Authority is functus officio once the decision is made (e.g., adoption orders).
+
+### 5.5 CONCLUSION  
+- Overview of administrative action and its effects.
+- Link to Section 33 of the Constitution via PAJA.
+- Introduction to the validity of administrative action in subsequent units (6-10).
+
+---
+
+# PART 3  
+## JUST ADMINISTRATIVE ACTION  
+
+### LEARNING UNIT 6  
+### Just Administrative Action – Setting the Scene  
+- Objectives:
+  - Explain just administrative action via Section 33 of the Constitution.
+  - Define requirements for valid administrative action.
+  - Describe overarching terms related to administrative validity.
+
+#### 6.1 Introductory Remarks  
+- Focus shifts to the essence of administrative law: valid exercise of administrative action.
+- Question of validity: “When is administrative action valid?”
+- **Basic Answer**: Valid administrative action requires legal authorization and adherence to legal requirements.
+- Sources of Administrative Law:
+  1. Constitution
+  2. Legislation
+  3. Case Law
+----- END OF FILE -----
+# ADL2601/1  
+## 77  
+### LEARNING UNIT 6: Just administrative action – setting the scene
+
+- **Common Law, Administrative Practice, Ubuntu, International Law, Academic Writings, Policy Documents, Reports by Functionaries, Foreign Law**
+- **Focus**: Section 33 of the Constitution on the right to just administrative action.
+
+---
+
+### Section 33: Constitutional Requirements for Administrative Action
+- **Requirements**: 
+  - (a) **Lawful**
+  - (b) **Reasonable**
+  - (c) **Procedurally Fair**
+  - (d) **Written Reasons** for adverse actions affecting rights.
+
+- **Historical Context**: 
+  - Pre-Constitution reliance on **legislation**, **common law**, and **judicial precedent** for valid administrative action.
+  - Post-1994: Constitution as supreme law; consideration of other sources like empowering legislation and PAJA.
+
+- **Note**:
+  - Other validity requirements in legislation and court decisions relate back to section 33.
+
+---
+
+## Broad Outline of Content (Units 6-10)
+- **Learning Unit 6**: Just administrative action
+  - Provisions of section 33
+  - Requirements for valid administrative action
+  - Overarching terms for just administrative action
+- **Learning Unit 7**: Right to lawful administrative action
+  - Concept of lawfulness
+  - Administrator provisions
+  - Administrator powers
+- **Learning Unit 8**: Right to reasonable administrative action
+  - Reasonableness concept
+  - Justifiable action
+  - Court interpretations
+  - PAJA and unreasonable actions
+- **Learning Unit 9**: Right to procedural fairness
+  - Procedural fairness concept
+  - Common-law natural justice rules
+  - Preconditions for natural justice rules
+  - PAJA and procedural fairness
+- **Learning Unit 10**: Right to written reasons
+  - Requirements for providing reasons
+  - Court approaches to reasons
+  - PAJA and reason provision
+
+---
+
+### Just Administrative Action Explained 
+#### Section 33 of the Constitution
+- **Text**:
+  - **33(1)**: Right to lawful, reasonable, and procedurally fair administrative action.
+  - **33(2)**: Right to written reasons for adverse actions.
+  - **33(3)**: National legislation for review of administrative actions; duties of the state.
+  
+- **Significance**: Protects against government power abuse, upholds justiciable rights, enforces fairness and reasonableness.
+
+#### Conclusions on Just Administrative Action
+- Aims to prevent abuse of power by administrators towards subordinates.
+- Protects individual rights ensuring fairness and reasonableness.
+
+---
+
+### Values of Section 195(1) of the Constitution
+- **Principles in Public Administration**:
+  - High professional ethics
+  - Efficient resource use
+  - Development-oriented service
+  - Impartial and equitable service
+  - Responsive to needs
+  - Accountability
+  - Transparency
+  - Enhanced human resource practices
+  - Broad representation based on ability and fairness
+
+- **Application**: Values apply to all government spheres; compliance ensures valid administrative action.
+
+#### Relationship between Sections
+- Sections 1 and 195, in conjunction with Section 33, establish a fair and honest administration focused on public interest (common good).
+
+#### Just Administrative Action Necessitates:
+- Public participation
+- Values adherence
+- Administrative accountability
+
+---
+
+### Other Terms for Just Administrative Action
+- Collective concepts have emerged through case law, reinforcing the overarching requirement for valid administrative action. 
+
+### Scenario Analysis: Sello's Case
+- Examples of unjust administrative action:
+  1. Demand for commission (contrary to section 195).
+  2. No reasons for license cancellation.
+  3. Lack of opportunity for Sello to present his case.
+  4. Potential conflict of interest (Ms. Dealings' role).
+----- END OF FILE -----
+ADL2601/1  
+---
+
+### LEARNING UNIT 6: Just Administrative Action – Setting the Scene  
+**Page 83**
+
+- **Key Terms**:
+  - **Ultra vires**: Acting beyond granted powers.
+  - **Intra vires**: Acting within granted powers.
+
+- **Validity of Administrative Action**:
+  - Action is invalid if it exceeds legally conferred powers.
+  - Empowering legislation is critical for establishing the limits of administrative authority.
+
+**Page 84**
+- **Modern Approach**:
+  - A broader approach to ultra vires is preferred, requiring compliance with all legal requirements.
+  - **Intra vires today includes**: Requirements of lawfulness, reasonableness, and procedural fairness as per **section 33 of the Constitution**.
+
+- **Applying One’s Mind**:
+  - Not a standalone validity requirement but encompasses all legal requirements for valid administrative action.
+
+- **Principle of Legality**:
+  - Rooted in common law; requires that all administrative actions serve public interest and respect fundamental rights.
+  - **Supremacy of the Constitution**: Any law contrary to the Constitution is invalid (see **Fedsure Life Assurance Ltd v Greater Johannesburg Transitional Metropolitan Council 1999 (1) SA 374 (CC)**).
+
+**Page 86**
+- **Legality as Basis for Administrative Action**:
+  - Actions must align with legal requirements.
+  
+### 7 STUDY UNIT 7: The Right to Lawful Administrative Action as Requirement for Valid Administrative Action  
+**Page 87**
+
+- **Outcome Objectives**:
+  - Understand lawful administrative action in various legal contexts.
+  
+- **Outline**:
+  - 7.1 Introductory remarks
+  - 7.2 The concept of lawfulness
+    - 7.2.1 PAJA and lawful administrative action
+    - 7.2.2 Meaning in context of **section 33(1)**
+    - 7.2.3 Reflections in the Constitution
+    - 7.2.4 Enabling legislation
+  - 7.3 Provisions dealing with the administrator
+    - 7.3.1 Introduction
+    - 7.3.2 Who is the administrator?
+  - 7.4 Delegation
+    - 7.4.1 Rule about delegation
+  - 7.5 The powers of the administrator
+    - 7.5.1 Powers prescribed by law
+    - 7.5.2 Geographical limits on power
+    - 7.5.3 Temporal limits on power
+    - 7.5.4 Subject matter restrictions
+  - 7.6 Conclusion
+
+**Page 88**
+- **Introductory Remarks**:
+  - Right to just administrative action includes lawful action by public functionaries.
+  - Repetition of the lawfulness requirement in **section 33(1)** emphasizes its significance in administrative governance.
+
+- **Constitutional Study**:
+  - Examine legislative sources (common, case law) for a robust understanding of lawfulness in administrative action.
+  - Lawfulness has evolved through various legal influences and serves as the guiding doctrine for administrative validity.
+
+---  
+
+This summarizes the key principles, theories, and concepts outlined in the original text, retaining the structure and page references required for study.
+----- END OF FILE -----
+# ADL2601/1
+## STUDY UNIT 7: The right to lawful administrative action as a requirement for valid administrative action (3)
+
+### 7.2 THE CONCEPT OF LAWFULNESS
+
+#### 7.2.1 PAJA and lawful administrative action
+- **PAJA**: Promotes judicial review of **unlawful actions**.
+- **Judicial review excluded** if action deemed unconstitutional/unlawful; **Section 6(2)(i)** empowers courts for reviews.
+- **Preamble Objectives**:
+  - Review administrative action by courts.
+  - Duty on state to uphold **section 33** rights.
+  - Foster efficient administration and governance.
+  - Cultivate accountability, openness, and transparency in public administration.
+
+#### 7.2.2 The meaning of “lawful” in section 33(1)
+- **Section 33**: Guarantees the right to lawful administrative action; aligns with **common-law requirement of legality**.
+- All governmental actions must comply with **legal principles** and **rules**.
+- Principle of legality: Actions must be lawfully authorized; prevents unjust judicial exclusion.
+- **Historical context (pre-1994)**: Parliamentary sovereignty allowed unreasonable laws; courts could not challenge legality.
+
+#### 7.2.3 Lawfulness in the Constitution
+- Foundation of South African democracy emphasizes legality.
+- Compliance with laws is paramount to prevent abuse of power.
+- **Values expressed in the Constitution** guide administrative actions.
+
+#### 7.2.4 Lawfulness and the enabling statute
+- **Enabling statutes**: Legislation conferring administrative power.
+- Must respect directives on scope, qualifications, and procedural instructions.
+- Acting **ultra vires**: Administrators exceeding statutory authority is unlawful.
+- Examples of enabling legislation: 
+  - **South African Sports Commission Act 109 of 1998** - Sports administration oversight.
+  - **Employment of Educators Act of 1998** - Governs educator employment.
+
+#### 7.2.5 Other legislation
+- Additional legislation can influence administrative action lawfulness (e.g., **Skills Development Act 97 of 1998** regulates employment).
+
+### Section 7: General Limitations (Relevant to Administrative Action)
+- **Rights limitation** must be justified and lawful as per **section 36**.
+  - Limitations by "law of general application".
+  - Must be reasonable and justifiable, considering:
+    - Nature of the right.
+    - Purpose of the limitation.
+    - Relation between limitation and purpose.
+    - Possibility of less restrictive alternatives.
+
+### Interpretation of the Bill of Rights
+- **Section 39**: Mandates promotion of democratic values and consideration of international law during interpretation.
+----- END OF FILE -----
+# ADL2601/1
+
+## STUDY UNIT 7: The right to lawful administrative action as a requirement for valid administrative action
+
+### 7.3 Provisions dealing with the administrator
+
+#### 7.3.1 Introduction 
+- Authority of the administrator is derived from law; performing administrative action must be authorized. 
+- Empowering statute outlines qualifications, geographical area, timeframes, and subject matter.
+- Scope of authority = within official statutory jurisdiction.
+
+#### 7.3.2 Who is the administrator?
+- Defined in **PAJA, Section 1**: "administrator" = organ of state or any natural/juristic person taking administrative action. 
+- Types include:
+  - (a) Natural or juristic persons (e.g., ministers, heads of departments)
+  - (b) Organ of state as per **Constitution, Section 239** (excludes courts/judicial officers)
+- Administrator must exercise authority personally, possessing discretion which may vary in range.
+
+#### 7.3.3 Qualifications of the administrator: proper appointment and other provisions
+- Administrator's authority comes from legislation; may be required to hold certain qualifications. 
+- Without these, no valid administrative action can be performed. 
+- Example: **Liquor Act 27 of 1989, Section 7(2)** required legal qualifications to hold positions on the Liquor Board.
+- Case reference: **Awumey v Fort Cox Agricultural College 2003 (8) BCLR 861 (Ck)** highlights invalid actions due to unqualified members.
+
+### 7.4 Delegation
+
+#### 7.4.1 The rule about delegation
+- Delegation = entrusting tasks/authority to others; designed for efficient administration.
+- General rule: delegation is unlawful unless authorized.
+- Principle: **delegatus delegare non potest**; without express permission from empowering statute, delegation is unauthorized.
+- Key case: **Foster v Chairman, Commission for Administration (1991) 4 SA 403 (C)** explains prohibition against delegation of discretionary powers.
+
+#### 7.4.2 When is delegation of powers permissible?
+- Some functions require delegation to maintain efficiency in administration.
+- **Constitution, Section 238** authorizes delegation provided it is consistent with enabling legislation.
+- Rules for permissible delegation:
+  1. Discretionary actions may be delegated only if authorized.
+  2. Administrators can instruct subordinates to implement decisions without unauthorized delegation.
+  3. Administrators must apply their own judgment; cannot accept commands from others.
+  4. Fact-finding committees may be appointed to assist, provided discretion remains with the administrator.
+
+#### 7.4.3 The various forms of delegation
+- Descriptions of delegation forms from Wiechers (1985):
+  - **Mandate**: Simple instruction to implement decisions; no real transfer of authority.
+  - **Deconcentration**: Internal delegation within hierarchical structures in government departments; characterized by ranks from minister to administrative officers.
+
+---
+
+**Legislation and Cases to Note**:
+- **PAJA, Section 1**
+- **Constitution, Section 195(1)**
+- **Constitution, Section 239**
+- **Liquor Act 27 of 1989, Section 7(2)**
+- **Awumey v Fort Cox Agricultural College 2003**
+- **Foster v Chairman, Commission for Administration (1991)**
+- **Shidiack v Union Government (1912)**
+----- END OF FILE -----
+**ADL2601/1**
+
+---
+
+**STUDY UNIT 7: The right to lawful administrative action as requirement for valid administrative action**
+
+### Delegation of Administrative Powers
+
+- **Hierarchy of Delegation**  
+  - **Minister, Director-General, Officials**  
+    - Section 7 of the Refugees Act allows ministerial delegation to officers.  
+    - Delegation ensures efficient division of labour within governmental functions.  
+    - Delegators (e.g., ministers) can withdraw delegation and retain control over functions.
+
+- **Rules of Delegation**  
+  1. **Withdrawal and Control**  
+     - Delegation can be revoked by the delegator at any time.
+     - Delegators may set conditions on how delegated functions are performed.
+  2. **Acting in Place of the Delegator**  
+     - Actions of a delegate are viewed as actions of the delegator.
+  3. **Forms of Control**  
+     - Delegators can require reports and intervene if tasks are not properly executed.
+     - Delegators are not functus officio until the task is concluded.
+  4. **No Legal Disputes Among Hierarchical Functionaries**  
+     - Administrators cannot contest matters that don't personally affect them to maintain solidarity.
+
+### Decentralisation of Administrative Power
+
+- **Characteristics**  
+  - Senior functionaries transfer powers to independent bodies which operate in their name (e.g., boards for transport permits).
+  - Control exercised indirectly through member appointments and review of decisions.
+  
+- **Legislative and Case References**  
+  - **SA Freight Consolidators (Pty) Ltd v Chairman, National Transport Commission 1987 4 SA 155 (W)**  
+    - Establishes parameters of decentralised administrative functions.
+  - **University of Pretoria v Minister of Education 1948 4 SA 79 (T)**  
+    - Court ruling on the limits of ministerial appointments versus university council authority.
+
+---
+
+### The Powers of the Administrator
+
+#### 7.5.1 The Powers of the Administrator Prescribed by Law
+
+- Administrators must only act within powers granted by law, defined in the empowering statute.
+- Interpretation of these powers uses common-law rules, which aid in understanding the statutory scope.
+  
+- **Factors Determining Authority**  
+  - Statutory provisions of the empowering legislation.
+  - Constitutional framework governing the exercise of powers, focusing on **constitutional legality**.
+----- END OF FILE -----
+# ADL2601/1
+
+## STUDY UNIT 7: The right to lawful administrative action as a requirement for valid administrative action
+
+### 7.5.1 Principles of Administrative Law
+- Empowering legislation defines:
+  - **Geographical area** where powers are exercised.
+  - **Time** limits for exercising powers.
+  - **Object** of the administrative action.
+
+### 7.5.2 The Geographical Area or Place for Exercising Power
+- Administrators must act within stipulated geographical boundaries.
+- Example: Gauteng Road Transportation Board cannot issue permits for the Northern Province—invalid action.
+
+### 7.5.3 Time Limits for Exercising Power
+- Administrators must adhere to time periods prescribed.
+- Rule against retrospectivity: Actions must be prospective unless explicitly permitted by statute.
+- Example: Municipality cannot renew trading licenses outside designated period (January - March).
+
+### 7.5.4 The Object or Subject Matter of Authority
+- Subject matter relates to the rationale for the administrator’s power.
+- Legislative provisions often specify the bounds of authority.
+- Rules of statutory interpretation assist when boundaries are unclear.
+
+### 7.5.5 Prohibition of or Restriction on Abuse of Power
+- Abuse relates to misuse of discretion by administrators.
+- Forms of abuse:
+  - Exercising power with an **unauthorised purpose**.
+  - Using an **unauthorised procedure**.
+  - Acting with **ulterior motives** to defeat statutory purpose (**in fraudem legis**).
+
+#### 7.5.5.1 Unauthorised or Ulterior Purpose
+- Administrators must use power for **authorised purposes** outlined in enabling statutes.
+- Legal consequence of acting with unauthorised intents undermines the principle of legality.
+- Objective test: Actions must be judged on their outcomes, not administrator's intentions.
+- Relevant case law:
+  - **University of Cape Town v Ministers of Education and Culture 1988**: Conditions imposed by Minister were invalid since they did not align with the Act's purpose.
+  - **Rikhoto v East Rand Administration Board 1983**: Misuse of procedures to deny residence rights conflicted with statutory definitions.
+  - **Cassiem v Commanding Officer, Victor Verster Prison 1982**: Misuse of authority to punish unrelated offences amounted to abuse.
+
+#### 7.5.5.2 Exercising Power Using an Unauthorised Procedure
+- Scenario illustrating misuse of authority via improper procedure (extradition disguised as deportation).
+- Abuse undermines legal frameworks and falls under **in fraudem legis**.
+- Administrators may choose quick procedures over proper ones to avoid complexity.
+
+### Important Concepts
+- **PAJA** (Promotion of Administrative Justice Act): Discusses grounds for reviewing administrative decisions on abuse of discretion.
+- The concept of legality and separation of powers is critical in evaluating administrative actions. 
+
+### Diagram References
+- Notable diagrams may illustrate the interrelation between administrative powers, discretion, and legality.
+
+----- END OF FILE -----
+# ADL2601/1
+
+## STUDY UNIT 7: The right to lawful administrative action as a requirement for valid administrative action
+
+- **Unauthorised Procedures in Case Law:**
+  - *Van Coller v Administrator Transvaal 1960 1 SA 110 (T):*
+    - Director of education unlawfully transferred an educator bypassing natural justice. 
+    - Circumvented disciplinary procedures.
+
+  - *Pretoria City Council v Meerlust Investments (Pty) Ltd 1962 (1) SA 328 (T):*
+    - City council relied on incorrect private-law procedures for property expropriation.
+
+- **Acting in Fraudem Legis:**
+  - Use of ulterior motives to circumvent law.
+  - Distinction from exercising power for unauthorised purposes.
+  - *Dadoo Limited v Krugersdorp Municipal Council 1920 AD 530 at 547:*
+    - Operating within law while disguising intention.
+
+- **Distinction Between Terms:**
+  - *Unauthorized Purpose vs. Ulterior Motives:*
+    - Unauthorized purpose lacks fraudulent intention.
+    - Fraus legis indicates clear intent to evade law's provisions.
+
+## 7.5.6 The Administrator and the Exercise of Power in Bad Faith (Mala Fides)
+
+- **Good Faith Requirement:**
+  - Administrators must apply their minds to public interest.
+  - Opposite: Bad faith (mala fides) includes fraud or corrupt actions.
+
+- **Notable Case:**
+  - *Hart v Van Niekerk 1991 3 SA 689 (W):*
+    - Municipality's improper closure of pools to avoid legal repercussions illustrates mala fides.
+
+## 7.6 Conclusion
+- Emphasizes the necessity of exercising power in good faith, integral to lawful administrative action.
+
+## LEARNING UNIT 8: The Constitutional Right to Reasonable Administrative Action
+
+### 8.1 Introductory Remarks
+- Administrative action must be reasonable; "unreasonableness" has varied interpretations.
+  
+### 8.2 The Present Position Under the 1996 Constitution and PAJA
+- **8.2.1 Section 33(1) of the 1996 Constitution:**
+  - Guarantees the right to reasonable administrative action.
+
+- **8.2.2 PAJA and Reasonableness:**
+  - Public duty to ensure administrative actions meet reasonability standards.
+
+- **8.2.3 Constitutional Court’s Interpretation:**
+  - Establishes clarity on the right to reasonable administrative action.
+
+### 8.3 Justifiable Administrative Action Under the Interim Constitution
+- **8.3.1 Section 24:**
+  - Focus on justifiability in administrative decisions.
+
+- **8.3.2 Courts’ Approach:**
+  - Judicial emphasis on evaluating justifiability using proportionality.
+
+- **8.3.3 Proportionality:**
+  - Balancing means and ends to determine reasonableness.
+
+### 8.4 The Common Law and Reasonableness
+- **8.4.1 Introductory Remarks:**
+  - Historical context: unreasonableness not previously treated as distinct ground for review.
+
+- **8.4.2 Earlier Decisions:**
+  - Evolution of court perspectives on administrative reasonableness.
+
+### 8.5 Conclusion
+- Summarizes the significance of reasonable administrative action within legal frameworks.
+----- END OF FILE -----
+# ADL2601/1  
+## 119  
+### LEARNING UNIT 8: The constitutional right to reasonable administrative action  
+#### 8.2 THE PRESENT POSITION IN TERMS OF THE 1996 CONSTITUTION AND THE PROVISIONS OF PAJA  
+
+##### 8.2.1 Section 33(1) of the 1996 Constitution  
+- Right to reasonable administrative action is constitutionally guaranteed.
+
+##### 8.2.2 PAJA and the right to reasonable administrative action  
+- **PAJA** allows individuals to seek judicial review of administrative actions under **Section 6(1)**.  
+- Grounds for review must show that an action is so unreasonable that no reasonable person could have taken it (**Section 6(2)(h)**).  
+- Fails to address consequences or effects of actions; focuses solely on the reasonableness of the decision itself.  
+- **Wednesbury Test** established in **Associated Provincial Picture Houses Ltd v Wednesbury Corporation** [1948] 1 KB 223: Courts can intervene if a decision is so unreasonable that no reasonable authority could reach it.  
+- Section 6(2)(h) suggests a reversion to gross unreasonableness, meaning only extreme instances of unreasonableness are reviewable.
+
+##### 8.2.3 The Constitutional Court’s interpretation of the right to reasonable administrative action  
+- Case: **Bato Star Fishing (Pty) Ltd v Minister of Environmental Affairs** 2004 4 SA 490; 2004 7 BCLR 687 (CC).  
+- Court emphasized the importance of reasonableness aligned with **Section 33** of the Constitution.  
+- O’Regan J held that administrative actions are reviewable if they are decisions a reasonable decision-maker could not reach.  
+- Determining reasonableness involves:
+  - Nature of the decision  
+  - Identity and expertise of the decision-maker  
+  - Relevant factors for the decision  
+  - Reasons given for the decision  
+  - Nature of competing interests  
+  - Impact on affected individuals  
+
+- Distinction between reviews and appeals must be preserved; respect must be shown towards decision-makers within the reasonableness test. Courts cannot simply rubber-stamp decisions due to complexity or decision-maker's identity.
+
+#### 8.3 JUSTIFIABLE ADMINISTRATIVE ACTION IN TERMS OF SECTION 24(D) OF THE INTERIM CONSTITUTION  
+
+##### 8.3.1 Section 24  
+- **Section 24(d)** requires justifiable administrative action relating to reasons given when an individual's rights are affected.  
+- Absence of “unreasonableness” terminology; emphasizes “justifiable” and its relation to reasons.  
+- Justifiable decisions must be rational, coherent, and supported by reason.  
+- Rationality requires a balance between affected rights and reasons for decisions.
+
+##### 8.3.2 The courts’ approach to justifiability in section 24(d)  
+- Post-1994 case: **Standard Bank of Bophuthatswana Limited v Reynolds** 1995 3 BCLR 305; 1995 3 SA 74 (B) advocated for less stringent tests for unreasonableness.  
+- Case: **Kotzé v Minister of Health** 1996 3 BCLR 417 (T) analyzed justifiability, determining that reasons must be factually and legally sound.  
+- Case: **Roman v Williams** 1997 9 BCLR 1267 (C); 1998 1 SA 270 (C) highlighted that decisions must be justifiable based on suitability, necessity, and proportionality, thus broadening the judicial review scope.  
+- The essence of justifiability is objective substantiation; the decision must align with the requirements of suitability, necessity, and proportionality.
+----- END OF FILE -----
+# ADL2601/1
+
+## 125
+### LEARNING UNIT 8: The constitutional right to reasonable administrative action
+
+- **Reasonableness of Decisions**
+  - Decisions by administrators must be assessed for suitability and necessity to ensure they are reasonable.
+  
+#### 8.3.3 Proportionality
+- **Definition**: Relation of means to ends; the means must not disproportionately harm individuals compared to community benefits.
+- **Key Elements** (German Law: Verhältnismäßigkeit):
+  1. **Suitability**: Administrator must choose appropriate means to achieve objectives (similar to rationality).
+  2. **Necessity**: Actions must minimize harm to affected individuals.
+  3. **Weighing Advantages and Disadvantages**: Consideration of harm vs. benefits to ensure balance.
+
+## 126
+#### 8.4 THE COMMON LAW AND REASONABLENESS
+
+##### 8.4.1 Introductory Remarks
+- **Uncertainty in Administration**: Courts hesitant to evaluate reasonableness due to separation of powers.
+- **Discretionary Power**: Actions by administrators are often discretionary, requiring a review of whether discretion was exercised reasonably.
+
+##### 8.4.2 Some Earlier Decisions on Reasonableness
+- **Symptomatic Unreasonableness**: Unreasonableness indicated by failure to meet other requirements for valid action (not independently reviewable).
+- **Gross Unreasonableness**: Judicial intervention permitted only in exceptional cases with evident flaws suggesting bad faith or failure to exercise discretion properly.
+  - **Key Cases**:
+    - *Union Government v. Union Steel Corporation (1928)*: Emphasizes the threshold for judicial interference tied to gross unreasonableness.
+    - *National Transport Commission v. Chetty’s Motor Transport (1972)*: Courts intervene only in grossly unreasonable cases indicating a failure to consider relevant factors.
+
+## 128
+#### 8.5 CONCLUSION
+- **Challenge of Reasonableness**: Application and interpretation of reasonableness remain uncertain; upcoming discussions in relation to procedural fairness (section 33 of the Constitution & PAJA) anticipated.
+
+---
+
+## 129
+### LEARNING UNIT 9: The right to procedurally fair administrative action
+
+- **Focus of Learning Unit**:
+  - Introduction and purpose of procedural fairness.
+  - Origin in common law and natural justice.
+  - Content and application in specific scenarios.
+  - Examination of legitimate expectation and its treatment under PAJA.
+
+#### 9.1 Introduction: The Purpose of the Right to Procedurally Fair Administrative Action
+- **Characterization**: Right to participate in the decision-making process regarding administrative decisions affecting individuals.
+- **Fairness vs. Correctness**: Concerns procedural fairness rather than the correctness of administrative decisions. Improves quality of decision-making and mitigates potential resentments.
+
+## 130
+#### 9.2 PAJA and the Right to Procedurally Fair Administrative Action
+
+##### 9.2.1 Introduction
+- Overview of PAJA and its implications for procedural fairness.
+
+##### 9.2.2 Section 3 of PAJA
+- Deals with general application of procedural fairness.
+
+##### 9.2.3 Section 4 of PAJA
+- Pertains to decisions affecting the public.
+
+#### 9.3 Legitimate Expectation: Development at Common Law and Recognition in PAJA
+##### 9.3.1 Introductory Remarks
+- Examination of legitimate expectation as a legal principle.
+
+##### 9.3.2 Development at Common Law
+- Historical evolution and legal grounding of this doctrine.
+
+##### 9.3.3 Decisions Post-1994
+- Influences and cases affecting the current interpretation and application of legitimate expectation.
+
+##### 9.3.4 Current Application
+- Analysis of how legitimate expectation is implemented within contemporary legal frameworks.
+
+#### 9.4 The Constitutional Right to Procedurally Fair Administrative Action
+##### 9.4.1 Introductory Remarks
+- Contextual overview of the constitutional right.
+
+##### 9.4.2 Content
+- Detailed exploration of what constitutes the right to procedural fairness.
+
+##### 9.4.3 Judicial Interpretation Before PAJA
+- Review of court interpretations that shaped understanding of procedural fairness.
+
+#### 9.5 The Origin of the Right to Procedurally Fair Administrative Action
+- Examination of historical foundations and their relevance today.
+
+#### 9.6 Common-Law Rules of Natural Justice
+##### 9.6.1 Audi Alteram Partem
+- Right to hear both sides.
+
+##### 9.6.2 Nemo Iudex in Sua Causa
+- Prohibition against bias.
+
+#### 9.7 Application Stage of Procedural Fairness
+- Discussion on critical points in decision-making when procedural fairness must be applied.
+
+#### 9.8 Conclusion
+- Summary of key insights into the nature and significance of procedural fairness in administrative law.
+----- END OF FILE -----
+# ADL2601/1
+## 131
+
+### LEARNING UNIT 9: The right to procedurally fair administrative action
+
+---
+
+#### 9.2 PAJA AND THE RIGHT TO PROCEDURALLY FAIR ADMINISTRATIVE ACTION
+
+**9.2.1 Introduction**
+- Procedural fairness defined by **PAJA** requirements.
+- **Section 3**: Fairness affecting individuals, stating that administrative actions that materially affect rights or legitimate expectations must be procedurally fair.
+- **Section 4**: Addresses administrative actions affecting the public.
+
+---
+
+**9.2.2 Section 3 of PAJA and the application of procedural fairness**
+- Study and explain **Section 3** in its facets (15 marks).
+
+1. **Section 3(2)(a)**:
+   - Fairness varies by case context (reflects "highly variable content" of fairness, Hoexter, 2012).
+   - **Chairman, Board on Tariffs and Trade v Brenco Inc** 2001 4 SA 511 (SCA); requirements of audi are contextual.
+   - **Masetlha v President of the Republic of South Africa** 2008 (the essence of fairness is flexibility).
+
+2. **Section 3(2)(b)**: Mandatory requirements
+   - Administrator must provide:
+     - (i) Adequate notice of nature and purpose of action.
+     - (ii) Reasonable opportunity to make representations.
+     - (iii) Clear statement of administrative action.
+     - (iv) Adequate notice of review rights.
+     - (v) Notice of right to request reasons (**s 5**).
+   - Relates to common-law natural justice principles.
+   - The **Van Huyssteen NO v Minister of Environmental Affairs and Tourism** case emphasized generous interpretation of the right to fair procedure.
+   - “Adequate” and “reasonable” provide flexibility in application.
+
+3. **Section 3(3)**: Discretionary requirements
+   - Administrator may provide:
+     - (a) Assistance/legal representation in complex cases.
+     - (b) Opportunity to present and dispute information.
+     - (c) Opportunity for personal appearance.
+   - Common law generally does not require personal appearance unless specified by statute.
+
+4. **Section 3(4)**: Departures from requirements
+   - Justifiable departures are allowed.
+   - Factors to consider:
+     - (i) Objects of empowering provision.
+     - (ii) Nature and urgency of action.
+     - (iii) Required promotion of efficient administration.
+   - Reflects **s 36 of the Constitution** limitations on rights.
+
+5. **Section 3(5)**: Fair but different procedure
+   - Any alternative procedure must still be fair and authorized by empowering provision.
+
+---
+
+**9.2.3 Section 4 of PAJA and the application of procedural fairness (decisions affecting the public)**
+
+- **Section 4(1)**:
+  - Administrator must determine procedure for public interest administrative actions:
+    - (a) Public enquiry or (b) Notice and comment procedure.
+    - (c) Combination of both methods.
+    - (d) Different empowering procedure if fair.
+    - (e) Another appropriate procedure.
+
+- **Commencement**: Section effective from 31 July 2002; addresses the general administrative-law relationship.
+- Aims to rectify past lack of public involvement in administrative decisions.
+- PAJA defines "public" to include any group or class of the public.
+----- END OF FILE -----
+# ADL2601/1  
+## 137  
+## LEARNING UNIT 9: The right to procedurally fair administrative action  
+
+### Section 4 - Application  
+- Applies when:
+  - (i) Administrative action has a general impact  
+  - (ii) Impact has significant public effect  
+  - (iii) Constitutional, statutory, or common-law rights are at stake  
+
+- **Example**: Marine Living Resources Act 18 of 1998 affects fishing quotas impacting the industry.
+  
+- Administrator must decide:
+  - (a) To hold a public enquiry (s 4(1)(a))
+  - (b) To follow notice and comment procedure (s 4(1)(b))
+  - (c) To adopt a combination (s 4(1)(c))
+  - (d) To follow alternative fair procedure (s 4(1)(d))
+  - (e) To adopt another appropriate procedure (s 4(1)(e))
+
+### Section 4(2) - Public Enquiry Procedure  
+- Administrator must:
+  - Conduct the enquiry or appoint a qualified person/panel  
+  - Determine and comply with procedure (includes public hearing)  
+  - Compile a written report with reasons for action taken  
+  - Publish notice summarizing report in English and another official language  
+
+### Section 4(3) - Notice and Comment Procedure  
+- Less formal, used when impact on public is not onerous.  
+- Administrator must:
+  - (1) Communicate action to affected parties and solicit comments  
+  - (2) Consider received comments  
+  - (3) Decide on action, with or without changes  
+  - (4) Follow prescribed notice and comment procedures  
+
+### Section 4(4) - Departures from Fair Administrative Procedure  
+- Limitation on right to fair procedure when justifiable.  
+- Relevant factors for administrators:
+  - Objectives of empowering provision  
+  - Nature and purpose of action  
+  - Likely effect of action  
+  - Urgency of action  
+  - Need for efficient administration and good governance  
+
+### 9.3 Legitimate Expectation  
+- Recognized in **section 3(1) of PAJA**; involves a right to be heard without existing rights.  
+- Example scenario: Doctors’ non-confirmation of senior house officer posts despite high qualifications.
+
+#### 9.3.1 Introductory Remarks  
+- After 1994, **Jenkins v Government of the Republic of South Africa 1996 3 SA 1083 (Tk)** recognized legitimate expectations in common law.  
+- Prior rulings denied natural justice claims without existing rights (e.g., **Laubscher v Native Commissioner, Piet Retief 1958 1 SA 546 (A)**).
+
+#### 9.3.2 Development at Common Law  
+- Doctrine developed from British courts; extends natural justice rules to potential rights/legitimate expectations.  
+- **Everett v Minister of the Interior 1981 2 SA 453 (C)** established legitimacy of expectations from granted benefits.  
+- **Administrator, Transvaal v Traub 1989 4 SA 731 (A)** acknowledged legitimate expectations when appointments were based on departmental recommendations.
+
+#### 9.3.3 Post-1994 Decisions  
+- Example cases:
+  - **Claude Neon v City Council of Germiston 1995 5 BCLR 554 (W)**: Failure to notify constituted administrative justice failure.  
+  - **Jenkins v Government of the Republic of South Africa 1996 3 SA 1083 (TK)**: Denial of hearing before withdrawing benefits established legitimate expectation.
+
+#### 9.3.4 Current Application  
+- **Section 3(1) of PAJA** formally acknowledges legitimate expectations but lacks comprehensive definitions elsewhere in PAJA.  
+- **Walele v City of Cape Town 2008 11 BCLR 1067 (CC)** addressed conflicts in provisions regarding legitimate expectations.  
+- Not all legal scholars agree with interpretations; however, **section 3(1)** affirms the right to procedural fairness for those affected by legitimate expectations.
+----- END OF FILE -----
+# ADL2601/1
+## 143
+
+### LEARNING UNIT 9: The right to procedurally fair administrative action
+
+#### 9.4 THE CONSTITUTIONAL RIGHT TO PROCEDURALLY FAIR ADMINISTRATIVE ACTION: SOME GENERAL OBSERVATIONS
+
+- **Introductory Remarks**
+  - Interim (Section 24(b)) and 1996 Constitutions guarantee right to procedurally fair administrative action.
+  - Rights entrench rules of natural justice.
+  
+- **Constitutional Provisions**
+  - **Section 24(b) of the Interim Constitution**: Right to procedurally fair administrative action affecting rights/legitimate expectations.
+  - **Section 33(1) of the 1996 Constitution**: Right to lawful, reasonable, and procedurally fair administrative action.
+  
+- **Limitations on Rights**
+  - No right is absolute; may be limited under criteria in **Section 36** (limitation clause).
+  - Exemptions from natural justice rules require compliance with the limitation clause.
+  - **PAJA** conditions for limitation of procedural fairness also applicable.
+
+#### 9.4.2 THE CONTENT OF THE RIGHT TO PROCEDURALLY FAIR ADMINISTRATIVE ACTION
+
+- Procedural fairness extends beyond codification of common-law natural justice; it's a flexible concept.
+- In **Van Huyssteen NO v Minister of Environmental Affairs and Tourism 1995**, Farlam J emphasized fairness includes principles and procedures pertinent to specific circumstances.
+- The constitutional right encompasses more than common-law rules.
+- Courts' interpretation of common-law rules provides insight into the constitutional right.
+
+#### 9.4.3 THE COURTS’ INTERPRETATION OF THE CONSTITUTIONAL RIGHT TO PROCEDURAL FAIRNESS BEFORE PAJA
+
+- **Kotzé v Minister of Health 1996**: Consideration of extraneous information denied fair administrative action; opportunity to respond required.
+- **Fraser v Children’s Court, Pretoria North 1996**: Denial of hearing constituted a fatal irregularity.
+- **Janse van Rensburg NO v Minister of Trade and Industry NO 2000**: Section 8(5) of Consumers Act declared unconstitutional; lacked guidance for administrative powers. Importance of procedural fairness emphasized.
+
+### 9.5 THE ORIGIN OF THE RIGHT TO PROCEDURALLY FAIR ADMINISTRATIVE ACTION
+
+- Originates from common-law rules of natural justice.
+- Rules facilitate fair decision-making and instill public confidence, serving as “principles of good administration” (Baxter).
+- Functions:
+  1. Accurate and informed decision-making.
+  2. Ensures public interest in decisions.
+  3. Preserves procedural values.
+
+### 9.6 THE COMMON-LAW RULES OF NATURAL JUSTICE
+
+#### 9.6.1 The audi alteram partem rule (“to hear the other side”)
+
+- Two key maxims:
+  1. **Audi alteram partem**: Right to be heard.
+  2. **Nemo iudex in sua propria causa**: Rule against bias.
+
+- **Components of Audi Alteram Partem**:
+  1. Opportunity to be heard.
+  2. Awareness of adverse considerations.
+  3. Reasons for decisions provided.
+
+##### 9.6.1.1 The individual must be given an opportunity to be heard on the matter
+
+- Affected individual entitled to a fair hearing prior to decision.
+- Applies across various administrative actions (judicial, legislative, administrative).
+- Sub-rules:
+  - **Proper notice**: Adequate detail provided for preparation.
+  - **Reasonable and timely notice**: Time to gather information based on case complexity.
+  - **Personal appearance**: Not always mandatory, written presentations allowed.
+  - **Legal representation**: Not inherent; depends on statute or complexity of matter.
+  - **Evidence and cross-examination**: Not fundamental rights; context-dependent.
+
+### References
+- Key cases: **Turner v Jockey Club 1974**, **Du Preez v Truth and Reconciliation Commission 1997**, **NISEC (Edms) Bpk v Western Cape Provincial Tender Board 1997**.
+- Emphasizes necessity for clear procedural guidance in administrative actions.
+  
+### Diagram References
+- [Refer to case law flowcharts as necessary for detailed procedural frameworks.]
+----- END OF FILE -----
+# ADL2601/1
+
+## LEARNING UNIT 9: The right to procedurally fair administrative action
+
+### Public hearing/enquiry
+- No absolute right to a public hearing; confidentiality may be necessary in certain instances (e.g., disciplinary matters).
+- Balance required between interests of openness and confidentiality.
+- Generally, administrative hearings must be open to the public.
+
+### The party must be informed of considerations which count against him or her
+- All facts detrimental to a person must be communicated to allow for defense (Loxton v Kenhardt Liquor Licensing Board 1942 AD 275).
+- In **Down v Malan 1960 2 SA 734 (A)**, if a party could foresee prejudicial facts, failure to act on that knowledge is attributable to their own negligence.
+
+### Reasons must be given by the administrator for any decisions taken
+- Administrators obliged to provide reasons for decisions, though inconsistently applied historically.
+- Courts often did not mandate reasons unless statutes allowed recourse (e.g., appeal).
+- Failure to provide reasons can lead to adverse inferences (Sigaba v Minister of Defence and Police 1980 3 SA 535 (TkSC); WC Greyling & Erasmus v Johannesburg Local Transportation Board 1982 4 SA 427 (A)).
+
+### The nemo iudex in sua causa rule (“no one should be a judge in his or her own case”)
+- Decision-makers must be perceived as impartial (Yates v University of Bophuthatswana 1994 3 SA 815 (BG)).
+- Common forms of bias:
+  - **Pecuniary interest** (e.g., **Rose v Johannesburg Local Road Transportation Board 1947 4 SA 272 (W)**).
+  - **Personal interest** (e.g., **Liebenberg v Brakpan Liquor Licensing Board 1944 WLD 52**).
+- Test for bias: no reasonable suspicion/apprehension of bias required (BTR Industries SA v Metal and Allied Workers Union 1992 3 SA 673 (A); SACCAWU v Irvin & Johnson Ltd 1999 7 BCLR 725 (CC)).
+
+### At what stage of the decision-making process should procedural fairness be applied?
+- Procedural fairness should be observed **before** a decision is taken.
+
+### Conclusion
+- Discussion culminates the right to procedural fairness under common law; prepares for upcoming exploration of the right to written reasons under PAJA.
+
+## LEARNING UNIT 10: The right to be given written reasons
+
+### PAJA and the requirement of reasons
+
+#### The request for reasons
+- **Section 5** mandates the provision of reasons under **section 33(2)** of the Constitution.
+- **Section 5(1)**: Individuals whose rights are materially affected may request written reasons within 90 days.
+
+#### The response by the administrator
+- Administrator must provide adequate written reasons within 90 days of request (Section 5(2)).
+
+#### Failure to provide adequate reasons in writing leads to an “adverse inference”
+- **Section 5(3)**: Refusal to provide reasons gives rise to a rebuttable presumption that action was taken without good reason.
+- The administrator bears the onus to prove justification for non-disclosure.
+
+#### Departures from the requirement to furnish written reasons
+- **Section 5(4)**: Justifiable refusals must be communicated promptly; administrators must consider relevant factors.
+
+#### A fair but different procedure in terms of section 5(5)
+- Allows alternative fair procedures if specified by different legislative provisions, subject to judicial review.
+
+### When will reasons be adequate?
+- General guidance may be required to outline sufficiency in providing reasons.
+
+### The right to reasons in terms of section 24(c) of the interim Constitution and section 33(2) of the 1996 Constitution
+- Discussion surrounding constitutional provisions establishing the right to reasons.
+
+### General remarks on the importance of reasons
+- Emphasizes the vital role of delivering reasons within administrative justice.
+
+### Who has a right to reasons?
+- Specified under PAJA and constitutional frameworks.
+
+### Conclusion
+- Wrap up of contents regarding the right to just administrative action set out in Section 33 of the Constitution; includes next steps for study.
+----- END OF FILE -----
+# ADL2601/1
+
+## LEARNING UNIT 10: The Right to be Given Written Reasons
+
+### 10.1.6 Providing Reasons without the Need for a Request in Terms of Section 5(1)
+- The Minister may publish a list of administrative actions for which reasons will be automatically provided (s 5(6)(a)).
+- Courts can review administrative action if not rationally connected to the provided reasons (s 6(2)(f)(ii)(dd)).
+- Distinction between the right to information (s 32, Promotion of Access to Information Act 2 of 2000) and written reasons (s 33(2)). 
+  - Reasons justify actions; information is broader.
+
+### 10.2 When Will Reasons be Adequate?
+- Adequacy of reasons depends on the case context.
+- **Nomala v Permanent Secretary, Department of Welfare**: Standard form letters deemed inadequate since they lack reasoning process (2001 8 BCLR 844 (E)).
+- Reasons must be informative enough to allow for effective appeals (Minister of Environmental Affairs and Tourism v Phambili Fisheries [2003] 2 All SA 616 (SCA)).
+- Effective reasons should clarify legal understanding, factual findings, and reasoning process (citing **Ansett Transport Industries (Operations) Pty Ltd v Wraith**).
+
+### 10.3 The Right to Reasons in Terms of Section 24(c) of the Interim Constitution and Section 33(2) of the 1996 Constitution
+- Section 24(c): Introduced right to reasons for administrative action affecting rights or interests.
+- Section 33(2): Right to written reasons for adversely affected rights.
+- Ensures accountability and transparency in administration.
+
+### 10.4 General Remarks on the Importance of Reasons
+- Duty to give reasons is central to judicial review (Bel Porto School Governing Body v Premier, Western Cape 2002 9 BCLR 891 (CC)).
+- Reasons reveal the lawfulness and rationality of decisions.
+- Absence of reasons hampers individuals' ability to challenge administrative decisions.
+
+### 10.5 Who Has a Right to Reasons?
+- Section 33(2): Right only extends to persons whose rights have been adversely affected.
+- Some academics argue broader interpretations based on procedural fairness (Hoexter 2012:470–471).
+- Klaaren and Penfold argue for a narrower approach tied to how the decision impacts individuals.
+
+### 10.6 Conclusion
+- The discussion highlights the importance of providing written reasons in valid administrative action.
+- Transition to the next theme regarding control of administrative action (Learning Unit 11) and remedies for successful objections (Learning Unit 12).
+----- END OF FILE -----
+# ADL2601/1
+
+## PART 4 
+### CONTROL AND REMEDIES
+
+---
+
+## 11 LEARNING UNIT 11 
+### Internal control of administrative action 
+
+- **Objectives**:
+  - Definition of “control of administrative action”
+  - Difference between control of administrative action and remedies
+  - Identification of internal methods of control
+  - Importance of domestic control
+  - PAJA requirements for exhausting internal remedies
+  - Exceptions to exhausting internal remedies
+
+---
+
+### 11.1 THE DISTINCTION BETWEEN CONTROL AND REMEDY 
+
+- **Control**:
+  - Definition: Regulation, supervision, limiting administrative action.
+  - Goal: Ensure validity of administrative action.
+
+- **Remedy**:
+  - Definition: A means of correcting an undesirable situation or providing legal amends for a wrong.
+  - Function: Cures defects, improves conditions.
+
+- **Legal Context**:
+  - Control: Review legality of administrative action.
+  - Remedy: Granting appropriate order following a finding of illegality.
+  - Distinction: Control encompasses internal assessments; remedy follows a finding of issues.
+
+### 11.2 CONTROL WITHIN THE ADMINISTRATION ITSELF – INTERNAL CONTROL 
+
+#### 11.2.1 Introductory remarks
+- Judicial control is prominent but internal control is significant.
+- **Internal control** defined as control exercised by senior administrators or specific bodies within administration.
+
+#### 11.2.2 The forms of internal control 
+1. **Control by superior administrators or specially constituted bodies**: 
+   - Example: School governing body, Head of Department appeals, Refugee Appeal Board.
+   - **Powers**: Review decisions and vary them or confirm validity.
+   
+2. **Parliamentary control**: 
+   - Ministers accountable to Parliament.
+   - Forms include: 
+     - Reports tabled during budget discussions.
+     - Parliamentary inquiries ("question time").
+
+3. **Control by public bodies and commissions**: 
+   - Constitutional bodies (Chapter 9 institutions) assisting in public awareness and rights enforcement.
+   - Comprising:
+     - Public Protector 
+     - SA Human Rights Commission 
+     - Other rights and equality commissions
+     - Auditor-General 
+     - Electoral Commission 
+
+#### 11.2.2.1 Internal control mechanisms 
+- **Public Protector (SS 182-183)**:
+  - Investigates complaints regarding public administration.
+  - Powers: Investigate, report, and take remedial action. 
+  - Excludes court decisions from investigations, ensuring accessibility to all.
+
+- **Auditor-General (S 188)**:
+  - Function: Audit and report on financial management across state departments and municipalities.
+
+### 11.3 PAJA AND THE USE OF INTERNAL CONTROL 
+
+#### 11.3.1 Internal remedies must first be exhausted 
+- Requirement under **PAJA**: Exhaust internal remedies before seeking judicial review.
+
+#### 11.3.2 Exceptions to this general rule 
+- Certain cases may allow bypassing internal remedies (details unspecified).
+
+---
+
+### 11.4 CONCLUSION 
+- Emphasizes the vital role of internal control mechanisms in maintaining the validity and effectiveness of administrative action. 
+
+--- 
+
+This structure presents a concise overview of essential concepts around internal control of administrative action, highlighting distinctions between control and remedies, and outlining the internal control mechanisms within the administration.
+----- END OF FILE -----
+**ADL2601/1**  
+**LEARNING UNIT 11: Internal control of administrative action**  
+**11.2.3 Advantages of internal control**  
+- Thorough re-evaluation of administrative decisions.  
+- Accountability for inefficient administrators (reprimand/explanation of decisions).  
+- More cost-effective, simple, and less time-consuming than judicial control.
+
+**11.3 PAJA AND THE USE OF INTERNAL CONTROL**  
+**11.3.1 Internal remedies must first be exhausted**  
+- **Section 7(2) of PAJA**: Affected individuals must exhaust internal remedies before judicial review.  
+- Internal appeals: Simple, informal, consider merits and efficacy.  
+- Judicial review is a last resort.  
+- Example scenarios illustrate the necessity of exhaustion of internal remedies before court intervention.
+
+**Justifications for exhausting internal remedies:**  
+- (a) Avoids premature court action.  
+- (b) Internal remedies are typically cheaper and easier.  
+- (c) Reduces court workload.
+
+- The applicability of **Section 34 of the Constitution**: Debate on its impact on the exhaustion requirement.  
+- Limitation clause **(s 36)** may enforce the exhaustion of internal remedies to ensure effective administration and prevent court overload.  
+- **PAJA** recognizes this precondition in **Section 7**:  
+  - (a) No court review unless internal remedies exhausted.  
+  - (b) Courts may require exhaustion before further proceedings.  
+  - (c) Courts may exempt exhaustion in exceptional circumstances.
+
+**11.3.2 Exceptions to the general rule**  
+- Recognized exceptions for not exhausting internal remedies:  
+  1. Administrator has prejudged the issue.  
+  2. Decisions made in bad faith, fraud, or unlawfully (e.g., **Basson v Hugo 2018**).  
+  3. Choices for extrajudicial remedies available or to proceed to judicial review (**Jockey Club of SA v Feldman 1942**).  
+  4. Errors of law lead to unacceptable decisions.  
+  5. Agreement for immediate judicial review between parties.  
+  6. Administrative body cannot rectify the irregularity.  
+  7. Internal remedy does not provide adequate protection (e.g., **Msomi v Abrahams 1981**).  
+
+- Cases illustrating exceptions:  
+  - **Khan v Minister of Home Affairs [2014]**: Immediate relief granted despite failure to exhaust remedies.  
+  - **Drift Supersand (Pty) Ltd v Mogale City Local Municipality [2017]**: Duty to exhaust deemed inapplicable due to exclusion from decision-making.  
+- Stricter application of exhaustion rules for voluntary associations compared to public administration.
+
+**11.4 CONCLUSION**  
+- Distinction between control and remedy; understanding of internal control is established.  
+- Next unit will cover judicial control of administrative action and remedies for judicial review.
+
+---
+
+**LEARNING UNIT 12: Judicial control of administrative action and remedies in proceedings for judicial review**  
+- Focus on court's role in controlling administrative action and grounds for judicial review.
+
+**Outline:**  
+**12.1 Preconditions before turning to judicial control**  
+- **12.1.1 Introduction**  
+- **12.1.2 Locus standi (standing) required.**  
+
+**12.2 The various forms of judicial control**  
+- **12.2.1 Statutory appeal**  
+- **12.2.2 Judicial review**  
+- **12.2.3 Interdict**  
+- **12.2.4 Mandamus**  
+- **12.2.5 Declaratory order**  
+- **12.2.6 Defence in criminal proceedings**  
+
+**12.3 Judicial review: Grounds for review in terms of section 6 of PAJA**  
+- **12.3.1 Introductory remarks**  
+- **12.3.2 Decision-maker (s 6(2)(a)(i)–(iii))**  
+- **12.3.3 Manner of decision (s 6(2)(b)–(e))**  
+- **12.3.4 Administrative action (s 6(2)(f)–(i))**  
+
+**12.4 Procedure for judicial review in terms of PAJA**  
+- **12.4.1 Which court may review?**  
+- **12.4.2 Procedure for review of administrative action**  
+
+**12.5 Orders made by court (s 8 PAJA)**  
+- **12.5.1 Introduction**  
+- **12.5.2 Section 8 provisions**  
+
+**12.6 Constitutionalisation of administrative action and judicial review**  
+**12.7 Importance of judicial control; common-law functions**  
+**12.8 Conclusion**
+----- END OF FILE -----
+# ADL2601/1
+## LEARNING UNIT 12: Judicial control of administrative action and remedies in proceedings for judicial review
+
+### 12.1 PRECONDITIONS BEFORE TURNING TO JUDICIAL CONTROL
+- **Introduction**
+  - Preconditions must be met before judicial challenge.
+  - Applications must be within a reasonable period.
+  - Appeal only against final administrative decisions.
+  - Important precondition: **locus standi** (standing).
+
+- **12.1.1 The applicant must have locus standi (standing)**
+  - **Locus Standi Definition**: Legal capacity to bring a matter to court; must have a recognizable interest in the outcome.
+  - Pre-1994 Rule: Sufficient personal and direct interest required.
+  - Pertinent Case: **Dawnlawn Beleggings (Edms) Bpk v Johannesburg Stock Exchange** 1983 3 SA 344 (W); economic gain sufficient for standing.
+  - **Actio Popularis**: Concept allowing public interest actions; any individual can challenge administrative actions.
+
+- **12.1.2 Locus Standi per Section 38 of the 1996 Constitution**
+  - **Broadened Scope**: More individuals/groups can seek relief for fundamental rights infringements, includes right to just administrative action.
+  - **Section 38 Provisions**:
+    - Anyone acting in personal interest.
+    - Anyone acting on behalf of another who cannot act.
+    - Group member acting in group interest.
+    - Public interest actions.
+    - Associations acting in interest of members.
+
+### 12.2 THE VARIOUS FORMS OF JUDICIAL CONTROL
+- Various judicial avenues for challenging administrative action include:
+  - **Statutory appeal**
+  - **Judicial review**
+  - **Interdict**
+  - **Mandamus**
+  - **Declaratory order**
+  - **Defence in criminal proceedings**
+
+- **12.2.1 Statutory Appeal**
+  - Courts' appeal jurisdiction is statutory, not inherent.
+  - Appeals allowed only for final decisions/orders.
+  - Empowering statute provides appeal provisions.
+  - Important Note: Appeals review cases restricted to records, examining merits.
+
+- **12.2.2 Judicial Review**
+  - Courts possess inherent review jurisdiction via common law.
+  - Subject to review: legality of administrative actions.
+  - **Grounds for Judicial Review**:
+    - Infringement of Bill of Rights.
+    - Non-compliance with validity requirements per **s 6 of PAJA**.
+  - Key Focus: Review the legality/validity of decisions, not merits.
+
+- **12.2.3 Interdict**
+  - Purpose: Prevent unlawful administrative action.
+  - Types: Interim or final interdict.
+  - Requirements for granting:
+    - Clear legal interest threatened.
+    - No other satisfactory remedy.
+    - Urgency to prevent irreparable harm.
+  - Example: **Die Vereniging van Advokate v Moskeeplein (Edms) Bpk** 1982 3 SA 159 (T).
+
+- **12.2.4 Mandamus**
+  - Compels performance of a statutory duty; cannot dictate how power is exercised.
+  - Examples:
+    - Thuli's liquor license application delay.
+    - Asylum application delays, as per **s 6(2)(g) PAJA**.
+  - Important: Distinction between mandamus and mandate.
+
+- **12.2.5 Declaratory Order**
+  - Used for legal disputes/uncertainty regarding administrative actions.
+  - Provides authoritative answers on legality.
+  - Example case: **Coin Operated Systems (Pty) Ltd v Johannesburg City Council** 1973 3 SA 856 (W). 
+
+### Conclusion
+- Judicial control mechanisms allow individuals like Theodor to seek redress through established legal pathways once administrative channels are exhausted. Understanding locus standi and various forms of judicial remedies is crucial in navigating administrative law effectively.
+----- END OF FILE -----
+# ADL2601/1
+## 12: Judicial control of administrative action and remedies in proceedings for judicial review
+
+### 12.2.6 Defence in criminal proceedings
+- Validity of administrative action can be challenged as a defence in criminal law.
+- Common law allows challenge against criminal offences arising from administrative decisions.
+- **Case Example**: *R v Abdurahman* 1950 3 SA 136 (A) - conviction set aside due to unreasonable regulations.
+- **Case Reference**: *Oudekraal Estates (Pty) Limited v City of Cape Town* 2004 6 SA 222 (SCA) - allows defensive challenges against unlawful administrative actions.
+- Defence only after exhausting domestic remedies (as per *S v Brand* 1973 2 SA 469 (RA)).
+
+### 12.3 Judicial review: grounds for review in terms of Section 6 of PAJA
+#### 12.3.1 Introductory remarks
+- Judicial review is a form of control as per Section 6 of PAJA.
+- **Section 6(1)**: Any person whose rights are directly affected can institute review proceedings.
+- **Section 6(2)**: Grounds for objections to administrative actions outlined.
+
+##### Categories of grounds of review:
+1. Decision-maker authorization (s 6(2)(a)).
+2. Compliance with decision-making procedures (s 6(2)(b)-(e)).
+3. Impact and rationality of administrative action (s 6(2)(f)-(i)).
+
+#### 12.3.2 The Decision-Maker (Administrator) (s 6(2)(a)(i)–(iii))
+- Grounds related to the administrator:
+  - **Ultra vires**: Lack of authority or acting beyond powers.
+  - **Unauthorised delegation**: Power delegated without authority.
+  - **Nemo iudex in sua causa**: Rule against bias by the administrator.
+
+#### 12.3.3 Manner of Decision Taken (s 6(2)(b)–(e))
+- Grounds include:
+  - **Formal requirements non-compliance** (s 6(2)(b)).
+    - Example: Procedural rules in the Refugees Act.
+  - **Procedural unfairness** (s 6(2)(c)).
+  - **Materially influenced by an error of law** (s 6(2)(d)).
+  - **Not taken under proper considerations** (s 6(2)(e)):
+    - Unauthorised purposes, irrelevant considerations, arbitrary action.
+
+#### 12.3.4 The Administrative Action Itself (s 6(2)(f)–(i))
+- Grounds for review when:
+  - Action contravenes law or is unauthorised (s 6(2)(f)).
+  - **Rationality**: Must connect with purpose and information before the administrator.
+  - **Failure to take a decision** (s 6(2)(g)).
+    - Administrative misleading about delays.
+    - **Case Example**: *Nazo v Free State Gambling & Liquor Authority* [2015] ZAFSHC 227.
+  - **Unreasonable action** (s 6(2)(h)).
+  - **Unconstitutional or unlawful** actions (s 6(2)(i)) - catch-all provision.
+
+### 12.4 Procedure for Judicial Review in terms of PAJA
+#### 12.4.1 Which court may review administrative action?
+- Courts empowered to review:
+  - Constitutional Court (s 167(6)(a)).
+  - High Courts and designated magistrates' courts.
+- Important amendment: Designated magistrates’ courts may now review administrative actions.
+
+#### 12.4.2 Procedure for Review
+- Review must be instituted within 180 days as per **Section 7(1)** of PAJA.
+  - From the date of internal remedies conclusion or awareness of action/reasons.
+- **Case Example**: *City of Cape Town v Aurecon South Africa (Pty) Ltd* 2017 (4) SA 223 (CC) - 180-day rule clarified.
+- Extensions of time may be granted (s 9(1) and (2)) in the interests of justice.
+
+### Additional Notes
+- Adherence to procedural rules important to uphold the right to review.
+- Legislative intentions aim to balance judicial efficiency with resolving disputes non-judicially.
+----- END OF FILE -----
+# ADL2601/1 Study Notes
+
+## Page 185
+
+### LEARNING UNIT 12: Judicial control of administrative action and remedies in proceedings for judicial review
+
+- **Committee Insight**: Clive Plasket (LRC) noted that judicial reviews might harm disadvantaged groups.
+- **Judicial Matters Second Amendment Act 55 of 2003**: Introduced **section 7(3)** mandating the Rules Board to create judicial review procedures.
+- **Rules of Procedure for Judicial Review**: Approved rules (2009) established new processes, replacing previous High Court rules (Rule 53) in judicial review cases.
+- **Contents of the Rules**:
+  - Part B: Request for reasons and disclosure (Rules 3-7).
+  - Part C: Application for judicial review (Rules 8-9).
+  - Part D: General rules (Rules 10-15).
+  - Court powers: Direct proceedings, shorten periods, extend periods (Rule 14).
+
+## Page 186
+
+### 12.5 THE ORDERS MADE BY A COURT AS PRESCRIBED BY SECTION 8 OF PAJA
+
+#### 12.5.1 Introduction
+- **Section 8(1) of PAJA**: Courts may grant orders that are just and equitable.
+- **Allpay Consolidated Investment Holdings (Pty) Ltd v SASSA**: Established that public-law remedies correct administrative injustices via a "corrective principle." Valid contracts remain until re-tendering occurs.
+- **Jurisdiction**: 
+  - High Courts can issue remedies under **section 6(1)** and **section 8(1)**.
+  - Magistrates’ courts require Minister designation and cannot rule on constitutional issues (s 170 Constitutional limits).
+- **Section 8 and Constitutional Court**: Allows just and equitable remedies, including limiting the effects of invalid declarations.
+
+#### 12.5.2 Section 8
+- **Section 8(1)(a)**: Orders directing administrators to:
+  - Provide reasons.
+  - Act in specific manners (mandamus/mandatory interdict).
+- **Section 8(1)(b)**: Orders prohibiting administrator actions (prohibitory interdict).
+- **Section 8(1)(c)**: Courts can set aside administrative decisions:
+  - Generally, refer back to administrators.
+  - Exceptions: courts may substitute decisions if justified (e.g., **Nel v SA Medical and Dental Council**).
+- **Section 8(1)(d)**: Declare rights of parties.
+- **Section 8(1)(e)**: Grant temporary relief.
+- **Section 8(1)(f)**: Order costs.
+- **Section 8(2)**: Orders when an administrator fails to decide.
+
+## Page 190
+
+### 12.6 THE “CONSTITUTIONALISATION” OF ADMINISTRATIVE ACTION AND JUDICIAL REVIEW
+
+- **Section 33 of the Constitution**: Codifies rights to just administrative action, superseding common law principles.
+- **Pharmaceutical Manufacturers Association case**: Established that judicial review is now inherently constitutional.
+
+### 12.7 IMPORTANCE OF JUDICIAL CONTROL
+
+- **Judicial Review**: Judicial control acts as a check on legislative and executive power, maintaining constitutional compliance.
+- **Judicial Functions**: Historically relied on common law; inherent judicial review powers remain essential in monitoring state actions.
+
+### 12.8 CONCLUSION
+
+- Overview of judicial review orders reflects the framework established under **section 8 of PAJA**.
+- Understanding judicial remedies within the context of administrative law is crucial for legal practice.
+----- END OF FILE -----
+# ADL2601/1
+
+## 13 ANNEXURE A
+### Promotion of Administrative Justice Act No. 3 of 2000
+
+- **Assent Date**: 3 February 2000  
+- **Commencement Date**: 30 November 2000  
+- **Legislation Updates**: 
+  - Amendments by various Acts (2001, 2002, 2003, 2005, 2007, 2008)
+  
+### Purpose of Act
+
+- To implement the right to lawful, reasonable, and procedurally fair administrative action as per **Section 33** of the Constitution, and to provide incidental matters.
+
+### Preamble
+
+- **Section 33 (1), (2)**: Right to lawful and fair administrative action; right to receive written reasons.
+- **Section 33 (3)**: National legislation must facilitate:
+  - Court review of administrative action.
+  - Obligation of the state to uphold these rights.
+  - Efficient administration.
+
+### Arrangement of Sections
+
+1. **Definitions**
+2. **Application of Act**
+3. **Procedurally Fair Administrative Action**
+4. **Administrative Action Affecting the Public**
+5. **Reasons for Administrative Action**
+6. **Judicial Review of Administrative Action**
+7. **Procedure for Judicial Review**
+8. **Remedies in Proceedings for Judicial Review**
+9. **Variation of Time**
+9A. **Designation and Training of Presiding Officers**
+10. **Regulations**
+10A. **Liability**
+11. **Short Title and Commencement**
+
+### 1. Definitions
+
+- **Administrative Action**: 
+  - Decision or inaction by an organ of state or designated persons affecting rights with legal consequence.
+  - Excludes specific executive, legislative, judicial functions, prosecutorial decisions, and decisions under the **Promotion of Access to Information Act, 2000**.
+  
+- **Administrator**: Any organ of state or person executing administrative action.
+  
+- **Constitution**: Refers to the Constitution of South Africa, 1996.
+  
+- **Court**: Includes Constitutional Court, High Courts, and designated Magistrate’s Courts.
+  
+- **Decision**: Any administrative-related decision or proposed decision.
+  
+- **Empowering Provision**: Basis on which administrative action is exercised (laws, agreements, etc.).
+
+### 2. Application of Act
+
+- **Minister's Authority**: Permit exemptions or variations to act's provisions for promoting efficient administration, requires Parliamentary approval.
+
+### 3. Procedurally Fair Administrative Action
+
+- **General Requirement**: Procedures must be fair if rights or legitimate expectations are adversely affected.
+
+- **Fairness Criteria**: 
+  - Adequate notice of action, opportunity for representations, clear statement of actions, notice of review rights.
+
+- **Discretion for Additional Fairness**: Opportunity for assistance or legal representation, dispute information.
+
+- **Departure from Fairness Requirements**: Reasonable departures permitted considering:
+  - Objectives of enabling legislation.
+  - Nature and purpose of the action.
+  - Likely effects and urgency.
+
+### 4. Administrative Action Affecting Public
+
+- **Impact Assessment**: Actions affecting public rights must determine:
+  - Public inquiry vs. notice and comment procedures.
+  
+- **Public Inquiry**: Conducted by the administrator or designated person.
+  - Must include public hearings, reporting, and communication.
+
+- **Notice and Comment Procedure**: Communicate actions to affected parties and solicit feedback.
+
+### Other Sections (5-11)
+
+- Details on reasons for actions, judicial review processes, remedies available, regulation power, and short title/commencement provisions referenced but summarized.
+
+### Diagram References
+
+- Reference relevant diagrams according to the discussed legislative process or procedural flows where necessary.
+----- END OF FILE -----
+# ADL2601/1 Study Notes
+
+## 5. Reasons for Administrative Action
+- **(1)** Individuals adversely affected by administrative action can request written reasons within **90 days** of awareness.
+- **(2)** Administrators must respond with adequate written reasons within **90 days** of request.
+- **(3)** Failure to furnish adequate reasons presumes action taken without good reason in judicial review proceedings.
+- **(4)** 
+  - (a) Departure from providing reasons permitted if reasonable/justifiable, with immediate notification to requester.
+  - (b) Factors for determining reasonableness:
+    - Objects of the empowering provision
+    - Nature, purpose, and effect of action
+    - Extent of departure
+    - Relation to purpose of departure
+    - Importance of departure purpose
+    - Need to promote efficient administration and governance.
+- **(5)** Administrators may follow fair but different procedures if empowered.
+- **(6)** 
+  - (a) Minister may publish a list of actions where reasons will be automatically provided without request.
+  - (b) Must publish within **14 days** at the administrator's cost.
+
+## 6. Judicial Review of Administrative Action
+- **(1)** Anyone may initiate judicial review of administrative action.
+- **(2)** Grounds for judicial review include:
+  - **(a)** Lack of authorization, unauthorized delegation, or bias.
+  - **(b)** Non-compliance with mandatory procedures.
+  - **(c)** Procedural unfairness.
+  - **(d)** Material error of law.
+  - **(e)** Action taken for unauthorized reasons, ulterior motives, or irrelevant consideration.
+  - **(f)** Action violates laws, lacks rational connection to purpose, or is arbitrary/capricious.
+  - **(g)** Failure to decide.
+  - **(h)** Actions so unreasonable that no reasonable person would act similarly.
+  - **(i)** Actions being unconstitutional or unlawful.
+- **(3)** Judicial review for failure to decide:
+  - **(a)** If no law prescribes a decision period and delay is unreasonable.
+  - **(b)** If a law prescribes a decision period and delay exceeds this period.
+
+## 7. Procedure for Judicial Review
+- **(1)** Must be instituted without unreasonable delay, within **180 days** from:
+  - (a) Conclusion of internal remedies.
+  - (b) Awareness of action.
+- **(2)** 
+  - (a) Internal remedies must be exhausted before judicial review.
+  - (b) Courts direct exhaustion of remedies when not satisfied it has been done.
+  - (c) Courts may exempt from internal remedies in exceptional circumstances.
+- **(3)** Rules of procedure for judicial review must be established by **28 February 2009.**
+- **(4)** Proceedings must be instituted in a High Court or other jurisdictional court until rules are operational.
+- **(5)** Court rules require parliamentary approval prior to publication.
+
+## 8. Remedies in Proceedings for Judicial Review
+- **(1)** Courts may grant orders including:
+  - (a) Directing reasons or actions.
+  - (b) Prohibiting actions.
+  - (c) Setting aside actions with possible remittance or compensation.
+  - (d) Declaring rights related to administrative action.
+  - (e) Granting temporary relief.
+  - (f) Costs orders.
+- **(2)** Orders in failure to decide may include:
+  - (a) Direct orders for decision.
+  - (b) Rights declaration regarding the decision.
+  - (c) Necessary actions for justice.
+  - (d) Costs orders.
+
+## 9. Variation of Time
+- **(1)** Time periods (90 or 180 days) may be reduced or extended by agreement or court application.
+- **(2)** Courts may grant applications where justice requires.
+
+## 9A. Designation and Training of Presiding Officers
+- **(1)** Heads of administrative regions must designate magistrates as presiding officers.
+- **(1)(b)** Presiding officers must perform assigned functions under this Act or relevant law.
+- **(2)** Designation requires completion of a training course.
+- **(3)** Heads must designate presiding officers and inform the Director-General.
+- **(4)** The Director-General must maintain a list of trained magistrates.
+- **(5)** The Chief Justice develops training content for presiding officers.
+- **(6)** Implementation of training courses must involve the Chief Justice and the Minister.
+- **(7)** The Minister must report to Parliament on training course implementation.
+
+## 10. Regulations and Code of Good Administrative Conduct
+- **(1)** Minister must make regulations on:
+  - (a) Procedural requirements for administrators.
+  - (b) Public inquiry procedures.
+  - (c) Notice and comment procedures.
+  - (d) Requests for reasons.
+- **(2)** Additional regulations may include:
+  - (a) Advisory council establishment and duties.
+  - (b) Protocols for drafting rules and standards.
+  - (c) Education programs on the Act's content.
+  - (d) Prescribing necessary measures for objectives of the Act.
+- **(3)** Regulations affecting public service require prior consultation with the relevant Minister. 
+
+### **Legislation and Cases**: 
+- Promotion of Administrative Justice Act No. 3 of 2000. 
+
+### **Diagram References**: 
+- See flowcharts on grounds for review and procedural timelines (not included here).
+----- END OF FILE -----
+# ADL2601/1
+
+## 203
+- **Regulations under Subsections**: 
+  - (1)(a-d) & (2)(c-e): Must be submitted to Parliament before publication.
+  - (2)(a-b): Require parliamentary approval before publication.
+- **Financial Expenditure Regulations**:
+  - Must be made in consultation with the Minister of Finance.
+- **Code of Good Administrative Conduct**:
+  - Published by the Minister to provide guidelines for efficient administration, must be approved by Cabinet and Parliament before 28 February 2009.
+- **Liability** (s 10A):
+  - No liability for good faith actions in the performance of powers/duties under this Act.
+- **Short Title**:
+  - This Act is known as the Promotion of Administrative Justice Act, 2000.
+
+## ANNEXURE A: Promotion of Administrative Justice Act No. 3 of 2000
+
+## 204
+### ANNEXURE B
+#### Earthlife Africa (Cape Town) v Director-General: Department of Environmental Affairs and Tourism and Another [2005] 
+- **Case Information**:
+  - Review application of DG’s decision under s 22(3) ECA for nuclear reactor construction.
+  
+#### Applicable Legislation:
+- **ECA**: Governs authorisation for activities affecting the environment.
+  - **s 21(1)**: Minister may identify activities with substantial environmental impact.
+  - **s 22(3)**: Minister or DG can approve/disapprove authorisations.
+  - **s 35(3)**: Appeals to the Minister allowed by aggrieved parties.
+  - **s 36(1)**: Interested parties can request reasons for decisions.
+
+#### Factual Background:
+- Eskom sought authorisation for a PBMR.
+- EIR conducted; extensive public participation required.
+- **Submission Process**: Draft and final EIRs submitted to the department and relevant parties.
+- Legal challenges by the applicant to access information and participate effectively were noted.
+  
+### Internal Remedies:
+- Appeal to the Minister required before judicial review as per:
+  - **s 7(2)(a)**: Internal remedies must be exhausted prior to review.
+  - **s 36 ECA**: Allows court review irrespective of s 35.
+- **Exemption Request**: 
+  - **s 7(2)(c)**: Courts may exempt from exhausting internal remedies if justified in the interests of justice.
+
+### Exceptional Circumstances:
+- Definition not comprehensive; courts have discretion based on justice interests.
+
+- **Case Citation**:
+  - Earthlife Africa (Cape Town) v Director-General: Department of Environmental Affairs and Tourism, 2005 (3) SA 156 (C). 
+
+**Diagram References**: 
+- Reference pertinent flow of appeals and administrative actions related to ECA and PAJA (not shown in text).
+----- END OF FILE -----
+# ADL2601/1 Study Notes
+
+## Page 209
+### **Exceptional Circumstances**
+- Definition lacks specificity; judicial review allowed if case can be distinguished from appeal procedures provided by Parliament.
+- Case distinguished under *s 35(3)* and *s 36 of ECA* where legislative intent to exhaust internal remedies is absent.
+
+### Factors Constituting Exceptional Circumstances
+- **Nuclear Power Issue**: Involves significant safety and environmental implications for many; implications should not be decided strictly on technicalities.
+- **Legal Argument Timing**: Respondents’ failure to raise the preliminary legal point early allowed extensive affidavits on merits; further proceedings unnecessarily complicated.
+- **Pending Appeals**: 70 appeals could be rendered moot if review successful; review addresses specific procedural issues, avoiding costs from prolonged appeals.
+- **Balance in s 7(2)(a) of PAJA**: Review balances limited applicant’s position against a multitude of complex appeals.
+
+## Page 210
+### Respondents' Arguments
+- Multiple appeals before the Minister may affect the legality of the review application.
+- Urgency claimed by applicant is countered by potential impact of authorization process under the *NNR Act* and *NE Act*.
+
+### Judicial Consideration
+- Importance of observing the audi rule, even in preliminary stages of approval.
+- Previous case law (*Director, Mineral Development v Save the Vaal Environment*) affirming significance of preliminary decisions.
+
+### Interests of Justice (Page 211)
+- Review versus appeal distinctions: Review procedure addresses irregularities, while appeals rely on regularity presuming validity.
+- Dual processes (review and appeal) in terms of ECA suggest promoting justice by considering review first.
+
+### Procedural Fairness
+- **Right to Procedural Fairness**: Established under *s 33(1) of the Constitution* and *s 6(2)(c) of PAJA*.
+- Importance of a fair hearing; applicant’s limited access and opportunity to contribute disqualifies the process.
+
+## Page 213
+### Key Review Grounds
+- Principle of procedural fairness based on case circumstances; relevant factors taken from past judicial decisions pre-PAJA.
+- Procedural compliance with *ss 3 and 4 of PAJA* mandatory for administrative action affecting the public. 
+
+### Complaints of Procedural Deficiencies
+1. **Access to Information**: Right to access information crucial for fair representation.
+2. **Submissions on EIR**: Applicant’s limitation to draft EIR without opportunity on the final EIR contested; correspondence indicates entitlement to comment.
+3. **Representation Process**: Assertion of right to additional representations to the DG versus limited prior interactions with consultants.
+
+## Conclusion
+- Exceptional circumstances warrant judicial consideration despite procedural disputes.
+- Review of administrative decision emphasizes necessity for fair process, evaluating access to relevant information and opportunity for comprehensive representation.
+----- END OF FILE -----
+# ADL2601/1 Study Notes
+
+## Chapter: Earthlife Africa (Cape Town) v Director General: Department of Environmental Affairs
+
+### Page 215-220
+
+#### Legal Principles and Framework
+
+- **ECA Regulations**: No further comments on the final Environmental Impact Report (EIR) are permitted before decisions by competent authorities. 
+- **Public Participation**: EIA Regulations provide for full participation in all processes, not limited to the investigation phase. Public participation must also occur in the adjudicative phase (DG’s evaluation).
+
+#### Key Arguments and Judicial Reasoning
+
+- **Respondents’ Position**: Claims that public participation is only essential until the EIR submission; appeals allowed post-decision. 
+- **Judicial Rejection**: Public participation continues throughout the evaluation process. Procedural fairness, particularly the **audi rule**, mandates consultation on all relevant new material.
+
+#### Significant Case References
+
+- **Attorney-General, Eastern Cape v Blom** (1988): Established that procedural fairness extends to all stages of decision-making.
+- **Huisman v Minister of Local Government**: Dictates fairness in considering new evidence that may affect decisions.
+- **De Ville**: Emphasizes requirements for hearings before final decisions, particularly when new evidence arises.
+
+#### Procedural Fairness
+
+- Opportunity for comments on ‘substantially different’ final EIR is deemed necessary for procedural fairness.
+- DG's refusal to permit public comment based on a misconception undermines the fairness of the process and invalidates the decision.
+
+#### Assessing the DG's Decision-Making Process
+
+- DG maintained that public comments were not permitted post-EIR submission; this position was characterized as opportunistic.
+- Despite being in possession of the final EIR six months prior, the opportunity to comment was rendered meaningless due to the DG's attitude.
+
+#### Conclusions Drawn
+
+- **Legitimacy of a Hearing**: An interested party's right to a hearing implies direct communication with the decision-maker, not just intermediaries (e.g., consultants affiliated with one party). 
+- **DG’s Responsibility**: Even with expert input, a decision-maker must consider submissions from all sides adequately; failure to do so renders the decision procedurally unfair.
+
+#### Final Ruling
+
+- The DG’s decision to issue authorization based on an EIR that materially differed from what had previously been submitted is flawed and falls to be set aside. 
+- An opportunity for further public submissions prior to a new decision is mandated, consistent with PAJA, ensuring adherence to procedural fairness.
+
+#### Court Order
+
+- **Review and Set Aside**: The decision authorizing Eskom’s pebble bed modular reactor is annulled.
+- **Remittance for Reconsideration**: The DG must consider new submissions before making a fresh determination.
+- **Costs**: The respondents are ordered to bear the applicant’s legal costs.
+
+### Important Legislation
+
+- **ECA**: Environment Conservation Act 73 of 1989.
+- **PAJA**: Promotion of Administrative Justice Act, mandates procedural fairness in administrative actions.
+
+### Diagrams and Visuals
+- Reference relevant procedural diagrams illustrating the phases of public participation in EIA processes as stipulated by ECA Regulations.
+----- END OF FILE -----
+# ADL2601/1
+221
+
+## 15 Annexure C
+### 15 The Refugees Act, 130 of 1998
+- **Date of Assent**: 20 November 1998
+
+#### Purpose
+- To implement international standards related to refugees in South Africa.
+- To regulate the entry, applications, rights, and obligations of refugees.
+
+#### Preamble
+- South Africa's commitment to international refugee conventions:
+  - **1951 Convention Relating to the Status of Refugees**
+  - **1967 Protocol Relating to the Status of Refugees**
+  - **1969 OAU Convention Governing Refugee Problems in Africa**
+
+### Arrangement of Act
+
+#### Chapter 1: Interpretation, Application and Administration of Act
+1. **Definitions**:
+   - **Abusive Application for Asylum**: Application aimed at circumventing legal proceedings.
+   - **Aliens Control Act (1991)**: Act concerning the control of aliens (Act No. 96 of 1991).
+   - **Appeal Board**: Refugee Appeal Board (s. 12).
+   - **Asylum**: Recognized refugee status.
+   - **Asylum Seeker**: Individual seeking refugee recognition.
+   - **Asylum Seeker Permit**: Permit under s. 22.
+   - **Child**: Individual under 18.
+   - **Department**: Department of Home Affairs.
+   - **Dependants**: Unmarried children, destitute family members, etc.
+   - **Director-General**: Head of the Department.
+   - **Fraudulent Application for Asylum**: Based on known falsehoods.
+   - **Manifestly Unfounded Application**: Not based on valid grounds.
+   - **Minister**: Minister of Home Affairs.
+   - **Regulations**: Prescribed by regulation.
+   - **Refugee**: Individual granted asylum.
+   - **Refugee Reception Office**: Offices established under s. 8(1).
+   - **Refugee Reception Officer**: As per s. 8(2).
+   - **Refugee Status Determination Officer**: As per s. 8(2).
+   - **Rules**: Regulations made by Appeal Board.
+   - **Social Group**: A group defined by gender, orientation, disability, etc.
+   - **Standing Committee**: Committee for Refugee Affairs (s. 9).
+   - **UNHCR**: United Nations High Commissioner for Refugees.
+
+2. **General Prohibition of Refusal of Entry**:
+   - No entry refusal if return leads to persecution or threats to life/freedom.
+
+3. **Refugee Status**:
+   - Eligibility requires:
+     - Well-founded fear of persecution.
+     - External aggression or disorder in country of origin.
+     - Dependants of qualifying individuals.
+
+4. **Exclusion from Refugee Status**:
+   - Excluded if suspected of serious crimes or violating international principles.
+
+5. **Cessation of Refugee Status**:
+   - Ceases when:
+     - Individual avails themselves of their country's protection.
+     - Achieves citizenship in another country.
+     - Returns to original country without fear.
+
+6. **Interpretation, Application, and Administration of Act**:
+   - Must align with international agreements, including:
+     - **UN Convention and Protocol**.
+     - **OAU Convention**.
+     - **Universal Declaration of Human Rights**.
+   - Minister responsible for administration.
+
+#### Chapter 2: Refugee Reception Offices, Standing Committee for Refugee Affairs and Refugee Appeal Board
+8-20. 
+- Establishment and functions of the Refugee Reception Office and relevant committees.
+
+#### Chapter 3: Application for Asylum
+21-24.
+- Protocol for asylum applications, decision processes and asylum seeker permits.
+
+#### Chapter 4: Reviews and Appeals
+25-26.
+- Mechanisms for reviewing decisions and appealing to the Refugee Appeal Board.
+
+#### Chapter 5: Rights and Obligations of Refugees
+27-34.
+- Detailed rights of refugees, including:
+  - Protection and removal rights.
+  - Identity and travel documentation.
+  - Responsibilities of refugees and special considerations for unaccompanied minors and dependents.
+
+#### Chapter 6: Supplementary and General Provisions
+35-41.
+- Mass influx protocols, regulations, staff training, and transitional arrangements.
+
+--- 
+
+**Note**: Diagrams referenced in the original document have been excluded from this summary.
+----- END OF FILE -----
+**ADL2601/1**  
+**ANNEXURE C: The Refugees Act, 130 of 1998**
+
+---
+
+### Delegation of Powers and Duties  
+**Page 227**  
+- **Minister's Delegation**  
+  - Power/duty delegation to Department officers (excluding section 6(2)).  
+  - Must follow Minister's directions; can be withdrawn anytime.  
+  - Delegation does not preclude Minister from exercising powers personally. 
+
+### CHAPTER 2: Refugee Reception Offices, Standing Committee for Refugee Affairs, and Refugee Appeal Board  
+
+#### Refugee Reception Office  
+**Page 228**  
+- **Director-General's Authority**  
+  - Establish Refugee Reception Offices as deemed necessary after consulting Standing Committee.  
+- **Personnel Requirements**  
+  - Must include one Refugee Reception Officer and one Refugee Status Determination Officer (qualified and experienced).  
+  - Additional training required for officers.
+
+#### Standing Committee for Refugee Affairs  
+**Page 228**  
+- **Establishment and Function**  
+  - Independent operation without bias.  
+  - Headquarters determined by the Minister.  
+
+#### Composition of Standing Committee  
+**Page 228**  
+- **Membership**  
+  - Consists of chairperson and additional Minister-determined members.  
+  - Appointments consider experience, qualification, and ability.  
+  - Exclusions: Non-citizens or those with certain criminal convictions.  
+  - At least one member must be legally qualified.  
+
+#### Powers and Duties of Standing Committee  
+**Page 229**  
+- Formulates asylum procedures.  
+- Regulates/supervises Refugee Reception Offices.  
+- Liaises with UNHCR and NGOs.  
+- Advises Minister/Director-General on prescribed matters.  
+- Reviews decisions on manifestly unfounded applications.  
+- Decides legal matters from Refugee Status Determination Officers.  
+- Monitors Refugee Status Determination Officers' decisions.  
+- Determines work/study conditions for asylum seeker permits.
+
+#### Establishment of Refugee Appeal Board  
+**Page 229**  
+- An independent Appeal Board established, headquarters determined by the Minister.
+
+#### Composition of Appeal Board  
+**Page 229**  
+- **Membership**  
+  - Chairperson and at least two additional members, appointed by the Minister.  
+  - At least one legally qualified member.  
+  - Exclusions: Non-citizens or recent criminal convictions.  
+
+#### Powers and Duties of Appeal Board  
+**Page 230**  
+- Hears legal questions and appeals as per the Act.  
+- Advises Minister/Standing Committee as referred.  
+- Determines its own practice/rules, published in the Gazette.
+
+#### Meetings of Standing Committee and Appeal Board  
+**Page 230**  
+- Convened by chairperson, majority constitutes quorum.  
+- Decisions by majority vote, chairperson has casting vote.
+
+#### Periods of Office of Members  
+**Page 230**  
+- Five-year term appointments, eligible for reappointment.  
+- Resignation via written notice to the Minister.
+
+#### Removal from Office  
+**Page 230**  
+- Minister may remove for misconduct/inability after allowing representations from the member and chairperson.
+
+#### Filling of Vacancies  
+**Page 230**  
+- Minister appoints replacements for term duration due to death, resignation, or removal.
+
+#### Remuneration of Members  
+**Page 231**  
+- Members receive remuneration as determined by the Minister with Finance approval.
+
+#### Administrative Staff  
+**Page 231**  
+- Administrative tasks assigned to Department officers designated by the Director-General.
+
+### CHAPTER 3: Application for Asylum  
+
+#### Application for Asylum  
+**Page 231**  
+- Applications made in person to a Refugee Reception Officer following prescribed procedures.  
+- Officer responsibilities include accepting, verifying and submitting applications.  
+- Mandatory fingerprints/photos for applicants 16+ years.  
+- Confidentiality of applications safeguarded.
+
+#### Asylum Seeker Permit  
+**Page 231**  
+- Issued pending application outcome, allowing temporary sojourn in the Republic with conditions.  
+- Previous permits under Aliens Control Act become void.  
+- Permits can be extended/amended.  
+- Conditions apply; lapses upon unauthorized departure.  
+- Withdrawal grounds outlined; penalties for non-compliance.
+
+#### Detention of Asylum Seeker  
+**Page 232**  
+- Minister may detain following permit withdrawal, ensuring human dignity.
+
+#### Decision Regarding Application for Asylum  
+**Page 232**  
+- Status Determination Officer may request additional information; consult UNHCR where appropriate.  
+- Applicant's rights according to section 33 of the Constitution to be considered.  
+- Possible outcomes: grant asylum, reject as unfounded/unlawful, or refer legal questions.  
+- Written reasons for rejection required within specified timeframe, records submitted to Standing Committee.
+----- END OF FILE -----
+# ADL2601/1 
+
+### ANNEXURE C: The Refugees Act, 130 of 1998 
+
+## CHAPTER 4: REVIEWS AND APPEALS 
+
+### Review by Standing Committee 
+- **Section 25**:
+  - Standing Committee reviews decisions by Refugee Status Determination Officers (RSDOs).
+  - May invite UNHCR for input, request relevant person’s attendance, conduct inquiries, and summon the applicant for additional information.
+  - Decisions:
+    - Confirm or set aside decisions.
+    - Decide on questions of law per section 24(3)(d).
+  - Must inform RSDO of decision promptly.
+  - Directives to be given back to RSDO for application reconsideration.
+
+### Appeals to Appeal Board 
+- **Section 26**:
+  - Appeals lodged by any asylum seeker against RSDO rejections.
+  - Appeal Board may confirm, set aside or substitute RSDO decisions.
+  - May invite UNHCR input, refer matters back, pursue inquiries, and request applicant appearances.
+  - Legal representation allowed upon request.
+
+## CHAPTER 5: RIGHTS AND OBLIGATIONS OF REFUGEES 
+
+### Protection and General Rights of Refugees 
+- **Section 27**:
+  - Refugee entitlements:
+    - Written recognition of status.
+    - Full legal protection (Chapter 2 of the Constitution).
+    - Immigration permit application after 5 years (Aliens Control Act, 1991) if certified as indefinite refugee.
+    - Identity document and South African travel document.
+    - Right to employment and access to basic health and education services.
+
+### Rights of Refugees in Respect of Removal from Republic 
+- **Section 28**:
+  - Removal permissible for national security/public order.
+  - Must follow constitutional rights and international law.
+  - Dependants may be removed if asylum attempts are failed or rejected.
+  - Detainment pending removal is allowed.
+  - Order must allow time for approval from another country.
+
+### Restriction of Detention 
+- **Section 29**:
+  - Detention must be reasonable; exceeds 30 days necessitates review by a High Court judge.
+  - Child detention is a last resort and for minimal time.
+
+### Identity Document to Refugee 
+- **Section 30**:
+  - Identity document must contain key personal details including identity number, name, gender, DOB, country of origin, photo, fingerprints.
+
+### Travel Document to Refugee 
+- **Section 31**:
+  - Refugee may apply for a travel document.
+
+### Unaccompanied Child and Mentally Disabled Person 
+- **Section 32**:
+  - Child needing care must go to Children’s Court for asylum assistance.
+  - Mentally disabled persons must receive help in asylum applications.
+
+### Dependants of Refugee 
+- **Section 33**:
+  - Refugee must assist dependants in applying for asylum.
+  - Dependants can remain post-termination of dependence conditions.
+  - Survivors of refugees can remain in the Republic under certain conditions.
+  - Dependants can apply for refugee status.
+
+### Obligations of Refugees 
+- **Section 34**:
+  - Refugees must abide by the laws of the Republic. 
+
+## CHAPTER 6: SUPPLEMENTARY AND GENERAL PROVISIONS 
+
+### Reception and Accommodation of Asylum Seekers in Event of Mass Influx 
+- **Section 35**:
+  - Minister may declare groups as refugees.
+  - Designation of reception areas for large groups.
+  - Appointment of area managers and withdrawal of designations allowed.
+
+### Withdrawal of Refugee Status 
+- **Section 36**:
+  - Erroneous recognitions due to false information can be retracted.
+  - Standing Committee must notify affected persons and allow submissions.
+  - After due consideration, recognition may be withdrawn leading to treatment as prohibited persons under the Aliens Control Act.
+
+### Offences and Penalties 
+- **Section 37**:
+  - Criminal acts related to fraud or permit contraventions punishable by fine/imprisonment (up to 5 years).
+
+### Regulations 
+- **Section 38**:
+  - Minister may regulate aspects related to asylum seeker influx, referral processes, forms, conditions of stay, interpretation services, and other necessary matters.
+  - Regulations on influx must consult provincial Premier.
+
+### Training of Staff 
+- **Section 39**:
+  - Director-General to ensure proper training for delegated staff under the Act.
+
+### Transitional Arrangements 
+- **Section 40**:
+  - Existing asylum applicants and recognized refugees before the Act’s commencement are regarded under this Act.
+
+### Short Title and Commencement 
+- **Section 41**:
+  - This Act may be cited as the Refugee Act, 1998.
+
+--- 
+
+**References:**
+- **Legislation**: Refugees Act 130 of 1998, Aliens Control Act, 1991.
+- **Relevant Cases**: [Specific cases can be referenced here if applicable].
+- **Diagram References**: Include relevant diagrams from the study materials.

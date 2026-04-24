@@ -1,0 +1,2032 @@
+# CMY3701/1 Study Notes
+
+## Part 1: The Rational Actor Model of Crime and Criminal Behaviour
+
+### Theme 1: The Rational Actor Model
+#### Study Unit 1.1: The Official School: The Offender as Calculator
+- **1.1.1 Introduction**
+  - Classical criminology sees the offender as a rational individual.
+  
+- **1.1.2 Assumptions of the Classical School of Criminology**
+  - Humans are rational actors making choices based on potential rewards and punishments.
+  
+- **1.1.3 Limitations of the Classical School or Criminology: Neoclassical School of Thought**
+  - Introduces considerations for mental illness, coercive forces, and social circumstances affecting decisions.
+
+- **1.1.4 Summary and Conclusion**
+  - Classical principles provide a framework but need refinement to account for human complexities.
+
+#### Study Unit 1.2: Contemporary Rational Choice Theories
+- **1.2.1 Introduction**
+  - Rational choice theory adapts classical premises to contemporary contexts.
+
+- **1.2.2 Routine Activities Theory**
+  - **1.2.2.1 Evaluation of the Routine Activities Theory**
+    - Assess its applicability to modern crime patterns.
+  - **1.2.2.2 Concise Summation of the Routine Activities Theory**
+    - Crime occurs when a motivated offender, suitable target, and lack of capable guardians converge.
+
+- **1.2.3 Classification of Data and Sampling Methods**
+  - **1.2.3.1 Propositions of the Rational Choice Perspective Theory**
+  - **1.2.3.2 Bounded Rationality of the Rational Choice Perspective Theory**
+  - **1.2.3.3 The Choice Process of the Rational Choice Perspective Theory**
+  - **1.2.3.4 Evaluation of the Rational Choice Perspective Theory**
+    - Critiques and supports from empirical studies.
+
+- **1.2.4 Summary and Conclusion**
+  - Rational choice theory is valid but must consider external variables influencing decision-making.
+
+---
+
+### Theme 2: The Positivist School: The Offender as Predestined Actor
+#### Study Unit 2.1: The Positivist School: The Offender as Predestined Actor
+- **2.1.1 Introduction**
+  - Focuses on factors beyond individual control influencing criminal behavior.
+
+- **2.1.2 Definitions of Key Concepts**
+  
+- **2.1.3 The Positivist School of Thought**
+  - Emphasizes determinism; human behavior shaped by biological and social factors.
+
+- **2.1.4 Assumptions of the Positivist School of Thought**
+  - Attributes criminal behavior to physiological, psychological, and environmental factors.
+
+- **2.1.5 Evaluation of the Positivist School**
+  - Examination of empirical support and critiques of determinism.
+
+- **2.1.6 Conclusion**
+  - Highlights the balance of biological and social influences.
+
+#### Study Unit 2.2: Biological Positivism
+- **2.2.1 Introduction**
+  
+- **2.2.2 Definitions of Key Concepts**
+  
+- **2.2.3 Early Theories of Biological Positivism**
+  
+- **2.2.4 Lombroso and the Positivists**
+  - **2.2.4.1 Physique and Crime**
+  
+- **2.2.5 Biosocial Theories**
+  - **2.2.5.1 Eysenck’s Biosocial Theory of Crime**
+    - Recent interest in the biological basis of crime.
+  - **2.2.5.2 Genetic Factors**
+    - **2.2.5.2.1 Studies of Families**
+    - **2.2.5.2.2 Studies of Twins**
+    - **2.2.5.2.3 Studies of Adoptees**
+  - **2.2.5.3 Biochemical Influences on Behavior**
+    - Examines dietary and neurophysiological factors related to crime.
+  - **2.2.5.4 Neurophysiological Factors**
+    - Links hormonal levels and personality traits to criminal behavior.
+
+- **2.2.6 Conclusion**
+  
+- **2.2.7 Self-evaluation Questions**
+  
+---
+
+### Theme 4: Social Positivism: Process Theories
+#### Study Unit 4.1: Process Theories
+- **4.1.1 Introduction**
+  
+- **4.1.2 Definitions of Key Concepts**
+  
+- **4.1.3 Assumptions of Process Theories**
+  
+- **4.1.4 Branches of Process Theories**
+  - **4.1.4.1 Learning Theories**
+  - **4.1.4.2 Control Theories**
+
+- **4.1.5 Summary and Conclusion**
+
+---
+
+### Theme 5: The Victimized Actor Model
+#### Study Unit 5.1: Process Theories
+- **5.1.1 Introduction**
+  
+- **5.1.2 Definitions of Key Concepts**
+
+- **5.1.3 Interactionist Approach**
+  - Focus on labeling theory and its effects on criminality.
+
+- **5.1.4 Social Response Approach**
+  - **5.1.4.1 Labelling as a Cause of Crime**
+  - **5.1.4.2 The Process of Labelling**
+  - **5.1.4.3 A Typology of Deviants**
+
+- **5.1.5 Evaluation of the Labelling Perspective**
+
+- **5.1.6 Summary and Conclusion**
+
+---
+
+### References
+- Referenced legislation and cases as applicable in study units.
+  
+This reconstruction summarizes key contents from relevant study units, maintaining a structured overview for concise studying.
+----- END OF CHUNK -----
+# CMY3701/1
+
+## Page 5.2.5: Exponents of the Radical Conflict Perspective
+- **5.2.5.1 William Chambliss**
+  - Key contributions to the radical conflict perspective.
+- **5.2.5.2 Richard Quinney**
+  - Influential theories on crime and conflict.
+
+## Page 5.2.6: Radical Criminology and Policy Implications
+- Review of radical criminology's impact on criminal justice policies.
+
+## Page 5.2.7: Summary and Conclusion
+- Summary of key points related to radical criminology.
+
+---
+
+## PART 1: The Rational Actor Model of Crime and Criminal Behaviour
+
+### Theme 1: The Rational Actor Model
+#### Introduction to Theme 1
+- Focus on **rational actor model**, foundations from classical and neo-classical schools.
+- Attributes:
+  - Legal definition of crime.
+  - Punishment aligns with crime severity.
+  - Emphasis on **free will**.
+  - Non-scientific approach.
+
+#### Contemporary Theories
+- **Rational theories** (opportunity theories):
+  - **Routine Activities** (Cohen & Felson).
+  - **Rational Choice** (Cornish & Clarke).
+
+### Key Concepts and Terms
+- **Aggravating Circumstances**: Factors enhancing punishment severity (e.g., child victims).
+- **Classical Criminology**: Emphasizes free will, rational action, and the criminal justice system's consistency (Burke, 2018).
+- **Criminal Event Decisions**: Short, limited information-based decision processes (Pedneault et al.).
+- **Criminal Involvement**: Process of engaging in and desisting from crime (Pedneault et al.).
+- **Limited or Bounded Rationality**: Poor decisions due to incomplete information do not negate rationality (Pedneault et al.).
+- **Mitigating Circumstances**: Factors resulting in a more lenient sentence (e.g., first offenders) (Lynch, 2014).
+- **Neoclassical School**: Advocates for a return to classical principles, focusing on justice administration (Burke, 2018).
+- **Routine Activities Theory**: Crime occurs when a motivated offender, suitable victim, and absence of guardians converge (Burke, 2018).
+- **Rational Choice Theory**: Highlights rationality in criminal decision-making processes (Burke, 2018).
+- **Social Contract**: Society's obligation to individuals based on mutual consent (Matsueda, 2013).
+
+### Study Unit 1.1: The Classical School: The Offender as Calculator
+#### Learning Outcomes
+- Describe classical criminology assumptions:
+  - Human nature.
+  - Social order conceptions.
+  - Crime causes.
+  - Policy implications.
+- Explain classical school's limitations.
+- Attributes of classical and neoclassical schools as rational actor model foundations.
+
+#### Time Required for Study Unit 1.1
+- Approximately 5 hours.
+
+#### Visual Overview of Study Unit 1.1
+- Reference to diagram in the text (FIGURE 1.1.1).
+----- END OF CHUNK -----
+# CMY3701/1  
+## STUDY UNIT 1.1: The classical school: the offender as calculator  
+
+### 1.1.1 INTRODUCTION  
+- Classical school of criminology emerged during the 17th and 18th centuries' Age of Enlightenment.
+- Cesare Beccaria: Father of classical criminology; advocated preventing crime rather than punishing.  
+- Shift from tradition/religion to rationality and individual responsibility.  
+- Opposition to ineffective and inhumane criminal justice systems.  
+- Essential elements of an effective criminal justice system:  
+  - Predictability  
+  - Non-discriminatory  
+  - Humane and effective punishment  
+- Principles of punishment (Eassey & Boman, 2015: 1–2):  
+  - **Certainty**: Assurance of punishment for illegal behavior.  
+  - **Swiftness**: Prompt punishment to maintain the crime-punishment association.  
+  - **Severity**: Proportional punishment to deter criminal acts.  
+- Jeremy Bentham: Contributed hedonistic calculus idea, viewing punishment as a deterrent.
+
+### 1.1.2 ASSUMPTIONS OF THE CLASSICAL SCHOOL OF CRIMINOLOGY  
+- **Human nature: Rationality**  
+  - Individuals are self-interested, rational, and capable of free will.  
+  - Criminal behavior viewed as a failure of rational choice, leading to prison for reform.  
+
+- **Conception of society or social order**  
+  - Chaos results from conflicting self-interests.  
+  - Criminal laws protect individual rights under a social contract; violations justify state punishment (Matsueda, 2013: 286).  
+
+- **Causes of crime**  
+  - Rational beings weigh pleasure against the pain of punishment; irrational decisions possible due to misleading information or insufficient penalties.  
+
+- **Implications for policy**  
+  - Strict adherence to due process; well-defined and consistently applied legal codes.  
+  - Minimization of judicial discretion in sentencing; known and just punishments necessary to deter crime (Coleman & Norris, 2000: 9).  
+
+### 1.1.3 LIMITATIONS OF THE CLASSICAL SCHOOL OF CRIMINOLOGY: NEOCLASSICAL SCHOOL OF THOUGHT  
+- Flaws in identical punishments for identical crimes; recognized need for consideration of circumstances.  
+- Acknowledgement that free will can be limited by factors like poverty or mental state.  
+- Revisions led to neoclassical criminology, which still holds individuals accountable but allows for context-based considerations (Netterville, 2014: 1).  
+- Introduced non-legal experts into the criminal justice system for individual assessments and more appropriate sentencing (Burke, 2017: 40–41).  
+- Central attributes (Burke, 2017: 43–44):  
+  - Focus on criminal law and its definition.  
+  - Punishment fitting the crime, not the offender.  
+  - Free will as a guiding doctrine.  
+  - Lack of empirical research in methodologies.  
+
+### 1.1.4 SUMMARY AND CONCLUSION  
+- Classical theorists: Criminal behavior results from rational decisions weighing risks and rewards.  
+- Serious criminals deserve punishment; deterrence relies on the severity, certainty, and swiftness of punishment.  
+- Neoclassical school maintains the core ideas of free will and rationality while acknowledging factors influencing choice.  
+- Contributions sparked ongoing debate about understanding crime and offending; results led to theories in Theme 2 (positivist perspective).  
+
+### 1.1.5 SELF-ASSESSMENT  
+- [Content for self-assessment removed as per instructions]
+----- END OF CHUNK -----
+# CMY3701/1
+
+## STUDY UNIT 1.1: The classical school: the offender as calculator
+
+### 1.1.5.2 Summary of Study Unit
+- Classical school emphasizes rationality of offenders as calculative decision-makers.
+- Main theorists: **Cesare Beccaria** and **Jeremy Bentham**.
+- Concepts include free will, punishment as a deterrent, and the social contract.
+- Focus on legal definition of crime; punishment proportionate to crime (severity must outweigh benefits of crime).
+
+### 1.1.5.3 Multiple-choice Questions
+1. **Key Contributors**
+   - Answer: **Cesare Beccaria and Jeremy Bentham**
+  
+2. **Enlightenment Philosophers' Stance**
+   - Answer: **opposed; criminal justice system**
+  
+3. **Central Attributes of Classical/Neoclassical Schools**
+   - Answer: **(ii) and (iv)** (Punishment severity and certainty of punishment)
+
+4. **Judge's Influence in Sentencing**
+   - Answer: **Classical**
+
+5. **Elderly Man's Decision-Making**
+   - Answer: **The severity of punishment**
+
+### 1.1.5.3.2 Long Questions
+1. **Development of Neoclassical School**
+   - Emphasis on mitigating circumstances and individual case considerations.
+  
+2. **Assumptions of Classical School**
+   - Free will exists; humans are rational actors who consider consequences of actions.
+
+### 1.1.6 Answers to Self-Assessment Questions
+1. **Multiple-choice Questions**
+   - 1. **4**
+   - 2. **2**
+   - 3. **4**
+   - 4. **1**
+   - 5. **3**
+
+2. **Long Questions**
+   - Refer to section 1.1.3
+   - Refer to section 1.1.2
+
+### 1.1.7 References
+- Beccaria, C. (1963). *On crimes and punishments*.
+- Burke, R.H. (2017). *An introduction to criminological theory*.
+- Lilly, J.R., Cullen, F.T. & Ball, R.A. (2018). *Criminological theory: Context and consequences*.
+- Lynch, G.E. (2014). *Our administrative system of criminal justice*.
+- Vito, G.F. & Maahs, J.R. (2015). *Criminology*.
+
+---
+
+## STUDY UNIT 1.2: Contemporary rational choice theories
+
+### 1.2.1 Introduction
+- Classical ideas influence modern criminology, emphasizing rational behavior of offenders.
+- Shift from classical to positivist theories in 1870s, and back to classical ideas post-1970s.
+- **Routine Activities** (Cohen and Felson, 1978) and **Rational Choice** (Clarke and Cornish, 1985) theories focus on offender decision-making and opportunity.
+
+### 1.2.2 Routine Activities Theory
+- Developed by **Cohen and Felson**; states crime requires:
+  - Motivated offender
+  - Suitable victim
+  - Lack of capable guardians
+- Changes in lifestyle lead to opportunities for crime due to absence of guardianship.
+- Elements include:
+  - **Suitable targets** (criteria: VIVA - Value, Inertia, Visibility, Accessibility).
+  - **Absence of guardians** (police, homeowners, etc.).
+  - **Presence of motivated offenders**.
+
+### 1.2 Visual Overview
+- Diagram referencing relationships among motivated offenders, suitable targets, and capable guardians.
+
+---
+Feel free to provide more text if you need further sections summarized or structured!
+----- END OF CHUNK -----
+# CMY3701/1
+## 17
+### STUDY UNIT 1.2: Contemporary rational choice theories
+
+#### 1.2.1 Routine Activities Theory
+- **Convergence of Crime Elements:**
+  - **Motivated Offender**
+  - **Suitable Target**
+  - **Absence of Capable Guardian**
+- **Crime Example:** Young women drinking excessively seen as easy targets for date rape (Burke, 2005:46). 
+
+#### 1.2.2 Evaluation of the Routine Activities Theory
+- **Primary Goal:** Identify environmental triggers for crime (Cote, 2002:297).
+- **Focus:** Crime of place vs. crime of person.
+- **Critics' Views:**
+  - Ignores offender motivation.
+  - Potential victim-blaming (McLaughlin, 2006:366).
+- **Insights for Crime Prevention:** 
+  - Surveillance and urban planning strategies by Felson (Cote, 2002:298).
+
+#### 1.2.2.2 Concise Summation of the Routine Activities Theory
+- Focus on **Opportunity** and **Lifestyle Influences**.
+  - **Factors Affecting Victim Risk:**
+    - Proximity to criminals
+    - Time exposed to criminals
+    - Attractiveness as a target
+    - Protection ability (Siegel, 2004:94)
+- **Key Theory Outcome:** Reduce intersection of offenders and unguarded targets to prevent crime.
+
+#### 1.2.3 Rational Choice Perspective
+- **Cornish and Clarke's Model (1986):** 
+  - Crime involves background factors influencing criminal motivations (Lilly et al, 2018:361).
+- **Crime Decisions:** Involves a sequence of choices, not just motivations.
+
+#### 1.2.3.1 Propositions of the Rational Choice Perspective Theory
+1. **Deliberate Acts:** Committed to benefit offenders.
+2. **Decision-Making:** Affected by risks and uncertainties.
+3. **Variation in Decisions:** Depends on crime nature.
+4. **Involvement vs. Event Decisions:** Involvement decisions (initiation, habituation, desistance) differ from specific act decisions.
+5. **Stages of Involvement:**
+   - **Initiation:** Commitment readiness.
+   - **Habituation:** Continuation of offending.
+   - **Desistance:** Decision to stop.
+6. **Event Decisions:** Involves specific choices during the criminal act (preparation, target selection, execution).
+
+#### 1.2.3.2 Bounded Rationality
+- **Rational Behavior:** Limited understanding and decision-making due to constraints (Newburn, 2007:280).
+- **Criminal Choice Process:**
+  - Involvement influenced by personal learning experiences and situational context.
+
+#### 1.2.3.4 Evaluation of the Rational Choice Perspective Theory
+- **Promise for Crime Reduction:** Focus on situational crime prevention (e.g. alarm systems, increased security).
+- **Danger of Oversimplification:** Treat offenders purely as rational decision-makers ignores social contexts, potentially leading to harsh policies (Wortley, 2013:259).
+
+### 1.2.4 SUMMARY AND CONCLUSION
+- **Routine Activities Theory:** Focuses on convergence of offender, target, and guardian.
+- **Rational Choice Theory:** Highlights personal choice and deterrence concepts, with underlying assumption that opportunities will lead to crime if not prevented.
+- **Commonalities:** Both theories emphasize circumstances shaping criminal acts. 
+
+### READ
+- Further reading on rational choice theory available in Lesson 1.2 of the myUnisa module site:
+  - (https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6670&context=jclc)
+----- END OF CHUNK -----
+# CMY3701/1
+
+## STUDY UNIT 1.2: Contemporary Rational Choice Theories
+
+### 1.2.5 SELF-ASSESSMENT
+
+- **Key Concepts:**
+  - Familiarize with essential terms related to rational choice theories.
+
+- **Summary Outcomes:**
+  - Achieve understanding of outcomes related to contemporary rational choice theories.
+
+- **Multiple-Choice Questions:**
+  1. Proponents of **Routine Activities Theory**: 
+     - **Cohen and Felson** (3)
+  
+  2. Rational choice theory aims to reduce situational crime: 
+     - **Prevention** (1)
+  
+  3. **Cornish and Clarke’s proposition**: 
+     - Offender decision-making influenced by crime nature (1)
+  
+  4. Primary goal of **Routine Activities Theory**: 
+     - Identify environmental triggers for crime (4)
+  
+  5. Preventing a crime against a transgender female: 
+     - Increased vigilance of surroundings (4)
+
+### 1.2.6 ANSWERS TO SELF-ASSESSMENT QUESTIONS
+
+- **Multiple-Choice Answers:**
+  - 1. (3)
+  - 2. (4)
+  - 3. (1)
+  - 4. (4)
+  - 5. (2)
+
+- **Long Questions:**
+  1. Refer to section **1.2.3** for the choice process.
+  2. Refer to section **1.2.2.1** for evaluating Routine Activities Theory.
+
+---
+
+## STUDY UNIT 2.1: The Positivist School: The Offender as Predestined Actor
+
+### 2.1.1 INTRODUCTION
+
+- Theoretical frameworks are essential for studying crime and criminal behavior.
+- Diverse criminological perspectives exist; none are entirely accurate but each provides insights into crime.
+- Integration of theories bridging classical and positivist criminology is encouraged.
+- Focus shifts from theorizing to understanding variables related to crime.
+
+### 2.1.2 DEFINITIONS OF KEY CONCEPTS
+
+- **Positivist Criminology**: 
+  - A deterministic approach viewing offenders as influenced by uncontrollable biological, psychological, or sociological forces.
+  - Emphasizes treatment over punishment and requires scientific analysis for explanations of crime.
+
+- **Psychological Positivism**:
+  - Examines internal factors like neurological disorders and personality disturbances of the offender.
+  - Includes studies of individual characteristics such as reasoning, thought processes, and intelligence.
+
+### REFERENCES
+
+- Akers, R.L. (2013); Burke, R.H. (2013, 2005); Cornish, D. & Clarke, R. (1985, 2013, 2014); Cote, S. (2002); Felson, M. & Cohen, L.E. (1978, 2000); Franklin et al. (2012); Lily et al. (2018); McLaughlin, E. (2006); Newburn, T. (2007); Siegel, L. (2004); Tillyer & Eck (2011); Vold et al. (2002); Wortley, R. (2013).  
+
+---
+
+This is a structured summary of CMY3701/1 that retains the essential points while reducing the content by approximately 50%, preserving the integrity of the original notes.
+----- END OF CHUNK -----
+# CMY3701/1
+
+## STUDY UNIT 2.1: The positivist school: the offender as predestined actor
+
+### 2.1.3 THE POSITIVIST SCHOOL OF THOUGHT
+- Late 19th century origins; Italian scientists.
+- Focus on measurable interactions and social processes.
+- Emphasis on scientific treatment vs. punishment of offenders (Reid, 2018; Siegel, 2018).
+- Key figures: **Cesare Lombroso** (1835–1909), **Raffaele Garofalo** (1852–1934).
+- Emerged in opposition to classical school's harsh views; addressed causes of criminal behavior (Hunter & Dantzker, 2002).
+- Classical school: Free will, punishment to deter crime; limited effectiveness in addressing crime.
+- Changes post-Industrial Revolution; questioning traditional knowledge sources (Glick 2005).
+- **Positivists** reject legalism, favor determinism; focus on constitutional aspects influencing behavior (Reid, 2018).
+- Advocated individual, scientific treatment based on physical/social sciences (Reid 2018).
+- Shift from speculative philosophy to factual, scientific study of human behavior (Glick, 2005).
+- **Auguste Comte** (1798–1857): Founder of sociology; emphasized external/internal forces in human behavior.
+- Advocated empirical study of crime origins (Frampton, 2013).
+- Positivism views behavior as influenced by external social forces and internal capabilities.
+
+### 2.1.4 ASSUMPTIONS OF THE POSITIVIST SCHOOL OF THOUGHT
+- Character and personal backgrounds explain criminal behavior, focusing on offender characteristics.
+- Scientific determinism exists; crime determined by prior causes, rejecting free will.
+- Offender fundamentally different from non-offender; identified factors influencing criminality.
+- Role of experts (psychologists, social workers) in diagnosing conditions leading to criminality.
+- Individualized treatment necessary; arguments for indeterminate sentences based on offender assessment.
+
+### 2.1.5 EVALUATION OF THE POSITIVIST SCHOOL
+- Contributed to scientific study of criminal behavior; emphasized empirical research and determinism.
+- Suggests individuals lack free will/control (Joyce, 2006); implies passive behavior impacted by biology/environment (Moyer, 2001).
+- Criticism: Neglects human rationality and choice; focuses on treatment over individual responsibility (Newburn, 2007).
+- Methodological flaws: non-select samples, limited follow-up studies, unclearly defined concepts (Reid, 2006).
+- Positivism shaped contemporary criminology; recognized need to study individual and societal crime causes (Cote, 2002).
+
+### 2.1.6 CONCLUSION
+- Emergence of positivism addresses deficiencies in classical approaches to crime control.
+- Positivism emphasizes individual and social factors in criminality.
+- Rejects free will; views crime causation as complex, incorporating societal factors.
+- Three formulations of predestined actor model: biological, sociological, psychological positivism.
+
+### 2.1.7 SELF-ASSESSMENT QUESTIONS
+- Not included as per instruction.
+
+### 2.1.8 SELF-ASSESSMENT ANSWERS
+- Not included as per instruction.
+
+### 2.1.9 PARAGRAPH QUESTION ANSWERS
+- Refer to paragraphs 2.1.4, 2.1.3, and 2.1.5 for answers on assumptions and evaluation of positivism.
+----- END OF CHUNK -----
+# CMY3701/1  
+## STUDY UNIT 2.1: The positivist school: the offender as predestined actor  
+### 2.1.10 REFERENCES  
+- Anderson, JF et al. (2007). Criminal justice and criminology: terms, concepts, and cases.  
+- Bartollas, C. (2006). Juvenile delinquency.  
+- Burke, R.H. (2005). An introduction to criminological theory.  
+- Cassel, E & Bernstein, DA. (2007). Criminal behaviour.  
+- Coleman, C & Norris, C. (2000). Introducing criminology.  
+- Cote, S. (2002). Criminological theories: bridging the past to the future.  
+- Glick, L. (2005). Criminology.  
+- Howitt, D. (2002). Forensic and criminal psychology.  
+- Hunter, R.D. & Dantzker, M.L. (2002). Crime and criminality: causes and consequences.  
+- Joyce, P. (2006). Criminal justice: an introduction to crime and the criminal justice system.  
+- Moyer, IL. (2001). Criminological theories: traditional and non-traditional voices and themes.  
+- Newburn, T. (2007). Criminology.  
+- Reid, S.T. (2003, 2006, 2018). Crime and criminology.  
+- Siegel, L J. (2004). Theories, patterns & typologies.  
+- Tierney, J. (2006). Criminology: theory and context.  
+- White, R & Haines, F. (2004). Crime and criminology: an introduction.  
+
+## STUDY UNIT 2.2: Biological positivism  
+### Learning Outcomes  
+- Explain foundation of biological positivist theory.  
+- Discuss Eysenck’s biosocial theory of crime.  
+- Discuss biochemical causes of abnormal behaviour.  
+- Explain relationship between genetics and criminal behaviour.  
+- Identify critical factors relating to biosocial theory of criminality.  
+### Time Required  
+- Approximately five hours.
+
+### 2.2.1 INTRODUCTION  
+- Focus on biological positivism as resurgence in studying biology and psychology’s relationship to criminal behaviour.
+- Biological positivism’s foundations lie in Lombroso, Ferri, and Garofalo's work; posits that criminality has a biological basis.
+
+### 2.2.2 DEFINITIONS OF KEY CONCEPTS AND TERMS  
+- **Adoption studies**: Study children's behaviour in relation to biological and adoptive parents; results inconclusive.  
+- **Biological positivism**: Claims crime is due to physical aspects beyond individual control (Burke, 2005:281).  
+- **Biosocial theories**: Examines interactions of biology, behaviour, and environment to explain criminality (Akers & Sellers, 2013:11).  
+- **IQ (Intelligence Quotient)**: Measures cognitive abilities relative to peers.  
+- **Genetic factors**: Heritability of traits and behaviours across generations (Winfree, Jr & Abadinsky, 2017:42).  
+- **Personality**: Descriptive of consistent emotional and temperamental attributes influencing behaviour (Jones, 2001:398).  
+
+### 2.2.3 EARLY THEORIES OF BIOLOGICAL POSITIVISM  
+- Two periods identified:  
+  - **First Period**: Nature vs. nurture debate; behaviour as a product of genetics.  
+  - **Second Period (sociobiology)**: Interaction of biology and environment acknowledged.  
+- Early biological theories focused on physical attributes, associating criminality with biological inferiority; **Franz Joseph and Lombroso** focused on physical traits and their behavioral implications.
+
+### 2.2.4 LOMBROSO AND THE POSITIVISTS  
+- **Lombroso’s Theory**: Proposed "born criminals" identifiable by physical stigmata (e.g., lower jaw, nose shape).  
+- Criminals as genetic throwbacks, indicating evolutionarily inferior qualities.  
+- Introduced concepts of **“born criminals,” criminaloids**, and recognized environmental factors alongside biology.  
+- Contributions included a shift in focus towards individual offenders and advocacy for scientific methodology in criminal studies.   
+- Continued by **Ferri and Garofalo**:  
+  - **Ferri**: Three categories of criminals—born bad, insane, or circumstantially motivated; incorporated socio-environmental factors.  
+  - **Garofalo**: Emphasized scientific methodology; defined criminals as developmentally deficient regarding social concern.  
+
+---
+
+*Note: Diagrams referenced in the unit are not included here.*
+----- END OF CHUNK -----
+# CMY3701/1  
+## STUDY UNIT 2.2: Biological Positivism
+
+### 2.2.4.1 Physique and Crime
+- **William H. Sheldon**: Proposed body types: 
+  - Ectomorph: Tall, skinny 
+  - Endomorph: Short, fat 
+  - Mesomorph: Athletic 
+- Aimed to link body type with temperament and criminal behavior (Reid, 2018:68).
+- Criticisms:
+  - Sample selection issues in Sheldon's research.
+  - **Glueck Research**: Studied 500 delinquents vs. 500 non-delinquents, concluded links between body type and delinquency.
+  - Critiques focused on:
+    - Not astonishing findings of delinquency and body type correlation.
+    - Limited generalizability from "persistently delinquent" samples.
+    - Vague measurement techniques.
+
+### 2.2.5 Biosocial Theories
+- *Four biosocial theories outlined in Figure 2.2.2*.
+
+#### 2.2.5.1 Eysenck's Biosocial Theory of Crime
+- **Hans Eysenck**: Believed genetics and environment interact to shape human behavior (Healey, 2012:6).
+- Biosocial theories assert:
+  - Biological factors increase likelihood of criminal actions without determining them (Glick, 2005:88).
+  - Emphasize interaction of biological and social environments.
+
+#### 2.2.5.1.1 Recent Interest in Biological Theories
+- Distinguishing features of recent biosocial theorists:
+  - Focus on a broad array of biological factors (e.g., genetics, toxins).
+  - Stance that biology influences, but does not dictate, behaviour (Cote, 2002:36).
+  - Recognition of social environment’s role in behaviour development.
+
+#### 2.2.5.1.2 Biosocial Theory Principles (Siegel, 2004:141)
+- Genetic makeup significantly influences behavior.
+- Unequal potential among humans for learning and achievement.
+- Individual uniqueness (exceptions being identical twins).
+- Combination of genetics and environment shapes behavior patterns.
+- Categories: Genetic, Biochemical, Neurophysiological.
+- Importance of understanding genetic and environmental interplay (Glick, 2005:88).
+
+### 2.2.5.2 Genetic Factors
+- Criminality considered hereditary like physical traits (Burke, 2005:8).
+- **Sources of Evidence**:
+  - Family studies.
+  - Twin studies.
+  - Adoption studies.
+- Critiques of early methodology questioned rigor of findings (Reid, 2018:69).
+
+#### 2.2.5.2.1 Studies of Families
+- Antisocial behavior clusters in families; indicating familial and hereditary risks.
+- **West and Farrington’s Study**: 
+  - Longitudinal study highlighted father's criminality linked to child offending (Siegel, 2004:148).
+- Early familial studies spark ethical concerns, leading to sterilization laws for perceived genetic risks (Reid, 2018:69).
+
+#### 2.2.5.2.2 Studies of Twins
+- Focus on genetic influence through identical vs. fraternal twin studies (Glick, 2005:90).
+- Key Findings:
+  - Identical twins show higher likelihood of shared criminality (Christiansen, 1968).
+  - Environmental experiences may confound genetic findings (Vold et al., 2002:41).
+  - Quantitative studies document significant environmental effects on antisocial behavior (Reid, 2018:70).
+
+#### 2.2.5.2.3 Studies of Adoptees
+- Adoption studies focus on antisocial behavior in adoptees raised in non-criminal environments.
+- **Rhee and Waldman’s Analysis**: Genetics show stronger influence on antisocial behavior, but environmental factors remain significant (Morley & Hall, 2003:3).
+
+### 2.2.5.3 Biochemical Influences on Behavior
+- Bio-criminologists examine biochemical factors (nutrition, hormones, environmental toxins) in relation to criminal behavior.
+- Focus on potential impacts of diet and contaminants illustrated in *Figure 2.2.3*.
+----- END OF CHUNK -----
+# CMY3701/1
+
+## STUDY UNIT 2.2: Biological Positivism
+
+### 2.2.5.3.1 Dietary Factors
+- Historical context: Connection between diet and antisocial behavior since the 19th century.
+- Recent research indicates biochemical imbalances from poor nutrition can influence behavior, comparable to environmental factors (poverty, abuse).
+- **Bio-criminology**: Minimum levels of vitamins/minerals essential for brain function. Deficiencies correlate with cognitive and behavioral issues.
+- Studies link:
+  - Low blood sugar (hypoglycemia) to emotional instability and violence (Williams, 2004).
+  - Food allergies/additives to attention deficit hyperactivity disorder (ADHD).
+  - High lead exposure to lower IQ and aggression (Siegel, 2004).
+- **Research Findings**:
+  - Aggressive individuals often display below-average social skills (Bartol & Bartol, 2005).
+  - Dietary influences noted in prison populations.
+  - Common subjects: sugar, cholesterol, lead toxicity (Vold et al, 2002).
+
+### 2.2.5.4 Neurophysiological Factors
+- Links between neurological dysfunction and criminal behavior.
+- Areas of research focus: cerebral cortex (frontal and temporal lobes).
+- **Minimum Brain Dysfunction (MBD)**: Linked to impulsive behavior and learning problems.
+- Studies indicate high prevalence of brain dysfunction among offenders (Hunter & Dantzker, 2002).
+
+#### 2.2.5.4.1 Hyperactivity and Attention Deficit Disorders
+- **ADHD**: Associated with delinquency and conduct problems (Hunter & Dantzker, 2002).
+- Longitudinal studies reveal ADHD and conduct problems correlate with later criminality (Farrington et al, 1990; Williams, 2004).
+- Key symptoms: inattention, impulsivity, excessive motor activity (Bartol & Bartol, 2005).
+- Exposure to environmental toxins linked to ADHD (Vold et al, 2002).
+
+#### 2.2.5.4.2 IQ and Criminal Behavior
+- Low IQ historically linked to delinquency, though recent research shows minimal differences between criminals and non-criminals (Vold et al, 2002).
+- Studies show serious offenders exhibit lower IQ scores than minor offenders.
+- Environmental factors (nutrition, prenatal care) play critical roles in intelligence.
+
+#### 2.2.5.4.3 Environmental Exposure to Chemicals
+- **Biosocial Perspective**: Interaction of biological and environmental factors influences criminal behavior (Healey, 2012).
+- Substances like lead and copper associated with behavioral disorders.
+- Studies, notably by Deborah Denno (1993), indicate environmental toxins significantly predict delinquency.
+
+### Diagram References
+- Figure 2.2.3: Biochemical factors influencing behavior.
+- Figure 2.2.4: Parts of the Human Brain (neurophysiological aspects).
+
+### Conclusion
+- Biological positivism underscores the complex interplay of biochemical and neurophysiological factors in understanding criminal behavior. While biological factors significantly impact behavior, they exist within broader environmental contexts that influence individual outcomes.
+----- END OF CHUNK -----
+# CMY3701/1  
+### STUDY UNIT 2.2: Biological Positivism  
+
+---
+
+#### 2.2.5.4.4 Hormonal Levels  
+- Research in **neuroendocrinology** links criminal behavior to chemical disparities in the body.  
+- Focus on **hormones** and their relation to crime:  
+  - Many studies on males, but some on females, particularly **PMS** and its relationship with irritability, antisocial, and aggressive behavior.  
+  - **PMS** linked to estrogen and progesterone imbalances, with over 150 symptoms identified (e.g., depression, irritability).  
+  - Evidence suggests a higher percentage of crimes by women occurs around their menstrual cycle, leading to the use of the **“PMS defense.”**  
+  - **Postpartum Depression (PPD)** affects mental health in new mothers, influencing infant development and parenting quality.  
+
+- Studies on **male hormones** (testosterone) indicate:  
+  - Increased testosterone correlates with aggressive behavior and juvenile delinquency.  
+  - Research shows male criminals often have higher testosterone levels (Dabbs and Morris, 1990).  
+  - Causal link between testosterone and aggression remains uncertain.  
+- Critical question raised about the causal relationship between **testosterone and aggression.**  
+
+---
+
+#### 2.2.5.4.5 Personality and Criminal Behavior  
+- **Personality theory** connects entrenched behavioral traits to criminality:  
+  - Individual characteristics can trigger criminal behavior and mental health issues.  
+  - **Eysenck’s theory** posits crime arises from environmental interactions and nervous system traits:  
+    - Proposed **neuroticism, extraversion, psychoticism** as key personality traits related to crime.  
+    - Findings suggest that criminality is influenced by a combination of biological predispositions and social contexts.  
+
+- Eysenck's higher-order factors:  
+  - Four factors identified: “g” (general intelligence), extraversion, neuroticism, psychoticism—core concepts in understanding crime.  
+- Eysenck visualized personality traits along continuums, indicating most individuals fall within intermediate ranges.  
+
+- Summary of conclusions from evidence regarding biology and crime:  
+  - Biological factors have some role in criminal conduct, but impact is generally small, mediated significantly by social or environmental factors.  
+
+---
+
+#### 2.2.6 Conclusion  
+- **Determinism** claims behaviors are shaped by factors outside individual control.  
+- Early biological theories (e.g., **Lombroso**) linked physical traits to criminality; continued by **Goring** and **Dugdale** emphasizing heredity.  
+- Contemporary research includes genetics, environment, nutrition, hormones, and neurophysiological impacts.  
+- Current approaches recognize heritable predispositions and biochemical influences rather than direct physical traits as causes of criminal behavior.  
+
+---  
+
+| **Key Literature** |  
+| ------------------- |  
+| **Lombroso** - First biological theory of criminality.  
+| **Eysenck** - Biosocial theory linking genetics, personality, and environment.  
+| **Reid (2018)** - Connections between hormones, PMS, PPD, and behavior.  
+| **Dabbs and Morris (1990)** - Testosterone levels in male criminals.  
+
+---  
+
+### Diagrams  
+- Reference to **Figure 2.2.5** illustrates Eysenck’s personality factors on continuums.
+
+--- 
+
+### Note  
+- Excluded self-assessment activities and feedback.
+----- END OF CHUNK -----
+# CMY3701/1 
+## STUDY UNIT 2.2: Biological Positivism
+
+- **Twin Studies** 
+- **Neurological Effects**
+- **Environmental Factors**
+- **Adoptees Studies**
+  
+(5) **Eysenck’s Theory**
+- Emphasizes *genetic disposition* towards antisocial and criminal behavior.
+
+(6) **Lombroso’s Belief** 
+- Identifying offenders by biology is possible.
+
+(7) **Biochemical Factors**
+- Role of diet, hormones, and environment in criminal behavior.
+
+## 2.2.8 REFERENCES
+- **Akers, R. L., & Sellers, C. S.** 2013. *Student Guide for Criminological Theories: Introduction, Evaluation, Application*.
+- **Barker, L.A., Tuvblad, C., & Raine, A.** 2010. *Genetics and Crime*.
+- **Bartol, C. & Bartol, A. M.** 2005. *Criminal Behaviour: A Psychosocial Approach*.
+- **Burke, R.H.** 2005. *An Introduction to Criminological Theory*.
+- **Cote, S.** 2002. *Criminological Theories: Bridging the Past to the Future*.
+- **Eysenck, H.J., & Gudjonsson, G.H.** 1989. *The Causes and Cures of Criminality*.
+- **Fishbein, D.** 1990. “Biological perspectives in criminology”.
+- **Rhee, S.H., & Waldman, I.** 2002. “Genetic and environmental influences on antisocial behavior: a meta-analysis”.
+
+---
+
+# 5STUDY UNIT 2.3: Psychological Explanations for Criminal Behaviour (Psychological Positivism)
+
+## 2.3.1 INTRODUCTION
+- Focus on psychological theories explaining crime based on personality attributes.
+- Crime originates in the offender’s personality rather than biology or environment.
+- Dysfunctional emotional adjustment during childhood leads to criminal behavior.
+  
+## 2.3.2 DEFINITIONS OF KEY CONCEPTS
+- **Behavioural Perspective**: Focus on observable behavior and social learning.
+- **Cognitive Approach**: Emphasis on attitudes, beliefs, and internal thought processes.
+- **Pleasure Principle**: Freud’s theory of id-driven motivation pursuing pleasure without consequence.
+- **Psychodynamic Perspective**: Emphasizes unconscious processes shaping behavior.
+- **Social Learning Theory**: Learning occurs through observation and reinforcement.
+
+## 2.3.3 PSYCHODYNAMIC OR PSYCHOANALYTIC PERSPECTIVE
+- Founded by **Sigmund Freud**; emphasizes inner self development.
+- Criminal motivation rooted in psychodynamic structure.
+- Aggressive impulses must be managed to prevent violent crime.
+- All human behavior is deliberate; unconscious influences are significant.
+  
+### 2.3.3.1 Freud’s Personality Theory
+- Personality divided into three parts: *id, ego,* and *superego*.
+- Constant conflict between these parts influences behavior (Diagram Reference: Fig. 2.3.2).
+
+--- 
+
+**Note:** Remove activities and feedback sections, retaining only content relevant to theory, principles, and concepts per request.
+----- END OF CHUNK -----
+# CMY3701/1
+## STUDY UNIT 2.3: Psychological explanations for criminal behaviour (psychological positivism)
+
+### 2.3.1 Freud’s Id, Ego, and Superego
+- **Id**: Represents primitive impulses and drives, seeking pleasure without morality or concern for others. Uncontrolled libido linked to deviant behaviours. 
+- **Ego**: The conscious and rational segment that mediates between id impulses and the superego's demands, operates on the reality principle. 
+- **Superego**: Represents social conscience and morality. Emerges from internalizing parental and societal values, leading to self-criticism and moral judgment.
+
+### 2.3.2 Explanation of Criminal Behaviour
+- **Conflict**: Unresolved childhood conflicts may lead to future problem behaviour; these conflicts are often kept unconscious via defense mechanisms.
+- **Defense Mechanisms**: Can prevent anxiety and guilt, but overreliance may lead to issues like interpersonal conflict or mental disorders. 
+  - Examples include **displacement** and **sublimation** as responses to guilt.
+- **Freud's View on Criminals**: Criminals may unconsciously desire punishment due to guilt, and an overdeveloped superego can result in aggressive energy being expressed violently.
+
+### 2.3.3 Evaluation of the Psychoanalytic Perspective on Criminal Behaviour
+- Criticisms include lack of testability and reliance on interpretative case studies post-behaviour occurrence.
+- Few modern psychologists utilize Freudian concepts due to their weak empirical support, though early life experiences are noted for their impact on delinquency.
+
+### 2.3.4 BEHAVIOURAL PERSPECTIVE
+- Originating in the 1800s; highlighted by B.F. Skinner's work.
+- Focus on observable behaviour rather than unconscious drives, with behaviours shaped by learning experiences and social interactions.
+
+#### 2.3.4.1 Classical Conditioning
+- **Definition**: Involves learning through stimulus pairing; automatic responses to stimuli develop.
+- **Example**: Pavlov’s dogs salivating in response to a bell due to conditioning.
+- Minimal relevance to crime since punishment does not immediately follow criminal acts.
+
+#### 2.3.4.2 Operant Conditioning
+- **Definition**: Involves behaviour modification through reinforcement (increased behaviour) or punishment (decreased behaviour).
+- **Key Elements**: Antecedent conditions, behaviour itself, and consequences must be considered.
+- Behaviour shaping occurs via rewards or punishments, emphasizing the interaction between individual and environment.
+
+#### 2.3.4.3 Social Learning Theory
+- Variations include expectancy theory, imitation, and modeling.
+- **Proponents**: Albert Bandura.
+- Key Principle: Aggressive behaviour is learned through observation and imitation of role models in the environment.
+
+### Table Illustrating Theories
+- Overview of proponents of psychoanalytic and behavioral theories, summarizing their respective premises related to crime and criminal behaviour. 
+
+### References
+- **Legislation & Cases**: Relevant case references included in the original text. 
+
+### Diagrams
+- Reference figures in original text (e.g., Freud's model); indicate where figures should be integrated for the visual representation of concepts.
+----- END OF CHUNK -----
+# CMY3701/1  
+## STUDY UNIT 2.3: Psychological explanations for criminal behaviour (psychological positivism)
+
+### 2.3.2 Explanations of Criminal Behaviour
+- **Psychological Positivism**: Focuses on understanding behavioral patterns leading to crime.
+- **Theories**: Assess efficacy in forecasting criminal behavior and adapt over time to social changes.
+
+#### Psychological Theories Comparison (Table 2.2)
+- **Sigmund Freud**: Criminal behavior results from an overdeveloped ego.
+- **August Aichorn**: Criminality stems from an underdeveloped superego.
+- **Albert Bandura**: Aggressive behavior learned through social experiences and modeling.
+
+### 2.3.3 Key Components of Learning Theories
+- **Social Learning Theory**: 
+  - Behavior reinforced through observation and modeling.
+  - **Types of Consequences**:
+    1. **External Reinforcement**: Rewards or punishments affecting social status.
+    2. **Vicarious Reinforcement**: Outcomes observed in others.
+    3. **Self-Regulatory Mechanisms**: Internal responses affecting one's behavior.
+- **Influential Factors**: Family, subculture, and media exposure influence aggressiveness.
+
+#### Contributing Factors to Violence
+- **Arousal Events**: Provocation or frustration increases likelihood of aggressive responses.
+- **Aggressive Skills**: Exposure to aggressive models triggers learned responses.
+- **Expected Outcomes**: Belief that aggression leads to rewards reinforce behavior.
+- **Consistency with Values**: Observed behavior legitimizes aggression as justified.
+
+### 2.3.5 Cognitive Theories and Crime
+- **Cognitive Development Theory**: Focuses on moral reasoning as a determinant of legal vs. illegal actions.
+- **Jean Piaget**: Development of moral reasoning occurs in stages regarding rules.
+- **Kohlberg’s Moral Development Theory**: Identifies stages of moral reasoning impacting criminal behavior.
+
+#### Kohlberg’s Stages of Moral Development
+1. **Preconventional**: Decisions based on fear of punishment.
+2. **Conventional**: Decisions based on social approval and conformity.
+3. **Postconventional**: Ethical principles guide judgments beyond social rules.
+
+### 2.3.6 Evaluation of Cognitive Theories and Crime
+- **Application of Kohlberg’s Theory**: 
+  - Lower stages of moral reasoning found in juvenile offenders vs. non-offenders.
+  - Adult offenders operate at lower levels compared to peers without offense history.
+
+### 2.3.7 Conclusion
+- **Psychoanalytic Theories**: Freud and Aichorn emphasize the ego and superego's roles in criminality.
+- **Behavioral Theories**: Focus on learning as a transformative process influenced by social factors and conditions.
+- **Key Contributions**: 
+  - **Bandura**: Violence is learned.
+  - **Kohlberg**: Moral reasoning evolves; impacts legal adherence and criminal activity.
+- **Behavior Conditioning**: Influenced by environmental stimuli and reinforcement.
+
+### 2.3.8 Key Concepts
+- **Freud's Superego**: Role of guilt in criminal behavior.
+- **Bandura's Social Learning**: Imitation of aggressive behavior.
+- **Kohlberg's Moral Reasoning**: Stages of ethical development affecting law compliance.
+
+----- END OF CHUNK -----
+**CMY3701/1**  
+**STUDY UNIT 2.3: Psychological explanations for criminal behaviour (psychological positivism)**  
+
+- Theories of criminal behaviour:  
+  - Focus on psyche development in infancy.  
+  - **Types of theories:**  
+    - (1) Psychodynamic  
+    - (2) Learning  
+    - (3) Differential association  
+    - (4) Modelling  
+
+- Aggressiveness and violent behaviour:  
+  - **Proponent:** (2) Albert Bandura asserts that individuals learn through life experiences and socialization.
+
+- Law obedience and crime:  
+  - **Theory suggesting commitment of crime due to punishment avoidance:** (3) Moral development.
+
+- Differences: Classical vs. Operant Conditioning  
+  - Difference lies in reinforcement types and motivations.
+
+- Freud’s psychoanalytic approach to crime.  
+  - **Key concepts:** Examines unconscious motives, repressed desires manifesting in criminal behaviour.
+
+---
+
+**STUDY UNIT 3.1: Structure theories**  
+
+**3.1.1 INTRODUCTION**  
+- **Sociological positivism:** Crime as socially constructed yet threatens societal continuity.  
+- Belief: Individual shaped by environment; social disadvantages lead to higher crime rates.  
+- **Regulatory focus:** Need for societal change over individual blame; crime as a product of social structure.
+
+**3.1.2 DEFINITIONS OF KEY CONCEPTS**  
+- **Social structure:** Organization by institutions (family, education, etc.) and stratification.  
+- **Social structure theory:** Disadvantaged economic status as a primary crime cause.  
+- **Strain:** Emotional turmoil due to blocked goals; exacerbated for lower-class individuals.  
+- **Strain theorists:** Examine lower-class frustration leading to crime.  
+- **Strain theory:** Pressure from social structure induces nonconformity.
+
+**3.1.3 STRUCTURE THEORIES: PREMISES**  
+- **Foundational beliefs:**  
+  - Crime results from social structure defects.  
+  - Macro-theories explore crime incidence among disadvantaged groups.  
+  - **Linkage:** Socioeconomic status correlates with crime likelihood.  
+  - Structural issues (poverty, unemployment, etc.) as root causes of crime.  
+  - Focus on group crime rates versus individual crime motives.  
+  - Trust in social consensus around laws; need for systemic rectification.
+
+**3.1.4 STRUCTURE THEORIES: BRANCHES**  
+- Three branches of structure theories:  
+  - Social Disorganization (Ecological Theory)  
+  - Strain Theory (Anomie Theory)  
+  - Cultural Deviance Theory  
+- **Visual Reference:** Diagrams outlining theory branches.
+
+**3.1.4.1 Social disorganisation (ecological theory)**  
+- Focus on ecological conditions (poverty, disorganization) affecting crime rates.  
+- Emphasizes breakdown of institutions in inner-city environments.  
+- Proposes community as a causal factor for individual criminal behaviour.  
+- **Key influence examined:** How socio-ecological characteristics relate to crime rates.
+----- END OF CHUNK -----
+# CMY3701/1
+## STUDY UNIT 3.1: Structure theories
+
+### 3.1.1 Structure Theories Overview
+- Central variables: **poverty**, **mobility of residents**, **racial heterogeneity**.
+- Crime rates rise in **transient, mixed-use neighborhoods**.
+- Social disorganization leads to feelings of **helplessness**.
+  
+### 3.1.2 Social Disorganization Theory
+- Crime correlates with **urban decay** and **high turnover** of residents.
+- Lack of essential services erodes social control; formal (law enforcement) and informal (community, family) mechanisms decline.
+- **Key references**: **Siegel (2019)**, linking social disorganization to criminal behavior.
+
+### 3.1.3 Strain Theory
+- Views crime as a conflict between **goals and means** (Siegal, 2019:177).
+- Lower socioeconomic class experiences **anger** and **frustration** from failure to achieve success.
+- Strain leads individuals to **deviate** from societal norms when legitimate means are blocked.
+- Focus on **focal concerns** and cultural expectations differing from middle-class norms, contributing to crime.
+- **Key references**: **Brown et al. (2015)**; the frustrations and distortions in lower-class aspirations lead to illegitimate means for goal attainment. 
+
+### 3.1.4 Cultural Deviance Theory
+- Merges elements from social disorganization and strain theories.
+- Low socioeconomic neighborhoods develop **sub-cultures** with distinct value systems reacting to social isolation and deprivation (Siegel, 2019:192).
+- Norms within low socioeconomic groups prioritize **risk-taking** and **immediate gratification** over middle-class values.
+- Cultural transmission perpetuates these norms across generations.
+
+### 3.1.5 Summary and Conclusion
+- **Social structure theories** focus on the societal forces driving crime, emphasizing external factors over individual attributes.
+- The **ecological theory** identifies deviant places influencing criminality, while **social disorganization** demonstrates the consequences of community instability on crime rates.
+- **Strain theories** highlight societal pressures causing frustration leading to crime.
+- Common assumptions shared by social disorganization, strain, and cultural deviance theories:
+  - Dominance of **social factors** (poverty, inequality) in criminal behavior.
+  - Disorganization stemming from societal structures leading to crime.
+
+### 3.1.6 Key Takeaways
+- Crime viewed through structural lenses highlights the role of socioeconomic **disparities** and community conditions.
+- Strain and disorganization theories posit that grievances and frustrations rooted in social contexts trigger criminal behavior.
+
+### 3.1.7 Diagram References
+- Refer to **diagrams** illustrating the relationship between social disorganization and crime, identifying key concepts and correlations within lower socioeconomic contexts.
+
+### Important Legislation and Case References:
+- Be familiar with the **legal implications** of crime in relation to socioeconomic factors and community conditions as discussed in the theories.
+
+---
+
+**Note**: Remove all self-assessment questions and activities to maintain focus on theorists and theories. Ensure comprehension of foundational concepts for further exploration into sociology of crime.
+----- END OF CHUNK -----
+# CMY3701/1
+
+## 7 STUDY UNIT 3.2
+### Social disorganisation theory
+
+#### 3.2.1 INTRODUCTION
+- Cartographic schools in the 19th century (Adolphe Quetelet, AM Guerry).
+- Focus on mapping crime patterns and socio-economic relations.
+- Chicago School's research on social structure and cultural forms in urban areas.
+- Concept of social disorganisation reflects urban conditions affecting crime rates, influenced by migration, industrialisation, urbanisation.
+
+#### 3.2.2 DEFINITION OF KEY CONCEPTS
+- **Social Disorganisation:** Breakdown of informal community rules in poor neighborhoods (Walsh & Hemmens, 2008:23).
+- **Social Disorganisation Theory:** Focuses on institutional breakdown (family, school) and high unemployment (Siegel, 2004:42; Bartollas, 2006:543).
+  
+##### 3.2.2.1 Social Organisation
+- Refers to behavior guided by uniform norms; related to collective efficacy (Lamb, 2019:369).
+- Social cohesion facilitates mutual support and resource sharing for communal goals (Lamb, 2019:369).
+  
+##### 3.2.2.2 Social Disorganisation
+- Defines community structure's failure to maintain common values and social control (Krohn et al., 2019:199).
+- Macro-social forces (migration, segregation) interact with local factors (poverty, family disruption).
+- Key variables: poverty, residential mobility, racial heterogeneity (Jones, 2001:129).
+- High mobility disrupts community ties, leading to crime; cultural transmission perpetuates delinquency (Jones, 2001:129).
+- Poor communities experience isolation and have reduced crime prevention capacities (Lamb, 2019).
+
+#### 3.2.3 THE CHICAGO SCHOOL OF SOCIOLOGY
+- Developed sociological explanations for crime relative to neighborhood environments (Bellaire, 2017:4; Burke, 2014).
+- Crime explained as a social phenomenon, linked to social disorganisation rather than individual characteristics.
+- Emphasized the role of a neighborhood's social life rather than individual pathology.
+
+##### Assumptions of the Chicago School (Tierney, 2013:96)
+- Crime linked to societal factors, not individual biology/psychology.
+- Weakened family/community bonds correlate with high crime.
+- Criminal behavior viewed as normative under pathological conditions.
+- Advocated for government intervention to restore social organisation.
+
+##### Theoretical Background
+- Robert Park's human ecology theory (1921): Urban areas shaped by human interactions.
+- Ernest Burgess (1928): Concentric Zone Theory details urban spatial distribution.
+- Burgess's "zone in transition" identified as high crime area; social disorganisation leads to weakened ties.
+
+#### 3.2.4 SOCIAL DISORGANISATION THEORY
+- Shaw and McKay's statistical testing (1942) linked crime to disorganised areas (Krohn et al., 2019:198).
+- Findings established crime concentration in specific neighborhoods through spatial mapping.
+- High delinquency in the zone in transition despite changing populations; crime is a product of neighborhood dynamics rather than individual belief (Tibbetts, 2019:294).
+
+##### Key Findings (Shaw and McKay):
+- Communities exist on a continuum of organisation; organised communities exhibit lower crime rates.
+- Organised communities have shared norms and cohesion, aiding crime prevention.
+- Disorganised communities face challenges in problem-solving and exhibit higher crime rates.
+- High residential mobility disrupts community ties, bolstering crime rates.
+----- END OF CHUNK -----
+# CMY3701/1
+## STUDY UNIT 3.2: Social Disorganisation Theory
+
+### 3.2.1 Key Principles
+- Social disorganisation theory attributes high crime rates to **weak social ties** and **lack of informal control** within communities.
+- Delinquent concentration remains stable over time despite changing populations, particularly prevalent in **immigrant neighborhoods**.
+- The theory emphasizes neighbourhood conditions rather than individual resident characteristics.
+
+### 3.2.2 Community Characteristics 
+- **Poverty, mobility, and diversity** contribute indirectly to criminal behavior by increasing social disorganisation.
+- Social disorganisation is identified as the **primary cause** of crime in neighborhoods.
+
+### 3.2.3 Shaw and McKay's Conclusion
+- Delinquency arises from **sociological factors**, rejecting earlier theories that emphasized individual pathology or ethnic traits.
+- They assert delinquent behavior is culturally transmitted within **disorganised neighborhoods**, often established through peer interactions.
+
+### 3.2.4 Impact of the Chicago School
+- Dominated urban crime studies from 1920s to 1960s (McLaughlin, 2006:185). 
+- Ecological models influenced research on spatial crime distribution.
+
+### 3.2.5 Contemporary Spatial Approaches (McLaughlin, 2006:186)
+- **Spatial distribution** of crime and criminogenic localities.
+- **Risk of crime victimisation** across different areas and populations.
+- **Fear of crime** and public perception regarding crime locations.
+- **Movement of specific crimes**, like drugs and prostitution, across localities.
+
+### 3.2.6 Evaluation of the Chicago School
+- **Critiques**: 
+  - Reliance on crime statistics leads to focus on **lower classes**, neglecting crimes by higher social categories (Joyce, 2013:15).
+  - Assumed stronger social bonds in rural areas and natural social processes in urban growth (Joyce, 2013:16).
+  - Inconsistent measurements in community studies (Bellaire, 2017:13).
+  
+- Despite critiques, Chicago School shifted focus from individuals to environmental influences, emphasized **community reform** to combat delinquency (Joyce, 2013:15; Burke, 2005:99).
+
+### 3.2.7 Summary and Conclusion
+- Shaw and McKay mapped **juvenile delinquency** distribution within Chicago, linking higher crime in less affluent neighborhoods.
+- Emphasized the role of **neighbourhood organisation** in preventing delinquency, observing that social disorganisation leads to lack of supervision for youths.
+- As social institutions deteriorate, individuals become more susceptible to **criminal influences**.
+- Calls for delinquency prevention to focus on **community reform** over individual treatment. 
+
+### 3.2.8 Links to Social Policy
+- Ideas influenced community crime prevention projects advocating for cultural learning and **positive reinforcement** for young offenders.
+
+### 3.2.9 Key Signs of Social Disorganisation
+- Shift to **rented/multiple occupancy** homes.
+- Increased **household turnover**.
+- Rise in **unemployment** and **vacant properties**.
+- Visual signs of **disorder**: broken windows, graffiti, drug use, and prostitution.
+
+---
+
+**Legislation and Cases Highlighted**:  
+- **Burgess’ model** on urban sociology in the context of criminology.
+- **Studies by Shaw and McKay** forming a basis for future research and crime prevention policies.
+
+----- END OF CHUNK -----
+# CMY3701/1  
+## STUDY UNIT 3.2: Social Disorganisation Theory
+
+### References
+- Belliar, P. (2017). *Social disorganization Theory.* [Online] Available: https://oxfordre.com/criminology/view/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-253?print=pdf [Accessed: 20 Sept 2020].
+- Burke, R.H. (2014). *An introduction to criminological theory.* 4th ed. Routledge: NY.
+- Dağlar, M. & Argun. (2016). Crime mapping in crime analysis. *Int. J. Human Sciences.* [Online] Available: https://j-humansciences.com/ojs/index.php/IJHS/article/view/3736/1784 [Accessed: 28 Sept 2020].
+- Joyce, P. (2016). *Criminal Justice: An introduction.* Routledge, NY.
+- Krohn, M.D., et al. (2019). *Handbook of Crime and Deviance.* Springer, Switzerland.
+- Lamb, G. (2019). Social cohesion and violence in South Africa. *Crime, Law and social Change,* 72:365–385.
+- Pijper, L., et al. (2020). Neighbourhood-level resilience to crime: the case of Khayelitsha, South Africa. *South African Geographical Journal.* [Online] Available: https://www.tandfonline.com/doi/pdf/10.1080/03736245.2020.1807398?needAccess=true [Accessed: 28 Sept 2020].
+- Piscitelli, A. (2019). Spatial regression of juvenile delinquency: Revisiting Shaw and McKay. *Int. J. Criminal Justice Sciences,* 14(2), 132–147.
+- Tibbetts, S.G. (2019). *Criminological theory: the essentials.* SAGE: Thousand Oaks.
+- Tierney, J. (2013). *Criminology theory and context.* Routledge, NY.
+
+---
+
+## STUDY UNIT 3.3: Anomie and Strain
+
+### 3.3.1 Introduction
+- Merton’s strain theory, derived from Durkheim’s concept of *anomie*.
+- *Anomie* refers to normlessness leading to social malaise when control over individual needs wanes.
+
+### 3.3.2 Definitions of Key Concepts
+- **Anomie:** Normative deregulation; lack of societal rules (Walsh & Hemmens, 2008).
+- **Anomie Theories:** 
+  - **Durkheim's view:** Normlessness occurs in rapid change.
+  - **Merton's view:** Individuals pursue illegitimate means for socially desired ends (Burke, 2005).
+- **Mechanical Solidarity:** Exists in pre-industrial societies; strong common values (Walsh & Hemmens, 2008).
+- **Modes of Adaptation:** Merton's classifications (conformity, ritualism, innovation, retreatism, rebellion).
+- **Organic Solidarity:** Modern societies with specialization and weakened norms (Walsh & Hemmens, 2008).
+
+### 3.3.3 Durkheim’s View on Crime
+- Shift from individual to socio-cultural explanations of crime.
+- **Key Assertions:**
+  - Crime is normal in societies.
+  - Crime serves a functional role.
+
+#### (a) Crime as a Normal Phenomenon
+- Diversity in societal values leads to normative breaches (e.g., drug abuse).
+- Identifying norm violators fosters community bonding (Tibbetts, 2019).
+- Crime helps validate societal norms and boundaries of behavior.
+
+#### (b) Crime is Functional
+- Crime drives social change by challenging norms.
+- Acts as an adaptive and boundary maintenance function:
+  - **Adaptive:** Introduces new ideas.
+  - **Boundary Maintenance:** Reinforces societal norms through collective responses (Tibbetts, 2019).
+
+### 3.3.2.1 The Concept of Anomie
+- *Anomie* indicates a disintegration of norms leading to increased crime (Krohn et al., 2019).
+- Transition from mechanical to organic solidarity results in weakened common values.
+
+### 3.3.2.2 Merton’s Theory of Anomie
+- Developed in 1938; offers a lens on crime rooted in inequality of opportunity.
+- Moves beyond Durkheim's broad societal focus to emphasize deprivation and opportunity gaps (Tibbetts, 2019).
+----- END OF CHUNK -----
+# CMY3701/1  
+## STUDY UNIT 3.3: Anomie and Strain  
+
+### 3.3.1 Introduction  
+- **Merton's Argument**: Social conditions exert uneven pressure on different classes, leading some individuals to commit crimes due to environmental influences (Fattah, 1997:237).  
+- **Nature of People**: People are inherently good; deviations from norms reflect social environment failure (Cullen & Wilcox, 2010:613).  
+- **Anomie**: Breakdown in cultural beliefs (e.g., American Dream) leading to normlessness.  
+
+### 3.3.2 Merton's Theory  
+- **Legitimate Means**: Society remains non-anomic when all members use legitimate means for advancement.  
+- **Strain Theory**: Pressure to achieve desires leads to various personality adaptations resulting from the strain between desires and available means (Chamberlain, 2015:80).  
+
+### 3.3.3 Assumptions of Merton’s Theory  
+- **Cultural Goals vs. Institutional Means**:  
+  - Cultural Goals = Values society aims to achieve (e.g., wealth, status).  
+  - Institutional Means = Resources and methods to achieve these goals (Triplett, 2018:143).  
+- **Imbalance**: Greater emphasis on success than means leads to anomie (Siegel & Senna, 2000:145).  
+
+### 3.3.4 Patterns of Crime  
+- **Lower-Class Crime Rates**: Higher crime incidence among lower classes due to restricted access to legitimate means; results in strain and use of illegal means (Siegel, 2018:196–197).  
+
+#### 3.3.4.1 Crime as a Lower-Class Phenomenon  
+- Lower classes seek wealth like higher classes but lack legal opportunities, resulting in anomic strain and illegal means of income.  
+
+#### 3.3.4.2 Reactions to Anomie  
+- **Conformity**: Acceptance of both goals and means; largest group, maintaining societal stability (Cullen & Wilcox, 2010:17).  
+- **Innovation**: Deviant pursuit of goals by using any means, often illegal (Cullen & Wilcox, 2010:17).  
+- **Ritualism**: Acceptance of means but rejection of goals; no ambition for improvement, merely following rules (Cullen & Wilcox, 2010:17).  
+- **Retreatism**: Rejection of both goals and means, leading to withdrawal from societal norms (Cullen & Wilcox, 2010:17).  
+- **Rebellion**: Complete rejection and replacement of goals and means; may involve activism or violent rebellion (Williams, 2004:308).  
+
+#### 3.3.4.3 Evaluation of Merton’s Theory  
+- **Sociological Insight**: Explains crime concentration in lower classes and minorities; relevant beyond American context (e.g., South Africa).  
+- **Limitations**: Does not explain individual offenses or motivations; overlooks white-collar crime, implying lawlessness is a lower-class issue.  
+
+### 3.3.5 Summary and Conclusion  
+- **Definition of Anomie**: Normlessness resulting from weak normative societal orders (Krohn et al, 2019:162).  
+- **Societal Control**: Anomie leads to a breakdown in controlling behavior; high crime rates may indicate anomic conditions.  
+- **Consensus of Values**: Uneven distribution of means and overemphasis on goals lead to disorganization and anomie.  
+- **Structural Inequality**: Causal risk factor for deviance and crime.  
+
+---  
+*Note: Learning activities, assessments, and examples have been omitted as per instructions.*
+----- END OF CHUNK -----
+# CMY3701/1
+### 113
+
+## STUDY UNIT 3.3: Anomie and strain
+
+### 3.3.7 Answers to Self-Assessment Questions
+- Refer to section 3.1.2 for details.
+- Refer to section 3.1.3 for information.
+- Factors influencing crime: poverty, resident mobility, racial heterogeneity (section 3.1.3.1).
+- Consult section 3.2.3 regarding crime statistics, rural crime studies, sociological explanations of power, class, disintegration, and social policies.
+- See section 3.3.2 for discussion.
+- For the five points discussion, refer to section 3.3.3.2.
+
+### 114
+### 3.3.8 References
+- Burke, R.H. 2014. *An introduction to criminological theory*. 5th ed. Routledge: New York.
+- Chamberlain, J.M. 2015. *Criminological theory in context: An introduction*. SAGE: London.
+- Cullen, F.T. & Wilcox, P. 2010. *Encyclopaedia of Criminological Theory – Volume Two*. SAGE: California.
+- Krohn, M.D., Hendrix, N., Hall, P., & Lizotte, A.J. 2019. *Handbook of Crime and Deviance*. Springer, Switzerland.
+- Metz, T. 2019. *Reconciliation as the aim of a criminal trial: Ubuntu’s Implications in sentencing*. Constitutional Court Review. 9:113–234.
+- Olaiya, T.A. 2020. *Colonial basis of anomie in African youth: Implications for political governance*. Developing Country Studies. 10(7), 39–55.
+- Olofinbiyi, S.A. & Mtambo, T. 2020. *Fire on the mountain: Reinvigorating legislative measures to quench the flame of illicit drug use in South Africa*. Asian Journal of Interdisciplinary Research. 3(2):15–29.
+- *Sentencing guidelines in South Africa*. Available at: [link](https://www.loc.gov/law/help/sentencing-guidelines/southafrica.php).
+- Tibbetts, S.G. 2019. *Criminological theory: the essentials*. SAGE: Thousand Oaks.
+- Tierney, J. 2013. *Criminology theory and context*. Routledge: New York.
+- Williams, F.P. & McShane, M.D. 2015. *Criminological theory. Selected classical reading*. Routledge: New York.
+
+### 115
+
+## STUDY UNIT 3.4: Gender and crime
+
+### Learning Outcomes
+- Identify factors relating to African feminism.
+- Explain underpinning theories of African, critical, radical, and liberal feminism.
+- Discuss patriarchy's role in women's criminal involvement.
+
+### Time Required for Study Unit 3.4
+- Estimated study time: ±3 hours.
+
+### 3.4.1 Introduction
+- **Feminism's Evolution**: Critical to the examination of gender as a principle link to crime (Marganski, 2019).
+- **Gender and Crime Rates**: Men commit more crimes than women, with rising attention on female offending (O’Neill, 2020).
+- **Predictors of Criminal Behavior**: Queries into hormonal differences, socialization, and masculinity (Conklin, 1995).
+
+### 3.4.2 Definitions of Key Concepts
+- **Critical Feminism**: Focuses on gender inequality and power disparities (Siegel, 2012).
+- **Feminism**: Encompasses theories emphasizing female freedom (Hoffman, 2001).
+- **Feminist Theories**: Integrate physiological, psychological, and social-structural factors (Klein, 1973).
+- **Liberal Feminism**: Posits that societal changes increase women's crime involvement due to historical marginalization (Siegel, 2012).
+- **Marxist Feminists**: Link class and gender labor division to societal positioning (Adler, 2006).
+- **Radical Feminism**: Links crime to inherent male dominance and aggression (Adler, 2006).
+- **Socialist Feminism**: Explores intersections of patriarchy and capitalism influencing crime (Adler, 2006).
+
+### 3.4.3 The Development of Feminist Criminology
+- **Foundations**: Rooted in the feminist movement addressing sexism and advocating for equality (Renzetti cited in Zahn et al., 2004).
+- **1970s Influence**: Emergence of gender-linked criminological theories promoting women's rights (Adler, 2006).
+- **Gender Inequality**: Explores crime by and against women shaped by patriarchy (Vold et al. 2002).
+
+### 3.4.4 Schools of Feminist Criminology
+- **Liberal Feminism**: Sought to address gaps in traditional criminology (Renzetti cited in Zahn et al., 2004).
+- **Radical Feminism**: Highlights male aggression and societal control over women's sexuality (Simpson, 1989).
+- **Liberal Feminism**: Functions within social structures, focusing on women's rights and social opportunities (Maganski, 2019).
+- **African Feminism**: Contextualized to address specific local issues and empower women (Mama, 2017).
+
+### 3.4.4.1 Radical Feminism
+- Focus on patriarchy and male aggression as roots of oppression (Marganski, 2019).
+
+### 3.4.4.2 Liberal Feminism
+- Connections between changes in female status and crime patterns (Maganski, 2019).
+
+### 3.4.4.3 African Feminism
+- Seeks to redefine narratives around women's roles and agency in a local context (Dastile & Agozini, 2019).
+----- END OF CHUNK -----
+# CMY3701/1
+## STUDY UNIT 3.4: Gender and Crime
+
+### 3.4.1 African Feminism
+- Empower African women in ways they prefer (Guy-Sheftall, 2003:31).
+- African women's struggle intertwined with liberation from multiple oppressions (slavery, colonialism, racism).
+- Joint struggle with African men acknowledged; challenges existing inequalities (Guy-Sheftall, 2003:32).
+- Women's experiences influenced by race, gender, class (Dastile & Agozino, 2019:22).
+- Need for comprehensive criminological discourses to address oppression and resistance.
+
+### 3.4.2 Feminist Features in Criminology
+- Daly & Chesney-Lind’s features distinguishing feminist criminology:
+  1. Gender as a multifaceted phenomenon, not solely biological.
+  2. Gender relations control social life.
+  3. Gender relations asymmetric, based on men’s superiority.
+  4. Knowledge production is gendered.
+  5. Women as primary focus of inquiry (Whiteley, 2014:1–2).
+
+### 3.4.3 Critical Feminism
+- Links victimisation and female criminality to gender inequality and capitalism (Siegel, 2011:212).
+- Patriarchy tied to capitalism’s economic structure; men control economy (Siegel, 2011:213).
+- Proposed that capitalism defines crimes against the system by women.
+- Marginalization leads to fewer female crimes compared to males.
+- Ubuntu principles critical for familial and societal equality (Letseka, 2014:548).
+
+### 3.4.4 Subareas of Critical Criminology
+- **Left Realism**: Crime as relative deprivation; focus on deterrence and protection.
+- **Critical Feminist Theory**: Capitalism produces patriarchy that oppresses women; emphasizes gender inequality.
+- **Power-Control Theory**: Gender equity in egalitarian homes; contrasts traditional male-dominated households (Siegel, 2011:216).
+
+### 3.4.5 Nature of Female Criminality
+- Feminist theories provide insights into female offending and victim dynamics.
+- Criminality of women historically neglected; data on female crime limited (Renzetti in Zahn et al., 2004:131).
+- Feminism broadens definitions of violence (Barak, 2003; DeKeseredy, 2000).
+- Critique of traditional theories ignores differences in treatment based on gender.
+
+### 3.4.6 Myths About Feminism
+- Four themes by Black feminists address oppression: structural, community, familial, and individual (Potter, 2006:111).
+- Black women face higher unemployment rates compared to other groups (Dastile & Agozino, 2019:25).
+- Female offenders often commit economic crimes; lack of data on violence against women (Simpson, 1989:618).
+- Early feminist analyses criticized traditional criminology’s male-centric focus (Jurik in Renzetti et al., 2004:131).
+
+### 3.4.7 Contribution of Feminist Research
+- Early feminist work highlighted importance of gender in crime perspective (Renzetti in Zahn, 2004:134).
+- Misconceptions surrounding female criminality need addressing for comprehensive understanding (Steffensmeier & Allan).
+- Calls for multidimensional approaches to evaluate female criminality (Artz et al., 2011:2).
+- Acknowledgment of women in crime needs further exploration; historical biases persist in research (Smart, 2013:xv).
+
+### Diagram Reference
+- **Figure 3.4.2**: Feminism Word Cloud (adapted from source).
+
+--- 
+*Note: Removed certain sections including interactive activities and self-assessment parts as per directions.*
+----- END OF CHUNK -----
+CMY3701/1  
+125  
+### STUDY UNIT 3.4: Gender and Crime
+
+#### 3.4.1 Articles for Reference  
+- **19 moms who killed their kids** - Available at: [Link](https://thoughtcatalog.com/jim-goad/2014/04/19-moms-who-killed-their-kids/)  
+- **Mother's explanation for killing her children** - Available at: [Link](https://www.sowetanlive.co.za/news/south-africa/2019-01-09-why-mom-killed-her-four-kids-ex-lover-speaks-out/)  
+- **Father's tragic decision** - Available at: [Link](https://www.dailysun.co.za/News/National/father-kills-children-and-hangs-himself-20190623)  
+
+#### 3.4.2 Main Concepts  
+- **Feminist theories on crime** emphasize the role of social forces shaping women's experiences.  
+- **Critical feminist view**: Control by patriarchy spurs female delinquency.  
+- Importance of empirical analysis in understanding male and female criminal behavior.
+
+#### 3.4.3 Theoretical Considerations  
+- Balance needed between recognizing gender inequality and not universalizing criminal behavior as solely gendered.  
+
+#### 3.4.4 Discussion/Analysis Questions  
+- Examining societal and criminal justice treatment of men vs. women in child murder cases.
+
+#### 3.4.5 Key Themes in Feminist Criminology (see paragraph 3.4.6 and 3.4.5 for details)  
+- Feminist criminology influences understanding of female violence and delinquency dynamics.  
+
+#### 3.4.6 Main Assumptions of Feminist Criminology  
+- Crime and deviance are gendered phenomena.  
+- Gender inequality exists within the criminal justice system.  
+- Contextual influences on women's criminal behaviors must be considered.  
+
+#### 3.4.7 Gender and Violence  
+- The role of gender is critical in understanding patterns of violence; societal norms shape the dynamics.
+
+#### 3.4.8 Sources  
+- Studies and scholarly articles referenced include writings from **Adler**, **Africa**, **Artz**, **Daly & Chesney-Lind**, etc. 
+
+### 3.4.9 Assessment Questions  
+1. **Feminist Perspective on Patriarchy**: What do feminists indicate about its impact on crime?  
+2. **Black Feminist Concerns**: Identify themes relevant to Black women's experiences.  
+3. **History of Feminist Criminology**: Identify the era during which it became significant.  
+4. **Patriarchy's Contribution**: Explain its ties to social structures.  
+5. **Feminist Branch Identification**: Which branch is commonly termed mainstream?  
+6. **Criminology Assumptions**: Outline the foundational beliefs of feminist criminology.  
+7. **Gender Influence**: Implications of gender on violent behavior.
+
+#### 3.4.10 References  
+- Adler, F. (2006). The Gendering of Criminology: Feminist Theory.  
+- Africa, A. (2010). Rethinking gender and theories of violence.  
+- Artz, L. et al. (2011). Women, Crime and Incarceration.  
+- Daly, K., & Chesney-Lind. (1988). Feminism and Criminology.  
+- DeKeseredy, W.S. (2000). Nonlethal Violence Against Women.  
+- Various authors referenced with focus on feminist perspectives and theoretical advancements in criminology.  
+
+---
+
+**Note**: Ensure to explore linked materials and articles for comprehensive understanding.
+----- END OF CHUNK -----
+# CMY3701/1
+## 10 STUDY UNIT 4.1
+### 10 Process theories
+
+#### 10.1 Learning Outcomes
+- Explain assumptions of process theories
+- Describe branches of control theories
+- Explain essential characteristics of learning and control theory
+
+#### 10.2 Time Required
+- Approximately five hours.
+
+#### 10.3 Visual Overview
+- **Figure 4.1.1**: Overview of Study Unit 4.1
+
+### 10.1.1 Introduction
+- **Social Process Theories**: Explain individual criminality via social interactions (e.g., family, peer groups) impacting moral values.
+- **Branches**:
+  - **Learning Theory**: Influenced by Sutherland and Akers.
+  - **Control Theory**: Focused on factors preventing law-breaking (e.g., Hirschi’s social control).
+
+### 10.1.2 Definitions of Key Concepts
+- **Social Control**: Bonding affects decision to offend (Farrington & Ttofi, 2018).
+- **Social Process Theory**: Criminality results from interactions within social environments (Bartollas, 2006; Siegel, 2017).
+- **Social Control Theory**: Crime occurs when societal bonds weaken (Siegel, 2004; Bartollas, 2006).
+- **Social Learning**: Learning by observation and experiencing consequences (Cassel & Bernstein, 2007; Case et al, 2017).
+
+### 10.1.3 Assumptions of Process Theories
+- **Micro-Theories**: Focus on individual offender experiences rather than macro social structures (Williams & McShane, 2004).
+- **Crime Beyond Class**: Not solely a lower-class issue; misconduct arises from inadequate socialization across all classes.
+- **Social Interaction Emphasis**: Crime results from interpersonal relationships, primarily the influence of family and peers.
+
+### 10.1.4 Branches of Process Theory
+- **Learning Theory**: Criminal behavior learned through relationships; requires internalization of values and techniques.
+- **Control Theory**: Highlights isolation from significant societal institutions; absence of societal control leads to antisocial behaviors.
+
+#### 10.1.4.1 Learning Theories
+- Criminal behaviors are learned; social class and poverty are secondary factors. Interaction with significant others is crucial for learning criminal values and techniques.
+
+#### 10.1.4.2 Control Theories
+- Explores why some individuals refrain from misconduct, emphasizing ties to conventional groups and institutions. Direct control is vital; family plays a significant role in enforcing societal rules.
+
+### 10.1.5 Summary and Conclusion
+- Social process theorists focus on individual interactions rather than inherent criminality. 
+- Both criminal and noncriminal behaviors are learned; environmental influences are significant.
+- Control theorists stress the need for social structures to maintain conformity; weak controls may lead to increased criminal behavior. 
+
+*Legislation and Cases: None explicitly mentioned in the provided text.*
+----- END OF CHUNK -----
+# CMY3701/1
+
+## STUDY UNIT 4.1: Process theories
+
+- **4.1.6 SELF-ASSESSMENT**
+   - Key concepts: Mastery required for comprehension.
+   - Summary: Overview of unit outcomes.
+   - Questions:
+     1. Crime persists in economic classes unless **socialisation process remains satisfactory**.
+     2. Inadequate parental care directly influences child's development—**family as primary socialising agent**.
+     3. Close relationships with negative peers lead to undesirable attitudes because of **learned techniques favoring law-breaking**.
+     4. Underachievement at school contributes to crime via **poor self-image, undesirable attitudes, and alienation**.
+     5. Reasons law-breaking is not universal lie in **ties to conventional groups**.
+
+- **4.1.7 ANSWERS TO SELF-ASSESSMENT QUESTIONS**
+   - Q1: 2
+   - Q2: 2
+   - Q3: 3
+   - Q4: 3
+   - Q5: 1
+   - **Paragraph-type Questions:**
+     6. Micro-theory orientation focuses on individual interactions, emphasizing socialization and family influence, peer groups, and educational impact (e.g., poor school performance).
+     7. Strong social bonds with institutional figures (parents, teachers) discourage law-breaking by highlighting potential losses from crime.
+
+## STUDY UNIT 4.2: Sutherland’s theory of differential association
+
+- **4.2.1 INTRODUCTION**
+   - Sutherland's theory shifts focus from biological/psychological explanations to environmental influences.
+   - All behavior is learned similarly; difference lies in content learned (criminal vs. law-abiding).
+
+- **4.2.2 DEFINITIONS OF KEY CONCEPTS**
+   - **Differential Association:** Explains how individuals learn criminal behavior through exposure to antisocial attitudes and values.
+
+- **4.2.3 THE FUNDAMENTAL PRINCIPLES OF DIFFERENTIAL ASSOCIATION**
+   - Learning occurs through social interactions; criminal behavior is acquired from others.
+   - Nine propositions detail the learning process of criminality:
+     - **Proposition 1:** Criminal behavior is learned.
+       - Criminal behavior can be learned even in socially normative environments, emphasizing the influence of deviant peers over familial background. 
+
+*[Diagrams may accompany Proposition summaries for visual representation of concepts]*
+
+### PROPOSITIONS OVERVIEW
+- Further propositions will define the specifics of the differential association process and its implications in criminology.
+
+---
+
+### References and Further Reading
+- Mention of sources used for study unit development (e.g., Aslan, Baines, Cullen, Siegel) is not necessary for understanding concepts presented.
+----- END OF CHUNK -----
+# CMY3701/1
+
+## STUDY UNIT 4.2: Sutherland’s Theory of Differential Association
+
+- **Context**: Organised crime thrives in crises, as evidenced by the COVID-19 pandemic.
+  - **Legislation**: Enforcement actions against illicit activities (e.g., alcohol trafficking).
+  - **Cases Referenced**: Reports of police arrest for organized crime involvement.
+
+### Key Propositions
+- **Proposition 1**: Crime is learned.
+  - Gangs are family- and community-based; illegal activities require learned skills for hierarchical advancement.
+
+- **Proposition 2**: Criminal behaviour is learned through interactions.
+  - Influences include family and peers; criminal education often expands through peer groups.
+
+- **Proposition 3**: Learning occurs in intimate groups.
+  - The role of parents in teaching norms is crucial, but peer influence grows with age.
+
+### Modern Influences
+- **Media Evolution**: Technology significantly alters crime portrayal and commission.
+  - Social media creates platforms for criminal activity (e.g., identity theft, harassment).
+  - **Performance Crimes**: Offenders publicize criminal behavior online, risking trials.
+
+### Violent Extremism Context
+- Categorization of violent extremism:
+  1. **Left-wing violence**: Anti-capitalist group violence.
+  2. **Right-wing violence**: Motivated by racism and far-right ideologies.
+  3. **Religiously motivated violence**: Extremist Islamic movements' grievances.
+  4. **Issue-based violence**: Focused on particular societal issues (e.g., abortion).
+
+### Article Summaries
+- **Article 1 - Ahlu Sunnah Wal Jammah (ASWJ) in Mozambique**:
+  - Timeline of violence; radicalization signs since 2014.
+  - Shift in definition from bandits to organized militants with links to local crime.
+  - Activities intertwined with the exploitation of mineral resources.
+
+- **Article 2 - Boko Haram in Nigeria**:
+  - Aims for an Islamic state in opposition to Western influence.
+  - Reflections of poverty and governance failures in Nigeria.
+  - Extensive violence resulting in thousands of deaths and mass displacement.
+
+### Conclusion
+- Organized crime exemplifies Sutherland’s propositions, foreshadowing how group dynamics and community relationships facilitate unlawful behaviours. 
+- **Diagram References**: (Would be included as needed to illustrate concepts but omitted here).
+----- END OF CHUNK -----
+# CMY3701/1
+## 4.2: Sutherland’s Theory of Differential Association
+
+### 4.2.1 Overview 
+- **Key Theme**: Criminal behavior is learned behavior.
+- **Radicalization Process**:
+  - **Stage 1**: Attitudinal journey influenced by background factors (e.g., criminality, family issues, psychological needs).
+  - **Stage 2**: Behavioral changes influenced by social and emotional factors (Chrisholm, Coulter & Public, 2017).
+
+### 4.2.2 Learning Propositions
+- **Proposition 4**: Learning criminal behavior involves:
+  - Techniques for committing crimes.
+  - The necessary motives, drives, rationalizations, and attitudes.
+  - **Disposition** is critical for committing crimes, influencing learning of specific techniques.
+
+- **Proposition 5**: Direction of motives and drives learned from definitions of legal codes (favorable/unfavorable).
+  - Dominant definitions influence whether crime is perceived as acceptable.
+
+- **Proposition 6**: Engagement in crime occurs when definitions favoring criminal behavior outweigh those favoring lawful behavior.
+  - Emphasis on frequency, priority, duration, and intensity of interactions influencing definitions.
+
+### 4.2.3 Mechanisms of Learning
+- **Mechanisms**: Cognition, Conation, Affectation.
+  - **Cognition**: Processing information and storing experiences.
+  - **Conation**: Motivation to perform actions; includes skills and tactics.
+  - **Affectation**: Emotional responses and values influencing choices.
+
+- **Proposition 9**: Criminal behavior mirrors general needs and values, similar principles apply to non-criminal behavior.
+
+### 4.2.4 Evaluation of Differential Association
+- **Strengths**: 
+  - Exposes crime beyond poverty.
+  - Applies to various social settings.
+  
+- **Criticisms**:
+  - Inadequate alone to explain crime; no evidence for mandatory criminality post-incarceration.
+  - Lack of empirical testability; concepts are vague.
+  - Failure to account for individual choice amidst criminal associations.
+
+### 4.2.5 Ongoing Research and Policy Implications
+- **Sutherland's Investigation**: Explored a wide range of crimes, including white-collar crimes.
+  - Emphasized that economic status does not exclude individuals from criminal behavior.
+
+- **Policy Implications**:
+  - Maintaining juvenile separation from adults in detention.
+  - Programs using role models to deter criminal behavior.
+  - Conditions for parole include avoidance of criminal associations.
+
+### 4.2.6 Reformulation: Akers' Social Learning Theory
+- **Akers' Key Elements**:
+  - **Differential Association**
+  - **Definitions**: Meanings attached to behaviors.
+  - **Differential Reinforcement**: Consequences influencing behavior.
+  - **Imitation**: Learning by observing others.
+
+- **Learning Process**:
+  - Social interactions provide models for behavior through reinforcement.
+  - Criminal behaviors are learned through exposure and reinforcement.
+  - Positive reinforcers (financial gain, status) outweigh negative ones (fear of arrest).
+
+- **Macro-Level Extension**: Examines group differences in crime rates by demographic factors.
+
+### References
+- **Legislation & Cases**: Essential consideration of legislative context, specifically noting **decriminalization of cannabis** via Constitutional Court (Pieterse, 2018). 
+
+This structure encapsulates the key principles and theories of Sutherland's and Akers' approaches while omitting unrelated activities and explanations.
+----- END OF CHUNK -----
+# CMY3701/1
+
+## STUDY UNIT 4.2: Sutherland’s theory of differential association
+
+### 4.2.7 SUMMARY AND CONCLUSION
+- Sutherland's **Differential Association Theory**:
+  - Offenders exposed to law-breaking definitions leading to the internalization of deviant values.
+  - Poverty/social class not sufficient for explaining crime.
+  - Criminal learning includes acquisition of techniques and emotional coping related to crime.
+- **Law-violators vs. Law-abiders**:
+  - Differences in learned behaviors based on environment (conventional vs. criminogenic).
+- Two essential learnings:
+  - Techniques for committing crime.
+  - Definitions that encompass motives, drives, and rationalizations for crime.
+- Emphasis on **personal relationships** in learning; not derived from media or literature.
+- **Akers' Adaptation**:
+  - Acknowledged Sutherland but integrated reinforcement concept.
+  - Criminal behavior as a result of social influences and reinforcements (e.g., group acceptance).
+
+### 4.2.8 SELF-ASSESSMENT
+- Key concepts summarized.
+- Review of study unit outcomes achieved.
+
+### 4.2.9 MULTIPLE-CHOICE QUESTIONS
+1. Proposition 1 of Sutherland's theory states learning includes:
+   - Acquiring techniques, necessary norms/values, frequency of exposure, definitions unfavorable to crime.
+2. Favorable or unfavorable definitions towards law-breaking influence mindset and values.
+3. Correction officials association with criminals:
+   - Yes, negative association can lead to pro-criminal definitions but a solid upbringing can mitigate influence.
+4. Akers' **differential reinforcement** concept is influenced by anticipated outcomes of behavior.
+5. Neglected concepts in Sutherland's theory:
+   - Imitation and reinforcement from Akers’ theory.
+
+### 4.2.10 PARAGRAPH-TYPE QUESTIONS
+- Notes on Akers’ social learning theory elements:
+  - **Differential association**: Interactions leading to criminal behavior.
+  - **Definitions**: Influences of favorable or unfavorable attitudes towards crime.
+  - **Differential reinforcement**: Outcomes reinforce behavior (positive/negative).
+  - **Imitation**: Learning through observing others.
+- Discussion on Sutherland’s nine propositions:
+  1. Criminal behavior is learned through social interactions.
+  2. Learning is a by-product of interaction; environment influences criminality.
+  3. Influences of intimate groups (family, peers) on deviance.
+  4. Learning of techniques for crime.
+  5. Impact of legal codes on motives/drives.
+  6. Principle of differential association encompasses criminal and anti-criminal influences.
+  7. Variability in association impacts likelihood of crime.
+  8. Learning criminal behavior through associating with patterns.
+  9. Distinction between needs/values influences between criminal and non-criminal behavior.
+
+### 4.2.11 REFERENCES
+- References provided do not require reading.
+----- END OF CHUNK -----
+CMY3701/1  
+161  
+**12 STUDY UNIT 4.3**  
+**12 Hirschi’s Social Bonding Theory**  
+
+**4.3.1 INTRODUCTION**  
+- Social Control Theory: Crime results from weak social institutions (Thompson, 2016).  
+- Socialization as a lifelong process teaches behavioral norms.  
+- Crime viewed as morally neutral; driven by inherent human nature to break laws.  
+- Focuses on identifying factors that prevent delinquency.  
+
+**4.3.2 DEFINITIONS OF KEY CONCEPTS**  
+- **Attachment**: Emotional component relating to bonds with others and institutions (Walsh & Hemmens, 2008).  
+- **Belief**: Acceptance of pro-social values and attitudes (Walsh & Hemmens, 2008).  
+- **Commitment**: Rational investment in a lawful career (Walsh & Hemmens, 2008).  
+
+**4.3.3 ASSUMPTIONS OF HIRSCHI’S SOCIAL BONDING THEORY (1967)**  
+- Behavioral self-preservation and reward as primary human concerns (Williams & McShane, 2018).  
+- Need for societal control to regulate self-centered behavior.  
+- Bonds to the moral order formed through socialization and institutional influences.  
+
+- **Key elements of bonds**:  
+  - **Attachment**: Connection to significant others and institutions.  
+  - **Commitment**: Investment in societal norms.  
+  - **Involvement**: Engagement in conventional activities.  
+  - **Belief**: Acceptance of societal rules.  
+
+- Weakening bonds lead to increased delinquency; individuals feel freer to offend.  
+
+**4.3.4 ELEMENTS OF THE SOCIAL BOND**  
+- **Attachment**: Emotional bonds developed from family and peers shape behavior norms (Costello & Laub, 2020).  
+- **Commitment**: Rational choice to conform due to investments in schooling and reputation (Cullen & Agnew, 2011).  
+- **Involvement**: Greater involvement in conventional activities reduces delinquency risk (Cullen & Agnew, 2011).  
+- **Belief**: Recognition and respect for societal rules increase conformity; absence leads to delinquency (Hirschi, 1969).  
+
+- **Impact of Social Media** (TAKE NOTE):  
+  - Overuse links to loneliness, anxiety (Marino et al., 2016).  
+  - Can impair language skills, lead to poor grades.  
+  - Potential for anti-social behavior and exposure to harmful content.  
+
+- **Social Problems**: Lack of commitment in South Africa attributed to high crime rates and social inequalities (Regter, 2020).   
+
+**Diagram References**:  
+- Visual overview of Study Unit 4.3 (Fig. 4.3.1).  
+
+**Conclusion**:  
+- Hirschi's theory emphasizes that weakened social bonds increase delinquent behavior and that strong attachments foster conformity.
+
+----- END OF CHUNK -----
+# CMY3701/1 
+## 4.3: Hirschi’s Social Bonding Theory
+
+### 4.3.1: Factors Contributing to Gang Involvement
+- **Key Factors:**
+  - Absent fathers
+  - Caregiver grandparents
+  - Family pathological behavior
+  - Step-parents
+  - Negative peer influences
+  - Lack of educational encouragement
+  - Illicit use of social grants
+  - Insufficient supervision
+  - Incarcerated family members
+  - Sexual experimentation
+  - Alcohol abuse
+  - Harsh disciplinary measures
+  - Food insecurity
+  - Domestic violence
+  - Criminal parents
+
+### 4.3.5: Evaluation and Policy Implications of Hirschi’s Theory
+- **Data Support:**
+  - Social control theory is supported by substantial empirical evidence (Case et al., 2017; Bartollas, 2006).
+  
+- **Advantages:**
+  - Empirically testable concepts (e.g., attachment to parents, school involvement).
+  - Insights on delinquent behavior, particularly intra-family relationships.
+  - Basis for developing integrated delinquency theories.
+  
+- **Economic Factors:**
+  - Elliot (1979) identified factors like social disorganization and high unemployment as weak bonds (Stats SA 2020: 30.1% unemployment).
+  
+- **Key Questions:**
+  - Causality and interaction among bonding elements.
+  - Effects of strong presence of some elements against the absence of others.
+  - Clarification needed on the relationship between delinquency and social bonds.
+
+- **Critiques:**
+  - Certain adolescents with high school involvement may still engage in crime (Siegel, 2010).
+  - Hirschi’s view on attachments to criminal peers has been challenged, indicating tighter bonds to peers in drug abuse contexts (Siegel & Worrall, 2016). 
+
+### 4.3.6: Summary and Conclusion
+- **Nature of Human Behavior:**
+  - Crimes are perceived as natural due to self-interest; the focus should be on conformity. Weakening social institutions can diminish bonds to societal norms.
+  
+- **Four Elements of Social Bond:**
+  - **Attachment:** Affection and sensitivity to others’ opinions.
+  - **Commitment:** Long-term societal investments and approved social goals.
+  - **Involvement:** Occupation with constructive activities reduces criminal opportunity.
+  - **Beliefs:** Internalization of social values, especially respect for authority.
+
+- **Theory Popularity:** 
+  - Aligns with public perceptions of crime causation. 
+
+- **Broader Concepts:** 
+  - Includes social disorganization, differential association, and anomie—attractions for skeptics of conflict theories.
+
+### 4.3.9: References
+- Incorporate relevant literature and legislative references based on empirical research and theory development in criminology. 
+
+**Note:** All relevant leaders in criminological research should be cited properly as per academic standards. Ensure to seek out the original research material for in-depth understanding and credibility in academic submissions.
+----- END OF CHUNK -----
+# CMY3701/1
+## STUDY UNIT 4.3: Hirschi’s social bonding theory
+- Referenced Works:
+  - Marino et al. (2016) on personality and social identity in Facebook use.
+  - Pieterse (2018) on cannabis use advisories.
+  - Pinnock (2019) on criminalization strategies in Cape Town.
+  - Pittman & Reich (2016) on social media and loneliness.
+  - Regter (2020) on COVID-19 corruption.
+  - Schoemaker (2000) on delinquency theories.
+  - Various editions of Siegel's works on criminology.
+  - Thompson (2016) on Hirschi’s control theory.
+  - Svensson et al. (2019) on parental experiences of abuse.
+  - Williams & McShane (2018) on criminological theory.
+
+## THEME 5
+### The Victimized Actor Model
+- **General Introduction**
+  - **Rational Actor Model**: Individuals possess free will and make rational choices, including criminal behavior.
+  - **Predestined Actor Model**: Crime arises from uncontrollable biological, psychological, or social factors.
+  - **Victimized Actor Model**: Proposes that societal structures target behaviors of the disadvantaged while ignoring misconduct of the powerful (Burke, 2005:138).
+  - **Foundations**: Based on labelling and conflict theories, focusing on institutional roles in crime.
+
+### Key Issues Highlighted:
+- Unequal application of law and criminal justice.
+- Criminalization of disadvantaged groups and societal labelling leading to cyclical deviance.
+
+## STUDY UNIT 5.1: The Labelling Perspective
+### Definitions of Key Concepts
+- **Labelling Perspective**: Describes offending as a reaction to societal labels, which can create self-fulfilling prophecies among offenders (Burke, 2014:14).
+- **Primary Deviance**: Initial acts of deviance not altering self-identity.
+- **Secondary Deviance**: Offender accepts deviant label, leading to identity transformation (Siegel, 2018:585).
+
+### Interactionist Approach
+#### Edwin M. Lemert
+- Labelling triggers a stigma affecting self-image and behavior.
+- **Primary Deviance**: Undetected deviant acts lacking significant impact on identity.
+- **Secondary Deviance**: Offender internalizes negative labels, often leading to group formation.
+  
+### Social Response Approach
+#### Howard Becker’s Contributions
+- Focus on societal reactions to behavior rather than the behavior's causes.
+- Analyzed subcultures and processes of deviance (Becker, 1963).
+
+### Segments of Becker’s Contribution:
+1. **Labelling as a Cause of Crime**
+2. **The Process of Labelling**
+3. **Typology of Deviants**
+
+### Notes:
+- Labelling theory emphasizes the role of social interactions in the definition and perception of deviance.
+- The theory critiques traditional approaches by focusing on societal reactions rather than the deviant acts themselves (Bernburg, 2019:1).
+----- END OF CHUNK -----
+CMY3701/1  
+179  
+### STUDY UNIT 5.1: The labelling perspective
+
+#### 5.1.4.1 Labelling as a cause of crime
+- **Becker's Theory:** Differentiates legislative rules versus marginal subculture norms.
+- **Impact of Labelling:** Limits law-abiding opportunities, fostering deviant choices.
+- **Successful Offender:** Requires techniques/resources (e.g., knowledge of drug use).
+- **Societal Perception:** Criminal acts as deviant push offenders towards crime.
+
+#### 5.1.4.2 The process of labelling
+- **Focus of Becker's Study:** How individuals are labeled as outsiders. Deviance seen as a social product.
+- **Phases of Labelling:**
+  - **Phase 1:** Deviant action performed (unconscious).
+  - **Phase 2:** Being caught leads to new status/label; stigma generalizes.
+  - **Phase 3:** Achieves master status; deviant label overshadows positive traits (self-fulfilling prophecy as per Bernburg, 2019).
+  - **Final Phase:** Joins organized deviant groups for rationalization and support (Bernburg, 2019).
+
+#### 5.1.4.3 A typology of deviants
+- **Deviant vs. Non-deviant (Becker/Siegel 2018):** 
+  - **Pure Deviant:** Engages in norm-violating actions recognized as such.
+  - **Falsely Accused Deviant:** Innocent yet misjudged, leading to negative self-image.
+  - **Conformist:** Accurately perceived as non-deviant; no norm violations.
+  - **Secret Deviant:** Engages in norm violations that go undetected.
+
+- **Table 5.1: Becker’s Typology of Deviant and Non-Deviant Behavior**
+  - Conforming Behavior: Conformist, Secret Deviant
+  - Norm-Violating Behavior: Pure Deviant, Falsely Accused
+
+#### 5.1.5 Evaluation of the labelling perspective
+- **Labelling Focus:** Stigmatization by society is key; behavior less important than reactions.
+- **Key Questions:**
+  - Who labels whom?
+  - Who decides on labels?
+  - What creates these labels?
+  - How are labels attached?
+- **Agents of Control:** Primarily the criminal justice system; powerful groups dictate what's deviant.
+- **Critique of Traditional Theories:** Traditional views argue deviancy leads to control; labelling argues the opposite.
+- **Broader Application:** Labelling theory extends beyond crime to mental illness and other deviances.
+
+#### 5.1.6 Summary and Conclusion
+- **Two Components of Labelling Theories:**
+  - **Social Response:** Focus on responses to deviance.
+  - **Secondary Deviance:** Development and impact of labels.
+- **Becker's Contribution:** Illustrates the social process of becoming an outsider.
+- **Critical Perspective:** Challenges middle-class definitions of deviance; highlights humane treatment of offenders.
+- **Link to Conflict Theories:** Labelling perspective as precursor to conflict theories.
+
+### 5.1.7 Self-Assessment (Removed)
+
+--- 
+
+This condensed format maintains the essential details from the original text, focusing on the key concepts and theories related to the labelling perspective in criminology.
+----- END OF CHUNK -----
+# CMY3701/1
+## 5.1 The labelling perspective
+
+### 5.1.7.5 Self-assessment paragraph-type questions
+- **(6)** Interactionist Approach to Labelling:
+  - Focuses on meanings attached to behaviour.
+  - Lemert’s Theory: Differentiates between primary and secondary deviance.
+
+- **(7)** Social Response Approach to Labelling:
+  - Emphasizes societal reaction to behaviour.
+  - Becker’s Theory: Labels create social categories and stigmatize individuals.
+
+### 5.1.8 References
+- **Significant Works**:
+  - Becker, HS. 1963. *Outsiders.*
+  - Bernburg, J.G. 2019. *Labeling Theory* in *Handbook of Crime and Deviance*.
+  - Williams, FP & McShane, MD. 2004. *Criminological Theory*.
+
+# 14 STUDY UNIT 5.2: The labelling perspective
+
+### 5.2.1 Introduction
+- Conflict theories emerged mid 20th century, paralleling labelling theories.
+- Focus on political nature of crime and legislation.
+- Conflict theories analyze power dynamics in societal interactions.
+  
+### 5.2.2 Definitions of Key Concepts
+- **Conflict Model of Crime**:
+  - Crime definitions vary by group power and social status.
+- **Conflict Perspective**:
+  - Society comprises conflicting groups; criminal definitions serve those in power.
+- **Social Classes**:
+  - Defined by shared positions in production systems.
+
+### 5.2.3 Assumptions of Conflict Theory
+- Conflict characterizes society, not consensus.
+- Majority groups’ power influences the law and its enforcement.
+- Key elements of conflict perspective:
+  - Diverse social groups with varying moral standards.
+  - Natural conflicts arise from significant social distinctions.
+  - Legal structures favor those in power.
+- Dominance leads to systematic suppression of dissent (Marx & Engels).
+- The struggle for resources exists alongside institutional mechanisms to mediate conflict.
+  - Example: Rape legislation reflects power imbalances (Barlow & Kauzlarich).
+----- END OF CHUNK -----
+## CMY3701/1
+
+### STUDY UNIT 5.2: The Labelling Perspective
+
+#### 5.2.4 THE RADICAL (MARXIST) CONFLICT PERSPECTIVE
+
+- **Introduction**
+  - Radical criminology emerged in the 1970s, influenced by 19th-century utopian thinkers, especially **Karl Marx**.
+  - Focuses on conflict as inherent to capitalism (Schmalleger, 1996).
+
+- **The Legacy of Marx and Bonger**
+  - **Marx's View**:
+    - Economic production is core to societal structure and consciousness (Brown et al, 2013).
+    - Society divides into two classes: **proletariat** (working class) and **bourgeoisie** (capitalists).
+    - Conflict leads to class consciousness and potential revolution towards communism (Barlow & Kauzlarich, 2010).
+  
+  - **Bonger's Contribution**:
+    - Higher crime rates in capitalist societies; crime increases with capitalism.
+    - Self-interest is encouraged, leading to greed and crime, especially among lower classes (Barlow & Kauzlarich, 2010).
+    - Criminal law functions to protect ruling class interests; emphasizes exploitation and systemic bias.
+    - A socialist society could reduce crime by promoting collective welfare.
+
+#### 5.2.5 EXPONENTS OF THE RADICAL CONFLICT PERSPECTIVE
+
+- **William Chambliss**
+  - Work: *Law, Order and Power* (1971).
+  - Propositions:
+    - Life situations influence values; societies are composed of conflicting norms.
+    - Dominant groups enforce laws aligning with their interests.
+    - Middle/upper class offenders more likely to evade justice.
+
+- **Richard Quinney**
+  - Describes crime's definition as a tool of the dominant class in capitalist societies (McCaghy, 2016).
+  - Key propositions:
+    - Crime definitions are shaped by the ruling class.
+    - Behaviour patterns develop based on crime definitions.
+    - Social reality of crime is constructed through communication and enforcement (Quinney, *Class, State and Crime*, 1977).
+
+#### 5.2.6 RADICAL CRIMINOLOGY AND POLICY IMPLICATIONS
+
+- Current radical criminology seeks practical reforms within the existing system:
+  - Focus on equity in justice, addressing corporate crime, employment opportunities.
+  - Emphasizes gradual transition to socialism and systemic change to reduce crime.
+
+- Criticisms:
+  - Overemphasis on social change vs. theoretical clarity.
+  - Ignores broader public consensus against crime.
+  - Simplifies crime causes, neglecting multiple contributing factors.
+
+#### 5.2.7 SUMMARY AND CONCLUSION
+
+- Conflict and competition for scarce resources drive crime, particularly in capitalist societies.
+- Both Marx and Bonger oversimplify crime origins by neglecting middle class influences.
+- Chambliss and Quinney continue to emphasize class struggle and survival, advocating for socialist solutions.
+- Contemporary radicalists focus on reforms rather than revolution, recognizing complexity in crime causation while still being critiqued for ignoring public consensus on crime's inadvisability.
+
+### Diagram References
+- Diagrams illustrating the class structure and conflict dynamics in capitalist societies may help clarify the relationships between the bourgeoisie and proletariat.
+----- END OF CHUNK -----
+# CMY3701/1
+## STUDY UNIT 5.2: The labelling perspective
+
+### 5.2.7.3 Self-assessment multiple-choice questions
+- Identify a theory that focuses on how different groups in society are characterised with regards to power relations.
+  - **Conflict theory**
+
+- Which segment of a population comprises members at a relatively similar economic level?
+  - **Social class**
+
+- Which one of the following statements describes the term bourgeoisie?
+  - **The wealthy segment of a society who are the owners of the means of production and shape criminal law.**
+
+- Identify an appropriate description for class consciousness as a reaction to the capitalist system.
+  - **Revolting against the capitalist society.**
+
+- Which one of the following options describes the official definition of crime according to Quinney’s propositions?
+  - **In a capitalist society, crime is defined as human conduct that is created by agents of the dominant class.**
+
+### 5.2.7.4 Feedback on self-assessment multiple-choice questions
+- 1. 3
+- 2. 2
+- 3. 1
+- 4. 3
+- 5. 4
+
+### 5.2.7.5 Self-assessment paragraph-type questions
+- Outline the assumptions of the conflict perspective.
+- Discuss Quinney’s contribution as an exponent of the radical conflict perspective.
+
+### 5.2.7.6 Feedback on self-assessment paragraph-type questions
+- **(6)** Refer to paragraph 5.2.2
+- **(7)** Refer to paragraph 5.2.4
+
+### 5.2.9 REFERENCES
+- Anderson, JF et al. - *Criminal justice and criminology: terms, concepts, and cases*.
+- Barlow, H.D & Kauzlarich, D. - *Explaining crime: a primer in criminological theory*.
+- Beirne, P & Messerschmidt, JW. - *Criminology* (4th ed.).
+- Brown, S.E et al. - *Criminology: explaining crime and its context* (8th ed.).
+- Burke, RH. - *An introduction to criminological theory* (2nd & 4th eds.).
+- Hunter, R.D & Dantzker, M.L. - *Crime and criminality: causes and consequences*.
+- Jones, S. - *Criminology* (3rd ed.).
+- Joyce, P. - *Criminal justice: an introduction to crime and the criminal justice system* & *Criminology and criminal justice: a study guide*.
+- Lilly, J.R et al. - *Criminological theory: context and consequences* (4th ed.).
+- McCaghy, C.H. - *Deviant behaviour: crime, conflict and interest groups* (8th ed.).
+- Reid, S.T. - *Crime and criminology* (15th ed.).
+- Schmalleger, F. - *Criminology today*.
+- Siegel, L.J. - *Criminology: The Core* (6th ed.) & *Criminology: Theories, patterns and typologies* (13th ed.).
+- Walsh, A & Hemmens, C. - *Introduction to Criminology: a text/reader*.

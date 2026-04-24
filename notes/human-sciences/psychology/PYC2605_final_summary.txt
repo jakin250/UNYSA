@@ -1,0 +1,2130 @@
+# PYC2605 STUDY GUIDE: HIV/AIDS Care and Counselling (University of South Africa)
+
+## CONTENTS 
+- **1 INTRODUCTION** ................................................................................................................. 2
+- **2 ADDENDUM A: CHAPTERS 1 TO 6** .................................................................................. 3
+
+---
+
+## 1 INTRODUCTION
+
+- Prescribed book: **Van Dyk, A., Tlou, E., & Van Dyk, P. (2017)**. HIV and AIDS education, care, and counselling: A multicultural approach (6th ed.). Cape Town: Pearson Education.
+- Chapters available on **myUnisa**.
+- Examination covers the entire syllabus.
+
+---
+
+## 2 ADDENDUM A: CHAPTERS 1 TO 6
+
+### Chapter 1: HIV and Aids: A brief history
+1.1 The birth of a new epidemic
+- Overview of HIV/AIDS emergence.
+
+1.2 The origin of HIV
+- Historical contexts and virus evolution.
+
+1.3 The global AIDS epidemic
+- Statistics and demographic impacts.
+
+1.4 The world’s response to the AIDS epidemic
+- International health policies and interventions.
+
+1.5 Conclusion
+- Summary of the chapter's key points.
+
+### Chapter 2: HIV and the immune system
+2.1 The immune system
+- Fundamental components and responses.
+
+2.2 The Human Immunodeficiency Virus (HIV)
+- Virus structure and replication.
+
+2.3 Conclusion
+- Key takeaways about HIV's interaction with the immune system.
+
+### Chapter 3: Transmission and prevention
+3.1 Sexual transmission of HIV infection
+- Mechanisms of sexual transmission.
+
+3.2 Transmitting HIV through contaminated blood
+- Routes and risks associated with blood transmission.
+
+3.3 Mother-to-child transmission of HIV
+- Pathways of transmission during pregnancy, birth, and breastfeeding.
+
+3.4 Myths about the transmission of HIV
+- Debunking common misconceptions.
+
+3.5 Prevention of HIV
+- Effective prevention strategies and public health measures.
+
+3.6 Conclusion
+- Recap of prevention and transmission insights.
+
+### Chapter 4: HIV-associated symptoms and diseases
+4.1 CD4+ T cell count, viral load, and stages of HIV infection
+- Clinical metrics for monitoring HIV progression.
+
+4.2 The stages of HIV infection
+- Description of acute, chronic, and AIDS stages.
+
+4.3 Symptoms of HIV infection in children
+- Age-specific clinical presentations.
+
+4.4 Prevention of opportunistic infections
+- Strategies to reduce infection risks.
+
+4.5 Tuberculosis
+- Correlation between TB and HIV.
+
+4.6 Sexually transmitted infections
+- Interrelationships with HIV.
+
+4.7 Conclusion
+- Synthesis of HIV symptomatology and disease prevention.
+
+### Chapter 5: HIV tests
+5.1 HIV testing as a diagnostic tool
+- Importance and types of testing methods.
+
+5.2 HIV antibody tests
+- Mechanisms and interpretation.
+
+5.3 HIV virus tests
+- Direct measurement and diagnostic relevance.
+
+5.4 HIV counselling and testing algorithms
+- Approach to testing and patient counseling.
+
+5.5 Conclusion
+- Summary of testing methodologies and implications.
+
+### Chapter 6: Antiretroviral therapy (ART)
+6.1 Clinical assessment
+- Initial evaluations prior to ART initiation.
+
+6.2 Goals of ART
+- Objectives in managing HIV infections.
+
+6.3 Classes of ART and their mechanisms of action
+- Overview of ART classes and pharmacodynamics.
+
+--- 
+
+**Note**: For diagrams and illustrations, refer to the original chapters as indicated in the syllabus.
+----- END OF CHUNK -----
+# HIV and AIDS Education, Care and Counselling: A Multicultural Approach
+
+## Chapter 1: HIV and Aids: A Brief History
+### 1.1 The Birth of a New Epidemic
+- Awareness begins June 1981 (CDC in Atlanta)
+    - Noted rare pneumonia (PCP) and Kaposi’s sarcoma in young homosexual men.
+- Initially thought to affect homosexuals; later identified in haemophiliacs, drug users, and heterosexuals in Africa.
+- Disease termed "slim disease" due to symptoms like severe diarrhea and weight loss.
+
+### Terminology 
+- **Aids (Acquired Immunodeficiency Syndrome)**: Caused by HIV, characterized by immune system failure leading to increased susceptibility to infections.
+- **Mutation**: Structural change in a gene leading to variant forms.
+
+### 1.1.1 A Controversial Discovery
+- Discovery attributed to Dr. Luc Montagnier (1983) at the Pasteur Institute; later contested by Dr. Robert Gallo.
+- Significant media coverage and judicial disputes over credit for the discovery of HIV and subsequent developments in antibody testing.
+
+## Chapter 6: Antiretroviral Therapy (ART)
+### 6.4 Antiretroviral Drugs Available in Southern Africa
+- Overview of key ARVs: classes, indications, and regional availability.
+
+### 6.5 Guidelines for the Use of ART
+- Protocols based on patient criteria, adherence, and resistance factors.
+
+### 6.6 Adverse Effects of ART
+- Common side effects and management strategies.
+
+### 6.7 How to Know if ART is Effective
+- Indicators: viral load reduction, CD4 count increase.
+
+### 6.8 When to Change ART
+- Criteria for switching therapy based on effectiveness and side effects.
+
+### 6.9 The Development of Drug-Resistant Viruses
+- Mechanisms of resistance and implications for treatment strategies.
+
+### 6.10 Adherence to ART
+- Strategies to enhance patient adherence: counseling, education, support systems.
+
+### 6.11 Prevention of Mother-to-Child Transmission
+- Approaches for effective PMTCT, including prenatal care and ART.
+
+### 6.12 Post-Exposure Prophylaxis After Occupational Exposure
+- Guidelines for PEP protocols following needlestick injuries.
+
+### 6.13 PEP After Rape or Sexual Assault
+- Recommendations for immediate post-incident care and ART initiation.
+
+### 6.14 Pre-Exposure Prophylaxis
+- Use of PrEP for at-risk populations to reduce HIV incidence.
+
+### 6.15 Conclusion
+- Summary of ART's essential role in HIV management and ongoing challenges in treatment adherence and resistance.
+
+---
+
+**Note:** Diagrams related to ART protocols or HIV transmission may be referenced but not included here.
+----- END OF CHUNK -----
+# HIV and Aids education, care and counselling: A multicultural approach
+
+## Chapter 1: HIV and Aids: A Brief History
+
+### 1.1 Nobel Prize Discovery
+- Nobel Prize awarded in Physiology and Medicine 2008.
+- Luc Montagnier and Françoise Barré-Sinoussi (HIV discovery).
+- Harald zur Hausen (HPV vaccine).
+- Controversy surrounding Robert Gallo's absence in the prize discussion.
+
+### 1.2 The Origin of HIV
+- Questions about Aids origin: historical presence or recent emergence?
+- **Schoub (1999: 13)** indicates limited knowledge about human virus origins.
+- Speculations included:
+  - Aids present in central Africa for centuries, undiagnosed.
+  - Polio vaccine linked to Aids causation.
+  - Anti-malaria medication as a potential cause.
+- Conclusion: HIV likely crossed species barrier from primates (simians).
+
+#### 1.2.1 Crossing the Species Barrier
+- HIV related to SIV (simian immunodeficiency virus).
+- Possible multiple SIV strains transmitted at different times to humans:
+  - **HIV Type 1**: Dominated by group M; divided into subtypes A-K.
+  - **HIV-1 subtype C** prevalent in southern Africa.
+  - **HIV Type 2**: Limited to West Africa; less pathogenic than HIV-1.
+  - Origin researches implicated chimpanzees around the 1930s (Williamson & Martin, 2010).
+
+#### 1.2.2 Urban Legends
+- Urban legends reflect societal fears about HIV’s origin.
+- Conspiracy theories assert blame on various entities.
+- Importance for educators: countering misconceptions with scientific facts.
+
+### 1.3 The Global Aids Epidemic
+- Aids remains a critical health issue.
+- Reduction in new HIV infections from 3.5 million (1996) to approximately 2 million annually (2016).
+- Sub-Saharan Africa significantly affected; women and children are disproportionately impacted.
+
+#### 1.3.1 Incidence and Prevalence of HIV Infection
+- Differentiation:
+  - **HIV incidence**: new infection cases in a time period; expressed as a percentage.
+    - Example: 3.6% incidence if 1 million new cases in 27.8 million uninfected.
+  - **HIV prevalence**: proportion of HIV-infected individuals at a specific time.
+    - Example: 10.2% prevalence if 5.51 million out of 54 million population.
+
+##### 1.3.1.1 HIV Incidence
+- Difficult to measure; often obtained via statistical modelling.
+- Longitudinal studies required to determine new infections.
+
+##### 1.3.1.2 HIV Prevalence
+- Measured via: antenatal prevalence surveys, community surveys, key population studies.
+- Includes anonymous blood testing during antenatal checks.
+
+#### 1.3.2 Measuring HIV Prevalence
+- National estimates derived from various surveys.
+- Antenatal surveys since 1990 for trend assessment.
+- National surveys provide demographic insights.
+
+### 1.4 The World’s Response to the Aids Epidemic
+- Initial responses marked by denial and stigma.
+- Mischaracterization of Aids as a "gay disease."
+- Division between "innocent victims" (e.g., haemophiliacs) and those perceived as responsible for spreading the disease.
+----- END OF CHUNK -----
+# HIV and Aids education, care and counselling: A multicultural approach  
+**Page 12**  
+
+## 1.4  South Africa’s response to the Aids epidemic  
+### 1.4.1  Inaction and denialism  
+- Initial response marked by government inaction, denialism; Aids seen as a ‘gay’ disease.
+- 1985: First Aids Advisory Group established; ineffective without government support.
+- 1993: National Aids Convention of South Africa (NACOSA) formed; unification of government and activists.
+- 1994: ANC presidency (Nelson Mandela) brought hope but faced numerous challenges including TB co-infection.
+- Notable scandals: Sarafina II (1996), Virodene (1997) undermined credibility.
+- 1998: Government refusal to provide AZT to pregnant women post-USA approval; case highlighted increasing HIV in pregnant women (4.3% to 17% 1994-1998).
+- 1998: Treatment Action Campaign (TAC) led by Zackie Achmat formed for treatment rights; nominated for Nobel Prize 2004.
+
+### 1.4.2  Our darkest days  
+- Mbeki era (1999-2008): characterized by denialism and refusal of ARVs for pregnant women.
+- 2002: South African High Court ordered provision of nevirapine after TAC activism; HIV prevalence in pregnant women at 24.5%.
+- 2003: Antiretroviral therapy made available for free; criticized as ‘too little too late’ (330,000 lives potentially lost).
+- Continued embarrassment due to support of untested remedies (vitamin supplements, etc.) by health minister.
+- 2006: Minister's promotion of alternative remedies at the International Aids Conference escalated controversies.
+- Changes initiated post-2006 with Deputy Minister Madlala-Routledge; dismissal by Mbeki in 2007 amidst crises.
+
+### 1.4.3  A new beginning?  
+- Jacob Zuma's election raised concerns but eventually positive responses emerged.
+- Commitment to five-year National Strategic Plan for Aids and TB.
+- 2009: Announced interventions on World Aids Day; aimed to improve access to ARVs for vulnerable groups.
+- 2010: New clinical guidelines implemented for HIV management; major HIV testing campaign launched (18 million tested).
+- 2015: Shift to treat HIV-infected at higher CD4+ counts; lifelong treatment for pregnant women initiated.
+- 2016: Removal of CD4+ count requirement for ARV treatment announced; expansion of PrEP availability.
+
+## 1.4.4  Positive worldwide responses  
+- HIV has prompted significant research and advancements in treatment and prevention.
+- 1994: AZT recommended for pregnant women in the USA, reduced transmission to infants.
+- 1995: Introduction of combination antiretroviral treatment (HAART).
+- 2001: WHO/UNAIDS’ '3 by 5' initiative aimed at treating 3 million people in low- and middle-income countries.
+- 2013: WHO guidelines for earlier ARV treatment adoption; escalating treatment access from 7% (2003) to 42% (2008).
+- Ongoing vaccine research; 2016: Experimental vaccine study began in South Africa.
+
+### Tables and Figures
+- **Table 1.1 (Pages 17-23):** Summary of HIV and Aids historical events – South African and global context.
+- **Figure 1.4:** Depicts government order for nevirapine provision to HIV-infected pregnant women.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## Chapter 1: A Brief History of HIV and Aids
+- **Year Overview**
+  - Tracking scientific developments, global epidemics, South African events, and local epidemics from 1990-2016.
+
+### 1.1 Timeline of Key Events
+- **1990**
+  - *Global*: 8 million people with HIV.
+  - *SA*: First national antenatal survey reported 0.8% HIV infection among pregnant women.
+
+- **1991**
+  - *Global*: HIV prevalence rose to 10-15 million.
+  - *SA*: Shift towards heterosexual transmission; ATICs established.
+
+- **1992**
+  - *Global*: HIV cases in sub-Saharan Africa reached 10 million.
+
+- **1993**
+  - *Global*: NACOSA established for a national AIDS strategy; 4.3% of pregnant women in SA tested HIV positive.
+
+- **1994**
+  - *Global*: AZT recommended to reduce MTCT in pregnant women.
+  - *SA*: NACOSA's strategy adopted for government AIDS plan; Soul City multimedia project launched.
+
+- **1995**
+  - *Global*: HAART introduced; UNAIDS established; HIV cases reach 19.5 million.
+  - *SA*: 850,000 individuals estimated to be HIV positive.
+
+- **1996**
+  - *Global*: Rise in HAART usage leads to a decline in AIDS deaths in developed countries; 12.2% of pregnant women in SA tested positive.
+
+- **1997**
+  - *Global*: HIV deaths decline in developed countries; 22 million people living with HIV globally.
+  - *SA*: 17% of pregnant women tested positive; national survey reveals political leadership gaps.
+
+- **1998**
+  - *SA*: Government refusal to provide AZT; TAC founded to advocate for rights of those living with HIV; Deputy President's statement on new infections.
+
+- **1999**
+  - *Global*: HIV cases reach 34.3 million. LoveLife launched to educate youth; 22.4% of pregnant women tested positive in SA.
+
+- **2000**
+  - *SA*: First International AIDS Conference held; five-year plan launched to combat HIV/AIDS.
+
+- **2001**
+  - *Global*: 12.1 million children orphaned by AIDS; Khomanani campaign launched in SA; estimated 4.7 million HIV positive in SA.
+
+- **2002**
+  - *Global*: Botswana’s treatment programme begins; SA High Court orders government to provide nevirapine.
+
+- **2003**
+  - *Global*: 3 by 5 Initiative launched to improve ARV access; South Africa approves free ART in public sector.
+
+- **2004**
+  - *Global*: PEPFAR launched; rollout of free ARVs in SA.
+
+- **2005**
+  - *Global*: 1.3 million receive ART; leaders target universal access to HIV treatment by 2010.
+  - *SA*: 30.2% of pregnant women HIV positive; 1.2 million children orphaned.
+
+- **2006**
+  - *Global*: More HIV-infected in developing countries receive ART; South African Minister criticized globally for Aids diet presentation; Deputy President announces new National Aids Council.
+
+- **2007**
+  - *Global*: Major HIV vaccine trial halted; Botswana reduces MTCT rate.
+
+- **2008**
+  - *Global*: Nobel Prize awarded for HIV discovery; South Africa's HIV prevalence at 10.6%.
+
+- **2009**
+  - *Global*: Obama removes travel ban for HIV patients; commitment to new National Strategic HIV Plan in SA.
+
+- **2010**
+  - *Global*: New ARV guidelines; SA government launches massive testing programme; 18 million tested.
+
+- **2011**
+  - *Global*: Early ART initiation reduces transmission; 59% of pregnant women receive treatment to prevent MTCT.
+
+- **2012**
+  - *Global*: Guidelines released for ARV treatment as prevention; 54% of eligible individuals receive ART in SA; 12.2% of the population HIV positive.
+
+- **2013**
+  - *Global*: 30% decrease in AIDS-related deaths since 2005; Uganda passes controversial legislation.
+
+- **2014**
+  - *Global*: Commitment to end AIDS epidemic by 2030; 90-90-90 treatment targets set by UNAIDS.
+
+- **2015**
+  - *Global*: WHO updates ART start criteria; decrease in HIV-related deaths.
+
+- **2016**
+  - *SA*: Minister announces removal of CD4 count as an ART eligibility criterion.
+
+## 1.5 Conclusion
+- Historical context displays the reframed understanding of HIV's impact and ongoing response challenges, emphasizing the effects of political dynamics on public health actions.
+
+### Test Your Understanding
+- Acronyms and significant legislative milestones can be evaluated but excluded from notes.
+
+### Reference List
+- Includes academic and research publications on HIV/AIDS, specifically cited works and their respective authors.
+  
+(Note: This summary excludes activities, self-assessments, and feedback materials, following guidelines for the note's density and content.)
+----- END OF CHUNK -----
+# Chapter 2
+## HIV and the immune system
+
+### The immune system
+- **Defenses against pathogens**: The immune system protects the body from pathogens through:
+  - **First line of defence**: Physical barriers (e.g., skin).
+  - **Second line of defence**: Innate immune response through inflammation and phagocytosis.
+  - **Third line of defence**: Adaptive immune system with specific responses.
+
+- **Functions of the immune system**: Detects pathogens, kills them, and adapts for future protection.
+
+- **When the immune system fails**: Compromised immune responses can lead to infections. 
+
+### The human immunodeficiency virus (HIV)
+- **General viruses**: Pathogens that replicate within host cells.
+- **Specificity of viruses**: Viruses target specific cells; HIV targets CD4+ T cells.
+- **Uniqueness of HIV**: High mutation rates due to errors in replication; leads to variability and different subtypes (e.g., clades).
+
+### 2.1 The immune system
+#### 2.1.1 The first line of defence
+- **Physical barriers**: Skin and mucous membranes prevent pathogen entry.
+- **Non-specific defences**: Act against all pathogens indiscriminately.
+
+#### 2.1.2 The second line of defence
+- **Innate immune response**: 
+  - Inflammatory response: Redness, pain, swelling, heat signals the immune system.
+  - Phagocytes: Engulf and digest pathogens.
+  - Example cells: Macrophages, neutrophils, eosinophils, natural killer cells.
+
+- **Plasma proteins**: Complement proteins assist in destroying pathogens by forming pores and marking them for phagocytosis.
+
+#### 2.1.3 The third line of defence
+- **Adaptive immune system**: Highly specialized and specific immune responses developed upon exposure to pathogens.
+- **Phases of immune response**:
+  1. **Recognition and warning**: Distinguishing between self and non-self.
+  2. **Mobilisation and battle**: Activation of specific lymphocytes and antibodies.
+  3. **Demobilisation**: Return to homeostasis post-infection.
+  4. **Active and passive immunity**: Long-term immunity via memory cells and short-term immunity through antibodies from other sources.
+
+### Diagram References
+- **Figure 2.1**: Key role players in the immune system, adapted for quick reference during learning.
+
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## 2.1. Cellular Biology and the Immune System
+
+### 2.1.1 Overview of Biological Cells
+- **Outer Membrane:** Controls fluid/nutrient exchange.
+- **Organelles:** Each cell contains functional structures.
+- **Genome:** Genetic material, primarily double-stranded DNA, serves as a building plan.
+  
+### 2.1.2 Immune System Recognition
+- **Unique Genetic Codes:** Pathogen identification through distinctive proteins (antigens).
+- **Antigens:** Unique to each species and signal foreign invaders.
+  
+### 2.1.3 Immune Response Phases
+#### 2.1.3.1 Phase 1: Recognition
+- **Known vs. Unknown Pathogens:** Known pathogens trigger a swift immune response via memory cells.
+- **Memory Cells:** T and B cells store history of antigens for quick reactions.
+
+#### 2.1.3.2 Phase 2: Mobilisation and Battle
+- **Lymphocytes:** Key white blood cells: T (thymus) and B (bone marrow).
+  - **CD4+ T Cells:** Regulatory, stimulate immune response.
+  - **CD8+ T Cells:** Cytotoxic, kill infected cells via cytotoxins.
+- **Antigen-Presenting Cells (APCs):** Dendritic cells and macrophages present epitopes to T cells.
+
+#### 2.1.3.3 Phase 3: Demobilisation
+- **Suppressor T Cells:** Instruct CD4+ T and CD8+ T cells to cease actions after infection is eradicated.
+
+#### 2.1.3.4 Phase 4: Active and Passive Immunity
+- **Active Immunity:** Long-term immunity from memory T and B cells post-infection; generated via vaccination.
+  
+- **Passive Immunity:** Short-term immunity transferred from mother to infant (IgG across placenta, IgA in colostrum); injectable antibody-rich serum for adults.
+
+### 2.1.4 Immune System Function Summary
+- **Phases of Immune Response:** Summary is illustrated in **Figure 2.5**.
+- **Protection Mechanisms:** Antibodies prevent infections by neutralizing pathogens and recruiting immune cells.
+
+--- 
+
+Note: All legislative references and case law mentioned should be duly noted if applicable, although not present in the provided text.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+### 2.1.5 When the Immune System Fails
+- **Normal Functionality**: The immune system typically addresses infections; severe pathogens (e.g., rabies) can bypass this.
+- **Weakened Immunity**: Aging, stress, poor diet, or inherited factors can impair immunity, making individuals vulnerable to non-lethal infections.
+- **Acquired Deficiency**: HIV, being an acquired condition, attacks immune cells, notably CD4+ T cells, leading to immunodeficiency.
+- **Medication**: No cure for HIV; ARVs delay replication, assisting immune recovery.
+
+### 2.2 The Human Immunodeficiency Virus (HIV)
+
+#### 2.2.1 Viruses in General
+- **Pathogen Classification**: Includes bacteria, viruses, protozoa, and fungi; viruses require host cells for replication.
+- **Mechanism**: Viruses hijack host cell machinery to replicate, using integration of genetic material into host DNA.
+
+#### 2.2.2 The Specificity of Viruses
+- **Infection Criteria**: Viruses can only infect cells with matching receptor types (e.g., HIV targets CD4+ T cells).
+- **Antibody Production**: The immune system uses virus-specific antigens to generate antibodies targeting viral proteins.
+
+#### 2.2.3 The Uniqueness of HIV
+- **Retrovirus Characteristics**: Circular structure (0.0001 mm), contains RNA and enzymes (reverse transcriptase, protease, integrase).
+- **Core Proteins**: p24 crucial for diagnosis; infections lead to direct attack on CD4+ T cells.
+- **Implication**: Reduction in CD4+ T cells leads to impaired immune response and opportunistic infections.
+
+#### 2.2.4 HIV Infection and Replication
+
+##### 2.2.4.1 How HIV Enters the Body
+- **Entry Mechanism**: HIV can infect through intact mucous membranes via Langerhans cells that transport the virus into the body.
+
+##### 2.2.4.2 Steps of Infection and Replication
+- **Step 1 – Attachment**: Gp120 attaches to CD4 receptors on T cells. Binding requires additional co-receptor (CCR5 or CXCR4) binding for entry.
+- **Co-Receptors**: 
+  - **CCR5**: Found on activated lymphocytes, macrophages, dendritic cells.
+  - **CXCR4**: Present on resting T cells and monocytes.
+
+### 2.2.5 Structure and Genetic Information of HIV
+- **Gene Classification**:
+  - **gag gene**: Inner core proteins (e.g., p24).
+  - **env gene**: Envelope proteins responsible for host binding (e.g., gp120, gp41).
+  - **pol gene**: Virus enzymes for replication (e.g., reverse transcriptase).
+- **Regulatory Genes**: 
+  - Positive (tat, rev, vif, vpu) and negative (nef) regulatory genes manage virus replication and protein synthesis.
+
+### Figures
+- **Figure 2.5**: Immune System Phases
+- **Figure 2.6**: HIV Structure
+- **Figure 2.7**: HIV Infection Steps
+
+### Glossary
+- **Immune Deficiency**: Weakened immune function.
+- **Opportunistic Infections**: Infections exploiting weakened immunity.
+- **Retrovirus**: Viruses like HIV that convert RNA into DNA in host cells.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+### 2.2.4 Steps of HIV Infection
+- **Step 1 – Attachment**: HIV (gp120) binds to CD4 receptors on CD4+ T cells.
+- **Step 2 – Fusion**: Membranes of the virus and host cell merge.
+- **Step 3 – Injection**: HIV injects its RNA and enzymes (reverse transcriptase, integrase, protease) into the CD4+ T cell.
+- **Step 4 – Reverse Transcription**: Viral RNA is converted to proviral DNA using reverse transcriptase.
+- **Step 5 – Integration of Genetic Material**: Proviral DNA integrates with host cell DNA, aided by integrase.
+- **Step 6 – Replication of Genetic Material**: Utilizes host cell machinery to replicate viral RNA for new viruses.
+- **Step 7 – Production of New Viruses**: Protease assembles viral RNA and proteins into new viruses, killing host cells and infecting others.
+
+### 2.2.5 Variability and Subtypes of HIV
+- **Genetic Diversity**: High mutation rates complicate immune recognition and vaccine development.
+- **Mutation Causes**:
+  - Errors during genetic copying (reverse transcriptase is error-prone).
+  - Recombination between viral genomes (new recombinant viruses formed).
+  
+#### 2.2.5.1 HIV Groups and Subtypes
+- **Group M**: Main group causing global HIV epidemic, subdivided into subtypes (A, B, C, D, F, G, H, J, K).
+- **Subtype Distribution**:
+  - Subtype C: Southern and Eastern Africa, Nepal, India.
+  - Subtype A: West Africa.
+  - Subtype D: Parts of Eastern and Central Africa.
+  - Subtype B: Europe, North America, Australia, Thailand, Japan.
+
+- **HIV-2**: Less pathogenic, mainly in West Africa; classified into nine groups (A to I) with only groups A and B epidemic.
+
+### 2.2.6 Different Responses to HIV Infection
+- **Median Survival Time**: 
+  - 10.5 years for females, 11.5 years for males; shorter in Africa due to various factors.
+- **Progression Rates**: 
+  - Rapid progressors (HIV to AIDS in 2-3 years) vs. slow progressors (long-term disease-free).
+  
+### Conclusion
+- Understanding HIV's impact on the immune system is crucial, yet complete eradication remains unachieved. Preventing transmission is key, highlighting the need for awareness of infection methods. The focus will shift to transmission dynamics in the next chapter.
+----- END OF CHUNK -----
+# Chapter 3: Transmission and Prevention
+
+## Chapter Outline
+- Sexual transmission of HIV infection
+- Transmitting HIV through contaminated blood
+- Mother-to-child transmission of HIV
+- Myths about the transmission of HIV
+- Prevention of HIV
+  - Behavioural intervention
+  - Biomedical intervention
+  - Structural intervention
+
+## 3.1 Sexual Transmission of HIV Infection
+- Primary transmission methods: unprotected vaginal/anal intercourse, and certain oral sexual acts.
+- High risk in sub-Saharan Africa predominantly via heterosexual intercourse.
+- HIV enters bloodstream through body fluids (semen, vaginal fluid, blood, breastmilk).
+- **Cell Interaction**: Requires connection to CD4 receptors and co-receptors on macrophages, dendritic cells, and CD4+T cells.
+- **Langerhans Cells**: Act as antigen-presenting cells that facilitate HIV transport to CD4+T cells.
+
+### 3.1.1 Contributing Factors Influencing the Spread of HIV
+#### 3.1.1.1 Gender
+- Women/girls more susceptible to HIV (e.g., prevalence rates: 14.4% women vs. 9.9% men in 2012).
+- Biological factors: prolonged exposure to male semen, larger mucosal exposure, STIs, and vaginal conditions.
+- **Menstrual Cycle**: High risk during menstruation.
+- **Cultural Practices**: ‘Dry sex’ exacerbates risk; women often lack knowledge of reproductive health.
+
+#### 3.1.1.2 Age
+- Vulnerability peaks in reproductive years (15-24 age group).
+- **Age-disparate Relationships**: Increased risk due to relationships with older men contributing to higher infections in young women.
+
+## Prevention of HIV
+- Education on transmission is crucial.
+- **Behavioural Interventions**: Address multiple risks through education and empowerment.
+- **Biomedical Interventions**: Focus on medical solutions (e.g., antiretroviral therapy).
+- **Structural Interventions**: Address socioeconomic conditions fueling transmission.
+
+## Myths about the Transmission of HIV
+- Common misconceptions hinder prevention efforts.
+
+**References to Consult**  
+- **Legislation**: HIV/AIDS guidelines and laws relevant to prevention and education.  
+- **Cases**: Documented instances of HIV transmission patterns and implications for public health. 
+
+**Note**: For diagrams referencing cellular interactions or transmission pathways, refer to Chapter 2.
+----- END OF CHUNK -----
+# HIV and Aids education, care and counselling: A multicultural approach
+
+## 3.1 Transmission and Prevention
+
+### 3.1.1 Factors Affecting HIV Transmission
+
+#### 3.1.1.1 Age-Disparate Relationships
+- Higher HIV prevalence among youth (15-24 years) in age-disparate sex (Shisana et al., 2014).
+- Reasons for early sexual activity: low self-esteem, peer pressure, sexual coercion, financial exchange (transactional sex).
+  
+#### 3.1.1.2 Terminology
+- 'Prostitution' outdated; preferred terms: **sex work**, **sex worker**, **transactional sex**.
+- Refer to children involved as **commercial sexual exploitation of children** (UNAIDS, 2011: 2).
+
+#### 3.1.1.3 Other Sexually Transmitted Infections (STIs)
+- Presence of STIs (e.g., syphilis, herpes) increases HIV susceptibility (average fourfold).
+- STIs create breaches for HIV entry and attract immune cells (CD4 receptors).
+- Importance of timely STI treatment when symptomatic.
+
+#### 3.1.1.4 Socioeconomic and Cultural Conditions
+- Socioeconomic factors contribute to vulnerability: high unemployment, low status of women, extreme poverty, limited access to health services, disempowerment.
+- Issues needing address: community upliftment, women's empowerment, improved working conditions for HIV prevention.
+
+### 3.2 Modes of HIV Transmission
+
+#### 3.2.1 Contaminated Blood
+- Transmission via blood transfusions, shared needles.
+- **Window period**: time between HIV infection and detectable antibodies (potential false negatives in tests).
+
+#### 3.2.2 Blood Transfusions and Blood Products
+- 98-100% infection risk from transfusions of infected blood.
+- Recommendations for blood safety (WHO, 2015):
+  - National blood systems; low-risk voluntary donors; quality-assured screening.
+  
+#### 3.2.3 Injecting Drug Use
+- High risk from sharing needles.
+- Drug users often engage in sex work to fund habits, increasing transmission risk.
+
+#### 3.2.4 Blood-Contaminated Needles and Instruments
+- Risk through poor medical hygiene, accidental exposure, tattooing, piercing, or traditional practices.
+- Education for practitioners on instrument hygiene is essential.
+
+### 3.2.5 Occupational Exposure
+- Risk of HIV from needlestick injuries or contact with infected blood is approximately **0.3%** (CDC).
+- Transmission mainly occurs in healthcare settings from accidental exposure.
+
+### Glossary
+- **Self-esteem**: Personal value assessment.
+- **Urbanisation**: Migration from rural to urban areas.
+- **Viral Load**: Quantitative measure of virus detected in blood.
+- **Adherence**: Compliance with medication regimen for viral suppression.
+
+### Frequently Asked Questions
+- **Single Exposure Risk**: Infection risk after one sexual encounter is under 20 per 100,000 contacts (Morris & Cilliers, 2010: 93).
+- **Infectivity Phases**: Most infectious shortly after infection and during the AIDS phase.
+
+--- 
+
+This summary preserves all relevant headings, essential points, and crucial concepts without excessive detail, ensuring clarity and focus on key legal principles surrounding HIV and AIDS transmission and prevention.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## Transmission and Prevention
+
+**Post-exposure Prophylaxis (PEP)**
+- Provides antiretroviral medication to healthcare workers after exposure to HIV-infected blood.
+- Risk of transmission varies: 
+  - Needlestick injury: 0.3%
+  - Mucous membrane exposure: 0.1%
+  - Skin exposure: <0.1%
+
+**Infectious Body Fluids**
+- Amniotic fluid, cerebrospinal fluid, peritoneal fluid, pericardial fluid, and synovial fluid are potentially infectious.
+
+**Occupational Risks**
+- **Hepatitis B (HBV)**: More infectious than HIV (transmission risk ranges from 6% to 30%).
+- Vaccination against HBV is crucial for healthcare workers.
+
+**Universal Precautions**
+- Essential measures for anyone in contact with blood and body fluids to prevent HIV and other pathogens.
+
+## Mother-to-Child Transmission (MTCT) of HIV
+
+- Accounts for 90% to 95% of HIV infections in young children.
+- MTCT can occur during pregnancy, delivery, or breastfeeding.
+- Without precautionary measures, 25%-45% risk of transmission to infants.
+
+**Risk Factors for Transmission**
+- High maternal viral load, severe symptomatic HIV disease, recent maternal infection.
+
+**Preventative Interventions**
+- Antiretroviral therapy during pregnancy, elective Caesarean section, safe delivery, and safe infant feeding.
+
+### 3.3  Pregnancy
+- **Prevent New Infections**: Maintain low viral load.
+- **ART Initiation**: Lifelong ART regardless of CD4+ counts (option B+).
+- **Nutritional Support**: Provide iron, folate, and calcium supplements.
+- **Regular Monitoring**: Frequent clinic visits to monitor mother's health.
+
+### 3.3.1 Labour and Delivery
+- High risk of MTCT during vaginal delivery.
+- Use of ART during labor recommended.
+- Avoid prolonged membrane rupture and invasive procedures.
+
+### 3.3.2 Breastfeeding
+- Presence of HIV-infected cells in breastmilk.
+- Significant reduction in transmission risk with ART for mother or infant.
+  
+**Duration of Breastfeeding**
+- Optimal duration: **6 months exclusive breastfeeding** followed by complementary feeding until 12 months.
+  
+**Feeding Guidelines**
+- Avoid mixed feeding; it can increase MTCT risk.
+- Discuss safe alternatives for replacement feeding if chosen.
+  
+### Conditions for Safe Replacement Feeding
+- Access to safe water and sanitation.
+- Reliable provision of sufficient formula milk.
+- Ability to prepare formula safely.
+- Exclusive formula feeding in first six months.
+
+**Mixed Feeding Risks**
+- Increases vulnerability to infections.
+
+### Summary of Important Legislation/Cases
+- **CDC Guidelines**: Referencing risk assessments and universal precautions.
+- **WHO Recommendations**: Exclusive breastfeeding and feeding practices tailored for HIV-positive mothers.
+
+**Diagram References**
+- Risk assessment flowcharts and breastfeeding guidelines.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+---
+
+### 3.3.3 Feeding Techniques
+
+- **Replacement Feeding**: 
+  - Formula milk substitutes breastmilk for infants not receiving any breastmilk (WHO, 2016: vii).
+  
+- **Complementary Feeding**: 
+  - Introduces nutritious solids to infants over 6 months while continuing milk (breastmilk or formula).
+
+- **Heat-treated, Expressed Breastmilk**:
+  - Considered by HIV-infected mothers in specific circumstances:
+    - When infant cannot breastfeed (e.g., low birth weight).
+    - Mother is unwell or has temporary breastfeeding issues.
+    - To facilitate cessation of breastfeeding.
+    - Lack of access to antiretroviral drugs (ARVs).
+  
+- **Pasteurisation Temperatures**:
+  - 62°C for 30 minutes or 72°C for 15 seconds effectively inactivates HIV.
+
+- **Heat-treatment Methods**:
+  - **Traditional Method**: Boil water, place milk container in pot, monitor temperature rise to 60°C.
+  - **Flash Heating**: Immerse milk jar in boiling water until room temperature is reached (use within 6 hours).
+
+### 3.3.4 Sexual Behaviour and Birth Control
+
+- **Condoms**: 
+  - Best for contraception; also prevent HIV transmission.
+  
+- **Non-Contraceptive Methods**: 
+  - Inform users of risks with pills; high-risk interactions for IUCDs in HIV-infected women.
+  
+- **ARVs and Contraceptives**: 
+  - Injectable progesterone (Depo Provera®) is recommended; other hormonal methods may interact negatively with ARVs.
+
+### 3.4 Myths about HIV Transmission
+
+- HIV is NOT transmitted through:
+  - Airborne routes (coughing/sneezing).
+  - Casual skin contact (handshaking, hugging).
+  - Shared food/water/utensils.
+  - Social contact, public spaces (pools, schools).
+  - Kissing unless there are sores/blood.
+  - Donating blood with sterile practices.
+
+- **Dangerous Myths**: 
+  - Cures through sexual acts with virgins, unfounded beliefs can lead to criminal behaviour and further spread.
+
+### 3.5 Prevention of HIV
+
+- **Combination Prevention**:
+  - Need for a holistic approach combining interventions focused on behaviour, biomedical, and structural aspects.
+    
+- **Categories of Interventions**:
+  - **Behavioural Interventions**: 
+    - Focus on safer sexual practices and injecting drug use.
+    - Strategies include abstinence, partner reduction, fidelity, and safe condom use.
+  
+  - **Biomedical Interventions**: 
+    - Development of vaccines, use of antiretrovirals (ARVs), and male circumcision.
+    
+  - **Structural Interventions**: 
+    - Addressing socio-economic factors, laws, and access to care.
+
+### 3.5.1 Behavioural Interventions
+
+- **Sexual Practices**:
+  - Strategies targeting safe sex, partner reduction, fidelity, and correct condom use.
+  
+- **Harm Reduction for Drug Users**:
+  - Needle-exchange programs, clean needle access, education, and methadone treatment.
+
+### 3.5.2 Biomedical Interventions
+
+- **Male Circumcision**: 
+  - Surgical procedure; reduces HIV transmission risk. 
+
+- **Microbicides and Vaccines**: 
+  - Research ongoing; key for future eradication efforts.
+
+--- 
+
+### Diagram References
+
+- **Figure 3.1**: Combination HIV-prevention interventions.
+
+---
+
+### Glossary 
+
+- **IUCD**: Intrauterine Contraceptive Device.
+- **ARVs**: Antiretroviral drugs. 
+
+---
+
+The above notes provide a concise yet comprehensive overview of the legal principles and concepts covered in the document, maintaining the original structure and chapter references. 
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## 3.5.2.1 Male Circumcision
+- Protective effect against HIV acquisition in heterosexual men (Siegfried et al., 2009).
+- Three trials (2002-2007, South Africa, Kenya, Uganda) show a 60% reduction of HIV infection risk (Auvert et al., 2005; Bailey et al., 2007; Gray et al., 2007).
+- Voluntary medical male circumcision (VMMC) adopted as HIV prevention strategy in 14 sub-Saharan African countries (Wamai et al., 2015).
+- Mathematical models indicate millions of HIV infections could be averted with widespread circumcision.
+
+### Key Considerations
+- **Not a cure**: Reduces, but does not eliminate HIV risk.
+- Increased sexual partners (>25%) can negate benefits (Gray et al., 2007).
+- Must be part of a comprehensive prevention package: safer sex counselling and education.
+- Risks associated: surgical complications (bleeding/infection); education for providers is crucial.
+
+### Methods and Devices for VMMC
+- **Surgical Options**: Traditional circumcision requiring anaesthesia and trained professionals.
+- **Non-surgical Methods**: Forceps Guided Method, Sleeve Resection Method, Tara Klamp, PrePex device (approved by WHO in 2013).
+  
+## 3.5.2.2 Microbicides
+- **Definition**: Substances designed to kill microorganisms (e.g., bacteria, viruses).
+- Microbicides can be applied vaginally or rectally to prevent HIV/STIs.
+  
+### Potential Mechanisms (Abdool Karim & Baxter, 2010)
+- Support natural vaginal defenses.
+- Kill or immobilize pathogens.
+- Create barriers to pathogen entry.
+- Prevent fusion and inhibit replication of viruses.
+
+### Research Highlights
+- **CAPRISA 004 trial**: Tenofovir gel reduced HIV infection rates by 6%-39% (Abdool Karim et al., 2015).
+- **FACTS 001 study**: No differences in HIV infection rates among users and placebo; adherence issues noted for young women (Rees et al., 2015).
+- **Dapivirine vaginal ring**: Effective for women over 25; studies showed a 27%-31% reduction in HIV infections.
+
+### Limitations
+- Microbicides may not provide 100% protection; condoms generally offer better protection.
+
+## 3.5.2.3 Antiretroviral Treatment as Prevention (TasP)
+- **Definition**: Use of ART to lower the risk of HIV transmission.
+  
+### Key Applications
+- **Mother-to-child transmission**: ART reduces risk to ~98%.
+- **Heterosexual discordant couples**: HPTN 052 study showed 96% reduction in transmission risk through ART (Monater, 2011).
+- **Post-exposure prophylaxis (PEP & nPEP)**: Short-term ART after potential exposure to HIV.
+
+### Pre-exposure Prophylaxis (PrEP)
+- **Definition**: ARVs taken before exposure to prevent HIV (e.g., Truvada®).
+- Efficacy: 44%-73% reduction in HIV incidence among MSM with high adherence.
+
+### Treatment as Prevention (Enrichment)
+- High viral load correlates with higher transmission risk; treating all HIV-positive individuals reduces community transmission.
+
+## 3.5.2.4 HIV Vaccines
+- Essential for eradicating HIV; vaccines build immunity against infections.
+
+### Vaccine Development
+- **Mechanism**: Uses harmless substances to invoke immune response.
+- Historical successes: Jenner's smallpox vaccine, Pasteur's vaccines for cholera, anthrax, rabies.
+  
+### Strategies for Vaccine Development (Kahn, 2005)
+- **Live attenuated pathogens**: Weakened live pathogens.
+- Other unspecified strategies continue to evolve alongside ongoing research. 
+
+### Conclusion
+- Global efforts focus on multi-faceted prevention strategies comprising circumcision, microbicides, ART, and vaccine research.
+----- END OF CHUNK -----
+# Chapter 4: HIV-associated symptoms and diseases
+
+## The CD4+ T cell count, viral load, and stages of HIV infection
+- **CD4+ T Cell Count**: Key indicator for immune function and disease progression.
+- **Viral Load**: Measures HIV presence in the blood, correlates with disease severity.
+- **Stages of Infection**: 
+  - Acute HIV Infection: High viral load, CD4 count drops.
+  - Clinical Latency: Lower viral load, CD4 count can normalize.
+  - AIDS: CD4 count < 200 cells/mm³, increased opportunistic infections.
+
+## The stages of HIV infection
+- **Stage 1**: Acute HIV Infection
+  - Symptoms: Flu-like, sharp increase in viral load.
+- **Stage 2**: Clinical Latency
+  - Asymptomatic, virus active but low levels.
+- **Stage 3**: AIDS
+  - CD4 count declines, appearance of opportunistic infections (OIs).
+
+## Symptoms of HIV infection in children
+- Growth impairment, recurrent infections, diarrhea.
+- Conditions indicating HIV: HIV-associated neurological disorders, chronic illness.
+
+## Prevention of opportunistic infections
+- **Preventing Exposure**: 
+  - Promote safe practices (e.g., safe sex).
+  - Vaccination where applicable.
+- **Antiretroviral Therapy (ART)**: 
+  - Vital for maintaining CD4 levels and reducing viral load.
+- **Regular Monitoring**: 
+  - Essential for early identification of complications and effective management. 
+
+## Conclusion
+- Understanding of CD4+ and viral load critical for managing HIV disease progression. 
+- Emphasis on prevention, early treatment, and awareness of co-morbid conditions.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## 4.1 CD4+T Cell Count, Viral Load and Stages of HIV Infection
+
+- **HIV's Impact on Immune System**
+  - HIV attacks CD4+T cells, neutralizing immune defenses.
+  - Increased susceptibility to infections and diseases.
+  - CD4+T cell count as key indicator for immune health.
+
+- **World Health Organization (WHO) Guidelines (2007)**
+  - Developed clinical staging and immunological classification for resource-poor settings.
+  
+- **Relationship Between Viral Load and CD4+T Cells**
+  - Inverse relationship; high viral load equates to low CD4+T count.
+  - Predictive of disease progression towards AIDS.
+  - Antiretroviral therapy (ART) essential for immune support and prolongation of life.
+
+- **Glossary**
+  - **CD4+T Cell Count Test**: Measures immune deficiency via CD4+T cell levels.
+  - **Disease Progression**: Indicators of health deterioration due to opportunistic infections.
+
+## 4.2 The Stages of HIV Infection
+
+- **WHO Clinical Staging**
+  - Four stages: 
+    - Clinical Stage 1: Asymptomatic
+    - Clinical Stage 2: Mild Symptoms
+    - Clinical Stage 3: Advanced Symptoms
+    - Clinical Stage 4: Severe Symptoms
+  - Allows for baseline assessment and management during ART.
+
+- **Symptoms and Treatment**
+  - Early treatment can reverse clinical status, improving CD4+T count and controlling viral load.
+
+### 4.2.1 Primary HIV Infection
+- **Description**
+  - Early infection phase before antibody detection; may present with flu-like symptoms.
+  - High viral load observed; highly infectious.
+  
+- **Prognosis**
+  - Steady viral state reached at 16-24 weeks; lower viral burden suggests a better prognosis.
+  - Detection via antibodies or viral proteins (HIV RNA and p24 antigen).
+
+### 4.2.2 Symptom Progression by Stage
+- **Summary Table (Refer to Figure 4.3)**
+  - **Primary Infection**: High viral load, decreasing CD4+T count.
+  - **Stage 1-4 Symptoms**: Ranging from asymptomatic to severe opportunistic infections.
+  
+- **Performance Status by Stage**
+  - Decreasing ability to perform normal activities as the disease progresses.
+
+## 4.2.3 Frequently Asked Questions
+- Lymph nodes swell due to immune response during infections.
+- High viral loads in primary HIV infection result from rapid virus replication before immune response develops.
+- CD4+T count rises and viral load drops following a developed immune response, essential for initiating ART's effectiveness.
+- ‘Undetectable’ viral load indicates levels below the test’s detection capacity.
+
+---
+
+This summary captures essential legal principles surrounding HIV/AIDS education, focusing on clinical management and prognostic indicators while preserving critical structural elements from the original text.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+---
+
+## 4.2 HIV-Associated Symptoms and Diseases
+
+### 4.2.2 Clinical Stage 1: Asymptomatic
+- Majority show no symptoms; unaware of HIV infection.
+- Virus actively weakens immune system; indication of HIV via positive test.
+- Possible symptom: **Persistent Generalised Lymphadenopathy (PGL)**.
+  - Swollen lymph nodes ≥1 cm in ≥2 sites, persisting 3+ months.
+- CD4+T cell count >500 cells/mm³; normal for healthy individuals: 500-1,500 cells/mm³.
+- Virus replication continues in lymph nodes.
+
+### 4.2.3 Clinical Stage 2: Mild Symptoms
+- Mild symptoms begin; CD4+T cell count: 350-499 cells/mm³.
+- Symptoms include:
+  - Moderate unexplained weight loss (<10% body weight).
+  - Recurrent upper respiratory infections (sinusitis, tonsillitis).
+  - **Herpes Zoster** (Shingles).
+  - **Angular Cheilitis** (fungal cracks in lips).
+  - **Oral Ulcers** (recurrent).
+  - **Papular Pruritic Eruptions (PPE)**.
+  - **Seborrhoeic Dermatitis**.
+  - Chronic itchy skin (**Prurigo**).
+  - Fungal nail infections.
+
+### 4.2.4 Clinical Stage 3: Advanced Symptoms
+- Signs of severe HIV-related diseases as immune system deteriorates; CD4+T cell count: 200-349 cells/mm³.
+- Symptoms:
+  - Severe unexplained weight loss (>10% body weight).
+  - Chronic diarrhoea >1 month.
+  - Persistent fever/night sweats >1 month, unresponsive to treatment.
+  - **Oral Candidiasis (Thrush)**.
+  - **Oral Hairy Leukoplakia**.
+  - **Pulmonary Tuberculosis (TB)**.
+  - Severe opportunistic bacterial infections (e.g., pneumonia).
+
+### 4.2.5 Clinical Stage 4: Severe Symptoms
+- Complicated by severe symptoms and opportunistic infections; CD4+T cell <200 cells/mm³.
+- Symptoms include:
+  - Weight loss and chronic diarrhoea.
+  - **Pneumocystis jiroveci pneumonia (PCP)**.
+  - **Chronic Herpes Simplex Virus** infections.
+  - **Oesophageal Candidiasis**.
+  - **Extrapulmonary TB**.
+  - **Kaposi’s Sarcoma** and other cancers.
+  - **Cytomegalovirus infections**.
+
+---
+
+## Glossary
+- **Asymptomatic Stage**: No symptoms present, immune system actively damaged (CD4+T >500 cells/mm³).
+- **Minor Symptomatic Stage**: Early signs emerge; mild immunosuppression (CD4+T 350-499 cells/mm³).
+- **Advanced Symptomatic Stage**: Severe disease signs; significant immunosuppression (CD4+T 200-349 cells/mm³).
+- **Severe Symptomatic Stage**: Severe opportunistic infections; highest viral load (CD4+T <200 cells/mm³).
+
+---
+
+## Table 4.1 WHO Clinical Staging of HIV and Aids for Adults and Adolescents (15 Years and Older)
+- **Clinical Stage 1**: Asymptomatic; PGL.
+- **Clinical Stage 2**: Moderate weight loss, recurrent infections, herpes zoster.
+- **Clinical Stage 3**: Unexplained weight loss, chronic diarrhoea, CD4+T <200 cells/mm³.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## 4.3 Symptoms of HIV Infection in Children
+- **Clinical Course**: Distinctly rapid progression from infection to AIDS in children; high mortality rates in Africa.
+- **Mortality Rates**: 
+  - 55% by age 2
+  - 90% by age 3
+  - 98% by age 5 without intervention (Coovadia, 2010).
+
+### Table 4.2 WHO Clinical Staging of HIV and AIDS for Infants and Children (< 15 Years)
+- **Clinical Stage 1**: 
+  - Asymptomatic
+  - Persistent generalized lymphadenopathy (PGL)
+  
+- **Clinical Stage 2**:
+  - Unexplained hepatosplenomegaly
+  - Papular pruritic eruptions
+  - Fungal nail infections
+  - Angular cheilitis
+  - Lineal gingival erythema
+  - Extensive wart virus and molluscum contagiosum
+  - Recurrent oral ulcerations
+  - Unexplained parotid enlargement
+  - Herpes zoster
+  - Recurrent upper respiratory infections
+
+- **Clinical Stage 3**:
+  - Moderate malnutrition/unexplained wasting
+  - Persistent diarrhoea (>14 days)
+  - Fever (>37.5ºC for >1 month)
+  - Oral candidiasis after 6-8 weeks
+  - Oral hairy leukoplakia
+  - Severe recurrent bacterial pneumonia
+  - Lymph node and pulmonary tuberculosis
+  - Unexplained anaemia (<8 g/dl), neutropenia, thrombocytopenia 
+
+- **Clinical Stage 4**:
+  - Severe wasting/malnutrition 
+  - Pneumocystis pneumonia
+  - Resistent bacterial infections
+  - Chronic herpes simplex
+  - Oesophageal candidiasis
+  - Extrapulmonary tuberculosis
+  - Kaposi’s sarcoma
+  - Central nervous system toxoplasmosis 
+  - HIV encephalopathy
+  - Chronic cryptococcosis
+  - Disseminated mycosis
+  - Cerebral/B-cell non-Hodgkin lymphoma
+
+(Source: WHO, 2007: 17–18)
+
+### Diagnosis Guidelines
+- **IMCI Approach**: Routine HIV screening; presumptive severe HIV diagnosis criteria for children < 18 months with no virological testing.
+  
+### Antiretroviral Therapy (WHO Guidelines, 2015)
+- Immediate antiretroviral therapy for all HIV-infected children, regardless of clinical stage.
+
+### Note on Testing in Infants
+- HIV-antibody tests unreliable < 18 months; use HIV PCR or viral tests instead.
+
+### Enrichment: Immune Status in Children
+- Absolute CD4+T cell counts differ; %CD4+T cells more applicable in young children.
+- %CD4+T cells <14% correlates with immunosuppression as <299 cells/ml3.
+
+## 4.4 Prevention of Opportunistic Infections
+- Primary cause of death in HIV-infected; prevention is crucial.
+
+### 4.4.1 Preventing Exposure
+- **Safe Water Supply**: Prevents waterborne diseases.
+- **Food Hygiene**: Prevents infections like salmonella.
+- **Tuberculosis Prevention**: Education and environmental control.
+- **Malaria Control**: Vector management.
+- **Safer Sex Practices**: Reducing re-infection risk.
+
+### 4.4.2 Chemoprophylaxis
+- Chemoprophylaxis: Use of antimicrobials to prevent infections, dependent on CD4+T cell counts.
+
+#### Terminology: Primary vs. Secondary Prophylaxis
+- **Primary Prophylaxis**: Prevents first-time infections.
+- **Secondary Prophylaxis**: Prevents recurrence of previous infections.
+
+### 4.4.2.1 Co-trimoxazole Preventive Therapy (CPT)
+- Well-tolerated, cost-effective; reduces hospitalization and mortality (25%-46%).
+- Effective against multiple infections.
+
+### 4.4.2.2 Cryptococcus Screening and Treatment
+- Screening for HIV+ individuals with low CD4+T cell counts.
+- Positive CrAg requires antifungal treatment before antiretroviral therapy initiation.
+
+### Guidelines Reference
+- Follow National Department of Health for co-trimoxazole preventive therapy.
+
+**Glossary Entry**: 
+- **HIV-exposed**: Individuals exposed to HIV but not necessarily infected.
+
+(Note: Page numbers and formatted diagrams as referenced in the original material are not included as the document is summarized.)
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## 4.4.2.3 Tuberculosis Prophylaxis (Isoniazid Preventive Therapy or IPT)
+- Tuberculosis (TB) is a critical opportunistic infection in HIV-positive individuals.
+- IPT reduces TB risk by 33% in HIV-infected individuals, with a 64% reduction in those TST positive (Date et al., 2010).
+- **WHO Recommendation**: Offer IPT to HIV-infected individuals only if TST positive; TST must be performed within one month if not done prior to IPT initiation. 
+- Negative TST results suggest IPT should cease unless the individual is on ARVs (continue for 12 months), with annual reassessment of TST status.
+- **CD4+ T cell counts are no longer used** to initiate TB preventive therapy.
+
+### Glossary
+- **Active TB**: Symptomatic TB; infectious.
+- **Latent TB**: Dormant TB, non-symptomatic, non-infectious.
+
+### Eligibility for IPT
+- Refer to ‘National Consolidated Guidelines’ for eligibility criteria.
+
+### Frequently Asked Questions
+- **TST Explanation**: Tuberculin test for TB exposure determination; positive test indicates possible TB exposure, not active disease. 
+- **Positive TST Implications**: Indicates exposure to TB bacilli.
+- **Negative TST Implications**: Indicates no prior TB exposure but does not rule out TB; false negatives can occur due to various conditions.
+
+### Isoniazid Preventive Therapy (IPT) Considerations:
+- IPT **NOT** for active TB as it encourages drug resistance.
+- Screening for TB in all HIV patients is essential during healthcare visits.
+- Symptom-based screening is recommended.
+
+### TB Symptoms for Screening (Refer to Table 4.3):
+- Adults: Current cough, persistent fever, unexplained weight loss, fatigue, drenching night sweats.
+- Children: Current cough, persistent fever, fatigue, poor weight gain.
+
+### Recommended IPT Regimen:
+- **Adults**: Isoniazid (INH) 5 mg/kg/day (max 300 mg/day), plus Pyridoxine 25 mg/day.
+- **Children**: Isoniazid 10 mg/kg/day (dissolved), Pyridoxine per age/malnutrition status.
+- **Secondary Prevention**: IPT for adults post-bacteriological cure of previous TB.
+
+### Hepatitis Concern:
+- Discontinue IPT if nausea, vomiting, or jaundice develops.
+
+--- 
+
+## 4.4.3 Immunisation
+- Immunisation is vital for preventing infectious diseases in HIV-infected individuals.
+
+### 4.4.3.1 Adults Vaccination Protocol
+- **Hepatitis B**: For HIV-infected individuals, not if active hepatitis present.
+- **Influenza**: Annual vaccination required.
+- **HPV**: Given to females aged 9-26; contraindicated during pregnancy.
+- **Pneumococcal vaccine**: Administer soon after HIV diagnosis; repeat if CD4+ T cell count <200 cells/mm³.
+- **Tdap**: Every 10 years.
+
+### Special Recommendations
+- **Hepatitis A**: For certain groups including healthcare workers and men who have sex with men.
+- **Meningococcal Vaccine**: For college students, military recruits, specific travelers.
+- **Varicella Vaccine**: Not for CD4+ T cell counts <200 cells/mm³ or pregnant women.
+
+### 4.4.3.2 Children Vaccination Protocol
+- Asymptomatic HIV-positive children receive full immunisation.
+- **BCG**: For asymptomatic infants at birth; contraindicated in symptomatic HIV-infected children.
+- **Oral Polio Vaccine (OPV)**: For asymptomatic infants only.
+- **DTaP-IPV-Hib-HBV**: Administered to all HIV-infected children.
+- **Rotavirus Vaccine**: Contraindicated for symptomatic children.
+- **Measles Vaccine**: Administered to asymptomatic children only.
+- **Pneumococcal Conjugate Vaccine (PCV)**: Safe for all HIV-infected children.
+
+### Contraindications
+- Live vaccines (BCG, OPV, RV, Measles) are contraindicated in symptomatic HIV-infected children.
+
+### Note on Vaccination Schedule
+- Vaccine schedules adjusted; significant for measles (MeasBio®).
+
+---
+
+## 4.5 Tuberculosis
+- TB is the most common opportunistic infection in HIV positive individuals, especially in sub-Saharan Africa (50-60% risk of active TB).
+
+### 4.5.1 Transmission of Tuberculosis
+- Caused by **Mycobacterium tuberculosis**; transmitted via airborne particles from infected individuals' cough/sneeze.
+- TB primarily affects the lungs (pulmonary TB) but can also be extrapulmonary.
+
+### 4.5.2 Primary and Post-Primary TB
+- **Primary TB**: Initial exposure; usually asymptomatic.
+- **Post-Primary TB**: Reactivation due to weakened immunity; can lead to active TB.
+- Majority of individuals remain asymptomatic; HIV significantly alters this balance.
+
+### Infection Factors
+- Number of expelled organisms, environmental concentration, duration of exposure are key for transmission risk.
+
+### Healthcare Protection
+- Use of high filtration masks and patient education on hygiene is essential.
+
+--- 
+
+**Consult relevant health guidelines and protocols for detailed treatment and vaccination schedules.**
+----- END OF CHUNK -----
+**HIV and AIDS Education, Care, and Counselling: A Multicultural Approach**  
+**Page 108-113**
+
+---
+
+### 4.5 Tuberculosis (TB) 
+
+#### 4.5.3 Symptoms of TB
+- Main symptoms of pulmonary TB (see Table 4.3):
+  - Persistent cough (>2 weeks; any duration in HIV-infected individuals).
+  - Fever (>2 weeks).
+  - Unexplained weight loss (>1.5 kg/month).
+  - Drenching night sweats.
+- Screening: Each patient should be screened at every contact.
+- Additional symptoms:
+  - Sputum production (may be blood-stained).
+  - Loss of appetite, fatigue.
+  - Shortness of breath, chest pains.
+  - Palpable lymphadenopathy.
+- Pediatric features indicating TB to investigate:
+  - 3 or more TB symptoms.
+  - Physical signs of TB.
+  - Positive Tuberculin Skin Test (TST).
+  - Chest X-ray findings suggestive of TB.
+
+#### 4.5.4 Diagnostic Tests for TB
+- Commonly used tests in sub-Saharan Africa:
+  - **Smear Microscopy:**   
+    - Sputum examination for acid-fast bacilli (AFB).
+    - Staining methods: Ziehl-Neelsen or fluorescent auramine.
+    - Results in ~48 hours; low sensitivity, especially in HIV+ individuals and children.
+  - **Culture Methods:**
+    - More sensitive than smear; detects higher TB case proportions.
+    - Involves sputum inoculation on culture medium; results in ~4-6 weeks.
+  - **Molecular Testing:**
+    - **GeneXpert (GXP):** Rapid TB diagnosis and Rifampicin resistance screening.
+    - **Line Probe Assay:** Confirms drug resistance.
+    - WHO recommends GeneXpert as first-line test.
+  - **Tuberculin Skin Test (TST):**
+    - Identifies previous infection; positive does not confirm active TB.
+    - Not reliable in high TB prevalence areas (false positives common).
+
+#### 4.5.5 Treatment of TB
+- Curable with complete antibiotic treatment.
+- **Standard Drugs:**
+  - Isoniazid (H), Rifampicin (R), Pyrazinamide (Z), Ethambutol (E), Streptomycin (S).
+- **Treatment Protocol:**
+  - **Intensive Phase:** 2 months (RHZE).
+  - **Continuation Phase:** 4 months (RH).
+- **Extra-pulmonary TB:** Treated similarly; may extend duration to 9 months if complicated.
+
+#### 4.5.6 TB and HIV
+- HIV+ individuals at higher risk of TB.
+- TB can accelerate HIV progression.
+- False negatives common in HIV patients, complicating diagnosis.
+- TB treatment same for HIV+ and HIV-; all require antiretroviral therapy.
+
+#### 4.5.7 Side Effects of TB Medicines
+- Monitor for:
+  - Numbness, tingling, joint pains, nausea, abdominal pain, skin rash, changes in urine color, vision impairment, yellowing of eyes, confusion.
+- Major side effects require immediate hospital referral.
+
+#### 4.5.8 Adherence to Treatment
+- Essential for successful TB treatment:
+  - Non-adherence leads to prolonged illness, community transmission, drug resistance, and death.
+- Implement Directly Observed Treatment (DOT) to enhance adherence:
+  - Supporters ensure completion of treatment and monitor side effects.
+
+---
+
+##### **References**
+- National Department of Health (2014): Specific protocols and guidelines provided throughout sections.  
+- Glossary terms defined as necessary throughout the document.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## 4.5.9 Drug-resistant Tuberculosis
+- Development of resistance in **M. tuberculosis** leads to inability to use standard drugs.
+- Human error contributes to **multidrug-resistant tuberculosis (MDR-TB)**: non-adherence, management issues, etc.
+- Categories of drug-resistant TB:
+  - **Rifampicin resistant TB (RR-TB)**: Resistance to rifampicin, potentially mono- or multi-drug resistant.
+  - **MDR-TB**: Resistance to both rifampicin and isoniazid.
+  - **Extensive drug-resistant TB (XDR-TB)**: Resistance to fluoroquinolones and one of three injectable second-line drugs.
+  - **Mono-resistant TB**: Resistance to one first-line medicine.
+  - **Polydrug-resistant TB**: Resistance to more than one first-line drug, excluding rifampicin and isoniazid.
+- Utilization of **Xpert MTB/RIF** for expedited diagnosis of RR-TB and MDR-TB.
+- Patients with MDR-TB require referral to specialized treatment and hospitalization until non-infectious.
+- **XDR-TB**: High mortality (>90%); prevention crucial due to treatment difficulty.
+
+## 4.6 Sexually Transmitted Infections
+- STIs significantly relate to HIV risk; high rates prevalent in Southern Africa.
+- Patients with STIs, particularly severe forms, are highly susceptible to HIV.
+- Early STI diagnosis and treatment are vital to prevent complications and transmission.
+
+### 4.6.1 Diagnostic vs. Syndromic Management of STIs
+- **Diagnostic Approach**: Ideal but impractical in resource-limited settings due to lack of laboratory support.
+- **Syndromic Approach**: Recognizes symptoms to prescribe treatment (advantage: timely care; disadvantage: potential overtreatment).
+  
+### 4.6.2 Vaginal Discharge Syndrome (VDS)
+- Major causes include:
+  - **Trichomoniasis**: Watery to profuse, foul-smelling discharge.
+  - **Genital Candidiasis**: Thick, white discharge; often asymptomatic.
+  - **Bacterial Vaginosis**: Grey, sticky discharge; often fishy odor.
+
+### 4.6.3 Lower Abdominal Pain (LAP)
+- Caused by infections spreading to pelvic organs; characterized by severe pain, bad-smelling discharge, fever.
+
+### 4.6.4 Male Urethritis Syndrome (MUS)
+- Most common causes: **Gonorrhoea** and **Chlamydia**.
+- Symptoms include urethral discharge, dysuria, and potential complications from rectal and pharyngeal infections.
+
+### 4.6.5 Scrotal Swelling (SSW)
+- Often indicates **epididymo-orchitis**; treated with antibiotics and supportive measures.
+
+### 4.6.6 Genital Ulcer Syndrome (GUS)
+- Caused by syphilis, genital herpes, and chancroid.
+- Genital ulcers are critical in HIV transmission; important to diagnose and treat effectively.
+
+### Treatment Protocols
+- **VDS**: Combination antibiotics for common STIs.
+- **LAP**: Antibiotics for gonorrhoea and chlamydia; HIV testing emphasized.
+- **MUS**: Treatment for gonorrhoea; partner treatment essential.
+- **SSW**: Antibiotic treatment for underlying STIs.
+- **GUS**: Combination antibiotics plus acyclovir for herpes. 
+
+(Note: Refer to updated guidelines for treatment regimens and protocols.)
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## Page 120
+
+### Enrichment: Genital Herpes
+- **Herpes Simplex (Genital Herpes)**: Common among individuals with HIV; lifelong, recurrent infection.
+- **Symptoms**: Blister-like sores, ulcers that become larger; painful episodes recur during illness/stress/menstruation.
+- **Prevalence**: 2012 Antenatal HIV and HSV Survey shows 89.1% HSV-2 in HIV-positive women vs. 42.5% in HIV-negative.
+- **Treatment**: Non-antibiotic; aciclovir for suppression; maintain cleanliness and dryness.
+
+### 4.6.7 Bubo
+- **Definition**: Tender, enlarged lymph nodes in the groin; early syphilis or lymphogranuloma venereum.
+- **Symptoms**: Painful swollen lymph nodes; differential diagnosis includes hernia or femoral aneurysm.
+- **Management**: Antibiotics; aspiration of fluctuant nodes if necessary; emphasize HIV testing.
+
+### 4.6.8 Balanitis/Balanoposthitis (BAL)
+- **Definition**: Infection of the glans penis; caused by candidiasis.
+- **Symptoms**: Itching, soreness; manage with washing, antifungal cream, antibiotics.
+- **Referral**: Necessary if foreskin cannot be retracted; circumcision offered to all patients.
+
+### 4.6.9 General Points in Managing STIs
+- **Accessibility**: Integrate STI services with primary care; provide convenient clinic hours.
+- **Attitude**: Avoid stigma; respect and treat patients with dignity.
+- **Testing**: Encourage HIV testing; counsel on medication compliance and risk reduction.
+- **Follow-up**: Notify partners; further investigation if symptoms persist.
+
+### 4.6.10 Failure of Syndromic Treatment
+- **Considerations**:
+    - Incomplete medication adherence.
+    - Partners may remain untreated, causing reinfection.
+    - Possible STI resistance.
+    - Immune suppression in HIV-infected patients may necessitate aggressive treatment.
+    - Herpes may manifest atypically; diagnosis requires additional investigation.
+
+## Page 121
+
+### Conclusion
+- **Overview**: HIV weakens the immune system, leading to various opportunistic infections. Early diagnosis is critical for effective management.
+
+## Page 124
+
+### Table 4.5 Sexually Transmitted Infections
+
+**Candida**  
+- Transmission: Sexual contact; recurrent vaginal infections.  
+- Symptoms: Discharge, swelling; treated with vaginal cream.  
+- Effects of no treatment: Severe discomfort; can affect newborns.
+
+**Chancroid**  
+- Transmission: Sexual contact.  
+- Symptoms: Painful ulcers.  
+- Treatment: Antibiotics; untreated can cause lymph node abscess.
+
+**Chlamydia**  
+- Transmission: Sexual contact.  
+- Symptoms: Pain, discharge; treatment with antibiotics can prevent complications like infertility.
+
+**Genital Molluscum Contagiosum**  
+- Transmission: Both sexual and non-sexual.  
+- Symptoms: Papules on the skin.  
+- Treatment: Lesion removal; ART to strengthen immunity.
+
+**Genital Warts**  
+- Transmission: Sexual contact.  
+- Symptoms: Painless bumps; diagnosed via pap smear.  
+- Treatment: Therapy or surgical intervention; vaccinations available.
+
+**Gonorrhoea**  
+- Transmission: Sexual contact.  
+- Symptoms: Discharge, pain in urination; treated with antibiotics to prevent reproductive issues.
+
+**Hepatitis B**  
+- Transmission: Body fluids.  
+- Symptoms: Flu-like symptoms; potential for jaundice.  
+- Prevention: Vaccination; risks include liver cancer.
+
+**Genital Herpes**  
+- Transmission: Direct contact with sores.  
+- Symptoms: Painful blisters; lifelong presence of the virus.  
+- Treatment: Aciclovir for relief; no cure.
+
+**Neonatal Conjunctivitis**  
+- Transmission: From infected mother.  
+- Symptoms: Red eyes, pus; treated with antibiotics to prevent blindness.
+
+**Non-Gonococcal Urethritis (NGU)**  
+- Transmission: Various organisms.  
+- Symptoms: Painful urination, discharge; treated with antibiotics.
+
+**Non-Specific Urethritis (NSU)**  
+- Transmission: Sexual contact; multiple causes.  
+- Symptoms: Burning, discharge; antibiotics required to prevent severe complications.
+
+## Page 123
+
+### Frequently Asked Questions
+- **HPV Overview**: Over 100 types; risk for cervical cancer (pap smears for diagnosis).
+- **HPV Vaccination**: Gardasil® and Cervarix® effective when administered before sexual debut.
+- **Pap Smear Testing**: Recommended annually from sexual activity onset until 30; thereafter every three years; free for HIV-positive women.
+----- END OF CHUNK -----
+# Chapter 5: HIV tests
+
+## HIV testing as a diagnostic tool
+- **Historical Context**: 
+  - 1983: Discovery of HIV by Montagnier.
+  - 1985: First commercial antibody tests available, FDA licensed.
+  
+## 5.1 HIV testing as a diagnostic tool
+- **ELISA Tests**:
+  - Widely used for detecting viral antibodies.
+  - Initial lack of specificity improved over time; now high sensitivity and specificity.
+  
+### Glossary
+- **Diagnostic Tool**: Device/test to establish disease cause.
+- **Sensitivity**: Percentage of infected individuals correctly detected.
+- **Specificity**: Percentage of non-infected individuals with negative results.
+
+### 5.1.1 Why test for HIV?
+- Screening donated blood.
+- Research on transmission/prevalence.
+- Diagnosis of HIV infection.
+- Monitoring progression and response to therapy.
+- Routine HIV counselling and testing (HCT) encouraged for all.
+
+### 5.1.2 Diagnostic approaches
+- **Identifying the Virus**: 
+  - Tests for p24 viral antigen and viral nucleic acids (NAT).
+  
+- **Detection of Immune Response**: 
+  - Antibody tests primarily used for diagnosis.
+  - CD4+ T cell counts assess immune system health but not diagnostic.
+
+#### Diagram Reference: 
+- **Figure 5.1**: HIV diagnostic tools and their uses.
+
+### Combination tests
+- Detect both HIV antibodies and p24 antigens.
+- "Fourth generation" ELISA tests; useful for early infection detection within a 16-day window.
+
+### Diagnostic Tests Overview
+- **HIV Antibody Tests**: 
+  - Uses: Screening, confirmatory, assess prevalence.
+  
+- **HIV Virus Tests**: 
+  - Includes combo tests, nucleic acid tests, and specific tests for babies and early detection.
+
+- **Uses of Tests**:
+  - Early detection.
+  - Monitoring ART response.
+  - Blood screening.
+  
+## Reference list
+- **Publications and Guidelines**:
+  - Includes works from Aurum Institute, CDC, and various medical journals focusing on HIV, tuberculosis, and health practices.
+  
+--- 
+
+**Note**: This summary excludes examples, explanations, and details irrelevant to core legal academic study notes while preserving key information related to HIV tests and their implications.
+----- END OF CHUNK -----
+# HIV and Aids education, care and counselling: A multicultural approach
+
+---
+
+## 5.2 HIV-antibody tests
+- **Testing mediums**: Blood (whole blood, serum, plasma), saliva, urine.
+- **Key tests**:
+  - **Rapid HIV-antibody test**
+  - **ELISA (EIA)**
+  - **Western Blot** (used mainly as confirmatory).
+
+- **Function**: Tests detect anti-HIV antibodies, not the virus. Positive results occur post-seroconversion.
+
+### 5.2.1 The ELISA antibody test
+- **Characteristics**:
+  - Common, inexpensive, reliable, high sensitivity.
+  - Detects HIV-1 and HIV-2 antibodies.
+- **Window period**: 
+  - First-gen: 45 days
+  - Third-gen: 22 days
+  - Fourth-gen: 16 days
+- **Confirmation**: Positive results require a second test; repeat negative tests 3-4 weeks post-exposure if HIV exposure is suspected.
+
+### 5.2.2 Rapid HIV-antibody tests
+- **Usage**: Conducted outside laboratories; results in ~10 minutes.
+- **Fluid types**: Whole blood, serum, oral fluid.
+- **Advantages**: Less invasive, affordable, stable at various temperatures. 
+- **Confirmation**: Positive results should be confirmed with a different manufacturer's test.
+
+#### 5.2.2.1 Home test
+- **Caution**: Requires proper counselling pre- and post-test; results may be unreliable without adherence to instructions or if improperly stored.
+
+#### 5.2.2.2 Saliva test
+- **Advantages**:
+  - Easy to use, non-invasive, painless.
+  - Collects saliva using absorbent pads.
+- **Usage**: Requires conventional ELISA testing for confirmation of positive results.
+
+### 5.2.3 The Western Blot antibody test
+- **Use**: Confirmatory test, not for screening.
+- **Cost**: More expensive than ELISA, less availability.
+- **Confirmatory alternatives**: Combination of ELISA and rapid tests.
+
+---
+
+## 5.3 HIV virus tests
+- **Function**: Detect actual HIV particles in blood.
+- **Types**:
+  - Detection of viral antigens (e.g., p24).
+  - Detection of viral nucleic acids (RNA or DNA).
+  - Virus culture (rarely used for diagnosis).
+
+### 5.3.1 The HIV p24 antigen test
+- **Detection**: Detects p24 antigen within 16 days post-infection.
+- **Useful for**: Early detection in specific clinical settings (e.g., newborns).
+
+#### 5.3.1.1 The dried blood spot (DBS) test
+- **Method**: Blood blotted on filter paper from newborn's heel.
+- **Advantages**: Inexpensive, low invasiveness, easier logistics and storage, longer lifespan.
+
+### 5.3.2 Proviral DNA detection
+- **Testing method**: Qualitative PCR detects proviral DNA.
+- **Applications**:
+  - Early diagnosis (post-exposure prophylaxis, vertical transmission screening).
+  - Estimate window period: ~16 days.
+
+### 5.3.3 Viral RNA detection
+- **Testing method**: Quantitative PCR (RNA PCR).
+- **Purpose**: Mainly for monitoring after diagnosis; indicative of viral load and treatment efficacy.
+- **Timing**: Can identify infection within five days post-exposure.
+
+--- 
+
+**Note**: Please refer to figures mentioned (e.g., Figure 5.2 for test kits, Figure 5.3 for DBS) for visual aid on testing devices and processes.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach  
+**Page 138**
+
+### 5.4 HIV Counselling and Testing Algorithms  
+- National Department of Health's recommended HIV testing algorithms for:  
+  - Adolescents and adults (including pregnant and breastfeeding women)  
+  - Children younger than 18 months  
+  - Children older than 18 months  
+
+#### 5.4.1 HIV Counselling and Testing for Adolescents and Adults  
+- **Group Information Session**: Outline HCT benefits; address benefits for pregnant women.  
+- **Individual Information Session**: Clarify questions and offer HIV test.  
+- **Testing Procedure**: Obtain consent, rapid HIV-antibody test via finger prick.  
+- **Negative Test Results**: Considered uninfected; provide post-test counselling; encourage repeat testing after three months.  
+- **Pregnancy and Breastfeeding**:  
+  - Negative women enter PMTCT programme and receive routine repeat testing and TB screening.  
+  - Pre-consultation: Recognising TB symptoms and safe feeding.  
+- **Repeat Testing for General Population**: Every 6-12 months based on risk behavior.  
+- **Positive Test Results**:  
+  - Conduct confirmatory rapid test.  
+  - Provide results and post-test counselling in client's preferred language.  
+  - Immediate TB screening and necessary tests (CD4, clinical staging).  
+  - Pregnant/breastfeeding women to start ART immediately if positive.  
+- **Indeterminate/Discordant Results**: Blood for ELISA test, results to be returned in five days.  
+- **Refusal of Testing**: Offer post-refusal counselling and continuous non-coercive testing offers.  
+
+#### 5.4.2 HIV Counselling and Testing for Children Younger Than 18 Months  
+- **Check HIV Status**: Every health visit. Mother is HIV negative, repeat testing every three months.  
+- **Mother HIV Positive**:  
+  - Baby tested with HIV PCR at birth, 10 weeks, or 18 weeks.  
+  - If positive, start ART immediately while awaiting confirmatory results.  
+- **Negative PCR**: Test repeated if breastfeeding persists, confirmatory rapid test at 18 months for HIV-exposed infants.  
+
+#### 5.4.3 HIV Counselling and Testing for Children 18 Months and Older  
+- **Check Exposure Status**: Every health visit; repeat testing for breastfeeding mothers every three months.  
+- **If Mother HIV Uninfected**: No test needed unless symptomatic.  
+- **If Mother HIV Positive**:  
+  - Rapid HIV test for the child; confirmatory test if positive.  
+  - Submit HIV ELISA if confirmatory test is negative.  
+- **Initiate ART**: For all HIV-positive children, irrespective of age or CD4 count.  
+- **Additional Testing**: On parental request or in case of increased risk factors (death of HIV-positive family member, symptomatic presentation).  
+
+### Enrichment: HIV Testing for Abandoned Babies  
+- Rapid tests may be used to identify antibody exposure.  
+- PCR test required for infection status; initiate ART if positive.
+
+**Figures Referenced:**  
+- **Figure 5.4** (HIV counselling and testing algorithm for adolescents and adults): Page 140  
+- **Figure 5.5** (HIV counselling and testing algorithm for children younger than 18 months): Page 141  
+- **Figure 5.6** (Algorithm for testing children older than 18 months): Page 142  
+
+----- END OF CHUNK -----
+# Chapter 6
+**Antiretroviral therapy (ART)**
+
+## 6.1 Clinical assessment
+- Full clinical assessment post-HIV diagnosis critical.
+- Regular check-ups (every six months if healthy; more often if symptomatic).
+- Key assessments at each visit (Aurum Institute & CDC/FEPFAR, 2015: 5):
+  - **WHO staging** (Table 4.1, p. 95)
+  - **CD4+T cell count**
+  - Screening for: 
+    - TB symptoms
+    - STIs
+    - Pregnancy
+    - Mental health
+    - Comorbidities (hypertension, diabetes)
+    - Pap smears (as needed)
+  - Assess ART eligibility and monitor adherence.
+
+- Management of health issues:
+  - Prescribe IPT (if eligible)
+  - Manage comorbidities
+  - Family planning counseling
+  - Nutritional guidance
+  - Support for disclosure and partner notification.
+  - Encourage return for health problems.
+
+## 6.1.1 CD4+T cell count and viral load
+- Importance of CD4+T cell counts:
+  - Assess immune system status.
+  - Indicate opportunistic infection treatment timing.
+  - Guide ART initiation.
+- Importance of viral load testing:
+  - Assess infection severity.
+  - Measure ART response.
+  - Detect antiretroviral resistance.
+- Aim for undetectable viral load after six months of treatment.
+
+## 6.2 Goals of ART
+1. **Virological goal**: Reduce HIV viral load to undetectable levels.
+2. **Immunological goal**: Restore/improve immune function, reduce opportunistic infections.
+3. **Therapeutic goal**: Improve quality of life for HIV-infected patients.
+4. **Epidemiological goal**: Reduce morbidity/mortality and HIV transmission impact.
+
+- ART administration leads to an increase in CD4+T cell counts, reducing morbidity and mortality (Southern African HIV Clinicians Society, 2012: 114).
+- Main uses of ART:
+  - Treatment of established HIV infections.
+  - Prevention: PMTCT, post-exposure prophylaxis (PEP), pre-exposure prophylaxis (PrEP).
+
+## 6.3 Classes of ART and their mechanisms of action
+- HIV lifecycle interruption through antiretroviral drugs targeting viral enzymes:
+  - **Reverse transcriptase** (converts RNA to DNA)
+  - **Protease** (assembles new viral components)
+  - **Integrase** (integrates viral DNA into host genome).
+  
+- Classes of ARVs:
+  - NRTIs (Nucleotide Reverse Transcriptase Inhibitors) and NtRTIs
+  - NNRTIs (Non-Nucleoside Reverse Transcriptase Inhibitors)
+  - PIs (Protease Inhibitors)
+  - Integrase inhibitors
+  - Entry inhibitors.
+
+## 6.3.1 Reverse transcriptase inhibitors (NRTIs and NNRTIs)
+- Interrupt HIV lifecycle, blocking reverse transcriptase enzyme.
+- NRTIs: mimic DNA building blocks.
+- NNRTIs: inhibit reverse transcriptase directly.
+
+## 6.3.2 Protease inhibitors (PIs)
+- Inhibit protease enzyme, preventing new virus assembly and release.
+
+## 6.3.3 Integrase inhibitors (InSTIs)
+- Block HIV DNA integration into host cell nucleus, hindering replication.
+
+## 6.3.4 Entry inhibitors
+- Prevent HIV entry into host cells by blocking viral protein interactions with CD4+T cells and CCR5 co-receptors.
+
+**Figures:**
+- **Figure 6.1**: Main uses of ART.
+- **Figure 6.2**: Effects of antiretroviral drugs on HIV lifecycle.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+---
+
+## Antiretroviral Therapy (ART) 
+
+### 6.4 Antiretroviral Drugs Available in Southern Africa 
+- **Fixed-dose combinations (FDCs)** reduce pill burden, enhancing adherence.
+- Regular updates to treatment guidelines advised through the Southern African HIV Clinicians Society. 
+
+**Table 6.2: Antiretroviral Agents Available in Southern Africa**
+- **NRTIs/NtRTIs**: 
+  - Tenofovir (TDF), Lamivudine (3TC), Emtricitabine (FTC), Abacavir (ABC), Zidovudine (AZT), Stavudine (d4T), Didanosine (ddI).
+  
+- **NNRTIs**: 
+  - Efavirenz (EFV), Nevirapine (NVP), Rilpivirine (RPV), Etravirine (ETV).
+  
+- **PIs**: 
+  - Atazanavir (ATV), Lopinavir/ritonavir (LPV/r), Darunavir (DRV), Saquinavir (SQV), Indinavir (IDV).
+
+- **InSTIs**: 
+  - Raltegravir (RAL).
+
+- **Entry Inhibitor CCR5 Blocker**: 
+  - Maraviroc (MVC).
+
+### 6.5 Guidelines for the Use of ART 
+- HIV regimens must be maximally suppressive to prevent resistance; **HAART** recommended using three drugs for optimal results.
+
+**Table 6.3: WHO Recommendations on When to Start ART**
+- **Adults**: Initiate ART regardless of CD4+ T cell count; prioritize those with severe disease or CD4 ≤350.
+- **Pregnant/Breastfeeding Women**: ART for all; continue lifelong regardless of CD4+ count.
+- **Adolescents**: Initiate ART for all; prioritize those with severe disease or CD4 ≤350.
+- **Children and Babies**: Initiate ART irrespective of CD4+ count; prioritize those <2 years and with severe disease. 
+
+- Critique of ART initiation policies focuses on financial costs, planning, and health systems' capacity.
+
+### 6.5.2 Counselling Before ART Initiation 
+- Essential information on:
+  - HIV transmission, pathogenesis, prognosis.
+  - Lifelong nature of ART and adherence importance.
+  - Safer sex practices.
+  - Encouragement of partner disclosure and support group involvement.
+- Formulate a treatment plan with each patient.
+
+### 6.5.3 Choice of Drug Regime 
+#### 6.5.3.1 Individualised vs. Standardised Drug Regime 
+- **Individualised Regime**: Tailored to specific patient needs; complex in developing countries.
+- **Standardised Regime**: Simplified treatment protocols adopted by health authorities, promoting efficiency and predictability in treatment.
+
+**Advantages of Standardised Regime**
+- Simplifies training for healthcare providers.
+- Easier monitoring of side effects and toxicity.
+- Predictable drug combinations and resistance patterns.
+
+#### 6.5.3.2 ART for Adults and Adolescents ≥15 Years 
+- **First-line Treatment**: Two NRTIs plus one NNRTI recommended; FDCs preferred for once daily use.
+
+**Common Regimen**: 
+- TDF + 3TC or FTC + EFV.
+
+- PIs and InSTIs reserved for second-line and third-line treatments respectively. 
+
+- Cross-resistance observed in NNRTIs; ongoing research for new drug classes necessary.
+
+---
+
+### Art Abbreviations
+- **FDC**: Fixed-dose combination.
+- **TDF**: Tenofovir.
+- **3TC**: Lamivudine.
+- **FTC**: Emtricitabine.
+- **ABC**: Abacavir.
+- **AZT**: Zidovudine.
+- **EFV**: Efavirenz.
+- **NVP**: Nevirapine.
+- **LPV/r**: Lopinavir/ritonavir.
+- **D4T**: Stavudine.
+- **ddI**: Didanosine. 
+
+---
+
+*Note: Each section aligned with the original text structure for clarity and tracking.*
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## Table of Contents
+- 6.5.3.3 ART for Adolescents Aged 10 to 15 Years
+- 6.5.3.4 ART for Children
+- Support for Children to Adhere to ART
+- 6.5.4 Use of ART in Patients with TB
+- 6.5.5 Drug Interactions
+- 6.6 Adverse Effects of ART
+- 6.6.1 Immune Reconstitution Inflammatory Syndrome (IRIS)
+
+---
+
+### 6.5.3.3 ART for Adolescents Aged 10 to 15 Years
+- **Criteria**:
+  - **Weight <40kg or Age <15 Years**
+    - Regimen: ABC + 3TC + EFV
+    - If EFV contraindicated, NVP may be used.
+    - Use TDF only if creatinine clearance >80 ml/min.
+
+  - **Weight ≥40kg and Age ≥15 Years**
+    - Regimen: TDF + 3TC/FTC + EFV (fixed-dose combinations)
+
+### 6.5.3.4 ART for Children
+- **Standard First-Line Treatment**:
+  - **Children <3 Years or Weight <10kg**
+    - Regimen: ABC + 3TC + LPV/r
+  - **Children 3 to 10 Years and >10kg**
+    - Regimen: ABC + 3TC + EFV
+    - Children on ABC/3TC/LPV/r must remain on the same regimen after age 3.
+
+- **Changes Required**:
+  - Change all d4T to ABC irrespective of VL suppression.
+
+### Support for Children to Adhere to ART
+- Educate parents/caregivers about:
+  - Goals, adherence, prognosis, and medication effects.
+- Identify a supervising caregiver.
+- Encourage disclosure to another adult.
+- Involve family/community support.
+- Stress lifelong therapy commitment and plan for missed doses.
+- Explain the severity of poor adherence and risks of drug resistance.
+
+### 6.5.4 Use of ART in Patients with TB
+- **TB Diagnosed While on ART**:
+  - Begin TB treatment; continue ART.
+  - Monitor ALT monthly.
+
+- **TB Diagnosed Before Starting ART**:
+  - Start TB treatment first, then initiate ART within 8 weeks.
+  - If CD4 <50 cells/mm³, start ART within two weeks of TB treatment.
+
+### 6.5.5 Drug Interactions
+- **Definition**: Interaction occurs when one drug alters the effect of another.
+- Importance of checking interactions between ARVs and other medications.
+- EFV is preferred with Rifampicin; NVP is an alternative with risks.
+
+### 6.6 Adverse Effects of ART
+- **Common Side Effects**:
+  - Diarrhoea, dizziness, nausea, malaise, neuropathy, nail discolouration.
+- **Serious Adverse Effects** (consult an HIV clinician):
+  - Drug-induced hepatitis, lactic acidosis, kidney toxicity, severe rashes, hypersensitivity.
+
+### 6.6.1 Immune Reconstitution Inflammatory Syndrome (IRIS)
+- **Definition**: Condition where improved immune response leads to worsening of existing infections.
+- Symptoms emerge due to heightened inflammatory response from recovering CD4+ T cells.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## 6.7 How to Know if ART is Effective
+- **Viral Load Monitoring** (National Department of Health, 2015: 75):
+  - VL <400 copies/ml: 
+    - Monitor every 12 months.
+    - Intensified adherence for VL >50 copies/ml.
+  - VL 400 - 1,000 copies/ml: 
+    - Assess/manage adherence.
+    - Repeat VL in 6 months.
+  - VL >1,000 copies/ml:
+    - Assess adherence, intense support.
+    - Repeat VL in 2 months.
+    - Check HBV status/Hb; switch to second-line if VL remains >1,000 copies/ml after addressing adherence.
+
+- **Glossary**:
+  - **Virological Suppression**: Viral load reduced to undetectable levels (<50 copies/ml).
+  
+- **Important Note**: CD4+T cell count not a reliable indicator of ART effectiveness; adhere to viral load monitoring.
+
+## 6.8 When to Change ART
+- Change ART under these conditions:
+  - Intolerance despite appropriate treatment.
+  - Drug toxicity occurrence.
+  - Virological failure (VL increase despite adherence).
+
+- **Recommendations (SAHIV Clinician’s Society, 2014: 128)**:
+  - Switch to second-line if VL >1,000 copies/ml after two measurements, preferably taken 2-3 months apart.
+  - Expedite switching if CD4+T cell count <100 cells/mm3 or persistently low VL >200 copies/ml for over a year.
+
+## 6.9 The Development of Drug-Resistant Viruses
+- **Glossary**:
+  - **Drug Resistance**: Occurs if ART is not taken as prescribed.
+
+- Factors contributing to drug resistance:
+  - High genetic variability of HIV.
+  - Variants' survival and replication in the presence of ARVs.
+
+- **Mechanism of Resistance**:
+  - Mutations lead to fitness advantage over the wild-type virus in inadequate ART suppressing conditions.
+
+- **Consequences**: Treatment complications, potential cross-resistance within drug classes.
+
+### 6.9.1 Non-Adherence and Drug Resistance
+- Failure to adhere allows mutant viruses to dominate and become resistant.
+- High ARV blood levels necessary for effective suppression; lapses create resistance.
+
+- **Enrichment: Resistance Testing**:
+  - **Genotypic Assay**: Examines viral genetic material for resistance.
+  - **Phenotypic Assay**: Assesses virus response to ARVs under controlled conditions.
+
+## 6.10 Adherence to ART
+- Minimum adherence of 90% crucial to prevent mutation and resistance.
+
+### 6.10.1 Reasons for Non-Adherence
+- **Barriers**: 
+  - **Psychosocial**: Treatment fatigue, forgetfulness, denial.
+  - **Patient-Provider Relationship**: Lack of support, insufficient information.
+  - **Practical Problems**: Transport issues, insufficient food.
+  - **Work-Related**: Inflexible clinic hours.
+  - **Service-Related**: Stock shortages, poor clinic organization.
+  - **Stigma**: Fear of rejection, non-disclosure.
+  - **Cultural**: Using traditional medicine alongside ARVs.
+  - **Conflict of Opinion**: Misinformation from healthcare or alternative providers.
+
+### 6.10.2 Strategies for Improving Adherence to ART
+- Evaluate patient readiness and intention to adhere.
+- Simplify regimens with fixed-dose combinations (FDCs).
+- Identify and address personal, social, or cultural challenges.
+- Train healthcare workers to manage adherence-related issues.
+- Employ effective teaching techniques (repeat information, use visual aids).
+- Provide skills training for managing ARV intake and disclosure.
+
+### Glossary
+- **Treatment Fatigue**: Exhaustion from continuous medication leading to non-adherence.
+- **Locus of Control**: Individual belief in control over life events; external vs. internal.
+----- END OF CHUNK -----
+# HIV and Aids education, care and counselling: A multicultural approach
+
+## Page 168
+
+### Adherence Counselling
+- Reminder strategies: radio/TV programs, phones, alarms.
+- Support patients in coping with treatment fatigue, forgetfulness, and adherence plans.
+- Address discrimination, stigma, and facilitate patient discussions regarding ARV disclosure.
+- Ongoing individual and group patient education is essential.
+  - Understanding of treatment plans, adherence definitions, and clinical tests (e.g., CD4+ T cell count, viral load).
+  - Awareness of side effects of ART, importance of immediate reporting.
+
+- Advocacy by healthcare workers for policy changes affecting ART patients (e.g., availability of medication, food, and transport support).
+- Acknowledge patient visits to traditional healers; discuss medication interactions respectfully.
+- Enhance patient-healthcare worker communication through personal interest and respect.
+- Utilize support networks (family, peers, community) for adherence reinforcement.
+- Encourage selection of a reliable treatment supporter who maintains confidentiality and can assist with follow-ups.
+- Refer financially struggling patients to social services for assistance, acknowledging poverty-related adherence issues.
+- Missed appointments indicate poor adherence risk; immediate assessment is necessary.
+- Address conflicts from external beliefs non-judgmentally (e.g., religious opposition to ARVs).
+
+## Page 169
+
+### Antiretroviral Therapy (ART)
+- Adherence counselling is a continuous process; essential to combat treatment fatigue.
+- **FAQ:** ARVs do not cure AIDS; treatment suppresses viral load and strengthens the immune system. No cure exists currently. Misunderstandings regarding 'cure' in ART.
+
+### Prevention of Mother-to-Child Transmission (PMTCT)
+- ART crucial for preventing MTCT of HIV.
+- Routine HIV testing and PMTCT information for all pregnant women during antenatal visits.
+- **National Department of Health Goals:** Reach women pre-pregnancy, during labor, and postnatally for 18 months; promote HIV-positive mother and infant health.
+
+#### Key PMTCT Components
+- Provide reproductive health services to women of reproductive age.
+- Offer HIV counselling and testing (HCT) to all pregnant women at first antenatal visit; repeat HCT for HIV-negative women every three months.
+- Management based on the woman’s HIV status during labor and delivery.
+
+#### Postnatal Care
+- HIV-negative women should repeat HCT at immunization visits and conduct follow-ups throughout breastfeeding.
+- Infants should be managed according to HIV status; breastfeeding recommended for exclusive first six months, followed by complementary foods till age one.
+
+- Lifelong ART for all pregnant and postpartum women, regardless of CD4+ T count, initiated on the day of positive test if no contraindications.
+
+### Infant Prophylaxis
+- Antiretroviral prophylaxis at birth is vital for reducing MTCT.
+- Guidelines based on the mother's ART status and viral load:
+  - VL <1,000 copies/ml: Nevirapine (NVP) for six weeks.
+  - Late ART initiation or diagnosis: NVP for 12 weeks.
+  - VL > 1,000 copies/ml: NVP plus AZT for six weeks.
+
+- Newborns to HIV-positive mothers receive prophylaxis; PCR testing to confirm HIV-exposure status.
+- **Questions Addressed:**
+  - If mother refuses ART for baby, professional intervention is essential (Children’s Act, No. 38 of 2005).
+  - ARVs lower maternal viral load, reducing infant infection risk during pregnancy and breastfeeding.
+
+## Page 172
+
+### Post-Exposure Prophylaxis (PEP) After Occupational Exposure
+- Low risk (.3%) for contracting HIV post-exposure; higher risk for Hepatitis B and C.
+- PEP can significantly lower HIV infection risk post-exposure; treatment must start within 72 hours.
+- PEP Protocol:
+  - Clinical assessment of exposure type.
+  - Rapid HIV test after pre-test counseling; ELISA for laboratory settings.
+  - Treatment with TDF + 3TC/FTC and RAL recommended for 28 days if baseline HIV negative.
+
+- If HIV positive, refer for counselling and testing post-exposure; PEP is contraindicated.
+- Provide follow-up testing and support for healthcare workers who receive PEP.
+
+#### Eligibility for PEP
+- **Exposures warranting PEP:** 
+  - Percutaneous or mucous membrane exposure; bodily fluids including blood and breast milk.
+- **Non-significant exposures:** 
+  - Known HIV negative sources, already HIV-positive individuals, and low-risk fluids (e.g., tears, non-blood-stained saliva).
+
+- PEP guidelines applicable to healthcare and non-healthcare workers at risk of exposure; ART should not replace general safer sex practices.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## Page 174
+
+### DRAFT
+
+#### Enrichment: ‘Starter’ Packs for PEP
+- Starter packs contain 3-day supply of antiretroviral drugs (ARVs) for post-exposure prophylaxis (PEP).
+- **Ford et al. (2015)** meta-analysis: Adherence is better with full 28-day courses versus starter packs.
+- 28% of individuals with starter packs did not return for complete PEP, indicating lower adherence and completion rates.
+
+### 6.13 PEP After Rape or Sexual Assault
+- High risk of HIV post-rape influenced by:
+  - Rapist's HIV status
+  - Viral load
+  - Coexisting STIs (especially ulcerations)
+  - Physical trauma significance (higher in violent rape and child victims)
+- Urgent initiation of ART recommended within 72 hours, preferably within 1-2 hours post-incident.
+- ART recommendations:
+  - Same regimen as occupational exposure (Section 6.12).
+  - Preferably a combination of three drugs for 28 days.
+- Testing protocol:
+  - If HIV positive: No PEP (previous infection), refer for lifelong ART preparation.
+  - If HIV negative: Start PEP; emphasize importance of completing 28 days.
+  - If waiting for test results beyond 72 hours, consider initiating PEP.
+- Counselling requirements:
+  - Educate on side effects, adherence strategies.
+  - Schedule HIV antibody testing at 3 months for seroconversion.
+  - Encourage safer sex practices for 3 months post-incident.  
+- STIs prophylactic treatment and hepatitis B vaccination recommended.
+- Free ART available at public facilities in South Africa; Aids Helpline for ART referrals.
+
+### Frequently Asked Questions
+#### Can children take antiretroviral drugs after sexual assault or rape?
+- Children can receive ARVs for PEP within 72 hours if HIV-negative.
+- HIV-positive children referred for counselling and follow-up.
+- Legal consent requirements depend on age and maturity for testing and treatment.
+
+#### How does ART work to prevent HIV infection after needlestick injuries or rape?
+- ART must be administered within 72 hours to possibly eradicate the virus before CD4+T cell infection occurs.
+
+### 6.14 Pre-exposure Prophylaxis
+- WHO (2015) advises oral PrEP (TDF) for high-risk HIV-negative individuals.
+- Truvada® (FTC and TDF) recommended as part of combination prevention approaches alongside condom use.
+
+### 6.15 Conclusion
+- Part 1 addresses HIV physical aspects, transmission, effects, diagnosis, and treatment evolution.
+- ART advancements have made HIV manageable; ongoing research for vaccines continues.
+- Part 2 will focus on preventing HIV through behaviour modification for risk reduction.
+
+### Table 6.9 - Antiretroviral Drugs Used by SA National Department of Health
+- Lists include:
+  - **Generic Name:** Drug Class, Dosage, Contraindications, Adverse Reactions.
+- Example: Tenofovir (TDF) - NtRTI, 300mg od; contraindications include severe renal impairment; adverse reactions include nephrotoxicity.
+
+---
+
+This reconstruction preserves the document's structure while condensing the information significantly, retaining the essential legal and medical principles relevant to HIV/AIDS treatment protocols and guiding both medical and counseling practices.
+----- END OF CHUNK -----
+# HIV and Aids Education, Care and Counselling: A Multicultural Approach
+
+## Page 180
+
+### Notes to Classes of ARVs
+- **NRTIs**: Associated with lactic acidosis, hepatic steatosis, lipodystrophy.
+- **NNRTIs**: Risk of rash, including **Stevens-Johnson syndrome** and **toxic epidermal necrolysis**.
+- **PIs**: Linked to metabolic abnormalities like dyslipidaemia, hyperglycaemia, insulin resistance, and lipodystrophy.
+
+### Reference List
+- **Arum Institute & CDC/PEPFAR (2015)**: Managing HIV: A clinician’s tool. Johannesburg: Arum Institute.
+- **Delobelle et al. (2009)**: Study on rural nurses’ knowledge and practices regarding HIV/AIDS. *J Adv Nurs,* 65(5): 1061–1073.
+- **Ford et al. (2015)**: Review on antiretroviral drugs for postexposure prophylaxis. *Clin Infect Dis,* 60(suppl 3): S170-S176.
+- **INSIGHT START Study Group (2015)**: Findings on initiating ART in early asymptomatic HIV infection. *N Engl J Med,* 373: 795–807.
+- **Karstaedt & Pantanowitz (2001)**: Study on interns’ occupational exposure to blood in high seroprevalence areas. *S Afr Med J,* 91: 57–61.
+- **Meintjes et al. (2015)**: Updated guidelines on ART initiation. *S Afr J HIV Med,* 16(1), Art. #428.
+- **National Department of Health, South Africa (2015)**: Guidelines for prevention of mother-to-child transmission of HIV.
+- **Nsubuga & Jaakkola (2005)**: Analysis of needle stick injuries among nurses. *Trop Med Int Health,* 10(8): 773–781.
+- **Severe et al. (2010)**: Comparison of early vs. standard ART initiation. *N Engl J Med,* 363: 257–265.
+- **Southern African HIV Clinicians Society (2012 & 2014)**: Adult ART guidelines.
+- **Southern African HIV Clinicians Society (2015)**: Guidelines for HIV exposure management and PEP.
+- **TEMPRANO ANRS 12136 Study Group (2015)**: Study on early ART and isoniazid therapy. *N Engl J Med,* 373: 808–822.
+- **Van Dyk (2011)**: Research on adherence to ART. *J Assoc Nurses AIDS Care,* 22(4): 269–282.
+- **Van Wyk Louw (1941)**: *Raka* English translation by Dawes, 1968.
+
+### Antiretroviral Therapy (ART) 
+## Page 181
+
+- **Westermann et al. (2015)**: Review of hepatitis C prevalence among healthcare workers. *Occup Environ Med,* 72: 880–888.
+- **WHO (2014)**: Guidelines on post-exposure prophylaxis and Co-trimoxazole use for HIV-related infections.
+- **WHO (2015)**: Recommendations on ART initiation and pre-exposure prophylaxis.

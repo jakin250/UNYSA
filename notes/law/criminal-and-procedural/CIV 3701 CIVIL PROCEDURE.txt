@@ -1,0 +1,2561 @@
+# CIV3701/1/2019–2021 Study Notes
+
+## ORIENTATION
+- **Module Focus**: Civil procedure, concerning the enforcement of legal rights, duties, and remedies.
+- **Key Concepts**:
+  - Distinction between substantive law (rights and obligations) and procedural law (enforcement mechanisms).
+  - Importance of jurisdiction and proper procedural conduct in litigation.
+- **Module Outcomes**:
+  - Understanding of civil procedure rules and principles.
+  - Ability to select appropriate courts and procedures.
+  - Skills to navigate jurisdictional and procedural challenges.
+  - Capability to present theoretically founded arguments for problem-solving.
+
+## PART 1: INTRODUCTORY STUDIES
+
+### Study unit 1: Introduction to civil procedure (Page 2)
+- Definition and scope of civil procedure.
+- Importance of procedural rules in litigation.
+- Overview of the litigation process.
+
+### Study unit 2: Sources of civil procedural law (Page 6)
+- **Legislation**: Key statutes governing civil procedure.
+- **Case Law**: Role of judicial decisions in shaping procedural norms.
+- **Common Law**: Historical context and its influence on current practices.
+
+### Study unit 3: Civil procedure in context (Page 9)
+- Interaction between civil procedure and substantive law.
+- The role of civil procedure in ensuring justice and efficiency in legal proceedings.
+
+### Study unit 4: The structure of the South African court system (Page 22)
+- Overview of the hierarchy of courts:
+  - **Constitutional Court**
+  - **Supreme Court of Appeal**
+  - **High Courts**
+  - **Magistrates' Courts**
+- Jurisdictional powers of each court level.
+
+## PART 2: JURISDICTION
+
+### PART A: INTRODUCTION TO JURISDICTION OF THE SUPERIOR AND LOWER COURTS
+
+#### Study unit 5: Introductory remarks regarding jurisdiction (Page 30)
+- Definition of jurisdiction and its significance in civil procedure.
+- Types of jurisdiction: subject matter, personal, and territorial.
+
+### PART B: JURISDICTION OF THE SUPERIOR COURTS
+
+#### Study unit 6: Terminology (Page 36)
+- Key terms related to jurisdiction (e.g., "jurisdiction", "competence").
+
+#### Study unit 7: General overview of jurisdictional principles (Page 41)
+- Principles governing jurisdiction in civil matters.
+- Importance of jurisdiction in the context of fair trial rights.
+
+#### Study unit 8: Jurisdiction in respect of claims sounding in money (Page 43)
+- Criteria for monetary claims and jurisdictional limits.
+- Relevant legislation governing monetary claims.
+
+#### Study unit 9: Jurisdiction in respect of claims relating to property (Page 51)
+- Jurisdictional considerations for property disputes.
+- Case law illustrating property jurisdiction principles.
+
+#### Study unit 10: Matrimonial jurisdiction (Page 54)
+- Jurisdictional issues specific to matrimonial matters.
+- Relevant statutes and case law.
+
+### PART C: JURISDICTION OF THE LOWER COURTS
+
+#### Study unit 11: Jurisdiction of the magistrates’ courts (Page 60)
+- Overview of the jurisdictional scope of magistrates' courts.
+- Limitations and powers of magistrates in civil matters.
+
+## PART 3: COURT PROCEDURE
+
+### PART D: PRE-LITIGATION STAGE
+
+#### Study unit 12: Pre-litigation issues (Page 84)
+- Key considerations before initiating litigation.
+- Importance of pre-litigation strategies.
+
+#### Study unit 13: The parties to litigation (Page 90)
+- Identification of parties involved in civil proceedings.
+- Legal standing and capacity to sue or be sued.
+
+#### Study unit 14: Service (Page 94)
+- Rules and methods of serving legal documents.
+- Importance of proper service in ensuring jurisdiction.
+
+### PART E: LITIGATION STAGE
+
+#### Study unit 15: The conduct of application proceedings (Page 100)
+- Procedures for initiating application proceedings.
+- Key considerations and requirements.
+
+#### Study unit 16: The conduct of summons proceedings (Page 106)
+- Overview of summons procedures in civil litigation.
+- Differences between application and summons proceedings.
+
+#### Study unit 17: The simple summons and the combined summons (Page 111)
+- Definitions and uses of simple and combined summons.
+- Procedural requirements for each type.
+
+#### Study unit 18: The provisional sentence summons (Page 116)
+- Purpose and procedure for provisional sentence summons.
+- Relevant case law.
+
+#### Study unit 19: The principles of pleading (Page 119)
+- Fundamental principles governing pleadings in civil procedure.
+- Importance of clarity and precision in pleadings.
+
+#### Study unit 20: Litigation proceedings during the pleading stage: exchange of processes and pleadings (Page 122)
+- Procedures for exchanging pleadings and processes.
+- Importance of compliance with procedural rules.
+
+#### Study unit 21: Further possible pleadings and processes during the pleading stage: remedial steps (Page 126)
+- Additional pleadings and processes available to parties.
+- Remedial actions and their implications.
+
+#### Study unit 22: Offer to settle, tender, interim payments and security for costs (Page 133)
+- Overview of settlement offers and their legal implications.
+- Procedures for interim payments and security for costs.
+
+#### Study unit 23: Pretrial judgments (Page 137)
+- Types of pretrial judgments and their significance.
+- Procedures for obtaining pretrial judgments.
+
+#### Study unit 24: Preparation for trial (Page 142)
+- Key steps in preparing for trial.
+- Importance of thorough preparation.
+
+#### Study unit 25: The trial and costs (Page 150)
+- Overview of trial procedures.
+- Cost implications and considerations in civil litigation.
+
+## PART 4: VARIATION OF JUDGMENTS, REVIEW AND APPEAL
+
+### Study unit 26: The variation or rescission of judgments (Page 154)
+- Grounds for varying or rescinding judgments.
+- Relevant case law and statutory provisions.
+
+### Study unit 27: Review (Page 158)
+- Procedures for judicial review of decisions.
+- Grounds for review and relevant legislation.
+
+### Study unit 28: Appeals (Page 163)
+- Overview of the appeals process in civil procedure.
+- Key principles and statutory provisions governing appeals. 
+
+---
+
+**Note**: Ensure to refer to specific legislation and case law as indicated in each study unit for a comprehensive understanding of civil procedure principles.
+----- END OF FILE -----
+# Orientation
+- **Page vii**
+  - Importance of careful and meticulous work through activities and feedback for continuous self-assessment.
+  - Feedback provides broad guidelines, not model answers.
+
+## Prescribed Textbook and Study Material
+- **Page viii**
+  - **Prescribed Textbook**: 
+    - Pete S, Hulme D, Du Plessis M, Palmer R, Sibanda O, Palmer T. *Civil Procedure: A Practical Guide* 3rd ed (2017) (Oxford University Press).
+  - Importance of working through the textbook systematically alongside the study guide for a comprehensive understanding.
+  - Tutorial letters provide additional feedback and updates on civil procedure.
+
+## Compulsory Reading Material
+- **Page viii**
+  - Essential to consult relevant legislation and court rules while studying.
+  - References to “Rule” or “Rules” pertain to the Uniform Rules of Court; “rule” or “rules” followed by a number refer to magistrates’ courts rules.
+
+# PART 1: Introductory Studies
+- **Page 2**
+
+## 1 STUDY UNIT 1: Introduction to Civil Procedure
+- **Page 11**
+
+### Scenarios
+- **Scenario 1**: Peter (mechanical engineer) contracts with Thandi’s company, Price Clothing (Pty) Ltd. Machine malfunctions, causing R310,000 in damages.
+- **Scenario 2**: X (your uncle) involved in a collision with Y (under the influence). X sustains R160,000 in vehicle damages and R150,000 in medical costs due to Y’s negligence.
+
+### Overview
+- **1.1 Classification of Civil Procedure and Its Place Within the Legal System**
+- **1.2 Enforcing the Law**
+  - **1.2.1 Function of the Courts**
+  - **1.2.2 Subject Matter**
+  - **1.2.3 Parties**
+  - **1.2.4 Onus of Proof**
+
+### Learning Outcomes
+- Discuss classification of civil procedure within the legal system.
+- Explain differences between substantive and adjective law.
+- Distinguish between civil and criminal proceedings.
+- Explain the function of the courts.
+
+### Compulsory Reading Material
+- **Page 2**: Pete et al. *Civil Procedure* 3rd ed (2017) pp. 1–2.
+
+## 1.1 Classification of Civil Procedure and Its Place Within the Legal System
+- **Page 3**
+  - **Adjective Law**: Covers law of evidence, civil procedure, and criminal procedure.
+  - **Definition**: Adjective law (procedural law) exists to enforce substantive law.
+  - **Substantive Law**: Determines rights and obligations, establishes legal effects, and outlines termination.
+    - **Example**: Ownership of a motor vehicle—substantive law defines ownership rights and duties.
+
+## 1.2 Enforcing the Law
+- **Page 4**
+
+### 1.2.1 Function of the Courts
+- Courts resolve disputes between legal subjects or between legal subjects and the state.
+- Both civil and criminal proceedings are formal dispute resolution systems sanctioned by the state.
+- Judicial officers (judges, magistrates) hear evidence and arguments, issuing judgments enforced by the state.
+- The state provides court infrastructure but has no direct interest in civil disputes.
+
+### 1.2.2 Subject Matter
+- Court proceedings can be civil or criminal.
+  - **Civil Proceedings**: Disputes between legal subjects (e.g., claims for damages).
+    - **Examples**: Breach of contract, claims against the state.
+  - **Criminal Proceedings**: Between the state and citizens, initiated by a prosecutor.
+    - **Example**: Assault charges leading to civil compensation claims.
+
+### 1.2.3 Parties
+- Different roles in civil and criminal proceedings:
+  - **Criminal Proceedings**: State vs. accused; complainant is the victim.
+  - **Civil Proceedings**: 
+    - **Summons**: Plaintiff (initiator) vs. Defendant (respondent).
+    - **Application**: Applicant (initiator) vs. Respondent.
+    - **Appeal**: Appellant (initiator) vs. Respondent.
+
+### Diagram Reference
+- **National Law Structure**:
+  - **Substantive Law**
+    - **Adjective Law**
+      - **Criminal Law**
+      - **Law of Evidence**
+      - **Criminal Procedure**
+      - **Civil Procedure**
+      - **Private Law**
+----- END OF FILE -----
+# Introduction to Civil Procedure
+
+## 1.2.4 Onus of Proof
+- In civil proceedings, the **burden of proof** is established on a **balance of probabilities**.
+  - The court must be satisfied that the plaintiff/applicant's version is more probable than that of the defendant/respondent.
+- In contrast, the burden of proof in **criminal proceedings** is more stringent:
+  - The state must prove the accused's guilt **beyond all reasonable doubt**.
+  - The court must be convinced that no other probable conclusion can be reached other than the accused committed the offence as charged.
+
+---
+
+# PART 1: Introductory Studies
+
+## 2 STUDY UNIT 2: Sources of Civil Procedural Law
+
+### OVERVIEW
+#### 2.1 INTRODUCTION
+- The civil procedure of the **High Court** is not solely based on statutory provisions and rules of court; it also includes a significant portion of **common-law rules**.
+- The **Constitution of 1996** is the supreme law, and any inconsistent laws may be declared invalid.
+
+#### 2.2 STATUTORY LAW
+- Civil procedure law derives from various **Acts**, rules of court, and jurisprudence.
+- Main statutory sources include:
+  - **Superior Courts Act 10 of 2013** (replaced the Supreme Court Act 59 of 1959)
+  - **Magistrates’ Courts Act 32 of 1944**
+  - **Constitution of the Republic of South Africa, 1996**
+- Additional statutory sources exist for special courts and jurisdictional provisions (e.g., **Divorce Act 70 of 1979**, section 2(1)).
+
+#### 2.3 RULES OF COURT
+##### 2.3.1 Competence to Make the Rules
+- Prior to **1965**, different divisions of the Supreme Court had distinct Rules of Court.
+- The **Uniform Rules of Court** were promulgated on **15 January 1965** under section 43(2)(a) of the Supreme Court Act of 1959, standardizing procedures across divisions.
+- **Magistrates’ Courts Act of 1944**, section 25, provided for the making of rules for magistrates’ courts, effective from **30 August 1968**.
+- The **Supreme Court of Appeal Rules** were promulgated on **15 December 1961**.
+- The **Rules Board for Courts of Law Act 107 of 1985** conferred rule-making powers to the Rules Board for the Supreme Court of Appeal and High Courts, as well as magistrates’ courts.
+
+##### 2.3.2 Nature of the Rules
+- Rules of court are **delegated legislation** with statutory force and are binding on courts.
+- The purpose of the rules is to facilitate **inexpensive and efficient litigation**, not to obstruct justice.
+- Courts may condone non-compliance with procedural rules to prevent substantial injustice.
+- Superior courts can exercise inherent jurisdiction to grant relief in cases not covered by rules or where strict compliance would cause substantial prejudice.
+
+#### 2.4 COMMON LAW
+- The civil procedure of the High Court includes significant **common law rules**.
+- Particularly relevant in matters such as **provisional sentence (namptissement)**, where common law governs the majority of the rules.
+
+---
+
+# PART 1: Introductory Studies
+
+## 3 STUDY UNIT 3: Civil Procedure in Context
+
+### OVERVIEW
+#### 3.1 THE ADVERSARIAL SYSTEM OF CIVIL PROCEDURE
+- South African civil procedure follows an **adversarial system** of litigation, except for small claims courts.
+- The adversarial system contrasts with the **Continental system**, which is **inquisitorial** and involves judicial officers actively participating in proceedings.
+
+#### 3.2 THE ROLE OF THE COURT
+- The court serves as a neutral arbiter in the adversarial system, ensuring fair trial principles are upheld.
+
+#### 3.3 THE LEGAL PROFESSION
+- Legal representatives (counsel) conduct proceedings on behalf of litigants, engaging in a competitive representation.
+
+#### 3.4 CRITICAL APPRAISAL
+- **3.4.1 Litigants**: Parties involved in the legal contest.
+- **3.4.2 Competitive Representation**: The nature of legal representation in adversarial proceedings.
+- **3.4.3 Public Proceedings**: The principle of open court proceedings.
+- **3.4.4 Delay**: Issues related to the timeliness of civil litigation.
+- **3.4.5 Costs of Litigation**: Financial implications for parties involved.
+- **3.4.6 Adjudicatory Process**: The process through which disputes are resolved.
+- **3.4.7 Reforming Civil Procedure**: Discussions on potential reforms to improve efficiency and fairness.
+
+#### 3.5 ALTERNATIVE DISPUTE RESOLUTION (ADR)
+##### 3.5.1 ADR Explained
+- ADR encompasses various methods for resolving disputes outside of traditional litigation.
+  
+##### 3.5.2 Formal Litigation’s Response to ADR: Court-Annexed Mediation
+- Courts may incorporate mediation as a means to resolve disputes more amicably.
+
+#### 3.6 DISPUTE RESOLUTION MECHANISMS IN AFRICAN CUSTOMARY LAW
+##### 3.6.1 Introductory Remarks
+- Overview of traditional dispute resolution practices within African customary law.
+  
+##### 3.6.2 Processes Employed in African Customary Law
+- Examination of specific mechanisms and processes utilized in customary law for dispute resolution.
+
+#### 3.7 THE IMPACT OF THE CONSTITUTION, 1996 ON SELECTED AREAS OF THE SOUTH AFRICAN LAW OF CIVIL PROCEDURE
+##### 3.7.1 General
+- The Constitution influences various aspects of civil procedure, ensuring rights are upheld.
+  
+##### 3.7.2 Selected Areas Evincing Constitutional Influence
+- Specific areas of civil procedure that reflect constitutional principles and rights.
+
+#### 3.8 A FEW REMARKS ON THE CONDUCT OF PRACTITIONERS
+- Ethical considerations and professional conduct expected from legal practitioners in civil proceedings.
+----- END OF FILE -----
+# Civil Procedure in Context
+
+## 1. Introduction to Civil Procedure
+- **Page 11**: Overview of civil procedure systems.
+  - **Continental System**: 
+    - Law creation through legislation rather than case precedent.
+    - Court decisions are persuasive, not binding.
+  - **Anglo-American System**:
+    - Adversarial nature, prevalent in common-law countries (USA, UK, Canada, Australia, South Africa).
+
+## 2. Characteristics of the Anglo-American System
+- **Litigation as a Private Matter**:
+  - Legal representatives prosecute claims/defences.
+  - Contest between parties and their representatives.
+- **Orality of Proceedings**:
+  - Predominantly oral evidence (viva voce).
+  - Judicial official gives oral judgments.
+- **Pre-Trial and Trial Stages**:
+  - Distinct pre-trial activities: exchange of pleadings and trial preparation.
+  - Judicial official's passive role, intervening only upon request.
+
+## 3. Fundamental Principles of Civil Procedure
+### 3.1 Bilaterality
+- Assumes fair opportunity for both litigants to present claims/defences.
+- Belief that truth emerges from biased presentations.
+
+### 3.2 Party Prosecution
+- Litigants have the competence to commence or defend proceedings.
+- Litigation is a private matter, with minimal court interference.
+
+### 3.3 Party Presentation
+- Litigants control the content of their case.
+- They define issues and present facts without court interference.
+
+## 4. The Role of the Court
+- **Passive Role**:
+  - Judicial officer acts as an umpire, ensuring fair play.
+  - Decisions based solely on presented evidence and arguments.
+- **Judicial Activism**:
+  - Growing tendency for limited judicial intervention in fast-track litigation.
+
+## 5. The Legal Profession
+- Litigants typically instruct attorneys and advocates.
+- Exception: small claims court prohibits legal representation.
+- Legal representatives act as agents, promoting clients' interests.
+
+## 6. Critical Appraisal of the Adversarial System
+### 6.1 Litigants
+- Assumptions of equal opportunity may not reflect reality.
+- Financial disparities and skill differences can affect outcomes.
+- Rivalry may hinder full disclosure of facts.
+
+### 6.2 Competitive Representation
+- Lawyers reshape human problems into legal categories.
+- Adversarial nature can exacerbate emotional trauma (e.g., divorce).
+
+### 6.3 Public Proceedings
+- Courts operate as public institutions, making private grievances public.
+- Confidential commercial matters may also be exposed.
+
+### 6.4 Delay
+- "Justice delayed is justice denied."
+- Delays caused by procedural complexities and competitive tactics.
+
+### 6.5 Costs of Litigation
+- Access to courts is free, but legal representation costs can be prohibitive.
+- Legal aid exists but may not cover all needs.
+
+### 6.6 Adjudicatory Process
+- Judicial officer adjudicates impersonally, focusing on evidence and legal arguments.
+- System results in a winner and loser, increasing tension between litigants.
+
+### 6.7 Reforming Civil Procedure
+- Continuous revision of court rules.
+- Increasing jurisdictional limits of lower courts.
+- Excluding specific disputes from the court system (e.g., **Labour Relations Act 66 of 1995**).
+- Establishing alternative fora (e.g., small claims courts).
+- Encouraging informal dispute resolution (ADR).
+
+## 7. Alternative Dispute Resolution (ADR)
+### 7.1 ADR Explained
+- ADR encompasses informal processes for dispute resolution.
+- **Primary Processes**: Negotiation, mediation, arbitration.
+- Characteristics:
+  - Informal, flexible, voluntary, consensual, interest-based, relational, future-oriented.
+
+### 7.2 Court-Annexed Mediation
+- Mediation involves an impartial third party facilitating agreement.
+- Introduced in magistrates’ courts under **GN R 183 of 18 March 2014**.
+- Rules outline voluntary mediation procedures and court assistance.
+
+## 8. Dispute Resolution Mechanisms in African Customary Law
+### 8.1 Introductory Remarks
+- Characteristics:
+  - Oral tradition influenced by Western practices.
+  - Collective participation and victim-oriented processes.
+  - Informal, flexible, aiming for restorative justice.
+- Most disputes resolved without court intervention through negotiation.
+- Options if negotiation fails:
+  - Mediation by an impartial party.
+  - Formal court procedures if mediation is unsuccessful.
+----- END OF FILE -----
+# Civil Procedure in Context
+
+## 3.6.2 Processes Employed in African Customary Law
+
+### 3.6.2.1 The Settlement of Disputes Within Family Groups
+- **Dispute Resolution Location**: Common ancestral home.
+- **Authority**: Head of the family group, responsible for family conduct.
+- **Procedure**:
+  - **Negotiation**: Aimed at reconciliation or restoration of social harmony.
+  - **Assistance**: Senior family members assist the head.
+  - **Privacy**: Family matters treated as private.
+  - **External Help**: If unresolved, senior relatives or neighbors may be invited.
+  - **Objective**: Reconcile disputing parties and restore normal relations.
+  - **Outcome**: Head pronounces the resolution, accepted by all.
+  - **Ritual Closure**: Involves communal meal or physical gestures (shaking hands/hugging).
+  - **Formal Mediation**: If no agreement, headman acts as mediator for a formal decision.
+
+### 3.6.2.2 The Settlement of Disputes Between Non-Related Family Groups
+- **Initial Attempt**: Parties negotiate among themselves.
+- **Mediation**: If unresolved, headman or village head mediates.
+- **Ritual**: A reconciliatory meal signifies restored relations if an agreement is reached.
+
+### 3.6.2.3 Concluding Remarks
+- **Modern Context**: Shift from strict family arrangements; reliance on neighbors and community groups.
+- **Reporting**: Disputes may be reported to police, church groups, or civic associations.
+- **Legislative Impact**: The Traditional Courts Bill may affect customary law, traditional leaders' roles, and rural rights.
+
+---
+
+## 3.7 The Impact of the Constitution, 1996 on Selected Areas of the South African Law of Civil Procedure
+
+### 3.7.1 General
+- **Constitutional Influence**: Civil procedure must align with values in section 36 of the Constitution.
+- **Applicability**: Chapter 2 (Bill of Rights) applies to all law, including civil procedure.
+- **Key Rights**:
+  - **Equality Before the Law** (s 9)
+  - **Right to Freedom and Security** (s 12)
+  - **Property Rights** (s 25)
+  - **Access to Adequate Housing** (s 26)
+  - **Access to Courts** (s 34)
+
+### 3.7.2 Selected Areas Evincing Constitutional Influence
+
+#### 3.7.2.1 Eviction
+- **Common Law Limitation**: Owner's right to eviction is limited by the Constitution and land reform legislation.
+- **Relevant Legislation**:
+  - **Restitution of Land Rights Act 22 of 1994**: Protects lawful/unlawful occupiers with restitution claims.
+  - **Land Reform (Labour Tenants) Act 3 of 1996**: Protects agricultural land users.
+  - **Interim Protection of Informal Land Rights Act 31 of 1996**: Protects informal land rights holders.
+  - **Extension of Security of Tenure Act 62 of 1997**: Protects former lawful occupiers of agricultural land.
+  - **Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998 (PIE)**: Governs urban evictions; requires consideration of circumstances and rights of vulnerable groups.
+- **Judicial Oversight**: Courts must consider the impact of eviction on housing rights (Ndlovu v Ngobo; Bekker and Bosch v Jika 2003 1 SA 113 (SCA)).
+
+#### 3.7.2.2 Arrest
+- **Constitutional Ruling**: Arrest to establish jurisdiction deemed unconstitutional (Bid v Industrial Holdings (Pty) Ltd v Strang 2008 3 SA 355 (SCA)).
+- **Repeal of Uniform Rule 9**: Arrest tanquam suspectus de fuga no longer exists (Malachi v Cape Dancing Academy Int (Pty) Ltd 2010 6 SA 1 (CC)).
+
+#### 3.7.2.3 Execution
+- **Constitutional Court Ruling**: Execution that deprives adequate housing conflicts with section 26 rights (Japhtha v Schoeman; Van Rooyen v Stoltz 2005 3 SA 140 (CC)).
+- **Judicial Oversight Requirement**: Execution must be justified and subject to court approval (Gundwana v Steko Development and others 2011 3 SA 608 (CC)).
+- **Definition of "Primary Residence"**: Clarified in FirstRand Bank Ltd v Folscher and similar cases regarding execution against properties (2011 4 SA 314 (GNP)).
+
+---
+
+## 3.8 A Few Remarks on the Conduct of Practitioners
+- **Professional Code of Conduct**: Governed by the Attorneys Act 53 of 1979 and other regulations.
+- **Role of Practitioners**: Officers of the court, uphold law and justice.
+- **Expected Conduct**:
+  - Integrity, objectivity, dignity, and good judgment.
+  - Respect for law and commitment to fairness.
+- **Consequences of Breach**: Serious violations may lead to removal from the roll of attorneys or advocates.
+- **International Bar Association Principles**:
+  1. Maintain honesty and integrity.
+  2. Prioritize client interests while respecting court duties.
+  10. Competently and timely carry out work.
+  12. Behave with integrity and respect towards colleagues.
+
+---
+
+## 4 The Structure of the South African Court System
+
+### 4.1 The Constitutional Court
+- **Location**: Johannesburg.
+- **Composition**: Chief Justice, Deputy Chief Justice, and nine judges.
+- **Hearing Requirement**: At least eight judges must hear a matter.
+- **Jurisdiction**: Defined in section 167(3)–(7) of the 1996 Constitution, as amended by the Constitution Seventeenth Amendment Act of 2012 (CSAA).
+- **Functions**: To be detailed in subsequent sections.
+
+### 4.2 The Supreme Court of Appeal (SCA)
+- **Function and Jurisdiction**: To be detailed in subsequent sections.
+
+### 4.3 The High Court
+- **Function and Jurisdiction**: To be detailed in subsequent sections.
+
+### 4.4 The Magistrates’ Court
+- **Function and Jurisdiction**: To be detailed in subsequent sections.
+
+### 4.5 The Small Claims Court
+- **Function and Jurisdiction**: To be detailed in subsequent sections.
+
+---
+
+### Compulsory Reading Material
+- Pete et al Civil Procedure 3ed (2017) 3–10
+- Sections 167(3)–(7), 168, 169, and 173 of the Constitution of the Republic of South Africa, 1996
+- Sections 6(1)–(2); 21(1) and 50 of the Superior Courts Act 10 of 2013
+----- END OF FILE -----
+# The Structure of the South African Court System
+
+## 4.1 The Constitutional Court
+- **Highest Court of Appeal**: 
+  - Jurisdiction over both constitutional and non-constitutional matters (s 167(3)(a)).
+- **Exclusive Jurisdiction**:
+  - Only court to hear disputes between organs of state at national or provincial levels.
+  - Hears applications regarding the constitutionality of parliamentary and provincial bills and Acts.
+  - Decides on compliance of Parliament or the President with constitutional duties.
+  - Certifies provincial constitutions (s 167(4)).
+- **Direct Access**: 
+  - May grant direct access in exceptional circumstances if in the interests of justice (s 167(6)(a)).
+- **Confirmation of Orders**: 
+  - Confirms orders from other courts declaring parliamentary or provincial legislation invalid (s 167(5)).
+- **Functionality**: 
+  - Acts as both a court of first instance and a court of appeal.
+
+## 4.2 The Supreme Court of Appeal (SCA)
+- **Location**: 
+  - Situated in Bloemfontein.
+- **Function**: 
+  - Functions solely as a court of appeal; cannot be approached directly.
+  - Hears appeals from the High Court of South Africa and similar courts (excluding labour or competition matters).
+  - Appeals may involve both constitutional and non-constitutional matters.
+- **Further Appeals**: 
+  - A further appeal may lie to the Constitutional Court.
+
+## 4.3 The High Court of South Africa and Courts of Similar Status
+- **Divisions**: 
+  - Located in major centres across South Africa.
+- **Function**: 
+  - Acts as a court of first instance for claims exceeding R400,000.
+  - Functions as a court of appeal or review for magistrates’ court decisions.
+- **Jurisdiction**: 
+  - May hear any matter not prohibited by the Constitution or an Act of Parliament (s 169).
+- **Legislation Governing Jurisdiction**:
+  - **Section 169 of the Constitution, 1996**: Constitutional jurisdiction.
+  - **Section 21(1) of the SCA**: Jurisdiction over causes arising within territorial areas.
+    - Interpreted as legal proceedings under common law (Zokufa v Compuscan Credit Bureau 2011 1 SA 272 (ECD)).
+  - **Section 173 of the Constitution, 1996**: Jurisdiction from common law and unwritten powers.
+  - **Sections 16–19 of the Superior Courts Act, 2013**: Appeal jurisdiction.
+- **Territorial Limits**: 
+  - Jurisdiction confined to matters arising within their area and persons residing there.
+
+## 4.4 The Magistrates’ Courts
+- **Classification**: 
+  - Referred to as "lower courts".
+- **Jurisdiction**: 
+  - No constitutional jurisdiction (s 170 of the Constitution).
+  - Cannot pronounce on the validity of any law or conduct of the President (s 110 of the Magistrates’ Courts Act 32 of 1944).
+
+## 4.5 The Small Claims Court
+- **Regulation**: 
+  - Governed by the Small Claims Courts Act 61 of 1984.
+- **Objectives**:
+  - Enhance accessibility to justice for all South Africans.
+  - Provide a forum for minor civil disputes.
+  - Simplify procedures to reduce costs and time.
+  - Prohibit legal representation to minimize litigation costs.
+  - Establish a consumer-oriented court.
+- **Purpose**: 
+  - Address issues faced by litigants in other courts, ensuring access to justice.
+- **Procedural Features**:
+  - Self-representation for both parties.
+  - Simplified pre-trial proceedings.
+  - Inquisitorial function granted to the commissioner.
+- **Court Status**: 
+  - Not inferior to other courts; judgments are binding and enforced by the state.
+- **Limitations**:
+  - Low jurisdictional limit (currently R15,000).
+  - Certain claims excluded from jurisdiction (s 16).
+  - Only natural persons may appear as plaintiffs (s 7).
+  - Review of proceedings permitted (s 46), but appeal is prohibited (s 45).
+- **Comparison with Other Courts**:
+  - No legal representation allowed to minimize costs.
+  - Informal pre-trial proceedings and relaxed rules of evidence.
+  - Active role of the commissioner in assisting litigants.
+
+### References
+- **Small Claims Courts Act, 1984**: Sections 3, 4, 7, 14, 15–22, 26, 29, 45, and 46.
+----- END OF FILE -----
+# PART A  
+## Introduction to jurisdiction of the superior and lower courts  
+
+---
+
+# PART 2: Jurisdiction  
+## 5S T U DY  U N I T 55  
+
+### 5 Introductory remarks regarding jurisdiction  
+- **Scenario**: Candidate attorney in Johannesburg consulted by Anna from Durban for divorce proceedings against Tshepo.  
+
+#### OVERVIEW  
+- **5.1 THE DISTINCTION BETWEEN COURTS**  
+- **5.2 THE MEANING OF JURISDICTION**  
+- **5.3 THE MEANING OF INHERENT JURISDICTION**  
+- **5.4 THE MEANING OF “CREATURES OF STATUTE”**  
+- **5.5 WHEN JURISDICTION IS DETERMINED**  
+
+---
+
+### 5.1 THE DISTINCTION BETWEEN COURTS  
+- **Superior Courts**:  
+  - **Constitutional Court**  
+  - **High Courts** (and courts of similar status)  
+  - **Supreme Court of Appeal**  
+  - **Specialist Courts**: Labour Court, Lands Claims Court (status of High Court)  
+
+- **Lower Courts**:  
+  - **Magistrates’ Courts**: Established under the **Magistrates’ Courts Act 32 of 1944**  
+    - District Magistrates’ Courts  
+    - Regional Magistrates’ Courts  
+  - **Small Claims Courts**: Governed by the **Small Claims Courts Act 61 of 1984**  
+  - **Other Bodies**: Children’s courts, maintenance courts (established by specific legislation)  
+
+---
+
+### 5.2 THE MEANING OF JURISDICTION  
+- **Definition**: No single court in South Africa has universal jurisdiction to hear all disputes.  
+- **Nexus Requirement**: A link must exist between the court, the parties, and the subject matter for jurisdiction to be established.  
+- **Effective Judgment**: The court must be able to enforce its judgment.  
+- **Consequences of Improper Jurisdiction**:  
+  - If a case is filed in a court without jurisdiction, it will be dismissed, necessitating a new action in the correct court.  
+  - Filing in a higher court when the matter belongs in a lower court risks costs being awarded on a lower scale.  
+
+- **Case Reference**:  
+  - **Ewing McDonald & Co Ltd v M & M Products Co 1991 (1) SA 252 (A)**  
+    - Jurisdiction defined as the power of a court to adjudicate, determine, and dispose of a matter.  
+    - **Requirements**:  
+      1. Authority to hear the matter.  
+      2. Power to enforce judgment.  
+
+---
+
+### 5.3 THE MEANING OF INHERENT JURISDICTION  
+- **Definition**: Superior courts exercise jurisdiction derived from common law, not solely from statutory provisions.  
+- **Discretion**: Superior courts can condone procedural mistakes and determine procedural points.  
+- **Constitutional Basis**:  
+  - **Section 173 of the Constitution of the Republic of South Africa, 1996**:  
+    - Confirms the inherent power of superior courts to protect and regulate their own processes and develop common law considering justice interests.  
+
+---
+
+### 5.4 THE MEANING OF “CREATURES OF STATUTE”  
+- **Definition**: Lower courts lack inherent jurisdiction; they derive powers from the statute that created them.  
+- **Example**:  
+  - **Magistrates’ Courts**:  
+    - Created by the **Magistrates’ Courts Act 32 of 1944**.  
+    - Authority limited to what the Act permits.  
+
+---
+
+### 5.5 WHEN JURISDICTION IS DETERMINED  
+- **Key Moment**: Jurisdiction is determined when proceedings are instituted.  
+- **Continuation of Proceedings**: Once initiated in a court, proceedings must continue there unless permission is granted to transfer to another court or the plaintiff withdraws the case.  
+
+---  
+
+**Compulsory Reading**:  
+- Pete et al Civil Procedure 3ed (2017) 65  
+- **Section 173 of the Constitution of the Republic of South Africa, 1996**
+----- END OF FILE -----
+# PART B
+## Jurisdiction of the Superior Courts
+
+### PART 2: Jurisdiction
+#### 6 STUDY UNIT 6
+**Terminology**  
+**Page 36**
+
+**Case Overview:**  
+- **Facts:** Peter (Durban) sells Ferrari to Tsepo (Pretoria) for R405,000. Peter refuses to deliver the car post-payment.
+
+---
+
+### 6.1 INTRODUCTORY REMARKS ON LATIN TERMS
+**Page 37**
+
+- **Actor sequitur forum rei**  
+  - Definition: Plaintiff must institute action in the area where the defendant is domiciled or resident.  
+  - Jurisdiction type: **ratione domicilii**.
+
+- **Dominus litis**  
+  - Definition: Plaintiff (master of the suit) can choose among multiple courts with jurisdiction.
+
+- **Incola and peregrinus**  
+  - **Incola:** Domiciled or resident within a court's jurisdiction (e.g., Peter in KwaZulu-Natal High Court, Durban).  
+  - **Peregrinus:** Not domiciled or resident within that court's jurisdiction (e.g., Tsepo in KwaZulu-Natal High Court, Durban).  
+  - **Notes:**  
+    - Applies to each High Court separately.  
+    - Citizenship irrelevant for jurisdiction.  
+    - Distinction between local (within South Africa) and foreign peregrinus.
+
+- **Nexus**  
+  - Definition: Link that gives a court jurisdiction over a person or cause of action.
+
+- **Rationes jurisdictionis**  
+  - Definition: Links (nexus) required for a court's jurisdiction.  
+  - Examples: Domicile, delict commission, contract breach, submission, property location.
+
+- **Ratione rei gestae**  
+  - Jurisdiction grounds for monetary claims:  
+    1. Contract concluded/performed/breached within jurisdiction.  
+    2. Delict committed within jurisdiction.  
+  - Not limited to these grounds; jurisdiction may also arise from **ratione domicilii**.
+
+- **Ratione domicilii**  
+  - Common law: Court where the defendant is domiciled or resident has jurisdiction for monetary claims.
+
+- **Ratione rei sitae**  
+  - Relevant for property claims: Only the court where the property is located has jurisdiction.
+
+---
+
+### 6.2 LEGAL PHRASES
+**Page 39**
+
+- **Attachment to found or confirm jurisdiction**  
+  - Definition: Refers to grounds for a court's jurisdiction in monetary claims against a foreign peregrinus.  
+  - Origin: Roman-Dutch law, based on the doctrine of effectiveness.  
+  - **Case Reference:** *Bid Industrial Holdings (Pty) Ltd v Strang and Another* 2008 (3) SA 355 (SCA).  
+    - Court held attachment to confirm jurisdiction is constitutional if it ensures effective judgment.
+
+- **Claim sounding in money**  
+  - Definition: Action based on a claim for payment of money or alternative orders (e.g., specific performance).
+
+- **Doctrine of effectiveness**  
+  - Principle: Jurisdiction is exercised only if the court can give an effective judgment.  
+  - Compliance with judgments is expected; attachment is necessary for foreign peregrinus.
+
+- **Domicile**  
+  - Definition: Lawful presence with intention to settle indefinitely.  
+  - Jurisdiction exists even if the defendant is not physically present.
+
+- **Reside**  
+  - Definition: More than mere physical presence; implies intention to stay beyond a temporary visit.  
+  - **Case Reference:** *Beedle & Co v Bowley* (1895) 12 SC 401.  
+    - Defined residence as a person's home or place of abode.  
+  - **Principles from Ex parte Minister of Native Affairs 1941 AD 53:**  
+    1. Distinction between residence and domicile.  
+    2. Multiple residences allow for jurisdiction based on current residence.  
+    3. Temporary visits do not constitute residence.
+
+---
+
+**Note:** Ensure to refer to the prescribed textbook for a comprehensive glossary from page 687 onwards for further clarification of terms.
+----- END OF FILE -----
+# General Overview of Jurisdictional Principles  
+**Page 41**  
+**Chapter 7**  
+**Study Unit 7**  
+
+## Overview  
+### 7.1 Introduction  
+- Claims addressed:  
+  - Money  
+  - Property  
+  - Matrimonial  
+  - Constitutional matters  
+- Different jurisdictional principles apply to each type of claim.  
+- Classification of claims:  
+  - Money  
+  - Property  
+  - Status  
+  - Constitutional matters  
+
+## Relationship Between Common-Law Principles and Legislation  
+### 7.2  
+- **Section 21 of the Superior Courts Act, 2013**: Common law applies unless altered by legislation.  
+- Importance of common law in determining jurisdiction in High Courts.  
+
+### 7.2.1 Claims Sounding in Money  
+- Definition: Action seeking payment of money or alternative orders (e.g., specific performance).  
+- Common-law principle: **Actor sequitur forum rei** (the plaintiff follows the defendant's forum).  
+- **Ratione rei gestae**: Allows jurisdiction in courts outside the defendant's domicile.  
+
+### 7.2.2 Claims Relating to Property  
+- Principle: **Forum rei sitae** (only the court where the property is located has jurisdiction).  
+
+### 7.2.3 Matrimonial Actions  
+- Common-law principle: Jurisdiction lies where parties are domiciled.  
+- Altered by **Divorce Act 70 of 1979**.  
+
+### 7.2.4 Constitutional Actions  
+- **Section 167(3) of the Constitution, 1996**: Defines constitutional matters and assigns final decision-making to the Constitutional Court.  
+
+---
+
+# Jurisdiction in Respect of Claims Sounding in Money  
+**Page 43**  
+**Chapter 8**  
+**Study Unit 8**  
+
+## Overview  
+### 8.1 Schematic Outline  
+- Jurisdictional principles overview:  
+  - **Defendant Status**: Incola or Peregrinus  
+    - **Incola of the Republic**  
+    - **Peregrinus of the Republic**  
+      - Local Peregrinus  
+      - Foreign Peregrinus  
+
+### 8.2 Where the Defendant is an Incola of Some South African Court  
+- Jurisdiction based on **Ratione domicilii** (defendant's domicile).  
+- Court has jurisdiction where the defendant resides at the time of action.  
+- **Mills v Starwell Finance (Pty) Ltd 1981 (3) SA 84 (N)**: Action instituted when summons is issued and served.  
+- Physical presence of the defendant in the court's area is not required.  
+
+### 8.3 Where the Defendant is a Peregrinus of the Court Concerned, but an Incola of Another Court in South Africa (Local Peregrinus)  
+- Local peregrinus: Not domiciled in the court's area but resides in South Africa.  
+- Jurisdiction only if the cause of action arose within the court's area (**Ratione rei gestae**).  
+- **Ratione contractus**: Jurisdiction if the contract was concluded, breached, or intended to be performed in the court's area.  
+- **Ratione delicti commissi**: Jurisdiction if the delict occurred within the court's area.  
+- **Section 28(1) of the Superior Courts Act, 2013**: Prohibits attachment of property for jurisdictional purposes for local peregrini.  
+
+### 8.4 Where the Defendant is a Peregrinus of All South African Courts (Foreign Peregrinus)  
+#### 8.4.1 Introduction  
+- Foreign peregrinus: Not domiciled or resident in South Africa.  
+- Attachment of property is necessary to establish jurisdiction.  
+- Attachment cannot be applied to matrimonial actions or actions without monetary/property components.  
+
+#### 8.4.2 Where the Defendant is a Foreign Peregrinus and the Plaintiff is an Incola of the Court Concerned  
+- Jurisdiction assumed if:  
+  - Plaintiff is an incola of the court.  
+  - Attachment of the defendant's property has occurred (**Attachment ad fundandam iurisdictionem**).  
+- Historical context:  
+  - **Einwald v German West African Co 1887 (5) SC 86**: Initially ruled that cause of action must arise in the court's area.  
+  - **Halse v Warwick 1931 CPD 233**: Allowed attachment ad fundandam jurisdictionem even if the cause of action arose outside the court's area.  
+- Summary of conditions for attachment to found jurisdiction:  
+  - Defendant is a foreign peregrinus.  
+  - Property attachment has occurred.  
+  - Plaintiff is an incola of the court concerned.  
+
+---
+
+**Compulsory Reading**:  
+- Pete et al Civil Procedure 3ed (2017) 96–105; 99–104; 109–112  
+- Sections 21(3); 28; 42(2) of the Superior Courts Act, 2013  
+- Sections 167(3)–167(7) of the Constitution, 1996
+----- END OF FILE -----
+# Jurisdiction in Respect of Claims Sounding in Money
+
+## 8.4.3 Where the Defendant is a Foreign Peregrinus and the Cause of Action Arose Within the Area of the Court Concerned
+- A court can exercise jurisdiction if:
+  - The defendant is a **peregrinus** of the Republic.
+  - The cause of action arose within the court's area of jurisdiction.
+  - **Attachment of the defendant’s property** has occurred within the court’s jurisdiction area.
+- This principle is known as **attachment ad confirmandam jurisdictionem**.
+  - Attachment confirms or strengthens the court's partial jurisdiction based on the cause of action's location (ratione rei gestae).
+  - Jurisdiction is not competent unless attachment ad confirmandam iurisdictionem has occurred.
+- The nature of the proceedings is irrelevant as long as money is claimed (e.g., debt or damages).
+- Common grounds for claims include:
+  - **Ratione contractus** (based on contract).
+  - **Ratione delicti** (based on delict).
+- The plaintiff's status (incola or peregrinus) does not affect these rules.
+
+### Summary:
+- **Attachment ad confirmandam iurisdictionem** is permissible when:
+  - The defendant is a **peregrinus**.
+  - Attachment of the defendant’s property has occurred within the court's jurisdiction area.
+  - The cause of action arose within the court's area.
+
+## 8.5 Effect of Sections 21(3) and 42(2) of the SCA and the Location of the Property for Purposes of Attachment
+
+### Historical Background:
+- **Section 26(1)** of the **Supreme Court Act 59 of 1959**: Civil process ran throughout the Republic but did not extend jurisdiction for attachment of property.
+  - **Ewing McDonald & Co Ltd v M & M Products Co** 1991 (1) SA 252 (A): Confirmed that attachment must occur within the court's jurisdiction.
+- **Section 19(1)(c)** (1999): Allowed attachment to found or confirm jurisdiction anywhere in the Republic.
+
+### Current Legislation:
+- **Superior Courts Act, 2013**:
+  - **Section 42(2)**: Civil process runs throughout the Republic; judgments enforceable within any division of the High Court.
+  - Jurisdiction can be exercised over a defendant's property if they are an **incola** of South Africa.
+  - For **peregrinus**, attachment of property is usually required for jurisdiction.
+  
+- **Section 21(3)**: 
+  - Allows any Division to order attachment of property to confirm jurisdiction.
+  - Subject to **section 28** (prohibits attachment of property of persons resident in the Republic).
+  
+### Key Points:
+- Attachment ad confirmandam iurisdictionem is recognized, but attachment ad fundandam iurisdictionem remains governed by common law.
+- The property must be situated within the jurisdiction area of the court for attachment to be valid.
+
+## 8.6 Procedural Issues Concerning the Attachment of Property
+- An order for attachment precedes the main action.
+- The plaintiff must show a prima facie cause of action.
+- The application for attachment is separate from the main claim; the court does not consider the merits of the main action.
+- If attachment is ordered, the property remains attached until judgment unless the defendant provides security.
+
+## 8.7 When Submission Will Vest a Court with Jurisdiction
+- **Submission**: A defendant consents to the court's jurisdiction, either positively or negatively.
+- Relevant only for monetary claims; property or status claims usually have exclusive jurisdiction.
+- **Incola** defendants cannot submit as jurisdiction is already established.
+- **Peregrinus** defendants may submit to avoid property attachment if the cause of action arose within the court's jurisdiction.
+- Submission can occur through:
+  - Mutual consent (contractual).
+  - Unilateral actions (e.g., filing a plea, requesting security for costs).
+  - Failure to promptly object to jurisdiction.
+- Mere appearance to defend does not constitute submission.
+
+---
+
+# Jurisdiction in Respect of Claims Relating to Property
+
+## 9.1 Introduction
+- Discusses jurisdictional principles for immovable and movable property.
+- Claims relating to property involve orders affecting specific identifiable property (e.g., delivery of jewelry or servitude on land).
+- General principle: **forum rei sitae** (court where property is located) has jurisdiction, often exclusively.
+
+## 9.2 Where the Object of Relief is Immovable Property
+- Exclusive jurisdiction for actions involving:
+  - Determining title to immovable property.
+  - Transfer of immovable property (exception: **Hugo v Wessels** 1987 (3) SA 837 (A)).
+  - Partition of immovable property.
+  - Disputes over real rights.
+  - Claims for possession of immovable property.
+  - Rescission of contracts for transfer of immovable property.
+- Jurisdiction applies regardless of whether the defendant is an incola or peregrinus.
+
+## 9.3 Where the Object of Relief is Movable Property
+- Jurisdiction for actions involving movable property includes:
+  - Determining title.
+  - Delivery of movable property.
+  - Disputes over real rights.
+- Jurisdiction of **forum rei sitae** for movable property is debatable; it may not be exclusive.
+- Courts may also have jurisdiction based on the **forum domicilii** of the owner or possessor.
+- Enforcement of judgments can occur anywhere in South Africa under **section 42(2)** of the Superior Courts Act, 2013.
+
+### Conclusion:
+- While the **forum rei sitae** has jurisdiction, the extent of jurisdiction for movable property involving the **forum domicilii** remains uncertain.
+----- END OF FILE -----
+# Jurisdiction in Respect of Claims Relating to Property
+
+## Page 53
+
+### Feedback
+- **(1)** The forum domicilii of the defendant does not have jurisdiction in claims relating to immovable property.
+- **(2)** The forum rei sitae always has jurisdiction to determine ownership of immovable property.
+- **(3)** The forum rei sitae – the Free State High Court, Bloemfontein – will have jurisdiction. However, the forum domicilii of the defendant – the South Gauteng High Court, Johannesburg – may also have jurisdiction.
+
+---
+
+# PART 2: Jurisdiction
+
+## Page 54
+
+### Study Unit 10: Matrimonial Jurisdiction
+
+#### Overview
+- **Scenario**: Lebo and Pindi married in Swaziland; Lebo later moves to Pretoria while Pindi remains in Swaziland. Lebo seeks a divorce to marry another partner in Pretoria.
+
+### 10.1 Introduction
+- Jurisdictional principles for status issues (e.g., divorce) differ from money claims; they rely on international recognition of judgments.
+- The common-law principle: the court of common domicile has jurisdiction for divorce actions.
+- Historical context: The common domicile rule caused hardship for deserted wives, leading to legislative changes (Divorce Act 70 of 1979 and Domicile Act 3 of 1992).
+
+### 10.2 The Concepts of Domicile and Residence in the Context of Divorce Jurisdiction
+- **Common Law**: A wife adopts her husband's domicile upon marriage, losing her prior domicile and ability to acquire a domicile of choice.
+- **Domicile Act 3 of 1992**: Abolished the wife's domicile of dependence, allowing independent domicile for married women (s 1(1)).
+- **Current Legislative Position**: Domicile or ordinary residence of either spouse within a High Court's area confers jurisdiction.
+- **Interpretation of Terms**:
+  - "Domicile" as per Domicile Act, not common law.
+  - Domicile of choice requires lawful presence and intention to settle (s 1(2)).
+  - "Ordinarily resident" lacks a statutory definition; judicial interpretation (Cohen v CIR 1946 AD 174) describes it as a usual or principal residence, requiring greater permanence than mere residence.
+
+## Page 55
+
+### 10.3 Current Legislation Regulating Divorce Jurisdiction
+- **Divorce Act 70 of 1979**: Jurisdiction based on independent domicile or residence of either spouse.
+- **Civil Union Act 17 of 2006**: Applies the same principles to civil unions as to marriages.
+- **Jurisdictional Grounds**:
+  - **s 2(1)(a)**: Jurisdiction if either party is domiciled in the court's area on the action's institution date.
+  - **s 2(1)(b)**: Jurisdiction if either party is ordinarily resident in the court's area for at least one year prior to the action's institution.
+- **Implications**:
+  - Jurisdiction can be established by the domicile or residence of one spouse, even if the other is outside the Republic.
+  - The period of domicile is not defined; however, residence requires at least one year, including any antenuptial period.
+
+## Page 56
+
+- **s 2(2)**: Jurisdiction for claims in reconvention or applications related to the divorce action.
+- **s 2(3)**: Choice of law provisions for divorce actions.
+- **Jurisdiction of Regional Courts Amendment Act 31 of 2008**: Extended regional courts' jurisdiction to include divorce matters, repealing previous restrictions on magistrates' courts.
+- **Amendments to Divorce Act**: Expanded the definition of "court" to include regional magistrates' courts.
+
+### Regional Magistrates’ Courts Jurisdiction
+- **s 28(1A)**: Jurisdiction over parties domiciled or ordinarily resident in the court's area.
+- **s 29(1B)**: Jurisdiction to determine nullity of marriage and divorce, including matters under the Recognition of Customary Marriages Act, 1998.
+
+## Page 57
+
+### Summary of Jurisdictional Principles
+- **s 2(1)**: A court can exercise divorce jurisdiction if either party meets domicile or residence requirements.
+- **s 2(1)(b)**: Requires one year of ordinary residence in the Republic prior to action.
+- **s 2(2)**: Jurisdiction extends to related claims in reconvention.
+- **s 2(3)**: Courts apply their own law in divorce actions.
+
+### Implications of Jurisdiction
+- A spouse can initiate divorce proceedings in South Africa if the other spouse meets jurisdictional requirements, regardless of their own domicile or residence status.
+
+---
+
+## Page 58
+
+### Activity Feedback
+- **(1)** Jurisdiction for Lebo's divorce action lies with the North Gauteng High Court, Pretoria, as he is ordinarily resident there for over a year (s 2(1)(b)).
+- **(2)** Pindi can institute divorce proceedings in Pretoria, as Lebo's residence satisfies jurisdictional requirements (s 2(1)).
+- **(3)** Pindi may also file in the Pretoria regional magistrates’ court based on the same jurisdictional grounds (s 28(1A)(ii) of the Magistrates’ Courts Act).
+----- END OF FILE -----
+# PART C  
+## Jurisdiction of the lower courts  
+
+### PART 2: Jurisdiction  
+#### 11 JURISDICTION OF THE MAGISTRATES’ COURTS  
+- **Case Study Overview**:  
+  - **Parties Involved**: Thandi (Rustenburg), Rashid (Johannesburg), Thomas (Polokwane), Buildrite (supplier).  
+  - **Transaction Details**:  
+    - Agreement for land purchase: R80,000 (Rashid).  
+    - Contract for building a house: R90,000 (Thomas).  
+    - Value of completed house: R200,000; total (land + house): R300,000; cost to find another builder: R150,000.  
+  - **Issues**: Rashid's refusal to sign transfer documents; Thomas's withdrawal from the building contract; removal of goods by Thomas.
+
+### 11.1 PROVISIONS GOVERNING JURISDICTION  
+#### 11.1.1 Primary Provisions  
+- **Statutory Jurisdiction**:  
+  - Magistrates’ courts operate under statutory provisions; common-law principles do not apply.  
+  - **Key Sections**:  
+    - **Section 46**: Types of claims not heard by magistrates’ courts (e.g., interpretation of wills).  
+    - **Section 29**: Maximum claim amounts for district and regional magistrates’ courts.  
+    - **Section 28**: Jurisdiction based on the residence or business location of the defendant.  
+
+#### 11.1.2 Other Provisions  
+- **Competency of Magistrates’ Courts**:  
+  - **Section 30**: Authority to grant interdicts.  
+  - **Sections 31 & 32**: Specific interdict forms for magistrates’ courts.  
+  - **Section 37**: Jurisdiction determination for matters outside the court's jurisdiction.  
+  - **Section 50**: Transfer of cases to High Court if jurisdiction is contested.  
+  - **Section 110**: Jurisdiction regarding the validity of legislation.  
+
+### 11.2 SECTION 46: LIMITATIONS ON THE NATURE OF THE CLAIM  
+#### 11.2.1 Section 46(2)(a): Validity of Wills  
+- Only the High Court has jurisdiction over will validity; magistrates’ courts can hear claims related to bequests.  
+
+#### 11.2.2 Section 24(2)(b): Status Regarding Mental Capacity  
+- Magistrates’ courts cannot affect personal status except in divorce; can appoint a curator ad litem for individuals declared insane.  
+
+#### 11.2.3 Section 46(2)(c): Specific Performance  
+- **General Rule**:  
+  - Specific performance traditionally granted by superior courts; magistrates’ courts cannot issue such orders.  
+  - **Key Cases**:  
+    - **Maisel v Camberleigh Court (Pty) Ltd**: Limited to contractual obligations.  
+    - **Tuckers Land and Development Corporation (Edms) Bpk v Van Zyl**: Monetary claims do not constitute specific performance.  
+- **Exceptions**:  
+  - **Section 46(2)(c)(i)**: Claims for rendering accounts may be heard if within financial limits.  
+  - **Sections 46(2)(c)(ii) & (iii)**: Orders limited to delivery/transfer of property only.  
+
+#### 11.2.4 Section 46(2)(d): Perpetual Silence  
+- Court order requiring action to be instituted within a specified period, barring future claims if not initiated.  
+
+### 11.3 SECTION 29: LIMITATIONS ON THE AMOUNT OF THE CLAIM  
+#### 11.3.1 General  
+- **Financial Limits**:  
+  - Claims of R200,000 or less: within district magistrates’ court jurisdiction.  
+  - Claims over R200,000 but less than R400,000: within regional magistrates’ court jurisdiction.  
+
+### 11.4 SECTION 28: LIMITATIONS REGARDING GEOGRAPHICAL CONSIDERATIONS  
+#### 11.4.1 General  
+- Jurisdiction determined by the defendant's residence, business location, or employment.  
+
+#### 11.4.2 The Provisions of Section 28  
+- Establishes the basis for determining the appropriate magistrates’ court based on geographical factors.  
+
+### 11.5 OTHER PROVISIONS THAT DETERMINE WHETHER A PARTICULAR MAGISTRATES’ COURT MAY EXERCISE JURISDICTION  
+#### 11.5.1 Interdicts  
+- Jurisdiction to grant interdicts as per Section 30.  
+
+#### 11.5.2 Mandamenten van Spolie  
+- Specific provisions regarding spoliation claims.  
+
+#### 11.5.3 Attachments  
+- Jurisdictional considerations for attachment claims.  
+
+#### 11.5.4 Sections 31 and 32: Rent Interdicts  
+- Specific provisions for rent-related interdicts.  
+
+#### 11.5.5 Section 37: Incidental Jurisdiction  
+- Jurisdictional authority for incidental matters.  
+
+#### 11.5.6 Section 50: Removal to High Court  
+- Procedures for transferring cases to the High Court.  
+
+### 11.6 PROVISIONS AFFECTING CLAIMS THAT FALL OUTSIDE THE JURISDICTIONAL LIMITS  
+#### 11.6.1 Section 38: Abandonment of Part of Claim  
+- Allows for partial claims to be abandoned to fit within jurisdictional limits.  
+
+#### 11.6.2 Section 39: Deduction of an Admitted Debt  
+- Provisions for deducting admitted debts from claims.  
+
+#### 11.6.3 Section 45: Consent  
+- Jurisdictional implications of consent in claims.  
+
+#### 11.6.4 Section 43: Cumulative Jurisdiction  
+- Allows for cumulative claims to be heard together.  
+
+#### 11.6.5 Section 40: Splitting of Claims  
+- Provisions regarding the splitting of claims to fit jurisdictional limits.  
+
+#### 11.6.6 Section 47: Counterclaims Exceeding Jurisdiction  
+- Guidelines for handling counterclaims that exceed jurisdictional limits.  
+
+### COMPULSORY READING MATERIAL  
+- **Textbook**: Pete et al Civil Procedure 3ed (2017) 66–95; 196–197.  
+- **Legislation**: Sections 28–32; 37; 40; 43; 45; 47; 50; and 110 of the Magistrates’ Courts Act 32 of 1944.
+----- END OF FILE -----
+# Jurisdiction of the Magistrates’ Courts
+
+## 11.3.1 General Principles
+- Claims exceeding **R400,000** fall under the jurisdiction of the **High Courts**.
+- The **Minister** can set different financial limits for district and regional courts as per **section 29(1A)**.
+- Exclusion from the district magistrates’ court does not imply exclusion from the regional magistrates’ court.
+
+## 11.3.2 The Provisions of Section 29
+- **Section 29(1)**: “Subject to the provisions of this Act”
+  - Refers to other sections regarding jurisdiction, notably **section 45** for consent to claims exceeding limits.
+  
+- **Section 29(1)**: “Causes of action” and “action”
+  - “Action” is broadly interpreted to include all proceedings in magistrates’ courts, including applications under **section 30** (attachments and interdicts).
+
+- **Section 29(1)(a)**: “Delivery or transfer of any property”
+  - “Value” refers to the market value of the property.
+  - The defendant must allege if the jurisdictional limit is exceeded.
+  - Claims for specific performance are exceptions under **section 46(2)(c)(ii)**.
+
+- **Section 29(1)(b)**: “Actions of ejectment”
+  - Jurisdiction exists for ejectment actions where the right of occupation does not exceed the financial limit.
+  - Determining the value of the right of occupation can be complex:
+    1. Rental value may not reflect true value to the occupier.
+    2. Capital value is not always indicative unless ownership is claimed.
+    3. For residential premises, value may equal rental of similar properties.
+    4. For business premises, value may equal rental costs or expected profits.
+
+- **Section 29(1)(c)**: “Actions for the determination of a right of way”
+  - Excludes provisions of **section 46**; no value limit on rights of way.
+
+- **Section 29(1)(d)**: “Liquid document or mortgage bond”
+  - A liquid document admits liability for a fixed sum (e.g., cheques, promissory notes).
+  - Jurisdiction is based on the claim amount, not the document's total value (e.g., R70,000 claim on a R500,000 bond).
+
+- **Section 29(1)(e)**: “Credit agreement” (National Credit Act 34 of 2005)
+  - A credit agreement allows for recovery of property or payment of outstanding amounts.
+  - Value at the time of claim must not exceed financial limits.
+
+- **Section 29(1)(f)**: “Actions in terms of section 16(1) of the Matrimonial Property Act 88 of 1984”
+  - Allows a spouse to seek court authorization for transactions requiring mutual consent.
+
+- **Section 29(1)(fA)**: “Actions for liquidation under the Close Corporations Act 69 of 1984”
+  - Only insolvency applications for close corporations can be heard in magistrates’ courts.
+
+- **Section 29(1)(g)**: “Actions other than those already mentioned”
+  - Relevant for alternative claims; neither the property value nor damages can exceed the court's financial limits.
+
+- **Section 29(2)**: “Action” includes a claim in reconvention
+  - Counterclaims are also subject to the same financial limitations.
+
+## 11.4 SECTION 28: Limitations Regarding Geographical Considerations
+### 11.4.1 General
+- **Section 28** determines the appropriate magistrates’ court for actions based on the defendant's location.
+- Jurisdiction is based on the defendant's status, not the plaintiff's.
+
+### 11.4.2 The Provisions of Section 28
+- **Section 28(1)(a)**: “Any person who resides, carries on business or is employed”
+  - “Resides” and “carries on business” are fact-based; regularity is required.
+  - Employment must be permanent; temporary assignments do not confer jurisdiction.
+
+- **Section 28(1)(b)**: “Any partnership”
+  - Partnerships can be sued where they have business premises or where any partner resides.
+
+- **Section 28(1)(c)**: “Incidental proceedings”
+  - Includes interlocutory and preliminary applications; counterclaims may also be incidental.
+
+- **Section 28(1)(d)**: “Cause of action arose wholly”
+  - The entire cause of action must arise within the district or regional division.
+
+- **Section 28(1)(e)**: “Any party to interpleader proceedings”
+  - Interpleader allows a person in possession of disputed property to call claimants to court.
+
+- **Section 28(1)(f)**: “Any defendant who appears and makes no objection”
+  - Submission to jurisdiction occurs if a defendant does not object; does not apply to matters outside the court's power.
+
+- **Section 28(1)(g)**: “Any person who owns immovable property”
+  - Jurisdiction extends to property owners within the court's area, but the action must relate to that property.
+
+- **Section 28(2)**: “The State” as defendant
+  - Jurisdiction over the state is determined similarly to artificial persons based on residence or place of business.
+
+### Relevant Case Law
+- **Van Heerden v Muir 1955 (2) SA 376 (A)**: Clarified legislative intent regarding jurisdictional limits.
+- **Minister of Law and Order v Patterson 1984 (2) 739 (A)**: Addressed the jurisdiction of magistrates’ courts over actions against the state.
+----- END OF FILE -----
+# Jurisdiction of the Magistrates’ Courts
+
+## 11.5 Other Provisions that Determine Whether a Particular Magistrates’ Court May Exercise Jurisdiction
+
+- Numerous sections influence the authority of a magistrates’ court to hear specific actions and grant necessary orders:
+  - **Section 30**: Magistrates’ courts may grant interdicts.
+  - **Sections 31 and 32**: Deal with forms of interdict peculiar to the magistrates’ court.
+  - **Section 37**: Allows a court to decide on matters outside its jurisdiction to determine what it may hear.
+  - **Section 50**: Provides a mechanism for defendants to transfer matters to the High Court if dissatisfied with the magistrates’ court.
+
+### 11.5.1 Interdicts
+- **Definition**: A court order requiring a person to perform or refrain from performing a specific act.
+  - **Prohibitory Interdict**: Orders someone not to perform an act.
+  - **Mandatory Interdict**: Orders someone to perform an act.
+  - **Types**: Final (permanent) or temporary (for a specific period or interim).
+- **Case Reference**: In **Badenhorst v Theophanous 1988 (1) SA 793 (C)**, it was held that magistrates’ courts may grant mandatory interdicts, provided they do not amount to “orders ad factum praestandum” in terms of a contractual obligation.
+- **Jurisdictional Limits**: The monetary value of the interdict must comply with **Section 29**.
+
+### 11.5.2 Mandamenten van Spolie
+- **Definition**: A restitutionary interdict forcing the return of unlawfully taken property.
+- **Key Points**:
+  - The applicant need not be the owner or in lawful possession.
+  - Aimed at preventing self-help; the court does not consider merits until possession is restored.
+- **Case Reference**: **Zinman v Miller 1965 (3) SA 8 (T)** held that mandament van spolie does not contravene **Section 46**.
+- **Jurisdictional Limits**: The value of the property determines jurisdiction under **Section 29**.
+
+### 11.5.3 Attachments
+- **Definition**: Involves attaching property to secure a claim for payment or relief.
+- **Requirements**: The applicant must show likelihood of the respondent disposing of property to frustrate creditors.
+- **Jurisdiction**: Attachment under **Section 30** is not universally available.
+
+### 11.5.4 Sections 31 and 32: Rent Interdicts
+- **Tacit Hypothec**: Upon rental arrears, landlords acquire a tacit hypothec over household effects on leased property.
+- **Automatic Rent Interdict**:
+  - **Section 31**: Allows inclusion of a notice in the summons prohibiting removal of household effects until court order.
+  - **Effectiveness**: Notice serves as an automatic interdict; no formal application required.
+- **Attachment of Property**:
+  - **Section 32**: Authorizes the sheriff to attach property to secure rent owed.
+  - **Requirements**: Landlord must provide written demand for rent and security for costs.
+
+### 11.5.5 Section 37: Incidental Jurisdiction
+- **Overview**: Allows magistrates’ courts to make findings on matters outside their jurisdiction while granting relief within their limits.
+- **Section 37(1)**: Addresses claims exceeding jurisdictional limits but where the plaintiff's claim falls within limits.
+- **Section 37(2)**: Allows inquiries into ownership or validity of agreements for maintenance, even if outside jurisdiction.
+
+### 11.5.6 Section 50: Removal to High Court
+- **Plaintiff's Choice**: A plaintiff can institute action in the High Court regardless of jurisdictional limits.
+- **Defendant's Option**: Section 50 allows defendants to apply for removal to the High Court if dissatisfied with the magistrates’ court.
+- **Cost Implications**: High Court may award costs on a higher scale if the plaintiff is successful.
+
+## 11.6 Provisions Affecting Claims that Fall Outside the Jurisdictional Limits
+- Sections addressing jurisdictional limits under **Section 29**:
+  - **Sections 38 and 39**: Outline how to reduce a claim to fit within jurisdictional limits.
+  - **Section 45**: Allows parties to consent to jurisdiction despite exceeding limits.
+  - **Section 40**: Prohibits splitting claims to fit within limits.
+  - **Section 43**: Addresses multiple claims where each is under the limit but total exceeds it.
+  - **Section 47**: Deals with counterclaims exceeding jurisdiction.
+
+### 11.6.1 Section 38: Abandonment of Part of Claim
+- **Procedure**: Abandonment must be explicitly stated in the summons.
+- **Court's Authority**: Can only order payment of the maximum amount permitted by **Section 29**.
+
+### 11.6.2 Section 39: Deduction of an Admitted Debt
+- **Claim Adjustment**: Allows a plaintiff to admit a debt to reduce the claim amount.
+- **Outcome**: The awarded amount will be the proved amount less the admitted debt.
+
+### 11.6.3 Section 45: Consent
+- **Consent to Jurisdiction**: Parties can consent to jurisdiction despite limits, but cannot consent to matters excluded by **Section 46**.
+- **Types of Consent**:
+  - **Jurisdiction under Section 28 but not Section 29**: Written consent can be given at any time.
+  - **No jurisdiction under either Section 28 or 29**: Consent must reference specific proceedings.
+  - **No jurisdiction under Section 28, but jurisdiction under Section 29**: Consent must also reference specific proceedings.
+
+### Case References
+- **Truck & Car Co (Pty) Ltd v Ewart 1949 (4) SA 295 (T)**
+- **Neale v Edenvale Plastic Products (Pty) Ltd 1971 (3) SA 860 (T)**
+- **Van Heerden v Muir 1955 (2) SA 376 (A)**
+
+---
+
+This structured outline preserves the original headings and subheadings while summarizing key legal principles, legislation, and case law relevant to the jurisdiction of magistrates' courts.
+----- END OF FILE -----
+# Jurisdiction of the Magistrates’ Courts
+
+## 11.6.4 Section 43: Cumulative Jurisdiction
+- Claims must exist between the same parties.
+- **Exception**: Section 43(2) applies only to interdicts or arrests, not all types of claims.
+
+## 11.6.5 Section 40: Splitting of Claims
+- **Counterpart of Section 43**.
+- **Case Reference**: *Mohamed & Son v Mohamed* 1959 (2) SA 688 (T)
+  - **Facts**: Plaintiff sold goods to defendant on credit; multiple actions initiated for separate sales due to non-payment.
+  - **Defendant's Plea**: Claimed splitting of claims to circumvent financial jurisdiction limits of district magistrates’ court.
+  - **Court Ruling**: 
+    - Original court ruled in favor of the defendant.
+    - On appeal, the court ruled in favor of the plaintiff, stating separate causes of action existed for each sale.
+    - Each sale occurred on different occasions with distinct points at issue.
+    - Defendant failed to prove improper splitting of claims.
+
+## 11.6.6 Section 47: Counterclaims Exceeding Jurisdiction
+- A defendant may have a counterclaim exceeding the financial jurisdiction of district or regional magistrates’ courts.
+- **Options for Defendant**:
+  - **Option 1**: Abandon part of the claim under Section 38 to fit within magistrates’ court jurisdiction.
+  - **Option 2**: Apply for counterclaim to be heard by a High Court under Section 47.
+    - **Procedure**:
+      - Defendant requests the magistrates’ court to determine if the counterclaim exceeds its jurisdiction.
+      - Must demonstrate a reasonable prospect of obtaining a judgment exceeding the magistrates’ court's jurisdiction.
+      - If successful, the magistrates’ court stays the plaintiff's claim for a reasonable period, allowing the defendant to institute action in a competent court (High Court).
+      - If the defendant fails to act within the stipulated time, the magistrates’ court may either extend the stay or dismiss the counterclaim.
+
+---
+
+# Part 2: Jurisdiction
+
+## 11.6.7 Practical Applications
+- **Claim for Payment**: Thomas can institute action against Thandi for payment, as it does not constitute specific performance (Section 46(2)(c)).
+- **Specific Performance Claim**: Thandi cannot institute action against Thomas for specific performance without an alternative claim for damages.
+- **Action Against Rashid**: Thandi can institute action against Rashid for property transfer, classified under exceptions in Section 46(2)(c)(ii).
+- **Damages Claim**: Thandi may sue Rashid for damages in the Johannesburg district magistrates’ court (Section 28(1)(a)), as the amount is under the jurisdiction limit.
+- **Action Against Thomas**: Thandi can sue Thomas in Polokwane district magistrates’ court (Section 28(1)(a)), as the claim is under R200,000.
+- **Prohibitory Interdict**: Buildrite can seek a prohibitory interdict to prevent Thomas from removing goods.
+- **Mandamenten van Spolie**: Thandi can apply for this remedy to recover unlawfully removed goods.
+- **Options for Claim Exceeding Jurisdiction**: Thandi may abandon part of her claim (Section 38) or deduct the admitted debt (Section 39) to fit within jurisdiction limits.
+- **Combined Claims Against Rashid**: Thandi may institute action for both claims against Rashid in one summons, as they are separate causes of action under Section 43, despite the combined amount exceeding jurisdiction limits.
+
+---
+
+# Part 3: Court Procedure
+
+- **Comparison of Sections 38 and 39**: 
+  - Section 38 allows abandonment of part of a claim to fit within jurisdiction.
+  - Section 39 permits deduction of an admitted debt but carries the risk of a larger counterclaim.
+  - Consider the implications of each section for plaintiffs with claims exceeding jurisdiction limits.
+----- END OF FILE -----
+# PART A
+## Pre-litigation stage
+
+### PART 3: Court procedure
+#### 12 STUDY UNIT 12
+##### Pre-litigation issues
+- **Case Overview**: Abel sells his farm to Jafta for R500,000. Jafta occupies the farm but fails to pay, claiming the farmhouse is derelict and the borehole is inadequate, rendering the farm useless. Abel seeks to cancel the sale and reclaim possession.
+
+---
+
+### 12.1 INTRODUCTION
+- **Key Considerations Before Commencing Proceedings**:
+  - Jurisdiction
+  - Capacity to litigate
+  - Identification of parties
+  - Appropriate form of legal proceedings
+  - Notification of proceedings
+
+---
+
+### 12.2 LEGAL STANDING (LOCUS STANDI IN IUDICIO)
+- **Definition**: A party must have a direct and substantial interest in the matter and the necessary capacity to litigate.
+- **Reference**: Study Pete et al 35–36 and 39; also note persons lacking capacity to litigate (pp. 39–54).
+
+---
+
+### 12.3 REPRESENTATION BY POWER OF ATTORNEY
+- **General Principle**: Every party in civil proceedings can represent themselves, but typically instructs an attorney.
+- **Power of Attorney**: A written document granting authority to an agent to act on behalf of the principal.
+  - **Source**: Herbstein and Van Winsen, *The Civil Practice of the High Courts of South Africa* (2009) (Vol 1 267).
+  
+#### 12.3.1 When is a power of attorney required in litigation?
+- **Rule 7(1)**: Not required for issuing a summons or entering an appearance.
+- **High Court**: Required for conducting or defending a civil appeal (Rules 7(2) and 7(3)).
+- **Supreme Court of Appeal**: Power of attorney not needed unless authority is disputed (Rule 5(1)).
+- **Magistrates’ Court**: Not required unless authority is challenged (Rule 52(2)).
+
+#### 12.3.2 Why is a power of attorney then drawn up?
+- **Protection**: Safeguards both attorney and client; clarifies the extent of the attorney's authority.
+- **Contents**: Details of the action and relief sought.
+- **Consequences**: Without authority, an attorney cannot recover costs from the client.
+
+---
+
+### 12.4 THE DEMAND
+- **Purpose**: To inform the prospective defendant/respondent of the claim and encourage compliance to avoid litigation.
+- **Key Elements of Demand**:
+  - Identification of the attorney
+  - Nature and content of the claim
+  - Required payment or performance
+  - Time period for compliance
+  - Consequences of non-compliance
+
+#### 12.4.1 When necessary
+- **Condition Precedent**: A demand may be essential to complete a cause of action (e.g., notice required in contracts).
+- **Case Reference**: *Joss v Barclays Western Bank Ltd* 1990 1 SA 575 (TPD).
+
+#### 12.4.2 When statutorily required
+- **Legislation Examples**:
+  - *Institution of Legal Proceedings against Certain Organs of State Act 40 of 2002*
+  - *Small Claims Courts Act 61 of 1984, section 29*
+- **Compliance**: Strict adherence to statutory demands is essential.
+
+---
+
+### 12.5 THE MAXIM OF AUDI ALTERAM PARTEM
+- **Translation**: "Hear the other side."
+- **Application**: Ensures every party is entitled to be heard before any order or judgment is granted against them.
+- **Importance**: Courts enforce timely notification of steps taken against an opponent, allowing them to respond and prepare their defense.
+
+---
+
+### 12.6 FORMS OF PROCEEDINGS
+#### 12.6.1 Background
+- **Importance of Correct Procedure**:
+  - Incorrect form may lead to refusal to hear the case or cost penalties.
+  - Different forms offer advantages in speed and cost.
+  
+- **Types of Proceedings**:
+  - **Application (Motion) Proceedings**: Directed to the court via notice of motion.
+  - **Summons (Action) Proceedings**: Approached via summons.
+
+#### 12.6.2 The identification of the applicable form of proceedings
+- **Determining Factors**:
+  - Legislation or court rules prescribing application proceedings (e.g., liquidation, sequestration).
+  - Compulsory summons proceedings (e.g., divorce, unliquidated claims).
+  - If neither applies, consider:
+    - No real dispute over fundamental questions of fact.
+    - Disputes can be resolved without oral evidence.
+
+- **Case Reference**: *Abaany Property Investments Ltd v Fatima Ayob & Sons Ltd* 1994 2 SA 342 (T).
+
+---
+
+### COMPULSORY READING MATERIAL
+- **Text**: Pete et al, *Civil Procedure* 3ed (2017) pp. 35–36; 39; 55–58; 122–127; 132–149.
+- **Rules**: Uniform Rule 7; Magistrates’ Courts Rule 52(2).
+----- END OF FILE -----
+# Pre-litigation issues
+## 12.6.3 When is there a “dispute of fact”?
+- A dispute of fact does not arise from a mere denial of the applicant's statements without evidential support.
+- Courts require a firm and practical approach to ensure effective functioning and justice in motion proceedings.
+- A real dispute of fact must exist; mere disagreement on facts does not constitute a material dispute.
+
+## 12.6.4 Procedure where a dispute of fact arises
+- In the event of a genuine dispute of fact that necessitates viva voce evidence, the court may:
+  1. Dismiss the application (rarely occurs) (see **Uniform Rule 6(5)(g)**).
+  2. Order oral evidence on specified issues (see **Uniform Rule 6(5)(g)**).
+  3. Direct parties to trial with appropriate pleadings and issue definitions (see **Uniform Rule 6(5)(g)**).
+- **Magistrates’ courts rule 55(1)(k)** allows similar directions for “any dispute of fact.”
+
+---
+
+# PART 3: Court procedure
+## 13 The parties to litigation
+- **Case Example**: Pegasus Airlines plane crash leading to multiple claims from dependants due to negligence.
+- **Practical Solution**: Consider collective action to save costs and time.
+
+### 13.1 A DESCRIPTION OF THE PARTIES
+- Parties must be clearly defined in summons (see **Uniform Rule 17(4)** and **magistrates’ courts rule 5(4)**).
+- Marital status of female defendants is not required (Nedcorbank Ltd v Hennop 2003 3 SA 622 (T)).
+- **Uniform Rule 14** allows partnerships, firms, and associations to sue and be sued in their own name, providing procedural benefits without legal personality.
+
+### 13.2 JOINDER
+- **Common Law**: Different plaintiffs with different causes of action cannot join against the same defendant; similarly, different defendants cannot be sued together.
+- **Uniform Rules of Court**: Allow for joinder under **Rule 19(1)** and **Rule 10(3)**.
+- **Voluntary Joinder**:
+  - Plaintiffs must have claims against the same defendant(s) involving "substantially the same question of law or fact."
+  - Defendants may be sued jointly or in the alternative when liability is uncertain.
+- **Compulsory Joinder**:
+  - The court may require a third party to be joined if they have a direct interest in the order or if the order may prejudice them.
+  - In the magistrates’ court, a party may apply for another person to be added as a party if it serves the interests of justice (rule 28(2)).
+
+### 13.3 THIRD PARTY PROCEDURE
+- **Purpose**: Avoid multiple actions and determine third-party liability simultaneously.
+- Applicable when:
+  1. A party seeks contribution or indemnity from a third party.
+  2. A matter in dispute is substantially the same as that between the party and the third party.
+- After service of a third-party notice, the third party becomes part of the action (see **Uniform Rule 13(5)**; **rule 28A(5)**).
+
+### 13.4 IN FORMA PAUPERIS PROCEEDINGS
+- **Uniform Rule 40**: Procedure for indigent persons to obtain free legal aid.
+- Key points:
+  1. Eligibility criteria for legal aid (Rule 40(2)(a)).
+  2. Required documentation for action initiation (Rule 40(2)).
+  3. Steps against a litigant in forma pauperis (Rule 40(6)).
+  4. Cost implications (Rule 40(7)).
+
+---
+
+## 14 Service
+- **Case Example**: D attempts to serve a summons on E, who is difficult to locate.
+
+### 14.1 INTRODUCTION
+- Fundamental principle: Legal documents must be brought to the attention of the opposite party, derived from the **audi alteram partem** rule.
+
+### 14.2 MANNER OF SERVICE
+#### 14.2.1 Normal (usual) service
+- Standard procedure for serving documents.
+
+#### 14.2.2 Substituted service
+- Alternative methods when normal service is impractical.
+
+#### 14.2.3 Edictal citation
+- Public notice for serving documents when parties cannot be located.
+
+### 14.3 SERVICE WITHIN THE REPUBLIC, OUTSIDE THE COURT’S JURISDICTION AREA
+- Guidelines for serving documents beyond the court's jurisdiction, ensuring compliance with legal requirements. 
+
+---
+
+**Compulsory Reading Material**: 
+- Pete et al Civil Procedure 3ed (2017) 58–59; 440–442; 449–452
+- **Uniform Rules**: 10; 13; 14; 17(4); 40
+- **Magistrates’ Courts Act**: 32 of 1944, sections 42 and 43.
+----- END OF FILE -----
+# Service
+**Page 95**
+
+- **Notice of Legal Proceedings**
+  - Accomplished by service of documentation either personally by a party or their legal representative, or by the sheriff.
+  - Summons must be served on the opposite party to bring proceedings to their attention.
+  - Proceedings initiated without proper notice are null and void.
+
+- **Definition of Service**
+  - A copy of the document is handed to the person upon whom service is effected, with an explanation of the document’s nature and contents.
+  - The original document is filed in the court file.
+
+- **Issuing a Summons**
+  - Summons must be taken to the Registrar of the relevant High Court division for signing, case number assignment, and official stamping.
+  - Once issued, a summons cannot be altered without consent or court leave.
+  - Similar process in magistrates’ court, with the possibility of amending a summons prior to service.
+
+- **Uniform Rule 4(1)**
+  - Service of processes directed to the sheriff (e.g., summonses and writs) must be effected by the sheriff.
+  - Other documents (e.g., notices) are served by the party or their legal representative.
+
+- **Return of Service**
+  - After service, the sheriff or officer must prepare a "return of service" documenting the manner of service, date, time, and place.
+  - The return serves as proof of service and must be filed in the court file.
+  - **Section 43(2) of the Superior Courts Act, 2013**: Return is prima facie proof of the matters set out therein.
+
+## 14.2 Manner of Service
+**Page 96**
+
+- **Different Methods of Service**
+  - Normal (usual) service
+  - Substituted service
+  - Edictal citation
+
+### 14.2.1 Normal (Usual) Service
+- Service in accordance with the rules of court in the ordinary course of events.
+- Personal service is often insisted upon in matrimonial matters (Rule 9(3) of magistrates’ courts rules).
+
+### 14.2.2 Substituted Service
+- Applicable when a person is believed to be within the Republic but cannot be served due to unknown whereabouts.
+- Requires court application for leave to sue by substituted service.
+- Directions may include service by registered post, on a relative, or publication in the Government Gazette.
+- **Case Reference**: *CMC Woodworking Machinery (Pty) Ltd v Pieter Odendaal Kitchens* 2012 5 SA 604 (KZD) - allowed service via Facebook message.
+- **Rule 4A**: Substituted service is not restricted to summonses.
+
+### 14.2.3 Edictal Citation
+- Prescribed for service on defendants outside the Republic, even if whereabouts are known.
+- Court approached via Notice of Motion.
+
+## 14.3 Service Within the Republic, Outside the Court’s Jurisdiction Area
+**Page 97**
+
+- **Section 42(2) of the Superior Courts Act, 2013**
+  - Civil process of a division is valid throughout the Republic and may be served in any division of the High Court.
+
+---
+
+# PART B: Litigation Stage
+**Page 100**
+
+## 15 Study Unit 15: The Conduct of Application Proceedings
+**Page 100**
+
+- **Overview**
+  - Sandra seeks admission as an attorney and must determine the correct type of application.
+  - Paul seeks a court order for the return of his child from Theresa after she refuses to return him post-holiday.
+
+### 15.1 Introduction
+- Understanding the types of applications and their procedures.
+
+### 15.2 Application Forms
+#### 15.2.1 Ex Parte Applications
+- Applications made without notifying the other party.
+
+#### 15.2.2 “Ordinary” Applications
+- Applications made with notice to the other party.
+
+#### 15.2.3 Related Forms in Which Applications Can Appear
+- Various formats and requirements for applications.
+
+### 15.3 Formal Aspects of Application Proceedings
+#### 15.3.1 The Form and Content of the Application Proceedings
+- Specific requirements for drafting applications.
+
+#### 15.3.2 The Different Types of Affidavits
+- Types of affidavits used in application proceedings.
+
+#### 15.3.3 Remedy in the Case of Defects: Motion to Strike Out
+- Procedures for addressing defects in application documents.
+
+---
+
+**Compulsory Reading Material**
+- Pete et al Civil Procedure 3ed (2017) 153–175
+- Uniform Rule 6; Magistrates’ courts rule 55
+----- END OF FILE -----
+# The Conduct of Application Proceedings
+
+## 15.1 INTRODUCTION
+- **Nature of Application Proceedings**: 
+  - No distinction between pleading and trial stages.
+  - Documents referred to as "processes" instead of pleadings.
+  - Processes include factual disputes and evidence in the form of affidavits.
+  - Both applicant's and supporting witnesses' affidavits are included.
+  - Court receives claims, defenses, and evidence prior to hearing.
+  - Hearing consists of legal representatives' arguments; viva voce evidence may be heard in exceptional cases.
+
+- **Unopposed Applications**: 
+  - Facts in documents are accepted.
+  - Court assesses if a case can be made for the requested order (e.g., liquidation of a company).
+
+## 15.2 APPLICATION FORMS
+- **Types of Applications**:
+  - **Ex Parte Applications**:
+    - Exception to the audi alteram partem principle; no notice given to affected parties.
+    - Court issues a **rule nisi** if other parties' rights may be affected, allowing them to show cause on a specified return day.
+    - May include interim orders pending confirmation of the rule nisi.
+    - Rule nisi may be served on interested parties (e.g., Master of the High Court, Companies and Intellectual Property Commission).
+
+  - **“Ordinary” Applications**:
+    - Notice given to affected parties; served after issuance.
+    - Often referred to as “on notice” applications in magistrates’ court.
+
+  - **Related Forms**:
+    - **Interlocutory Applications**:
+      - Used for relief related to ongoing proceedings (e.g., Uniform Rule 35(7)).
+      - Governed by Rule 6(11); not bound by strict notice of motion requirements.
+
+    - **Urgent Applications**:
+      - Governed by Uniform Rule 6(12) (magistrates’ courts rule 55(5)).
+      - Normal rules must be followed unless justified by urgency.
+      - Court may strike off applications that do not justify urgency.
+      - Must include a certificate of urgency signed by the applicant’s advocate.
+
+## 15.3 FORMAL ASPECTS OF APPLICATION PROCEEDINGS
+- **15.3.1 The Form and Content of the Application Proceedings**:
+  - Governed by **Rule 6**.
+
+- **15.3.2 The Different Types of Affidavits**:
+  - **Ex Parte Applications**: Only supporting affidavits required.
+  - **Ordinary Applications**: 
+    - If unopposed, only supporting affidavit.
+    - If opposed, three sets of affidavits:
+      1. Supporting affidavit by the applicant.
+      2. Answering affidavit by the respondent (Rule 6(5)(d)(ii)).
+      3. Replying affidavit by the applicant (Rule 6(5)(e)).
+  - Court may permit further affidavits in exceptional circumstances.
+
+- **15.3.3 Remedy in the Case of Defects: Motion to Strike Out**:
+  - Affidavits must not contain hearsay or inadmissible evidence.
+  - Opposing party may apply to strike out offending matter (Uniform Rule 6(15)).
+
+---
+
+## 16 The Conduct of Summons Proceedings
+
+### 16.1 INTRODUCTION
+- **Overview of Summons Proceedings**:
+  - Summons proceedings initiated when application proceedings are inappropriate.
+  - Divided into illiquid and liquid summons proceedings.
+  - Liquid summons instituted via provisional sentence summons; illiquid via combined or simple summons.
+  - Focus on illiquid summons proceedings in subsequent sections.
+----- END OF FILE -----
+# The Conduct of Summons Proceedings
+
+## 16.2 A General Explanation of the Conduct of the Proceedings
+- Understanding the integrated conduct of proceedings is crucial.
+- Refer to the schematic representation for clarity while studying.
+
+### Distinction Between Stages
+- **Pleading Stage**
+  - In illiquid summons proceedings, pleadings are exchanged.
+  - Pleadings consist of concise statements outlining material facts for claims or defenses.
+  - Conclusions of fact are typically pleaded.
+
+- **Trial Stage**
+  - After pleadings, the action is set down for trial.
+  - Evidence is presented through witnesses (viva voce) and documents.
+  - Witnesses undergo examination in chief, cross-examination, and re-examination.
+  - Arguments are made based on pleadings and evidence before judgment is delivered.
+
+### Parties Involved
+- **Plaintiff**: Initiates the claim (claim in convention).
+- **Defendant**: Responds to the claim; may also have a counterclaim (claim in reconvention).
+
+## 16.3 The Simple Summons and the Combined Summons
+- **Initiation of Claim**:
+  - Claims are commenced via a **simple summons** (liquidated claims) or a **combined summons** (unliquidated claims).
+  - **Simple Summons**: States the claim amount and nature without additional documents.
+  - **Combined Summons**: Accompanied by particulars of claim, forming a single document.
+
+### Filing Process
+- If the defendant intends to defend, they must file a notice of intention to defend within the stipulated time.
+- The plaintiff then files a declaration (similar to particulars of claim) if a simple summons was used.
+- The defendant raises defenses by filing a plea or a special plea.
+
+### Counterclaims
+- The defendant may file a counterclaim simultaneously with their plea.
+- The plaintiff responds with a plea in reconvention.
+- Pleadings in reconvention follow the same structure as those in convention.
+
+### Closing of Pleadings
+- Pleadings typically close after the defendant's plea, but a replication or rejoinder may occur.
+- Exceptional circumstances may allow for further exchanges of pleadings.
+
+### Procedural Irregularities
+- Irregularities can be corrected via:
+  - Notice of amendment
+  - Motion to strike out
+  - Exception raising
+
+### Pre-Trial Judgments
+- Default judgment may be sought if the defendant fails to respond timely.
+- Summary judgment can be applied for if the defendant has no bona fide defense.
+- Consent to judgment can be obtained from the defendant.
+
+### Provisional Sentence Summons
+- A third type of summons designed for creditors with sufficient documentary proof.
+- Grants provisional judgment, allowing the defendant to enter the principal case within two months.
+
+## 17 The Simple Summons and Combined Summons
+
+### 17.1 Introduction
+- Summons defined as a written instruction to the sheriff to notify the defendant of the claim.
+- Differences in forms relate to the nature and purpose of each summons.
+
+### 17.2 The Simple Summons and Declaration
+- **When to Use Simple Summons**: For debts or liquidated claims.
+- **Definition of Debt or Liquidated Claim**:
+  - Judicial interpretation defines it as a claim for a fixed or definite thing.
+  - Liquidated debts are those where the monetary value can be quickly ascertained.
+  - A demand must be described to allow determination by mathematical calculation.
+
+### Relevant Legislation and Cases
+- **Uniform Rules of Court**: Rule 1 defines action and summons proceedings.
+- **Judicial Interpretations**: Various cases provide clarity on what constitutes a liquidated claim.
+
+### Conclusion
+- Understanding the distinctions and procedures related to simple and combined summonses is essential for effective legal practice.
+----- END OF FILE -----
+# Study Notes on Summons Types and Provisional Sentence
+
+## Chapter 17: The Simple Summons and the Combined Summons
+
+### 17.1 The Simple Summons
+- **Definition**: A simple summons is used for claims that are either a debt or a liquidated demand.
+- **Key Points**:
+  - The nature of the claim determines the type of summons used (e.g., divorce or damages do not qualify as debts).
+  - Must correspond closely to **Form 9** of the First Schedule of the **Uniform Rules of Court**.
+  - The cause of action must be set out concisely and clearly to inform the defendant.
+  - In magistrates’ courts, refer to **Form 2, Annexure 1**.
+  - A declaration (equivalent to particulars of claim) is only required if the defendant delivers a notice of intention to defend, unless summary judgment is sought.
+
+### 17.2 The Combined Summons
+- **Usage**:
+  - Employed for unliquidated claims (not for debts or liquidated demands).
+  - Often involves serious factual disputes requiring oral evidence.
+- **Definition of Unliquidated Claim**: Claims where the quantum must be determined (e.g., damages or divorce actions).
+- **Requirements**:
+  - Must annex particulars of the material facts relied upon (Uniform Rule 17(2); magistrates’ courts rule 5(2)).
+  - Particulars of claim must comply with **Uniform Rule 18**.
+- **Characteristics**:
+  - Combines summons and particulars of claim into one document.
+  - Declaration cannot be used with a combined summons.
+
+## Chapter 17: Court Procedure
+
+### 17.3 The Effect of the Constitution, 1996 and the National Credit Act of 2005
+- **Case Reference**: **Standard Bank of South Africa Ltd v Saunderson** 2006 2 SA 264 (SCA)
+  - **Directive**: Summons must inform the defendant of their rights under **section 26(1)** of the Constitution regarding access to adequate housing.
+  - If the property is the defendant's primary residence, the summons must notify them of potential eviction.
+- **Additional Case Reference**: **First Rand Bank Ltd v Folscher and another** 2011 4 SA 314 (GNP)
+  - **Directive**: Notice under **section 129 of the NCA** must inform the debtor of the consequences of action instituted.
+
+---
+
+## Chapter 18: The Provisional Sentence Summons
+
+### 18.1 Introduction
+- **Definition**: Provisional sentence is a summary procedure allowing for judgment before trial based on prima facie proof.
+- **Nature**:
+  - Accelerates judgment process, allowing immediate execution subject to security de restituendo.
+  - Useful for creditors with sufficient documentary proof (liquid documents) to recover debts without lengthy proceedings.
+
+### 18.2 The Provisional Sentence Summons
+- **Usage**: Can only be used if the cause of action is based on a liquid document.
+- **Requirements**:
+  - Plaintiff's claim must be based on a liquid document.
+  - Defendant must not provide counter-proof that suggests the plaintiff's claim is unlikely to succeed.
+
+### 18.3 The Nature and Effect of Provisional Sentence
+- **Rights of the Plaintiff**:
+  - Entitled to payment or to execute against the defendant’s property under security de restituendo.
+- **Judgment Characteristics**:
+  - Provisional; defendant may still defend the main action within two months if they pay the judgment debt and costs.
+  - If the defendant wishes to enter the principal case, they must notify within two months, and the summons will be treated as a combined summons.
+  - Failure to respond results in the provisional sentence becoming a final judgment.
+
+---
+
+### Key Legislation and Cases
+- **Uniform Rules of Court**: Governs the procedures for summons types.
+- **National Credit Act of 2005**: Impacts summons related to debts secured by immovable property.
+- **Constitution of the Republic of South Africa**: Section 26(1) regarding housing rights.
+
+### Important Forms
+- **Form 9**: Simple summons (Uniform Rules).
+- **Form 2**: Magistrates’ courts equivalent.
+- **Form 3**: Provisional sentence summons (Uniform Rules).
+- **Form 2A**: Magistrates’ courts equivalent for provisional sentence.
+
+### Diagram References
+- Refer to diagrams illustrating the flow of summons types and the procedural steps involved in provisional sentence actions.
+----- END OF FILE -----
+# The Principles of Pleading
+**Page 119**
+
+## 19 STUDY UNIT
+### 19 The Principles of Pleading
+
+- **Fundamental Principle**: The necessity to plead material facts is essential for the judicial process, allowing the court to apply legal rules to established facts and render judgment.
+  - **Case Reference**: *Buchner v Johannesburg Consolidated Investment Co Ltd* 1995 1 SA 215 (T) 216
+
+### OVERVIEW
+#### 19.1 INTRODUCTION
+- Importance of understanding pleadings before discussing the litigation process.
+- Familiarity with concepts and drafting rules is crucial.
+
+#### 19.2 THE BASIC CONCEPTS
+- **Pleading Stage**: The period from the issuance of summons to the close of pleadings in illiquid summons proceedings.
+- **Pleading**: A written document containing averments by parties, outlining material facts for claims or defenses.
+  - Distinction: "Pleading" is a generic term; "plea" refers specifically to the defendant's defense statement.
+- **Process**: Differentiated from pleadings; refers to court-issued documents like subpoenas and notices.
+  - **Case Reference**: *Dorfman v Deputy Sheriff, Witwatersrand* 1908 TS at 703.
+
+#### 19.3 THE FUNCTION OF PLEADINGS
+- **Purpose**: 
+  - Define and limit disputed issues of fact and law.
+  - Prepare parties for trial and prevent surprises.
+  - Serve as a formal record of issues to avoid future disputes.
+  - Determine the onus of proof and duty to begin.
+
+#### 19.4 THE RULES FOR THE DRAFTING OF PLEADINGS
+- **Key Rules**: Governed primarily by **Uniform Rule 18** and supplemented by magistrates’ courts rules.
+  - **Pleadings must**:
+    - Contain clear, concise statements of material facts.
+    - Avoid vagueness and inform the opponent adequately.
+    - Be presented logically and comprehensibly.
+    - Plead facts, not law, and avoid pleading evidence.
+    - Avoid unnecessary repetition; reference should be used instead.
+  - **Specific Requirements**: 
+    - Claims based on contract (Uniform Rule 18(6)).
+    - Divorce (Uniform Rule 18(8)(9)).
+    - Damages (Uniform Rule 18(10)(11)).
+  - **Consequences of Non-compliance**: Non-compliance with Uniform Rule 18 results in irregular pleadings, allowing the opposite party to act under Uniform Rule 30.
+
+---
+
+# Litigation Proceedings During the Pleading Stage: Exchange of Processes and Pleadings
+**Page 120**
+
+## 20 STUDY UNIT
+### 20 Litigation Proceedings During the Pleading Stage: Exchange of Processes and Pleadings
+
+- **Case Scenario**: D (cyclist) collides with F (marathon athlete), leading to a damages claim of R600,000 by F against D.
+
+### OVERVIEW
+#### 20.1 INTRODUCTION
+- Focus on the sequence of litigation proceedings from service acceptance to the close of pleadings.
+
+#### 20.2 NOTICE OF INTENTION TO DEFEND
+- **Definition**: A notice indicating the defendant's intention to defend; not a means of raising a defense.
+- **Consequences of Non-filing**: Risk of default judgment if not filed timely.
+- **Defects in Notice**: If defective, the registrar will not enter judgment unless the plaintiff provides written notice to rectify within five days (Uniform Rule 12(2)(a)).
+
+#### 20.3 THE PLEA ON THE MERITS AND THE COUNTERCLAIM
+- **Plea on the Merits**: The sole method for a defendant to raise a defense, addressing each allegation in the plaintiff's particulars of claim.
+  - **Admissions and Denials**: Allegations can be admitted, denied, or placed in issue; failure to deny results in automatic admission (Uniform Rule 22(3)).
+- **Counterclaim**: A claim against the plaintiff, filed with the plea or later with permission.
+  - **Terminology**: "Claim in reconvention" vs. "claim in convention".
+  - **Pleadings Exchange**: Similar to convention pleadings but in reverse order.
+
+#### 20.4 THE REPLICATION, REJOINDER AND CLOSE OF PLEADINGS
+- **Replication**: Plaintiff's response to the defendant's plea; necessary only if new facts are raised.
+- **Consequences of Non-replication**: Failure to replicate within the prescribed time bars the plaintiff from doing so (Rule 26).
+- **Joinder of Issues**: Occurs when pleadings are closed, indicating readiness for adjudication.
+- **Further Pleadings**: Provision for additional pleadings and their timelines (Rule 25(5)).
+
+---
+
+### Compulsory Reading Material
+- **Legislation**: Uniform Rules 18, 19, 22, 24, 25, 29; Magistrates’ Courts Rules 13, 17, 20, 21, 21A.
+- **Textbook**: Pete et al, *Civil Procedure* 3rd ed (2017) 198–224.
+----- END OF FILE -----
+# PART 3: Court Procedure
+
+## 21 Further Possible Pleadings and Processes During the Pleading Stage: Remedial Steps
+
+### 21.1 Introduction
+- Rules regarding pleading are flexible; not every technical mistake leads to objections.
+- Opposing parties can take steps to rectify breaches in pleadings.
+- Parties can also rectify bona fide errors in their own pleadings.
+- Court rules allow for enforcement of compliance or condonation of noncompliance.
+
+### 21.2 Inspection
+- **Key Legislation**: Uniform Rule 35(14); Magistrates’ Courts Rule 23(15).
+- Inspection can be requested at specific stages of proceedings.
+- Documents must be clearly specified; cannot be used for "fishing expeditions."
+- The test for inspection is whether the document is essential for pleading, not merely useful.
+
+### 21.3 Application to Strike Out
+- **Key Legislation**: Uniform Rule 23(2); Magistrates’ Courts Rule 19(2).
+- Opposing party can apply to strike out scandalous, vexatious, or irrelevant averments within the allowed period for subsequent pleadings.
+- Offending passages in affidavits may also be struck out.
+- The application is interlocutory and made via notice.
+- Example of a striking-out scenario: averments about habitual recklessness in a pleading.
+
+### 21.4 Amendment of Pleadings
+- **Key Legislation**: Uniform Rule 28.
+- Parties may amend their pleadings or documents (excluding affidavits) filed in proceedings.
+- Notice of intention to amend must be given to all parties, detailing the amendments.
+- Common purposes for amendments include correcting errors, amplifying causes of action, or altering relief claimed.
+- General rule: amendments are granted unless made mala fide or if they cause unrectifiable prejudice (see **Embling v Two Oceans Aquarium CC** [2000] 2 All SA 346 (A)).
+
+### 21.5 The Exception
+- Purpose: To address vague and embarrassing pleadings or pleadings that disclose no cause of action.
+- An exception is adjudicated separately before trial.
+- Must appear ex facie the pleading; no new facts may be introduced.
+- Example: A summons lacking an allegation of negligence may be excepted for failing to disclose a cause of action.
+
+### 21.6 The Special Plea
+- A special plea raises objections based on facts not in the plaintiff’s declaration, potentially destroying or postponing the action.
+- A defendant must still deliver a plea on the merits alongside a special plea to avoid default judgment (see **David Beckett Construction (Pty) Ltd v Briston** 1987 3 SA 275 (W)).
+  
+#### 21.6.1 The Difference Between the Special Plea and the Exception
+- An exception attacks the pleading as a whole, assuming all allegations are true.
+- A special plea alleges special facts unrelated to the merits, affecting the action's viability.
+- Special pleas can only be pleaded to declarations or particulars of claim.
+
+#### 21.6.2 The Two Categories of Special Pleas
+- **Dilatory Pleas**: Seek to postpone the action.
+  - Examples:
+    - Disputing authority to sue due to lack of formal requirements.
+    - Lis pendens: another action pending on the same matter.
+    - Arbitration agreements.
+- **Pleas in Abatement**: Seek to destroy the action.
+  - Examples:
+    - Special plea of prescription.
+    - Special plea of non-joinder or mis-joinder.
+    - Special plea of res judicata.
+    - Special plea regarding court jurisdiction in status matters.
+
+### 21.7 Application to Set Aside Irregular Proceedings
+- Irregular proceedings involve formal irregularities or noncompliance with procedural requirements.
+- Examples of irregularities include failure to sign particulars of claim, premature set-down, or improper service.
+- The application period starts when a party becomes aware of the irregularity, not when it occurs (see **Minister of Law and Order v Taylor** 1990 (1) SA 165 (EC)).
+- An application can only be made if the objector has not taken further steps in litigation after noticing the irregularity (Uniform Rule 30(2)(a)).
+----- END OF FILE -----
+# PART 3: Court Procedure
+
+## 21.8 ENFORCING COMPLIANCE
+- **Kopari v Moeti 1993 4 SA 184 (BGD) 188H**: Defined a "step" as "some act which advances the proceedings one stage nearer completion."
+- **Jowell v Bramwell-Jones 1988 1 SA 836 (W) 904**: Emphasized that the step must show intention to continue despite irregularity.
+- **Further Steps**: Include sequential exchanges of pleadings (e.g., delivery of replication or motion to strike out).
+- **Notice of Intention to Defend**: Filing this does not constitute a further step; it merely allows the defendant to present a defense.
+- **Rule 30(2) & Magistrates’ Courts Rule 60A(2)**: Applications must be accompanied by notice to all parties and are interlocutory in nature.
+
+## 22 OFFER TO SETTLE, TENDER, INTERIM PAYMENTS AND SECURITY FOR COSTS
+
+### 22.1 INTRODUCTION
+- A defendant can attempt to settle a claim for money or performance of an act.
+- Settlement can occur through agreement or Uniform Rule 34 if negotiations fail.
+- Benefits of settlement: extinguishes action and avoids further costs.
+- **Magistrates’ Courts Rule 18**: Mirrors Uniform Rule 34.
+- Offers to settle outside Uniform Rule 34 do not protect against costs unless pleaded (common-law tender).
+
+### 22.2 OFFER TO SETTLE
+- **Definitions**:
+  - **Unconditional**: Liability accepted.
+  - **Without Prejudice**: Liability denied.
+- Disclosure of offers is prohibited before judgment (Uniform Rule 34(10); Rule 18(10)).
+- Non-compliance may result in adverse costs orders (Uniform Rule 34(13); Rule 18(13)).
+- Offers are relevant for cost apportionment; a plaintiff rejecting an offer may face costs penalties if awarded less than the offer.
+
+### 22.3 COMMON LAW TENDER
+- A party is not required to offer settlement per the Rules; a tender can be made pre-litigation.
+- **Tender**: Equivalent to payment by way of an offer of settlement, must be in money.
+- Must notify the plaintiff of the payment method.
+- To protect against costs, a tender must be pleaded and proven.
+- An unconditional tender extinguishes the cause of action; if accepted, the plaintiff cannot sue for the balance.
+
+### 22.4 INTERIM PAYMENTS
+- **Applicable Actions**: Only for damages due to personal injuries or death.
+- **Application Timing**: Can be made after the dies induciae lapses regarding intention to defend.
+- **Relevant Damages**:
+  1. Plaintiff’s medical costs.
+  2. Loss of income due to physical incapacity.
+  3. Loss of income due to death of another.
+- Disclosure of interim payment orders is prohibited until quantum is determined (Uniform Rule 34A(8); Rule 18A(8)).
+
+### 22.5 SECURITY FOR COSTS
+- A party may request security for costs if the other party may not pay costs if ordered against them.
+- **Regulations**: Governed by Uniform Rule 47 (High Court) and Rule 62 (Magistrates’ Courts).
+- Notice must be delivered outlining grounds and amount demanded.
+- If contested, the registrar may determine the amount; if liability is contested, the court must be approached.
+- Failure to furnish security may lead to dismissal of proceedings or striking out pleadings.
+- **Discretionary Nature**: Courts consider circumstances and reasonableness of requests.
+- Security may be requested from:
+  - Foreign peregrinus.
+  - Unrehabilitated insolvent.
+  - Companies or vexatious litigants.
+  - Exceptional cases (e.g., "man of straw" scenarios).
+
+### 22.6 REQUIREMENTS FOR AN OFFER (Uniform Rule 34(5))
+- **Requirements**: Summarize the four requirements for an offer to settle as per Uniform Rule 34(5).
+
+### 22.7 APPLICATIONS FOR INTERIM PAYMENTS
+- **X's Procedure**: Must follow an application for interim payment under Uniform Rule 34A.
+- **Passengers' Claims**: Cannot utilize Uniform Rule 34A as it is limited to personal injury or death claims; property damage claims are excluded.
+----- END OF FILE -----
+# Pretrial Judgments
+**Page 137**  
+**Study Unit 23**
+
+## 23 Pretrial Judgments
+
+- **Case Example**: Homework CC vs. Computer Mecca CC
+  - Homework CC claims damages for defective hardware and installation.
+  - Computer Mecca CC enters appearance but fails to deliver pleadings.
+  - Homework CC seeks action due to delays.
+
+- **Case Example**: John, a handyman
+  - John purchases items on credit and fails to pay.
+  - The shop owner suspects John's inability to pay due to economic conditions.
+  - John enters an appearance to defend against the lawsuit.
+
+### 23.1 Introduction
+- Courts can issue judgments before a trial to expedite resolution.
+- Situations for pretrial judgments include:
+  1. Opposing party fails to file pleadings timely (party "in default").
+  2. Defendant enters appearance as a delaying tactic without a bona fide defense (summary judgment applicable).
+  3. Defendant consents to judgment.
+
+### 23.2 Consent to Judgment
+- Refer to **Uniform Rule 31(1)** and **Magistrates’ Courts Rule 11**.
+- Consent to judgment is generally straightforward but is excluded in specific cases (e.g., under the **Divorce Act 70 of 1979**, consent is not permissible for relief actions).
+
+### 23.3 Default Judgment and Bar
+- A party "in default" can lead to default judgment requests.
+- **23.3.1 Bar**
+  - Applies only to pleadings.
+  - Distinction between automatic bar and notice of bar:
+    - **Rule 26 (Rule 21B)**: Automatic bar for failure to deliver a replication.
+    - Other pleadings require a notice of bar before being barred.
+  - **Magistrates’ Court Rules**: Bar procedures outlined in rules 12(1)(b), 15(5), and 21B.
+
+- **23.3.2 Default Judgment**
+  - Relevant in cases of:
+    1. Failure to give notice of intention to defend.
+    2. Failure to deliver a plea.
+    3. Failure to deliver a declaration.
+    4. Failure to appear at trial.
+  - **Key Points**:
+    - For unliquidated claims, evidence must be led before default judgment.
+    - A notice of bar must be served before requesting default judgment for failure to file a plea or declaration.
+    - Courts can set aside default judgments at their discretion, requiring sound reasons from the defendant (refer to **Grant v Plumbers (Pty) Ltd 1949 2 SA 470 (O)** and **Coetzee v Nedbank Ltd 2011 2 SA 372 (KZD)**).
+
+### 23.4 Summary Judgment
+- Designed to protect plaintiffs with valid claims against defendants without valid defenses.
+- Courts exercise caution in granting summary judgments due to the **audi alteram partem** rule.
+- **National Credit Act 2005**: Section 129 outlines requirements before legal proceedings to enforce credit agreements.
+- **Rule 32(1)** and **Rule 14(1)**: Specify types of claims for summary judgment applications.
+- Summary judgment applications should follow a simple summons; combined summons applications are discouraged.
+
+### 23.5 Summary Dismissal
+- Counterpart to summary judgment, allowing defendants to dismiss frivolous or vexatious claims.
+- High Court has inherent jurisdiction to prevent abuse of process.
+
+---
+
+# Preparation for Trial
+**Page 142**  
+**Study Unit 24**
+
+## 24 Preparation for Trial
+
+- **Case Example**: S vs. T
+  - S suffers serious injuries from a car accident and sues T for damages.
+  - Both parties prepare for trial after pleadings are closed.
+
+### 24.1 Introduction
+- Importance of preparation steps to avoid being unprepared at trial and to shorten trial duration.
+
+### 24.2 Set-Down of Cases for Trial and the Removal of Cases
+- Procedures for setting down cases for trial and removing cases from the roll.
+
+### 24.3 Steps That May Be Taken Both Before and After Close of Pleadings
+- **24.3.1 Medical Examinations**
+- **24.3.2 Examination of Inanimate Objects**
+- **24.3.3 Medical Reports, Hospital Records, X-ray Photographs**
+- **24.3.4 Expert Evidence**
+- **24.3.5 Tender of Plans, Diagrams, Models, and Photographs**
+- **24.3.6 Other Productions**
+
+### 24.4 Steps That May Be Taken Only After Close of Pleadings
+- **24.4.1 Request for Further Particulars for Trial**
+- **24.4.2 The Pre-Trial Conference**
+- **24.4.3 Discovery of Documents and Tape Recordings**
+- **24.4.4 Inspection of Documents and Tape Recordings**
+- **24.4.5 Specifying Documents and Tape Recordings to be Used at Trial**
+- **24.4.6 Production of Documents and Tape Recordings**
+
+### 24.5 Securing the Necessary Evidence
+- **24.5.1 Advice on Evidence**
+- **24.5.2 Ways in Which Evidence May Be Placed Before the Trial Court** 
+
+---
+
+**Note**: The above notes summarize key legal principles and procedural rules relevant to pretrial judgments and trial preparation, referencing applicable legislation and case law.
+----- END OF FILE -----
+# Preparation for Trial
+
+## Compulsory Reading Material
+- **Pete et al Civil Procedure 3ed (2017)**: 262–280; 284–294
+- **Uniform Rules**: 21; 35; 36; 37; 38(2)
+- **Magistrates’ Courts Rules**: 22; 23; 24(1); 25; 27(5)
+- **Magistrates’ Courts Act 32 of 1944**: Section 54(1)
+
+## 24.1 Introduction
+- **Purpose of Pleadings**: 
+  - Delimit issues between parties.
+  - Facilitate orderly and speedy trials.
+  - Prevent surprises at trial.
+- **Pre-Trial Procedures**: 
+  - Obtain information from another party.
+  - Allow parties to adduce evidence.
+- **Chronological Order**: 
+  - Topics discussed are interrelated but not strictly chronological.
+  - Divided into steps before and after close of pleadings.
+
+## 24.2 Set-Down of Cases for Trial and Removal of Cases
+- **Plaintiff's Role**: 
+  - Dominus litis; has the right to apply for set-down after pleadings close.
+  - Must notify the Registrar or clerk of the court to set down the case.
+- **Defendant's Role**: 
+  - May set down the case if the plaintiff neglects to do so within a specified period.
+- **Court Procedures**: 
+  - High Court set-down governed by division-specific rules, not Uniform Rules.
+  - Magistrates’ courts follow different procedures.
+
+## 24.3 Steps That May Be Taken Both Before and After Close of Pleadings
+### 24.3.1 Medical Examinations
+- **Applicable Rules**: 
+  - Uniform Rule 36; Magistrates’ Courts Rule 24.
+- **Conditions**: 
+  - Relevant for claims of compensation or damages for physical injury.
+- **Requirements**: 
+  - Complete written report from the examiner (Rule 36(8)(a)).
+  - Report must be shared with other parties (Rule 36(8)(b)).
+  - Party causing examination bears costs (Rule 36(8)(c)).
+
+### 24.3.2 Examination of Inanimate Objects
+- **Relevance**: 
+  - Condition of objects may influence dispute resolution.
+
+### 24.3.3 Medical Reports and Similar Documents
+- **Access**: 
+  - Parties may request relevant medical documents for damage assessment.
+
+### 24.3.4 Expert Evidence
+- **Usage Restrictions**: 
+  - Requires court leave or consent of all parties.
+  - Compliance with Uniform Rule 36(9) is mandatory.
+- **Purpose**: 
+  - Prevent surprises and allow for rebuttal preparation.
+
+### 24.3.5 Tender of Plans, Diagrams, Models, and Photographs
+- **Requirements**: 
+  - Compliance with notice, inspection, and admission rules (Uniform Rule 36(10)).
+
+### 24.3.6 Other Productions
+- **Uniform Rule 35(12)**: 
+  - Allows document and tape recording production requests.
+- **Uniform Rule 35(14)**: 
+  - Requires specified documents to be available for inspection post-appearance.
+
+## 24.4 Steps That May Be Taken Only After the Close of Pleadings
+### 24.4.1 Request for Further Particulars for Trial
+- **Nature of Request**: 
+  - Not part of exchanged pleadings; only necessary particulars may be requested.
+- **Purpose**: 
+  - Inform parties about evidence to be presented, preventing surprises (Thompson v Barclays Bank DCO 1965 1 SA 365 (W)).
+- **Consequences of Non-Compliance**: 
+  - Court may order delivery or dismiss action/strike out defense.
+
+### 24.4.2 The Pre-Trial Conference
+- **Importance**: 
+  - Compulsory in High Court (Uniform Rule 37); may be ordered/requested in magistrates’ court.
+- **Provisions**: 
+  - Rule 37(9)(a) addresses potential cost orders for non-attendance or failure to promote effective litigation.
+
+### 24.4.3 Discovery of Documents and Tape Recordings
+- **Timing**: 
+  - Discovery occurs post-pleadings.
+- **Purpose**: 
+  - Identify relevant documents for trial preparation.
+- **Process**: 
+  - Written notice for discovery under oath within 20 days.
+- **Objections**: 
+  - Valid objections based on privilege (e.g., legal professional privilege).
+
+### 24.4.4 Inspection of Documents and Tape Recordings
+- **Requirements**: 
+  - Documents disclosed must be available for inspection and copying (Uniform Rule 35(6)).
+
+### 24.4.5 Specifying Documents and Tape Recordings to be Used at Trial
+- **Reference**: 
+  - See Pete et al 271–272.
+
+### 24.4.6 Production of Documents and Tape Recordings
+- **Objective**: 
+  - Ensure necessary documents are produced for trial (Pete et al 272–273).
+
+## 24.5 Securing the Necessary Evidence
+### 24.5.1 Advice on Evidence
+- **Initial Steps**: 
+  - Seek advice from the advocate regarding evidence adequacy and witness necessity.
+
+### 24.5.2 Ways in Which Evidence May Be Placed Before the Trial Court
+- **General Rule**: 
+  - Witnesses must give evidence viva voce (Uniform Rule 38(2)).
+- **Subpoena**: 
+  - Issued to compel attendance or production of documents (Uniform Rule 38(1)).
+- **Consequences of Non-Attendance**: 
+  - Arrest authorized for non-compliance (s 35 of the Superior Courts Act, 2013; s 51(2)(a) of the Magistrates’ Courts Act 32 of 1944).
+
+#### Alternative Evidence Methods
+1. **Commission de Bene Esse**: 
+   - For convenience and justice; requires court application.
+2. **Interrogatories**: 
+   - Specific questions for witnesses outside jurisdiction (s 40 of the Superior Courts Act, 2013; s 52 of the Magistrates’ Courts Act 32 of 1944).
+3. **Affidavit**: 
+   - Evidence taken by affidavit at court's discretion (Uniform Rule 38(2)).
+
+---
+
+*Note: This structured summary preserves the original headings and subheadings while providing a concise overview of the legal principles and procedures related to trial preparation.*
+----- END OF FILE -----
+# CIV3701/1 Study Notes
+
+## PART 3: Court Procedure
+
+### 25 The Trial and Costs
+- **Overview**: 
+  - X and Y are involved in litigation. X's attorney discovers documents supporting Y's case but fails to disclose them. X and his attorney obstruct Y's attorney from consulting witnesses, which could have shortened the trial. Appropriate actions against X and his attorney are to be considered.
+
+#### 25.1 Conduct of the Trial
+- **Court Records**: 
+  - High Court and magistrates’ courts maintain a record of all evidence, arguments, and judgments.
+  - Records are typically mechanically recorded and transcribed only upon court direction or party request.
+
+#### 25.2 Re-opening a Case Already Closed
+- Refer to **Pete et al 304** for detailed procedures.
+
+#### 25.3 Judgment
+- Refer to **Pete et al 307–309** for comprehensive understanding.
+
+#### 25.4 Costs
+- **General Principles**:
+  - Courts have wide discretion in awarding costs; losing parties are not automatically liable for the winner's costs.
+  - Factors influencing cost orders include party conduct and relevant circumstances.
+  - The purpose of costs is to indemnify the successful party for litigation expenses (Swanepoel v Van Heerden 1928 AD 15).
+  
+##### 25.4.1 Attorney-and-Client Costs
+- **Definition**: Costs awarded to a party for all expenses incurred, including attorney fees.
+- **Conditions for Award**: 
+  - Typically granted in cases of dishonesty, fraud, vexatious motives, or serious misconduct.
+
+##### 25.4.2 Party-and-Party Costs
+- **Definition**: Costs incurred by a party that the court orders the opposing party to pay.
+- **Characteristics**: 
+  - Only includes costs directly related to litigation, excluding pre-litigation expenses (e.g., obtaining counsel's opinion).
+
+##### 25.4.3 Costs de Bonis Propriis
+- **Definition**: Costs applicable when a person acts in a representative capacity.
+- **Nature**: Exceptionally granted and requires strong justification.
+
+---
+
+## PART 4: Variation of Judgments, Review and Appeal
+
+### 26 The Variation or Rescission of Judgments
+- **Case Example**: Thomas purchases goods worth R90,000 from Sibeko but refuses payment, claiming defects. After failing to respond to summons, default judgment is granted against him. Thomas seeks rescission due to absence and valid defense.
+
+#### 26.1 Introduction
+- **Finality of Judgments**: 
+  - Judgments are final once pronounced; the judicial officer becomes functus officio, meaning the court's authority over the matter ends.
+
+#### 26.2 The Rescission or Variation of Judgments in the Magistrates’ Court
+- Refer to **Pete et al 310–320** for specific procedures and grounds.
+
+#### 26.3 The Rescission or Variation of Judgments in the High Court
+- Refer to **Pete et al 310–320** for specific procedures and grounds.
+
+#### 26.4 The Procedure for the Rescission or Variation of Judgments
+- **Legislation**: 
+  - Governed by **Uniform Rule 42**, **Magistrates’ Courts Rule 49**, and **Magistrates’ Courts Act 32 of 1944, Section 36**.
+
+---
+
+### Compulsory Reading Material
+- **Pete et al Civil Procedure 3ed (2017)**: Pages 298–304; 307–309; 310–320; 326–335.
+- **Uniform Rules**: Rule 39, Rule 42.
+- **Magistrates’ Courts Rules**: Rule 29, Rule 49.
+----- END OF FILE -----
+# The Variation or Rescission of Judgments
+
+## 26.2 THE RESCISSION OR VARIATION OF JUDGMENTS IN THE MAGISTRATES’ COURT
+- Judgments in the magistrates’ court can be rescinded under **Section 36**.
+  - **Decrees, orders, and rules** are also considered judgments.
+- **Instances for judgment in absence of defendant** (Subsection 36(1)(a)):
+  - Failure to file appearance to defend (Rule 12).
+  - Filing of consent to judgment (Rule 11).
+  - Failure to plead (Rule 12(1)(b)).
+  - Non-compliance with court order (Rule 60).
+- **Case Reference**: **De Allende v Baraldi t/a Embassy Drive Medical Centre 2000 1 SA 390 (T)**:
+  - Legal representation means the party is not considered "absent" even if not physically present.
+- **Subsections (b) and (c)**: Require no further comment.
+- **Subsection (d)**: Judgments that do not have the effect of a final judgment may be rescinded or varied.
+
+## 26.3 THE RESCISSION OR VARIATION OF JUDGMENTS IN THE HIGH COURT
+- Judgments can be set aside under common law or varied under **Rule 42**.
+- **Common Law Grounds for Rescission**:
+  - **Fraud**: Judgment obtained through fraud cannot stand.
+  - **New Documents**: Discovery of new documents that would have changed the outcome.
+  - **Error**: Fraudulent misrepresentation leading to error.
+  - **Irregularities in Procedure**: E.g., judgment given in absence of a party due to lack of service.
+- **Statutory Provisions**: Governed by **Uniform Rule 42**.
+
+## 26.4 THE PROCEDURE FOR THE RESCISSION OR VARIATION OF JUDGMENTS
+- **Magistrates’ Courts**:
+  - Application for rescission or variation must be made under **Rule 49**.
+  - Special provisions for setting aside judgments are included in Rule 49.
+- **High Court**:
+  - **Common Law Rescission**: Follow action procedure.
+  - **Variation under Rule 42**: Must follow application procedure as per **Uniform Rule 6**.
+
+---
+
+# 27 REVIEW
+
+## 27.1 THE MEANING OF THE TERM “REVIEW”
+- Defined by **Innes CJ** in **Johannesburg Consolidated Investment Company Ltd v Johannesburg Town Council 1903 TS 111**:
+  - Process to bring proceedings of inferior courts before a higher court due to irregularities or illegalities.
+  - Review of public bodies disregarding statutory duties or committing gross irregularities.
+- **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**: Establishes grounds for review of administrative actions, not covered in this module.
+
+## 27.2 THE DISTINCTION BETWEEN APPEAL AND REVIEW
+1. **Focus**:
+   - Appeal: Aimed at the result of the trial.
+   - Review: Focuses on the method of obtaining the result.
+2. **Record Limitation**:
+   - Appeal: Restricted to the record of proceedings.
+   - Review: Parties may go beyond the record.
+3. **Time Limits**:
+   - Appeal: Must be noted within a stipulated period.
+   - Review: Must be brought within a "reasonable time".
+4. **Procedure**:
+   - Appeal: Governed by statutory provisions and court rules.
+   - Review: Brought on notice of motion.
+
+## 27.3 GROUNDS FOR REVIEW
+### 27.3.1 Grounds for Reviewing the Proceedings of Lower Courts
+- **Section 21(1)(b) of the Superior Courts Act, 2013**: Authorizes High Court divisions to review lower court proceedings.
+- **Section 22 Grounds for Review**:
+  - (a) Absence of jurisdiction.
+  - (b) Bias, malice, or corruption of the presiding officer.
+  - (c) Gross irregularity in proceedings.
+  - (d) Admission of inadmissible evidence or rejection of admissible evidence.
+- **Meaning of “Gross Irregularity”**: Refers to any irregularity prejudicing parties, e.g., denying a party the opportunity to present their case.
+
+### 27.3.2 Grounds for Reviewing the Proceedings of Quasi-Judicial Bodies
+- Superior courts have inherent jurisdiction over causes arising within their jurisdiction.
+- Review of statutory bodies (e.g., liquor licensing boards) not conducted fairly.
+
+---
+
+**Note**: For further details, refer to **Uniform Rule 53** and **Section 22(1) of the Superior Courts Act, 2013**.
+----- END OF FILE -----
+# PART 4: Variation of Judgments, Review and Appeal
+
+## 27 Review
+### 27.1 Overview
+- Superior courts possess inherent jurisdiction to correct shortcomings in inferior court proceedings.
+- Review under common law differs from statutory reviews of inferior court decisions.
+
+### 27.2 Jurisdiction
+- Superior courts can review decisions from any body or tribunal performing statutory duties and quasi-judicial bodies.
+
+### 27.3 Procedure on Review
+- Governed by **Uniform Rule 53**: 
+  - Motion proceedings must be utilized for reviewing decisions of inferior courts or quasi-judicial bodies.
+
+### 27.4 Powers of the Court on Review
+- If successful, the High Court may:
+  - Set aside the decision or proceedings reviewed.
+  - Remit the matter back to the body for correct procedural adherence.
+- The court will not substitute its discretion unless exceptional circumstances exist (see **Roopsingh v Rural Licensing Board for Lower Tugela and Others 1950 4 SA 248 (N)**).
+- Circumstances where the court will not remit:
+  - Clear end result that would waste time.
+  - Remittance would be futile.
+  - Valid reasons for exercising discretion in favor of the applicant.
+
+## 28 Appeals
+### 28.1 Introduction
+- A dissatisfied litigant may appeal a decision from a court of first instance to a higher court.
+- **Magistrates’ Courts**: One appeal as of right.
+- **High Court**: No automatic right; leave to appeal required.
+
+### 28.2 Appeals from the Magistrates’ Court
+#### 28.2.1 When Can an Appeal Be Noted?
+- Right to appeal exists unless waived by written agreement (s 82).
+- Appeals can be made against:
+  1. Judgments as per **section 48**.
+  2. Rules or orders with final judgment effect (s 83).
+  3. Certain decisions overruling exceptions.
+
+#### 28.2.2 The Effect of Noting an Appeal
+- Noting an appeal suspends execution of the judgment pending appeal outcome (s 78 of the **Magistrates’ Courts Act**).
+- Successful parties must apply for execution despite the appeal.
+
+#### 28.2.3 The Court Hearing the Appeal
+- Appeals heard by the relevant **provincial or local division** of the High Court.
+- **Superior Courts Act, 2013**: Distinction between “local seat” and “main seat” of a Division.
+
+#### 28.2.4 The Procedure on Appeal
+- Governed by:
+  - **Rule 51** for magistrates’ court procedures.
+  - **Uniform Rule 50** for High Court procedures.
+- Steps include:
+  - Requesting reasons for judgment.
+  - Noting the appeal with specified grounds.
+  - Delivery of reasons for judgment.
+  - Prosecution of the appeal.
+
+### 28.3 Appeals in Superior Courts
+#### 28.3.1 General
+- No right of appeal from High Court decisions; leave to appeal required.
+- Leave granted if:
+  - Appeal has reasonable prospects of success.
+  - Issues are not of such nature that the decision has no practical effect.
+  - Appeal leads to just resolution of real issues (s 17(1)).
+
+#### 28.3.2 Appeals from High Courts
+- **Section 16 of the Superior Courts Act, 2013**: Appeals against “any decision”.
+- **Leading case**: **Holland v Deysel 1970 1 SA 90 (A)** clarifies the terminology.
+
+#### 28.3.2.1 The Effect of Noting an Appeal
+- **Section 18(1)**: Operation and execution of a decision suspended pending leave to appeal or the appeal.
+- Exceptional circumstances must be proven for execution to proceed (s 18(3)).
+
+#### 28.3.2.2 Courts Hearing the Appeal
+- Appeals from a single judge to a full court (three judges).
+- No judge whose judgment is appealed may participate in the appeal hearing (s 14(8)).
+- Leave to appeal instances:
+  - From a single judge to a full court or Supreme Court of Appeal (s 16(1)(a)(i)).
+  - From multiple judges directly to the Supreme Court of Appeal (s 16(1)(a)(ii)).
+- Leave may be granted by the judge(s) or the Supreme Court of Appeal if refused (s 17(2)).
+----- END OF FILE -----
+# Appeals
+
+## 28.3.1 General Principles
+- **Leave to Appeal**: If leave to appeal is granted against a decision of a single judge sitting as a court of first instance, the judge(s) must direct that the appeal be heard by a full court of that Division (s 17(6)).
+  - Exceptions:
+    - (a) Involves a question of law of such importance that it requires a decision by the **Supreme Court of Appeal**.
+    - (b) The administration of justice requires the **Supreme Court of Appeal** to consider it (s 17(6)(i)–(ii)).
+  
+- **Appeal from a Division as Court of Appeal**: 
+  - The appeal lies to the **Supreme Court of Appeal** upon special leave to appeal granted by the **Supreme Court of Appeal** (s 16(1)(b)).
+  
+- **Appeal from a Court of Status Similar to High Court**: 
+  - The appeal lies to the **Supreme Court of Appeal** upon leave to appeal granted by that court or by the **Supreme Court of Appeal** (s 16(1)(c)).
+  
+- **Local Seats of a Division**: 
+  - If a Division has one or more local seats, the main seat has concurrent appeal jurisdiction over the area of any local seat. The Judge President may direct that an appeal against a decision of a single judge or of a magistrates’ court within that area be heard at the main seat (s 6(4)(a)).
+
+## 28.3.2 Procedure on Appeal
+### 28.3.2.3 Procedure on Appeal to Full Court
+- Refer to **Pete et al 362–363** for a broad outline.
+
+### 28.3.2.4 Procedure on Appeal to the Supreme Court of Appeal
+- Refer to **Pete et al 363–365** for a broad outline.
+
+## 28.3.3 Position of the Supreme Court of Appeal
+- **Constitutional Provision**: Section 168 of the **Constitution, 1996** provides that this court may decide appeals in any matter arising from the **High Court of South Africa**, or from a court of a status similar to that of the High Court.
+  - **Exclusions**: Appeals in respect of labour and competition matters are expressly excluded.
+  
+- **Scope of Decisions**: Section 168(3)(b) clarifies that this court may decide:
+  - Appeals
+  - Issues connected with appeals
+  - Matters referred to it in terms of an Act of Parliament.
+  
+- **Constitutional Validity Orders**: If the **Supreme Court of Appeal** makes an order concerning the constitutional validity of an Act of Parliament, a provincial Act, or any conduct of the President, such an order will have no force unless confirmed by the **Constitutional Court** (s 172(2)(a) of the **Constitution, 1996**).
+
+## 28.3.4 Position of the Constitutional Court
+- **Jurisdiction**: As the highest court of the Republic, the **Constitutional Court** may decide constitutional matters and any other matter, provided it grants leave to appeal on the grounds that “the matter raises an arguable point of law of general public importance which ought to be considered” by the Court.
+  - **Clarification Needed**: The precise meaning of this phrase is currently unclear and will likely be clarified by the **Constitutional Court** in due course.
+
+## PART 4: Variation of Judgments, Review and Appeal
+- **Final Decision on Jurisdiction**: This Court makes the final decision on whether a matter is within its jurisdiction (s 167(3) of the **Constitution, 1996**).
+- **Direct Appeals**: When in the interests of justice, and with leave from the **Constitutional Court**, a person may bring a matter directly to the Court or appeal directly to the Court from any other court (s 167(6)).

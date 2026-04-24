@@ -1,0 +1,537 @@
+# PYC3704-Study Notes 2017
+
+## 1. WHAT TO MEMORISE FOR THE EXAM
+- Understand **decision rule** (p. 83).
+- Familiarise with symbols (e.g., p-value, standard deviation, mean) from Table on p. 161.
+- Refer to **Appendix F** Flow Chart (p. 177) for statistic selection.
+
+## 2. TABLE OF SYMBOLS
+- **Parameters and Statistics**:
+  - Mean: Population (µ), Sample (͞ₓ)
+  - Std Deviation: Population (σ), Sample (s)
+  - Variance: Population (σ²), Sample (s²)
+  - Std Error of Mean: (σ/√n, s/√n)
+  - Proportions: Population (P), Sample (p)
+- **Test Statistics**:
+  - Z-score, T-tests (Tc/Td), Chi-squared (Xp²)
+- **Hypotheses**:
+  - Null (H0) & Alternative (H1)
+
+## 3. BASIC OVERVIEW OF THE STEPS IN RESEARCH
+- **Step 1: Hypothesis** - Relation between constructs targeted for testing.
+- **Step 2: Operational Hypothesis**:
+  - Identify measures and population.
+  - Choose research design and reliable, valid measures.
+- **Step 3: Statistical Hypothesis**:
+  - Null: H0: µ = 300
+  - Alternative: Non-directional H1: µ ≠ 300; Directional H1: µ > 300.
+- **Step 4: Test Null Hypothesis** - Use sample data for evaluation.
+- **Step 5: Conclusion** - Decide to accept or reject H0 based on findings.
+
+## 4. TOPIC 1: QUANTITATIVE METHODS: THEORY, HYPOTHESIS AND RESEARCH DESIGNS
+- Overview of quantitative research design principles.
+- Importance of hypothesis formulation.
+
+## 5. TOPIC 2: PROBABILITY
+- Fundamental concepts in probability.
+- Applications in statistical inference.
+
+## 6. TOPIC 3: GENERAL PRINCIPLES OF HYPOTHESIS TESTING
+- Overview of hypothesis testing methodology.
+- Importance of significance levels and p-values.
+
+## 7. TOPIC 4: STATISTICAL HYPOTHESIS TESTING: MEANS FOR A SINGLE SAMPLE
+- Techniques for testing hypotheses on single sample means.
+- Understanding the Z-test and its applications.
+
+## 8. TOPIC 5: STATISTICAL HYPOTHESIS TESTING: COMPARING TWO SAMPLES
+- Methods for comparing means between two groups.
+- Application of T-tests and implications of results.
+
+## 9. TOPIC 6: STATISTICAL HYPOTHESIS TESTING: CORRELATION DESIGNS
+- Exploring correlation as a measure of relationship.
+- Importance of Pearson’s r and its interpretation.
+
+## 10. ADDITIONAL NOTES: Degrees of Freedom and Effect Size
+- Define and clarify the roles of degrees of freedom and effect sizes in hypothesis testing.
+
+## 11. APPENDIX A: LIST OF FORMULAE
+- Include essential formulas needed for calculations in hypothesis testing.
+
+## 12. LIST OF FORMULAE TO MEMORISE FOR EXAM
+- Critical formulas summarize key statistical concepts.
+
+## 13. APPENDIX B: FLOW CHART FROM THE OLD UNISA GUIDE
+- Reference flow chart for clarity on statistical decisions.
+----- END OF CHUNK -----
+# PYC3704-2017: Study Notes
+
+## 4. TOPIC 1: OVERVIEW OF THE MAIN CONCEPTS
+
+**Test THEORIES about HUMAN BEHAVIOUR**
+- **THEORIES**: Network of postulated relations between constructs/variables.
+- **HYPOTHESIS**: Specific part of theory tested; refers to population; provides a rule about relationships.
+
+### Research Goals
+- Inferential statistics for sample data to infer properties of populations.
+
+### RESEARCH DESIGNS
+1. **GROUPS DESIGN**: Compare two or more population groups (e.g., Male vs. Female IQ scores).
+2. **CORRELATIONAL DESIGN**: Examine relationships between variables in a single sample (e.g., stress and diet).
+
+### CONSTRUCTS
+- Building blocks of theories; abstract/hypothetical (e.g., creativity, anxiety).
+- Steps to define: 
+  1. Specify observable behavior.
+  2. Formulate a score from observable behavior.
+
+### VARIABLES
+- **Types**:
+  1. **Nominal**: Categorical (e.g., gender).
+  2. **Ordinal**: Rank ordered (e.g., satisfaction levels).
+  3. **Interval**: Equal intervals (e.g., IQ).
+  4. **Ratio**: Absolute zero point (e.g., weight).
+- **Types of Variables**:
+  1. **Manifest**: Observable (e.g., behavior instances).
+  2. **Latent**: Hidden, hypothetical (e.g., anxiety).
+
+### Levels of Measurement
+- **CATEGORICAL**:
+  - Nominal: Mutually exclusive categories (e.g., Male/Female).
+  - Ordinal: Ranked categories, unequal intervals (e.g., Likert scales).
+- **CONTINUOUS**:
+  - Interval: No absolute zero (e.g., temperature).
+  - Ratio: Absolute zero (e.g., length).
+
+## 4. TOPIC 1: THEORY, HYPOTHESIS AND RESEARCH DESIGNS
+
+- **BASIC GOAL OF RESEARCH**: Test theories about human behavior.
+- **Constructs**: Observations grouped into labels (e.g., stress, anxiety).
+- **Operational Definition**:
+  - Specify observable instances.
+  - Formulate a score (e.g., IQ score).
+- **Variables**:
+  - **Dependent (Y)**: Influenced variable.
+  - **Independent (X)**: Influential variable.
+
+### Populations vs. Samples
+- **Population**: Group from which findings are generalized (e.g., specific age range).
+- **Samples**: Drawn from populations due to budget/resource constraints.
+
+### Hypothesis Definitions
+1. **Hypothesis**: Relation between constructs targeted for testing.
+2. **Dependent Variable (Y)**: Influenced by independent variable (X).
+3. **Independent Variable (X)**: Influences dependent variable.
+4. **Intervening Variable**: Effects on relationships.
+  
+### Operational Forms of Hypothesis
+- Theoretical: Not directly observable.
+- Research: Measurable, operationalized variables.
+
+### Comparison of Research Designs
+**Group Design** vs. **Correlation Design**:
+- Group: Defined populations for independent variable comparison.
+- Correlation: Single sample measuring categories (e.g., male/female).
+
+## 5. TOPIC 2: PROBABILITY
+
+### OVERVIEW OF THE RESEARCH PROCESS
+- **Components**: Theory → Hypothesis → Population → Sample → Probability → Results.
+
+### DEFINITIONS
+- **Probability**: Measure of uncertainty; likelihood of specific event outcomes.
+  
+**Formula**:
+- \(P(E) = \frac{\text{Number of favourable events}}{\text{Total possible outcomes}}\)
+
+- **Relative Frequency**: Approximation of event occurring.
+
+### Characteristics and Rules
+- **Independent Events**: Previous outcome does not affect next outcome.
+- **Mutually Exclusive**: Only one outcome can occur (e.g., coin flip).
+- **Sample Space (S)**: All possible outcomes (e.g., {heads, tails}).
+
+### Law of Large Numbers
+- Repeated experiments yield results closer to theoretical probability over time.
+
+### P-Value and Probability Characteristics
+- Expressed as percentage, fraction, or decimal; represents proportion of outcomes supporting an event.
+----- END OF CHUNK -----
+# PYC3704-2017 Study Notes
+
+## Page 12
+
+### Probability Concepts
+- **Proportion**: Decimal number between 0 and 1.
+- **p-value range**: \(0 \leq p \leq 1\).
+  - \( p = 0 \): Event will NOT happen.
+  - \( p = 1 \): Event WILL happen.
+- **Probability of NOT occurring**: \(1 - P(E)\).
+- **Sample space (S)**: All possible outcomes of a statistical experiment (e.g. \( S = \{heads, tails\} \)). Sum of \( S = 1\).
+
+### Rules for Combining Probability (Independent Events)
+1. **Additive Rule**: 
+   - If mutually exclusive: \( P(A \text{ or } B) = P(A) + P(B) \).
+   - If NOT mutually exclusive: \( P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B) \).
+  
+2. **Multiplicative Rule**: 
+   - \( P(A \text{ and } B) = P(A) \times P(B) \) (Events occurring together).
+  
+3. **Conditional Probability**: 
+   - \( P(A | B) \): Probability of A given B occurs.
+
+---
+
+## Page 13
+
+### Probability Distributions and the Normal Curve
+- Transition from normal distributions to probability.
+  
+#### Example: Kids' Scores out of 15
+- A: Probability of score \(9/15\): \(P(9/15) = f/p = 4/36 = 0.11\).
+- B: Cumulative probability of \(9/15\) or more: 
+  - \(P(9/15) + P(10/15) + P(11/15) + P(12/15) = 10/36 = 0.28\).
+
+#### Cumulative Probability
+- Probability of events equaling or exceeding a certain point.
+- Data represented 'under a curve' for continuous variables.
+
+---
+
+## Page 14
+
+### The Normal Distribution
+- Specifically for continuous variables.
+- Rarely exact but normal model is close; many observations cluster around the mean.
+
+### Properties of Normal Curves
+1. Bell-shaped.
+2. Symmetrical.
+3. Continuous.
+4. Asymptotic: Tails never touch the horizontal axis.
+
+- **Total area under the curve**: = 1.
+
+---
+
+## Page 15
+
+### Standard Normal Distribution
+- Mean \(= 0\), standard deviation \(= 1\).
+  
+#### z-Score Formula
+- \(Z = \frac{X - \mu}{\sigma}\) for population.
+- For sample: \( \overline{Z} = \frac{X - \overline{X}}{s} \).
+
+- **z-Scores**: Indicate standard deviations from the mean.
+- All z-scores' distribution has mean \(= 0\), standard deviation \(= 1\).
+
+---
+
+## Page 16
+
+### Example: Calculating z-Score
+1. Scores: \(X = 56\%\), class average \(= 52\%\), standard deviation \(= 4\).
+   - Formula: \(Z = \frac{X - \mu}{\sigma} \rightarrow Z = \frac{56 - 52}{4} = 1\).
+
+2. Alternative example:
+   - Scores: \(X = 56\%\), class average \(= 65\%\), standard deviation \(= 6\).
+   - Calculation yields \(Z = -1.5\).
+
+### Comparing z-scores
+- Positive z-scores indicate values above the mean; negative indicate values below.
+
+---
+
+## Page 17
+
+### Z-Score Summary
+1. Transform any normal distribution to standard normal distribution using z-scores.
+2. Use z-tables for smaller and larger portion values.
+3. Advantage: Compare different variables.
+
+### Information Box: Distribution
+- **Frequency Distribution**: Table/graph showing distribution.
+- **Cumulative Frequency**: Scores below/above a certain point.
+- **Graphs**: Bar charts (categorical data), histograms (numerical data), frequency polygons.
+
+---
+----- END OF CHUNK -----
+# PYC3704- 2017 Study Notes
+
+## TOPIC 1: Sampling and Sampling Distributions
+
+### Study Unit 2.3.1 Sampling and Sampling Distributions - Overview 
+
+- **Sampling Distributions**  
+  - Estimate population values; represent the best guess for unknown population parameters.  
+  - **Sampling Error:** Difference between sample results and true population values.
+
+- **Mean of All Means:**  
+  - Identical to population mean (µ); best estimate of unknown population mean.
+
+- **Standard Error:**  
+  - Measure of sampling error; variability of scores; standard deviation of sampling distribution of the mean.  
+  - **Formula:**  
+    - Population: \[ σ̄_x = \frac{σ}{\sqrt{n}} \]  
+    - Sample: \[ S̄_x = \frac{s}{\sqrt{n}} \]
+
+- **Sample Means & Possible Errors:**  
+  - Total of sample means (M̄s) equals the population mean (µ).  
+  - Factors affecting sampling error:  
+    - Sample size  
+    - Nature of the variable
+
+- **Z-test Statistic for a Sample Mean:**  
+  \[ Z̄_x = \frac{M̄ - µ̄_x}{σ̄_x} \] 
+  - Symbols:  
+    - \(σ\) = Population Standard Deviation  
+    - \(n\) = Sample Size  
+    - \(M̄\) = Sample Mean  
+    - \(μ̄_x\) = Population Mean under H0  
+
+### Study Unit 2.4 Sampling Distributions and the Central Limit Theorem 
+
+- **Definitions:**  
+  - **Sampling:** Using small cases to infer about larger population.  
+  - **Population:** Larger group under study.  
+  - **Sample:** Group involved in research.
+
+- **Purpose of Sampling:**  
+  - Saves time/money while keeping accuracy close to full population studies; influenced by law of diminishing returns.
+
+- **Random Sampling:** Ensures each individual has equal chances; connected to sampling error.
+
+- **Parameters vs. Statistics:**  
+  - Parameters: Summary values for populations (unknown).  
+  - Statistics: Summary values for samples (known).
+
+- **Sampling Distribution of a Statistic:**  
+  - Set of all possible values of a statistic from fixed size samples drawn from a population.
+
+- **Central Limit Theorem:**  
+  - Distribution of sample means approaches normality as sample size increases (n) regardless of population distribution shape.
+  - **Formula:**  
+    \[ z_x = \frac{X - µ_x}{σ} \]
+
+- **Standard Error of the Mean:**  
+  - Indicates expected deviation of sample means from population mean.
+  
+- **Key Takeaways:**  
+  - Central limit theorem underpins hypothesis testing, determination of mean, variance, and shape for sample means.  
+  - Importance in hypothesis tests with means.
+
+## TOPIC 2: General Principles of Statistical Hypothesis Testing
+
+### Study Unit 3.1: Translating Research Hypothesis into Statistical Hypotheses
+
+- **Process:**  
+  - Develop testable theory; refine into operational hypothesis detailing constructs, population, and research design.  
+  - Translate operational hypothesis into statistical hypotheses (H0 and H1).  
+  - **Null Hypothesis (H0):** Always state first; non-directional (≠) or directional (<, >).
+
+### Study Unit 3.2: Obtaining Sample Data and Results
+
+- **Sample Data Collection:**  
+  - Random sample from target population; perform measurements (e.g. intelligence tests).  
+  - Calculate sample mean for hypothesis evaluation.
+
+- **Hypothesis Testing:**  
+  - Determine significance through p-values; reject H0 if statistical significance doesn’t align with practical significance (psychological importance).
+
+### Study Unit 3.3: Decision-making Regarding Null and Alternative Hypotheses
+
+- **Cut-off P-value:**  
+  - Significance level (α) established before testing (commonly 0.05 or 0.01).  
+  - Decision rule: reject H0 if p-value < α.
+
+- **Errors in Testing:**  
+  - Type I Error: Rejecting true H0.  
+  - Type II Error: Not rejecting false H0.  
+  - Strategies to minimize error probabilities include increasing sample size or reducing measurement errors.
+
+- **Power of a Statistical Test:**  
+  - Probability of rejecting H0 when it is false (1 - β); increased by larger samples or decreased errors.
+
+### Key References
+- **Figures:** Refer to U.S.G. for visual representation (e.g. Figure 3.1 related to sampling distribution).  
+- **Tables:** See Table 3.1 in U.S.G. for examples of directional and non-directional hypotheses.
+
+These notes summarize the provided legal-academic content, focusing on principles, theories, and models relevant to sampling distributions and hypothesis testing within the specified structure and page references.
+----- END OF CHUNK -----
+# PYC3704- 2017 Study Notes
+
+## Topic 3: BEFORE YOU CAN APPLY THE DECISION RULE
+
+### Alternative Hypothesis and P-Values
+- Match hypotheses: both must be one or two-tailed.
+- Change p-value to match the Alternative Hypothesis; **do not change H1**.
+
+### Z-Tables
+- Provide **directional (ONE-TAILED)** p-values.
+- Non-directional hypothesis: e.g. **H1: µ≠110**; multiply p-value by 2 (x 2) for **TWO-TAILED** p-value.
+
+### Computers
+- Provide **non-directional (TWO-TAILED)** p-values.
+- Directional hypothesis: e.g. **H1: µ < 110** or **H1: µ > 110**; divide p-value by 2 (÷ 2) for **ONE-TAILED** p-value.
+
+### Decision Rule Summary (p. 82/83 UNISA Study Guide)
+1. Use "REJECT" or "FAIL TO REJECT" for Ho.
+2. Alpha (α) preset by researcher (0.01 or 0.05).
+3. Test Ho, aiming to **reject Ho** to accept H1.
+4. For TWO-TAILED/non-directional (x2 p-value), apply decision rule.
+5. Calculate test statistic (e.g., Zp, tx) to check observed relationship deviance.
+6. If p-value < α, **reject Ho**; if not, **fail to reject Ho**.
+
+## Topic 3: Type 1 and Type 2 Errors
+### Type 1 Error
+- Rejecting Ho when it is true.
+- Probability of occurrence determined by p-value.
+- To avoid: set α to a small value (e.g. 0.01).
+
+### Type 2 Error
+- Accepting Ho when it is false.
+- Probability indicated by **beta (β)**, which cannot be calculated; relies on α.
+- To avoid: set α to a large value (e.g., 0.20).
+
+## Topic 3: Summary of Research Steps
+**10 Steps When Doing Psychological Research**
+1. **Theory**: Understand human behavior aspect.
+2. **Hypothesis**: Research hypothesis (e.g., gender performance differences).
+3. **Operational Hypothesis**: Ability to measure constructs/variables.
+4. **Statistical Hypothesis**: Define Ho (e.g., µ=110) & H1 (e.g., µ > 110).
+5. **Draw a Sample**: Large sample size to reduce error.
+6. **Get Test Results (Data)**: Assume normal distribution.
+7. **Face Value Step**: Evaluate if sample supports hypothesis.
+8. **Choose a Test Statistic**: Use appropriate test statistic from flowchart.
+9. **Apply the Decision Rule**: Ensure p-value aligns with H1 definition and compare to α.
+10. **Accept or Reject H1**: Conclude regarding Research Hypothesis.
+
+## Topic 3: Example 1 (p. 93 UNISA Study Guide)
+- Psychologist measures impact of sleep deprivation on performance.
+- Sample Size: **n=16**; Population Mean: **µ=1200**, Standard Deviation: **σ=200**.
+- Sample Mean: **X=1050**; α=0.05.
+- Null hypothesis: **Ho: µ = 1200**; Alternative: **H1: µ < 1200**.
+- Standard Error: **Sₓ = σ/√n = 200/√16 = 50**.
+- Z-statistics: **z = (X - µₓ) / σₓ = (1050 - 1200) / 50 = -3.00, p = 0.0013**.
+- **Decision Rule**: Reject Ho; sleep deprivation negatively affects performance.
+
+## Topic 4: tx - Statistical Test for Means: Single Sample Groups Design
+- Note: t-test p-values are computer-generated, thus **NON-DIRECTIONAL/TWO-TAILED**.
+- Directional hypothesis requires division of p-value by 2.
+- Group Design: Compare to two or more populations.
+- Y-variable (dependent) measured on **interval/ratio scale**.
+- Single sample analysis; population standard deviation (σ) is unknown. 
+- Use **tx**:
+  - Formula: **tx = X - µₓ / Sₓ**.
+  - Standard error calculation: **Sₓ = s / √n** (use sample standard deviation, s).
+----- END OF CHUNK -----
+# PYC3704- 2017 Study Notes
+
+## TOPIC 5: tc AND td TEST STATISTICS: TWO SAMPLE GROUPS DESIGN
+
+### 1. GROUPS DESIGN
+- **Concept:** Comparing two or more population groups.
+- **Y-VARIABLE (DEPENDENT):** Measured on a RATIO or INTERVAL SCALE (e.g., IQ, height).
+  
+### ASSUMPTIONS:
+1. Normal distributions for both groups.
+2. Equal variance (σ²) for both groups.
+3. Set α in advance.
+4. Statistical hypotheses focus on population means (µ).
+   - E.g.: **Ho:** µ = 104 / **H1:** µ > 104.
+5. Select TWO SAMPLES based on:
+   - **Independent Groups** (no systematic relationship).
+   - **Dependent Groups** (matched on characteristics).
+
+### 7. TEST USAGE:
+- **Independent Groups:** Use tc.
+- **Dependent Groups:** Use td.
+
+## TOPIC 6: T-TEST FOR THE DIFFERENCE BETWEEN TWO MEANS OF TWO DEPENDENT GROUPS (td̃)
+
+### DEPENDENT SAMPLES:
+- One sample matched based on a characteristic to another.
+- Example: Same students tested at two different times.
+
+### STATISTICAL HYPOTHESES:
+- **Ho:** D = 0
+- **H1:** D ≠ 0 (or greater/less than 0).
+
+### DIFFERENCE SCORE:
+- **Formula:** d̄ = X2 - X1 (difference between sample means).
+- **S̄d:** Sample standard deviation of "difference" scores calculated by subtracting standard deviations of results.
+
+## TOPIC 7: CORRELATIONAL DESIGNS
+
+### 1. CORRELATIONAL DESIGN:
+- **Variables:** Both Y (dependent) and X (independent) are continuous (Interval/Ratio).
+
+### USE:
+- **Pearson’s correlation coefficient (r):**
+  - Range: -1 to 1.
+  - Relationships:
+    - r = 1 (Perfect positive).
+    - r = 0 (No relationship).
+    - r = -1 (Perfect negative).
+
+### SCATTER PLOT:
+- Data plotted on x and y axes; straight line indicates linear relationship.
+
+### STATISTICAL HYPOTHESES:
+- **Ho:** ρ = 0 (No relationship).
+- **H1:** ρ ≠ 0 (Relationship exists).
+  - Variants: ρ > 0 (positive), ρ < 0 (negative).
+
+### CATEGORICAL VARIABLES:
+- **Use:** Pearson’s chi-squared test (X²).
+  - Conditions: Expected frequency should be ≥ 5.
+  - **Formula:** X² = Σ((O - E)² / E).
+
+## ADDITIONAL NOTES: DEGREES OF FREEDOM
+- **Definition:** Number of values that can vary; important for calculations.
+- **T-Test Degrees of Freedom:**
+  - One sample: df = n - 1.
+  - Two samples: df = n1 + n2 - 2.
+
+### CORRELATION DESIGN:
+- **Pearson’s r:** df = N - 2.
+
+### CHI SQUARE:
+- **Degrees of freedom:** (r-1)(k-1).
+  - r = number of rows; k = number of columns.
+
+## EFFECT SIZE
+- **Definition:** Quantifies difference between groups; emphasizes difference size.
+- **T-Test Effect Size (d):** 
+  - **Formula:** d = mean difference / standard deviation.
+  - Interpretation: 
+    - d = 0.2 (small), d = 0.5 (medium), d = 0.8 (large).
+  
+- **Pearson’s r Effect Size (r²):** 
+  - Interpretation: 
+    - r² = 0.01 (small), r² = 0.09 (medium), r² = 0.25 (large).
+    - Example: r = 0.65, r² = 0.42 (42% variance shared).
+
+## APPENDIX A: LIST OF FORMULAE
+- **Note:** Detailed probability calculations, mean, standard error, and z-score formulas not provided. Familiarization required for specific research scenarios.
+----- END OF CHUNK -----
+# PYC3704- 2017
+
+## 12. LIST OF FORMULA YOU WILL USE IN THE EXAM
+
+- **Probability**:  
+  - \( P(event) = \frac{f}{p} \)  
+  - **Rules**: Multiplicative, Additive.
+
+- **Z-score**:  
+  - \( z = \frac{x - \mu}{\sigma} \)  
+  - (Raw score minus the mean score divided by the standard deviation).
+
+- **Standard Error**:
+  - **Population**: \( \sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}} \)  
+  - **Sample**: \( s_{\bar{x}} = \frac{s}{\sqrt{n}} \)
+
+## 13. FLOW CHART FROM THE 2011 UNISA STUDY GUIDE
+
+- Diagram reference provided, details to be included in studies.

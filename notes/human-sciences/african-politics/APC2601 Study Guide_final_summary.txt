@@ -1,0 +1,982 @@
+# APC2601: Law Study Notes
+
+## THEME 1: Introduction to processes of political change
+
+### Learning unit 1: Processes of political change
+- Definition and significance of political change.
+- Factors influencing political change.
+- Theories of political change.
+
+---
+
+## THEME 2: Democratic political change
+
+### Learning unit 2: Democracy and political change
+- Concept of democracy in political change.
+- Democratic transitions and their implications.
+- **Legislation**: Constitutional frameworks promoting democracy.
+
+---
+
+## THEME 3: The Military and Political Change in Africa
+
+### Learning unit 3: Political military coup and political change in postcolonial Africa
+- Characteristics of military coups.
+- Impact of military regimes on democratic governance.
+- **Case law**: Historical instances of military coups in Africa.
+
+### Learning unit 4: Preventative Strategies for Military Coups in Africa
+- Strategies for preventing military intervention in politics.
+- Role of international organizations in coup prevention.
+- Importance of civil society in stabilizing democracy.
+
+---
+
+## THEME 4: Opposition Politics in Africa
+
+### Learning unit 5: Opposition Politics in Africa
+- Structure and role of opposition parties.
+- Challenges faced by opposition in authoritarian regimes.
+- Legal frameworks supporting political opposition.
+
+---
+
+## THEME 5: Aftermath of Political Transitions
+
+### Learning unit 6: New optimism about Africa’s change
+- Assessment of positive indicators post-transition.
+- Case studies showcasing successful transitions.
+
+### Learning unit 7: Consequences of failed transition: The case of the Democratic Republic of Congo (DRC) and its failed democratic transition
+- Analysis of the DRC's political setbacks.
+- Impact on regional stability and international relations.
+- **Legislation**: Instruments addressing governance failures.
+
+---
+
+## THEME 6: Integration and disintegration
+
+### Learning unit 8: The African Union
+- Role of the African Union in promoting unity and peace.
+- Institutional structures and their functions.
+- **Treaties** and **protocols** governing the AU's operations.
+
+### Learning unit 9: Regional economic communities
+- Importance of regional integration for economic stability.
+- Overview of major regional bodies (e.g., ECOWAS, SADC).
+- Benefits and challenges of economic integration.
+
+---
+
+## THEME 7: Africa and the new world order
+
+### Learning unit 10: Globalisation: a threat to Africa’s fragile democracies
+- Examination of globalisation's effects on local governance.
+- Risks posed by external influences on African political landscapes.
+- **Case studies** of democracies affected by globalisation pressures.
+
+--- 
+
+**References: Diagrams and charts cited as necessary throughout the associated units.**
+----- END OF CHUNK -----
+# APC2601/1
+
+## THEME 1
+### Introduction to processes of political change
+
+#### Learning unit 1
+### 1. Processes of political change
+
+- **Learning Outcomes**
+  - Differentiate between external and internal political change.
+  - Define methods of political change.
+
+#### 1.1 Introduction
+- 1994: South Africa transitioned from National Party apartheid to a democratically elected government.
+- Political change affects citizens' lives and involves authoritative value allocation and power relations.
+- **Political Change**: Loss of existing leadership or change in governance type (democracy, republic, monarchy, etc.).
+
+#### 1.2 Political Change
+- Political change is normal; leaders retire or are re-elected.
+- Stable democracies experience smooth transitions; unstable democracies may face civil conflicts.
+- Political change can lead to instability and violence during transitions.
+  
+##### Types of Political Change:
+- **Internal Political Change**: Driven by citizens via constitutional means (elections) or unconstitutional means (coup d’état).
+- **External Political Change**: Influenced by foreign powers through military threats or sanctions.
+
+##### Methods of Political Change:
+- Revolution
+- Civil War
+- Coup d’état
+- Anticolonial Struggle
+- Constitutional Means
+
+- **Revolution**: Overthrow of established government by subjected people.
+- **Civil War**: Conflict among citizens, including military and civilian factions.
+- **Coup d’état**: Sudden illegal government overthrow, typically violent.
+- **Anticolonial Struggle**: Peaceful protests, with exceptions (e.g., Kenya).
+- **Constitutional Means**: Peaceful elections.
+
+#### 1.3 Conclusion
+- Post-1990s, African countries still struggle with democracy due to weak institutions, unconstitutional changes, and military threats.
+- Ongoing challenges in democratization address institutionalization, opposition strength, and civil conflict.
+
+## THEME 2
+### Democratic political change
+
+#### Learning unit 2
+### 2. Democracy and political change
+
+- **Learning Outcomes**
+  - Explain "democracy."
+  - Discuss elections' importance.
+  - Identify elections' functions and conditions.
+  - Explain major referents of a democratic regime.
+
+- **Key Concepts**
+  - Democracy, Liberal Democracy, Elections, Inalienable Rights, Constitution
+
+#### 2.1 Introduction
+- Concept of democracy familiar; explore deeper definitions.
+- Most African states previously under authoritarian rule, characterized by lack of popular consent.
+- Renewed interest in democracy post-30-year authoritarianism, with many scholarly works emerged.
+- Africa's transition to multiparty democracy influenced by Western democratic success and international pressures.
+- Scholarly skepticism about the true restoration of democracy in Africa; challenges to democracy will be addressed later.
+----- END OF CHUNK -----
+# APC2601/1  
+## Democracy and Political Change  
+
+### 2.2 DEMOCRACY
+- Restoration of democracy requires understanding its meaning; various interpretations exist, especially in Africa.
+- Democracy perceived as overused/abused, lacking a precise definition (Arblaster 1987:1).
+  
+### 2.3 WESTERN LIBERAL DEMOCRACY
+- Liberal democracy linked to Western nations (e.g., USA, UK); characterized by:
+  - Multi-party systems
+  - Regular elections
+  - Civil liberties
+  - Rule of law and human rights
+- Abraham Lincoln's definition: government "of the people, by the people, for the people" (Heywood 2007:72).
+- Participation occurs directly or indirectly (Heywood 2007:74):
+  - **Direct Democracy**: Public expresses views directly.
+  - **Representative Democracy**: Public elects representatives to make decisions.
+- Democratic organizations operate freely based on democratic principles.
+
+#### Models of Democracy (Heywood 2007:76)
+- **Classic Democracy**: Based on self-government (Ancient Greece).
+- **Protective Democracy**: Citizens have freedom to live as they choose.
+- **Developmental Democracy**: Broadens popular participation.
+- **People’s Democracy**: Focuses on class power distribution.
+
+### 2.4 ELECTIONS
+- Elections vital for democracy; allow citizen involvement through representative selection.
+  
+#### Electoral Systems
+- Varied systems across nations; multiparty systems versus one-party systems.
+- Functions of elections (Heywood 2007:255-256):
+  - Recruiting politicians
+  - Making governments
+  - Providing representation
+  - Influencing policy
+  - Educating voters
+  - Building legitimacy
+  - Strengthening elites
+- Elections must be transparent, free, and fair.
+
+#### Conditions for Free and Fair Elections
+1. **Competitiveness**: Freedom of opposition party participation.
+2. **Periodicity**: Elections held at regular intervals.
+3. **Inclusivity**: Broad citizen participation; enfranchisement versus disenfranchisement.
+4. **Definitiveness**: Elections yield real power to elected leaders.
+
+### 2.5 INALIENABLE RIGHTS
+- Civil liberties essential for democracy: freedom of speech, assembly, expression, and movement.
+- Right to express views freely without reprisals; press unrestricted.
+- Rule of Law: Applies equally to all citizens (Heywood 2007:326); equality before the law essential.
+
+### 2.6 CONSTITUTION
+- Constitution: Supreme law, limits governmental power; defines governance (Heywood 2007:321).
+- Functions:
+  - Empowers governments
+  - Establishes unifying values
+  - Provides stability
+  - Legitimizes regimes
+  - Protects freedoms
+- "Constitutionalism": Governance accordance with established rules.
+
+### 2.7 MAJOR REFERENTS OF A DEMOCRATIC REGIME (Osaghae 1998:134)
+1. Pluralism and multi-partyism; competitive politics.
+2. Popular participation; universal suffrage and accountability.
+3. Rule of law; respect for human rights.
+4. Constitutionalism; civil control of military and efficacy of institutions.
+----- END OF CHUNK -----
+# APC2601/1
+
+## 13. Democracy and Political Change
+
+### SELF-ASSESSMENT QUESTIONS
+- Concept of “democracy”
+- Direct vs. representative democracy
+- Purpose of elections
+- Function of a constitution
+- Characteristics of “liberal democracy”
+
+---
+
+## 15. THEME 3: The Military and Political Change in Africa
+
+### 16. Learning Unit 3: Political Military Coup and Political Change in Postcolonial Africa
+
+#### LEARNING OUTCOMES
+- Explain “military coups”
+- Discuss political change complexities in postcolonial Africa
+- Analyse military regime responses to dissent
+- Explore the concept of a good coup and its legitimacy
+
+#### KEY CONCEPTS
+- Military coup, political change, dissent, good coup
+
+### 3.1 INTRODUCTION
+- Military coups viewed as significant agents of political change in postcolonial Africa.
+- Analysis contrasts successful vs. failed coups; highlights differing impacts on political power acquisition.
+- Military's political role is not unique to Africa; similar incidents in Latin America and Asia occur.
+- Postcolonial Africa often experiences political change solely through coups, even post-election.
+- Historical context: more than 200 coups recorded since 1960; first coup in Egypt (1958).
+- Military's influence often overshadow civilian governmental power, undermining constitutional authority.
+
+### 3.2 WHAT IS A MILITARY COUP?
+- **Military coup (coup d'état):** Sudden overthrow of government by military forces, including state army and militia.
+- High-ranking officers typically lead such actions with junior officer support.
+- Normalization of coups indicates a perceived effective access to political power.
+- Military coups often justified by claiming civilian government wrongdoings to gain public support.
+- Mixed outcomes of coups; some civilian governments function effectively despite military takeovers.
+- Authoritarian military governance often leads to suppressed dissent and oppressive rule.
+
+### Political Change Dynamics
+- Political change can be interpreted both positively and negatively: 
+  - Democratic aspirations may be overthrown by military forces leading to non-democratic regimes.
+- Complex relationship between military governance and democratic transformation; potential for military jurisdictions to claim democratic intentions while engaging in authoritarian practices.
+- Rhetoric vs. action: military governments may invoke populist narratives to retain citizen support while failing to enact genuine political reforms.
+- Importance of functional democratic institutions in mitigated military rule impacts. 
+
+---
+
+**Note:** Ensure to refer to diagrams where applicable for visual understanding of military coup dynamics and political change in Africa.
+----- END OF CHUNK -----
+# APC2601/1 - Political Military Coup and Political Change in Postcolonial Africa
+
+---
+
+## 3.3 MILITARY REGIME: CHANGE WITHOUT CHANGE?
+- **Political Change**: Not inherently positive; must be legitimate (democratic, electoral).
+- **Good Governance**: Expected in African states; military coups challenge this.
+- **Military Legitimacy**: Military is not a democratic institution; involvement in politics remains authoritarian.
+- **Coup Justification**: Military faces challenges of legitimacy when denouncing civilian government corruption.
+- **Citizens' Response to Coups**: Often leads to situations reminiscent of previous regimes, potentially worse.
+- **Accountability**: Military regimes lack citizen accountability mechanisms, operate on directives.
+- **Nature of Change**: Military coups often merely cosmetic; serve self-justification for power.
+- **Counter-Coups**: Often arise from discontent within the military, leading to political instability.
+  - Tendencies for junior officers to challenge established military leaders.
+  - Counter-coups lack citizen legitimacy; often result in failed coups.
+
+---
+
+## 3.4 MILITARY COUPS AND OPPOSITION TO DISSENT
+- **Citizen Obedience**: Military regimes demand compliance, dismiss dissent as a threat.
+- **Dissent Criminalization**: Military treats dissent as treason; activists face severe punishment.
+- **Violation of Rights**: Right to dissent is often suppressed through censorship and other means.
+- **Perception of Change**: Military frames its actions as for the public good, disregarding dissent.
+- **Stability vs. Change**: Occurrence of coups leads to minimal change; citizens’ engagement suppressed.
+- **Legitimacy and Accountability**: Military seeks legitimacy by presenting itself as acting for citizens but resists scrutiny.
+
+---
+
+## 3.5 WHY SO MANY MILITARY COUPS IN AFRICA?
+- **Trend of Coups**: Military frequently ascends to power via coups rather than elections.
+- **Power Dynamics**: The state has enabled military power exceeding that of civilian authority.
+- **Recurring Phenomenon**: Coups followed by counter-coups; indicative of military disloyalty to political regimes.
+- **Contagion Effect**: Successful coups inspire similar actions in neighboring regions.
+- **Authoritarian Governance**: Military frequently feels marginalized, leading to discontent and possible coups.
+- **Grievance-Based Coups**: Coping with discrimination can incite military to act against existing regimes.
+- **Complexities of Military Coups**: Acknowledge diversity in Africa; not all nations experience coups uniformly.
+
+---
+
+## 3.6 A GOOD COUP: THE CASE STUDY OF GUINEA CONAKRY 2008 COUP
+- **Definition of a "Good Coup"**: Military takeover happens in political vacuum; president dies, or there's no head of state.
+- **Historical Context**: General Lansame Conte's tenure (1984-2008) characterized by authoritarianism post-coup.
+- **Conte’s Regime**: Marked by corruption and repression; maintained power through manipulation.
+- **Post-Conte Dynamics**: Colonel Moussa Dadis Camara's coup after Conte's death illustrated opportunistic takeover.
+- **Legitimacy of Camara's "Good Coup"**: Supported by the formation of "National Council for Democracy and Development" (NCDD).
+- **NCDD’s Function**: Provided a consultative platform; promised multi-party elections, enhancing legitimacy.
+- **International Response**: Notably criticized by organizations despite local acceptance; elections held leading to Alpha Conde's presidency.
+
+---
+----- END OF CHUNK -----
+# APC2601/1
+## 25
+### Learning Unit 4
+#### Preventative Strategies for Military Coups in Africa
+
+**LEARNING OUTCOMES**  
+- Explain the new wave of constitutionalism and its impact on military coups  
+- Examine differences between constitutional and unconstitutional change  
+- Define demilitarization and distinguish between non-interventionist and interventionist stances  
+- Examine the Lomé Declaration and African Charter on Democracy, Elections, and Governance in relation to military coups  
+
+**KEY CONCEPTS**  
+- Demilitarization  
+- Democratic coups  
+- Constitutionalism  
+- Non-interventionist stance  
+- Interventionist stance  
+- Lomé Declaration  
+
+### 4.1 INTRODUCTION
+- Focus on prevention strategies against military coups in Africa.  
+- Emphasis on African Union (AU) and Organisation for African Unity (OAU) mechanisms.  
+- Military coups normalized; necessary enforcement of preventive mechanisms to uphold constitutional governance.  
+
+### 4.2 MILITARY COUPS AND NEW WAVE OF CONSTITUTIONALISM
+- Emphasis on power acquisition through constitutional means, primarily elections.  
+- Definition: Military coups as “constitutional coups” where unconstitutional acts are falsely legitimized.  
+- AU condemns military coups to uphold constitutional principles; repeated military interventions are increasingly contested as unconstitutional.  
+- Discussion of military's role as both protector and usurper of state power; calls for stringent enforcement of constitutional measures against military incursions into politics.   
+
+### 4.3 THE IDEA OF DEMILITARISATION
+- AU and regional communities mandate demilitarization, separating military from political command.  
+- Demilitarization seen as a challenge; military often legitimizes its continued influence post-coup as necessary for stability.  
+- Notable views by William Gutteridge on the oversimplification of demilitarization; discussions on military's historical entrenchment in African governance.  
+- Emphasizes the need for absolute removal of military from politics to foster political stability and effective governance.  
+
+### 4.4 STRATEGIES IN DEALING WITH DEMILITARISATION
+#### 4.4.1 Non-interventionist Stance
+- Sovereignty invoked to justify military takeovers; led to passive OAU/AU role in addressing contested governance.  
+- Challenges arise when military rule gains public support; intervention viewed as a sovereignty breach.  
+
+#### 4.4.2 Interventionist Stance
+- AU's role aimed at restoring constitutional order; emphasizes inclusion and non-antagonistic approaches for stability.  
+- Challenges include resistance from entrenched regimes manipulating constitutional structures; necessitates effective political will to support constitutional governance.  
+
+### 4.5 THE LOMÉ DECLARATION
+- Adopted in July 2000 as a framework to address unconstitutional government changes, including military coups.  
+- Defines unconstitutional changes of government:  
+  - **Military coup d'état** against democratically elected governments.  
+  - **Mercenary intervention**.  
+  - **Armed group replacement** of democratically elected governments.  
+
+**Diagram References**:  
+- Consider referencing diagrams on the legal frameworks for military interventions and constitutional governance processes within the context of the AU's mandate.
+
+### Conclusion
+- Military coups undermine democracy and constitutionalism; proactive strategies needed to enforce democratic governance and prevent unconstitutional takeovers.  
+- Recognition of legitimate authorities crucial for political stability and effective governance transition post-coup.  
+----- END OF CHUNK -----
+# APC2601/1  
+
+## Preventative Strategies for Military Coups in Africa  
+
+- **Incumbent Government Refusal**  
+  - Refusal to relinquish power post-elections leads to military coups.  
+  - Constitutionally democratic governance must oppose unconstitutional regimes.  
+
+- **Lomé Declaration**  
+  - Primary aim: prevent military coups.  
+  - Cowell (2011): struggles with "democratic coups."  
+  - Insufficient punitive measures for military coups.  
+  - Military regimes calling for elections lack clarity in legality.  
+  - Foundation for constitutional democracy by OAU and AU since 2002.  
+  - Encourages constitutional access to power; condemns military coups.  
+  - Declining magnitude of military coups despite continued occurrences.  
+  - AU stance: non-recognition of regimes from military coups.  
+  - Six-month period for restoring constitutional order post-coup.  
+  - Consequences for non-compliance: sanctions (visa denials, trade limitations).  
+  - **Condemnation and Non-Recognition**  
+    - Thorough denunciation of military coup regimes by OAU.  
+
+### African Charter on Democracy, Elections and Governance  
+
+- **Inception (2007)**  
+  - Bold move to enhance political change and democracy.  
+  - Clear stance against unconstitutional government changes.  
+
+- **Strengthening Past Declarations**  
+  - Enhances previous declarations (e.g., 1999 Algiers Declaration).  
+  - Emphasizes constitutional governance.  
+
+- **Military Control**  
+  - Military under civilian government command is crucial.  
+  - Promotes institutionalization of civilian control over military.  
+
+- **Zero Tolerance Approach**  
+  - Full condemnation of unconstitutional changes of government.  
+  - Firm actions against military coups seen as radical.  
+  - Challenge: many member states arose from military coups.  
+
+## Opposition Politics in Africa  
+
+### Introduction  
+
+- Focus on opposition politics stemming from the rise of multiparty systems post-1980s and 1990s effectively discussed.  
+
+### Opposition Politics in Africa  
+
+- **Emergence of Democratisation**  
+  - Political changes in the 1990s led to a wave of democratization.
+  - Multiparty systems rose from 4 (1990) to 45 (late 1990s) in Africa (Thompson, 2010).  
+
+- **Rejection of Multiparty System**  
+  - Early leadership (e.g., Julius Nyerere) feared ethnic divisions.  
+  - Centralized government systems influenced by Soviet-style governance.  
+
+**Key Concepts**  
+- Democratisation, Cold War, one-party system, multiparty system, opposition political parties.
+----- END OF CHUNK -----
+# APC2601/1
+## 5. OPPOSITION POLITICS IN AFRICA
+
+### 5.1 Introduction to Opposition Politics
+- Emergence due to weaknesses of one-party systems.
+- Calls for multiparty democracy in late 1980s.
+
+### 5.2 Factors Leading to Multiparty Politics in Africa
+#### 5.2.1 The State’s Loss of Authority
+- Loss of legitimacy by states (e.g., apartheid South Africa).
+- Consequences for refusal to adopt multiparty systems (e.g., DRC, Liberia).
+
+#### 5.2.2 The Changing International Political Arena
+- Ideological conflict during the Cold War influenced support for one-party states.
+- Post-Cold War dynamics led to abandoned support for oppressive regimes (e.g., Mobutu).
+- End of Cold War aided the fall of apartheid, impacting international aid conditionality.
+
+#### 5.2.3 A Rejuvenated Civil Society
+- Role of civil society in anti-colonial and anti-one-party movements.
+- Key leaders (Archbishop Tutu, James Chiona) promoted human rights and multiparty democracy.
+
+#### 5.2.4 Precedent
+- Inspiration from Eastern Europe’s uprisings against communist rule.
+
+### 5.3 The Importance of Multi-Party Democracy
+- Checks and balances crucial for preventing power abuse (Sir Acton’s principle).
+
+### 5.4 The Need for/Purpose of Political Parties
+- Definition by Heywood (2013:222):
+  1. Aim to win political office.
+  2. Organized with formal membership.
+  3. Broad issue focus.
+  4. United by shared preferences.
+- Roles per Canton (2007:7):
+  1. Training and recruiting candidates.
+  2. Formulating policies.
+  3. Gathering societal demands.
+  4. Government supervision.
+
+### 5.5 Other Roles Played by Political Parties
+- Representation of interests; vital link between state and society.
+- Example: Uganda’s no-party democracy exemplifies rarity of democracy without parties (Schattschneider 1943).
+
+### 5.6 The Role of Opposition Political Parties
+- Important for democracy consolidation in Africa.
+- Roles as per Chiroro (2006), Kiiza (2005):
+  1. Shaping public policy.
+  2. Mobilising voters.
+  3. Government criticism.
+  4. Consolidating democracy.
+  5. Representing minority interests.
+  6. Nation-building contribution.
+  7. Anti-corruption efforts.
+  8. Training future leaders.
+  9. Monitoring elections.
+
+### 5.7 The Weakness of Opposition Political Parties in Africa
+- Post-1990s opportunities not matched by opposition quality.
+- Weakness factors include:
+#### 5.7.1 Fragmentation
+- Highly fragmented political landscape (e.g., Ivory Coast, Senegal, Liberia).
+- Types of fragmentation (Rakner & Svasand, 2005):
+  - Formal, competitive, electoral, parliamentary.
+  
+#### 5.7.2 Limited Resources
+- Incumbents control resources; oppositional revenue strategies include membership fees, donations.
+
+#### 5.7.3 Personalistic Parties
+- Dependence on charismatic leaders; weak grassroots structure.
+
+#### 5.7.4 Lack of Mass Base
+- Absence of links to organizations (e.g., unions); hampers recruitment and campaigning.
+
+### Conclusion
+- Challenges faced by opposition parties hinder their effectiveness in addressing the political landscape in Africa.
+- Strategic reforms and unified approaches are necessary for strengthening political opposition.
+----- END OF CHUNK -----
+**APC2601/1**  
+**Opposition Politics in Africa**  
+**Page 43-46**
+
+### 5.8 TRENDS IN OPPOSITION POLITICS IN AFRICA
+
+- **Ethnicity**  
+  - Major obstacle for opposition parties; often ethnically focused.  
+  - Broad appeal can mitigate ethnic limitations.  
+  - Ethnic politics undermine issue-based politics; potential for violence (e.g., Rwanda).  
+
+### 5.8.1 Rejection of Election Results
+- **Uganda**: Dr. Kizza Besigye (FDC) rejected February 2016 results as fraudulent.  
+- **Zambia**: Hakinde Hichilema (UPND) condemned August 2016 results as rigged.  
+- **Niger**: Coalition for Change rejected results after partial tally.  
+- **Gabon**: Jean Ping rejected August 2016 results, citing rigging concerns.  
+- Indication of lack of trust in electoral management bodies; reflects deep mistrust between parties.
+
+### 5.8.2 Post-Election Violence
+- **Uganda**: 22 dead, 10 wounded post-February 2016 elections; significant property damage reported.  
+- **Gabon**: Violent clashes followed August 2016 results; opposition reported high death toll.  
+- Ongoing issue of post-election violence highlights responsibilities of both incumbents and opposition.
+
+### 5.8.3 Challenging Election Results in Court
+- **Zambia**: Hichilema’s legal challenge dismissed due to expired deadline; Lungu inaugurated as President.  
+- **Gabon**: Constitutional court ruled for incumbent Bongo; Ping rejected verdict.  
+- **Uganda**: Besigye considered court challenge but did not follow through.
+
+### 5.8.4 The Arrest and Harassment of Opposition Party Leaders
+- **Gabon**: Ping threatened by Bongo's spokesperson.  
+- **Uganda**: Kizza Besigye frequently arrested; labeled as "the most arrested man in Africa."  
+- **Zambia**: Hichilema arrested in 2016 on multiple charges.  
+- **Niger**: Hama Amadou contested elections from prison.
+
+### 5.9 CONCLUSION
+- Examined one-party system dominance and transition to multiparty politics in Africa post-1980s.  
+- Discussed factors enabling multiparty transition: oversight roles of opposition, systemic weaknesses.  
+- Identified key causes of opposition weaknesses: fragmentation, limited resources, ethnicity.  
+- Explored trends: rejection of results, post-election violence, legal challenges, and leader harassment.
+
+---
+
+**THEME 5**  
+**Aftermath of Political Transitions**  
+**Page 48-49**
+
+### Learning Unit 6: New Optimism About Africa’s Change
+
+#### Key Concepts
+- **Democratisation Process**: includes full, flawed, hybrid, and authoritarian regimes.
+
+### 6.1 INTRODUCTION
+- Historical skepticism towards Africa's political reforms post-authoritarian rule; concerns over leadership commitment.  
+- Initial optimism dimmed over time; debates on successes/failures of democratisation continue.  
+- Notable scholars argue for recognition of uneven progress across various African nations.
+
+### 6.2 OPTIMISM ABOUT AFRICA’S DEMOCRATISATION PROCESS
+- Chege (2005) notes uneven gains in achieving democratic goals across sub-Saharan Africa over past 15 years.  
+- Emphasizes the necessity for robust, multifaceted democratic processes rather than simplistic assessments.  
+
+--- 
+
+*References to legislation and specific cases were maintained as relevant. Diagram references should be included as necessary in visual aids.*
+----- END OF CHUNK -----
+# APC2601/1
+## 6. New Optimism About Africa’s Change
+
+### 6.1 Death of Democratic Government in Africa
+
+- **Van de Walle (2002:67)**: “Death of democratic government has been vastly exaggerated.”
+  - **Progress**: From 1989-2000, 70 presidential elections with multiple candidates occurred, up from 9 competitive multiparty elections (1985-1989).
+  - **Variability**: African states exhibit different forms of democracy, ranging from liberal to hybrid regimes.
+
+- **Three dangers to democracy in Africa** (Van der Walle 2002:66-67):
+  1. **Underestimating gains**: Imperfections in democratic practices shouldn't overshadow improvements in competition and participation since the 1990s.
+  2. **Rigorous standards**: Pessimism applies unrealistic standards of liberal democracy that even mature democracies fail to meet consistently.
+  3. **Oversimplification**: Disappointment leads to categorizing diverse African democracies as "imperfect democracies."
+
+### 6.2 Progress and Challenges in Democratisation
+
+- **Osaghae (1998)**: Offers a glimmer of hope for African democracies despite criticisms of leaders' intentions.
+  - **Democratic faltering reasons**: Remnants of authoritarian rule hindered democratization.
+  - **Positive signs**:
+    - Varying consolidation in democracies (e.g., South Africa, Tanzania, Benin).
+    - Transition of military leaders into civilian political roles.
+    - Serious adherence to democracy due to Western financial ties.
+
+- **External Influences**:
+  - **UN, Commonwealth, EU**: Critical monitoring and potential sanctions (e.g., Zimbabwe).
+  - **SADC**: Sub-regional enforcement of democratic standards.
+  - **Civil Society's Role**: Engaging in protests against undemocratic governance.
+
+### 6.3 Emergence of New Regimes After Multiparty Elections
+
+- **Nature of regimes post-elections**: Prelude to questions regarding genuineness of democratic transitions.
+- **Freedom House classification (2002)**:
+  - **Botswana and Mauritius**: Models of democratic rule.
+  - **Other countries (e.g., Cameroon, Gambia, Togo)**: Limited change with incumbents retaining power.
+
+- **Continued authoritarianism**: Multiparty elections result in incumbents practicing grudging tolerance of political plurality.
+
+### 6.4 Increasing Support for Democratic Rule
+
+- **Priser (2009)**: Assessment from authoritarian rule to elections demonstrating a positive trend towards democracy.
+  - Concerns: Quality of elections increasingly criticized as biased or non-competitive.
+
+- **Democratic safeguards introduced**:
+  - **Presidential term limits** and **Independent Electoral Commissions (IEC)** as mechanisms.
+  
+- **Results from Freedom House (2009)**:
+  - More countries recognized as 'free' or 'partly free' than in earlier assessments.
+  - Military coups: Decrease from 24 (1960s) to 5 (2000-2008).
+
+### 6.5 Classification of African Regimes
+
+- **Priser's Categorization**:
+  1. Full democracies: **Mauritius** (only country qualifying).
+  2. Flawed democracies: **Botswana, South Africa, Benin, Cape Verde**.
+  3. Hybrid regimes: 13.
+  4. Authoritarian regimes: 23.
+
+- Qualification Criteria for “Free”:
+  - Political rights and civil liberties benchmarks separating flawed democracies from full democracies.
+
+### 6.6 Conclusion
+
+- **Optimism in democratisation**: Continued multiparty elections promise enhanced political participation and governance.
+- **Recognition of multifaceted progress**: Acknowledgment of challenges alongside positive strides in democracy across Africa.
+
+---
+
+### References
+- **Legislation & Cases**: 
+  - Freedom House classifications.
+- **Key Scholars**: 
+  - Van de Walle (2002), Osaghae (1998), Priser (2009), Chege (2005). 
+
+### Diagram References
+- Classifications and trends in African democratic systems.
+- Historical evolution of multiparty elections in Africa.
+----- END OF CHUNK -----
+# APC2601/1  
+## 7. Consequences of Failed Transition: The Case of the Democratic Republic of Congo (DRC) and Its Failed Democratic Transition  
+
+### Learning Outcomes  
+- Discuss reasons for Zaire’s descent into chaos  
+- Evaluate Mobutu’s decision to transform the political system  
+- Explain National Conference’s lack of progress  
+- Analyse Zairian opposition’s performance during the National Conference  
+
+### Key Concepts  
+- Failed democracy, failed transition, weak state, kleptocracy, state collapse, warlord state, corruption  
+
+### 7.1 Introduction  
+- Sense of optimism about Africa’s democratization juxtaposed with civil unrest (Du Plessis, Jansen, Siebrits, 2014).  
+- Failed transitions have severe consequences; focus on DRC’s transition failure leading to civil war.  
+- DRC: never held genuine elections, under military/single-party rule for over three decades.  
+- Name changes: Belgian Congo → Zaire → Democratic Republic of Congo (1996 after Mobutu’s overthrow).  
+- Zaire faced chaos post-independence (1960) from leadership disputes, worsened by Mobutu’s mismanagement and corruption.  
+
+### 7.2 Mobutu’s Non-transition to Democracy  
+- 1990s pressures to restore multiparty democracy post-Cold War and Eastern Europe collapse.  
+- Mobutu agreed to public meetings and allowed the formation of political parties in 1990, leading to political confusion.  
+- National Conference initiated to discuss political transformation but undermined by Mobutu’s manipulation and violence (Schatzberg, 1997).  
+- Mobutu’s tactics involved fomenting violence and co-opting opposition members to stymie transition efforts.  
+
+### 7.3 The Failed National Conference  
+- National Conference stalled due to internal disputes among delegates and Mobutu's interference.  
+- Mobutu’s co-opting strategies, including financial incentives for opposition members.  
+- Coalition Sacred Union formed but lacked unity; opposition was fractured, failing to capitalize on strategic opportunities.  
+- Competing power dynamics with Mobutu controlling coercion and treasury, while opposition’s Tshisekedi managed the High Council.  
+- Mobutu dissolved "governments," further complicating the situation.  
+
+### 7.4 The Weak State  
+- Zaire characterized as leaderless and chaotic (World Bank declared insolvency in February 1994).  
+- Governance effectively limited to urban centers; rural areas largely ignored by the administration (Thompson, 2000).  
+- Opposition’s internal struggles and inability to form a unified resistance contributed to continued Mobutu’s control.  
+- Kabila filled leadership vacuum, supported by regional dynamics, ultimately overthrowing Mobutu in 1997.  
+
+### 7.5 Conclusion  
+- Case study of DRC illustrates consequences of failed democratic transition and the ineffectiveness of the National Conference.  
+- DRC labeled as weak, warlord, or collapsed state, reflecting challenges in consolidating democracy.  
+
+**Legislation and Cases**: Reference to international approaches for democratic governance, IMF, and World Bank pressures.
+
+**Diagram References**: Suggested diagrams on governance structures, political party relationships, and maps of key events might be beneficial.
+----- END OF CHUNK -----
+APC2601/1  
+61  
+THEME 6  
+Integration and disintegration  
+
+62  
+
+## Learning unit 8  
+### 8 The African Union  
+
+#### LEARNING OUTCOMES  
+- Trace historical development of **Pan-Africanism**  
+- Discuss principles of the **Brazzaville, Casablanca and Monrovia blocs**  
+- Discuss successes and failures of the **Organisation of African Unity (OAU)**  
+- Analyse role of the **African Union (AU)** in achieving African unity  
+- Discuss challenges facing African unity  
+
+#### KEY CONCEPTS  
+- **Pan-Africanism**; **colonialism**; **neo-colonialism**; **African unity**; **independence**; **military coup**  
+- Cheikh Anta Diop: "Africa can and will only advance through African integration."  
+- Kwame Nkrumah: "Africa must unite or disintegrate individually."  
+
+### 8.1 INTRODUCTION  
+- Diop and Nkrumah advocated for African unity, emphasizing the need for institutions, laws, and structures.  
+- Africa's fragmentation exposes it to imperial exploitation.  
+- Focus on the AU's role in integration, historical background of **Pan-Africanism,** OAU's role in decolonization and unity, and challenges to African unity.  
+
+### 8.2 PAN-AFRICANISM  
+- Tim Murithi defines **Pan-Africanism** as solidarity and cooperation among African leaders and societies.  
+- No single definition; core elements include social/political equality, freedom from exploitation.  
+- Historical context includes European slavery, colonialism, neo-colonialism, and globalization.  
+- Trans-Atlantic Slave Trade: African abductions, cultural alienation, inferiority narratives by European thinkers (e.g., Voltaire, Kant).
+
+- Key figures advocating African liberation and image rebuilding include:
+  - **Harriet Tubman, Frederick Douglass, Marcus Garvey, Haile Selassie, Jomo Kenyatta, Malcolm X, Robert Mugabe.**
+
+- Significant thinkers and works:
+  - **W. E. B. Du Bois:** The Souls of Black Folk, The Negro  
+  - **Cheikh Anta Diop:** The African Origin of Civilization  
+  - **Frantz Fanon:** Black Skin White Masks, The Wretched of the Earth  
+
+- **Outcome of colonization:** Collective effort needed; three blocs arose.
+  
+**The Brazzaville Bloc**  
+- First meeting: Abidjan, 1960, included 12 **French-speaking countries**.  
+- Advocated economic integration, supported France during Algeria's independence, varying views on communism.  
+
+**The Casablanca Bloc**  
+- Led by Nkrumah, first met in Casablanca, 1961; included Libya, Egypt, Ghana.  
+- Supported Algerian liberation; advocated political and economic integration.  
+
+**The Monrovia Bloc**  
+- Met 1961 in Liberia; included 20 countries.  
+- Influential in the OAU's values focusing on unity, cooperation, and independence.  
+- **OAU Charter Objectives:**
+  - Promote unity and solidarity  
+  - Defend sovereignty and integrity  
+  - Eradicate colonialism  
+  - Promote international cooperation  
+
+- **OAU's Struggles:**
+  - Primacy on sovereignty limited intervention in military coups (e.g., Ghana, Uganda).
+  - OAU's inability to act contributed to tragedies like the **Rwandan Genocide**.
+
+- Late 1990s, OAU shifted policies; notable intervention in **Sierra Leone** via **ECOMOG**.
+
+### 8.3 AFRICAN UNION  
+- Established in **2002** to address OAU’s ineffectiveness.  
+- Governed by the **Constitutive Act**, with core objectives similar to OAU but allowing intervention in grave situations.  
+
+**AU Objectives:**  
+1. Unity and solidarity among African states.  
+2. Defense of member states' sovereignty and integrity.  
+3. Acceleration of political and socio-economic integration.  
+4. Promotion of African positions on key issues.  
+5. Encouragement of international cooperation.  
+6. Promotion of peace, security, and stability.  
+
+**AU Organ Structure:**  
+1. Assembly of the Union  
+2. Executive Council  
+3. Pan-African Parliament  
+4. Court of Justice  
+5. Commission  
+6. Permanent Representatives Committee  
+7. Specialized Technical Committees  
+8. Economic, Social and Cultural Council  
+9. Financial Institutions  
+
+- Contrast with OAU: AU can intervene in crises (e.g., **war crimes, genocide**).  
+- Past actions include peacekeeping missions in various African nations, reflecting a commitment to uphold stability.  
+- Emphasis on zero-tolerance for unconstitutional power changes; suspensions of member states (e.g., **Egypt, Mali**).  
+
+---
+
+**Diagram References:**  
+- Historical development of **Pan-Africanism**.  
+- Structure of **AU organs**.  
+- Comparison between the **OAU** and **AU** principles.  
+
+----- END OF CHUNK -----
+# APC2601/1 - The African Union & Regional Economic Communities Study Notes
+
+## 8. The African Union
+
+### 8.4 African Unity: Challenges and Prospects
+
+- Significant strides toward African unity; challenges persist.
+- **Elitism**: Political and economic elite shaping institutions, resulting in lack of mass involvement (Murithi 2012).
+- Strenuous travel requirements hinder socio-economic integration.
+- The AU struggles with ongoing conflicts, notably:
+  - **South Sudan**: Continuous war.
+  - **Terrorism**: Threats from groups like Al-Shabab and Boko Haram.
+  
+- **Agenda 2063**: AU's strategic framework for socio-economic transformation.
+  - Goals:
+    1. Prosperous Africa with inclusive growth.
+    2. Politically united continent, promoting Pan-Africanism.
+    3. Governance, democracy, and rule of law.
+    4. Peaceful and secure Africa.
+    5. People-driven development, focusing on youth and women.
+    6. Strong cultural identity and ethics.
+    7. Resilient global player.
+
+### 8.5 Conclusion
+
+- Historical overview of **Pan-Africanism** and its leaders, e.g., WEB Du Bois, Frederick Douglass.
+- Response to African discrimination and exploitation by Europeans.
+- OAU's role in African decolonization:
+  - Success in ending colonialism but failure to ensure peace due to non-interference principle.
+- AU's objectives and peacekeeping efforts; issues hindering unity discussed.
+
+---
+
+## 9. Regional Economic Communities
+
+### 9.1 Introduction
+
+- **Regional integration**: Elimination of discrimination among countries (Balassa 1961).
+- **Stages**:
+  - **De jure integration**: States sign treaties for cooperation.
+  - **De facto integration**: Implementation of policies, may involve ceding state powers.
+
+### 9.2 Regional Organisations in Africa
+
+#### The Arab Maghreb Union (AMU)
+- Established post-WW I; formalized in 1989.
+- Conflicts (e.g., Western Sahara) hinder cooperation.
+- Decision-making by **Summit of Heads of State**; headquartered in Rabat, Morocco.
+
+#### Economic Community of West African States (ECOWAS)
+- Initiated in mid-1960s; officially established in 1975.
+- Aims for a borderless region; works on free movement and peace.
+- **ECOMOG**: Peacekeeping unit for civil conflict resolution in Liberia and Sierra Leone.
+- Administrative change in 2007; now a **Commission**.
+
+#### Economic Community of Central African States (ECCAS)
+- Origins in the Central African Customs and Economic Union.
+- Formed in 1983, addressing post-colonial economic relations.
+- Struggles due to conflicts; members include Angola, Chad, Congo, etc.
+
+#### East African Community (EAC)
+- Continuation of earlier cooperation post-1977 dissolution.
+- Treaty signed in 1999, operational by 2000.
+- Includes Burundi, Kenya, Rwanda, etc.
+
+#### Southern African Development Community (SADC)
+- Established in 1990 to promote political liberation and equitable integration.
+- Transitioned from SADCC to SADC treaty in 1992.
+- Secretariat in Gaborone; involved in peacekeeping efforts and regional programs.
+
+### 9.3 Conflict and Regional Integration
+
+- Civil conflicts negatively impact economic performance and regional integration.
+- War affects business cycles, infrastructure, and prioritization of policy resources.
+- Disruption of trade relations complicates integration efforts (Bah 2013:523).
+----- END OF CHUNK -----
+# APC2601/1 Study Notes 
+
+## Page 73-74
+
+### 9.4 IDENTITY AND REGIONAL INTEGRATION
+- Collective regional identity is vital for successful regional integration.
+- Free movement of persons within regions fosters this identity; civilian integration is crucial.
+- Establishment of common regional identity may mitigate xenophobia.
+- Governments should collaborate with civil society to promote awareness of integration benefits.
+
+### 9.5 GADDAFI’S REBUTTAL
+- Gaddafi advocated for gradual African unity rather than regional divides.
+- Critique of regional economic communities: seen as obstacles to unity.
+- Countries in Africa struggle with internal conflicts, hindering unity.
+- Gaddafi’s perspective: immediate Pan-African governance is preferable to gradual solutions.
+- Notably stated, "It is now or never" (Gaddafi 2007).
+
+### 9.6 CONCLUSION
+- Regional integration in Africa is negatively impacted by conflict.
+- Importance of proactive collaboration with stakeholders to forge collective identities.
+- Critique of existing regional economic communities presented.
+
+---
+
+## Page 76-78
+
+### THEME 7: Africa and the New World Order
+
+### 10 Globalisation: a Threat to Africa’s Fragile Democracies
+
+#### LEARNING OUTCOMES
+- Understand the concept of "globalisation."
+- Evaluate its positive attributes and threats to Africa's democracies.
+
+#### KEY CONCEPTS
+- **Integration**, **Economic Policy**, **Liberal Democracy**
+
+### 10.1 INTRODUCTION
+- Globalisation emerged as a significant concept in the 21st century, often discussed in political contexts.
+- Diverse definitions: Scholte (1997) notes it's about borderless social relations; Plattner (2002) highlights integration of economies and socio-political actions.
+- Global issues discussed at international conferences (e.g., poverty, democracy, climate change).
+
+#### Arguments For Globalisation:
+- Promotes a coordinated global response to issues threatening humanity.
+
+#### Counterarguments:
+- Activists claim globalisation favors wealthy nations and ignores poorer countries’ needs.
+
+### Impact on Africa’s Democracies
+- Africanist scholars like Mkhandawire (1996), Osaghae (1999), Ninsin (2000) argue globalisation risks destabilising nascent democracies.
+- Osaghae accuses globalisation of shifting focus from African initiative to external control.
+  
+### Economic Considerations
+- Concerns over Africa's economies becoming overly reliant on global market forces.
+- Historical context: African economies tended towards socialism; neoliberal reforms became prevalent after Western pressure post-Cold War.
+- Structural adjustment programmes led to "choiceless democracies" as leaders catered to foreign interests.
+
+#### Sovereignty Issues
+- Globalisation undermines African sovereignty, limiting policy discretion.
+- Economic reforms from external pressures may incite unrest among populations, reinforcing opposition to unpopular measures related to structural adjustments.
+----- END OF CHUNK -----
+# APC2601/1
+## Globalisation: A Threat to Africa’s Fragile Democracies
+
+### Negative Effects of Economic Reform Policies
+- Economic reforms often disempower populations.
+- Governments resort to repressive measures to enforce compliance with austerity.
+
+### General Dangers of Globalisation
+- **Plattner (2002:60-61)**: Globalisation blurs national barriers and undermines decision-making at national levels.
+  - Threatens both authoritarian and democratic systems.
+  - May require limits on globalisation to preserve democracy.
+  
+### Merits and Demerits of Globalisation
+- Globalisation has both positive and negative aspects.
+
+### Iwara's Examination of Globalisation
+- **Iwara (2007)**: Globalisation as a system of global governance uniting nations.
+  - Focuses on African state sovereignty in global contexts.
+  - Concerns of marginalisation and Western hegemony in global governance.
+
+### Schools of Thought on Globalisation
+- **Marxist School**: Critical perspective emphasizing loss of state autonomy to international actors.
+- **Neoliberal School**: Positive outlook on globalisation as cooperative and beneficial for unity.
+
+### Sovereignty Concerns
+- **Sovereignty**: Originating in the 16th century, denoting supreme authority over a state.
+- **Three Dimensions of Sovereignty (Iwara 2007:60)**:
+  - **Legal Sovereignty**: Authority to govern without external interference.
+  - **Political Sovereignty**: Control over law-making and governance processes.
+  - **De Jure Sovereignty**: Legal recognition of a state’s power.
+
+### Unequal Relations Between Nations
+- Globalisation promotes disparities; powerful nations dictate terms.
+- Poor representation of African states in international forums (Iwara 2007:62).
+
+### Dependency on Globalisation
+- African states' dependency on aid leads to submission to northern powers.
+- Expectation to conform to dictates for development assistance.
+
+### Exporting Western Liberal Democracy
+- Seen as a major goal; pressure from Western nations influences African governance.
+- **Iwara (2007:64)**: Proponents argue liberal democracy enhances economic rights but undermines African state autonomy.
+
+### Critique of Liberal Democracy
+- Iwara expresses skepticism towards liberal democracy as detrimental to African autonomy.

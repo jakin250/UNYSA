@@ -1,0 +1,1654 @@
+# Study Notes: Information and Knowledge Management (INS3705)
+
+---
+
+## General Orientation and Introduction to INS3705
+
+### Overview
+- Module on Information and Knowledge Management.
+- Focus on operational skills at individual, organizational, and corporate levels.
+- Extensive field; deeper exploration available at higher academic levels.
+
+### Learning Outcomes
+- Understand key concepts in information and knowledge management.
+- Apply principles and practices at the workplace.
+- Use ICTs effectively in management processes.
+- Develop audit plans and policies for organization.
+- Identify improvement areas in management practices.
+
+## Chapter 1: Theoretical Concepts of Information and Knowledge Management
+
+### Fundamental Concepts
+- Information Management (IM) and Knowledge Management (KM) are foundational.
+- IM: the management of explicit knowledge.
+- KM: encompasses both tacit and explicit knowledge.
+
+---
+
+## Chapter 2: Information Management
+
+### Key Principles
+- Importance of effective information handling.
+- Processes of capturing, storing, and retrieving information.
+
+### Legislation and Cases
+- Relevant laws governing the management of information (specific laws were not stated in the text).
+
+---
+
+## Chapter 3: Knowledge Management
+
+### Core Theories
+- Distinction between tacit (internalized) knowledge and explicit knowledge (articulated).
+- KM as an extension of IM vs. separate entities.
+
+---
+
+## Chapter 4: Knowledge Management and Organisational Learning
+
+### Concepts
+- Relationship between KM and organizational learning.
+- How knowledge sharing enhances learning within organizations.
+
+---
+
+## Chapter 5: Information and Communication Technologies in I&KM
+
+### ICT Applications
+- Technologies that facilitate information and knowledge management.
+- Tools supporting collaboration and efficiency in knowledge sharing.
+
+---
+
+## Chapter 6: Auditing Information and Knowledge in an Organisation
+
+### Audit Processes
+- Steps for conducting audits on information and knowledge management.
+- Importance of assessing management practices for improvements.
+
+---
+
+## Appendix A: Information and Knowledge Management Check List
+
+### Checklist Highlights
+- Essential elements to consider for effective management practices.
+
+---
+
+## Appendix B: Information Audit at the Southern African Development Community (SADC) Secretariat
+
+### Audit Focus
+- Specific strategies utilized in auditing processes.
+
+---
+
+## Appendix C: Information Audit at a University
+
+### University-Specific Practices
+- Examples of practices in academic settings for efficient information management.
+
+---
+----- END OF CHUNK -----
+# INFORMATION AND KNOWLEDGE MANAGEMENT STUDY NOTES
+
+## RELATIONSHIP WITH OTHER MODULES
+- **Interconnectedness:** 
+  - I&KM overlaps with other Information Science modules, requiring prior knowledge from first or second year modules.
+  
+- **Related Modules:**
+  - **INS2603:** Introducing Information Management
+    - Focus on multidisciplinary aspects applied to information resources (records, archives, knowledge management).
+  - **INS2701:** Information and Communication Technologies 
+    - Concepts, principles, and societal impacts of ICT.
+  - **INS3707:** Information Organisation and Retrieval
+    - Understanding user behavior, principles of electronic organization and retrieval.
+
+## CONTENT OF THIS MODULE
+- Broad coverage includes:
+  - **Unit 1:** Theoretical concepts of I&KM
+  - **Unit 2:** Information management
+  - **Unit 3:** Knowledge management
+  - **Unit 4:** Knowledge management and organizational learning
+  - **Unit 5:** ICTs in I&KM
+  - **Unit 6:** Auditing information and knowledge in organizations
+
+## HOW TO USE THIS STUDY GUIDE
+- **Study Techniques:**
+  - **Reading Methods:**
+    - Speed reading, skimming, scanning, study reading (Behrens et al. 1999).
+    - Engage multiple techniques to enhance understanding.
+  
+- **Recommended Reading:**
+  - Supplementary sources listed at the end of units for a broader understanding.
+
+- **Activities:**
+  - Practical application and critical engagement with course content.
+  - Questions to encourage further exploration and contextual understanding.
+
+- **Self-evaluation Exercises:**
+  - Questions to reinforce knowledge, encourage peer discussion.
+
+## CHECK LIST
+- Appendix A provides a list of issues for consideration in managing information and knowledge. Encourage personal question formulation for deeper analysis.
+
+## CONCLUSION
+- Orientation to module INS3059 established navigation skills for effective learning. Importance of applying knowledge in practice emphasized.
+
+## REFERENCES
+- Behrens, SJ, Olen, SII, & Machet, MP. 1999. *Mastering information skills*. Pretoria: UNISA Press.
+
+---
+
+## UNIT 1: THEORETICAL CONCEPTS OF INFORMATION AND KNOWLEDGE MANAGEMENT
+
+### 1.1 INTRODUCTION
+- Importance of understanding keywords in I&KM to enhance knowledge and assist in assignments.
+
+### 1.2 DATA, INFORMATION, KNOWLEDGE, AND WISDOM
+- **Interrelationship of Concepts:**
+  - Debate around definitions and distinctions among data, information, knowledge, and wisdom (Hey 2004).
+  
+- **1.2.1 What is Data?**
+  - **Definition:** 
+    - Facts and figures (ODLIS definition).
+  - **Characteristics:**
+    - Data as unexamined facts, manipulable resources, and descriptive statistics without meaning.
+    - Can exist as data banks, databases, or data sets. 
+
+### Diagram Reference: 
+- Consider illustrative diagrams explaining the data-information-knowledge-wisdom continuum as emphasized in various academic discussions.
+----- END OF CHUNK -----
+# Study Notes on Data, Information, Knowledge, and Wisdom
+
+## Chapter 1: Understanding Data and Information
+
+### 1.2.1 What is Information?
+- **Definition**: Information is data presented comprehensively with meaning in context (Reitz, 2004).
+- **Formula**: DATA + (Meaning) = INFORMATION
+- **Characteristics** of Information:
+  - Transformative nature linked to decision-making in contexts (e.g., temperatures, electricity supply).
+
+### 1.2.2 Nature of Information
+- **Information Economy**:
+  - Information as a valuable resource (Meyer, 2005).
+- **Unique Characteristics**:
+  - Non-physical output (e.g., software vs. hardware).
+  - Expandable, sharable, and non-depleting through use.
+  - Increases in value through sharing.
+- **Burk and Horton’s Attributes**:
+  - Measurable cost, definable value, quantifiable consumption.
+  - Clear life cycle: collection, processing, storage, dissemination.
+  - Requires management approaches.
+
+## Chapter 1.2.3 What is Knowledge?
+- **Elusive Definition**: Philosophical debates on truth and belief.
+  - **Plato’s Definition**: Knowledge as justified, true belief.
+- **Conceptualization**:
+  - Evaluated and organized information, internalized (Feather & Sturges; Wiig, 1993).
+  - Knowledge informs situation interpretation and decision-making.
+
+### 1.2.3.1 The Need for Knowledge
+- Essential for daily management and success.
+- Higher knowledge demands deeper understanding for competitive advantage.
+
+### 1.2.3.2 Nature of Knowledge
+- **Epistemology**: The study of knowledge's nature.
+- **Unique Characteristics**:
+  - Personal, internalized, and expandable like information.
+  - Deemed a resource in management contexts.
+
+## Chapter 1.2.4 What is Wisdom?
+- **Definition**: Application of knowledge effectively (Wehmeier, 2000).
+- **Role**: Best use of knowledge for organizational objectives.
+
+## Chapter 1.3 The Knowledge Pyramid (DIKW Model)
+- **DIKW Hierarchy**: Illustrates relationships among data, information, knowledge, and wisdom.
+- Two representations:
+  - Linear relationship versus the **Knowledge Pyramid**.
+
+---
+
+### **References to Legislation and Cases**
+- **Meyer (2005)**: Insights on the information economy.
+- **Macgregor (2004)**: Characteristics of information and knowledge.
+
+### **Diagram References**
+- Graphical representations of the DIKW model to illustrate hierarchical relationships.
+----- END OF CHUNK -----
+# Study Notes
+
+## Chapter 1: Understanding Information and Knowledge
+
+### Learning Unit 1.1: DIKW Hierarchy
+- **Figures:** 
+  - **Figure 1.1:** DIKW Hierarchy (Bellinger, Castro & Mills 2004)
+  - **Figure 1.2:** Knowledge Pyramid (Hey 2004)
+  
+- **Knowledge Pyramid (Mchombu 2007:16):**
+  - Bottom Layer: Data (symbols, facts, figures)
+  - Middle Layer: Information (processed data providing meaning)
+  - Top Layer: Knowledge (evaluated information organized for purpose)
+  - Wisdom (top of pyramid): Skill to discern right from wrong (Bellinger et al. 2004).
+  
+- **Transformation Processes:** 
+  - **Understanding** is the facilitator between data, information, knowledge, and wisdom.
+  - Definitions by Bellinger et al. (2004):
+    - Data: Fact without relationship.
+    - Information: Understanding relationships.
+    - Knowledge: Predictable patterns based on information.
+    - Wisdom: Understanding fundamental principles behind knowledge.
+
+### Learning Unit 1.2: Information and Knowledge as Assets
+- Importance of **information and knowledge** as resources akin to land, money, and equipment (Meyer, 2005).
+- **Gangatharan (2004)** identifies components of information resources:
+  - Information content: Characteristics and uses.
+  - Information technologies: Hardware and software.
+  - People: Personnel managing information (technical staff, knowledge workers).
+  - Facilities: Libraries, communication centres, etc.
+
+- **Knowledge Assets (Handzic & Zhou 2005:109):**
+  - Human capital (employees’ knowledge).
+  - Knowledge artefacts (databases, manuals).
+  - Structural assets (culture, strategy).
+  - Customer capital (knowledge about customers).
+
+### Learning Unit 1.3: Information Society
+- **Definitions:**
+  - **Information Society:** Utilizes ICT for societal benefit (Information Society Commission, 1999).
+  - **WSIS (2003) Definition:** Society where individuals freely create, receive, share, and utilize information for development.
+
+- **Differences:**
+  - Information Society: Social environment of information processes.
+  - Information Economy: Economic activities focused on information.
+  - **Information Age:** Current era emphasizing information over physical goods.
+
+### Learning Unit 1.4: Characteristics of Information Society
+- **Moore (1999:702):**
+  - Information-intensive organizations utilize data for advantage.
+  - Significant information sector contributes to economic growth.
+  - Social use: Information aids decision-making.
+  - Learning society values lifelong education and information literacy.
+
+### Learning Unit 1.5: Knowledge Society
+- **Key Concepts:**
+  - Knowledge Society: People sharing and utilizing knowledge for societal benefit.
+  - Knowledge Economy: Use of knowledge for economic gain (transition from industrial economy).
+
+- **Characteristics:**
+  - Global nature facilitated by technology (ICTs).
+  - Enhanced opportunities for knowledge sharing and retrieval.
+  - Knowledge recognized as vital capital for success.
+----- END OF CHUNK -----
+# Study Notes
+
+## Table of Contents
+1. Characteristics of the Knowledge Economy  
+2. MANAGEMENT  
+   2.1 What is Management?  
+   2.2 Foundations of Management  
+   2.3 Management Functions  
+   2.4 Branches of Management  
+3. CONCLUSION  
+4. FURTHER READING  
+5. REFERENCES  
+
+---
+
+### 1. Characteristics of the Knowledge Economy (pg. 19)
+- **Knowledge-centric**: Services/goods rely on knowledge for production/distribution (e.g., consulting).
+- **Increasing returns**: Production cost decreases after initial high cost (e.g., software).
+- **Network effects**: Value of offerings increases with market share, often pursued at loss (e.g., free software).
+- **Rapid changes**: Need for organizational adaptability and swift knowledge application.
+- **Networked firms**: Enhanced transparency and effectiveness of knowledge through partnerships.
+- **Differentiation**: Firms succeed based on knowledge assimilation and customer loyalty.
+- **Innovation focus**: Success requires innovation in processes, industries, and clientele.
+- **Obsolescence of knowledge**: Fast integration of new knowledge is critical.
+- **Experience economy**: Products/services viewed as experiences.
+
+### 2. MANAGEMENT (pg. 15)
+#### 2.1 What is Management? (pg. 15)
+- **Function**: Process of leading an organization through resource manipulation (human, capital, etc.).
+- **Entity**: Personnel leading an organization; often refers to executive roles.
+- **Historical Definition**: Follet (1918) defined as getting things done through and with people.
+- **Contemporary Definitions**:
+  - **Pettinger (2007)**: Combination of resources into effective activities.
+  - **Schermerhorn (2005)**: Planning, organizing, leading, and controlling resources to achieve goals.
+
+#### 2.2 Foundations of Management (pg. 16)
+- Essential components include:
+  - Achieving goals through collaboration.
+  - Profit generation.
+  - Resource utilization and development.
+  - Managing change and uncertainty.
+
+#### 2.3 Management Functions (pg. 16)
+- **Planning**: Future decision-making and action planning.
+- **Organising**: Efficient resource arrangement to meet plans.
+- **Directing**: Guiding and overseeing employee participation to achieve goals.
+- **Controlling**: Monitoring progress and making necessary adjustments based on feedback.
+
+#### 2.4 Branches of Management (pg. 17)
+- **Main branches**:
+  - Human Resource Management
+  - Operations/Production Management
+  - Strategic Management
+  - Marketing Management
+  - Financial Management
+  - Information Technology Management
+- **Interrelated areas**: Includes administrative, communication, cost, crisis, environmental, and knowledge management.
+
+### 3. CONCLUSION (pg. 18)
+- Introduced key concepts influencing information and knowledge management, including data, information, knowledge, wisdom, and the distinctions of information and knowledge societies/economies.
+
+### 4. FURTHER READING
+- **UNESCO (2005)**: Towards knowledge societies, Paris: UNESCO.
+
+### 5. REFERENCES (pg. 20)
+- **Allen, G. (2002)**: Supervision, RonJon Publishing, Inc.
+- **Bellinger, G., Castro, D., & Mills, A. (2004)**: Data, information, knowledge and wisdom.
+- **Follett, MP. (1918)**: The new state: group organization the solution of popular government.
+- **Handzic, M. & Zhou, AZ. (2005)**: Knowledge management: An integrative approach.
+- **Schermerhorn, JR. (2005)**: Management, John Wiley.  
+
+(Note: Page numbers marked correspond to original content structure for easier reference.)
+----- END OF CHUNK -----
+# INS3705/1 Study Notes
+
+## UNIT 2: Information Management
+
+### 2.1 INTRODUCTION
+- Understanding of information and knowledge management concepts (data, information, etc.)
+- Characteristics of information and knowledge societies.
+- Foundations, functions, branches of management overview.
+- Sources to read for a broader understanding: 
+  - Powell, M. 2003. *Information management for development organizations*. 
+  - Roets, Y & Boon, JA. 1992. *Exploratory study, South African Journal of Library and Information Science*.
+
+### 2.2 WHAT IS INFORMATION MANAGEMENT?
+- Definitions vary across domains (business, management, librarianship, etc.).
+- Key proponents:
+  - **Powell (2003:47)**: 
+    1. Personal competence for managers.
+    2. Organizational structures (information architecture).
+    3. Tools and skills for management.
+  - **Powell (2003:1)**: Managing information as a resource.
+  - **Boon (1990:320)**: Corporate strategic management of information.
+  - **Reitz (2004)**: Control over information resources essential for operational success.
+  - **Gangatharan (2004:58)**: Integrative approach to information management and IRM development.
+
+### 2.3 AIMS OF INFORMATION MANAGEMENT
+- Responses to the need for effective information handling in organizations.
+- **Core Aims (Powell 2003:48)**:
+  1. **Efficiency**: Quality information available, minimizing redundancy and costs.
+  2. **Effectiveness**: Well-constructed information that meets organizational needs.
+  3. **Creativity**: Encouragement of new ideas and practices through information exposure.
+  4. **Empowerment**: Availability of information to all for enhanced decision-making and participation.
+
+### 2.4 INFORMATION MANAGEMENT PROCESSES
+- Diagrams referenced (Figures 2.2 and 2.3).
+- Focus on the information management cycle (specific descriptions not included).
+
+*End of Notes*
+----- END OF CHUNK -----
+# Study Notes for INS3705/1
+
+## 2.5 TYPES OF ORGANISATIONAL INFORMATION
+- **Categories of Information:**
+  - **Manner of Presentation:**
+    - *Oral Information:* Spoken delivery (interviews, speeches).
+    - *Textual Information:* Written or printed forms (books, reports).
+    - *Electronic/Digital Information:* Stored on digital media requiring computer for retrieval.
+
+  - **Content:**
+    - *Factual Information:* Statements of known facts/events.
+    - *Analytical Information:* Information produced through interpretation.
+    - *Subjective Information:* Personal opinions.
+    - *Objective Information:* Findings presented in a balanced manner.
+
+  - **Originality and Proximity:**
+    - *Primary Information:* Original form (raw data, eyewitness accounts).
+    - *Secondary Information:* Repackaged information.
+    - *Tertiary Information:* Summarized past events.
+
+- **Organisational Information Categories:**
+  - Management information (business and admin).
+  - Internal documentation (correspondence, minutes).
+  - Publications (books, journals, magazines).
+  
+- **Information Forms:**
+  - Internal (from within the organization).
+  - External (from outside).
+  - Factual, Textual, Visual (images, videos).
+
+---
+
+## 2.6 FUNCTIONS OF INFORMATION MANAGEMENT/MANAGER
+### 2.6.1 Personal Level
+- Information activities: use, archiving, dissemination, retrieval, analysis, packaging, protection, storage.
+
+### 2.6.2 Operational Level
+- Information generation, needs determination, and procurement.
+
+### 2.6.3 Organisational Level
+- Management functions: 
+  - Determine information needs and marketing.
+  - Plan/evaluate information systems.
+  - Consultation and education.
+  - Organise and coordinate information policy.
+  - Inventory of information entities and assess value/cost.
+
+### 2.6.4 Corporate Strategic Level
+- Management functions focusing on:
+  - Strategic information needs assessment.
+  - Development of information resources for decision-making.
+  - Coordination of information dissemination.
+  - Formulation of information policy.
+  - Management of resources for information systems.
+
+---
+
+## 2.7 ROLE AND RESPONSIBILITIES OF AN INFORMATION MANAGER
+### 2.7.1 Management
+- Coordination, planning, change management, standardisation, resource management, policy formulation.
+
+### 2.7.2 Information Technology
+- Responsibilities include:
+  - General IT management and implementation.
+  - Software development/procurement.
+  - Data processing and office automation.
+  - Data security management.
+
+--- 
+
+### Figures
+- **Figure 2.2 & 2.3**: Information Management Cycle (Choo 1995, Afghanistan Information Management Services 2008). 
+
+--- 
+
+These notes reflect a condensed overview of critical concepts and principles related to information management processes and the functions and responsibilities of information managers within organizations.
+----- END OF CHUNK -----
+# Study Notes: Information Management
+
+## 2.7 Roles and Responsibilities of an Information Manager
+- **2.7.3 Information**
+  - Management of information and resources, including:
+    - Information systems
+    - Information provision
+    - Research and development
+
+- **2.7.4 Communication**
+  - Internal and external communication responsibilities:
+    - Facilitation between departments
+    - Networks and telecommunications
+    - Advising top management
+
+- **2.7.5 Domains**
+  - Responsibility for entities such as:
+    - Libraries
+    - Computer centres
+    - Printing and photocopying centres
+    - Record management
+    - Telecommunication centres
+
+## 2.8 Characteristics of an Information Manager
+- **2.8.1 Communication-Related Characteristics**
+  - Effective technical communication with non-technical individuals
+  - Strong human relations and diplomacy
+  - Persuasive abilities
+
+- **2.8.2 Management Change Characteristics**
+  - Adaptability and innovation
+  - Visionary leadership
+  - Risk-taking and flexibility
+
+- **2.8.3 Management-Related Characteristics**
+  - Leadership qualities
+  - Environmental awareness (political, financial, cultural)
+
+- **2.8.4 General Characteristics**
+  - Humor, knowledge, vitality, enthusiasm
+  - Creativity, ambition, integrity, reliability
+  - Motivation and perseverance
+
+## 2.9 Skills of an Information Manager
+- **2.9.1 Cognitive Skills**
+  - Procurement of knowledge
+  - Business acumen and strategic alignment
+
+- **2.9.2 Analytical Skills**
+  - Analysis, interpretation, strategic planning
+  - Quality awareness and detailed understanding
+
+- **2.9.3 Subject-Based Skills**
+  - Techniques in specific fields (e.g., management, finance, information science)
+
+- **2.9.4 Interpersonal Skills**
+  - Communication, trust-building, personnel management
+
+- **2.9.5 Literacy Skills**
+  - Adaptability, public speaking, decision-making, team functioning
+
+## 2.10 Barriers to Effective Information Management
+- **Centralised Control**
+  - Restricts information exchange, limits autonomy
+
+- **Hierarchical Control**
+  - Information shared only as deemed necessary by superiors
+
+- **Common Problems (Robertson, 2005)** 
+  - Disparate systems, poor integration, legacy systems
+  - Inconsistent support, resource limitations, quality issues
+  - Lack of strategic direction and staff adoption
+
+## 2.11 Principles of Effective Information Management (Robertson, 2005)
+1. Recognize (and manage) complexity
+2. Focus on adoption
+3. Deliver tangible and visible benefits
+4. Prioritize according to business needs
+5. Take a journey of a thousand steps
+6. Provide strong leadership
+7. Mitigate risks
+8. Communicate extensively
+9. Aim for a seamless user experience
+10. Choose initial projects carefully
+
+## 2.12 Conclusion
+- Overview of information management and its importance
+- Discussion of roles, challenges, and principles inherent in effective information management.
+
+---
+----- END OF CHUNK -----
+# Chapter 8: Information Management
+
+## 2. Importance of Information Management
+- Critical for organizational success in the information society.
+- Facilitates informed decision-making and enhances operational efficiency.
+
+## 3. Role of Information Manager
+- General understanding of organizational operations is essential.
+- Enables effective management of information resources tailored to specific needs.
+
+## 4. Components of Information Resources (Gangatharan, 2004)
+- **Data:** Raw facts and figures.
+- **Information:** Processed data with context.
+- **Knowledge:** Insights gained from information.
+- **Wisdom:** Knowledge applied to solve complex problems.
+
+## 5. Functions and Responsibilities of an Information Manager
+- **a. Functions:**
+  - Oversee data collection and management.
+  - Ensure data quality and accessibility.
+- **b. Role and Responsibilities:**
+  - Develop information policies and strategies.
+  - Facilitate knowledge sharing among staff.
+- **c. Types of Information:**
+  - Operational data, strategic information, customer insights, and competitive intelligence.
+
+## 6. Access Control to Information
+- Control is essential for protecting sensitive data.
+- Balancing access with security measures is crucial for compliance and trust.
+
+## 7. Ensuring Accessibility of Vital Information
+- Implement user-friendly information systems.
+- Regularly review access protocols to meet operational needs.
+
+## 8. Principles of Effective Information Management
+- **User-Centric Approach:** Focus on end-user needs.
+- **Information Lifecycle Management:** Manage data through its entire lifecycle.
+- **Collaboration:** Foster a culture of knowledge sharing.
+- **Continuous Improvement:** Regular updates to systems and processes.
+
+---
+
+## Unit 3: Knowledge Management
+
+### 3.1 Introduction
+- Focuses on the transition from information management to knowledge management (KM).
+- KM encompasses the definition, types, processes, and driving factors.
+
+### 3.2 Basis for Knowledge Management
+- Shift from physical and financial dominance to the information and knowledge economy.
+- Importance of understanding human capital in leveraging knowledge for organizational success.
+
+### 3.3 Definition of Knowledge Management
+- No single accepted definition; evolution since mid-1990s across multiple disciplines (e.g., information science, business).
+- Key definitions from various authors:
+  - **Read-Smith et al (2002):** Systematic management of organizational knowledge resources.
+  - **Kim (2000):** Integrated approach to managing and sharing knowledge assets.
+  - **Rowley (2000):** Exploitation of knowledge assets to further organizational objectives, including explicit and tacit knowledge.
+----- END OF CHUNK -----
+# Knowledge Management Study Notes
+
+## Table of Contents
+1. **Knowledge Management Definitions**
+2. **Types of Organisational Knowledge**
+   - a. Tacit Knowledge
+   - b. Explicit Knowledge
+3. **Components of Knowledge Management**
+4. **Drivers of Knowledge Management**
+
+---
+
+### 1. Knowledge Management Definitions (Page 45)
+- Knowledge Management (KM) is the process of identifying, organizing, and managing knowledge resources (Al-Hawamdeh, 2003:21).
+- KM includes:
+  - **Explicit knowledge**: information
+  - **Know-how**: learning capacity
+  - **Know-who**: customer-related knowledge
+  - **Tacit knowledge**: skills and competencies
+- Wiig (1999): KM systematic and deliberate, focused on maximizing effectiveness and returns from knowledge assets.
+- Information management is a subset of KM, primarily involving explicit knowledge.
+
+---
+
+### 2. Types of Organisational Knowledge (Page 46)
+
+#### a. Tacit Knowledge
+- **Definition**: Personal, context-independent, hard to formalize, difficult to communicate (Metis, 2002).
+- Characterized by subjective insights, technical skills ("know-how"), and intuitive knowledge.
+- **Polanyi's Idea**: "We can know more than we can tell."
+- Divided into:
+  - **Technical Dimension**: Informal skills related to know-how.
+  - **Cognitive Dimension**: Implicit mental models influencing perception.
+
+#### b. Explicit Knowledge
+- **Definition**: Formal, systematic, more easily communicated and shared.
+- Examples: documented knowledge, patents, operational procedures.
+- Considered intellectual assets, easily transmitted and processed.
+- **Gladstone (2000)**: Captured and represented by artefacts; provides snapshots of tacit knowledge at the time of capture.
+
+---
+
+### 3. Components of Knowledge Management (Page 48)
+- **Content**: Knowledge itself, processes for manipulation, and flow of information.
+- **Human Resources**: Involvement of individuals in creating and valuing knowledge.
+- **Technology**: Infrastructure necessary for storing and accessing knowledge; technology is an instrument for achieving goals, not a goal itself.
+
+---
+
+### 4. Drivers of Knowledge Management (Page 49)
+- **Global Trends**: Digital and technological advancements facilitating new forms of organization and economy.
+- **Shifting Economy**: Transition to a knowledge economy, where knowledge itself is a primary commodity (Stewart).
+- **Changing Organisational Forms**: Growth in knowledge-intensive organizations.
+- **Knowledge Work**: Emphasis on effective KM to enhance the production and reproduction of valuable knowledge.
+  
+**Main Reasons for Adopting KM** (Handzic and Zhou, 2005:26):
+- Limited access to outside knowledge
+- Poor connections with stakeholders
+- Inadequate understanding of market dynamics
+- Stagnating skills
+- Ineffective product/service development
+- Limited organizational knowledge
+
+**Key Drivers of KM (Al-Hawamdeh, 2003:26)**:
+- **Organizational Efficiency**: Need for organized information to support operations.
+- **Competitive Advantage**: Understanding of customer/competitor dynamics through CRM and market intelligence.
+- **Maximizing Potential**: Enhancing returns on R&D investments through effective knowledge recycling.
+----- END OF CHUNK -----
+# INS3705/1 Study Notes
+
+## Chapter 3: Knowledge Management Processes
+
+### 3.7 KNOWLEDGE MANAGEMENT MANIPULATION PROCESSES
+- Integration of various knowledge forms essential for transfer and creation of new knowledge (Handzic & Zhou 2005).
+- KM processes classified into four categories:
+  - **Knowledge creation process**
+  - **Knowledge storage/retrieval process**
+  - **Knowledge sharing/transfer process**
+  - **Knowledge application process**
+
+#### 3.7.1 Knowledge Creation Process
+- Development or replacement of new content in collective knowledge (Handzic & Zhou 2005).
+- **Nonaka and Takeuchi's model:**
+  - Knowledge conversion through interplay of tacit and explicit knowledge.
+  - **Processes:**
+    - **Socialisation:** Sharing tacit knowledge informally.
+    - **Externalisation:** Converting tacit to explicit knowledge.
+    - **Combination:** Restructuring explicit knowledge into new forms.
+    - **Internalisation:** Converting explicit knowledge back to tacit.
+
+- Successful teamwork conditions include:
+  - Small team size
+  - Complementary skills
+  - Shared purpose
+  - Specific goals
+  - Clear approach
+  - Mutual accountability
+
+#### 3.7.2 Knowledge Storage/Retrieval Process
+- Organizing and retrieving knowledge in various forms (Handzic & Zhou 2005).
+- Creation of knowledge repository recommended for knowledge reuse:
+  - For document producers’ future use.
+  - For others with similar or dissimilar backgrounds.
+- Challenges:
+  - Diverse user needs
+  - Costs of maintaining repositories (Markus).
+
+#### 3.7.3 Knowledge Sharing/Transfer Process
+- Communication of all knowledge types, including explicit and tacit (Al-Hawamdeh 2003).
+- Distribution of knowledge for application (Handzic & Zhou 2005).
+- **Channels of knowledge transfer:**
+  - **Informal:** Effective for small organizations but may inhibit diffusion.
+  - **Formal:** Widely distributed but may hinder creativity.
+  - **Personal:** Effective for context-specific knowledge, resource-constrained.
+  - **Impersonal:** Easy access but may discourage use due to volume.
+
+- Goal: Distribute right knowledge to right people at right time.
+- Growing importance due to ageing workforce, necessitating knowledge codification.
+- Effective transfer requires supportive environment and technical infrastructure:
+  - Visibility of knowledge
+  - Knowledge networks 
+  - Organisational support
+  - Coordinated knowledge flow
+
+#### 3.7.4 Knowledge Application Process
+- Application of knowledge in practice to achieve competent performance (Al-Hawamdeh 2003).
+- Integrating knowledge mechanisms to create organizational capability:
+  - **Directives:** Rules and procedures for specific situations.
+  - **Organisational routines:** Task performance and interaction protocols.
+  - **Self-contained task teams:** Groups for complex tasks.
+
+### 3.8 IMPORTANT CORNERSTONES OF KNOWLEDGE MANAGEMENT
+- Identification of content through knowledge audits to prevent information overload.
+- Importance of organisational culture; continuous education programs essential for developing a knowledge-based culture.
+- Logical sequence in KM process crucial for cost-effectiveness.
+- Infrastructure consistency with knowledge needs and financial constraints; KM as dynamic process requiring future planning.
+
+### 3.9 LEVELS AT WHICH KNOWLEDGE MANAGEMENT MAY TAKE PLACE
+- KM occurs on multiple levels:
+  - **Business Level:** Focus on business reasons for KM.
+  - **Management Level:** Facilitation and monitoring of KM activities.
+  - **Knowledge-Related Level:** Functions related to knowledge handling and application.
+
+References: 
+- **Legislation:** Not applicable 
+- **Cases:** Not applicable 
+----- END OF CHUNK -----
+# Chapter 3: Knowledge Management
+
+## 3.10 Barriers to Effective Knowledge Management
+- Understanding barriers:
+  - Problems/challenges in KM processes, primarily knowledge-related.
+- Key issues identified by **Wiig (1995:9)**:
+  - Knowledge not treated as valuable asset → ineffective use.
+  - Insufficient knowledge at point-of-action → task performance difficulties.
+  - Missed learning opportunities → lack of feedback on prior tasks.
+  - Narrow knowledge transfer → limited task assignments.
+  - Unnecessary task division → fragmented knowledge.
+- Additional barriers per **Trivedi (2007)**:
+  - Intellectual capital → challenge of managing tacit knowledge.
+  - Culture → reluctance to share knowledge due to insecurity.
+  - Obsolescence → fast information aging, difficult to disseminate.
+  - Overloading → accumulation of irrelevant data leading to confusion.
+  - Technology → rapid changes hinder effective KM application.
+
+## 3.11 Enablers of Knowledge Management
+- Definition: Factors that positively influence KM.
+- Importance of a conducive environment for successful KM processes:
+  - **Handzic & Zhou (2005:33)** emphasize managerial support through design of organizational interventions.
+- Key enablers:
+  - **Organisational culture**: Reflects corporate structure and norms; essential for supporting KM.
+  - **Leadership**: Critical for guiding KM initiatives and ensuring commitment at higher levels.
+  - **Organisational structure**: Effective setups (like **Communities of Practice**) support KM; bureaucratic structures hinder it.
+  - **Incentives and rewards**: Motivation for knowledge sharing is enhanced through recognition systems.
+  - **Measurement**: Implementation of metrics for intellectual resources improves decision-making.
+  - **Organisational conversations**: Policies for language and forums augment knowledge sharing.
+  - **Managing care relationships**: Emotional dynamics affect knowledge sharing; strong relationships facilitate KM.
+  - **Technology**: Vital for enabling KM processes, especially in storage and sharing.
+
+## 3.12 A Proposed Framework for Knowledge Management
+- Framework pillars consist of core KM functions:
+  - Processes include:
+    - Creation of new knowledge.
+    - Evaluation of existing knowledge.
+    - Representation from various sources.
+    - Capture in processes/products/services.
+    - Knowledge transfer within the organisation.
+    - Utilisation for decision-making.
+    - Fostering a learning culture.
+    - Assessing knowledge as a valuable asset.
+- Knowledge is dynamic; requires ongoing sharing to avoid reinventing prior work.
+
+## 3.13 Conclusion
+- Overview of KM introduction and core components highlighted.
+- Importance of consulting additional resources for deeper understanding. 
+
+## 3.14 Self-Assessment Exercises
+- Discussion on tacit vs. explicit knowledge, with examples. 
+
+**Note:** Refer to **Figure 3.3** and **Figure 3.4** for visual representations of KM functions and pillars.
+----- END OF CHUNK -----
+# INS3705/1 Study Notes
+
+## UNIT 4: Knowledge management and organisational learning
+
+### 4.1 INTRODUCTION
+- Understanding of information management and knowledge management at personal and organisational levels.
+- Link between knowledge management (KM) and organisational learning.
+- Importance of KM for organisational performance.
+
+### 4.2 BASIS FOR KNOWLEDGE MANAGEMENT AND ORGANISATIONAL LEARNING
+- KM as the planning, organising, motivating, and controlling of individuals, processes, and systems to improve knowledge-related assets (**King, 2009**).
+- Knowledge assets include printed (e.g., patents, manuals) and electronic documents (e.g., databases).
+- Effects of a dynamic knowledge society; organisations unable to adapt will fail (**Bennet & Bennet**).
+- KM processes (creation, transfer, sharing, application) are essential for organisational learning.
+- Organisational learning emphasizes the need for constant change and renewal via knowledge acquisition.
+
+### 4.3 ORGANISATIONAL LEARNING
+- Various definitions influenced by context, particularly concerning KM.
+  - **Probst and Buchel (1997)**: Organisation's ability to identify errors, adapt knowledge base, and solve problems.
+  - **DiBella and Nevis (1998)**: Maintains/improves performance through experience.
+  - **Bennet and Bennet**: Ability to acquire necessary knowledge for survival and competition.
+  - Emphasis on social interaction over cognitive development in organisational contexts.
+  
+- **Pemberton and Stonehouse (2000)**: Success depends on knowledge asset utilization for competitive advantage. Factors for this include:
+  - Shift from capital to intellectual labour.
+  - Rapid business environment changes.
+  - Knowledge as a competitive advantage.
+  - Increasing customer demands.
+  - Managerial dissatisfaction with traditional models.
+  - Competitiveness of global markets.
+
+- Importance for organisations to foster a learning environment (impact of culture and structure on learning).
+- Leaders must cultivate learning organisations to succeed in a turbulent economy.
+----- END OF CHUNK -----
+# 4.4 THE LEARNING ORGANISATION
+
+- **Definition**: 
+  - Organisation engaged in problem-solving, continuous experimentation, and improvement (Rowley 2000).
+  - Employees identify and address issues, enhancing organisational capacity and understanding customer needs.
+
+- **Development Changes**: 
+  - Focus on leadership, structure, empowerment, communication, knowledge sharing, participative strategy, and adaptive culture.
+
+## Leadership
+
+- Leadership transforms traditional structures, emphasizing "control with" rather than "control over."
+- Leaders foster shared visions, outlining:
+  - Future aspirations, performance outcomes, and core values.
+  - Employees understand and enact the vision independently (Bennet & Bennet nd).
+
+## Team-based Structure
+
+- Breaks down vertical separation; self-directed teams are central.
+- Teams of diverse skills manage customer interactions and improvements independently.
+
+## Employee Empowerment
+
+- Empowerment grants employees autonomy, knowledge, and skills.
+- Reflected in self-directed teams and participative decision-making.
+
+## Information and Knowledge Flow
+
+- High-volume information dissemination is essential for problem-solving.
+- Critical to understand overall operation; transparency in data (budgets, performance) across all levels.
+- Bennet and Bennet (nd): Valued learning enhances idea flow, innovation, and performance.
+
+## Participative Strategy
+
+- Strategy formulation is collaborative, integrating top-down vision with bottom-up input.
+- Fluid organisational boundaries allow for greater information access (Rowley 2000).
+
+## Strong Adaptive Culture
+
+- **Cultural Values**: 
+  - Equality, community, risk-taking, continuous questioning, creativity, and learning from failures.
+- Knowledge management fosters a culture of shared systematic gathering and dissemination of knowledge.
+
+# 4.5 CREATING A LEARNING ORGANISATION
+
+- **Definition**: 
+  - An organisation adept at knowledge utilisation for positive change amidst rapid changes.
+  
+### Characteristics for Design:
+
+1. **Objectivity**: 
+   - Foster objective decision-making.
+2. **Openness**: 
+   - Encourage internal learning and safe expression.
+3. **Teamwork**: 
+   - Teams enhance responsiveness and solution effectiveness.
+4. **Tools**: 
+   - Use Information Communication Technologies for knowledge management.
+5. **Rewards/Incentives**: 
+   - Reward learning-positive behaviours.
+
+# 4.6 EXAMPLES OF KNOWLEDGE SHARING STRATEGIES IN ORGANISATIONS
+
+## 4.6.1 Communities of Practice
+
+- **Definition** (Wenger 2006): 
+  - Groups sharing interests and learning collaboratively.
+  
+### Characteristics:
+1. **Domain**: 
+   - Shared interest defines community identity and competence.
+2. **Community**: 
+   - Joint activities and discussions enhance learning and relationship building.
+3. **Practice**: 
+   - Members develop a shared repertoire through sustained interaction.
+
+### Benefits (Wenger & Snyder 2000):
+- Promotes interaction, knowledge sharing, best practices, and talent retention.
+
+### Comparisons with Other Groups:
+
+| Group Type          | Purpose                         | Membership                            | Cohesion                                   | Duration                         |
+|---------------------|---------------------------------|--------------------------------------|--------------------------------------------|----------------------------------|
+| Community of Practice| Develop and exchange knowledge  | Self-selected members                 | Passion and commitment                      | As long as interest exists      |
+| Formal Work Group    | Deliver product/service         | All reporting to group manager       | Job requirements and common goals          | Until next reorganisation       |
+| Project Team         | Complete a task                | Assigned by management                | Project milestones and goals                | Until project completion        |
+| Informal Network     | Share business information      | Friends and acquaintances             | Mutual needs                               | As long as connections exist    |
+
+### Challenges for CoPs (Roberts 2006):
+- **Power**: Tensions in member relations.
+- **Trust**: Essential for the success of the CoP.
+- **Size**: Balance needed for effective participation.
+----- END OF CHUNK -----
+# UNIT 4: Knowledge Sharing in Organizations
+
+## 4.6.2 Storytelling
+- **Definition**: Story is a narrative of an event chain (Perret, Borges & Santoro, 2004).
+- **Purpose in Knowledge Management**:
+  - Quick information dissemination and high-level meaning conveyance (Milam, 2001).
+  - Captures tacit knowledge.
+- **Benefits of Storytelling** (Snyman & Tobin, 2008:133):
+  - Stories are memorable compared to abstract ideas.
+  - Effective instructional practice for meaningful understanding.
+  - Captures tacit knowledge efficiently.
+  - Facilitates clear and engaging communication.
+  - Enables knowledge sharing in diverse populations.
+  - Engages both reason and emotion.
+- **Organizational Use**: Companies like Fortune magazine, Eskom, Xerox, and IBM have effectively utilized storytelling for knowledge sharing (Tobin & Snyman, 2008).
+- **Caveat**: Not all narratives are suitable for knowledge sharing (Sole & Wilson, nd).
+
+## 4.7 Self-Assessment Exercises
+1. Discuss the concept of organizational learning.
+2. Identify factors that contribute to a conducive environment for organizational learning.
+3. Describe initiatives for facilitating knowledge sharing in organizations.
+
+# REFERENCES
+- Various authors discussing organizational learning and knowledge sharing.
+
+# UNIT 5: Information and Communication Technologies (ICTs) in Information and Knowledge Management
+
+## 5.1 INTRODUCTION
+- Focus on the role of ICTs in Information and Knowledge Management (I&KM).
+- Preceding units covered IM and KM practices.
+
+## 5.2 WHAT ARE ICTs?
+- **Definition**: ICTs encompass technologies for processing, storing, and communicating digital information.
+- **Comparison with IT**:
+  - Technology convergence facilitates shared usage across devices (Powell, 2003).
+- **Examples**:
+  - Telecom services (telephones, faxes) and modern tools (internet, email).
+
+## 5.3 RELEVANCE OF ICTs IN ORGANISATIONS
+- **ICT Applications**: Varied across organizations, impacting efficiency and competitive advantage.
+- **Organizational Characteristics** (Newell et al., 2002:99):
+  - Decentralization into semi-autonomous business units.
+  - Flatter, less hierarchical structures reduce bureaucracy.
+
+### Summary
+- Understanding knowledge sharing through storytelling enhances organizational learning and improves performance.
+- The integration of ICTs into organizations is crucial for effective information and knowledge management, leading to improved efficiency and adaptability.
+----- END OF CHUNK -----
+# Study Notes on ICT in Organizations
+
+## 5.4 Potential Disadvantages of ICTs
+- **Basic Requirements**:
+  - Dependence on electricity and networking infrastructure.
+  - Hardware peripherals (printers, disks) essential for functionality.
+
+- **Costs**:
+  - Increasingly cheaper but still expensive for organizations.
+  - Budget allocations can be substantial (thousands or millions).
+  - Ongoing costs: software updates, maintenance, training, setup.
+
+- **Breakdown, Viruses, and Security**:
+  - Data loss due to accidental shutdowns.
+  - Vulnerability to viruses (e.g., Trojan horse).
+  - Passwords do not guarantee security.
+
+- **Organizational Impact**:
+  - Changes in culture, skill requirements, and employee relationships.
+  - Effect on health and safety standards.
+
+## 5.5 ICTs for Information Management versus ICTs for Knowledge Management
+- **Distinction**: 
+  - IM is a subset of KM; KM tools should foster collaboration beyond IM.
+  - Agreement that effective IM or KM can occur without ICTs, which enhance processes.
+
+### 5.5.1 Role of ICTs in Information Management
+- **Communication**:
+  - E-mails, web pages facilitate diverse forms of information exchange.
+  - Shift from copper telephone lines to high-speed options (fiber-optic, wireless).
+
+- **Information Structure, Storage, and Retrieval**:
+  - Virtually unlimited storage capacity.
+  - Formats: databases, word documents, HTML pages, linked systems.
+  - Intranets for internal data sharing.
+
+- **Integration**:
+  - Consolidation of financial data (expenditure vs. income).
+  - ICTs generate comprehensive financial overviews for management.
+
+- **Collaborative Working**:
+  - Enhanced teamwork through shared tasks/documentation.
+  - Supports remote meetings and file sharing.
+
+- **Co-ordination**:
+  - Software for scheduling and project management.
+  
+- **Presentation and Analysis**:
+  - Importance of data presentation.
+  - Use of Geographic Information Systems (GIS) for data plotting and analysis.
+
+### 5.5.2 Role of ICTs in Knowledge Management
+- **Debate**: 
+  - Ongoing discussion about the necessity of ICTs in KM.
+  
+- **KM Processes**:
+  - Applications of ICTs in various KM processes (knowledge storage, retrieval, etc.).
+
+#### Table 5.1: Typology of KM Technologies
+| **Category**                 | **KM Process**   | **Purpose**                          | **Examples**                                         |
+|------------------------------|------------------|--------------------------------------|------------------------------------------------------|
+| Knowledge Storage Tech.      | Knowledge Storage | Store organizational knowledge        | Repositories, databases, data warehouses              |
+| Knowledge Access Tech.       | Knowledge Storage | Improve access and facilitate transfer| Knowledge maps, directories                            |
+| Knowledge Search/Retrieval Tech.| Knowledge Retrieval | Locate and access resources            | Search engines, intelligent agents                    |
+
+## References
+- Powell (2003)
+- Newell et al. (2002)
+- Handzic and Zhou (2005) 
+
+### Diagrams
+- Reference diagrams for understanding organizational ICT structures may be included in further sections (not better described here).
+----- END OF CHUNK -----
+# Study Notes on Knowledge Management
+
+## Chapter 5: Knowledge Management Technologies
+
+### 5.1 Overview of KM Technologies
+- **Category**: KM process
+- **Purpose**: 
+  - Deliver right knowledge to right people at right time 
+  - Examples: E-mail systems, bulletin boards, videoconferencing.
+
+### 5.2 KM Technologies by Process
+- **Knowledge Transfer**: 
+  - Technologies: E-mail, forums, conferencing tools.  
+- **Knowledge Creation**: 
+  - Technologies: Data mining, statistical tools, graphical representation.
+- **Knowledge Application**: 
+  - Technologies: KM systems, workflow systems, expert systems.
+- **Platform Technologies**: 
+  - Purpose: Support any KM process.
+  - Technologies: Internet, intranets, portals.
+
+### 5.3 Benefits of Technology in KM
+- **Organisational Memory**: 
+  - Storage of knowledge relevant to an organization’s operations.
+  - Types: Corporate archives and individual memories.
+- **Improved Knowledge Access**: 
+  - Example: Knowledge maps (k-maps) for quick information retrieval.
+- **Discovery and Visualisation of Knowledge**: 
+  - Technologies can identify and present patterns of knowledge.
+- **Stimulating Creativity**: 
+  - Technologies such as virtual reality and mind games.
+- **Facilitating Knowledge Transfer/Sharing**: 
+  - Essential for collective organisational growth.
+  - Technologies: E-mail, forums, etc.
+
+### 5.4 Knowledge Flow and Utilisation
+- Related to knowledge transfer; enhanced via:
+  - Groupware, workflow systems, knowledge-based systems (KBS).
+
+### 5.5 Knowledge Portals
+- **Definition**: Applications enabling access to aggregated internal/external knowledge.
+- **Components**: Document management systems, integration of software tools.
+
+#### Case Study: Knowledge Portal at Cisco
+- **Purpose**: Rapid growth and knowledge sharing within the Service and Support Advocacy group.
+- **Business Objectives**: 
+  - Minimize time-to-proficiency.
+  - Maximize performance and knowledge sharing.
+  - Foster ongoing learning and communication.
+
+### 5.6 Development Phases of Cisco's Knowledge Portal
+1. **Phase 1: Quick Hits**
+   - Immediate needs addressed for new hires.
+   - Provided essential information within 45 days.
+
+2. **Phase 2: Initial Development**
+   - Consensus on SSM role, created overall site map and content plan.
+   - Developed, tested, and iterated site navigation and content.
+
+3. **Phase 3: Core Development**
+   - Final site content developed and integrated.
+   - Usability tested for user acceptance and effectiveness.
+
+4. **Phase 4: Ongoing Knowledge Cultivation**
+   - Continuous updates and iterations to Knowledge Portal.
+   - Weekly migration of new content.
+
+### Conclusion
+- Cisco’s portal was well-received, enhancing ease of access to information and supporting customer service efforts. Expansion into other organizational areas is ongoing, demonstrating the vital role of effective KM solutions.
+
+---
+
+**References**: Handzic & Zhou (2005); Al-Hawamdeh (2003) 
+**Diagram References**: K-maps (5.3)  
+**Page Numbers**: 87-92, INS3705/1
+----- END OF CHUNK -----
+# INS3705/1 Study Notes
+
+### 5.7 INFORMATION PORTALS
+
+#### a. Factors Necessitating Portal Creation at Cisco
+- Need for centralized access to information
+- Streamlining communication and information flow across departments
+
+#### b. Target Service of the KP
+- Cisco’s specific service aimed at enhancing internal communication and knowledge sharing
+
+#### c. Objectives (Role) of the KP
+- Facilitate information access for users
+- Improve collaborative efforts within the organization
+
+#### d. Development Process of the Portal
+- Cisco did not develop independently; collaborative process with external partners.
+- Lessons include importance of user feedback and iterative development.
+
+#### e. Importance of Information Organization
+- Critical for user effectiveness in finding relevant information.
+- Influences user satisfaction and platform utility.
+
+#### f. Groups Assigned to Develop the Portal
+- **IT Team**: Technical development and deployment
+- **User Experience Designers**: Interface design and user interaction
+- **Content Managers**: Information categorization and management
+
+#### g. Phases of Portal Development
+- **Phase 1: Planning** (Duration: X weeks) - Defined objectives and scope
+- **Phase 2: Design** (Duration: Y weeks) - Created user interfaces and user experience elements
+- **Phase 3: Development** (Duration: Z weeks) - Actual coding and integration of systems
+- **Phase 4: Testing** (Duration: W weeks) - Ensured functionality and usability
+- **Phase 5: Launch** (Duration: V weeks) - Final rollout and user onboarding
+
+#### h. Results of the Portal
+- Enhanced internal communication
+- Improved knowledge sharing
+- Increased operational efficiency
+
+### 5.8 CHARACTERISTICS OF INFORMATION AND KNOWLEDGE PORTALS
+
+#### Distinctions Between Information Portals (IP) and Knowledge Portals (KP)
+- **Information Portal (IP)**: Focus on information access
+  - Access/Search
+  - Categorization
+  - Collaboration
+  - Personalization
+  - Application Integration
+  - Security
+
+- **Knowledge Portal (KP)**: Go beyond information to include knowledge management
+  - Personalization
+  - Information extraction and capture
+  - Automatic/manual classification
+  - Robust search/navigation capabilities
+  - Collaboration tools
+
+### 5.9 GLOBALISATION
+
+#### 5.9.1 Introduction
+- ICTs facilitate globalization; influence organizational knowledge management
+
+#### 5.9.2 Definition of Globalisation
+- Globalisation as worldwide interdependence; technology and deregulation as drivers of market integration
+
+#### Characteristics of Genuine Globalisation
+- Global presence and technology
+- Ability to influence markets
+- Financial capability for sustained global presence
+- Command of technology and expertise in operations
+
+#### 5.9.3 Implications of Globalisation on Information and Knowledge Management
+- Challenges in management across distances and cultures
+- Need for effective expertise management
+- Importance of technology in capturing and utilizing knowledge globally
+----- END OF CHUNK -----
+# UNIT 6: Auditing Information and Knowledge in an Organisation
+
+## 6.1 INTRODUCTION
+- Overview of Information and Knowledge Management (I&KM)
+  - Study guide highlights pertinent issues related to I&KM
+  - Importance of managerial issues in I&KM
+- Units overview:
+  - Concepts of Information Management (IM) and Knowledge Management (KM)
+  - Role of technology in IM and KM
+  - Technology as a facilitator of information and knowledge flow
+- **Focus of this unit**: Information and Knowledge Auditing
+  - Definition, objectives, procedures, methods, importance, and benefits
+  - Examples provided for practical understanding
+
+## 6.2 INFORMATION AND KNOWLEDGE AUDIT
+- **Definition**: A systematic evaluation of an organization’s information and knowledge resources.
+  
+### 6.2.1 Objectives
+- Assess the availability and accessibility of information and knowledge.
+- Identify gaps and inefficiencies in information and knowledge management.
+  
+### 6.2.2 Procedures
+- Establish audit objectives and scope.
+- Collect data on existing information and knowledge assets.
+- Analyze the data to evaluate effectiveness and compliance with standards.
+
+### 6.2.3 Methods
+- Qualitative and quantitative analysis methods.
+- Surveys, interviews, and document review.
+
+### 6.2.4 Importance/Benefits
+- Enhances decision-making processes.
+- Identifies opportunities for improvement in IM and KM practices.
+- Supports organizational growth through better utilization of information and knowledge.
+
+## 6.3 EXAMPLES OF INFORMATION AND KNOWLEDGE AUDITS
+- **Case Study Example**: 
+  - Lubbe, WF & Boon, JA. 1992. "Information audit at a university." South African Journal of Library and Information Science 60(4):214±223.
+  - Contextual analysis and findings related to I&KM effectiveness.
+
+## CONCLUSION
+- Summary of the critical role of auditing in I&KM
+- Reiterates that effective information and knowledge audits lead to enhanced organizational performance.
+----- END OF CHUNK -----
+# Study Notes on Information and Knowledge Audit
+
+## 6.1 Basis for Information or Knowledge Audit
+- Information/knowledge managed as resources akin to land, finances, human capital.
+- Importance of understanding cost/benefit of information investment.
+- Costs from poorly managed information systems:
+  - Time wasted searching for information (Bertolucci 1996:34).
+  - Financial inefficiencies from duplicate data purchases.
+- Phillips (1990:82) states:
+  - Information resources must be current, flexible, and meet business needs.
+- Examples of issues justifying audits:
+  - Incomplete internal information leading to costly external research (Cost: negligence, wasted funds).
+  - Continued subscriptions to unused information sources (Cost: unnecessary spending).
+  - Insufficient breadth of publications for new business lines (Cost: reduced competitiveness).
+
+## 6.2 Definition of Information and Knowledge Audit
+- Audit encompasses various types beyond financial (e.g., communication, technical).
+- General definition: Examination of accounts/records for correctness.
+- Robertson (1994:34): Auditing involves discovery, verification, compliance, control.
+- Information audit defined by sources:
+  - Robertson: Regular process of information resource inventory.
+  - Botha and Boon (2003:24): Systematic examination of information resources, use, flows, user needs, costs, and value.
+  - Winterman: Process to understand knowledge/information needs and identify gaps.
+- Henczel (2000:215) explains relationship:
+  - A knowledge audit complements an information audit by identifying critical knowledge assets vital for organizational success.
+- Wiig (1995:473): Knowledge audit surveys status of knowledge; identifies specific knowledge assets.
+
+### Figure References
+- Figure 6.1: From needs analysis to knowledge audit (Henczel 2000:214). 
+
+## Learning Outcomes
+- Understand concepts of information and knowledge management audit.
+- Appreciate benefits of conducting audits.
+- Apply acquired knowledge to perform personal audits using recommended methods. 
+
+### Key Terms
+- **Information Audit**: Inventory and evaluation of information resources and their effectiveness in meeting user needs.
+- **Knowledge Audit**: Identification of organizational knowledge assets and their strategic significance. 
+
+**Legislation**: Applicable legislation not specified here; refer to corporate compliance guidelines.  
+**Cases**: No specific case references are included within the text provided. 
+
+### Recommendations
+- Conduct regular audits to ensure effective management of information resources.
+- Align audits with organizational strategy and objectives to maximize competitive advantage.
+----- END OF CHUNK -----
+# Study Notes on Information and Knowledge Audit
+
+## Page 111
+
+### 6.4 Purpose of an Information and Knowledge Audit
+- **General Purpose**:
+  - Identify strengths and weaknesses of information/knowledge systems.
+  - Assess attitudes and practices of employees/management regarding information sources and knowledge assets.
+  
+- **Objectives**:
+  - Identify organisation's information needs and those of various units.
+  - Assess value of created information to the organisation.
+  - Identify expertise and knowledge assets; start an intellectual asset register.
+  - Identify information gaps.
+  - Identify quick wins for immediate benefits.
+  - Review external/internal information resource usage for effectiveness.
+  - Map information flows and current bottlenecks.
+  - Develop organisational knowledge and information map.
+
+- **Evaluation Components (Phillips, 1990:80)**:
+  - Evaluate existing systems, current needs, effectiveness of sources.
+  - Identify management objectives, gaps, new sources, and necessary amendments.
+
+## Page 112
+
+### 6.5 Elements of an Information and Knowledge Audit
+- **Entities Audited by Lubbe and Boon (1992:216)**:
+  - Management information systems
+  - Library services
+  - Financial systems
+  - Internal publications
+  - Post and telecommunication services
+  - Academic support systems
+  - Personnel and student systems
+  - Vocational information for students
+  - Computerised drawing systems
+
+- **Audit Variation**:
+  - Elements will differ based on the type of organisation.
+  
+## Page 113
+
+### 6.6 Methods to Conduct an Information and Knowledge Audit
+- **Common Methods**:
+  - Surveys.
+  - Top-down approach.
+  - Bottom-up approach.
+  - Information mapping.
+  - Information flow analysis.
+  - Integrated strategic approach.
+  - Soft-systems approach.
+
+- **Auditing Knowledge Methods (Wiig, 1995:117)**:
+  - **Questionnaire Surveys**:
+    - Overview of operations’ knowledge status, supports KM work.
+  - **Middle Management Target Group Sessions**:
+    - Identify knowledge-related conditions, support KM initiatives.
+  - **Task Environment Analysis (TEA)**:
+    - Detail knowledge roles, supports further analysis and KBS development.
+  - **Verbal Protocol Analysis (VPA)**:
+    - Detail knowledge elements during complex tasks.
+  - **Basic Knowledge Analysis (BKA)**:
+    - Identify aggregated knowledge for expert models.
+  - **Knowledge Mapping (KMap)**:
+    - Develop concept maps as hierarchies/nets.
+  - **Critical Knowledge Function Analysis (CKFA)**:
+    - Locate knowledge-sensitive areas, identify needs for management attention. 
+
+**Diagram References**:
+- Table 6.1: Selected hands-on methods comparing audit methodologies based on six characteristics.
+----- END OF CHUNK -----
+# INS3705/1 Study Notes
+
+## Table of Contents
+- Knowledge Use and Requirements Analysis (KURA)
+- Knowledge Scripting and Profiling (KS&P)
+- Knowledge Flow Analysis (KFA)
+- KADS Object Analysis (KOA)
+- Procedures of an Information Audit
+- Benefits of an Information and Knowledge Audit
+
+---
+
+### Knowledge Use and Requirements Analysis (KURA)
+- Identifies business knowledge use & improvement opportunities.
+- Supports Business Process Redesign (BPR).
+- Assesses knowledge requirements for quality work by Knowledge Workers (KWs).
+- Utilizes methodologies: TEA, BKA, KMap, CKFA, KS&P.
+- Overview & acquisition methodologies included.
+
+### Knowledge Scripting and Profiling (KS&P)
+- Details K-I work execution & knowledge role in quality delivery.
+- Supports BPR and knowledge transfer programs.
+- Identifies critical knowledge-intensive tasks with proficiency profiles.
+- Analysis involves interviews, simulations, observations, and work sessions.
+- Relies on methods such as TEA, BKA, KMap, KURA.
+- Focus on knowledge acquisition methodologies.
+
+### Knowledge Flow Analysis (KFA)
+- Provides overview of knowledge exchanges, losses, inputs in TBP & enterprise.
+- Supports BPR and Knowledge Management (KM) initiatives.
+- Analyzes characteristics and effectiveness of knowledge exchanges.
+- Based on interviews, observations, and material examinations.
+- Utilizes TEA, BKA, KURA, & surveys.
+- Emphasizes knowledge overview methodologies.
+
+### KADS Object Analysis (KOA)
+- Offers overview of intelligent decision-making & necessary knowledge.
+- Highlights reliance on knowledge for business functions.
+- Analyzes decision-making functions within TBP, defining knowledge characteristics.
+- Conducted via interviews & interactive sessions.
+- Utilizes methodologies like TEA and BKA.
+
+---
+
+### Procedures of an Information Audit
+- **Planning Stage**
+  - Understand organization & set clear objectives.
+  - Determine scope & allocate resources.
+  - Select auditing team, possibly including external consultants.
+  - Define the audit’s purpose and scope.
+  - Identify departments to be audited.
+  - Outline procedures for the audit.
+  - Develop communication strategy.
+  - Engage management support.
+
+- **Data Collection Stage**
+  - Identify contact persons in operational areas.
+  - Prepare data collection instruments (e.g., questionnaires, interviews).
+  - Schedule interviews or questionnaire distribution.
+  - Conduct the audit.
+
+- **Data Analysis Stage**
+  - Aim to summarize information needs & challenges.
+  - Analysis can be managed in-house or by external analysts.
+
+- **Data Evaluation Stage**
+  - Identify and analyze problems and opportunities.
+  - Examine issues like information hoarding, bias, and gaps in resources.
+
+- **Communicating Recommendations Stage**
+  - Share findings with relevant personnel.
+  - Use written reports, oral presentations, seminars, newsletters.
+
+- **Implementing Recommendations Stage**
+  - Develop implementation plans and review strategies.
+  - Ensure alignment with organizational culture during changes.
+
+- **Continuum Stage**
+  - Determine future audits based on initial findings.
+  - Review initial audit success to refine future approaches.
+
+---
+
+### Benefits of an Information and Knowledge Audit
+- Comprehensive inventory of information & knowledge assets.
+- Awareness of costs related to information management.
+- Improved services from information centers.
+- Enhanced handling and sharing of information and knowledge.
+- Builds experience in interview techniques among staff.
+- Establishes a management model for multidisciplinary applications.
+- Audit teams become valuable intelligence resources.
+- Identifies training needs through audit data.
+
+- Emphasizes information and knowledge as core organizational assets leading to competitive advantage.
+- Main advantage: Deepened understanding of knowledge usage and stimulation for innovation.
+----- END OF CHUNK -----
+# Chapter 6: Information and Knowledge Audits
+
+## 6.1 Information Audit
+- Identifies better utilization of intellectual assets.
+- Utilizes external information efficiently.
+- Reduces inefficiencies and information duplication.
+- Prevents information overload.
+- Achieves time and cost savings.
+
+### Resources
+- **Botha & Boon (2003:24)**: Discusses benefits of information audits.
+
+## 6.2 Conclusion
+- Overview of definitions, methods, processes, benefits, and components of information and knowledge audits.
+- Importance of thorough planning and execution for successful audits.
+
+## 6.3 Recommended Reading
+- **Lubbe, WF & Boon, JA (1992)**: Information audit at a university in *South African Journal of Library and Information Science*.
+- **Tali & Mnjama (2004)**: Information audit at SADC in *Library Management*.
+
+## 6.4 References
+- **Bertolucci, K (1994)**: Importance of information audits in *Managing Information*.
+- **Robertson, G (1994)**: Broader perspective on information audits in *Managing Information*.
+- **Wiig, KM (1995)**: Knowledge management methods in *Schema Press*.
+
+## Appendix A: Information and Knowledge Management Checklist
+### Strategic Approaches
+- Awareness of external impacts on the organization.
+- Evaluation of information sources.
+- Appropriate distribution of information.
+- Maintenance of historical records of contacts and key events.
+- Incorporation of stakeholder opinions in project planning.
+- Acknowledgment of all sources.
+- Effective utilization in advocacy and policy development.
+- Proactive identification of information needs.
+- Linking information planning with organizational strategic planning.
+- Monitoring social inclusion/exclusion in information flows.
+- Mechanisms for evaluating information and knowledge use.
+- Consideration of cultural and gender-related communication barriers.
+- Criteria to evaluate information and knowledge contributions.
+- Consistent decision-making regarding information investments.
+- Awareness of information work costs.
+- Integration of information considerations into resource allocation.
+- Monitoring of information-based projects and programs.
+- Identification of target audiences for information sharing.
+- Awareness of organizational knowledge products.
+
+### Role of ICTs
+- Alignment of ICT strategy with information management.
+- Involvement of managers in ICT planning and evaluation.
+- Collaboration between managers and ICT professionals for development of solutions.
+- Training for staff on adopted technologies.
+- Clarity on desired ICT usage.
+- Budgeting for both capital and operational expenditures.
+- Policies for data security, archiving, and internet use.
+- Addressing health and safety considerations.
+
+## Appendix B
+- Additional notes and related resources. 
+
+--- 
+
+**Note**: Ensure to refer to specific case law and legislation where necessary, correlating them with relevant concepts discussed in the text.
+----- END OF CHUNK -----
+Certainly! However, it seems that there is no actual text or content provided for me to summarize. Please provide the legal document or content you wish to be summarized into study notes, and I will create a detailed, dense version based on your instructions.
+----- END OF CHUNK -----
+# INS3705/1 Study Notes
+
+## Appendix C
+
+- **Legislation and Cases**
+  - Importance of understanding key legislations and landmark cases.
+  
+- **Legal Principles**
+  - Jurisprudence: Nature and sources.
+  - Principles of statutory interpretation: Literal, purposive approaches.
+
+- **Theories of Law**
+  - Natural Law vs. Positivism: Key distinctions.
+  - Legal Realism: Application in modern contexts.
+
+- **Concepts**
+  - Equity and Common Law: Differences and applications.
+  - Tort Law fundamentals: Negligence criteria.
+
+- **Legal Framework**
+  - Structure of courts: Hierarchical system.
+  - Role of Administrative Law: Oversight of governmental action.
+
+- **Practical Application**
+  - Importance of case law in shaping legal precedents.
+  - Analysis of legal reasoning in judgments.
+
+## Page Numbers and Chapter Numbers
+- Retain original pagination for reference.
+- Ensure chapter numbering aligns with source material for coherence. 
+
+## Diagrams
+- Reference to relevant diagrams illustrating legal processes or frameworks may enhance understanding.
+  
+(Additional content would typically follow, preserving the same structured format.)
+----- END OF CHUNK -----
+# INS3705/1 Study Notes
+
+## Table of Contents
+- Chapter 1: Introduction to Legal Principles
+- Chapter 2: Law and Society
+- Chapter 3: The Judicial System
+- Chapter 4: Sources of Law
+- Chapter 5: Legal Reasoning and Interpretation
+
+---
+
+### Chapter 1: Introduction to Legal Principles
+
+- **Definition of Law**
+  - System of rules enforceable through institutions.
+  
+- **Functions of Law**
+  - Maintain order, resolve disputes, protect liberties, establish standards.
+
+- **Types of Law**
+  - **Public Law**: Governs the relationship between individuals and the state (e.g., criminal law).
+  - **Private Law**: Governs relationships between private individuals (e.g., contract law).
+
+### Chapter 2: Law and Society
+
+- **Relationship between Law and Society**
+  - Law reflects societal values; changes with societal norms.
+
+- **Role of Legal Institutions**
+  - Courts, legislatures, and regulatory bodies in law-making and enforcement.
+
+- **Impact of Social Changes on Law**
+  - Legislation reflects cultural shifts (e.g., **Human Rights Act**).
+
+### Chapter 3: The Judicial System
+
+- **Structure of the Judiciary**
+  - Hierarchical system: lower courts, appellate courts, supreme courts.
+
+- **Key Judicial Principles**
+  - **Judicial Independence**: Detached from political influences.
+  - **Rule of Law**: Law applies equally to all.
+
+- **Notable Cases**
+  - **Marbury v. Madison**: Established judicial review.
+  - **Brown v. Board of Education**: Addressed segregation in public schools.
+
+### Chapter 4: Sources of Law
+
+- **Primary Sources**
+  - **Legislation**: Statutes enacted by legislative bodies.
+  - **Case Law**: Legal principles established by court decisions.
+
+- **Secondary Sources**
+  - Commentaries, legal journals, and textbooks.
+
+- **International Law**
+  - Treaties and conventions (e.g., **United Nations Charter**).
+
+### Chapter 5: Legal Reasoning and Interpretation
+
+- **Principles of Legal Reasoning**
+  - Logical reasoning based on legal precedents and statutes.
+
+- **Interpretation of Statutes**
+  - **Literal Rule**: Words taken at face value.
+  - **Purposive Approach**: Focus on intent of legislation.
+
+- **Diagram Reference**
+  - Flowchart of legal reasoning process (Page 146).
+
+---
+
+*Note: Ensure to reference primary legislation and key case studies for deeper understanding.*

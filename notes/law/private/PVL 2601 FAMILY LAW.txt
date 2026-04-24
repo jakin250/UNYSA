@@ -1,0 +1,1915 @@
+# Study Notes: Marriage and Family Law
+
+## SECTION 1: Marriage Law
+
+### 1. The Legal Requirements for a Civil Marriage
+- **Consent:** Parties must freely consent to marriage.
+- **Capacity:** Legal age, sound mind.
+- **Formalities:** Compliance with procedure as prescribed in the *Marriage Act*.
+
+### 2. Void, Voidable and Putative Civil Marriages
+- **Void Marriages:** No legal effect (e.g., non-consent, prohibited relationships).
+- **Voidable Marriages:** Valid until annulled (e.g., misrepresentation).
+- **Putative Marriages:** Valid for one party, unaware of the void status.
+
+### 3. The Invariable Consequences of a Civil Marriage
+- **Personal Status:** Affects legal identity.
+- **Legal Obligations:** Duties towards each other, including fidelity and support.
+  
+## SECTION 2: Matrimonial Property Law
+
+### 4. The Variable Consequences of a Civil Marriage – Marriage in Community of Property
+- **Joint estate:** Equal ownership and responsibilities.
+- **Management:** Both spouses manage jointly.
+
+### 5. The Variable Consequences of a Civil Marriage – Marriage out of Community of Property
+- **Separate estates:** Each party retains independent control.
+- **Systems:** (1) *Ante-nuptial contract*; (2) with accrual.
+
+### 6. Alteration of the Matrimonial Property System
+- **Legal Process:** Requires court approval.
+- **Factors:** Changed circumstances, needs of parties.
+
+## SECTION 3: Dissolution of a Civil Marriage
+
+### 7. Dissolution of a Civil Marriage – General and Dissolution by Death
+- **Modes of Dissolution:** Death, divorce.
+  
+### 8. The Grounds for Divorce
+- **No-fault Grounds:** Irretrievable breakdown.
+- **Fault Grounds:** Adultery, mental illness, etc.
+
+### 9. Patrimonial Consequences of Divorce – General
+- **Asset division:** Fair distribution based on contribution and need.
+
+### 10. Forfeiture of Patrimonial Benefits
+- **Conduct Basis:** Serious misconduct leads to loss of benefits.
+
+### 11. Redistribution of Assets
+- **Court Discretion:** Based on fairness, needs, contributions.
+
+### 12. Maintenance of a Spouse After Divorce
+- **Spousal Support:** Based on financial needs and ability to pay.
+
+### 13. The Interests of the Children of Divorcing Parents
+- **Primary Concern:** Welfare of children.
+- **Custodial Rights:** Determined by the best interests of the child.
+
+## SECTION 4: Civil Unions
+
+### 14. Civil Unions
+- **Requirements:** Similar to civil marriages.
+- **Consequences:** Equivalent legal status to marriage.
+- **Dissolution:** Governed by similar rules to divorce.
+
+## SECTION 5: Customary Marriages
+
+### 15. Customary Marriages
+- **Legal Requirements:** Compliance with customary laws.
+- **Consequences:** Rights and obligations under customary law.
+
+## SECTION 6: Muslim and Hindu Marriages
+
+### 16. Muslim and Hindu Marriages
+- **Recognition:** Governed by religious principles within legal framework.
+- **Legal Rights:** Vary based on personal law.
+
+## SECTION 7: Life Partnerships
+
+### 17. Life Partnerships
+- **Definition:** Cohabitation resembling marriage.
+- **Legal implications:** Varies widely; lacks uniformity.
+
+## SECTION 8: The Responsibilities and Rights of Parents and Children
+
+### 18. Children’s Rights
+- **Best Interests Standard:** Paramount consideration in all matters.
+- **Legal Protections:** Right to care, education, and support.
+
+### 19. Parental Responsibilities and Rights
+- **Duties of Care:** Financial and emotional support obligations.
+
+### 20. The Duty of Support in Respect of a Child
+- **Lifelong Obligations:** Both parents responsible for child support until adulthood.
+----- END OF FILE -----
+# 8 THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+## 6 MUSLIM AND HINDU MARRIAGES
+- **Reasons for non-recognition**
+- **Recognition of Muslim and Hindu marriages**
+- **The Constitution and Muslim and Hindu marriages**
+
+## 7 LIFE PARTNERSHIPS
+- **Definition**
+- **General rule**
+- **Recognition of life partnerships**
+- **The Constitution and life partnerships**
+- **Heterosexual life partnerships**
+- **Same-sex life partnerships**
+  
+### Children's Rights
+- **Parental responsibilities and rights**
+  - Duty of support in respect of a child
+
+---
+
+# Bibliography
+- Heaton J & Kruger JM, *South African Family Law* 4 ed (2015) LexisNexis Durban
+
+---
+
+# Key to Study Guide
+- Study guide is a tool, not a summary; assists in navigating tutorial material.
+- Divided into eight sections; each unit outlines study objectives.
+- **Prescribed Learning Material** indicates what is necessary for study.
+- Summary at end of each unit reviews learning and previews next unit.
+
+---
+
+# 1 MARRIAGE LAW
+- **Legal requirements for a civil marriage**  
+- **Void, voidable and putative civil marriages**  
+- **Invariable consequences of civil marriages**  
+
+# 2 MATRIMONIAL PROPERTY LAW
+
+# 3 DISSOLUTION OF A CIVIL MARRIAGE
+
+# 4 CIVIL UNIONS
+
+# 5 CUSTOMARY MARRIAGES
+
+# 6 MUSLIM AND HINDU MARRIAGES
+
+# 7 LIFE PARTNERSHIPS
+
+# 8 THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+## STUDY UNIT 1
+- **Legal requirements for a civil marriage**
+  
+## MODULE MAP
+- **OVERVIEW**
+  - Civil marriages defined in sections 1-3; monogamous; opposite-sex only. 
+  - Governed by common law and various Acts; historically the sole maritally recognized relationship until two decades ago.
+  - Engagement not a prerequisite for a civil marriage; requirements, content, consequences of engagement discussed in chapter 2 of the textbook. 
+
+----- END OF FILE -----
+# Study Notes on Civil Marriage
+
+## Page Numbers: 13-16, 24-29, 31-32
+
+### 1. INTRODUCTION
+- Definition of **civil marriage**: Must understand both traditional and modern definitions; avoid describing it as merely a contract.
+
+### 2. REQUIREMENTS FOR A CIVIL MARRIAGE
+- Legal requirements summarized:
+  1. Capacity to act
+  2. Agreement between parties
+  3. Lawfulness of the marriage
+  4. Compliance with prescribed formalities
+
+#### 2.1 Capacity to act
+- **Persons with no/limited capacity**:
+  - **Prodigality**: Can marry without curator’s consent.
+  - **Mental illness**: Can marry only during a lucid interval.
+  - **Curatorship**: Can marry without curator’s consent.
+  - **Minors**: Require consent from parents/legal guardians.
+
+#### 2.2 Agreement
+- Factors affecting agreement:
+  - **Mistake**: Material mistakes exclude agreement, e.g., identity or nature of the act.
+  - **Misrepresentation**: Only serious misrepresentation excludes agreement (e.g., concealing pregnancy).
+  - **Duress**: Consent forced, affecting validity (e.g., *Smith v Smith*).
+  - **Undue influence**: Influenced choice affecting consent.
+- **Effects on validity**:
+  - Mistake: Unclear void/voidable.
+  - Misrepresentation: Voidable (serious cases only).
+  - Duress: Voidable.
+  - Undue influence: Voidable.
+  - Simulated civil marriages: Valid if intention to marry present (*Martens v Martens*).
+
+#### 2.3 Lawfulness
+- Instances of **unlawful marriages**: Must know various specific cases.
+- **Degrees of relationship**:
+  - **Consanguinity**: Blood relations.
+  - **Affinity**: Relatives by marriage.
+- **Basic rules**:
+  1. Direct line relatives may not marry.
+  2. Collateral relations prohibited if related within first degree.
+  3. Affinity in direct line barred (e.g., ex-spouse's relatives).
+  4. Affinity in collateral line allowed (e.g., marrying ex-spouse's siblings).
+- **Calculation of degrees**: Use diagrams to visualize relationships.
+
+### Diagrams and References
+- Reference diagrams in the textbook for relationship categories.
+- Draw diagrams for scenarios to assess relationships effectively.
+
+### Key Legislation and Cases
+- **Marriage Act**
+- **Political Ordinance**
+- **Immorality and Prohibition of Mixed Marriages Amendment Act**
+- Cases: *Smith v Smith*, *Martens v Martens*.
+
+---
+
+This structured summary captures essential features and concepts related to civil marriage while condensing the original document by approximately 50%.
+----- END OF FILE -----
+# MARRIAGE LAW
+
+## The legal requirements for a civil marriage  
+- **Void, voidable, and putative civil marriages**   
+- **The invariable consequences of civil marriages**   
+
+## 1. Legal Requirements for a Civil Marriage
+- **Definition of Civil Marriage**
+- **Four Legal Requirements**
+  - Age of parties
+  - Consent of parties
+  - Capacity to marry (not identical or close blood relations)
+  - Compliance with prescribed formalities
+- **Influencing Factors**
+  - Relationship by blood or affinity affecting valid marriage
+  - Legal recognition of celebrants and venues
+
+## 2. The Prescribed Formalities
+- Key focus on marriage ceremony and registration (pp. 31-32)
+- **Relevant Legislation**: Marriage Act, Section 29(2) 
+- **Case Reference**: Ex parte Dow
+
+## STUDY UNIT 2: Void, Voidable, and Putative Civil Marriages
+
+### MODULE MAP
+- **Overview**: Distinction between void and voidable civil marriages
+- **Purpose**: 
+  - Identify grounds for nullity
+  - Discuss consequences of void and voidable marriages
+
+### PRESCRIBED LEARNING MATERIAL
+- Pages 33-40
+- **Case Reference**: Zulu v Zulu 2008 (4) SA 12 (D)
+
+## CONTENT OF THIS STUDY
+### 1. VOID CIVIL MARRIAGES
+#### 1.1 Definition  
+- A void marriage means no legal existence.
+
+#### 1.2 Grounds for Nullity  
+- **Two Grounds**:  
+  1. Non-compliance with formal requirements  
+  2. Non-compliance with material requirements  
+- Familiarity with relevant cases essential.
+
+#### 1.3 Consequences  
+- No legal recognition or effects of marriage:
+  - Status remains unmarried
+  - No property system
+  - No duty of support
+  - No inheritance rights
+  - Children categorized as born to unmarried parents
+  - Freedom to remarry
+
+### 2. VOIDABLE CIVIL MARRIAGES
+#### 2.1 Definition  
+- A voidable marriage can be annulled under certain circumstances.
+
+#### 2.2 Grounds for Setting Aside  
+- **Seven Grounds**:  
+  (a) **Minority**: Consent from parents/guardians required.  
+  (b) **Material Mistake**: Identity or nature of the act.  
+  (c) **Duress**: Coercion leading to marriage.  
+  (d) **Undue Influence**: Manipulation affects consent.  
+  (e) **Stuprum**: Pregnancy from another man undisclosed at marriage.  
+  (f) **Impotence**: Inability to consummate; affects validity if undisclosed.  
+  (g) **Sterility**: Concealment can lead to annulment.
+
+### Comparison of Terms
+- **Stuprum**: Extramarital relations pre-marriage; affects marriage under specific conditions.
+- **Impotence**: Affects consummation; should be disclosed for validity.
+- **Sterility**: Ability to have intercourse but unable to procreate; marital implications if concealed.
+
+### ACTIVITY: Identification of Marriage Types
+- Classify the following into void or voidable:
+  1. Pregnancy revelation post-marriage.
+  2. Marriage to a minor without consent.
+  3. Solemnization by an incompetent officer.
+  4. Misunderstanding regarding the nature of the transaction. 
+  5. Minors marry without parental consent against wishes.
+  6. Discovery of impotence post-marriage.
+  7. Solemnization with proper authorities and only participants present.
+  8. Marriage concluded during a spouse's deathbed circumstance.  
+
+### SUMMARY
+- Civil marriage validity hinges on legal requirements.
+- Compliance crucial; otherwise, marriages can be classified as void or voidable.
+- Subsequent studies will focus on implications of void and voidable marriages, alongside putative marriages.
+----- END OF FILE -----
+# MARRIAGE LAW
+
+## The legal requirements for a civil marriage
+
+### Void, voidable and putative civil marriages
+
+- **Void Marriage** (1)
+  - Never comes into existence (void ab initio).
+  - Legal consequences:
+    - Status of parties: unmarried.
+    - Children born conceived during marriage: children of unmarried parents.
+  - Declared void by court (declaratory order).
+
+- **Voidable Marriage** (2)
+  - Valid until dissolved by court order.
+  - Legal consequences:
+    - Status of parties: married.
+    - Children born/ conceived: children of married parents.
+  - Must be annulled by court (compulsory decree).
+
+- **Legislation**: Marriage Act 25 of 1961, Sections 6 and 26(1).
+
+## PUTATIVE MARRIAGES
+
+### 3.1 Definition
+- A void civil marriage that may qualify as a putative marriage if one/both spouses are unaware of the defect at the time of marriage.
+
+### 3.2 Requirements
+- Discussed in the textbook; unclear if due solemnization remains a requirement (Bam v Bhabha).
+
+### 3.3 Consequences
+- **General**: Void but carries some legal consequences of valid marriage.
+- **Children**: Regarded as children of married parents.
+- **Patrimonial consequences**:
+  - **Bona Fide scenarios**: Distinguish between both parties being bona fide and only one.
+  - Study **Zulu v Zulu** regarding cases involving existing marriages vs. not.
+
+---
+
+# STUDY UNIT 3
+
+## The invariable consequences of a civil marriage
+
+### Purpose
+- Distinguish variable vs. invariable consequences.
+- List and explain invariable consequences, including:
+  - Spousal status change.
+  - Consortium omnis vitae.
+  - Reciprocal maintenance duties.
+  - Rights to household necessaries.
+  - Maintenance Act 99 of 1998 relevance.
+  - Occupation rights of matrimonial home.
+  - Parents' responsibilities regarding children.
+  - Prohibition on donations.
+  - Common family name rules.
+  - Current relevance of the husband as head of the family.
+
+### CONTENT OF THIS STUDY UNIT
+
+1. **INTRODUCTION**
+   - Variable consequences changeable by parties; invariable consequences are not.
+
+2. **THE STATUS OF THE SPOUSES**
+   - Status changes from unmarried to married.
+   - Qualifying examples listed in the textbook.
+
+3. **CONSORTIUM OMNIS VITAE**
+   - Defined in the textbook; essential for assessing marriage breakdown.
+   - Relevant cases: **Wiese v Moolman**, **Grobbelaar v Havenga**, **Peter v Minister of Law and Order**.
+
+4. **SPOUSAL MAINTENANCE**
+  
+#### 4.1 Reciprocal duty of support
+- "Support" and "maintenance" are interchangeable.
+- Discussion on reciprocal duty of support:
+  - Both spouses have equal obligations.
+  - Know requirements for enforcement.
+  - Relevant case: **Reyneke v Reyneke**.
+  - Liabilities for third-party maintenance debts.
+  - Determination of when the duty terminates.
+----- END OF FILE -----
+# Study Notes on the Invariable Consequences of Marriage  
+
+## 4.2 Household Necessaries  
+- **Definition**: Necessaries for running a household include food, clothes, and medical fees.  
+- **Responsibility for Expenses**:  
+  - Distinction between duty of support and liability for household necessaries.  
+  - Modern relevance of rules on liability for household necessaries.  
+  - Requirement for capacity to incur debts for household necessaries.  
+  - Conditions under which a spouse’s capacity to purchase can be revoked or limited.  
+- **Diagram Reference**: Overlap between duty to contribute to household necessaries and duty of support.
+
+## 4.3 The Maintenance Act 99 of 1998  
+### (a) General  
+- Covers maintenance between spouses and includes life partnership agreements.  
+
+### (b) Maintenance Complaint and Enquiry  
+- Duties of maintenance officers and investigators.  
+- Powers of the Maintenance Court.  
+
+### (c) Orders the Court May Make  
+- Various types of orders court can issue related to maintenance.  
+
+### (d) Appeals  
+- Appeal to the High Court generally does not suspend the maintenance order.  
+
+### (e) Enforcement of a Maintenance Order  
+- Civil and criminal sanctions for non-compliance with a maintenance order.  
+- Relevant case law discussed.  
+
+## 5 The Matrimonial Home  
+- Right to occupy the matrimonial home shared by both spouses.  
+- Considerations when spouses no longer wish to remain married:  
+  - Eviction rights when one spouse pays rent.  
+  - Implications of domestic violence.  
+  - Details on spouses' occupancy rights.
+
+## 6 Donations Between Spouses  
+- **Context**: Donations have been allowed since the Matrimonial Property Act (1 November 1984).  
+
+- **Case Reference**: Scenario of Mr. and Mrs. Brink (out of community of property marriage in 1975).  
+- **Conclusion**: Donation made in 1982 is valid due to Section 22 of the Matrimonial Property Act, regardless of pre-1984 regulations.
+
+## 7 The Family Name  
+- Women's right to choose their surname upon marriage.  
+- Discuss constitutional aspects regarding surname usage and potential gender bias.  
+
+## 8 Headship of the Family  
+- Examination of the contemporary view on the husband as the family head.  
+
+## Summary  
+- Review of invariable consequences of marriage:  
+  - Distinction between variable and invariable consequences.  
+  - Specific invariable consequences outlined.  
+- Preparation for the next unit on patrimonial consequences of civil marriage.  
+
+---  
+**Page References**:  
+- Page 21: Household necessaries  
+- Page 22: The Maintenance Act  
+- Pages 47-48: Subjective and objective tests  
+- Page 23: Donations between spouses  
+- Page 24-25: Summary of invariable consequences of marriage  
+----- END OF FILE -----
+# MARRIAGE LAW
+
+### Marriage in Community of Property
+- Legal requirements for valid civil marriage:
+  - Capacity to act
+  - Agreement between parties
+  - Lawfulness
+  - Compliance with formalities
+- **Invariable consequences**: Automatically generated, cannot be excluded.
+  
+### Marriage out of Community of Property
+- Three applicable systems in South Africa:
+  - Marriage in community of property
+  - Marriage out of community excluding profit/loss and accrual (complete separation)
+  - Marriage out of community with the accrual system
+
+### Alteration of the Matrimonial Property System
+- Matrimonial Property Act 88 of 1984:
+  - Abolished marital power.
+  - Introduced accrual system as variation of marriage out of community.
+
+## DISSOLUTION OF A CIVIL MARRIAGE
+- Not covered in this excerpt.
+
+## CIVIL UNIONS
+- Not covered in this excerpt.
+
+## CUSTOMARY MARRIAGES
+- Not covered in this excerpt.
+
+## MUSLIM AND HINDU MARRIAGES
+- Not covered in this excerpt.
+
+## LIFE PARTNERSHIPS
+- Not covered in this excerpt.
+
+## THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+- Not covered in this excerpt.
+
+# MATRIMONIAL PROPERTY LAW
+## STUDY UNIT 4
+
+### Module Map
+- Legal proceedings regarding assets and liabilities of spouses.
+
+### Content of this Study Unit
+1. **Introduction**
+   - Importance of understanding different matrimonial property systems. 
+   
+2. **Cases in which Community of Property Does Not Arise**
+   - Rebuttable presumption of community of property in marriages.
+   - Exceptions:
+     - Valid antenuptial or postnuptial contracts.
+     - Spouses domiciled in separation of property jurisdictions.
+     - Civil marriages under section 22(6) of the **Black Administration Act**.
+
+3. **The Nature of Universal Community of Property**
+   - Co-ownership in undivided shares of all assets/liabilities.
+   - **Key Cases**: **Estate Sayle v Commissioner for Inland Revenue**, **De Wet v Jurgens**, **Mazibuko v National Director of Public Prosecutions**.
+
+4. **The Content of Universal Community of Property**
+   - **Assets**:
+     - All assets before and after marriage included in joint estate.
+     - Exceptions discussed.
+
+   - **Separate Assets**:
+     - Assets not included in joint estate, e.g.:
+       1. Assets excluded by antenuptial contract
+       2. Assets under fideicommissum/usufruct
+       3. Benefits from the **Friendly Societies Act 25 of 1956**
+       4. Damages from personal injury by other spouse
+       5. Proceeds excluded by court under the **Prevention of Organised Crime Act 121 of 1998**
+   
+   - **Attachment of Separate Assets**:
+     - Case **Du Plessis v Pienaar** discusses implications of insolvency on matrimonial property.
+
+### Purpose of Study Unit
+- Discuss community of property implications, asset management, statutory protections, and capacities of spouses married in community of property. 
+
+**Prescribed Learning Material**: Textbook pages 61-82. 
+
+### Diagram References
+- Diagrams illustrating asset ownership and community of property dynamics (not provided in the text).
+----- END OF FILE -----
+# 4.2 Liabilities
+
+- **(a) General**
+  - All debts incurred before or during marriage in community of property form part of the joint estate.
+  - **Nedbank v Van Zyl**: Spouses are co-debtors for debts incurred.
+
+- **(b) Antenuptial debts**
+  - Antenuptial debts are liabilities incurred before marriage.
+  - Upon marriage in community of property, these become joint debts, including contractual and maintenance liabilities.
+  - Uncertainty exists regarding antenuptial delictual debts becoming joint debts upon marriage.
+
+- **(c) Debts incurred during the subsistence of the marriage**
+  - Different rules apply to contractual, delictual, and other debts:
+  - **(i) Contractual debts**
+    - Recovery can be from joint estate or separate estate based on consent and capacity.
+  - **(ii) Delictual debts**
+    - Governed by **section 19 of the Matrimonial Property Act**; applies to delicts against third parties or each other.
+  - **(iii) Other separate debts**
+    - Current legal position on criminal fines and separate debts is uncertain; **section 19** likely applicable.
+
+- **(d) Debts which are outstanding at the dissolution of the joint estate**
+  - Differentiate regarding contractual, delictual, and separate debts:
+  - **(i) Contractual debts**
+    - Distinction between debts incurred before or during marriage.
+  - **(ii) Delictual and other separate debts**
+    - Only original debtor liable for outstanding debts upon dissolution.
+
+# 5 ADMINISTRATION OF THE JOINT ESTATE
+
+- **5.1 Abolition of the marital power**
+  - **Section 11 of the Matrimonial Property Act** abolished marital power, establishing equal control over the joint estate.
+
+- **5.2 The principle of equal administration of the joint estate**
+  - **Section 14 of the Matrimonial Property Act**: Both spouses have equal capacity for juristic acts binding the joint estate with necessary consent.
+
+- **5.3 Acts for which the consent of both spouses is required**
+  - **Sections 15(2), 15(3), 17(1)**: Forms of consent required include:
+    - Prior written consent (attested)
+    - Written consent (attested)
+    - Written consent (no additional requirements)
+    - Oral or tacit consent 
+    - Know specific juristic acts for each form.
+
+- **5.4 Acts for which the other spouse’s consent is unnecessary**
+  - Section 15(6): Acts in the ordinary course of profession, trade, or business; courts interpret this requirement.
+
+- **5.5 Protective measures in respect of the administration of the joint estate**
+  - **(a) Protection of third parties**
+    - **Bona fide vs. mala fide** third parties: 
+      - **Bona fide**: Transaction valid if unaware of consent requirement (section 15(9)).
+      - **Mala fide**: Transaction may be void based on **case law** (e.g., *Amalgamated Bank of South Africa Bpk v Lydenburg Passassiersdienste*).
+  - **(b) Protection of the spouses between themselves**
+    - **(i) Statutory remedies**
+      - Remedies include right to adjustment upon dissolution, suspension of powers regarding the joint estate.
+    - **(ii) Common-law remedies**
+      - **Interdict**: Requirements include:
+        - Threat to alienate joint estate assets.
+        - Intent to prejudice other spouse.
+        - Risk of loss if interdict not granted.
+      - **Actio Pauliana utilis**:
+        - Alienated assets.
+        - Fraudulent intent by the alienating spouse.
+        - Knowledge of fraud by third party.
+      - **Right of recourse**: Available post-dissolution under specific conditions; includes fraud intent.
+      - **Prodigal spouse declaration**: Current constitutional doubts discussed.
+
+--- 
+
+These notes condense the key legal principles and concepts from the text, maintaining references to relevant legislation and cases while excluding detailed explanations and activities.
+----- END OF FILE -----
+### 5.6 Capacity to Litigate
+
+#### (a) General
+- **Capacity to litigate**: Ability to act as a party in court.
+- **Section 17(1), Matrimonial Property Act**: Restricts capacity of spouses married in community of property.
+  - Exceptions:
+    - Proceedings regarding separate property.
+    - Recovery of non-patrimonial damages for delict against spouse.
+    - Matters concerning spouse’s profession, trade or business.
+- **Non-compliance consequences**: Important to understand implications of not adhering to section provisions.
+
+#### (b) Insolvency
+- **Section 17(4)**: Governs insolvency of spouses in community of property.
+  - Application for sequestration must be filed against both spouses.
+  - Application to surrender joint estate requires both spouses’ consent.
+
+#### (c) Suing for Joint Debts
+- **Section 17(5)**: Determines which spouse is liable for debts recoverable from the joint estate.
+
+### Summary
+- Aspects of marriage in community of property:
+  - Definition and implications of marriage in community.
+  - Universal community of property.
+  - Composition of joint estate.
+  - Identification of separate property.
+  - Debt recovery mechanisms from spouses in community.
+  - Principle of equal management.
+  - Protective measures regarding joint estate administration (Matrimonial Property Act & common law).
+  - Spousal capacity to litigate.
+
+### Table of Contents
+
+1. **Marriage Law**
+   - Marriage in community of property
+   - Marriage out of community of property
+   - Alteration of matrimonial property system
+2. **Matrimonial Property Law**
+   - Study Unit 5: Variable consequences of a civil marriage – marriage out of community of property
+   - Overview of antenuptial contracts.
+3. **Dissolution of a Civil Marriage**
+4. **Civil Unions**
+5. **Customary Marriages**
+6. **Muslim and Hindu Marriages**
+7. **Life Partnerships**
+8. **Responsibilities and Rights of Parents and Children**
+
+### Content of This Study Unit
+
+#### 1. Antenuptial Contract
+- **Purpose**: Exclude common-law/statutory consequences of marriage regarding property.
+- **Formalities**: Must be executed by notary and registered at Deeds Office (s 86, Deeds Registries Act 47 of 1937).
+  - Informal contracts valid only inter partes.
+  
+#### 1.2 Postnuptial Execution and Registration
+- Circumstances allowing for postnuptial registration are under section 88 of the Deeds Registries Act.
+
+#### 1.3 Requirements for Minors' Antenuptial Contracts
+- Consent or assistance required for valid contracts by minors.
+
+#### 1.4 Contents of the Antenuptial Contract
+- Allowable provisions within antenuptial contracts must comply with legal standards.
+----- END OF FILE -----
+# Study Notes on Matrimonial Property Systems
+
+## Page Range: 2-50
+
+### 1. MATRIMONIAL PROPERTY SYSTEM
+- **Antenuptial Contract**:
+  - Purpose: Deviate from automatic matrimonial property consequences (marriage in community of property).
+
+### 2. MARRIAGE OUT OF COMMUNITY OF PROPERTY
+- **Household Necessaries**:
+  - Antenuptial contracts may address recourse rights concerning household necessaries.
+  - Governed by **Section 23** of the **Matrimonial Property Act**.
+  
+- **Succession**:
+  - **Pactum successorium**: Can it be included in antenuptial contracts? Review textbook discussions.
+
+- **Marriage Settlements**:
+  - Definition and potential inclusion of a reversion clause.
+  - Reasons for contemporary marriage settlements.
+
+### 3. MARRIAGE OUT OF COMMUNITY OF PROPERTY WITHOUT ACCRUAL
+- Effect of complete separation on spouses’ estates is fundamental knowledge.
+
+### 4. MARRIAGE OUT OF COMMUNITY OF PROPERTY WITH ACCRUAL
+- Clarify effects of this uncommon property system on spouses’ estates.
+
+### 5. THE ACCRUAL SYSTEM
+#### 5.1 Introduction
+- Reason for legislative introduction of the accrual system: Promote fairness in asset sharing at dissolution.
+
+#### 5.2 Marriages to Which the Accrual System Applies
+- Applicable to:
+  - Marriages out of community without expressly excluding accrual.
+  - Introduced accrual via documentation.
+
+#### 5.3 When and How Accrual Sharing Occurs
+- **General**:
+  - Accrual is postponed community of profit.
+  - Post-dissolution sharing of assets accumulated during marriage, owned separately during subsistence.
+
+- **Accrual Claim**:
+  - Difference between accruals determines claims at dissolution (Example: H: R50,000; W: R10,000 → W claims R20,000).
+
+- **Claim Distinction**:
+  - Claims arise only at marriage dissolution.
+  - Spouses’ claims are not transferable or attachable during marriage.
+
+- **Difference in Sharing**:
+  - Accrual sharing does not grant rights to each other’s assets.
+  - No pre-emptive claims on assets pending divorce.
+
+#### 5.4 Calculating the Accrual
+- Reference: Pages 94-99 in the textbook.
+- Determine estate values at marriage dissolution as per **Brookstein v Brookstein [2016] ZASCA 40**.
+
+1. Calculate **Net End Value** of each estate.
+2. Determine **Net Commencement Value** and adjust using CPI.
+3. Exclude assets not part of the accrual (Sections 4 & 5, Matrimonial Property Act).
+   - Distinction: **Patrimonial vs Non-patrimonial losses**.
+  
+4. Calculate **Accrual**:
+   - Assess smaller and larger accruals then derive claims.
+   - Formula: Accrual Claim = (Larger Accrual - Smaller Accrual) / 2.
+
+### Hints for Calculating Accrual
+- Explain each calculation step and rationale without requiring section references.
+- Use **CPI** abbreviation for efficiency.
+
+### Additional Notes
+- Review example calculations on pages 98-99 for practical understanding.
+- Emphasize understanding the practical steps of accrual computation in evaluations.
+----- END OF FILE -----
+# MARRIAGE LAW
+
+## 1 MARRIAGE IN COMMUNITY OF PROPERTY
+- Legal framework and implications of marriage in community of property.
+
+## 2 MARRIAGE OUT OF COMMUNITY OF PROPERTY
+### 2.1 General Principles
+- Spouses not married in community property can choose different property systems.
+- Antenuptial contracts necessary to exclude accrual system.
+
+### 2.2 Calculation of Accrual Claims
+- Example given: 
+  - **Mr. X's Accrual Calculation:**
+    - Net value: R100,000
+    - Exclusions (R30,000 from damages and donations): R70,000 (accrual)
+  - **Mrs. X's Accrual Calculation:**
+    - Net value: R90,000
+    - Exclusions (R20,000 from assets): R40,000 (accrual).
+- Claim of Mrs. X: 
+  - Half of the difference between accruals = R15,000.
+
+### 2.3 Protection of Spousal Rights
+- **Matrimonial Property Act §8**: Outlines rights to accrued share.
+- Common-law remedies: interdict and actio Pauliana utilis to protect accrual interest.
+
+### 2.4 Satisfaction of Accrual Claim
+- Governed by **Matrimonial Property Act §10**.
+
+## 3 DISSOLUTION OF A CIVIL MARRIAGE
+- Legal processes involved in dissolution.
+
+## 4 CIVIL UNIONS
+- Framework and implications of civil unions.
+
+## 5 CUSTOMARY MARRIAGES
+- Legal recognition and structure.
+
+## 6 MUSLIM AND HINDU MARRIAGES
+- Legal provisions and stipulations.
+
+## 7 LIFE PARTNERSHIPS
+- Recognition and rights within life partnerships.
+
+## 8 THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+- Legal standings and obligations.
+
+# MATRIMONIAL PROPERTY LAW
+## STUDY UNIT 6: Alteration of the Matrimonial Property System
+
+### MODULE MAP
+- Overview of matrimonial property systems.
+- Eligibility for change of property system and restrictions.
+
+### PURPOSE OF THIS STUDY UNIT
+- Understanding immutability in matrimonial property law.
+- Mechanisms for changing property systems under **Matrimonial Property Act 88 of 1984**.
+
+### CONTENT OF THIS STUDY UNIT
+
+#### 1 THE PRINCIPLE OF IMMUTABILITY IN MATRIMONIAL PROPERTY LAW
+- Principle that chosen marital property system remains fixed post-marriage.
+- Mechanisms exist for postnuptial changes.
+
+#### 2 COURT-SANCTIONED ALTERATION OF THE MATRIMONIAL PROPERTY SYSTEM
+##### 2.1 General
+- **Section 21(1)**: High Court application to change matrimonial property system.
+- Distinction between court-sanctioned alterations and postnuptial registrations under **Deeds Registries Act**.
+
+##### 2.2 Statutory Requirements
+- Requirements for **section 21(1)**:
+  1. Sound reasons for change.
+  2. Notice to creditors.
+  3. No prejudice to third parties.
+- Joint application requirement.
+
+##### 2.3 Procedural Requirements
+- Discussion not necessary for study.
+
+##### 2.4 Retroactive Alteration
+- Uncertainty regarding retroactive changes to matrimonial property systems discussed.
+
+### SUMMARY
+- Understanding the mechanics surrounding antenuptial contracts and property system operations.
+- Experiences of accruing and adjusting property systems during marriage.
+
+### TABLE OF CONTENTS STRUCTURE
+- Chapter 1: Marriage Law
+- Chapter 2: Matrimonial Property Law
+- Chapter 3: Dissolution of Civil Marriage
+- Chapter 4: Civil Unions
+- Chapter 5: Customary Marriages
+- Chapter 6: Muslim and Hindu Marriages
+- Chapter 7: Life Partnerships
+- Chapter 8: Responsibilities and Rights of Parents and Children
+----- END OF FILE -----
+# Study Notes
+
+## 1 MARRIAGE LAW
+
+### 2 MATRIMONIAL PROPERTY LAW
+
+- **Property System**
+  - Spouses married in community of property can apply for alteration under **section 21(1)** to be married out of community of property.
+  - If granted, deemed married out of community since marriage.
+
+- **Immutability Principle**
+  - Although traditionally spouses could not change matrimonial property systems, **section 21(1)** of the Matrimonial Property Act relaxes this.
+  - Requirements for section 21(1) application must be identified along with sound reasons for change.
+  
+- **Case References**
+  - Discuss **Ex parte Kr—s**, **Ex parte Oosthuizen**, **Ex parte Burger**.
+
+### 3 EXTRA-JUDICIAL ALTERATION OF THE MATRIMONIAL PROPERTY SYSTEM
+
+- **Alteration without Court**
+  - Spouses cannot change their matrimonial property system extra-judicially via contract.
+  - **Honey v Honey** case: Postnuptial contracts seeking to change property systems are invalid and unenforceable.
+  - **JW v CW, EA v EC, RD v TD**: Similar approach regarding universal partnerships.
+
+- **Types of Universal Partnerships**
+  - Distinction needed between societies that generate profit and those that do not.
+
+### 4 DISSOLUTION OF A CIVIL MARRIAGE
+
+- **Ways to Dissolve Marriage**
+  - Death of a spouse(s).
+  - Annulment of voidable marriage.
+  - Divorce.
+
+### 5 DISSOLUTION BY DEATH 
+
+#### 4.1 Marriage in Community of Property
+- Upon the death of a spouse, the community of property ends.
+- Joint estate handled per **Administration of Estates Act 66 of 1965**.
+- Executor’s duties: pay debts, claim debts, and distribute estate.
+
+#### 4.2 Marriage Out of Community of Property
+- Antenuptial contracts remain active after death.
+- Surviving spouse can lodge claims against deceased estate executor.
+
+#### 4.3 Maintenance of Surviving Spouses Act 27 of 1990
+
+- **General**
+  - Surviving spouses after 1 July 1990 may claim maintenance from deceased estate if unable to provide for needs.
+  
+- **Reasonable Maintenance Needs**
+  - Factors to consider are outlined in the textbook (1-6).
+
+- **Disposal of Maintenance Claim**
+  - Claims must be disposed of and settled by the value of the estate.
+
+---
+
+These notes provide a condensed overview of key legal principles and case references relevant to matrimonial property law and the dissolution of marriage. They highlight important statutes and summarize critical legal concepts directly related to the subject matter.
+----- END OF FILE -----
+# Law Study Notes
+
+## 1. MARRIAGE LAW
+
+## 2. MATRIMONIAL PROPERTY LAW
+
+## 3. DISSOLUTION OF A CIVIL MARRIAGE  
+### General, and dissolution by death  
+- **Oshry v Feldman:** Court can award lump-sum maintenance.
+  
+#### 4.3.4 The order of preference  
+- Surviving spouse’s maintenance claims take precedence over other claims against the deceased's estate.
+
+## 4. CIVIL UNIONS
+
+## 5. CUSTOMARY MARRIAGES
+
+## 6. MUSLIM AND HINDU MARRIAGES
+
+## 7. LIFE PARTNERSHIPS
+
+## 8. THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+### Study Unit 8 - The Grounds for Divorce  
+#### Module Map Overview  
+- Three ways to dissolve marriage:
+  1. **Death** of one or both spouses.
+  2. **Annulment** of marriage.
+  3. **Divorce**.
+
+### Purpose of this Study Unit  
+- List current grounds for divorce:
+  - Irretrievable breakdown of marriage.
+  - Mental illness or continuous unconsciousness of a spouse.
+
+### Prescribed Learning Material  
+- Refer to relevant pages in the textbook.
+
+### 1. INTRODUCTION  
+- Grounds for Divorce:
+  - Irretrievable breakdown.
+  - Mental illness.
+  - Continuous unconsciousness.
+
+### 2. IRRETRIEVABLE BREAKDOWN OF THE MARRIAGE  
+#### 2.1 The test for irretrievable breakdown  
+- Requirements (Section 4(1)):
+  1. **Non-normal marriage relationship**.
+  2. **No reasonable prospect for restoration**.
+
+- **Consortium principle**: Defines normality of a marital relationship, assessing subjective and objective elements.
+
+#### 2.2 The guidelines in section 4(2)  
+- Guidelines for asserting irretrievable breakdown:
+  - Parties have not cohabited as husband and wife for at least **one year**.
+  - Defendant's **adultery** deemed irreconcilable.
+  - Court declaration of defendant as a **habitual criminal**, leading to imprisonment.
+
+### 3. INCURABLE MENTAL ILLNESS OR CONTINUOUS UNCONSCIOUSNESS  
+- Additional grounds for divorce; specifics on required proof for mental illness are in the textbook.
+
+### Summary  
+- Review the dissolution of marriage, maintenance claims, and implications for surviving spouses regarding the deceased's estate.
+
+### Table of Contents Structure  
+1. MARRIAGE LAW  
+2. MATRIMONIAL PROPERTY LAW  
+3. DISSOLUTION OF A CIVIL MARRIAGE  
+   - General, and dissolution by death  
+   - Divorce  
+   - Grounds for divorce  
+   - Consequences of divorce  
+   - General  
+   - Forfeiture of patrimonial benefits  
+   - Redistribution of assets  
+   - Maintenance of the spouses  
+   - Consequences in respect of children  
+4. CIVIL UNIONS  
+5. CUSTOMARY MARRIAGES  
+6. MUSLIM AND HINDU MARRIAGES  
+7. LIFE PARTNERSHIPS  
+8. THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN  
+----- END OF FILE -----
+# Study Notes on Divorce Law
+
+## 1. MARRIAGE LAW
+
+## 2. MATRIMONIAL PROPERTY LAW
+
+## 3. DISSOLUTION OF A CIVIL MARRIAGE
+- **General, and dissolution by death**
+  
+### Divorce
+- **Grounds for Divorce**
+  - Refer to specific grounds as per **Divorce Act** sections 5(1) and 5(2).
+  
+- **Consequences of Divorce**
+  - **General**: Includes potential forfeiture of patrimonial benefits, asset redistribution, spousal maintenance, and child-related consequences.
+
+## 4. CIVIL UNIONS
+
+## 5. CUSTOMARY MARRIAGES
+
+## 6. MUSLIM AND HINDU MARRIAGES
+
+## 7. LIFE PARTNERSHIPS
+
+## 8. THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+## STUDY UNIT 9: Patrimonial Consequences of Divorce – General
+### MODULE MAP
+- **Overview**: Understand how divorce grounds impact asset division, knowing that court discretion exists primarily regarding section 5A of **Divorce Act 70 of 1979**.
+
+### Purpose of Study Unit
+- Importance of settlement agreements.
+- Factors influencing division of property.
+- Treatment of pension interests upon divorce.
+
+### 1. INTRODUCTION
+- Focus on division of assets/liabilities post-divorce.
+
+### 2. SETTLEMENT AGREEMENTS
+- Mostly uncontested cases; vital for regulating consequences.
+- Know contents, status, amendment/rescission of agreements.
+- Refer to **Eke v Parsons 2015 (11) BCLR 1310 (CC)** concerning court orders on settlement agreements.
+
+### 3. THE PATRIMONY OF THE SPOUSES
+#### 3.1 General
+- Assets and liabilities considered for division.
+- Two key factors:
+  1. Matrimonial property system (in or out of community of property; accrual system).
+  2. Court orders affecting assets (forfeiture/redistribution).
+
+#### 3.2 Pension Interests
+- **General**: Pension interest as part of assets.
+  - Automatically included for proprietary consequences, even absent in the divorce order.
+
+- **Meaning and Calculation of "Pension Interest"**
+  - Defined under relevant legislation for pension funds, retirement annuities, etc.
+  - Value calculated at divorce date, adjusted for prior entitlements.
+
+- **Difference Between Pension Interest and Benefit**
+  - Divorce Act focuses on pension interest, not benefits already disbursed.
+
+- **Payment or Transfer of Non-Member Spouse's Portion**
+  - **Section 7(8) of the Divorce Act** allows court orders for direct payment.
+  - Non-member can claim right to the portion without a specified order by court.
+
+- **Excluded Marriages**
+  - Pension sharing excluded in marriages with complete separation of property post 1 November 1984.
+
+### Activity Guidelines
+- Determine irretrievable breakdown for case discussions, referencing sections of the Divorce Act and relevant case interpretations.
+
+### Summary of Study Points
+- Current grounds for divorce.
+- Court discretion on granted divorces.
+- Implications of **Section 5A of the Divorce Act** for marriages based on religious provisions. 
+
+### Upcoming Focus
+- Dive into consequences of divorce in the next study unit.
+----- END OF FILE -----
+# MARRIAGE LAW
+
+## MATRIMONIAL PROPERTY LAW
+
+### DISSOLUTION OF A CIVIL MARRIAGE
+- **Divorce**
+  - Grounds for divorce
+  - Consequences of divorce
+    - General
+    - Forfeiture of patrimonial benefits
+      - **Legislation**: Section 9(1) of the Divorce Act 70 of 1979
+      - Loss of benefits accrued due to marriage
+      - Example: Joint estate valuation
+  
+### CIVIL UNIONS
+
+### CUSTOMARY MARRIAGES
+
+### MUSLIM AND HINDU MARRIAGES
+
+### LIFE PARTNERSHIPS
+
+### THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+--- 
+
+## STUDY UNIT 10 - Forfeiture of Patrimonial Benefits
+
+### MODULE MAP
+
+- **Purpose of Study Unit**
+  - Define forfeiture of benefits
+  - Requirements for forfeiture
+  - Cumulative nature of section 9 factors
+  - Misconduct's role in forfeiture
+  - Concept of undue benefit
+  - Application of fairness and justice considerations
+  - Assets subject to forfeiture
+
+#### PRESCRIBED LEARNING MATERIAL
+- Textbook pages 135-137: "12.4 Forfeiture of patrimonial benefits"
+- Case: **Wijker v Wijker** 1993 (4) SA 720 (A)
+
+### 1. THE REQUIREMENTS FOR A FORFEITURE ORDER
+- Forfeiture means loss of patrimonial benefits from marriage.
+- **Key Factors**:
+  - Duration of marriage
+  - Circumstances of marriage breakdown
+  - Substantial misconduct
+- **Cumulative Nature**: All factors do not need to be present (**Wijker v Wijker** clarifies this).
+- **Role of Misconduct**: Considered under both substantial misconduct and circumstances of breakdown.
+- **Undue Benefit**: Court must determine if one spouse benefits unduly if no forfeiture order is made, relying on Section 9(1) factors.
+- **Discretion**: Court may deviate from matrimonial property system based on justice and fairness considerations.
+
+### 2. BENEFITS WHICH CAN BE FORFEITED
+- Forfeiture does not equate to losing personal assets.
+- Examples of forfeitable benefits in:
+  - Marriage in community of property
+  - Marriage out of community of property
+- Uncertainty in forfeiture of benefits acquired during marriage versus those conferred in antenuptial contracts.
+
+--- 
+
+## SUMMARY
+- **Forfeiture of Patrimonial Benefits**:
+  - Definition and implications
+  - Requirements and factors: **Wijker v Wijker**, elements of conduct considered
+  - Fairness and justice vs. matrimonial property consequences
+  - Types of forfeitable benefits
+  
+--- 
+
+## NEXT STUDY UNIT
+- Redistribution of assets post-divorce.
+----- END OF FILE -----
+### 1 MARRIAGE LAW
+### 2 MATRIMONIAL PROPERTY LAW
+### 3 DISSOLUTION OF A CIVIL MARRIAGE
+- **General, and dissolution by death**
+
+- **Divorce**
+  - **Grounds for divorce**
+  - **Consequences of divorce**
+    - General implications
+    - Forfeiture of patrimonial benefits
+    - Redistribution of assets
+    - Maintenance of spouses
+    - Consequences regarding children
+
+### 4 CIVIL UNIONS
+
+### 5 CUSTOMARY MARRIAGES
+
+### 6 MUSLIM AND HINDU MARRIAGES
+
+### 7 LIFE PARTNERSHIPS
+
+### 8 THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+### STUDY UNIT 11
+#### Redistribution of Assets 
+- **Purpose**: Discusses circumstances under which courts order asset transfers between spouses.
+
+#### CONTENT OF THIS STUDY UNIT
+1. **Introduction of Redistribution as a Reformative and Remedial Measure**
+   - Addresses disadvantages faced by spouses in complete separation of property.
+   - Legislation: **Divorce Act 70 of 1979**, sections 7(3)-(6) inserted to provide relief.
+
+2. **Prerequisites for a Redistribution Order**
+   - Specific circumstances required for application alongside divorce decree.
+   - Constitutionality concerns regarding varying claims based on marriage dates.
+
+3. **Requirements for a Redistribution Order**
+   - Needs to meet prerequisites and specific requirements.
+   - **Section 7(4)** of the Divorce Act outlines contributions to another spouse’s estate.
+   - Relevant cases: **Beaumont v Beaumont**, **Kritzinger v Kritzinger**.
+
+4. **Other Considerations the Court Takes into Account**
+   - **General Considerations**: Listed under **Section 7(5)** of the Divorce Act.
+   - **Misconduct**: Can be a factor in the court’s decision; cases: **Beaumont v Beaumont**, **Buttner v Buttner**.
+   - **Interrelationship of Sections 7(2) and 7(3)**: Effect of maintenance orders on redistribution; **clean-break principle** discussed in **Beaumont v Beaumont**.
+   - Various other factors considered under **Section 7(5)(d)**.
+
+5. **Assets Considered for Redistribution Order**
+   - Clarity on which assets qualify, including discretionary trusts.
+   - Relevant cases: **Badenhorst v Badenhorst**, **Jordaan v Jordaan**, **BC v CC**, etc.
+
+6. **Date for Valuation of Spouse’s Estate**
+   - Conflicting case law; decide based on case law: **Katz v Katz**, **CC v CM**.
+   - Determined on the date of dissolution according to **Brookstein v Brookstein**.
+
+7. **Criterion for Establishing Redistribution Extent**
+   - Review case law regarding asset division:
+     - Beaumont v Beaumont: 1/3 : 2/3 division
+     - Childs v Childs: Equal division
+     - Other referenced cases for division outcomes.
+
+### PRESCRIBED LEARNING MATERIAL
+- Prescribed textbook pages 138-139 (to section (b)), 141 (from (c) on constitutionality) to 154 (before section 12.5.9).
+----- END OF FILE -----
+# 8 THE FORM A REDISTRIBUTION ORDER MAY TAKE
+
+- **Court Discretion**: The court holds significant discretion in determining the form of a redistribution order and may impose conditions deemed necessary for the order's satisfaction.
+
+---
+
+## **Key Legal Principles**
+- **Legislation**: Divorce Act 70 of 1979, Sections 7(3) to (6)
+- **Case Law References**: Beaumont v Beaumont, Childs v Childs, Bezuidenhout v Bezuidenhout, Kirkland v Kirkland, Joubert v Joubert, Badenhorst v Badenhorst, Buttner v Buttner.
+- **Equitable Distribution**: Redistribution order based on direct contributions to estate growth.
+
+---
+
+### **Criteria for Redistribution Orders**
+- **Entitlement**: 
+  - Married out of community of property before 1 November 1984.
+  - No prior asset division agreement.
+- **Direct Contributions**: Ability to demonstrate contributions to the spouse’s estate.
+- **Existing Means**: Analyzing the parties' financial standing (e.g., R500,000 vs. R10,000).
+
+---
+
+### **Distribution Percentage Examples**
+- **1/3 : 2/3** Division: Mrs. Abrahams entitled to R170,000.
+- **Equal Division**: Mrs. Abrahams entitled to R255,000.
+- **Inadequate Settlement**: R30,000 from Mr. Abrahams deemed insufficient.
+
+---
+
+## **Distinction Between Forfeiture and Redistribution Orders**
+### **Forfeiture Orders**
+- **Source of Law**: Section 9 of the Divorce Act
+- **Application**: Applicable to all marriage types, regardless of date.
+- **Meaning**: Claims forfeited by one spouse against another.
+- **Requirements**:
+  - Consideration of undue benefit.
+  
+### **Redistribution Orders**
+- **Source of Law**: Sections 7(3) to (6) of the Divorce Act
+- **Application**: Exclusively to marriages out of community of property without accrual before 1 November 1984.
+- **Meaning**: One spouse claiming against another.
+- **Requirements**:
+  - Direct/indirect contributions to the estate.
+  - Equitable justifications for making the order.
+
+---
+
+### **Summary of Redistribution Orders**
+- **Purpose**: Address asset redistribution post-divorce for fairness.
+- **Requirements and Considerations**: 
+  - Spousal contributions and needs.
+  - Provisions for calculating estate value and transfer amounts.
+  
+---
+
+# 1 MARRIAGE LAW
+# 2 MATRIMONIAL PROPERTY LAW
+# 3 DISSOLUTION OF A CIVIL MARRIAGE
+- **General Discourse**: Divorce, grounds, consequences, forfeiture of assets, and maintenance provisions.
+  
+---
+
+# 12 Maintenance of a Spouse After Divorce
+### **Module Overview**
+- Interrelationship between asset redistribution and maintenance focused on post-divorce maintenance under Divorce Act provisions.
+
+---
+
+### **Purpose of Study Unit**
+- Understanding agreements and court regulations on maintenance orders.
+- Exploration of factors governing maintenance considerations.
+  
+---
+
+## CONTENT OF THIS STUDY UNIT
+### 1 GENERAL
+- **Agreement Distinction**: Section 7(1) for agreements and Section 7(2) for disagreements regarding maintenance.
+  
+### 2 MAINTENANCE ORDERS UNDER SECTION 7(2)
+#### 2.1 General
+- **Court Authority**: Courts can issue maintenance orders deemed just until the recipient’s death or remarriage.
+- **Proving Need**: Critical for post-divorce maintenance claim success.
+
+#### 2.2 Factors for Consideration 
+- **Section 7(2) Factors**: 
+  1. Existing or prospective means of the spouse.
+  2. Financial needs and obligations.
+  3. Duration of the marriage.
+  4. Impact of any previous redistribution orders.
+  
+--- 
+
+### **Legislation and Cases**: 
+- Refer to Divorce Act 70 of 1979, particularly Sections 7(2) and 8 regarding maintenance orders and their variations.
+- Key case: Kooverjee v Kooverjee 2006 (6) SA 127 (C) 
+
+--- 
+
+(Note: All learning activities and feedback removed as per instructions.)
+----- END OF FILE -----
+# Study Notes on Maintenance Orders and Child Interests in Divorce
+
+## 2.3 The movement towards rehabilitative maintenance or no maintenance at all
+- Women cannot rely on lifelong maintenance from marriage.
+- Permanent maintenance orders rarely granted.
+- Women in paid employment expected to self-maintain; non-employed women expected to find or increase paid work post-divorce.
+- Rehabilitative maintenance defined; relevant cases include **Botha v Botha** and **Kooverjee v Kooverjee**.
+- Clean-break principle often overlooks long-term impacts of domestic and childcare responsibilities.
+
+## 2.4 Lump-sum maintenance
+- Historically, courts hesitant to allow lump-sum maintenance.
+- Current permissibility of lump-sum maintenance established through cases **Zwiegelaar v Zwiegelaar** and **Oshry v Feldman**.
+
+## 2.5 Token or nominal maintenance
+- Token maintenance may be awarded even if not needed immediately, to provide future support.
+- Allowed under circumstances outlined in section 7(2) of the Divorce Act.
+- Relevant cases: **Qoza v Qoza**, **Buttner v Buttner**.
+
+## 3 RESCISSION, SUSPENSION AND VARIATION OF MAINTENANCE ORDERS
+
+### 3.1 General
+- Governed by section 8 of the Divorce Act.
+- Maintenance orders can be varied by Maintenance Court under the Maintenance Act.
+- Reference: **Cohen v Cohen** regarding partial variation of High Court orders.
+
+### 3.2 Meaning of "sufficient reason" (section 8(1), Divorce Act 70 of 1979)
+- No strict definition; context-dependent.
+- Generally indicates change in circumstances but specific statutory requirement absent.
+- Courts reluctant to vary maintenance from settlement agreements.
+- Examples:
+  - Sufficient reasons may include fraudulent non-disclosure.
+  - Insufficient reasons: voluntary extra responsibilities, cohabitation of maintenance recipient, inflation.
+
+## 4 TERMINATION OF A MAINTENANCE ORDER
+
+### 4.1 General
+- Maintenance order cessation discussed on pp 167-169.
+- Distinct rules for orders under sections 7(1) vs. 7(2) of Divorce Act.
+
+### 4.2 Section 7(1) orders
+- Ends on specified date/event in settlement agreement.
+
+### 4.3 Section 7(2) orders
+- Ends on specified date, death of recipient, remarriage of recipient, or death of debtor (as per **Kruger v Goss**).
+- Discussion on perceived injustice of **Kruger v Goss** ruling.
+
+## Summary 
+- Factors for maintenance orders.
+- Rehabilitative maintenance concepts and case law.
+- Lump-sum and token maintenance instances.
+- Rescission, suspension, and variation protocols.
+- Termination conditions for maintenance orders.
+
+## 1 MARRIAGE LAW
+## 2 MATRIMONIAL PROPERTY LAW
+## 3 DISSOLUTION OF A CIVIL MARRIAGE
+### General, and dissolution by death
+### Divorce
+- Grounds for divorce.
+- Consequences: forfeiture of patrimonial benefits, redistribution of assets, maintenance of spouses, consequences regarding children.
+
+## 4 CIVIL UNIONS
+## 5 CUSTOMARY MARRIAGES
+## 6 MUSLIM AND HINDU MARRIAGES
+## 7 LIFE PARTNERSHIPS
+## 8 RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+### STUDY UNIT 13: Interests of children of divorcing parents
+#### Overview
+- Focus on children's well-being amidst divorce impacts.
+- Addressed prior units: forfeiture of benefits, asset redistribution, spouse maintenance.
+
+#### Purpose of Study Unit
+- Define child’s best interests protections in legislation.
+- Identify factors for assessing children's best interests upon divorce.
+- Explain Mediation in Certain Divorce Matters Act’s role for children.
+- Discuss sections 6(1) to (4) of Divorce Act’s provision.
+- Understand guardianship types and care orders.
+- Structured contact forms for non-care-giving parents discussed.
+- Continuous support obligation post-divorce.
+- Enforcement of parental responsibilities and rights outlined.
+- Conditions under which orders may be rescinded, varied, or suspended. 
+
+## 2 THE BEST INTERESTS OF THE CHILD
+- Paramount principle ensuring the best interests of children under legal scrutiny in divorce.
+- Key legal references: 
+  - Section 28(2) of the Constitution.
+  - Sections 6, 7, and 9 of the Children’s Act 38 of 2005.
+  - Relevant international conventions (e.g., CEDAW, UNCRC, African Charter).
+----- END OF FILE -----
+# Study Notes
+
+## Page 99-104
+
+### 3. THE MEDIATION IN CERTAIN DIVORCE MATTERS ACT 24 OF 1987
+- **Enquiry Requirement**: Must be instituted at request of a party; relevant case: **Van Vuuren v Van Vuuren**.
+- **Purpose**: Evaluate child-related issues.
+- **Family Advocate Duties**: Oversee procedures; coordinate with family counsellors.
+
+### 4. THE DIVORCE ACT 70 OF 1979
+- **Sections 6(1) to (4)**: Grants courts authority over maintenance, custody, guardianship, access.
+- **Children’s Act Section 10**: Addresses child's views and their ascertainment methods.
+
+### 5. ASPECTS THE COURT MAY REGULATE
+#### 5.1 General
+- **Section 6(3)**: Court can order maintenance, custody, guardianship, and access.
+- **Terminology**: Shift from “custody/access” to “care/contact” as per the **Children’s Act**.
+  
+#### 5.2 Guardianship
+- **Meaning**: Broad vs. narrow definitions at common law and under **Children’s Act Section 18(3)**.
+- **Court Orders**: Understand equal (joint), guardianship simpliciter (single), and sole guardianship conditions.
+
+#### 5.3 Care
+- **Meaning**: Broad interpretation under **Children's Act Section 1(1)**.
+- **Court Orders**: Rejects maternal preference; cases such as **Van der Linde v Van der Linde** illustrate this.
+  - Joint care considerations: Distinction between joint legal and physical care.
+  - Court hesitancy and advantages of joint care noted.
+  - Case **Krugel v Krugel** relevant for application of joint care.
+
+#### 5.4 Contact
+- **Meaning**: Physical and virtual interactions.
+- **Court Orders**: Distinction between “reasonable” and “structured” contact.
+  - Conditions for care-giving parent and limitations on non-care-giving parent.
+  - Types of contact: phased, supervised, non-physical, and total denial conditions.
+  - Critique of judgments in **Van Rooyen v Van Rooyen** and subsequent cases.
+
+#### 5.5 Maintenance
+- **Meaning**: Obligation remains post-divorce according to respective means.
+
+### 6. ENFORCEMENT OF GUARDIANSHIP, CARE AND CONTACT
+#### 6.1 Introduction
+- Overview of enforcement measures for parental responsibilities.
+
+#### 6.2 Interdict
+- **Circumstances for Interdict**: Against interference in guardianship, care, or contact.
+
+#### 6.3 Compliance Orders
+- **Non-compliance**: Court issues compliance orders; jurisdiction in cases involving international child abduction.
+
+#### 6.4 Reasonable Force
+- Discussion on parental rights vs. child's opposition to contact.
+
+#### 6.5 Criminal Sanctions
+- Identifies criminal conduct related to guardianship and conditions for contempt of court.
+
+### 7. RESCISSION, SUSPENSION AND VARIATION OF AN ORDER MADE UPON DIVORCE
+- **Section 8(1) Divorce Act**: Court may rescind or vary orders on sufficient reason; paramount concern: child’s best interests.
+- **High Court Powers**: Can amend any guardianship, care, contact, or maintenance orders. 
+
+### SUMMARY
+- **Best Interests of the Child**: Central to all decisions post-divorce.
+- Key concepts to note:
+  - Criterion of "best interests of the child".
+  - Family Advocate enquires per **Mediation Act**.
+  - Divorce Act provisions.
+  - Methods of assessing child’s wishes.
+  - Definitions and awarding of guardianship, care, and contact.
+  - Parental maintenance duties post-divorce.
+  - Enforcement of parental responsibilities.
+  - Procedures for rescission, variation, or suspension of court orders post-divorce.
+----- END OF FILE -----
+# MARRIAGE LAW  
+
+## DISSOLUTION OF A CIVIL MARRIAGE  
+- Not discussed in the provided content.  
+
+## CIVIL UNIONS  
+### Requirements for a valid civil union  
+- Defined under **Civil Union Act 17 of 2006**.  
+- Available for opposite-sex and same-sex partners.  
+- Similar requirements to civil marriage, except:  
+  - Minors cannot enter into a civil union.  
+
+### Consequences of a civil union  
+- Similar to civil marriage consequences, both variable and invariable.  
+- Reference prior study units (3 to 6) for details.  
+
+### Dissolution of a civil union  
+- Follows the same rules as civil marriage dissolution.  
+- Redistribution of assets not available for civil unions; applicable only prior to specific dates (1 November 1984 and 2 December 1988).  
+- Civil Union Act became effective on **30 November 2006**.  
+- Refer to relevant study units for principles applicable to civil unions.  
+
+## CUSTOMARY MARRIAGES  
+- Not discussed in the provided content.  
+
+## MUSLIM AND HINDU MARRIAGES  
+- Not discussed in the provided content.  
+
+## LIFE PARTNERSHIPS  
+- Not discussed in the provided content.  
+
+## THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN  
+- Not discussed in the provided content.  
+
+## CONTENT OF THIS STUDY UNIT  
+### Overview  
+- Civil union defined: marriage or civil partnership under the **Civil Union Act 2006**.  
+- Parties can choose terminology (“civil partnership” or “marriage”); effects are equivalent.  
+
+### Legal Requirements for a Civil Union  
+- Validity depends on meeting legal criteria akin to civil marriage.  
+
+### Consequences of a Civil Union  
+- Outcomes mirror those of civil marriages; variations allowed.  
+
+### The Dissolution of a Civil Union  
+- Similar dissolution principles to civil marriages.  
+- Key differences in asset redistribution eligibility.  
+
+## SUMMARY  
+- Key points to remember about civil unions:  
+  - Definition  
+  - Requirements  
+  - Variable and invariable consequences  
+  - Dissolution aspects  
+----- END OF FILE -----
+# Study Notes on Customary Marriages
+
+## 1. INTRODUCTION  
+- **Customary marriage** is recognized as a valid marriage under South African law.  
+- Governed by **Recognition of Customary Marriages Act 120 of 1998**.  
+- Merges principles of customary law with those of civil law regarding marriage.
+
+## 2. THE LEGAL REQUIREMENTS FOR A CUSTOMARY MARRIAGE  
+- Differentiates between customary marriages before and after **15 November 2000**.  
+- Validity of pre-Act marriages is determined by customary law; post-Act requires adherence to **Recognition of Customary Marriages Act**.  
+- Additional requirements exist for minor’s customary marriages.
+
+## 3. REGISTRATION OF THE MARRIAGE  
+- Customary marriages must be registered, but non-registration does not invalidate the marriage.  
+- Registration acts as **prima facie proof** of the marriage.
+
+## 4. THE PATRIMONIAL CONSEQUENCES OF THE MARRIAGE AND CONTROL OF THE MATRIMONIAL PROPERTY  
+- **Monogamous marriages**: Similar consequences regardless of the date of marriage; affirmed by **Gumede v The President of the Republic of South Africa**.
+- **Polygynous marriages**: Different rules apply depending on before or after the Act.  
+  - Pre-Act marriages follow traditional customary law.  
+  - Post-Act requires a **court-approved contract** to regulate matrimonial property distribution.
+
+## 5. THE WIFE’S STATUS  
+- Wives in customary marriages have equal status to husbands, gaining full legal capacity.  
+- Ambiguity exists about the equality among wives in polygynous marriages.
+
+## 6. TERMINATION OF THE MARRIAGE BY DIVORCE  
+### 6.1 Ground for Divorce  
+- Sole ground: **Irretrievable breakdown of the marriage**.
+
+### 6.2 The Consequences of Divorce  
+- Patrimonial consequences align with civil marriage principles.  
+- Courts empowered by **section 8(4)(a)** to redistribute assets for all customary marriages; **section 8(4)(b)** specific to polygynous marriages.
+
+### 6.3 Joinder, Jurisdiction, Procedure and Interim Relief  
+- Procedural aspects relevant to divorce under customary law outlined in relevant case laws and statutes.
+
+---
+
+**Legislation Highlighted**:  
+- Recognition of Customary Marriages Act 120 of 1998  
+- Case Reference: *Gumede v The President of the Republic of South Africa*  
+
+---
+
+**Diagram References**:  
+- Consider illustrations depicting the differences between monogamous and polygynous customary marriage consequences.
+----- END OF FILE -----
+# MARRIAGE LAW
+
+## DISSOLUTION OF A CIVIL MARRIAGE
+
+## CIVIL UNIONS
+
+## MATRIMONIAL PROPERTY LAW
+
+## CUSTOMARY MARRIAGES
+
+### 7 TERMINATION OF THE MARRIAGE BY DEATH
+- **7.1 Death as a ground for termination**
+  - **Recognition of Customary Marriages Act**: Silence on death termination.
+  - **KwaZulu-Natal**: Section 36(1) of Zulu Codes states death terminates marriages.
+  - **Outside KwaZulu-Natal**: Assumed not a termination ground.
+
+- **7.2 Maintenance of the surviving spouse(s)**
+  - Application of the **Maintenance of Surviving Spouses Act** necessary for claims against deceased's estate.
+  - Applicability to **customary marriages** raises questions, specifically regarding polygynous marriages.
+
+### 8 THE CO-EXISTENCE OF A CUSTOMARY MARRIAGE AND A CIVIL MARRIAGE OR CIVIL UNION
+- **Civil Marriage/Civil Union**: Not permissible to enter a customary marriage concurrently.
+- **Customary Marriage**: Cannot enter civil marriage/civil union with another outside of customary marriage.
+- **Civil Marriage between Customary Spouses**: Allowed, but not civil union. Refer to pages 234-236 for implications of conversion to civil marriage (pages 236-237).
+
+### SUMMARY
+- Key aspects of customary marriages include:
+  - Legal requirements for valid customary marriages.
+  - Registration processes for customary marriages.
+  - Proprietary implications of monogamous vs. polygynous customary marriages.
+  - Impact of the **Recognition of Customary Marriages Act** on the status of wives.
+  - Termination of customary marriages through divorce and death.
+  - Conditions required for entering civil marriages post-customary.
+  - Effects of civil marriages on existing customary law marriages.
+
+---
+
+## LIFE PARTNERSHIPS
+
+## THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+---
+
+# STUDY UNIT 16 - Muslim and Hindu marriages
+
+## MODULE MAP
+
+### OVERVIEW
+- Limited recognition of Muslim and Hindu marriages in South African law. 
+- Exploration of reasons for non-recognition, limited legislative and judicial acknowledgment, and constitutional challenges.
+
+### PURPOSE OF THIS STUDY UNIT
+- Explain non-recognition reasons.
+- Identify legislative recognitions for Muslim and Hindu marriages.
+- Discuss court recognitions.
+- Assess the constitutionality of non-recognition.
+
+### PRESCRIBED LEARNING MATERIAL
+- **Prescribed textbook**: Pages 241-251.
+
+### CONTENT OF THIS STUDY UNIT
+
+#### 1 INTRODUCTION
+- Current legal landscape denies full benefits of marriage.
+- Limited recognition for specific legal purposes through statutes and court decisions.
+
+#### 2 RECOGNITION OF MUSLIM AND HINDU MARRIAGES
+- Certain **Acts** extend recognition; refer to heading “18.2 Recognition of Muslim marriages” in the textbook.
+- Judicial interpretations provide additional recognition; refer to relevant discussions for specific cases.
+
+#### 3 THE CONSTITUTION AND MUSLIM AND HINDU MARRIAGES
+- **Arguments for recognition**: Discrimination based on religion/culture, right to dignity, and cultural participation.
+- **Arguments against**: Claims of discrimination on sex and gender grounds.
+- Critical discussion relies on both Muslim and Hindu contexts.
+
+### SUMMARY
+- Reviewed aspects of Muslim and Hindu marriages:
+  - Reasons for non-recognition.
+  - Legislative recognition extent.
+  - Court decisions on extended recognition.
+  - Constitutional debates surrounding recognition.
+----- END OF FILE -----
+# 1 MARRIAGE LAW
+
+## 2 MATRIMONIAL PROPERTY LAW
+
+## 3 DISSOLUTION OF A CIVIL MARRIAGE 
+
+## 4 CIVIL UNIONS 
+
+## 5 CUSTOMARY MARRIAGES 
+
+## 6 MUSLIM AND HINDU MARRIAGES 
+
+## 7 LIFE PARTNERSHIPS
+
+### 8 THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+---
+
+## STUDY UNIT 17 - Life Partnerships
+
+**DEFINED**: A life partnership is the relationship of couples living together without a legally recognized marriage. Lacks standard marriage consequences but has some recognition through legal mechanisms.
+
+### CONTENTS OF THIS STUDY UNIT
+
+#### 1. INTRODUCTION 
+- Life partnerships defined with exceptions for statutory recognition.
+- Various Acts and court decisions provide recognition and protection.
+- Importance of ordinary legal rules, such as contracts and wills, for life partners.
+
+#### 2. LEGISLATIVE AND JUDICIAL RECOGNITION OF LIFE PARTNERSHIPS 
+- Certain Acts treat life partners as spouses for specific purposes. 
+- Key Acts confer benefits, including:
+  - Medical scheme and job-related benefits (for heterosexual partnerships).
+  - Limited court extensions of spousal benefits to heterosexual life partners (Volks v Robinson 2005 (5) BCLR 446 (CC)).
+  - Spousal benefits available to same-sex partners via key cases:
+    - *Langemaat v Minister of Safety and Security*
+    - *Satchwell v President of the Republic of South Africa*
+    - *National Coalition for Gay and Lesbian Equality v Minister of Home Affairs*
+    - *Du Plessis v Road Accident Fund*
+    - *Farr v Mutual & Federal Insurance Co Ltd*
+    - *J v Director General, Department of Home Affairs*
+    - *Du Toit v Minister for Welfare and Population Development*
+    - *Centre for Child Law v Minister of Social Development*
+    - *Gory v Kolver*
+
+#### 3. THE CONSTITUTION AND LIFE PARTNERSHIPS 
+- Most decisions regarding spousal benefits pre-date the **Civil Union Act**, which recognizes civil unions for both same-sex and heterosexual partners.
+- Result: Same-sex life partners have more rights due to historical context.
+- Assessment of constitutional acceptability of differential treatment between same-sex and heterosexual life partners.
+
+### SUMMARY 
+- Description and understanding of life partnerships.
+- General rule on legal consequences of non-marital cohabitation.
+- Limited legislative recognition of heterosexual life partnerships.
+- Significance of *Volks v Robinson* case.
+- Extension of rights to same-sex life partnerships through legislation.
+- Constitutional implications of differential treatment in life partnerships.
+----- END OF FILE -----
+# 1 MARRIAGE LAW
+## 3 DISSOLUTION OF A CIVIL MARRIAGE
+## 4 CIVIL UNIONS
+## 2 MATRIMONIAL PROPERTY LAW
+## 5 CUSTOMARY MARRIAGES
+## 6 MUSLIM AND HINDU MARRIAGES
+## 7 LIFE PARTNERSHIPS
+## 8 THE RESPONSIBILITIES AND RIGHTS OF PARENTS AND CHILDREN
+
+### Children's rights
+- **Section 28 of the Constitution**: Rights afforded to children.
+- **Children’s Act 38 of 2005**: Enhances the constitutional rights of children.
+- **Best Interests Principle**: Paramount in law (Section 28(2)).
+
+### Parental responsibilities and rights
+- Shift from parental authority to parental responsibilities and rights.
+- Responsibilities include child's maintenance.
+
+### Duty of support in respect of a child
+
+# STUDY UNIT 18 Children’s rights  
+## MODULE MAP OVERVIEW
+- Focus: Special rights of children (Section 28, Constitution; Children’s Act).
+- Concepts revisited: Best interests of the child.
+
+## PURPOSE OF THIS STUDY UNIT
+- Identify shift in parent-child relationship focus.
+- Name rights under Section 28(1) of the Constitution.
+- Discuss paramountcy of child’s best interests.
+- Recognize supplementary rights via Children’s Act.
+
+## CONTENT OF THIS STUDY UNIT
+1. **INTRODUCTION**
+   - Shift in private-law rules for parent-child relationships.
+  
+2. **SECTION 28 OF THE CONSTITUTION OF THE REPUBLIC OF SOUTH AFRICA, 1996**
+   - Rights for children (Section 28(1)(a)-(i)).
+
+3. **THE PARAMOUNTCY OF THE CHILD’S BEST INTERESTS**
+   - Section 28(2) collates child’s interests in law enforcement.
+
+4. **THE CHILDREN’S ACT 38 OF 2005**
+   - Reflects constitutional rights and international instruments.
+
+## SUMMARY
+- Understand: Section 28 rights and supplementary rights from Children’s Act.
+
+# STUDY UNIT 19 Parental Responsibilities and Rights  
+## MODULE MAP OVERVIEW
+- Focus on parental responsibilities and rights, concepts: guardianship, care, contact.
+
+## PURPOSE OF THIS STUDY UNIT
+- Explain parental responsibilities and rights.
+- Clarify guardianship, care, and contact responsibilities.
+- Discuss acquisition of parental responsibilities and rights.
+- Outline limitations for co-holders.
+- List termination methods for parental responsibilities and rights.
+
+## CONTENT OF THIS STUDY UNIT
+1. **THE CONTENTS OF PARENTAL RESPONSIBILITIES AND RIGHTS**
+   1.1 **General**
+   - Transition from "parental authority" to "parental responsibilities and rights."
+   - Responsibilities include contributing to child’s maintenance.
+
+   1.2 **Guardianship**
+   - Define roles and obligations of guardians as per statutory provisions.
+----- END OF FILE -----
+# Study Notes on Parental Responsibilities and Rights
+
+## 1.3 Care
+- Definition of care per **Children’s Act** section 1(1).
+- Broad discretion for caregiving parent in day-to-day decisions. 
+
+## 1.4 Contact
+- Meaning of contact and methods of implementation.
+- Contact rights temporarily allow exercise of care responsibilities (see **Allsop v McCann**).
+
+---
+
+## 2 WAYS OF ACQUIRING PARENTAL RESPONSIBILITIES AND RIGHTS
+
+### 2.1 General
+- Various methods to acquire parental responsibilities and rights.
+
+### 2.2 Birth
+- Understand the rights of biological mother, guardian, surrogate, and commissioning parents regarding parental responsibilities upon child's birth (p. 311-312).
+
+### 2.3 Marriage/Civil Union with Biological Mother
+- Both men and women can gain parental rights through marriage. 
+- Broad definition of marriage as per **Children’s Act**.
+
+### 2.4 Marriage/Civil Union post-Birth
+- Father of a child born out of wedlock gains full rights upon marrying mother post-birth (under **Marriage Act** or **Civil Union Act**).
+
+### 2.5 Permanent Life Partnership
+- Unmarried biological father gains full rights if in a permanent partnership with the mother at the time of the child's birth.
+
+### 2.6 Acknowledgment of Paternity
+- Unmarried biological father can acquire parental rights through acknowledging paternity and contributing to upbringing.
+
+### 2.7 Parental Responsibilities and Rights Agreement
+- Unmarried biological father or interested parties can secure rights via a formal agreement.
+- Requirements and termination/amendment procedures discussed in the textbook.
+
+### 2.8 Assignment by Court Order
+- Three methods for acquiring parental rights through court orders for those without existing rights.
+
+### 2.9 Appointment in a Will
+- Statutory provisions for appointing successors for sole guardianship or care post-death.
+
+### 2.10 Adoption
+- (a) Adoption as a means to gain full parental rights.
+- (b) Definition of an adoptable child.
+- (c) Eligibility criteria for adoptive parents.
+
+---
+
+## 3 THE POSITION WHEN MORE THAN ONE PERSON HAS PARENTAL RESPONSIBILITIES AND RIGHTS
+
+### 3.1 General
+- Co-holders can exercise rights independently but may require mutual consent for certain actions.
+
+### 3.2 Guardianship
+- Consent required for significant decisions (e.g., emigration issues impacted by cases **Jackson v Jackson** and **F v F**).
+
+### 3.3 Consideration of Co-holders’ Views
+- Limitation on decision-making powers to ensure consideration of others’ views.
+
+### 3.4 Prohibition on Surrender/Transfer
+- Co-holders can't agree to transfer responsibilities entirely to one party.
+
+### 3.5 Parenting Plan
+- Co-holders must attempt mediation before court disputes.
+- Understand formalities for registering and modifying parenting plans.
+
+---
+
+## 4 TERMINATION OF PARENTAL RESPONSIBILITIES AND RIGHTS
+- Study methods for termination as defined in **Children's Act** section 23.6.1.
+
+---
+
+## Summary
+- Overview of parental responsibilities and rights, including guardianship, care, contact, acquisition methods, co-holder dynamics, and termination of rights. 
+
+---
+
+## Table of Contents
+1. Marriage Law
+2. Dissolution of Civil Marriage
+3. Civil Unions
+4. Matrimonial Property Law
+5. Customary Marriages
+6. Muslim and Hindu Marriages
+7. Life Partnerships
+8. Responsibilities and Rights of Parents and Children
+   - Children’s Rights
+   - Parental Responsibilities and Rights
+   - Duty of Support in Respect of a Child
+
+----- END OF FILE -----
+# STUDY NOTES ON DUTY OF SUPPORT
+
+### PURPOSE OF THIS STUDY UNIT
+- Scope and calculation of the duty of support
+- Duty to support: parents, grandparents, siblings; step-parent's duty unclear
+- Enforcement of the duty of support
+- Reciprocity of the duty of support
+- Termination of the duty of support
+
+### PRESCRIBED LEARNING MATERIAL
+- Textbook pp. 303-310 (Maintenance)
+- Textbook pp. 349-352 (Enforcement of parental responsibilities and rights)
+
+### CONTENT OF THIS STUDY UNIT
+
+#### 1. GENERAL
+- Definition of maintenance: includes necessary expenses for child
+- Factors influencing maintenance scope 
+- Calculation steps for maintenance contributions: court aggregates usually specify total amount
+
+#### 2. THE BEARERS OF THE DUTY TO SUPPORT A CHILD
+- **State**: obligated only if parents/family cannot provide support
+- **Parents**: support duty exists ex lege
+- **Grandparents**: duty arises if neither parent can support; reforms on paternal grandparents' duties
+- **Siblings**: responsible if parents/grandparents are unable to support
+- **Others in care**: includes those under court orders or agreements
+- **Step-parents**: traditionally not obligated under common law, but **Heystek v Heystek** and **MB v NB** challenge this, suggesting implied support obligation under constitutional rights.
+
+#### 3. RECOVERY OF EXPENSES RELATING TO SUPPORT
+- No right of recourse against children for maintenance provided
+- One parent may recover excess expenses from the other parent
+
+#### 4. THE RECIPROCITY OF THE DUTY OF SUPPORT
+- Parents must support children; children reciprocate support
+- Grandchildren must support grandparents likewise
+- Conditions for support duty elaborated in the textbook
+
+#### 5. ENFORCEMENT OF THE DUTY OF SUPPORT
+- **Children’s Act, section 305(4)**: Legal obligation to maintain children; failing to do so is an offence
+
+#### 6. TERMINATION OF THE DUTY OF SUPPORT
+- Ends in the following instances:
+  - Child’s death (not parent's)
+  - Child's adoption
+  - Child becoming self-supporting
+  - Child entering marriage/civil union (still able to claim from parents/grandparents if unable to support)
+
+- Distinction between termination of a maintenance order and duty of support detailed in **23.6.3 Termination of an order regarding a child’s maintenance** in textbook.
+
+### SUMMARY
+- Covered scope of duty of support
+- Identified obligations of state, parents, grandparents, siblings
+- Clarified care obligations
+- Discussed step-parent obligations
+- Reviewed reciprocity, enforcement, and termination of duty of support

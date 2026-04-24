@@ -1,0 +1,2781 @@
+# CRW2602 Study Notes
+
+## Introduction
+- **Objective**: Study specific crimes, building upon general principles from CRW2601.
+- **Course Outcomes**: Evaluate whether an individual has committed specific crimes (complete/incomplete) by assessing conduct and state of mind.
+
+## Part A: Crimes against the state and the administration of justice
+
+### LEARNING UNIT 1: Crimes against the state
+- Definition and classification of crimes against the state.
+- Relevant legislation: **Criminal Procedure Act**.
+- Significant cases: *S v. Mhlongo*.
+
+### LEARNING UNIT 2: Crimes against the administration of justice
+- Types of obstruction of justice.
+- Key statutes: **Prevention of Terrorism Act**.
+- Important cases: *S v. Wessels*.
+
+## Part B: Crimes against the community
+
+### LEARNING UNIT 3: Crimes against public welfare
+- Overview of public welfare crimes.
+- Legislation: **Environmental Conservation Act**.
+- Examples of statutory offences.
+
+### LEARNING UNIT 4: Sexual crimes
+- Definition of sexual crimes.
+- Core legislation: **Criminal Law (Sexual Offences and Related Matters) Amendment Act**.
+- Notable cases: *S v. Z*.
+
+## Part C: Crimes against the person
+
+### LEARNING UNIT 5: Crimes against life and potential life
+- Concepts of murder and culpable homicide.
+- Key legislation: **Common Law Principles**.
+- Landmark cases: *S v. Breetzke*.
+
+### LEARNING UNIT 6: Crimes against bodily integrity
+- Definitions of assault and related offences.
+- Relevant medium: **Assaults and Battery Act**.
+- Important case law: *S v. Thebus*.
+
+### LEARNING UNIT 7: Crimes against dignity, reputation and freedom of movement
+- Legal concepts: Defamation and invasion of privacy.
+- Applicable laws: **Protection from Harassment Act**.
+- Noteworthy cases: *K v. Minister of Safety and Security*.
+
+## Part D: Crimes against property
+
+### LEARNING UNIT 8: Theft
+- Definition and categories of theft.
+- Key legislation: **Theft Act**.
+- Relevant cases: *S v. Van der Merwe*.
+
+### LEARNING UNIT 9: Robbery and receiving stolen property
+- Types of robbery and legal terminology.
+- Significant statutes: **Robbery Act**.
+- Case examples: *S v. Ngubane*.
+
+### LEARNING UNIT 10: Fraud and related crimes
+- Definition and types of fraud.
+- Applicable laws: **Fraud Prevention Act**.
+- Critical case reference: *S v. Dube*.
+
+### LEARNING UNIT 11: Crimes relating to damage to property
+- Types of property damage offenses.
+- Relevant legislation: **Property Damage and Protection Act**.
+- Case law: *S v. Mokoena*.
+
+### LEARNING UNIT 12: Housebreaking with the intent to commit a crime
+- Overview of housebreaking offenses.
+- Relevant statutes: **Housebreaking Act**.
+- Notable cases: *S v. Ndlovu*. 
+
+## Conclusion
+- Emphasis on the necessity of consulting prescribed materials and supplementary texts for comprehensive understanding.
+- Recommendations for focus areas based on exam preparation. 
+
+## Diagram References
+- Refer to relevant diagrams in prescribed texts for visual representations of concepts and themes discussed.
+
+---
+
+This study guide covers critical components of the CRW2602 module while preserving necessary details for effective studying.
+----- END OF FILE -----
+# Study Notes for Criminal Law
+
+## 1. Contents of Learning Units
+- Learning units comprise:
+  - Table of contents
+  - List of learning outcomes
+  - Brief introduction to the topic
+  - Detailed exposition of the topic
+  - Activities & feedback (excluded)
+  - Hot topics for discussion
+  - Concise summary of principles
+  - "Test yourself" questions (excluded)
+- Diagrams may illustrate material subdivisions or scenarios.
+
+## 2. Importance of Comprehensive Study
+- Examine entire study guide for all potential exam questions.
+- "Study objectives" outline key points but do not encompass all exam material.
+
+## 3. Study Icons
+- **Icons convey specific messages:**
+  - Common pitfalls to avoid
+  - Study tips for specific material or exam questions
+  - Required case readings (reference court cases)
+  - Focus on important facts
+  - Discussion prompts for critical evaluation
+  - Suggested further reading
+  - Definitions to master (highlighted in screened blocks)
+
+## 4. Exam Preparation
+- Understand definitions well enough to write in exams.
+- Key definitions will be highlighted; mastery required.
+- Don’t underestimate the subject; criminal law concepts are complex.
+- Understand elements of offences for application in case scenarios.
+- Focus on key cases; memorize leading case names.
+- Do not memorize case references; grasp comprehension is crucial.
+- Importance of completing all sections of study guide is emphasized.
+
+## 5. Remarks on Specific Crimes
+- Not all crimes can be covered; will focus on key offences.
+- Crimes classified generally into:
+  1. Crimes against the state and justice
+  2. Crimes against community
+  3. Crimes against persons
+  4. Crimes against property
+- Discuss murder and culpable homicide as foundational examples.
+
+### Key Definitions:
+- **Murder:** Unlawful, intentional causing of another's death.
+- **Culpable Homicide:** Unlawful, negligent causing of another's death.
+
+## 6. Abbreviations
+- Snyman's *Criminal Law* is referred to as Criminal Law (6th edition, 2014).
+- Case references: streamlined citation format (e.g., Williams 1970 (2) SA 654 (A)).
+- Use of X for perpetrator/accused and Y for victim.
+
+## 7. Gender Language
+- Equal treatment of genders is maintained; female form in even-numbered units and male in odd-numbered.
+- Exceptions include certain descriptions and quotations from cases or legislation.
+----- END OF FILE -----
+# PART A
+## Crimes against the state and the administration of justice
+
+### Contents
+- LEARNING UNIT 1: Crimes against the state
+- LEARNING UNIT 2: Crimes against the administration of justice
+
+---
+
+## LEARNING UNIT 1: Crimes against the state
+### 1.1 BACKGROUND
+- Common-law crimes: High treason, sedition.
+- Limited focus on **terrorism** and **public violence** due to their prevalence.
+
+### 1.2 TERRORISM
+#### 1.2.1 Introduction
+- Statutory offence under **Protection of Constitutional Democracy against Terrorist and Related Activities Act 33 of 2004**.
+- Objectives: Prevent terror acts, protect civilians, bring terrorists to justice, prohibit South Africa as a haven for terrorism, and international cooperation against terrorism.
+
+#### 1.2.2 Definition
+- **Terrorist activities** defined broadly in **section 1** of the Act, including:
+  - Violence by any means.
+  - Exposure to harmful substances.
+  - Endangerment or serious bodily harm causing death.
+  - Risk to public health or safety.
+  - Destruction of property or environmental damage.
+  - Disruption of essential services/system.
+  - Major economic loss.
+  - Creation of public emergencies or insurrections.
+
+- **Case Reference**: *S v Okah [2018] ZACC 3* showcases extraterritorial harm related to terrorism.
+
+#### 1.2.3 Elements of the crime
+- **Act**: Specific conduct defined by the Act.
+- **Unlawfulness**: Conduct must be unlawful.
+- **Specific Intention**: 
+  - Aimed at threatening national unity/territorial integrity.
+  - Causing public insecurity or terror.
+  - Compelling or intimidating individuals/government/public.
+
+- Purpose: Advancement of political, religious, ideological, or philosophical motives.
+- Knowledge of core definition elements is vital; memorization of exhaustive details is unnecessary.
+
+### 1.3 PUBLIC VIOLENCE
+#### 1.3.1 Definition
+- Defined in terms of collective unlawful acts causing public disorder.
+
+#### 1.3.2 Elements of the crime
+- Requires unlawful conduct in a collective context.
+  
+#### 1.3.3 The object or interest protected
+- Protects public order and safety.
+
+#### 1.3.4 Joint action
+- Requires participation in concerted conduct by multiple persons.
+
+#### 1.3.5 Examples of conduct
+- Rioting, mob violence.
+
+#### 1.3.6 Serious proportions
+- Must involve significant disturbance or danger to the public.
+
+#### 1.3.7 Unlawfulness
+- Conduct must violate legal norms.
+
+#### 1.3.8 Intent
+- Requires culpable intent connected to the collective action.
+
+---
+
+### Learning Outcomes
+- Understanding criminal liability for terrorism and public violence.
+----- END OF FILE -----
+# PART A: CRIMES AGAINST THE STATE AND THE ADMINISTRATION OF JUSTICE
+
+## 1.2 TERRORISM
+
+### 1.2.4 The Object or Interest Protected
+- Safety and security of the Republic, its institutions, and people.
+
+### 1.2.5 The Act
+- Prohibited conduct includes:
+  - Use of violence
+  - Release of toxic substances
+  - Endangering life/physical integrity
+  - Serious health and safety risks to the public
+  - Property damage
+  - Serious interference with services
+  - Economic destabilization
+  - Creation of public emergencies or insurgencies
+
+### 1.2.6 Unlawfulness
+- Compulsion may justify an act.
+- Acts forming part of protests/dissent, without intent to harm, are excluded (Constitution ss 10, 23(2)(c)).
+
+### 1.2.7 Intention
+- Requires specific intention with two components:
+  - **First Component**:
+    - Threaten the Republic's unity and territorial integrity.
+    - Intimidate the public or segments regarding security.
+    - Unduly compel or coerce action/inaction from entities.
+  - **Second Component**:
+    - Act must advance a political, religious, ideological, or philosophical motive.
+- **Dolus eventualis** is a sufficient form of intention.
+- Objective test applies for inferring intention from conduct and circumstances.
+
+### Additional Offences (s 11-13)
+- Harbouring/concealment of terrorists (s 11).
+- Failure to report suspected terrorists (s 12).
+- "Hoaxes" related offences (s 13).
+
+## 1.3 PUBLIC VIOLENCE
+
+### 1.3.1 Definition
+- Unlawful, intentional act by multiple persons intended to disturb public peace/order violently.
+
+### 1.3.2 Elements of the Crime
+1. An act
+2. Performed by a number of persons
+3. Assumes serious proportions
+4. Unlawful
+5. Intentional, focused on disturbing peace or infringing rights
+
+### 1.3.3 Object or Interest Protected
+- Protection of public peace and order.
+
+### 1.3.4 Joint Action
+- Committed by multiple persons acting in concert.
+- Number varies with context; intent must be collective.
+
+### 1.3.5 Examples of Conduct
+- Faction fights, resistance to police, rioting, coercion of workers, disruption of meetings.
+
+### 1.3.6 Serious Proportions
+- Disturbance must threaten safety of non-participants.
+- Factors include:
+  - Number involved
+  - Time, place, duration
+  - Cause, status of participants
+  - Use of weapons, injuries, damage
+
+### 1.3.7 Unlawfulness
+- Actions must be unlawful; participation may be justified under specific circumstances (e.g., compulsion, private defense).
+
+### 1.3.8 Intent
+- Must be aware of collective action's nature and participate intentionally.
+
+## SUMMARY
+- **Terrorism**: Involves violence, endangerment, economic destabilization, unlawful acts with specific intent (two components).
+- **Public Violence**: Joint action that disturbs peace, significant intent required, no necessity for prior planning. 
+
+### Relevant Cases and Legislation
+- **Constitution**: §§ 10, 23(2)(c)
+- **Terblanche 1938 EDL 112**
+- **Nxumalo 1960 (2) SA 442 (T)**
+- **S v Whitehead 2008 (1) SACR 431 (SCA)**
+- **S v Le Roux 2010 2 SACR 11 (SCA)**
+- **S v Mlungwana and Others 2019 (1) SACR 429 (CC)**
+- **Regulation of Gatherings Act 1993** 
+
+(Note: Diagrams and illustrative examples are omitted per instructions.)
+----- END OF FILE -----
+# Study Notes
+
+## Learning Unit 1: Crimes against the State 
+
+### Public Violence
+- **Definition:** Acts committed to advance specific political, religious, ideological, or philosophical motives.
+- **Protected Interest:** Public peace and order.
+- **Group Requirement:** Must involve multiple people acting with a common purpose.
+- **Violence Requirement:** Acts must have violence or threats of violence.
+- **Serious Proportions:** Determined by various factors; the group’s actions must be substantial.
+
+## Learning Unit 2: Crimes against the Administration of Justice
+
+### 2.1 Perjury at Common Law
+#### 2.1.1 Definition
+- Unlawful, intentional false declaration made under oath during legal proceedings.
+
+#### 2.1.2 Elements of the Crime
+- **Declaration Made**
+- **False Declaration**
+- **Under Oath or Equivalent**
+- **In Legal Proceedings**
+- **Unlawful Nature**
+- **Intentionality**
+
+#### 2.1.3 False Declaration
+- **Objectively False:** Requires objective falsity, unlike English law which allows subjective falsity.
+- **Form:** Can be oral or written (affidavit).
+- **Express or Implied:** Implied falsehoods must be a necessary implication based on trial evidence (e.g., *Vallabh (1911)*).
+
+#### 2.1.4 Under Oath
+- Must be under oath or equivalent form (affirmation or warning).
+- Relevant provisions: Sections 162-164 of the Criminal Procedure Act.
+- **Authority Requirement:** Oath administrant must have the authority.
+
+#### 2.1.5 In the Course of a Legal Proceeding
+- **Legal Context:** False declaration must be made during a legal proceeding.
+- **Admin. Tribunal Exclusion:** Extrajudicial statements not count as perjury (*Carse (1967)*).
+- **Prospective Use:** Statements must foresee potential use in trials (*Beukman (1950)*).
+
+#### 2.1.6 Unlawfulness
+- Acknowledgement of falsity post-declaration not an excuse.
+
+#### 2.1.7 Intent
+- Must know or foresee falsehood; negligence is insufficient (*Mokwena (1984)*).
+
+### 2.2 Statutory Perjury
+#### 2.2.1 Definition
+- Making two conflicting declarations under separate oaths or equivalents.
+
+#### 2.2.2 Elements of the Crime
+- **Two Declarations**
+- **Conflicting Nature**
+- **Under Two Different Oaths or Equivalents**
+- **Unlawful and Intentional Manner**
+
+#### 2.2.3 Content of Section
+- Criminal Procedure Act Section 319(3) outlines the crime and conditions for conviction without proving which statement was false.
+
+#### 2.2.4 Two Statements under Oath 
+- **Form Irrelevance:** Oral or written; legal proceeding context not mandatory.
+- **Substitutes for Oath Permissible:** Includes affirmations.
+
+### 2.3 Defeating or Obstructing the Course of Justice
+- **Definition:** Actions meant to disrupt legal processes.
+- **Elements:** Must involve unlawful interference with judicial functions.
+- **Examples of Conduct:** E.g., bribery, false testimony.
+- **Intention Requirement:** Must intend to obstruct or defeat justice.
+
+### 2.4 Contempt of Court
+#### 2.4.1 Definition
+- Actions that disrespect the authority or dignity of the court.
+
+#### 2.4.2 Elements of the Crime
+- Must involve conduct that undermines court processes.
+
+#### 2.4.3 Unusual Characteristics
+- Distinctive in nature as it addresses court authority.
+
+#### 2.4.4 Reasons for Existence
+- Maintain order and respect for legal processes.
+
+#### 2.4.5 Acts
+- Includes disruptive behavior during proceedings.
+
+#### 2.4.6 Unlawfulness
+- Conduct must be unlawful to constitute contempt.
+
+#### 2.4.7 Intent
+- Must intend to undermine court authority.
+
+#### 2.4.8 Administration of Justice by Courts
+- Key for upholding the judicial system's integrity.
+  
+#### 2.4.9 Examples of the Crime
+- **Contempt in Facie Curiae:** Actions within the presence of the court.
+- **Contempt Ex Facie Curiae:** Actions outside immediate court proceedings.
+
+### Further Reading
+- **Burchell Principles of Criminal Law** (2016) 777–782
+- **Kemp et al. Criminal Law in South Africa** (2018) 477–479; 662–668
+----- END OF FILE -----
+# LEARNING UNIT 2: Crimes Against the Administration of Justice
+
+## 2.2 PERJURY
+### 2.2.5 The Statements Conflict with Each Other
+- State must prove conflict between statements (Mahomed supra 442).
+- In **Ramdas 1994 (2) SACR 37 (A)**, clear conflict required; statements must be mutually exclusive.
+- Distinction: 
+  - **Perjury**: ONE false declaration under oath in legal proceeding.
+  - **Statutory Perjury**: TWO conflicting statements under oath on TWO occasions. 
+  
+### 2.2.6 Onus on Accused
+- Accused must prove belief in the truth of each statement on a balance of probability.
+- This reverse onus may be unconstitutional, conflicting with **section 35(3)(h) of the Constitution**.
+
+## 2.3 DEFEATING OR OBSTRUCTING THE COURSE OF JUSTICE
+### 2.3.1 Definition
+- Crime consists of unlawful and intentional conduct defeating or obstructing the administration of justice.
+
+### 2.3.2 Elements of the Crime
+- (1) Any act,
+- (2) Defeats or obstructs justice,
+- (3) Unlawfully,
+- (4) Intentionally.
+
+### 2.3.3 Defeating or Obstructing Justice
+- Overlaps with other crimes (e.g., contempt of court, perjury).
+- Important to differentiate "defeating" (requires proven defeat of justice) from "obstructing".
+
+### 2.3.4 Examples of Conduct
+- Unlawful inducement of false testimony,
+- Refusal to testify,
+- Providing false information to authorities,
+- Tampering with court documents.
+- Example: **Naidoo 1977 2 SA 123 (N)** (flashing lights warning of speed traps).
+
+### 2.3.5 Possibility of Court Case Ensuing
+- Crime can occur without a pending case if a real court case could result (e.g., false police complaints).
+
+### 2.3.6 Intention
+- Accused must foresee the potential for their actions to obstruct justice.
+
+### 2.3.7 Attempt to Defeat or Obstruct Justice
+- False information intended to mislead authorities can be charged as an attempt, even if not acted upon.
+
+## 2.4 CONTEMPT OF COURT
+### 2.4.1 Definition
+- Unlawful and intentional violation of judicial dignity or publication intending to influence pending judicial proceedings.
+
+### 2.4.2 Elements of the Crime
+- (1) Violation of judicial dignity or publication concerning proceedings,
+- (2) Unlawful,
+- (3) Intentional.
+
+### 2.4.3 Unusual Characteristics
+- Acts can vary significantly and some may even be treated civilly, dependent on prosecution.
+
+### 2.4.4 Reasons for the Existence of the Crime
+- Aimed at maintaining the integrity of the judicial system (Van Niekerk 1972 (3) SA 711 (A) 720).
+
+### 2.4.5 Acts
+- **Contempt in Facie Curiae**: Direct acts in court.
+  - Magistrates can convict summarily (Ngcemu 1964 (3) SA 665 (N)).
+- **Contempt Ex Facie Curiae**: Actions outside the court's presence (e.g., scandalizing the court).
+
+### 2.4.6 Unlawfulness
+- Privileged statements by Legislative Assembly members do not constitute contempt.
+- Fair comment on judicial outcomes is permissible; public debate is encouraged.
+
+### 2.4.7 Intent
+- Generally requires intention, but negligence applicable in media contexts involving pending cases.
+
+### 2.4.8 Administration of Justice
+- Offending language must target judicial officers or court integrity, not administrative actions.
+
+### 2.4.9 Examples of the Crime
+#### 2.4.9.1 Contempt in Facie Curiae
+- E.g., shouting, acting inebriated, loud conversations.
+- Must establish intent; trivial breaches may not suffice (e.g., **Nyalanbisa 1993 (1) SACR 172 (Tk)** ).
+
+---
+
+### **Diagram References**:  
+- Reference relevant diagrams to illustrate concepts as necessary within the legal context.
+----- END OF FILE -----
+## LEARNING UNIT 2: Crimes Against the Administration of Justice
+
+### 2.4.9.2 Contempt ex facie curiae
+
+- **Definition**: Conduct constituting contempt ex facie curiae occurs outside the court and includes:
+  - Pretending to be an officer of the court (e.g., advocate, attorney).
+  - Intentionally obstructing an officer of the court (e.g., a messenger).
+  - Bribing or attempting to bribe judicial officers, legal representatives, or witnesses.
+  - Deliberately failing to appear as a summoned witness.
+  - Publishing commentary on pending cases.
+  - Scandalizing the court.
+  - Failing to comply with a court order.
+
+#### Commentary on Pending Cases
+- **Definition**: Publishing information or commentary that may influence the outcome of a case still sub iudice.
+- **Press Restrictions**: Legal to report trial evidence but not outside information or personal opinions until case concluded.
+- **Reason**: Prevent "trial by newspaper"; judges should not be swayed by external commentary.
+- **Sub iudice Duration**: From commencement (summons/arrest) to final judicial conclusion, including appeals.
+- **Influence Test**: Wide; includes publications that may influence even if not directly received or believed by the court (*Van Niekerk 1972 (3) SA 711 (A) 724*).
+
+### 2.4.9.3 Modern Applicability
+- **Emerging Issues**: Challenges to contempt ex facie curiae in light of modern media environment.
+- **Case Example**: 
+  - *S v Pistorius (CC113/2013) [2014] ZAGPPHC 793 (12 September 2014)* decision on broadcasting trials balanced constitutional rights.
+  
+#### Liability of a Newspaper Editor
+- **Legal Information**: Must not prejudice the administration of justice.
+- **Definition of Unlawful Publication**: Publication causing real risk of substantial prejudice.
+- **Case Reference**: *Midi Television (Pty) Ltd t/a E-TV v Director of Public Prosecutions (Western Cape) 2007 (2) SACR 493 (SCA)* - press freedom can cause justice prejudice.
+
+#### Culpability in Publications
+- **Editor vs. Reporter**: 
+  - Editor (Z): Negligence sufficient for criminal liability (*Harber 1988 (3) SA 396 (A)*).
+  - Reporter (X): Requires proof of intention.
+  
+#### Notable Exceptions
+- Only two forms of culpability in common law don't require intent: contempt and culpable homicide.
+
+### 2.4.10 Scandalising the Court
+- **Definition**: Publication likely to discredit judges or the judicial system.
+- **Relevance of Evidence**: Actual disrepute of the administration of justice not required; mere tendency suffices.
+- **Case Reference**: *S v Moila 2005 (2) SACR 517 (T)* - convictions upheld based on malice.
+
+### 2.4.11 Failure to Comply with a Court Order
+- **Definition**: Deliberate failure to comply leads to contempt.
+- **Common Practice**: Typically, not criminally prosecuted; civil applications favored.
+- **Applicable Cases**: 
+  - *Knott v Tuck 1968 (2) SA 495 (D)* - civil contempt.
+  - *Beyers 1968 (3) SA 70 (A)* - Attorney general may charge non-compliance.
+- **Intent Requirement**: Essential—showing deliberate action against court orders (*S v Samuels 2016 (2) SACR 298 (WCC)*).
+
+---
+
+### Summary
+1. **Perjury**: Objective false declaration, must be under oath and within legal proceedings.
+2. **Defeating/Obstructing Justice**: Distinction made between defeat and obstruction; not required to have a pending case.
+3. **Contempt of Court**: Subcategories include in facie curiae and ex facie curiae with varying culpability standards based on the offender (intention vs. negligence).
+4. **Scandalising Court**: Involves any allegations capable of damaging the judge or judicial system.
+5. **Compliance with Court Orders**: Noncompliance is criminal when done with intent, even in civil proceedings.
+
+### Further Reading References
+- Burchell, *Principles of Criminal Law* (2016) 857–881.
+- Kemp et al., *Criminal Law in South Africa* (2018) 524–532.
+----- END OF FILE -----
+# LEARNING UNIT 2: Crimes against the administration of justice
+
+- **8. Attempting to Defeat or Obstruct Justice**
+  - Acts that may constitute the crime:
+    - Laying false charge against another.
+    - Mere refusal to answer police questions.
+    - Assisting in hiding a body post-murder.
+  
+- **9. Bazzard Case (1992)**
+  - Discuss the court's decision and implications.
+
+- **10. Contempt of Court**
+  - Purpose of the crime: maintain court authority and integrity.
+
+- **11. Methods of Committing Contempt Ex Facie Curiae**
+  - Three ways identified.
+
+- **12. Special Grounds Excluding Unlawfulness in Contempt**
+  - Identify and discuss two grounds.
+
+- **13. Contempt in Facie Curiae**
+  - Definition and implications.
+
+- **14. Commentary Contempt Ex Facie Curiae**
+  - Analyzing the impact of public commentary on pending cases.
+
+- **15. Scandalising the Court**
+  - Discuss types and effects of contempt ex facie curiae.
+
+---
+
+# PART B: Crimes against the community
+
+## LEARNING UNIT 3: Crimes against public welfare
+
+### 3.1 INTRODUCTION
+- Overview of key crimes affecting public welfare.
+
+### 3.2 CORRUPTION
+- **3.2.1 General**
+  - Definition and implications.
+
+- **3.2.2 General and Specific Crimes of Corruption**
+  - Differentiation between crime types.
+
+- **3.2.3 General Crime Definition in the Act**
+  - Specific statutory definition.
+
+- **3.2.4 Shortened Definition of General Crime**
+  - Concise articulation.
+
+- **3.2.5 Corruption by Giver vs Recipient**
+  - Distinction and responsibilities.
+
+- **3.2.6 General Crime by Recipient**
+  - **3.2.6.1 Elements of the Crime**
+  - **3.2.6.2 The Acceptance (Element of an Act)**
+  - **3.2.6.3 The Gratification**
+  - **3.2.6.4 Inducement Element**
+  - **3.2.6.5 Unlawfulness**
+  - **3.2.6.6 Intention**
+
+- **3.2.7 General Crime by Giver**
+  - **3.2.7.1 General Overview**
+  - **3.2.7.2 Elements of the Crime**
+  - **3.2.7.3 The Giving of Gratification**
+  - **3.2.7.4 The Gratification**
+  - **3.2.7.5 Inducement Element**
+  - **3.2.7.6 Unlawfulness**
+  - **3.2.7.7 Intention**
+
+- **3.2.8 Corruption Related to Specific Persons**
+  - Identification and definitions.
+
+- **3.2.9 Failure to Report Corrupt Acts**
+  - Discussion of legal consequences.
+
+### 3.3 EXTORTION
+- **3.3.1 Definition**
+  - Legal framework of extortion.
+
+- **3.3.2 Elements of the Crime**
+  - Breakdown of necessary components.
+
+- **3.3.3 The Perpetrator**
+  - Who can be charged?
+
+- **3.3.4 Exertion of Pressure**
+  - Definition and implications.
+
+- **3.3.5 The Benefit**
+  - Nature of benefits in relation to extortion.
+
+- **3.3.6 Causation**
+  - Legal cause connected to the act.
+
+- **3.3.7 Unlawfulness**
+  - Elements defining unlawfulness.
+
+- **3.3.8 Intention**
+  - Criminal intent in extortion cases.
+
+### 3.4 DRUG OFFENCES
+- **3.4.1 General**
+  - Overview of drug-related crimes.
+
+- **3.4.2 Use or Possession of Drugs**
+  - **3.4.2.1 Definition**
+  - **3.4.2.2 Elements of the Offence**
+  - **3.4.2.3 The Act – Possession or Use**
+  - **3.4.2.4 The Drug**
+  - **3.4.2.5 Unlawfulness**
+  - **3.4.2.6 Intention**
+
+- **3.4.3 Dealing in Drugs**
+  - **3.4.3.1 Definition**
+  - **3.4.3.2 Elements**
+  - **3.4.3.3 The Act – Dealing In**
+  - **3.4.3.4 The Drug**
+  - **3.4.3.5 Unlawfulness**
+  - **3.4.3.6 Intention**
+
+### 3.5 UNLAWFUL POSSESSION OF FIREARMS OR AMMUNITION
+- **3.5.1 General**
+  - Definition and scope of unlawful possession.
+
+- **3.5.2 Unlawful Possession of a Firearm**
+  - **3.5.2.1 Possession**
+  - **3.5.2.2 Firearm**
+  - **3.5.2.3 Unlawfulness**
+  - **3.5.2.4 Culpability**
+
+- **3.5.3 Unlawful Possession of Ammunition**
+  - Specific legal framework.
+
+- **3.5.4 Other Offences Created in the Act**
+  - Additional relevant offences.
+
+### 3.6 ROAD TRAFFIC OFFENCES
+- **3.6.1 Introduction**
+  - Overview of traffic-related offences.
+
+- **3.6.2 Driving in Excess of Speed Limit**
+  - **3.6.2.1 Definition**
+  - **3.6.2.2 Elements of the Offence**
+  - **3.6.2.3 Act**
+  - **3.6.2.4 Speed Limit**
+  - **3.6.2.5 Unlawfulness**
+  - **3.6.2.6 Culpability**
+
+- **3.6.3 Reckless or Negligent Driving**
+  - **3.6.3.1 Definition**
+  - **3.6.3.2 Reckless Driving**
+  - **3.6.3.3 Negligent Driving**
+
+- **3.6.4 Inconsiderate Driving**
+  - **3.6.4.1 Definition**
+  - **3.6.4.2 Elements of the Offence**
+  - **3.6.4.3 Act**
+  - **3.6.4.4 Unlawfulness**
+  - **3.6.4.5 Culpability**
+
+- **3.6.5 Driving Under Influence**
+  - **3.6.5.1 Definition**
+  - **3.6.5.2 Elements of the Offence**
+  - **3.6.5.3 Act**
+  - **3.6.5.4 Unlawfulness**
+  - **3.6.5.5 Culpability**
+
+- **3.6.6 Driving with Excessive Alcohol in Blood**
+  - **3.6.6.1 Definition**
+  - **3.6.6.2 Elements of the Offence**
+  - **3.6.6.3 Blood Alcohol**
+  - **3.6.6.4 Unlawfulness**
+  - **3.6.6.5 Culpability**
+
+- **3.6.7 Additional Driving Offences**
+  - **3.6.7.1 Alcohol-related Offences**
+  - **3.6.7.2 Duty to Report an Accident**
+----- END OF FILE -----
+# Learning Unit 3: Crimes Against Public Welfare
+
+---
+
+## 3.1 Introduction
+- Overview of offences against public welfare:  
+  - **Extortion** (common-law)  
+  - **Statutory offences**:  
+    - Substance abuse (drug offences)  
+    - Corruption  
+    - Unlawful possession of arms/ammunition  
+
+## 3.2 Corruption (Criminal Law 401–417)
+
+### 3.2.1 General
+- **Corruption** undermines moral values and trust in authorities, fostering organized crime.  
+- Originated as "bribery" (common law), now governed by:  
+  - **Corruption Act 94 of 1992** (replaced in 2004 by)  
+  - **Prevention and Combating of Corrupt Activities Act 12 of 2004**  
+
+### 3.2.2 General and Specific Crimes of Corruption
+- **2004 Act** establishes:  
+  - A broad general offence   
+  - Specific criminalized corrupt activities  
+- Legislative style: repetition of elements of general offence in specific offences to aid applicability.
+
+### 3.2.3 General Crime of Corruption: Definition in the Act
+- **Section 3** outlines general offence:  
+  - Acceptance or offering of gratification (benefit to oneself or another)  
+  - Inducement to act in a manner that is:  
+    - Illegal, dishonest, unauthorized, or biased  
+    - Abusive of authority or breach of trust  
+    - Aimed at achieving unjustified results  
+
+### 3.2.4 Shortened Definition of the General Crime of Corruption
+- Simplified elements:  
+  - Accepting or giving gratification to act illegally.
+
+### 3.2.5 Corruption by Giver and Recipient
+- Distinction:  
+  - **Corruption by Giver (X)**: Offers gratification  
+  - **Corruption by Recipient (Y)**: Accepts gratification  
+- Both parties commit corruption; applicable definitions differentiate conduct of giver and recipient.  
+
+### 3.2.6 General Crime of Corruption: Crime Committed by the Recipient
+#### 3.2.6.1 Elements of the Crime
+1. Acceptance by Y  
+2. Of gratification  
+3. Induced action  
+4. Unlawfulness  
+5. Intention  
+
+#### 3.2.6.2 The Acceptance (Element of an Act)
+- **Technical meaning of "accept"**:  
+  - Includes agreeing to accept or offering to receive gratification.  
+- No distinction between conspiracy and main crime; acceptance can be indirect.
+
+#### 3.2.6.3 The Gratification
+- Definition includes:  
+  - Money, gifts, loans, property, avoidance of loss/penalty, employment benefits, favors, rights, privileges.  
+
+#### 3.2.6.4 Element of Inducement
+- Acceptance must aim to induce action (illegal, dishonest, unauthorized).  
+- Aims include:  
+  1. Illegal exercise of legal duties  
+  2. Misuse/selling of information  
+  3. Abuse of authority/trust  
+  4. Achieving unjustified results  
+
+#### 3.2.6.5 Unlawfulness
+- Unlawfulness implied in definition; conduct must violate moral/legal standards.  
+- Examples of lawful conduct:  
+  1. Acts under compulsion  
+  2. Police traps  
+  3. Acceptable tips or small gifts  
+
+#### 3.2.6.6 Intention
+- Intention (not negligence) required; includes knowledge of act and its unlawfulness.  
+- **Dolus eventualis** applicable — knowing possibility of corrupt acts counts as intention.
+
+### 3.2.7 Corruption by the Giver
+#### 3.2.7.1 General
+- Mirror to corruption by recipient, focusing on giving rather than accepting.  
+
+#### 3.2.7.2 Elements of the Crime
+1. Giving by X  
+2. Of gratification  
+3. To induce Y to act  
+4. Unlawfulness  
+5. Intention  
+
+#### 3.2.7.3 The Giving of Gratification
+- **Technical meaning**: Includes agreement to give or offering to give gratification.  
+
+--- 
+
+**Note**: Reference to diagrams and specific case law, such as Ganie and Bougarde, crucial for detailed legal analysis and understanding of intent and liability in corruption cases.
+----- END OF FILE -----
+# Crimes against Public Welfare
+
+## 3.2.7 Corruption
+
+### 3.2.7.1 Overview
+- Corruption involves giving or receiving gratification to act in a certain manner.
+
+### 3.2.7.2 Elements of Corruption by Giver
+- **Gratification:** 
+  - Includes promises, offers, or agreements to provide gratification.
+- **Inducement:**
+  - Not necessary for the giver's plan to succeed. Defenses such as Y's intentions or actions do not negate the offence (s 25(a)-(c)).
+
+### 3.2.7.3 The Requirement of Gratification
+- Same as for corruption by the recipient.
+
+### 3.2.7.4 Inducement to Act
+- Implied meaning of inducing actions is crucial in determining illegality.
+
+### 3.2.7.5 Case Reference: Shaik (2007)
+- Conviction based on corrupt acts of influencing Y to benefit X's business.
+- Payments made with intention to influence were deemed unlawful.
+
+### 3.2.7.6 Unlawfulness & Intention
+- Requirements parallel to those for corruption committed by the recipient.
+
+### 3.2.8 Corruption Related to Specific Persons
+- Criminalized from section 4 onwards. Key offences include:
+  - **Public Officials:** Defined in section 1.
+    - **Case Reference:** *S v Selebi (2012)* - Convicted for receiving payments for quid pro quo actions.
+
+### 3.2.9 Types of Corruption Crimes
+- **Section 6:** Corruption of agents (private sector).
+- **Section 7:** Corruption in relation to legislative members.
+- **Section 8:** Corruption affecting judicial officers (e.g., influencing judges).
+- **Section 9:** Corruption concerning prosecuting authority members (e.g., obstructing justice).
+- **Section 10:** Corruption in employment relationships.
+- **Section 13:** Corruption to procure tenders.
+- **Section 15:** Corruption in sporting events.
+
+## 3.3 Extortion
+
+### 3.3.1 Definition
+- Acquisition of a benefit through unlawful pressure.
+
+### 3.3.2 Elements
+1. Acquisition of a benefit.
+2. Application of pressure.
+3. Causal link between pressure and benefit.
+4. Unlawfulness.
+5. Intention.
+
+### 3.3.3 Perpetrator
+- Extortion can be committed by any individual, not limited to public officials.
+
+### 3.3.4 Pressure Exertion
+- Pressure can include threats of violence, intimidation, or harm to third parties.
+
+### 3.3.5 Type of Benefit
+- Prior to 1989, limited to patrimonial benefits.
+- General Law Amendment Act 139 of 1992 allows for non-patrimonial benefits.
+- Notable case: Threatening Y for sexual favors constituted attempted extortion.
+
+### Note Reference
+- The crime is completed only when the intended benefit has been transferred.
+----- END OF FILE -----
+# Study Notes on Legal Concepts
+
+## 3.3.6 Causation
+- **Causal Connection**: Essential in extortion similar to robbery.
+- **Crime Definition**: Pressure must result in acquisition of benefit; absence equals attempted extortion.
+
+## 3.3.7 Unlawfulness
+- **Illegal Pressure**: Must be exerted unlawfully.
+- **Threat Validity**: Legal threats (e.g., police prosecution) differ from unlawful threats (e.g., demand for payment).
+
+## 3.3.8 Intention
+- **Intent Requirement**: X must intend threat to induce fear and intend to acquire benefit without entitlement.
+- **Motive Irrelevant**: Does not affect criminal liability.
+
+## 3.4 DRUG OFFENCES (Criminal Law 420–426)
+
+### 3.4.1 General
+- **Legislation**: Governed by the **Drugs and Drug Trafficking Act 140 of 1992**.
+- **Main Offences**: 
+  1. Drug use or possession.
+  2. Drug dealing.
+- **Drug Categories**:
+  1. **Dependence-producing substances**.
+  2. **Dangerous dependence-producing substances**.
+  3. **Undesirable dependence-producing substances**.
+
+### 3.4.2 Use or Possession of Drugs
+#### 3.4.2.1 Definition
+- **Offence**: Unlawfully using or possessing any classified substance (s 4 of the Act).
+
+#### 3.4.2.2 Elements of the Offence
+1. **Act**: Possession or use.
+2. **Substance**: As defined in the Act.
+3. **Unlawfulness**.
+4. **Intention**.
+
+#### 3.4.2.3 The Act – Possession or Use
+- **Use**: Smoking, inhalation, etc., amounts to usage.
+- **Possession**:
+  - **General Meaning**: Combination of physical control (corpus/detentio) and mental intention (animus).
+  - **Types**:
+    - **Possessio civilis**: Control as owner.
+    - **Possessio naturalis**: Control for another party.
+  - **Legislative Definition of "Possess"**: Includes keeping, storing, or custody (Section 1).
+
+#### 3.4.2.6 Intention
+- **Culpability**: Intention is required; lack of awareness equates to no guilt.
+
+### 3.4.3 Dealing in Drugs (Criminal Law 423–426)
+
+#### 3.4.3.1 Definition
+- **Offence**: Unlawfully and intentionally dealing with any classified drug (s 5(b) and 13(f) of the Act).
+
+#### 3.4.3.2 Elements of the Offence
+1. **Act**: Dealing.
+2. **Drug**: As described in the Act.
+3. **Unlawfulness**.
+4. **Intention**.
+
+#### 3.4.3.3 The Act – Dealing In
+- **Focus**: Punish supply to users, encompassing all activities of drug handling including importation, distribution, etc.
+
+### Key Cases
+- **Prince v Minister of Justice**: Challenged constitutionality of cannabis prohibition; led to decriminalization for personal use in private.
+- **Minister of Justice and Constitutional Development v Prince**: Confirmed unconstitutionality and clarified rights of adults in personal consumption of cannabis.
+
+These notes compress the essential legal principles while maintaining the reference structure for further study and examination preparation.
+----- END OF FILE -----
+# Study Notes
+
+## 3.4.3 Drug Dealing and Possession (pp. 55-56)
+
+### 3.4.3.1 Act of Dealing 
+- Possession for personal use leads to conviction for possession, not dealing (Solomon; Jackson).
+- Acting as an agent for another (purchasing for Z's use) does not constitute dealing.
+- Purchasing drugs for resale qualifies as dealing.
+
+### 3.4.3.2 Statutory Presumptions
+- Prior presumptions under the Act declared unconstitutional (Bhulwana; Gwadiso).
+- Possession of large quantities of drugs without explanation may infer dealing (Bhuwlana; S v Gwadiso; Sixaxeni).
+- In *Mathe*, failure to explain possession led to conviction for dealing instead of possession.
+
+### 3.4.3.3 The Drug
+- Offence tied to possession of dependence-producing substances as defined in the Act.
+
+### 3.4.3.4 Unlawfulness
+- Unlawfulness may be negated by necessity, e.g., coercion or medical prescriptions (section 5 of the Act).
+
+### 3.4.3.5 Intention
+- Intention required: X must know substance is regulated, their act constitutes dealing, and it is unlawful.
+
+## 3.5 Unlawful Possession of Firearms or Ammunition (pp. 56-58)
+
+### 3.5.1 General
+- Regulated by the Firearms Control Act 60 of 2000.
+- Distinction between "firearm" and "prohibited firearm"; harsher penalties for prohibited firearms.
+- License renewal mandatory; failure is a criminal offence (*Minister of Safety and Security v SA Hunters*).
+
+### 3.5.2 Elements of Unlawful Possession (s 3 of the Act)
+1. Possession
+2. Firearm
+3. Unlawfulness
+4. Culpability
+
+#### 3.5.2.1 Possession
+- Prior definition involved physical control or custody (possessio civilis/naturalis).
+
+#### 3.5.2.2 Firearm
+- Technical definition includes any device designed to propel a projectile.
+
+#### 3.5.2.3 Unlawfulness
+- Must be unlawful; exceptions for licensed possession by certain entities.
+
+#### 3.5.2.4 Culpability
+- Intention or negligence can suffice for liability.
+- *Majikazana* emphasizes state’s burden to prove knowledge of unlawfulness.
+- *Kwanda* highlights requirement for evidence of joint possession to infer intention.
+
+### 3.5.3 Unlawful Possession of Ammunition (s 90)
+- License or permit required to possess ammunition.
+- Section 91(1): Limit of 200 cartridges per firearm license, exceptions apply.
+
+### 3.5.4 Other Offences
+- Failing to report illegal possession.
+- Causing injury or property damage by negligent firearm use.
+- Discharging a firearm in public or unsecured loss of firearms.
+
+## 3.6 Road Traffic Offences (pp. 58-60)
+
+### 3.6.1 Introduction
+- Offences regulated by the Road Traffic Act 93 of 1996 under crimes against public welfare.
+
+### 3.6.2 Driving in Excess of Speed Limit
+
+#### 3.6.2.1 Definition (s 59)
+- General speed limits prescribed for different road types.
+- Speeding includes exceeding posted limits without lawful exemption.
+
+#### 3.6.2.2 Elements of the Offence
+1. Driving
+2. Vehicle
+3. Public road
+4. Excess speed
+5. Unlawfulness
+6. Culpability
+
+#### 3.6.2.3 Act
+- Driving defined broadly; encompasses operation of various vehicles.
+----- END OF FILE -----
+### PAGE 61
+
+#### Driving as Voluntary Act
+- Driving must be a **voluntary act**; involuntary acts (automatism, epilepsy) do not constitute an offence.
+- **Intoxication** may lead to involuntary conduct; however, **actio libera in causa** does not apply to drunken driving.
+
+#### Case Analyses
+- **Rooyen 1968 (1) SA 641 (T)**: Control over vehicle movements constitutes "driving," regardless of how the vehicle moves.
+- **Ekstraal 1981 (4) S 406 (C)**: Control from the steering wheel of a towed vehicle constitutes "driving."
+- **Makhubela 1981 (4) SA 210 (B)**: "Drive" refers to licensed operators; attempting to drive is not prosecutable.
+
+### Vehicle Definition
+- **Vehicle**: Device for travel on wheels/crawler tracks, excludes rail-only transport.
+- Broad definition may include bicycles (**Gertse 1972 (3) SA 59 (C)**; **Van Wyk 1965 (2) SA 158 (C)**).
+  
+### Public Road Definition
+- **Public Road**: Any thoroughfare or place commonly used by the public or to which they have access.
+  - Includes verges, bridges, and connected structures.
+- **Criteria for qualification**:
+  1. Commonly used by the public.
+  2. Public or section has a right of access (**Dillon 1983 (4) SA 877 (N)**).
+
+### Speed Limit
+- Established by **section 59(1) NRTA** and **Regulation 426 RTA 29 of 1989**:
+  1. Urban areas: **60 km/h**
+  2. Outside urban: **100 km/h**
+  3. Freeways: **120 km/h**
+- The State must prove speed limit breach; accuracy of timing device is critical (Meaker 1998 (2) SACR 73 (W)).
+
+### Unlawfulness
+- Certain authorized drivers (emergency vehicles) allowed to exceed speed limits under **section 60 NRTA**.
+- **Example Case**: **S v Groep 2002 (1) SACR 538 (E)** - Negligent driving conviction for disregard of road users’ safety.
+  
+### Culpability
+- Discussed as **strict liability**; reasonable mistake may be raised in speed limit violations (Burchell 795–796).
+
+### Reckless or Negligent Driving
+#### Definition
+- **Section 63 NRTA**: Prohibits reckless or negligent driving on public roads.
+
+#### Elements of Reckless Driving
+1. **Driving**
+2. **Vehicle**
+3. **Public Road**
+4. **Recklessly**
+5. **Unlawfulness**
+6. **Culpability**
+
+- **Act** involves reckless driving defined as wilful disregard for safety.
+- **Case law**: Recklessness includes inconsiderate driving (e.g., **Van Zyl 1969 (1) SA 553 (A)**).
+
+### Unlawfulness in Reckless Driving
+- May be justified by necessity or official capacity. 
+
+### Culpability in Reckless Driving
+- Intention (dolus eventualis) and gross negligence considered.
+
+#### Negligent Driving
+- Also prohibited under **section 63(1) NRTA**; protects public safety.
+  
+#### Elements of Negligent Driving
+1. **Driving**
+2. **Vehicle**
+3. **Public Road**
+4. **Negligently**
+5. **Unlawfulness**
+6. **Culpability**
+
+- Defined by failing the reasonable standard of care (Kruger v Coetzee 1966 (2) SA 428 (A)).
+
+### Culpability in Negligent Driving
+- Convictions can extend to serious crimes like murder (e.g., **Humphreys 2013 (2) SACR 1 (SCA)**, **S v Qeqe 2012 (2) SACR 41 (ECG)**).
+
+### Inconsiderate Driving 
+#### Definition
+- **Section 64 NRTA**: Forbids driving without reasonable consideration for others.
+
+#### Elements of the Offence
+1. **Driving**
+2. **Vehicle**
+3. **Public Road**
+4. **Without Reasonable Consideration**
+5. **Culpability**
+----- END OF FILE -----
+# LEARNING UNIT 3: Crimes against public welfare
+
+## 3.6.4.3 Act
+
+- Driving on a public road without reasonable consideration for other road users.
+- **Case Reference**: *Killian 1973 (2) SA 696 (T)* - "Without reasonable consideration" means lacking what a reasonable person would show.
+- **Key Points**:
+  - Offence requires presence of other road users.
+  - Does not include negligent driving.
+  
+## 3.6.4.4 Unlawfulness
+
+- Requirement of unlawfulness: no grounds of justification must be present.
+
+## 3.6.4.5 Culpability
+
+- Committed with intention or negligence.
+
+## 3.6.5 Driving under the influence of intoxicating liquor or drugs with a narcotic effect
+
+### 3.6.5.1 Definition
+- **Legislation**: Section 65(1) NRTA prohibits:
+  - Driving a vehicle while under influence.
+  - Occupying driver’s seat of running vehicle while under influence.
+
+### 3.6.5.2 Elements of the offence
+- (1) Driving
+- (2) Vehicle
+- (3) Public road
+- (4) Under influence of alcohol/drugs 
+- (5) Culpability
+
+### 3.6.5.3 Act
+- Driving while under influence or occupying driver’s seat of running vehicle.
+- *Skill and judgment required of driver must be impaired*.
+- Alcohol typically refers to ethyl alcohol; other substances mimicking narcotics included (*Whitehead 1970 (1) SA 25 (T)*).
+
+### 3.6.5.4 Unlawfulness
+- Requirement of unlawfulness present; no justification allowed.
+
+### 3.6.5.5 Culpability
+- Intention or negligence suffices.
+- Voluntary intoxication not a defense; ignorance of effects may constitute defense.
+
+## 3.6.6 Driving with excessive alcohol in the blood
+
+### 3.6.6.1 Definition
+- **Legislation**: Section 65(2) NRTA prohibits:
+  - Driving or occupying the driver’s seat with blood alcohol ≥ 0.05g/100ml (0.02g for professionals).
+
+### 3.6.6.2 Elements of the offence
+- (1) Driving
+- (2) Vehicle
+- (3) Public road
+- (4) Blood alcohol
+- (5) Culpability
+
+### 3.6.6.3 Blood alcohol
+- Driving with excessive alcohol in blood constitutes the act.
+- Blood testing required; refusal can lead to allegations.
+
+### 3.6.6.4 Unlawfulness
+- Requirement of unlawfulness must be met; no justification allowed.
+
+### 3.6.6.5 Culpability
+- Intention or negligence; automatism from voluntary intoxication does not exempt responsibility.
+
+## 3.6.7 Additional offences relating to driving
+
+### 3.6.7.1 Driving or occupying a driver's seat while under the influence
+- **Legislation**: Section 65(5) - Offence exists when breath alcohol ≥ 0.24mg/1000ml.
+- Prosecution demonstrates analyst reliability (*Price v Mutual and Federal Insurance Co Ltd 2007 (1) SACR 501 (E)*).
+
+### 3.6.7.2 Duty to report an accident
+- **Legislation**: Section 61(1) NRTA requires:
+  - Immediate stop and assistance.
+  - Reporting to police.
+- **Case References**:
+  - *Mutobvu 2013 (2) SACR 366 (GNP)* - Failure to assist.
+  - *S v Taute 2018 (2) SACR 263 (ECG)* - Obligation to render aid.
+
+# GLOSSARY
+- **Animus**: Intention in possession.
+- **Corpus**: Physical object or requirement in possession.
+- **Detentio**: Physical control over something.
+- **Possessio civilis**: Possession for oneself.
+- **Possessio naturalis**: Possession on behalf of another.
+
+# SUMMARY
+## Corruption
+- Governed by **Prevention and Combating of Corrupt Activities Act 12 of 2004**.
+- **General offence**: Accepting or giving gratification for illegal acts.
+  
+## Extortion
+- Pressure applied to yield benefit non-patrimarily.
+- Causal link between pressure and benefit; unlawful and intentional act required.
+
+## Possession of drugs
+- Prosecution proves through ordinary juridical sense (physical and mental elements).
+  
+## Dealing in drugs
+- Focus on punishing distribution, acquisition for self does not constitute dealing.
+
+## Unlawful possession of a firearm
+- Permissible if justified; licensed possession excluded.
+
+## Unlawful possession of ammunition
+- Limited to 200 cartridges per licensed firearm.
+----- END OF FILE -----
+# Road traffic offences
+
+## 1. Speed Limits
+- Urban area: **60 km/h** 
+- Outside urban area: **100 km/h** 
+- Freeway: **120 km/h** 
+
+## 2. Reckless Driving
+- Definition: Driving "in wilful and wanton disregard for the safety of persons or property"; includes **gross negligence**.
+
+## 3. Negligent Driving
+- Definition: Failure to drive with the care and skill a reasonable person would exercise.
+
+## 4. Inconsiderate Driving
+- Definition: Driving without the consideration a reasonable person would have shown under similar circumstances.
+
+## 5. Driving Under the Influence
+- Definition: Skill and judgment of driver diminished due to **alcohol** or **drugs**.
+
+## 6. Excessive Blood Alcohol
+- Definition: Driving with a blood alcohol concentration exceeding legal limits.
+
+## 7. Duty to Report Accidents
+- Obligation exists to report if involved in an accident causing injury, death, or property damage.
+
+---
+
+# Crimes against public welfare
+
+## 8. Definitions and Concepts 
+- Corruption: Defined in legislation; elements include inducement, acceptance, and gratification.
+- **Extortion**: Definition encompasses actions to unlawfully obtain a benefit from another party.
+- Offences related to **drugs**: Includes "possession," "dealing in," with categories.
+
+## 9. Firearms Control Act 
+- Section 90: Prohibits possession of ammunition without exceptions. 
+- **Exceptions**: Four listed scenarios for lawful possession.
+- Other firearm-related offences enumerated.
+
+---
+
+# Sexual crimes
+
+## 4.1 Introduction
+- **Criminal Law (Sexual Offences and Related Matters) Amendment Act 32 of 2007**: Addresses inadequacies in prior sexual offences law, ensuring non-discriminatory treatment and better protection, particularly for children.
+
+## 4.2 Rape
+### 4.2.1 General
+- Common law rape replaced under the **Sexual Offences Act 2007**; originally required male perpetrator and non-consensual sexual intercourse.
+### 4.2.2  New Definitions
+- Expanded to include various forms of **sexual penetration without consent** applicable to all genders.
+- Key distinctions: **rape** vs. **compelled rape**; compelled requires no act of penetration by the perpetrator.
+
+### 4.2.3 Age of Consent
+- No age limitations regarding who can commit the crime; applicable across all ages.
+
+--- 
+
+### Other notable sections:
+- **Inconsistencies in consent** and special provisions regarding children.
+- Reporting obligations for sexual offences involving children and mentally disabled persons.
+
+
+----- END OF FILE -----
+### Chapter 4: Sexual Crimes
+
+#### 4.2.2 Rape
+
+##### 4.2.2.1 Definition
+- **Section 3 (Sexual Offences Act)**: 
+  - Defines rape: Unlawful and intentional sexual penetration of another without consent.
+  - **Elements**:
+    - (a) Sexual penetration
+    - (b) Absence of consent
+    - (c) Unlawfulness
+    - (d) Intention
+
+##### 4.2.2.2 The Act
+- **Prohibited Act**: Involves sexual penetration without consent.
+  - **Definition of Sexual Penetration** includes:
+    - (i) Genital organs into or beyond genital organs, anus, or mouth.
+    - (ii) Other body parts into or beyond genital organs or anus.
+    - (iii) Any object into or beyond genital organs or anus.
+    - (iv) Animal's genital organs into mouth.
+- **Genital Organs**: Includes male/female organs and surgically constructed ones.
+- **Materially Defined Crime**: Focus on the situation created (sexual penetration) rather than just the act itself.
+  
+##### 4.2.2.3 Unlawfulness
+- Absence of consent is definitional, not just a justification element.
+- **Justification Defense**: If compelled by a third party, could potentially exclude unlawfulness.
+
+##### 4.2.2.4 Intention
+- **Specific Requirement**: Knowledge of absence of consent required for conviction.
+- **Types of Intention**: 
+  - Dolus eventualis suffices—awareness of possible lack of consent.
+
+#### 4.2.3 Compelled Rape
+
+##### 4.2.3.1 Definition
+- **Section 4 (Sexual Offences Act)**: 
+  - Defines compelled rape as compelling a third person to penetrate another without consent.
+  - **Elements**:
+    - (a) Compelling another person
+    - (b) To penetrate another
+    - (c) Absence of consent from third party
+    - (d) Absence of consent from complainant
+    - (e) Unlawfulness
+    - (f) Intention
+
+##### 4.2.3.2 The Act
+- **Act Defined**: Compelling a third person to act against the will of both parties involved.
+- **Legal Change**: Shifts liability from accomplice (common law) to direct perpetrator for compelling rape.
+
+##### 4.2.3.3 Unlawfulness
+- **Potential Exclusions**: If X is compelled to compel Z to act, this may exclude unlawfulness.
+
+#### Key Cases  
+- **S v MD and NM (CC55/2016)**: Illustrates the application of the Sexual Offences Act, underscoring the severity and implications of the crime of rape.
+
+#### Legislation Highlighted 
+- **Criminal Law (Sexual Offences and Related Matters) Amendment Act 32 of 2007**
+- **Sections Referenced**: 
+  - **Section 3** (Rape)
+  - **Section 4** (Compelled Rape)
+  - **Section 1** (Consent)
+  - **Section 56(1)** (Marital Relationship Defense)
+
+### Diagram Reference
+- Diagram illustrating the elements of consent within the context of rape (not provided in text).
+----- END OF FILE -----
+### 4.2.3.4 Intention
+- X must have intention for Z to engage in sexual penetration with Y, knowing or foreseeing that Z's and Y's consent is absent.
+- **Dolus eventualis** is sufficient intention; genuine belief in Y's consent negates intention.
+
+### 4.3 SEXUAL ASSAULT, COMPELLED SEXUAL ASSAULT AND COMPELLED SELF-SEXUAL ASSAULT
+
+#### 4.3.1 General
+- Act repeals the common-law crime of indecent assault.
+- Introduces statutory offences: sexual assault, compelled sexual assault and compelled self-sexual assault.
+
+#### 4.3.2 Sexual Assault (Criminal Law 360–368)
+
+##### 4.3.2.1 Definition
+- **Section 5(1)**: Unlawful and intentional sexual violation of a complainant (Y) without Y's consent constitutes sexual assault.
+- **Section 5(2)**: Unlawfully inducing belief in Y that she will be sexually violated also constitutes sexual assault.
+
+##### 4.3.2.2 The Act
+- **Sexual violation**: Defined broadly in **Section 1**; includes contact with genital organs, anus, or breasts without consent.
+- **Direct/indirect contact**: Physical interaction or contact via another person or instrument.
+
+##### 4.3.2.3 Unlawfulness
+- Compulsion may exclude unlawfulness.
+
+##### 4.3.2.4 Intention
+- Must know that Y has not consented to the sexual violation.
+
+#### 4.3.3 Compelled Sexual Assault (Criminal Law 368–369)
+
+##### 4.3.3.1 Definition
+- **Section 6**: Unlawfully and intentionally compelling a third person (Z) to commit sexual violation with Y without consent constitutes compelled sexual assault.
+
+##### 4.3.3.2 The Act
+- Example: X threatens Z to commit sexual violation against Y, with Z yielding to pressure.
+
+##### 4.3.3.3 Unlawfulness
+- Unlawfulness may be excluded if X is compelled to compel Z.
+
+##### 4.3.3.4 Intention
+- Same requirements as in the crime of rape.
+
+#### 4.3.4 Compelled Self-Sexual Assault (Criminal Law 369–371)
+
+##### 4.3.4.1 Definition
+- **Section 7**: Unlawfully and intentionally compelling Y to engage in acts such as masturbation or self-penetration without consent constitutes compelled self-sexual assault.
+
+##### 4.3.4.2 The Act
+- Example: X threatens Y to self-masturbate.
+
+##### 4.3.4.3 Unlawfulness
+- May be excluded if X is compelled to act.
+
+##### 4.3.4.4 Intention
+- Must know that Y lacks consent.
+
+### 4.4 SEXUAL OFFENCES AGAINST PERSONS 18 YEARS OR OLDER
+
+#### 4.4.1 General (Criminal Law 371–377)
+- **Section 8**: Unlawfully compelling a person 18+ to witness sexual offences without consent.
+- **Section 9**: Unlawful exposure of genitalia or breasts to a person 18+ without consent.
+
+- **Case Reference**: **S v Pretorius 2013 1 SACR 261 (WCC)**: Accused convicted for compelling a servant to witness self-masturbation; consent argued insufficient as circumstances coerced assent. 
+----- END OF FILE -----
+# Study Notes on Sexual Crimes
+
+## Chapter 4: Sexual Crimes
+### 4.5 Incest
+- **Definition (s 12(1))**
+  - Unlawful, intentional sexual penetration between persons who cannot legally marry due to consanguinity, affinity, or adoptive relationships, despite mutual consent.
+- **Elements of Crime:**
+  - (a) Act of sexual penetration
+  - (b) Between prohibited relationships  
+  - (c) Unlawfulness  
+  - (d) Intention  
+- **Prohibited Degrees (s 12(2)):**
+  - (a) Consanguinity: Direct line ascendants/descendants, or first-degree collateral  
+  - (b) Affinity: In-law relations in ascending/descending line  
+  - (c) Adoptive relationships as per law  
+- **Unlawfulness:**
+  - Must not be under duress; consent is no defense.
+- **Intention:**
+  - Must intend sexual intercourse, aware of relation prohibitions.
+
+### 4.6 Bestiality 
+- **Definition (s 13)**
+  - Illegal penetration by genital organs into or beyond an animal's openings, masturbation of animals (unless for scientific/breeding purposes).
+- **Case Reference:**
+  - M 2004 (1) SACR 228 (O) holds the crime constitutional.
+
+### 4.7 Sexual Offences Against Children
+#### 4.7.1 General (s 15-22)
+- **Key Offenses:**
+  - Sexual penetration with children below 16, regardless of consent.
+  
+#### 4.7.2 Consensual Sexual Penetration
+- **Definition (s 15)**
+  - Act sexual penetration with a child (12-16 years) is an offense despite consent.
+- **Elements:**
+  - (a) Sexual penetration act
+  - (b) Child 12-16 years
+  - (c) Unlawfulness  
+  - (d) Intention  
+  - **Notes:**
+    - Below 12 years = rape; above 12, consent irrelevant.
+- **Case Law:**
+  - Sheldon-Lakey 2016 (2) SACR 632 (NWM): Consent defense rejected; no age verification.
+
+#### 4.7.2.1 Cases on Constitutionality
+- **Teddy Bear Clinic v Minister of Justice (ZACC/2013)**
+  - Constitutionality of criminalizing consensual acts between 12-16 years challenged.
+  - Court found provisions damaging to dignity, privacy, and integrity.
+  - Respondents lacked evidence proving protection against sexual risks; provisions declared unconstitutional.
+
+#### 4.7.2.2 Revised Act (Act 5 of 2015)
+- **New Definition (s 15(1)):**
+  - Act of sexual penetration with a child (12-16) illegal despite consent unless perpetrator (X) is:
+    - (a) Aged 12-16
+    - (b) Aged 16-17, age difference ≤ 2 years.
+- **Prosecution Rule:**
+  - Requires DPP approval if age difference > 2 years, even for 16-17 year-olds.
+
+#### 4.7.2.3 Unlawfulness
+- The act must be unlawful; compulsion may exclude unlawfulness (certain professional scenarios).
+
+#### 4.7.2.4 Negligence as Culpability
+- Intention not stated in the crime's definition; negligence can suffice.
+- The defendant must demonstrate reasonable belief regarding the victim's age.
+
+---
+
+**Note:** This summary condenses the main elements, definitions, cases, and implications of sexual crimes as defined in the legislation, avoiding detailed examples while retaining essential legal principles.
+----- END OF FILE -----
+# Learning Unit 4: Sexual Crimes
+
+## 4.7.3 Consensual Sexual Violation of Children (Criminal Law 387–388)
+- **Section 56(2)(a), Sexual Offences Act 2007**: Accused can claim a child deceived him into believing she was 16+.
+- **Defence Requirement**: Accused must show reasonable belief (objective standard) that child was 16+.
+- **Reasonable Person Standard**: State must prove a reasonable person would recognize the child’s age.
+- **Considerations Against X**: Familiarity with Y's friends (high school students would suggest inquiry).
+
+## 4.7.4 Sexual Exploitation of Children Under 18 Years (Criminal Law 388–389)
+
+### 4.7.4.1 Definition
+- **Section 17**: Defines crimes relating to sexual exploitation of children under 18.
+  - **(a) Sexual Exploitation**: Engaging services of a child for sexual favours, irrespective of consent or actual act.
+  - **(b) Involvement**: Offering a child's services to a third party for sexual acts, with or without consent.
+  - **(c) Furthering Exploitation**: Allowing/using property for sexual acts involving a child.
+  - **(d) Benefiting**: Intentionally receiving reward from sexual acts with child by a third party.
+  - **(e) Living from Earnings**: Living partly or wholly on compensation from sexual acts involving a child.
+  - **(f) Promoting Sex Tours**: Organizing travel for sexual acts with children, or promoting such conduct.
+
+## 4.7.5 Sexual Grooming of Children Under 18 Years (Criminal Law 389)
+- **Section 18**: Criminalizes acts aimed at enticing a child to engage in sexual acts.
+- **Examples of Acts**: 
+  - Displaying items or pornography to encourage sexual acts.
+  - Arranging meetings for sexual purposes with the child.
+- **S v RC**: Example where teacher groomed a minor by discussing sexual acts.
+
+## 4.7.6 Displaying of Pornography to Children, Use for Child Pornography (Criminal Law 389–390)
+- **Section 19**: Prohibits unlawful exposure of child pornography to those under 18.
+- **Section 20**: Using a child for or benefiting from child pornography is a crime regardless of consent.
+
+## 4.7.7 Compelling Children to Witness Sexual Crimes (Criminal Law 390)
+- **Section 21**: Offence of causing a child to witness sexual acts.
+- **Case Reference**: S v MD and NM - focused on intent and presence of the child during sexual acts.
+
+## 4.7.8 Exposing Genital Organs to Children ("Flashing")
+- Offence occurs even with child consent.
+
+## 4.8 Sexual Offences Against Mentally Disabled Persons (Criminal Law 390–392)
+
+### 4.8.1 General
+- Mentally disabled individuals—vulnerable to sexual exploitation needing legal protection.
+
+### 4.8.2 Definition
+- **Sexual Offenses Chapter (Sections 23-26)**: Similar to those against children.
+
+## 4.9 Failure to Report Sexual Offences
+- **Section 54**: Mandates reporting of known sexual offences against children and mentally disabled persons.
+
+## 4.10 Trafficking in Persons for Sexual Purposes
+- **Criminal Law (Sexual Offences) Amendment Act 32 of 2007/Prevention and Combating Trafficking in Persons Act 7 of 2013**.
+  - **Definition**: Covers various forms of trafficking for exploitation.
+
+## 4.11 Attempt, Conspiracy and Incitement
+- **Section 55**: Involvement in a sexual offence via various means constitutes an offence.
+
+### Activity Discussion
+- **Offences**: X and Z may be charged under sections 18 and 19 for sexual grooming and exposure to child pornography.
+- **B's Liability**: Possible complicity for failing to report and facilitating the crime.
+----- END OF FILE -----
+# LEARNING UNIT 4: Sexual crimes
+
+### 1. General
+- **Criminal Law (Sexual Offences and Related Matters) Amendment Act 32 of 2007**
+  - Amends laws on sexual offences; repeals common-law rape, replaces with statutory rape and compelled rape.
+  - Repeals common-law indecent assault; replaces with sexual assault.
+  - Definitions of statutory offences are gender neutral; targets all forms of sexual penetration without consent.
+  
+### 2. Key Definitions
+- **Sexual penetration** (s 1): Broadly defined; includes any act causing penetration.
+- **Consent** (s 1): Defined as "voluntary or uncoerced agreement".
+- **Absence of consent**: Essential for most offences; interpreted as per the definition of "consent".
+
+### 3. Rape
+- **Definition of rape** (s 3).
+- **Definition of "sexual penetration"** (s 1).
+- **Definition of "absence of consent"** (s 1(2) and (3)).
+- **Potential sentences** for rape.
+
+### 4. Compelled Rape
+- **Definition** (s 4): Liability not dependent on performing sexual penetration; no need for physical perpetrator.
+- **Potential sentences** for compelled rape.
+
+### 5. Sexual Assault
+- **Definition** (s 5(1)).
+- **Definition of Sexual Violation** (s 1).
+- Act must instill belief of potential sexual assault (s 5(2)).
+
+### 6. Compelled Sexual Assault
+- **Definition** (s 6).
+
+### 7. Compelled Self-Sexual Assault
+- **Definition** (s 7).
+
+### 8. Sexual offences in respect of persons 18 years or older
+- **Compelling another to witness sexual crimes** (s 8): Includes witnessing sexual offences or acts without consent.
+- **Flashing** (s 9): Committed without victim's consent.
+- **Displaying child pornography** (s 10): Irrespective of consent.
+- **Engaging sexual services for reward** (s 11): Involves mutual consent; no need for actual sexual act.
+- **Incest** (s 12).
+- **Bestiality** (s 13): Upheld as constitutional (Case of M).
+
+### 9. Sexual offences against children
+- **Consensual sexual penetration** (s 15): offence declared unconstitutional in the Teddy Bear case concerning kids aged 12-15.
+- **Absence of consent**: Irrelevant for prosecution.
+- **Defence** (s 56(2)(a)): Accused may argue mistake regarding child’s age if belief was reasonable.
+  
+### 10. Consensual Sexual Violation of Children
+- Defined as (s 16): Offence regardless of consent; similar defences as above.
+
+### 11. Sexual Exploitation of Children
+- Broadly defined (s 17): Involves various acts of exploitation or benefiting from such acts.
+
+### 12. Sexual Grooming of Children
+- Comprises multiple sub-crimes (s 18): Includes facilitating grooming and online grooming behaviors.
+
+### 13. Child Pornography Related Offences
+- **Display to children** (s 19); **Use of children** for pornography (s 20); **Benefit from child pornography**.
+
+### 14. Compelling Children Under 18
+- **Witnessing sexual acts** (s 21).
+- **Flashing** (s 22): Offences committed irrespective of child consent.
+
+### 15. Offences Against Mentally Disabled Persons
+- **Definition** (s 1).
+- **Failure to Report** (s 54(1) and (2)).
+
+### 16. Trafficking in Persons
+- **Definition** under Prevention and Combating of Trafficking in Persons Act 7 of 2013 (s 4).
+
+# PART B: CRIMES AGAINST THE COMMUNITY
+
+# PART C: Crimes against the person
+
+## LEARNING UNIT 5: Crimes against life and potential life
+### Contents
+- **5.1 BACKGROUND** (109).
+- **5.2 MURDER**
+  - **Definition** (109).
+  - **Elements of the crime** (109).
+  - **“Another person”** (109).
+- **5.3 CULPABLE HOMICIDE**
+  - **Definition** (111).
+  - **Elements of the crime** (111).
+  - **Negligence** (111).
+
+### Learning Outcomes
+- Understanding the liability for crimes of murder and culpable homicide; considering potential punishment for murder.
+----- END OF FILE -----
+# Learning Unit 5: Crimes Against Life and Potential Life
+
+## 5.1 Background
+- Focus on crimes against life: **murder** and **culpable homicide**.
+
+## 5.2 Murder (Criminal Law 437–441)
+
+### 5.2.1 Definition
+- **Murder**: Unlawful and intentional causing of death of another human being.
+
+### 5.2.2 Elements of the Crime
+- Elements required for murder:
+  1. Causing of death.
+  2. Of another person.
+  3. Unlawfully.
+  4. Intentionally.
+- New focus: Requirement for “another person.”
+
+### 5.2.3 “Another Person”
+- Must be another living human being; suicide is not a crime.
+- Assisting suicide: May lead to murder conviction for the assistant if unlawfully causing death.
+- **Infants**: Presumed alive if proven to have breathed upon birth (s 239(1) Criminal Procedure Act).
+- Case Reference: **Mshumpa 2008 (1) SA 126 (E)** – discusses living human being requirement.
+
+### Case Note:
+- If X intends to kill Y but Y is deceased, charge is **attempted murder** (not murder).
+
+### Mercy Killing and Assisted Suicide
+- **Euthanasia**: Doctor aiding in death may be charged with murder or culpable homicide based on circumstances.
+- Legal precedent: **Ex parte Die Minister van Justisie: In re S v Grotjohn 1970 (2) SA 355 (A)** discusses assisted suicide and implications on constitutional rights (e.g., dignity).
+
+## 5.3 Culpable Homicide (Criminal Law 442–443)
+
+### 5.3.1 Definition
+- **Culpable Homicide**: Unlawful, negligent causing of death of another human being.
+
+### 5.3.2 Elements of the Crime
+- Elements required for culpable homicide:
+  1. Causing of death.
+  2. Of another person.
+  3. Unlawfully.
+  4. Negligently.
+
+### 5.3.3 Negligence
+- Difference from murder: `Intention` (murder) vs `negligence` (culpable homicide).
+- **Test for Negligence**:
+  - Reasonable person foresaw risk of death.
+  - Took steps to guard against risk.
+  - X's conduct deviated from reasonable person's conduct.
+
+### Case Reference:
+- **S v Botha 2019 (1) SACR 127 (SCA)**: Actions led to conviction change from murder to culpable homicide due to lack of awareness of unlawfulness.
+
+## Summary
+1. **Murder**: Unlawful and intentional death of another; **Culpable Homicide**: Unlawful and negligent death of another.
+2. Requirement for both: "another living person" must be killed. 
+
+## Further Reading
+1. Burchell, *Principles of Criminal Law* (2016), pp. 577–586.
+2. Kemp et al., *Criminal Law in South Africa* (2018), pp. 315–321. 
+
+## Test Yourself
+1. Define **murder** and **culpable homicide**, and distinguish between them.
+2. Discuss the requirement that the death of "another person" must be caused for murder.
+3. Analyze **S v Mshumpa 2008 (1) SACR 126 (E)** judgment.
+4. Outline requirements for conviction of culpable homicide. 
+
+---
+
+# Learning Unit 6: Crimes Against Bodily Integrity
+
+## 6.1 Assault
+### 6.1.1 Definition
+### 6.1.2 Elements of the Crime
+### 6.1.3 Historical Overview
+### 6.1.4 Ways to Commit the Crime
+### 6.1.5 Application of Force – Direct
+### 6.1.6 Application of Force – Indirect
+### 6.1.7 Inspiring Fear of Immediate Force
+### 6.1.8 Unlawfulness
+### 6.1.9 Intention
+### 6.1.10 Attempt
+### 6.1.11 Assault with Intent to Do Grievous Bodily Harm
+#### 6.1.11.1 Definition
+#### 6.1.11.2 Elements of the Crime
+#### 6.1.11.3 Intent to Do Harm
+### 6.1.12 Assault with Intent to Commit Another Crime
+
+## 6.2 Pointing of a Firearm
+### 6.2.1 Definition
+### 6.2.2 Elements of the Offense
+### 6.2.3 The Act: "To Point ... at"
+### 6.2.4 A Firearm, etc.
+### 6.2.5 "Any Other Person"
+### 6.2.6 Unlawfulness
+### 6.2.7 Intention
+----- END OF FILE -----
+# LEARNING UNIT 6: Crimes Against Bodily Integrity
+
+## 6.1 ASSAULT  
+(Criminal Law 447–454; Reader 12–15)
+
+### 6.1.1 Definition
+- **Assault**: Unlawful and intentional application of force to another person or inducing fear of immediate application of force.
+
+### 6.1.2 Elements of the Crime
+- **Application of Force**: Direct or indirect.
+- **Unlawfulness**: Absence of justification.
+- **Intention**: Requires intent to apply force or inspire fear.
+
+### 6.1.3 Historical Overview
+- Assault evolved from a comprehensive crime (iniuria) into an independent crime under English influence. 
+- Iniuria regarding physical integrity = assault.
+
+### 6.1.4 Ways to Commit Assault
+- **Direct Application of Force**: Common understanding of assault (e.g., punching).
+- **Indirect Application of Force**: Actions causing physical harm without direct contact (e.g., setting a dog on someone). 
+- **Inspiring Fear**: Causing an individual to believe immediate force will be applied.
+
+### 6.1.5 Application of Force – Direct
+- Common method; includes any physical contact, irrespective of pain.
+
+### 6.1.6 Application of Force – Indirect
+- Actions infringing physical integrity. Cases:
+  - *Marx 1962 (1) SA 848 (N)*: Force leading to sickness.
+  - *A 1993 (1) SA 600 (A)*: Forced ingestion leading to assault conviction.
+
+### 6.1.7 Inspiring Fear of Immediate Force
+- No physical contact required.
+- Conditions:
+  - Threat of violence must be immediate and unlawful.
+  - Victim must believe in the threat's sincerity and that the threatener can act.
+
+### 6.1.8 Unlawfulness
+- Conduct must lack justification (defenses include private defense, official capacity, consent).
+
+### 6.1.9 Intention
+- Intention forms: Direct, indirect, dolus eventualis.
+- Must foresee potential harm and awareness of unlawfulness.
+- Intoxication might exclude intention (Chretien 1981 (1) SA 1097 (A)).
+
+### 6.1.10 Attempt
+- Recognized that attempted assault is possible (fear may not be induced despite near assault).
+
+### 6.1.11 Assault with Intent to Do Grievous Bodily Harm  
+(Criminal Law 453–454)
+
+#### 6.1.11.1 Definition
+- Unlawful application of force or induction of fear with specific intent to cause grievous bodily harm.
+
+#### 6.1.11.2 Elements of Crime
+- Same as general assault but requires specific intent to inflict grievous bodily harm.
+
+#### 6.1.11.3 Intent to Do Harm
+- Specific intent required; actual infliction of harm is irrelevant to liability (*Dube 1991 2 SACR 419 (ZS) 424*). Dolus eventualis suffices.
+----- END OF FILE -----
+### LEARNING UNIT 6: Crimes against bodily integrity 
+
+#### 6.1.12 Assault with intent to commit another crime
+- **Definition**: Assault intending to commit a further crime (e.g., rape, robbery, murder).
+- **Separate Offences**: Each further crime constitutes a separate offence.
+- **Requirements**: Intent to commit the further crime is necessary; aligns with attempts (e.g., attempted rape).
+
+#### 6.2 POINTING OF A FIREARM
+##### 6.2.1 Definition
+- **Legislation**: **Section 120(6) of the Firearms Control Act 60 of 2000**: Pointing a firearm or a look-alike firearm at a person without good reason is an offence.
+
+##### 6.2.2 Elements of the offence
+1. Pointing of
+2. A firearm or similar object
+3. At any person
+4. Unlawfully
+5. Intentionally
+
+##### 6.2.3 The act: "To point ... at"
+- **Conviction Requirements**: No need to prove if a shot was fired or if the weapon was loaded.
+- **Interpretation of "point at"**: 
+  - **Narrow Interpretation**: Points at Y where a bullet would hit if discharged (adopted in **Van Zyl 1993 (1) SACR 338 (C)**).
+  - **Broader Interpretation**: Directing towards Y in a manner that arouses fear of being hit (adopted in **Hans 1998 (2) SACR 406 (E)**).
+
+##### 6.2.4 A firearm, et cetera
+- **Definition of firearms**: Includes any device designed to propel a bullet.
+
+##### 6.2.5 "Any other person"
+- **Requirement**: Must point at a person; pointing at animals is insufficient for conviction.
+
+##### 6.2.6 Unlawfulness
+- **Justification**: No criminal liability if pointing due to grounds like self-defence.
+
+##### 6.2.7 Intention
+- **Culpability Requirement**: Intention is necessary; mere negligence is insufficient.
+- **Application**: Must know that handling an object described in the Act and that pointing at another person is unlawful.
+
+#### SUMMARY
+- **Assault**:
+  - Definition includes application of force or inspiring fear.
+  - Grounds for justification: private defence, official duty, etc.
+  - Intention required for culpability, not negligence.
+
+- **Assault with the intent to do grievous bodily harm**:
+  - All requirements for ordinary assault apply, plus intent.
+  - Actual harm inflicted is not necessary for liability.
+
+- **Assault with intent to commit another crime**:
+  - Requires intention to commit an additional crime.
+
+- **Pointing of a firearm**:
+  - Definitions provided in legislation.
+  - Broad interpretation of "pointing" preferred for wider protection against fear.
+  - Intention is required for the offence.
+
+### Further Reading
+- Burchell, *Principles of Criminal Law* (2016) 591–609.
+- Kemp et al., *Criminal Law in South Africa* (2018) 326–331.
+----- END OF FILE -----
+# LEARNING UNIT 7:
+### Crimes against dignity, reputation and freedom of movement
+
+---
+
+## 7.1 BACKGROUND
+- Discussion of crimes against dignity and reputation, abduction and kidnapping.
+- Related to family life protection and freedom of movement.
+
+## 7.2 CRIMEN INIURIA (Criminal Law 461–467)
+
+### 7.2.1 Definition
+- Unlawful, intentional, serious infringement of another’s dignity or privacy.
+
+### 7.2.2 Elements of the crime
+1. Infringement
+2. Dignity or privacy of another
+3. Seriousness
+4. Unlawfulness
+5. Intentionality
+
+### 7.2.3 Introduction
+- Punishes violations of physical integrity (assault) and personality rights (crimen iniuria, criminal defamation).
+
+### 7.2.4 Distinction between crimen iniuria and criminal defamation
+- **Crimen iniuria**: Protects dignity/privacy.
+- **Criminal defamation**: Protects reputation/good name.
+- Three parties in defamation: wrongdoer, complainant, third party.
+- Two parties in crimen iniuria: wrongdoer, complainant.
+
+### 7.2.5 The interests protected by the crime
+
+#### 7.2.5.1 Dignity
+- Described as a valued condition violated through offensive/degrading treatment (Melius de Villiers).
+
+#### 7.2.5.2 Privacy
+- Protection of privacy intertwined with dignity.
+- Can be violated without complainant's awareness (e.g., “Peeping Tom” scenario).
+  
+### 7.2.6 Infringement may lead to both civil and criminal actions
+- Victims may pursue civil claims for damages and also criminal prosecution for crimen iniuria or defamation.
+
+### 7.2.7 Infringement of interests protected
+
+#### 7.2.7.1 General
+1. Committed by word or deed.
+2. Not limited to sexual impropriety.
+3. X or Y can be either gender.
+
+#### 7.2.7.2 Subjective and objective aspects
+- **Subjective Element**: Complainant must be aware and feel humiliated (exceptions for children/mentally defective).
+- **Objective Element**: Conduct must offend a reasonable person's standards.
+
+#### 7.2.7.3 Examples of infringement of dignity
+1. Indecent exposure (e.g., A 1991 (2) SACR 257 (N)).
+2. Unwanted sexual suggestions (e.g., Olakawu 1958 (2) SA 357 (C)).
+3. Disparaging language (e.g., calling derogatory names).
+4. Assault actions (e.g., spitting).
+5. Vulgar abuse (e.g., Walton 1958 (3) SA 693 (R), Momberg 1970 (2) SA 68 (C)).
+6. Notable case: _S v Van Leperen_ 2017 (1) SACR 226 (WCC): Sexual remarks led to crimen iniuria conviction despite lack of sexual assault intention.
+
+#### 7.2.7.4 Examples of infringement of privacy
+- Cases involving "Peeping Tom" scenarios.
+
+---
+## 7.4 ABDUCTION AND KIDNAPPING
+
+### 7.4.2 Origin and character of the crime
+- Defined by legislative roots and general societal norms.
+
+### 7.4.3 Legal interest protected by the crime
+- Protection of individuals from unlawful restraint.
+
+### 7.4.4 Elements of the crime
+- Must meet specific criteria for classification as abduction or kidnapping.
+
+### 7.4.5 Removal
+- Defined procedures for lawful versus unlawful removal.
+
+### 7.4.6 Person removed must be an unmarried minor
+- Specific criterion for the victim's demographic.
+
+### 7.4.7 Removal from parental/guardian control
+- Essential for establishing the crime's parameters.
+
+### 7.4.8 Intention to marry or have sexual intercourse with a minor
+- Underlying intent critical to the crime's gravity.
+
+### 7.4.9 Without consent of parents or guardian
+- Consent is a significant legal requirement.
+
+### 7.4.10 Unlawfulness
+- Must be established for any charges to stand.
+
+### 7.4.11 Intention
+- Necessary mental state for prosecution. 
+
+---
+## 7.5 KIDNAPPING
+
+### 7.5.1 Definition
+- Specific legal definition tied to unlawful taking of another person.
+
+### 7.5.2 Elements of the crime
+- Core components that must be proven in court.
+
+### 7.5.3 Character of the crime
+- Explores the severity and implications of kidnapping.
+
+---
+
+This structured note summarizes key principles and elements of crimes against dignity, reputation, and freedom of movement, omitting elaborate explanations while maintaining structure, heading clarity, and critical case references.
+
+----- END OF FILE -----
+# LEARNING UNIT 7: Crimes against dignity, reputation and freedom of movement 
+
+## 7.2 CRIMES AGAINST PRIVACY
+
+### 7.2.8 Violation of dignity or privacy must be serious
+- **Legal Standard**: Violations must be serious; trivial insults do not qualify (Seweya 2004 (1) SACR 387 (T)).
+- Contextual Factors for Seriousness:
+  - Ages of parties involved (young vs. mature)
+  - Gender considerations (Van Meer 1923 OPD 77)
+  - Nature of act (indecent exposure, "Peeping Toms")
+  - Relationship between parties (stranger vs. intimate)
+  - Persistence of conduct (e.g., rude staring)
+  - Publicity (greater harm with wider audience exposure)
+  - Sexual impropriety (unwanted sexual advances viewed seriously)
+  - Public standing of Y (offensive comments to public officials may constitute greater contempt, Momberg case).
+
+### 7.2.9 Unlawfulness
+- **Justifying Grounds**:
+  - **Necessity**: E.g., fleeing a fire (even if naked).
+  - **Consent**: Y's permission for unwanted observation.
+  - **Official Capacity**: Actions by police under duty.
+
+### 7.2.10 Intention
+- Must be intentional; negligence does not suffice.
+- X must be aware that actions violate Y's dignity or privacy and recognize lack of justification.
+
+## 7.3 CRIMINAL DEFAMATION (Criminal Law 467–469)
+
+### 7.3.1 Definition
+- Criminal defamation: unlawful, intentional publication harming someone’s reputation.
+
+### 7.3.2 Elements of the crime
+1. Publication
+2. Defamatory allegation concerning another
+3. Unlawfulness
+4. Intentionality
+
+### 7.3.3 Publication
+- "Publication" means dissemination to third parties (can be oral or written).
+- Allegations solely to Y may constitute crimen iniuria if injurious.
+
+### 7.3.4 Defamatory allegation
+- Defamatory words must incite hatred, contempt, or ridicule.
+- X must intend to harm Y's reputation actively.
+- Seriousness is a requirement for defamation (Hoho 2009 (1) SACR 276 (SCA)).
+- **Constitutionality**: Freedom of expression is not absolute; protects dignity. 
+
+### 7.3.5 Intent
+- Must intend to defame (Motsepe 2015 (2) SACR 125 (GP): reliance on truth negated intent).
+
+## 7.4 ABDUCTION (Criminal Law 395–399)
+
+### 7.4.1 Definition
+- Abduction: unlawful, intentional removal of an unmarried minor without consent, intending marriage or sexual intercourse.
+
+### 7.4.2 Origin and character of the crime
+- Historically aimed at protecting parental authority over minors; relevance has evolved but still penalizes seduction of minors.
+
+### 7.4.3 Legal interest protected
+- Interests of parents/guardians: control over minors and marriage consent.
+
+### 7.4.4 Elements of the crime
+1. Removal 
+2. Unmarried minor
+3. From parents' control 
+4. Intent for marriage/sexual intercourse 
+5. No parental consent 
+6. Unlawfulness 
+7. Intent
+
+### 7.4.5 Removal
+- Removal need not be forcible; agreement is sufficient (Jorgenson 1935 EDL 219).
+
+### 7.4.6 Person removed
+- Minor defined as under 18 (s 17 of the Children’s Act 38 of 2005).
+
+### 7.4.7 Removal from parental control
+- Must be without parental consent; minors' consent is immaterial.
+
+### 7.4.8 Intention to marry or engage sexually
+- Must aim to remove minor for substantial duration aiming for marriage/sexual intercourse.
+
+### 7.4.9 Without parental consent
+- Consent of parents is critical; Y's consent alone does not absolve X.
+
+### 7.4.10 Unlawfulness
+- Must lack justification.
+
+### 7.4.11 Intention
+- Intention must encompass all crime elements; must be aware of minor status and non-consent of parents (Churchill 1959 (2) SA 575 (A)).
+----- END OF FILE -----
+# LEARNING UNIT 7: Crimes against dignity, reputation and freedom of movement
+
+## 7.5 KIDNAPPING (Criminal Law 471–474)
+### 7.5.1 Definition
+- Kidnapping: Unlawful and intentional deprivation of a person's freedom of movement or parental control over a child under 18.
+
+### 7.5.2 Elements of the crime
+1. Deprivation
+2. Freedom of movement (or parental control)
+3. Unlawfulness
+4. Intentionally
+
+### 7.5.3 Character of the crime
+- Protects freedom of movement and parental/custodian control over minors.
+- Important features:
+  - Parents cannot commit this crime regarding their own child.
+  - Forcible removal not required.
+  - Duration of deprivation is irrelevant.
+  - Motive (e.g., ransom) not essential for liability; may influence sentencing.
+  - Unlawfulness may be negated if acting in official capacity or with consent of an adult.
+  - Intention requires knowledge of unlawfulness.
+
+## GLOSSARY
+- **dignitas**: dignity
+
+## SUMMARY
+### Crimen Iniuria
+1. Definition: Protects dignity and privacy.
+2. Dignity expressed as "mental tranquillity," "self-respect," or "feeling of chastity."
+3. Infringement of dignity requires awareness and feeling of degradation by Y.
+4. Examples include indecent exposure and vulgar abuse.
+5. Privacy infringement examples: Peeping Toms, unauthorized listening devices, confidential communications.
+6. Seriousness is required for qualifying as crimen iniuria.
+7. Culpability: intention.
+
+### Criminal Defamation
+1. Definition: Protects a person's reputation.
+2. Harm requires publication to someone other than Y.
+3. Defenses: truth, public benefit, fair comment, privilege.
+4. Intention to harm Y's reputation and knowledge of unlawfulness required.
+
+### Abduction
+1. Seven elements identified (not elaborated here).
+
+### Kidnapping
+1. Definition: Similar to above; protects freedom or parental control.
+2. Ransom demand not required for crime, but may lead to extortion charge.
+3. Childstealing as a form of kidnapping.
+4. No need for physical removal; concealing or imprisoning is sufficient.
+5. Permanent deprivation not required.
+
+## FURTHER READING
+- Burchell, Principles of Criminal Law (2016) 640–661; 666–672.
+- Kemp et al., Criminal Law in South Africa (2018) 332–342; 413–422.
+
+---
+
+# LEARNING UNIT 8: Theft
+
+## 8.1 DEFINITION
+145
+
+## 8.2 GENERAL CHARACTERISTICS OF THE CRIME
+145
+
+## 8.3 LATIN TERMINOLOGY
+146
+
+## 8.4 DIFFERENT FORMS OF THEFT
+146
+
+## 8.5 FOUR BASIC REQUIREMENTS
+147
+
+## 8.6 THEFT IN THE FORM OF THE REMOVAL OF PROPERTY
+### 8.6.1 Act of appropriation
+- 8.6.1.1 Two components involved.
+- 8.6.1.2 Distinction between attempted and completed theft.
+- 8.6.1.3 Stealing from a self-service shop.
+
+### 8.6.2 The property
+149
+
+### 8.6.3 Unlawfulness
+150
+
+### 8.6.4 Intention
+- 8.6.4.1 Intention concerning the property.
+- 8.6.4.2 Intention regarding the unlawfulness.
+- 8.6.4.3 Intention concerning the act (intention to appropriate).
+
+## 8.7 EMBEZZLEMENT
+154
+
+## 8.8 ARROGATION OF POSSESSION (FURTUM POSSESSIONIS)
+155
+
+## 8.9 CERTAIN ASPECTS OF THE THEFT OF MONEY
+156
+
+## 8.10 THEFT IS A CONTINUING CRIME
+157
+
+--- 
+
+Note: The above study notes focus on summarizing key concepts and elements for easy reference while preserving important structural features relevant for study and comprehension.
+----- END OF FILE -----
+# LEARNING UNIT 8: Theft
+
+## 8.1 DEFINITION
+- Theft: unlawful, intentional appropriation of movable, corporeal property.
+  - Property can belong to:
+    1. Another and in their possession.
+    2. Another but in the perpetrator’s possession.
+    3. The perpetrator but in another's possession, where the other has a superior right of possession.
+- Intention to permanently deprive the rightful possessor is necessary.
+
+## 8.2 GENERAL CHARACTERISTICS OF THE CRIME
+- Definition drawn from Roman-Dutch law due to absence of specific legislation.
+- Includes:
+  - Appropriation of property in another's possession.
+  - Appropriation of property already in the perpetrator's possession (embezzlement).
+  - Unlawful re-possession of own property (arrogation of possession).
+
+## 8.3 LATIN TERMINOLOGY
+- Furtum: theft.
+- Contrectatio: act of theft, but should be understood as "appropriation."
+- Res: object of theft.
+- Animus furandi: intention to steal.
+- Invito domino: without owner's consent (unlawfulness).
+
+## 8.4 DIFFERENT FORMS OF THEFT
+- Common forms include:
+  1. Removal of property from another's possession.
+  2. Embezzlement.
+  3. Arrogation of possession (taking back one's own property from lawful possession).
+
+## 8.5 FOUR BASIC REQUIREMENTS
+1. Act of appropriation.
+2. Specific type of property.
+3. Unlawfulness of act.
+4. Intention (to appropriate).
+
+## 8.6 THEFT IN THE FORM OF THE REMOVAL OF PROPERTY
+### 8.6.1 Act of appropriation
+- Defined by:
+  1. Deprivation of lawful owner.
+  2. Exercise of ownership rights by the perpetrator.
+
+#### 8.6.1.1 Components of appropriation
+- Negative: exclusion of the rightful owner.
+- Positive: explicit exercise of ownership by the perpetrator.
+
+#### 8.6.1.2 Attempted vs. Completed Theft
+- Distinction based on control over property at the time of intervention.
+- If appropriation is not completed (e.g., apprehended before control is obtained), only attempted theft is relevant.
+
+#### 8.6.1.3 Shoplifting Cases
+- Caught before exiting self-service shop can lead to completed theft determination; however, depends on effective control assessment.
+
+### 8.6.2 The property
+- Must comply with:
+  1. Be movable (cannot steal immovable property).
+  2. Be corporeal (cannot steal abstract concepts).
+  3. Be available in commerce.
+  4. Must belong to someone else, barring arrogation of possession.
+
+### 8.6.3 Unlawfulness
+- Consent of the owner negates unlawfulness (invito domino).
+  
+### 8.6.4 Intention
+- Requires intent; theft cannot be committed negligently. Must encompass all elements of the crime.
+----- END OF FILE -----
+# LEARNING UNIT 8: Theft
+
+---
+
+## 8.6 Requirements for Intention in Theft
+
+- **Basic Requirements**
+  - Act of appropriation
+  - Property requirement
+  - Requirement of unlawfulness
+
+### 8.6.4 Intention with Respect to the Property
+
+- **Definition**
+  - X must know the property is movable, belongs to someone else, or is possessable by another.
+  
+- **Key Case: Rantsane 1973 (4) SA 380 (O)**
+  - X believed property was res derelictae, lacked intention to steal.
+  
+- **Understanding Res Nullius/Res Derelictae**
+  - Misbelief negates theft intention.
+  
+### 8.6.4.2 Intention with Respect to Unlawfulness
+
+- **Requirement**
+  - X must be aware of the unlawfulness of her actions.
+  
+- **Key Case: Slabbert 1941 OPD 109**
+  - X believed Y would consent; lacked unlawful awareness.
+
+### 8.6.4.3 Intention with Respect to the Act (Intention to Appropriate)
+
+- **Definition of Appropriation**
+  - Positive: Exercising ownership rights.
+  - Negative: Excluding owner’s rights.
+  
+- **Components of Intention to Appropriate**
+  - (1) Intention to exercise ownership rights.
+  - (2) Intention to exclude the owner.
+
+- **Intention to Permanently Deprive**
+  - Cannot intend only temporary deprivation.
+  - **Example**: Taking a car only for a joyride does not constitute theft.
+  
+- **Historical Context**
+  - Roman and Roman-Dutch law did not require permanent deprivation.
+  - **Key Case: Sibiya 1955 (4) SA 274 (A)**
+    - Confirmed necessity of permanent deprivation for theft conviction.
+
+### 8.6.4.3(c) Intention to Appropriate Includes Permanent Deprivation
+
+- **Clarification**
+  - Emphasis on general intention to appropriate rather than solely on permanent deprivation.
+
+## 8.7 Embezzlement
+
+- **Definition**
+  - Theft by appropriating property already in X's possession.
+  
+- **Acts Constituting Embezzlement:**
+  - Consuming, selling, donating, exchanging property.
+
+- **Example of Finder's Conduct**
+  - Failure to return lost property can lead to theft.
+
+- **Key Case: Director of Public Prosecutions, Western Cape v Parker 2015 (2) SACR 109 (SCA)**
+  - VAT vendor misappropriating funds held not guilty under common theft.
+
+## 8.8 Arrogation of Possession (Furtum Possessionis)
+
+- **Definition**
+  - Owner steals own property from someone with a prevailing right to possess.
+
+- **Examples**
+  - X takes property from a secured position against the agreement.
+  
+- **Key Cases:**
+  - Roberts 1936 (1) PH H2 (C) - Convicted for theft of car in garage.
+  - Janoo 1959 (3) SA 107 (A) - Guilty for removing goods without appropriate rights.
+
+## 8.9 Theft of Money
+
+- **Context**
+  - Money theft includes incorporeal property like bank credit.
+  
+- **Key Case: Verwey 1968 (4) SA 682 (A)**
+  - Actions reducing the owner's bank credit constitute theft.
+
+- **Mechanisms of Theft**
+  - No tangible coins or notes required; economic effect is paramount.
+  
+--- 
+
+**Legislation Highlighted**:
+- **Value-Added Tax Act 89 of 1991**
+- **Act 50 of 1956**
+
+**Notable Cases**:
+- Rantsane, Slabbert, Sibiya, Kinsella, Roberts, Janoo, Verwey, Parker.
+----- END OF FILE -----
+### Learning Unit 8: Theft
+#### Page 157-158
+- **Theft as a Continuing Crime**  
+  - Theft continues as long as the stolen property remains in possession of the thief.  
+  - Perpetrators and accessories after the fact treated equally in theft.  
+  - **Case Reference**: *Von Elling 1945 AD 234* - Conviction for driving a stolen motorcar with intent to conceal.
+
+#### Glossary
+- **animus furandi**: Intention to steal.  
+- **contrectatio**: Act of stealing (handling or touching of property).  
+- **delictum continuum**: Continuing crime.  
+- **furtum**: Theft.  
+- **furtum possessionis**: Theft of possession of property.  
+- **furtum usus**: Theft of use (not applicable in current law).  
+- **invito domino**: Without the owner's consent.  
+- **lucri faciendi gratia**: Intention to gain advantage.  
+- **res**: Thing or property.  
+- **res communes**: Things belonging to everyone.  
+- **res derelictae**: Abandoned things.  
+- **res in commercio**: Things capable of commercial exchange.  
+- **res nullius**: Things belonging to nobody.  
+
+#### Summary  
+1. **Definition of Theft**: See definition above.  
+2. **Act of Stealing**: Appropriating property by depriving the owner and exercising rights of an owner.  
+3. **Forms of Theft**:
+   - Removal of property (property in owner's possession).
+   - Embezzlement (property in perpetrator's possession).
+4. **Self-Theft**: Can commit theft of one's own property if it is in possession of someone with a superior right.  
+5. **Property Requirements**:
+   - Must be movable.
+   - Must be corporeal and capable of commerce.  
+   - Must not be res communes, derelictae, or nullius.  
+   - Belongs to someone else unless arrogation of possession applies.
+6. **Unlawfulness**: Act must be without permission from the possessor.  
+7. **Intention for Theft**:
+   - Must relate to act, nature of property, unlawfulness, and permanent deprivation.  
+   - Temporary use and return does not constitute theft.
+8. **Theft Types**:
+   - Embezzlement: Appropriation of property already in perpetrator's possession.
+   - Arrogation of possession: Owner removes own property from lawful possessor.
+
+---
+
+### Learning Unit 9: Robbery and Receiving Stolen Property
+#### Page 159-166
+9.1 **Robbery**  
+- **Definition**: Theft by unlawful violence or threats of violence to take property.  
+- **Elements**:
+  1. Theft of property.
+  2. Use of actual or threatened violence.
+  3. Causal connection between violence and property acquisition.
+  4. Unlawfulness.
+  5. Intention.  
+
+- **General Characteristics**:  
+  - All theft requirements apply; no consent is crucial.
+  - Only movable, corporeal property in commerce can be robbed.
+
+- **Case Reference**: *S v Sishuba* - Forced electronic transfer of money is robbery.
+
+- **Application of Force**:   
+  - Violence directed at a person; slight injury suffices for robbery.
+  - **Case Ref**: *Mokoena 1975 (4) SA 295 (O) ​​and L 1982 (2) SA 768 (ZH)*: Violence while incapacitating victim constitutes robbery.
+
+- **Threats of Violence**:  
+  - Threats, express or implied, can constitute robbery even without physical violence.   
+  - **Case Ref**: *Ex parte Minister of Justice: In re R v Gesa, R v De Jongh 1959 (1) SA 234 (A)*: Submission through fear suffices. 
+
+#### 9.2 **Receiving Stolen Property**
+- **Definition**: Crime of knowingly receiving stolen property.  
+- **Elements**:
+  1. Stolen property.
+  2. Receiving property.
+  3. Unlawfulness.
+  4. Culpability.   
+
+**Note**: Specific cases and examples illustrate legal principles but are excluded here.
+----- END OF FILE -----
+# LEARNING UNIT 9: Robbery and Receiving Stolen Property
+
+## 9.1 Robbery
+
+### 9.1.6 Causal Link between Violence and Acquisition of Property
+- Causal link required between violence/threats and property acquisition; absence leads to no robbery charge.
+- **Case Reference**: *Pachai 1962 (4) SA 146 (T)*: Threats did not secure property due to prior police trap; resulting in attempted robbery, not robbery.
+
+### 9.1.7 The "Bag-and Cellphone-Snatching Cases"
+- Snatching handbag/cellphone can meet robbery criteria even without victim resistance.
+- **Case Reference**: *Sithole 1981 (1) SA 1186 (N)*: Force used to overcome victim's grip on handbag constituted robbery.
+- **Case Reference**: *Salmans 2006 (1) SACR 333 (C)*: Any force, however slight, against the victim suffices for robbery; grabbing effects dispossession.
+- **Case Reference**: *Hlatwayo 1980 (3) SA 425 (O)*: Resistance by victim indicates robbery.
+
+### 9.1.8 Property Need Not Be on the Victim's Person or in His Presence
+- **Case Reference**: *Ex parte Minister van Justisie: In re S v Seekoei 1984 (4) SA 690 (A)*: Robbery found even when victim’s property was two kilometers away.
+
+## 9.2 Receiving Stolen Property
+
+### 9.2.1 Definition
+- Crime defined as unlawfully and intentionally receiving stolen property with knowledge of its status as stolen.
+
+### 9.2.2 Elements of the Crime
+1. Receiving
+2. Stolen goods
+3. Unlawfully
+4. Intentionally (knowledge of stolen status)
+
+### 9.2.3 Stolen Property
+- Applicable only to movable corporeal property; receiving proceeds does not constitute the crime (*Augustine 1986 3 SA 294 (C)*).
+
+### 9.2.4 Receiving the Property
+- Involves possession; mere negotiation or inspection without intent to possess does not constitute crime.
+
+### 9.2.5 Unlawfulness
+- Must be unlawful; consent or intent to return property negates criminal charge.
+
+### 9.2.6 Culpability
+- Must know property is stolen; dolus eventualis sufficient if aware of such possibility and chooses to receive.
+
+## SUMMARY
+1. **Robbery**: Theft by violence (actual or threatened); requires causal link between violence and property acquisition.
+2. **Theft Not Robbery**: If violence follows theft, implies separate charges (assault and theft).
+3. **Bag Snatching**: Snatching entails robbery if force is used, regardless of victim's resistance.
+4. **Property Presence**: No requirement for victim's property to be physically present during violence for robbery to occur.
+5. **Receiving Stolen Property**: Criminal for knowingly receiving stolen goods; overlaps with theft.
+
+## FURTHER READING
+1. *Burchell Principles of Criminal Law (2016) 721–735*.
+2. *Kemp et al. Criminal Law in South Africa (2018) 443–448*.
+----- END OF FILE -----
+# LEARNING OUTCOMES
+- Understanding liability for crimes: fraud, attempted fraud, forgery, uttering, theft by false pretences.
+
+---
+
+# 10.1 FRAUD
+(Criminal Law 523–532; Reader 38–41)
+
+## 10.1.1 Definition
+- Fraud: unlawful, intentional misrepresentation causing actual or potential prejudice.
+
+## 10.1.2 Elements of the crime
+1. **Misrepresentation**
+2. **Causes or may cause prejudice**
+3. **Unlawful**
+4. **Intentional**
+
+## 10.1.3 The Misrepresentation
+- Misrepresentation: Deception through falsehood; conduct representing non-existent facts.
+  - **Forms of Misrepresentation**:
+    - Written, verbal, or conduct (e.g., nodding).
+    - Express or implied representations.
+      - Examples: Implicit representation of payment intent when purchasing on credit (Persotam 1938 AD 92).
+      - **Case Reference**: Mdantile 2011 (2) SACR 142 – Misrepresentation by conduct confirmed fraud despite lack of oral statement.
+- Misrepresentation by commission or omission.
+  - **Legal duty to disclose**: May arise from statute (e.g., Insolvency Act 24 of 1936, s. 137(a)) or natural duty.
+- **Case References**:
+  - Larkins: Omitting key facts about salary led to fraud conviction.
+  - Yengeni: Failure to disclose benefits to Parliament can lead to fraud charges.
+  - Tshopo: Failing to disclose relationship in tender applications constituted omission misrepresentation.
+
+## 10.1.4 The Prejudice
+### 10.1.4.1 General
+- Prejudice refers to harm resulting from misrepresentation. Mere lying is not fraud; tangible harm must occur.
+
+### 10.1.4.2 Types of Prejudice
+- **Actual vs. Potential**: 
+  - Both types support fraud conviction; potential is sufficient.
+  - **Legal Standards**:
+    - Prejudice implies risk of harm.
+    - Prejudice need not be financial or direct to the victim.
+  - **Case Reference**: Mngqibisa 2008 (1) SACR 92 – Potential prejudice upheld even if claim not paid.
+  - **Noteworthy Cases**: Dyonta 1935 AD 52; Ndwambi 2016 (2) SACR 195(SCA).
+
+### 10.1.4.3 Nature of Prejudice
+- Prejudice can be proprietary (related to material possessions) or non-proprietary (affecting broader interests).
+  - **Examples** of Non-Proprietary Prejudice:
+    - Cheating in exams (Thabetha 1948).
+    - Submitting forged documents (Jass 1965).
+    - Misrepresentation to authorities (Heyne).
+
+## 10.1.5 Unlawfulness
+- Fraud inherently involves unlawful deception; awareness of falsehood is no defense.
+
+## 10.1.6 Intent
+- Must cover all components of fraud.
+  - Intent to misrepresent: Knowledge of falsity.
+  - Intent for prejudice: Awareness that harm may arise from misrepresentation.
+- **Distinction**: Intent to deceive (belief in falsehood) vs. intent to defraud (inducing harmful actions).
+- **Case Reference**: Gardener 2011 (1) SACR 570 (SCA) – Directors withheld information leading to fraud.
+
+## 10.1.7 Attempt
+- General consensus is no attempted fraud due to potential prejudice sufficing for fraud. 
+- However, **Appellate Division** (Heyne 1956) allows attempted fraud where misrepresentation is not yet disclosed or received.
+
+---
+
+### References to Diagrams
+- No specific diagrams referenced but may include flowcharts illustrating elements and cases of fraud.
+----- END OF FILE -----
+# Learning Unit 10: Fraud and Related Crimes
+
+## 10.1 Definitions and Context
+- **Fraud**: Intentional misrepresentation causing actual or potential prejudice.
+- **Theft by False Pretences**: Obtaining property via misrepresentation with consent induced by the fraud.
+
+## 10.2 Forgery and Uttering (Criminal Law 532–535)
+### 10.2.1 Definition
+- **Forgery**: Making a false document to the detriment of another.
+- **Uttering**: Passing off a false document to another’s prejudice.
+
+### 10.2.2 Elements of the Crime
+1. Making a false document (forgery).
+2. Passing off a false document.
+3. Actual or potential prejudice.
+4. Unlawfulness.
+5. Intention.
+
+### 10.2.3 General Character of the Crime
+- Forgery is a type of fraud; completed upon document falsification, while fraud is complete when misrepresentation becomes known.
+- Uttering occurs when the falsified document is used by the forger or others.
+
+### 10.2.4 Falsification of a Document
+- Broad interpretation of "document," including:
+  - Testimonials
+  - Cheques, Receipts, Promissory notes, Bonds, Educational qualifications.
+- A document is false if it misrepresents its nature or contains false information. 
+
+### 10.2.5 Passing off a False Document
+- Must be communicated as genuine.
+- Attempted uttering occurs if the document does not reach its intended recipient.
+
+## 10.3 Theft by False Pretences (Criminal Law 535–537)
+### 10.3.1 Definition
+- Theft by false pretences occurs if one unlawfully obtains another's property via misrepresentation.
+
+### 10.3.2 Elements of the Crime
+1. Misrepresentation by X to Y.
+2. Actual harm to Y (property loss).
+3. Causal connection between misrepresentation and prejudice.
+4. Appropriation of property by X.
+5. Unlawfulness.
+6. Intention.
+
+### 10.3.3 General Character of the Crime
+- Involves fraud followed by theft, where consent obtained through misrepresentation is not considered valid.
+
+## Summary of Key Principles
+### Fraud
+1. Definition revolves around misrepresentation of facts.
+2. May be verbal, written, or through conduct; includes both acts of omission and commission.
+3. Prejudice can be actual or potential and of various natures.
+
+### Forgery and Uttering
+- Forgery constitutes misrepresentation through falsified documents.
+- Uttering involves involving another party with the forged document, which can lead to criminal charges.
+
+### Theft by False Pretences
+- Always involves an element of fraud and invalid consent leading to theft.
+
+## Further Reading
+- **Burchell**: Principles of Criminal Law (2016) 742–756.
+- **Kemp et al.**: Criminal Law in South Africa (2018) 460–66.
+
+---
+
+# Learning Unit 11: Crimes Relating to Damage to Property
+
+## 11.1 Background
+- Law punishes property damage primarily under malicious injury to property, with arson being a specific form.
+
+## 11.2 Malicious Injury to Property (Criminal Law 539–541)
+### 11.2.1 Definition
+- Malicious injury encompasses:
+  1. Unlawfully and intentionally damaging another's property.
+  2. Intentionally damaging one’s insured property to claim insurance.
+
+### 11.2.2 Elements of the Crime
+1. Damaging.
+2. Property.
+3. Unlawfulness.
+4. Intention.
+
+### 11.2.3 The Property
+- Must be corporeal, movable, or immovable.
+- Damage to owned property is permissible unless claiming insurance.
+
+### 11.2.4 Damage
+- Damage is assessed by the detriment caused to the property.
+
+### 11.2.5 Unlawfulness
+- Conduct must violate legal standards.
+
+### 11.2.6 Intention
+- Action must be intentional, reflecting the criminal mindset.
+
+## 11.3 Arson
+### 11.3.1 Definition
+- Arson involves intentionally setting fire to property with malice.
+
+### 11.3.2 Elements of the Crime
+- Not detailed in the excerpt, but generally involves similar concepts of intention and property damage.
+
+### 11.3.3 The Property
+- Property set ablaze must belong to another.
+
+### 11.3.4 Setting Fire to
+- Specific actions involving causing fire and damage to property. 
+
+---
+
+This structured format preserves critical legal concepts and relevant information while ensuring a concise study guide for review.
+----- END OF FILE -----
+### LEARNING UNIT 11: Crimes relating to damage to property
+
+**11.2.4 Damage**  
+- Damage includes total/partial property destruction, loss, and injury to property.
+- Damage includes alteration that incurs costs for restoration (Bowden 1957 (3) SA 148 (T)).
+
+**11.2.5 Unlawfulness**  
+- Justifications for unlawful injury:  
+  1. Statutory provisions (Oosthuizen 1974 (1) SA 435 (C)).  
+  2. Necessity (self-defense against animals, Jaffet 1962 (2) PH H220 (R)).  
+  3. Official capacity (e.g., police actions).  
+  4. Consent from property owner.
+
+**11.2.6 Intention**  
+- Crime committed intentionally (referred to as "malicious" injury).
+- Malicious motive is irrelevant (Mnyanda 1973 (4) SA 603 (N) 605).
+- Graffiti as property damage:  
+  - Removal costs determine damage—subjective view on art vs vandalism.
+  - Criminalized in **Section 44 of the General Law Further Amendment Act 93 of 1964**; artistic value not a defense.
+  - Rulings affirm graffiti as property damage (Bowden 1957 (3) SA 148 (T)).
+
+**11.3 ARSON**  
+- A form of malicious injury to property.
+
+**11.3.1 Definition**  
+- Arson defined as unlawfully and intentionally setting fire to:  
+  (a) immovable property belonging to another;  
+  (b) own immovable insured property, to claim insurance value.
+
+**11.3.2 Elements of the crime**  
+- Elements include:  
+  1. Setting fire to.  
+  2. Immovable property.  
+  3. Unlawful act.  
+  4. Intention to commit.
+
+**11.3.3 The property**  
+- Property must be corporeal, immovable.
+- Insured property burn for insurance claim also constitutes fraud.
+
+**11.3.4 Setting fire to**  
+- Crime completes upon setting fire; attempts only if caught pre-ignition.
+
+**SUMMARY**  
+- Malicious injury to property includes:  
+  1. Definition = property harm.  
+  2. Property can be movable/immovable.  
+  3. Tampering that incurs cost indicates damage.  
+  4. Intention required; evil motive not essential.  
+- Specifics on arson:  
+  5. Definition of arson confirmed.  
+  6. Arson only concerning immovable property.  
+  7. Intention to damage required, causing patrimonial harm.
+
+### LEARNING UNIT 12: Housebreaking with the intent to commit a crime
+
+**12.1 DEFINITION**  
+- Housebreaking defined as unlawfully/intentionally breaking into a building/structure with intent to commit a crime.
+
+**12.2 ELEMENTS OF THE CRIME**  
+- Elements comprise:  
+  1. Breaking and entering.  
+  2. Building/structure.  
+  3. Unlawfulness.  
+  4. Intent.
+
+**12.3 BREAKING AND ENTERING**  
+- Composed of:  
+  1. Breaking into structure.  
+  2. Entering.
+
+**12.3.1 Breaking**  
+- Not always requires damage but displacing an obstacle that bars entry suffices (Ngobeza 1992 (1) SACR 610 (T)).
+- Examples:  
+  - Physical breaking or merely opening a closed door/window qualifies.
+  - Acts like pushing aside curtains (not part of building) do not.
+
+**12.3.2 Entering**  
+- Mere breaking insufficient; entry defined as inserting any body part/instrument into building (Maruma 1955 (3) SA 561 (O)).
+- Attempted entry results in attempted housebreaking conviction (Mavela 2008 (2) SACR 608 (Ck)).
+
+**12.4 BUILDING OR STRUCTURE**  
+- Structure must be for human habitation/storage; immovability is key in certain contexts (De Wet and Swanepoel; Snyman).
+- Structures qualifying for the crime include:  
+  - House, storeroom, factory, business premises.  
+- Non-qualifiers include:  
+  - Motorcar, railway truck, fowl run, tent for storage (Abrahams 1998 (2) SACR 655 (C)).
+----- END OF FILE -----
+# Chapter 12: Housebreaking with the Intent to Commit a Crime
+
+## 12.5 UNLAWFULNESS
+- Breaking and entering must be unlawful.
+- Not considered a crime if:
+  - Entering one's own house.
+  - Shared room with consent.
+  - Permission from the owner (e.g., domestic worker).  
+  - **Case**: *Mashinga 1976 (2) PH H210 (A)*.
+
+## 12.6 INTENTION
+- Two distinct components of intention required for housebreaking:
+  1. Intention to unlawfully break into and enter the house/structure.
+     - Intention absent if X believes she is breaking into her own house or with owner’s consent.
+  2. Intention to commit another crime inside.
+     - Mere housebreaking without this intention does not constitute the crime.
+     - Potentially punishable as malicious injury to property.
+     - The intended crime must differ from housebreaking.
+     - Charges of housebreaking with the intent to commit an unknown crime are permitted.
+     - **Legislation**: *s 95(12) read with ss 262 and 263 of the Criminal Procedure Act 51 of 1977*.
+
+## Summary
+1. Definition of the crime of housebreaking involves both (a) housebreaking and (b) entering a structure.
+2. "Breaking" = removal/displacement of an obstacle that bars entry.
+3. "Entering" is complete once any part of the body or instrument breaches an entry point with intent to control contents.
+4. Applicable to any structure for human habitation/storage of property.
+5. Required intention:
+   - (a) Unlawful breaking and entering.
+   - (b) Intention to commit another crime inside.
+
+## Further Reading
+- Burchell, *Principles of Criminal Law* (2016) 765–771.
+- Kemp et al., *Criminal Law in South Africa* (2018) 451–453. 
+
+## Diagram References
+- Reference diagrams related to "breaking" and "entering" as per legal definitions.

@@ -1,0 +1,1146 @@
+# PLS2601 Study Notes
+
+## Lesson 0: Orientation to Critical Reasoning
+- **Module Purpose**: Develop critical thinking, useful in both personal and professional contexts.
+- **Transferable Skill**: Critical reasoning assists in analyzing and evaluating information, leading to responsible decision-making.
+- **Active Participation**: Engage with activities to acquire competencies in critical reasoning.
+- **Foundation of Learning**: Use Tutorial Letter 101 for important syllabus information.
+
+## Outcomes of this Module
+- Equip with critical reasoning and problem-solving skills:
+  - Identify arguments.
+  - Analyze arguments (premises & conclusions).
+  - Evaluate arguments (deductive/inductive & soundness/validity).
+  - Identify fallacies.
+
+## Notional Hours
+- **Total Study Hours**: 120 hours (active engagement with materials and assignments).
+
+## Breakdown of the Study Guide
+- **Lesson 1**: What is Critical Reasoning? (10 hours)
+- **Lesson 2**: Different Types of Writing and Definitions (15 hours)
+- **Lesson 3**: The Argument (20 hours)
+- **Lesson 4**: Different Types of Arguments (20 hours)
+
+---
+
+## Lesson 1: What is Critical Reasoning?
+### 1.1 Introduction
+- Explore the essence of critical reasoning.
+
+### 1.2 What is Critical Reasoning?
+- **Definition & Importance**: Essential skill for effective thinking and decision-making.
+
+### 1.2.1 Critical Reasoning is Not Dogma
+- Emphasis on independent thought.
+
+### 1.3 Critical Reasoning, Informal Logic, and Formal Logic
+- Understand distinctions and interrelations.
+
+### 1.4 Critical Reasoning Competence – Thinking for Yourself
+- Foster independence in thought processes.
+
+### 1.5 Critical Reasoning Competence – Thinking in an Informed Way
+- Base judgments on well-rounded information.
+
+### 1.6 Critical Reasoning Competence – Critical Self-Reflection
+- **Examining Assumptions**: Assess underlying beliefs.
+- **Acknowledge Biases/Prejudices**: Recognize personal biases.
+- **Suspicion Towards Dogma**: Question accepted norms.
+
+### 1.7 Note About “Standard Form”
+- Definition and utility in clarity of reasoning.
+
+### 1.8 Conclusion
+- Recap of critical reasoning's significance.
+
+---
+
+## Lesson 2: Different Kinds of Writing and Definitions
+### 2.1 Introduction
+- Overview of writing styles relevant to arguments.
+
+### 2.2 Different Kinds of Writing
+- **Descriptive**: Represents facts.
+- **Narrative**: Tells a story.
+- **Explanatory**: Explains a concept.
+- **Instructive**: Provides instructions.
+- **Argumentative**: Presents and defends a position.
+
+### 2.3 Different Types of Definitions
+- **Stipulative Definition**: Specifies meaning for a term.
+- **Persuasive Definition**: Influences interpretation.
+- **Lexical Definition**: Dictionary definition.
+- **Enumerative Definition**: Lists examples.
+
+---
+
+## Lesson 3: The Argument
+### 3.1 Introduction
+- Introduction to the building blocks of arguments.
+
+### 3.2 The Statement or Proposition
+- Basis of argument formation.
+
+### 3.3 The Conclusion
+- Outcome or claim derived from arguments.
+
+### 3.4 The Premise
+- Supporting statements for conclusions.
+
+### 3.5 The Complex Argument
+- Interrelations between premises.
+
+### 3.6 Implicit Premise and Conclusion
+- **Implicit Premise**: Unstated underlying assumptions.
+- **Implicit Conclusion**: Conclusions that may not be explicitly stated.
+
+### 3.7 Conclusion
+- Summary of argument structure.
+
+---
+
+## Lesson 4: Different Types of Arguments
+### 4.1 Introduction
+- Overview of diverse argument types.
+
+### 4.1.1 What is Truth?
+- Philosophical insights on truth in arguments.
+
+### 4.2 Value Arguments
+- Arguments based on values and beliefs.
+
+### 4.3 Empirical Arguments
+- Evidence-based claims.
+
+### 4.4 Deductive Arguments
+- **Hypothetical Syllogism**: Conditional reasoning.
+- **Categorical Syllogism**: Relationship between categories.
+
+### 4.5 Inductive Arguments
+- Generalizations from specific instances.
+
+### 4.6 Deductive Validity
+- Validity in logical structure.
+
+### 4.7 Soundness
+- Valid arguments that are also true.
+
+### 4.8 Conclusion
+- Wrap-up on argument types.
+
+---
+
+## Lesson 5: Fallacies
+### 5.1 Introduction
+- Explore errors in reasoning.
+
+### 5.2 Different Types of Fallacies
+- **Informal Fallacies**: Errors based on argument context.
+  - **Slippery Slope**
+  - **Straw Man**
+  - **False Dilemma**
+  - **Begging the Question**
+  - **Ad Hominem**
+  - **False Appeal to Authority**
+  - **Hasty Generalization**
+  - **Red Herring**
+  - **Complex Question**
+  - **Equivocation**
+  - **False Appeal to Force**
+  - **Bandwagon Argument**
+  - **False Analogy**
+  
+### 5.3 Structural or Formal Fallacies
+- **Affirming the Consequent**
+- **Denying the Antecedent**
+
+### 5.4 Conclusion
+- Summary of fallacies.
+
+---
+
+## Lesson 6: Analysing, Mapping/Diagramming and Evaluating Arguments
+### 6.1 Introduction
+- Understanding how to assess arguments.
+
+### 6.2 Analyzing and Mapping/Diagramming an Argument
+- Techniques for visualizing arguments.
+
+### 6.3 Evaluating an Argument
+- Criteria for assessment.
+
+### 6.4 Conclusion
+- Reflection on the evaluation process.
+
+---
+
+## Bibliography
+- Refer to referenced materials.
+
+## Glossary
+- Definitions of key terms in English, Afrikaans, Zulu, and Northern Sotho.
+----- END OF CHUNK -----
+# PLS2601/1 
+## Lesson 0: Orientation to Critical Reasoning
+- Duration: 20 notional hours for Lessons 5 & 6
+- Total notional hours: 105 hours (15 hours left for assignments and exam)
+
+## 1 Lesson 1
+### 1. What is Critical Reasoning?
+#### Outcomes of This Lesson
+- Define critical reasoning
+- Differentiate formal logical and critical reasoning
+- Understand/explain three core competencies of critical reasoning
+- Explain/use “standard form” arguments
+
+### 1.1 Introduction
+- Critical reasoning enables analysis of arguments encountered in daily life.
+- Rhetoric defined: persuasive attempts lacking substantial argumentation (*Bowell & Kemp, 2015*).
+
+### 1.2 What is Critical Reasoning?
+- Definition: Active, reflective, informed thinking that involves questioning and evaluating beliefs (*Van den Berg, 2010*).
+- Critical reasoning vs. dogma:
+  - Dogma: Unquestioned belief from authority, e.g., traditional gender roles.
+  - Critical reasoning involves questioning these beliefs, promoting independent thought.
+
+#### Core Components of Critical Reasoning
+- Thinking for oneself
+- Informed reasoning
+- Critical self-reflection
+
+### 1.3 Critical Reasoning, Informal Logic, and Formal Logic
+- Critical reasoning and informal logic: Synonymous terms.
+- Formal logic: Studies argument structures within logical languages/symbols.
+  - Example of informal logic: “If it is raining, then my garden will be wet.”
+  - Formal logic representation: P → Q
+
+### 1.4 Critical Reasoning Competence – Thinking for Yourself
+- Engaging critically in various life areas and questioning accepted dogma.
+  - Encouraging exploration of alternatives (e.g., diverse relationship types).
+- Historical examples: South African struggle heroes challenged dogmatic beliefs on apartheid laws.
+
+### 1.5 Critical Reasoning Competence – Thinking in an Informed Way
+- Informed opinions require substantiation based on facts.
+  - Example: Rejecting evolution must be informed by scientific understanding, not mere opinion.
+----- END OF CHUNK -----
+# PLS2601/1 Study Notes
+
+## LESSON 1: What is Critical Reasoning?
+- **Figures:**
+  - FIGURE 3: Uninformed opinion of human evolution
+  - FIGURE 4: Informed opinion of human evolution
+
+### 1.1 Definitions of Opinion
+- **Opinion:** Personal belief or idea concerning a state of affairs (Van den Berg, 2010, p. 7).
+- **Informed Opinion:** Supported by sound reasons for claims (Van den Berg, 2010, p. 7).
+
+### 1.6 Critical Reasoning Competence – Critical Self-Reflection
+- **Reflection on Beliefs:** Understanding how personal beliefs are formed, using contentious issues (e.g., abortion) as a context.
+- **Key Insight:** Brave thinkers examine their own biases (Van den Berg, 2010, p. 7).
+
+#### 1.6.1 Examine Assumptions
+- Assumptions in everyday life; challenge societal norms (e.g., gender roles).
+  
+#### 1.6.2 Acknowledge Biases/Prejudices
+- Recognize deeper biases in assumptions, especially regarding gender roles.
+
+#### 1.6.3 Be Suspicious of Dogma
+- **Dogma:** Unquestioned beliefs accepted without critique (Van Den Berg, 2009, p. 4).
+- Need to critically assess received beliefs.
+
+### 1.7 A Note About “Standard Form”
+- **Standard Form of an Argument:** Explicitly lays out premises and conclusion.
+  - Example:
+    - P1: Barista has 30 years of experience.
+    - P2: Beans imported from South America.
+    - C: Coffee shop has best coffee in Tshwane.
+
+### 1.8 Conclusion
+- Critical thinking involves introspection and reflection. Tools for argument construction and evaluation will be provided in subsequent lessons.
+
+## END-OF-LESSON QUESTIONS
+1. Define critical reasoning.
+2. Difference between critical reasoning and formal logic.
+3. Three critical thinking competencies.
+4. What is “standard form”?
+5. Three ways to reflect critically on beliefs.
+6. Difference between informed opinion and opinion.
+7. Definition of rhetoric and its distinction from argumentation.
+8. Example of a good argument.
+
+---
+
+## LESSON 2: Different kinds of writing and definitions
+### Outcomes of this Lesson
+- Identify types of writing.
+- Identify types of definitions.
+- Understand the role of definitions in argumentation.
+
+### 2.1 Introduction
+- Different types of writing affect understanding and presentation of arguments.
+
+### 2.2 Different Kinds of Writing
+- **Critical reasoning** is a philosophical sub-discipline focused on clear arguments.
+- Differentiating types of writing is crucial for effective argument construction.
+- **Modes of Discourse:** Identified by Egon Werlich, helpful for contextualizing writing styles.
+
+## Diagram References
+- Mind-map diagram categorizing types of writing (not included). 
+
+--- 
+
+*Notes have been trimmed down to focus on key principles, theories, and critical ideas while omitting extraneous detail and personal activities.*
+----- END OF CHUNK -----
+# PLS2601/1  
+## LESSON 2: Different kinds of writing and definitions
+
+### 2.2 Different Types of Writing
+
+#### 2.2.1 Descriptive Writing
+- Creates a language-based picture of an object/place/person/situation.
+- Main characteristic: vivid description.
+- Example: Travel narrative about the DRC.
+
+#### 2.2.2 Narrative Writing
+- Tells a story or expresses emotion/experience.
+- Dominated by storytelling rather than description.
+- Example: Richard Wright’s emotional expression in *Native Son*.
+
+#### 2.2.3 Explanatory Writing
+- Also known as informative writing.
+- Seeks to explain or inform; definitions and clarifications fall here.
+- Example: Definition of epistemology as a philosophical study of knowledge.
+
+#### 2.2.4 Instructive Writing
+- Provides clear instructions for completing a process or achieving goals.
+- Example: Directions for writing an academic essay.
+
+#### 2.2.5 Argumentative Writing
+- Presents positions supported by justified evidence.
+- Engages in philosophical discourse through arguments.
+- Example: Discussion on Western empiricism and its impact on colonized knowledge systems.
+
+### 2.3 Different Types of Definitions
+
+- Importance of clear definitions to avoid vagueness in critical reasoning.
+- A definition clarifies rather than serves as a premise.
+
+#### 2.3.1 Stipulative Definition
+- Introduces a new word or usage; highly subjective.
+- Example: Thomas Kuhn’s definition of paradigms differs from everyday usage.
+- Context: Legal rights for animals by advocating a new definition of personhood.
+
+#### 2.3.2 Persuasive Definition
+- Aims to persuade the reader of a viewpoint; often includes emotional appeals.
+- Example: Defining abortion biasedly as "the murdering of innocent little babies".
+
+#### 2.3.3 Lexical Definition
+- Also called logical definition; reflects standard usage or "dictionary definition".
+- Example: A textbook defined as "a book used as a standard work for study."
+
+#### 2.3.4 Enumerative Definition
+- Defines by providing examples; can be vague due to reliance on shared experiences.
+- Example: Defining kwela music by citing specific artists, which may not clarify for everyone.
+----- END OF CHUNK -----
+# PLS2601/1
+
+## LESSON 2: Different kinds of writing and definitions
+- **Types of Writing:**
+  - Argumentative Writing
+  - Narrative Text
+
+- **Definitions:**
+  - **Lexical Definition**: Standard meaning found in the dictionary.
+  - **Persuasive Definition**: Aimed to influence feelings or opinions.
+  - **Enumerative Definition**: Lists examples to clarify meaning.
+  - **Stipulative Definition**: Assigns a specific meaning for a term in a particular context.
+
+- **Key Concepts:**
+  - Understanding different types of definitions enhances critical reasoning.
+  - Importance of identifying structures within texts to engage critically.
+
+## LESSON 3: The Argument
+
+### Outcomes of This Lesson
+- Identify premises and conclusions.
+- Distinguish between statements and premises.
+- Identify missing premises/conclusions.
+- Recognize premise and conclusion indicators.
+
+### 3.1 INTRODUCTION
+- **Definition of Argument**:
+  - A set of propositions where one is a conclusion and others are premises (Bowell & Kemp, 2015).
+  - A group of statements affirming a claim’s truth or acceptability (Van den Berg, 2010).
+
+### 3.2 THE STATEMENT OR PROPOSITION
+- **Definition**:
+  - Proposition: Factual content expressed by a declarative sentence (Bowell & Kemp, 2015).
+  - Statement: An assertion that is either true or false (Van den Berg, 2010).
+
+- **Examples**: 
+  - Propositions include factual statements like "Robert Mugabe is no longer president of Zimbabwe."
+  - Non-propositions include commands, questions.
+
+- **Importance**: Only propositions contribute to argument analysis.
+
+### 3.3 THE CONCLUSION
+- **Definition**: A conclusion is a statement that premises support (Van den Berg, 2010).
+- **Identifying Conclusions**:
+  - Ask the main point of the argument.
+  - A variety of propositions can serve as conclusions.
+  - Multiple conclusions possible in extended arguments (sub-conclusions).
+  - Look for conclusion indicators:
+    - Therefore, Consequently, Thus, etc. (Van den Berg, 2010).
+
+### Summary: 
+- Understanding types of writing and definitions is crucial for evaluating arguments and reasoning in legal contexts.
+- Familiarity with arguments, propositions, and conclusions helps in critical analysis and debate. 
+
+### Diagram Reference: FIGURE 5
+- Reference to geographic representation of distances relevant to argument examples.
+----- END OF CHUNK -----
+# PLS2601/1
+
+## TABLE OF CONTENTS
+
+- Lesson 3: The Argument
+  - 3.4 The Premise
+  - 3.5 The Complex Argument
+  - 3.6 The Implicit Premise and Conclusion
+    - 3.6.1 The Implicit Premise
+    - 3.6.2 The Implicit Conclusion
+  - 3.7 Conclusion
+
+---
+
+## LESSON 3:  The Argument
+
+### 3.4 The Premise
+- **Definition**: A premise is a statement offered to support a conclusion (Van den Berg, 2010, p. 43).
+- **Identification Guidelines** (Bowell & Kemp, 2015, pp. 16-18):
+  - Ask for reasons supporting the conclusion.
+  - Premises need not be universally accepted; controversial statements can serve as premises.
+  - **Premise Indicators**: 
+    - Because
+    - For
+    - If
+    - Moreover
+    - Since
+    - For the reason that
+    - Given that
+    - Whereas
+    - Insofar as
+    - Firstly, secondly, thirdly, etc.
+    - Seeing that
+    - In the light of (Van den Berg, 2010, p. 50).
+  - Add premise indicators where missing to check for sense.
+
+### 3.5 The Complex Argument
+- **Definition**: A complex argument contains a sub-argument, often called a chain argument.
+- **Example Structure**:
+  - **Premise**: All toddlers are between 2 and 5 years old.
+  - **Premise**: Pharelo is between 2 and 5 years old.
+  - **Sub-conclusion**: Pharelo is a toddler.
+  - **Conclusion**: Pharelo loves ice cream (with prior premises supporting it).
+
+### 3.6 The Implicit Premise and Conclusion
+
+#### 3.6.1 The Implicit Premise
+- **Definition**: Missing premises expected to be inferred by the audience (assumptions).
+- **Example**: 
+  - Original: "I am a good parent. My children never watch more than an hour of TV a day."
+  - **Missing Premise**: "No good parent would allow excessive TV." 
+  - **Standard form**:
+    - P1: No good parent would allow excessive TV.
+    - P2: My children watch less than an hour.
+    - C: I am a good parent.
+
+#### 3.6.2 The Implicit Conclusion
+- **Definition**: Missing conclusions that need to be inferred.
+- **Example**: 
+  - Original: "Voluntary euthanasia decreases suffering. People should decide how to end their lives."
+  - **Approximate Conclusion**: "Voluntary euthanasia should be permissible."
+  - **Standard form**:
+    - P1: Voluntary euthanasia decreases suffering.
+    - P2: People should decide on their end of life.
+    - C: Voluntary euthanasia should be permissible.
+
+### 3.7 Conclusion
+- An argument consists of premises supporting a conclusion.
+- Important to identify premises, conclusions, and sub-arguments for analysis.
+- Evaluates strength or weakness of arguments.
+----- END OF CHUNK -----
+# PLS2601/1  
+## 4 LESSON 4  
+### 4 Different types of arguments  
+
+#### OUTCOMES OF THIS LESSON  
+- Distinguish between value and empirical arguments  
+- Distinguish between inductive and deductive arguments  
+- Understand the difference between soundness and validity  
+- Identify arguments that are value, empirical, inductive, deductive, sound and/or valid  
+
+### 4.1 INTRODUCTION  
+- Basic building blocks for an argument: premises and conclusions.  
+- Types of arguments: value vs empirical, inductive vs deductive.  
+- Importance of truth in logic.  
+
+### 4.1.1 What is truth?  
+- Objective truth vs subjective truth.  
+- Common-sense understanding of truth: e.g., "fish live in water" vs "abortion is morally acceptable."  
+- Truth-value: the truth or falsity of a claim; can vary by context.  
+
+### 4.2 VALUE ARGUMENTS  
+- Claims about how things ought to be (norms, morals, aesthetics, beliefs).  
+- Not empirically verifiable.  
+- Fields of study: psychology, sociology, political science.  
+- Example comparison:  
+  - *Empirical*: "Sugar sweetens coffee."  
+  - *Value*: "Sweetened coffee tastes better than unsweetened coffee."  
+
+### 4.3 EMPIRICAL ARGUMENTS  
+- Arguments verifiable by senses or scientific knowledge (facts).  
+- Premises verifiable by direct observation.  
+- Examples:  
+  - P1: "I saw a stray cat in the parking lot."  
+  - C: "Therefore, there are stray cats on campus."  
+  - P1: "Raw fish can carry Salmonella."  
+  - P2: "Salmonella is dangerous."  
+  - C: "Eating raw fish may cause illness."  
+
+### 4.4 DEDUCTIVE ARGUMENTS  
+- Conclusion guaranteed if premises are true; contains conclusion within premises.  
+- Example:  
+  - P1: "All humans need oxygen to survive."  
+  - P2: "Tshepo is a human."  
+  - C: "Tshepo needs oxygen to survive."  
+- Properties of a successful deductive argument:  
+  1. Conclusion follows from premises.  
+  2. Premises are true.  
+- Common forms: syllogisms (categorical, hypothetical).  
+
+#### 4.4.1 Hypothetical syllogism  
+- Includes a conditional statement ("if-then").  
+- Antecedent (IF) and consequent (THEN) parts.  
+- Examples:  
+  - "If it is raining, then it is cloudy."  
+  - "If Sam does not practice, she will fail."  
+
+### Modus Ponens  
+- Argument pattern:  
+  - P1: "If P (is true), then Q (is true)."  
+  - P2: "P (is true)."  
+  - C: "Therefore, Q (is true)."  
+- Example:  
+  - P1: "If it is raining, then my car will be wet."  
+  - P2: "It is raining."  
+  - C: "My car is wet."
+----- END OF CHUNK -----
+**PLS2601/1**
+---
+**LESSON 4: Different types of arguments**
+
+---
+
+### 4.1 Arguments in Standard Form
+- **Modus Ponens**
+  - Rewrite arguments:
+    - (a)  
+      - P1: If a team wins the league, then they are the best soccer team in the country.  
+      - P2: Kaizer Chiefs won the league.  
+      - C: Kaizer Chiefs is the best soccer team in South Africa.  
+      - *Type*: Value argument, empirical premise.  
+   
+    - (b)  
+      - P1: If a person finds ice cream too sweet, then they have more taste buds than the average person.  
+      - P2: I find ice cream too sweet.  
+      - C: I have more taste buds than some others do.  
+      - *Type*: Empirical argument.  
+
+    - (c)  
+      - P1: If a fetus is a human being, then abortion is akin to murder, and therefore immoral.  
+      - P2: A fetus is a human being.  
+      - C: Abortion is akin to murder and therefore immoral.  
+      - *Type*: Value argument.  
+
+### 4.2 Modus Tollens
+- **Hypothetical syllogism**: 
+  - P1: If P, then Q  
+  - P2: Not Q  
+  - C: Not P  
+- Example structure:  
+  - P1: If it is raining, then my car will be wet.  
+  - P2: My car is not wet.  
+  - C: It is not raining.  
+
+### 4.3 Categorical Syllogism
+- Defined as a three-line argument with statements starting with all, some, or no.  
+- Standard form:  
+  - P1: All M are P.  
+  - P2: All S are M.  
+  - C: All S are P.  
+- **Terms**:  
+  - Middle term (M): Occurs in both premises.  
+  - Major term (P): First premise, predicate of conclusion.  
+  - Minor term (S): Subject of conclusion, in second premise.  
+
+- **Examples**:
+  1. P1: All birds have feathers.  
+     P2: Some dinosaurs were birds.  
+     C: Some dinosaurs have feathers.  
+     - Terms: Minor - Dinosaurs; Major - Have feathers; Middle - Birds.  
+
+  2. P1: All dinosaurs were cold-blooded.  
+     P2: No mammals are dinosaurs.  
+     C: Therefore, no mammals are cold-blooded.  
+     - Terms: Minor - Mammals; Major - Cold-blooded; Middle - Dinosaurs.  
+
+  3. P1: All dinosaurs are reptiles.  
+     P2: All crocodiles are dinosaurs.  
+     C: Therefore, all crocodiles are reptiles.  
+     - Terms: Minor - Crocodiles; Major - Reptiles; Middle - Dinosaurs.  
+
+### 4.5 Inductive Arguments
+- Conclusion follows with strong probability, not absolute certainty.  
+- Example: Hearing thunder implies it may rain later.  
+- Sometimes, conclusions may amplify beyond the premises.  
+- Weakness in arguments leads to varying support for conclusions.
+
+### 4.6 Deductive Validity
+- **Definition**: A valid deductive argument has premises that cannot all be true while the conclusion is false.  
+- *Important Note*: Validity is technical; it does not equate to “true” in everyday language.  
+
+--- 
+
+**References**:  
+- Bassham, et al. (2008)  
+- Internet Encyclopedia of Philosophy (2019)  
+- Douven (2017)  
+----- END OF CHUNK -----
+# PLS2601/1 Study Notes
+
+## 4.0 Lesson 4: Different types of arguments
+
+### 4.1 Importance of Validity
+- Validity is crucial for rigorous reasoning aimed at truth discovery.
+- A valid argument maintains the truth of its premises in its conclusion.
+- Valid argument can be **unsound** if premises are false (e.g., **P1**: If a star is fairy dust → **C**: Moon made of gorgonzola.)
+
+### 4.2 Types of Deductive Arguments
+- Focus on two deductive argument types:
+  - **Hypothetical Syllogisms** (Modus Ponens, Modus Tollens)
+  - **Categorical Syllogisms**
+
+#### Valid Deductive Patterns
+- **Hypothetical Syllogisms**
+  - **Modus Ponens**:  
+    - **P1**: If P then Q  
+    - **P2**: P  
+    - **C**: Q  
+  - **Modus Tollens**:  
+    - **P1**: If P then Q  
+    - **P2**: Not Q  
+    - **C**: Not P  
+
+- **Categorical Syllogisms**
+  - **Type 1**:  
+    - **P1**: All M are P  
+    - **P2**: All S are M  
+    - **C**: All S are P  
+  - **Type 2**:  
+    - **P1**: All M are P  
+    - **P2**: Some S are M   
+    - **C**: Some S are P  
+  - **Type 3**:  
+    - **P1**: All M are P  
+    - **P2**: No S are M  
+    - **C**: No S are P  
+
+### 4.3 Soundness
+- Distinction between validity and soundness:  
+  - **Validity**: Structure of argument.  
+  - **Soundness**: Truth of premises (e.g., **P1**: If star → moon made of cheese → unsound).  
+
+#### Validity vs. Soundness Summary
+- **Valid and Sound**: Valid structure + True premises  
+- **Valid and Unsound**: Valid structure + False premises  
+- **Invalid and Sound**: Invalid structure + True premises  
+- **Invalid and Unsound**: Invalid structure + False premises  
+
+### 4.4 Conclusion
+- Understanding argument types crucial for identification in analysis and assessments.
+- Validity and soundness are foundational concepts in argument evaluation.
+
+---
+
+## 5.0 Lesson 5: Fallacies
+
+### 5.1 Introduction to Fallacies
+- **Fallacy**: Deceptive argument with fundamental reasoning flaws (Van den Berg, 2010).
+- Distinction: Fallacies may contain true/false premises; unsound arguments are not necessarily fallacious.
+- Fallacies can mislead but include premises and conclusions.
+
+### 5.2 Types of Fallacies
+- Focus on two major types: **Informal** (emotional appeals, irrelevant info) and **Formal**.
+- Informal fallacies vary in nature; hard to define concretely but broadly distract from logical reasoning.
+
+### 5.3 Key Concepts
+- A fallacy persuades incorrectly; must identify these errors to strengthen critical reasoning skills. 
+
+**Note**: Refer to diagrams and further resources for enhancing understanding of argument structures and fallacies.
+----- END OF CHUNK -----
+# PLS2601/1  
+
+## LESSON 5: Fallacies  
+---
+### 5.1 Overview  
+- **Fallacies**: Misuse of language and evidence in arguments.  
+- **Types**:  
+  - **Informal fallacies**: Errors in reasoning (substantive).  
+  - **Formal fallacies**: Logical errors affecting validity.    
+
+### 5.2 Informal Fallacies  
+- Failures of reasoning rather than logic.   
+
+#### 5.3.1 Informal Fallacy – Slippery Slope  
+- **Definition**: Exaggerates consequences from an initial action.  
+- **Structure**: Chain of conditionals (e.g., "if… then…").  
+- **Example**: Not studying leads to homelessness.  
+- **Identification**:  
+  - Are events connected?  
+  - Is the conclusion exaggerated?  
+
+#### 5.3.2 Informal Fallacy – Straw Man  
+- **Definition**: Misrepresenting an opponent's argument to attack a weaker version.  
+- **Example**: Child seeks a gap year; parent claims child wants to leech money.  
+- **Identification**:  
+  - Is the argument against a misrepresented position?  
+
+#### 5.3.3 Informal Fallacy – False Dilemma  
+- **Definition**: Presents limited choices when more exist (excluded middle).  
+- **Example**: "Support the ruling party or agree with corruption."  
+- **Identification**:  
+  - Are complex alternatives ignored?  
+
+#### 5.3.4 Informal Fallacy – Begging the Question (Petitio Principii)  
+- **Definition**: Circular reasoning; conclusion assumed in premises.  
+- **Example**: "The Bible is true because it says so."  
+- **Identification**:  
+  - Does the conclusion rephrase premises without progress?  
+
+#### 5.3.5 Informal Fallacy – Ad Hominem Argument  
+- **Definition**: Attacks the person rather than the argument.  
+- **Example**: Attacking Dumisani's character instead of his argument against fracking.  
+- **Identification**:  
+  - Is an argument undermined by personal attacks?  
+
+#### 5.3.6 Informal Fallacy – False Appeal to Authority  
+- **Definition**: Citing an authority irrelevant to the subject matter.  
+- **Example**: Neurologist on land reform vs. cardiologist on diet.  
+- **Identification**:  
+  - Is the cited authority an expert in the relevant field?  
+
+---  
+**Additional Notes:**  
+- Explore resources for further understanding of each fallacy.  
+- Diagrams of fallacies may provide visual aid for comprehension.  
+----- END OF CHUNK -----
+## PLS2601/1 Study Notes
+
+### LESSON 5: Fallacies
+
+#### 5.3.7 Informal fallacy – Hasty Generalization
+- General conclusion drawn from a biased or small sample.
+- Example: Concluding that "Fords are bad cars" from two negative experiences.
+- Hasty generalization occurs when conclusions are made without sufficient evidence.
+- **Key References:**
+  - Bassham et al. (2008, p. 155)
+  - Dowden (2019)
+
+#### 5.3.8 Informal fallacy – Red Herring
+- Defined as a digression that distracts from the relevant issue.
+- Example: Politician sidetracks criticism by discussing personal farming experience.
+- Red herring attempts to claim that an irrelevant issue resolves the original argument.
+- **Key References:**
+  - Bassham et al. (2008, p. 135)
+  - Dowden (2019)
+
+#### 5.3.9 Informal fallacy – Complex Question
+- Known as "loaded question"; contains unfair assumptions.
+- Example: "Are you still cheating on your spouse?"
+- Forces a responder into admission regardless of the answer.
+- **Key References:**
+  - Bassham et al. (2008, p. 152)
+
+#### 5.3.10 Informal fallacies – Equivocation
+- Occurs when a word or expression shifts meaning across premises.
+- Example: Difference between "miracle" in scientific and supernatural contexts.
+- Ambiguity exploits the dual meanings of words.
+- **Key References:**
+  - Cederblom & Paulsen (2006, p. 151)
+
+#### 5.3.11 Informal fallacy – False Appeal to Force
+- Argument validated through the threat of force (argumentum ad baculum).
+- Example: Advocate implies he will move if town conditions don’t improve.
+- Non-physical threats can manipulate without logical reasoning.
+- **Key References:**
+  - Copi, Cohen & MacMahon (2014, p. 121)
+
+#### 5.3.12 Informal fallacy – Bandwagon Argument
+- Consensus theory posits that majority opinion is always correct.
+- Dangers of herd mentality in democratic societies.
+- Critical thinkers resist following majority blindly.
+- **Key References:**
+  - Nietzsche (2017) on herd mentality.
+----- END OF CHUNK -----
+# PLS2601/1  
+### Lesson 5: Fallacies  
+
+#### 5.1 Bandwagon Argument  
+- Bandwagon argument (argumentum ad populum): Appeal to popular belief rather than the strength of the argument.  
+- Example: Donald Trump's 2015 rhetoric against Muslims illustrates a bandwagon appeal based on fear and emotion.  
+
+#### 5.2 Informal Fallacy: False Analogy  
+- Analogy usage: Represents comparisons for understanding; a weak analogy is a false or faulty analogy.  
+- Example: Misinterpretation by white anthropologists of Australian parental terms highlights the fallacy of false analogy.  
+
+#### 5.3 Summary of Informal Fallacies  
+- **Slippery slope**: Exaggerated consequences from trivial premises.  
+- **Straw man**: Misrepresenting an opponent's position.  
+- **False dilemma**: Presenting only two alternatives when more exist.  
+- **Begging the question**: Conclusion assumes truth of premises.  
+- **Ad hominem**: Attacking the person instead of the argument.  
+- **False appeal to authority**: Citing non-expert authorities.  
+- **Hasty generalisation**: Conclusion drawn from insufficient evidence.  
+- **Red herring**: Distracting with irrelevant issues.  
+- **Complex question**: Combining multiple questions into one.  
+- **Equivocation**: Using ambiguous terms in different senses in an argument.  
+- **Appeal to force**: Using threats to support an argument.  
+- **Bandwagon argument**: Persuasion based on populist sentiment.  
+- **False analogy**: Weak comparison in an argument.  
+
+#### 5.4 Structural or Formal Fallacies  
+- Structural fallacies arise from argument form rather than content.  
+- Key formal fallacies: **Affirming the consequent** and **denying the antecedent**.  
+
+##### 5.4.1 Formal Fallacy: Affirming the Consequent  
+- Occurs when the consequent of a conditional statement is affirmed, mistakenly concluding the antecedent.  
+- Example structure:  
+  - P1: If P, then Q.  
+  - P2: Q (consequent affirmed).  
+  - C: Therefore, P (incorrect conclusion).  
+- Implication: For instance, speaking isiZulu does not necessarily mean one is South African.  
+
+#### Additional Resources  
+- Video on *affirming the consequent*: [Khan Academy](https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent).  
+
+#### 5.4.2 Activities  
+- Identify fallacies in provided statements (summarized as noted in the initial text).  
+- Determine which arguments are modus ponens or fallacies of affirming the consequent.
+
+---
+
+This structure aligns with the original text while synthesizing content and highlighting key concepts relevant for legal studies.
+----- END OF CHUNK -----
+# PLS2601/1
+
+## 69
+### LESSON 5: Fallacies
+- **Definition of Fallacy**: An argument that is flawed in its reasoning.
+- **Types of Fallacies**:
+  - **Formal Fallacies**: Errors in logical structure.
+  - **Informal Fallacies**: Errors in reasoning that do not involve a flaw in logical structure.
+
+#### Formal Fallacies
+- **Denying the Antecedent**:
+  - Structure:
+    - P1: If P, then Q
+    - P2: Not P
+    - C: Not Q
+  - Example: If it is raining (P), then my car will be wet (Q). It is not raining (Not P), therefore, my car is not wet (Not Q).
+
+- **Summary of Formal Fallacies**:
+  - **Modus Ponens**: 
+    - Valid Argument
+      - P1: If P, then Q
+      - P2: P
+      - C: Q
+  - **Affirming the Consequent**: 
+    - Invalid Argument
+      - P1: If P, then Q
+      - P2: Q
+      - C: P
+  - **Modus Tollens**: 
+    - Valid Argument
+      - P1: If P, then Q
+      - P2: Not Q
+      - C: Not P
+  - **Denying the Antecedent**: 
+    - Invalid Argument
+      - P1: If P, then Q
+      - P2: Not P
+      - C: Not Q
+
+### 70
+## 5.5 CONCLUSION
+- Reviewed fallacies, emphasizing the need to identify and practice spotting both formal and informal fallacies.
+
+---
+
+## 72
+### LESSON 6: Analysing, Mapping/Diagramming, and Evaluating Arguments
+#### 6.1 INTRODUCTION
+- **Analysis vs. Evaluation**: Analysis breaks down arguments, while evaluation assesses their quality.
+
+#### 6.2 HOW TO ANALYSE AND MAP/DIAGRAM AN ARGUMENT
+
+1. **Identify Premises and Conclusions**:
+   - Use indicators of premises and conclusions.
+2. **Number the Statements**:
+   - Sequence the statements to track argument flow.
+3. **Identify Premises and Conclusions**:
+   - Determine which statements support the conclusion.
+4. **Diagram/Map the Argument**:
+   - Organize premises above the conclusion.
+5. **Omit Logically Irrelevant Statements**:
+   - Exclude statements that do not contribute to the argument.
+6. **Add Arrows for Relationships**:
+   - Indicate how premises support the conclusion.
+
+#### Example Analysis
+- **Argument**: “Unisa is the best university in South Africa, because it has the highest student numbers.”
+  - Step 1: Identify indicators (“because”, “moreover”).
+  - Premises: High student numbers, variety of degrees, quality academics.
+  - Conclusion: Unisa is the best.
+
+---
+
+#### Diagramming Example
+- **Complex Argument**: “Pharelo is a toddler. All toddlers are between the ages of 2 and 5. It follows that Pharelo loves ice cream.”
+  - Identify main conclusion and sub-conclusions.
+  - Arrange in a structured diagram indicating relationships.
+
+### Activity References
+- Draw argument diagrams/maps for various provided statements to reinforce skills in visualizing and analyzing arguments.
+----- END OF CHUNK -----
+**PLS2601/1**
+
+**LESSON 6: Analysing, mapping/diagramming and evaluating arguments**
+
+---
+
+### 6.3 HOW TO EVALUATE AN ARGUMENT
+
+- Good vs. Bad Arguments (Bassham, et al., 2008, p. 203):
+  - Good argument ≠ agreement with personal views.
+  - Good argument ≠ merely persuasive.
+  - Good argument ≠ well-written/spoken.
+
+- Characteristics of a Good Argument:
+  - **Absence of Fallacies**: Fallacies indicate errors in reasoning; presence means argument is bad.
+  - **Validity**:
+    - **Deductively Valid**: Impossible for premises to be true and conclusion false (Bassham, et al., 2008, p. 76).
+    - **Inductively Strong**: Conclusion likely true if premises are true.
+  - **Tendency to Truth (Soundness)**:
+    - Assess truth of premises (Van den Berg, 2010, p. 91).
+    - Empirical claims easier to verify than value claims.
+
+- Evaluating Arguments (Bassham et al., 2008, p. 206):
+  - Are the premises true?
+  - Is reasoning correct (valid/strong)?
+  - Are any fallacies committed?
+  - Are premises relevant to conclusion?
+  - Is all evidence accounted for?
+
+---
+
+### 6.4 CONCLUSION
+
+- Two critical reasoning processes:
+  - Analyzing arguments.
+  - Evaluating arguments.
+
+--- 
+
+### BIBLIOGRAPHY (Selected)
+- Bassham, G., et al., 2008. *Critical Thinking: A Student’s Introduction*. 3rd ed. New York: McGraw-Hill. 
+- Van den Berg, 2010.  
+- Relevant resources on *argument diagramming* and evaluation techniques.
+
+--- 
+
+(Note: Feedback and activities omitted as per instruction.)
+----- END OF CHUNK -----
+# PLS2601/1 Study Notes
+
+## Bibliography (Page 81)
+- **MacKinnon, E.** (1985). *Basic Reasoning*. Englewood Cliffs: Prentice-Hall.
+- **Martin, M., Baker, C. & Hatch-Barnwell, C.** (2016). *Crossing the Congo: Over Land and Water in a Hard Place*. London: C. Hurst & Co. Ltd.
+- **McNab, C.** (2011). *Hitler’s Masterplan: The Essential Facts and Figures for Hitler’s Third Reich*. London: Amber Books Ltd.
+- **Mda, Z.** (2015). *Little Suns*. Cape Town: Umuzi.
+- **Neto, A.** (1998). *Farewell at the Moment of Parting*. In: G. Moore & U. Beier (Eds.), *The Penguin Book of Modern African Poetry*. London: Penguin Books Ltd.
+- **Nietzsche, F.** (2017). *The Will to Power*. London: Penguin Classics.
+- **Paley, W.** (1802). *Natural Theology, or, Evidences of the Existence and Attributes of the Deity*. Philadelphia: John Morgan.
+- **Salmon, M.** (2013). *Introduction to Logic and Critical Thinking* (6th ed.). Boston: Wadsworth.
+- **Van Den Berg, M.** (2009). *Critical Reasoning PLS2601*. Pretoria: University of South Africa.
+- **Wright, R.** [1940] (2000). *Native Son*. London: Random House.
+
+## Glossary (Page 82-86)
+
+### Key Terms
+- **Ad hominem argument**: Attack on character rather than the claim.
+- **Affirming the consequent fallacy**: Infers the antecedent based on the consequent.
+- **Analogy**: Reasoning by comparison; success hinges on relevant similarities.
+- **Argument**: Group of statements with one conclusion supported by premises.
+- **Begging the question fallacy**: Assumes the conclusion in the premises.
+- **Critical reasoning**: Active, skillful evaluation of ideas and beliefs.
+- **Deductive argument**: Claims premises provide sufficient support for the conclusion.
+- **Denying the antecedent fallacy**: Argues if antecedent is false, the consequent is also false.
+- **Fallacy**: Deceptive argument that relies on irrelevant or inappropriate reasoning.
+- **False dilemma**: Presents an either-or choice when more exist.
+- **Hasty generalisation**: Conclusion drawn from insufficient evidence.
+- **Inductive argument**: Conclusion subject to probability based on premises.
+- **No critical thinking**: Synonym for critical reasoning.
+- **Sound**: Valid argument with true premises.
+- **Straw man argument**: Misrepresentation of an opponent's position.
+
+### Argument Analysis Concepts
+- **Counterargument**: A response to an opposing argument.
+- **Evaluating arguments**: Assessing plausibility and weighing evidence.
+- **Premise**: Basis that supports a conclusion.
+- **Valid argument**: Structure guarantees premises support the conclusion.
+- **Validity**: Relationship between premises and conclusion.
+
+### Types of Reasoning 
+- **Empirical argument**: Based on measurable facts.
+- **Cause-and-effect reasoning**: Infers conclusions from specific conditions.
+- **Statistical extrapolation**: Generalizes from a sample to a population.
+
+### Writing Styles
+- **Argumentative writing**: Aims to convince readers of a particular viewpoint.
+- **Descriptive writing**: Provides information about a subject or event.
+- **Narrative writing**: Tells a story or recounts events. 
+
+### Fallacies and Pitfalls
+- **Emotion fallacies**: Confuse emotional appeal with reason.
+- **Distraction fallacies**: Shift attention from the argument's weak points.
+- **False appeal to authority**: Cites an authority outside their expertise. 
+- **Slide slope argument**: Connects seemingly minor premises to exaggerated outcomes. 
+
+### Normative Arguments
+- **Value argument**: Asserts moral preferences.
+- **Principle of charitable interpretation**: Interprets arguments for strongest support.
+
+## Diagrams
+- Refer to activity sections for potential diagram templates to visualize argument structures (insert reference from original document if available).
+----- END OF CHUNK -----
+# PLS2601/1
+
+## Glossary
+
+- **Conclusion indicator**: Snellerwoord of -frase wat ’n konklusie voorafgaan.
+- **Conclusion**: Die hoofstelling in ’n argument wat veronderstel is om deur die premisse bewys te word.
+- **Consequent**: Wat volg indien die voorafgaande toestand as waar aanvaar word.
+- **Counterargument**: 'n Argument wat deur die argumenteerder geformuleer word in antwoord op 'n ander argument.
+- **Counterexample**: 'n Spesifieke voorbeeld wat gebruik word om die bewering in 'n argument te weerlê.
+- **Critical reasoning**: Vermoë om idees en oortuigings op aktiewe en kritiese manier te analiseer en te evalueer.
+- **Critical self-reflection**: Aktiewe bevraagtekening van eie denke en oortuigings; verwant aan selfkennis.
+- **Critical thinking**: Sinoniem vir "kritiese redenering."
+- **Deductive argument**: Argument waar die premise genoegsame steun gee aan die gevolgtrekking.
+- **Denying the antecedent fallacy**: Kom voor wanneer iemand argumenteer dat omdat die antecedent nie gebeur nie, die konsekwens ook nie kan gebeur nie.
+- **Descriptive writing**: Skryfwerk waarin iets beskryf of inligting oor gebeure gegee word.
+- **Distraction fallacies**: Kom voor wanneer die aandag afgelei word van die swak punt van 'n argument.
+- **Emotion fallacies**: Mistake wat emosie met rede verwar.
+- **Empirical argument**: Argument gebaseerd op empiries bepaalbare feite.
+- **Equivocation**: Dubbelsinnigheid in 'n argument waar 'n woord in verskillende betekenisse gebruik word.
+- **Evaluating arguments**: Kritiese bestudering van die geloofwaardigheid van bewerings in 'n argument.
+- **Fallacious reasoning**: Ongeldige redenering wat relevante getuienis onderdruk of twyfelagtige premisse bevat.
+- **Fallacy**: Misleidende argument wat opties aanbied wat irrelevant of ontoepaslik is.
+- **False appeal to authority**: Gebrek aan gesag by iemand wat nie 'n kenner is in die spesifieke veld nie.
+- **False dilemma**: Aanbieding van 'n óf-óf-keuse waar daar meer keuses is.
+- **Faulty analogy**: Vergelyking tussen verskillende gevalle of kwessies sonder relevante ooreenkomste.
+- **Hasty generalisation**: Gevolgtrekking gebaseer op onvoldoende getuienis.
+- **Inductive argument**: Argument waar gevolgtrekking onderworpe is aan waarskynlikheid.
+- **Invalid deductive argument**: Argument waar die struktuur ongeldig is.
+- **Logical definition**: Definisie van 'n term deur eienskappe wat daarop van toepassing is te selekteer.
+- **Narrative writing**: Skryfwerk wat 'n storie of reeks gebeure vertel.
+- **Persuasive definition**: Definisie wat 'n houding of denke beïnvloed deur 'n nuwe betekenis voor te stel.
+- **Preconceived idea**: Aannames wat in 'n samelewing heers en nie krities oorweeg word nie.
+- **Premise indicator**: Snellerwoord of -frase wat 'n premis voorafgaan.
+- **Premise**: 'n Stelling wat as rede vir of ondersteuning van 'n konklusie dien.
+- **Principle of charitable interpretation**: Interpretasie beginsel dat die sterkste steun aan die konklusie gegee moet word.
+- **Slippery slope argument**: Argument wat lei van 'n skynbaar onbelangrike premis na oordrewe gevolge.
+- **Sound**: 'n Argument is begrond indien dit geldig is en alle premisse waar is.
+- **Soundness**: Waarheid of sterkte van die premisse.
+- **Statement**: 'n Bewering wat óf waar óf vals is.
+- **Statistical extrapolation**: Induktiewe redenering gebaseer op 'n statistiese studie.
+- **Stereotypes**: Veralgemenings oor kenmerke van 'n groep gebaseer op verkeerde sienings.
+- **Stipulative definition**: Definisie wat stipuleer hoe 'n term gebruik moet word.
+- **Straw man argument**: Wanvoorstelling van 'n opponent se posisie.
+- **Structural fallacies**: Redenasie gebreke deur vorm of struktuur.
+- **Thesis**: Konklusie van 'n uitgebreide argument.
+- **Valid deductive argument**: Argument met 'n geldige struktuur en voldoende ondersteuning.
+- **Valid**: Kriterium dat premisse die konklusie ondersteun.
+- **Validity**: Verhouding tussen premisse en konklusie.
+- **Value argument**: Argument wat 'n morele oordeel of voorkeur uitspreek.
+----- END OF CHUNK -----
+# PLS2601/1 Study Notes
+
+## Glossary
+
+### A
+- **Ad hominem argument**: Kgang kgahlanong le motho; attacks character instead of the argument.
+- **Affirming the consequent fallacy**: Kgang ya sephetho se se fošagetšego; mistakenly asserts that if the consequence is true, the antecedent is also true.
+- **Analogy**: Tshwano; reasoning based on the similarity of things.
+- **Analysing arguments**: Go sekaseka dikgang; examining arguments for validity and soundness.
+
+### B
+- **Begging the question fallacy**: Kgopelo ya potšišo; assumes the truth of the conclusion within the premises.
+
+### C
+- **Cause-and-effect reasoning**: Kgopolo ya lebaka le ditlamorago; reasoning that identifies relationships between events.
+- **Comparative writing**: Go ngwala ka go bapiša; writing that contrasts two or more subjects.
+- **Complex question fallacy**: Kgopolo ye e raranego; framing multiple questions as one.
+
+### D
+- **Conclusion**: Sephetho; the statement that follows logically from the premises.
+- **Counterargument**: Kgang ya go ganetša; response aimed at disproving another argument.
+- **Critical reasoning**: Phahlelo ya go tsenelela; deep thinking to analyze arguments critically.
+  
+### E
+- **Empirical argument**: Kgang go ya ka maitemogelo; based on observable evidence.
+- **Evaluating arguments**: Go lekola dikgang; assessing the strengths and weaknesses of arguments.
+  
+### F
+- **Fallacy**: Mogopolo wo o fošagetšego; a flawed argument that misleads.
+
+### G
+- **Hasty generalisation**: Sephethokakaretšo sa ka pela; making broad claims based on insufficient evidence.
+
+### I
+- **Inductive argument**: Ngangišano go ya ka sephetho; reasoning from specific instances to a general conclusion.
+- **Invalid deductive argument**: Kgang ya kgonthišišo ya bonnete bja sephetho yeo e sego ya kgonthe; errors in logical structure.
+
+### L
+- **Logical definition**: Tlhalošo ya go kwagala; defines a term by its logical structure and attributes.
+
+### N
+- **Narrative writing**: Mongwalokanegelo; storytelling approach to writing.
+
+### P
+- **Premise**: Pego yeo e thekgago sephetho; statements supporting the conclusion.
+- **Principle of charitable interpretation**: Molao wa tlhathollo ya maleba; interpreting arguments in their strongest form.
+
+### S
+- **Slippery slope argument**: Kgang ya ditiragalo; arguments suggesting one action will lead to a series of undesirable outcomes.
+- **Sound**: Kwagalago; an argument is sound if it is valid and its premises are true.
+
+### T
+- **Thesis**: Umqondo ogcinayo; the main statement or claim being argued.
+- **Validity**: Kgonthe; the logical connection between premises and conclusion.
+
+### V
+- **Value argument**: Kgang ya mohola; arguments about what is right or wrong based on moral principles. 
+
+(Note: The glossary entries are tailored to highlight key concepts, making it easier for students to review essential terminology in a condensed format.)

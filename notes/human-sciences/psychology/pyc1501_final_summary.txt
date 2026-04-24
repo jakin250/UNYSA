@@ -1,0 +1,1777 @@
+# PYC1501 Study Guide: Introduction to Psychology
+
+## Unit 1: Human Nervous System
+
+### 1.1 Introduction
+- Human nervous system essential for human functioning and behavior.
+- Comparative studies of animal nervous systems enhance understanding of human behavior.
+- Focus on structure of neuron, impulse conduction, and human nervous system organization.
+
+### 1.2 Human Nervous System: Structure and Functions
+- **Divisions**: 
+  - Peripheral Nervous System (PNS)
+  - Central Nervous System (CNS)
+
+### 1.2.1 The Peripheral Nervous System
+- Carries signals for body survival; includes voluntary and involuntary actions.
+- **Divisions**:
+  - **Somatic Nervous System**:
+    - Relays sensory and motor information.
+    - **Efferent Neurons**: Carry signals from CNS to muscles.
+    - **Afferent Neurons**: Carry sensory information to CNS.
+  - **Autonomic Nervous System**:
+    - Controls involuntary functions.
+    - **Sympathetic Division**: Prepares body for stress (fight-or-flight).
+    - **Parasympathetic Division**: Restores body to homeostasis.
+
+### 1.2.2 The Central Nervous System (CNS)
+- Comprises brain, brainstem, and spinal cord; performs information synthesis.
+- Regulates organ function, high-level thoughts, and movements.
+- Neurons: Approximately 100 billion in the brain, essential for communication.
+  
+### 1.3 Brain Structure and Functions
+- **Brain**: Headquarters of the nervous system.
+  - **Limbic System**: Regulates emotions (e.g., hippocampus, amygdala).
+  - Influences fear, aggression, hunger, wake cycle, and memory.
+- **Cerebellum**: Coordinates actions automatically.
+- **Cerebrum and Cerebral Cortex**:
+  - Gray matter (cell bodies) outside, white matter (myelinated axons) inside.
+  - Each hemisphere manages sensory/motor functions contralaterally.
+  - The **Corpus Callosum** connects hemispheres.
+
+### Diagrams
+- Fig. 1.1: Structure of the Peripheral Nervous System.
+- Fig. 1.2: Central Nervous System.
+- Fig. 1.3: General Areas of the Brain.
+- Fig. 1.4: Lobes of the Brain.
+----- END OF CHUNK -----
+# PYC1501/Human Nervous System/OER/2024
+
+## Table of Contents
+
+### 1. The Brain and Its Lobes
+- **Frontal Lobe**: Cognitive functions (language, memory, decision making, problem solving).
+- **Parietal Lobe**: Processes sensory inputs from skin and muscles.
+- **Occipital Lobe**: Contains primary visual cortex; responsible for vision.
+- **Temporal Lobe**: Contains auditory and olfactory regions; processes hearing and smell.
+
+### 2. Internal Brain Structures
+- **Limbic System**: Memory (hippocampus, fornix) and emotions (cingulate gyrus); connected to motivation.
+- **Globus Pallidus**: Involved in motor movements and coordination.
+- **Hypothalamus**: Regulates endocrine hormones with pituitary gland; drives and motivations.
+- **Thalamus**: Traffic cues for sensory and motor processing.
+
+### 3. Brainstem and Spinal Cord Functions
+- **Midbrain**: Superior/inferior colliculi (visual/auditory processing); substantia nigra's role in Parkinson’s disease.
+- **Reticular Formation**: Manages arousal, sleep, temperature regulation.
+- **Hindbrain**: Pons (sensory/motor processing) and medulla oblongata (breathing, digestion, heart function).
+- **Spinal Cord**: Connects brain to body; manages sensory and motor nerve impulses.
+
+### 4. Neurons and Impulse Conduction
+- **Neuron Structure**: Consists of dendrites (info collection), soma (cell body), axon (info transmission), terminal boutons (synapse info release).
+- **Myelin Sheath**: Insulates axons, speeding up signal transmission.
+
+### 5. Action Potential
+- **Definition**: All-or-nothing event; requires reaching the threshold of excitation.
+- **EPSP/IPSP**: 
+  - **EPSP**: Depolarizing input; brings membrane potential closer to threshold.
+  - **IPSP**: Hyperpolarizing input; moves membrane potential further from threshold.
+
+### 6. Refractory Period
+- **Definitions**: 
+  - **Absolute Refractory Period (ARP)**: No new impulse possible; sodium channels inactive.
+  - **Relative Refractory Period (RRP)**: Neuron can respond to strong stimuli post-ARP.
+
+### 7. The Synapse
+- **Synaptic Cleft**: Space for neurotransmitter exchange; crucial for neuron communication.
+- **Neurotransmitters**: Chemical signals crossing synapse; facilitate neural transmission and communication among neurons.
+
+### Figures
+- **Figure 1.4**: Lobes of the Brain (overview).
+- **Figure 1.5**: Interior of the Brain.
+- **Figure 1.6**: Neuron Structure.
+- **Figure 1.7**: Changes in Neuron Membrane Potentials.
+- **Figure 1.8**: The Synaptic Process.
+----- END OF CHUNK -----
+# PYC1501/Human Nervous System/OER/2024
+
+## 1.3 Neural Communication
+
+### 1.3.1 Neural Communication - The Role of Neurotransmitters
+- **Neurotransmitters**: Variable shapes fit into receptor sites, influencing neuronal firing.
+  - *Excitatory effects*: Increase likelihood of firing.
+  - *Inhibitory effects*: Decrease likelihood of firing.
+- Neurons can receive multiple neurotransmitters, leading to combined effects.
+- Action potential: Triggered when excitatory effects exceed inhibitory.
+
+### 1.3.2 Synaptic Process
+- Neurons must remove excess neurotransmitters for subsequent stimulation via:
+  - **Enzymatic breakdown**
+  - **Reuptake**: Absorption back into the transmitting terminal.
+
+### 1.3.3 Neural Communication - Electrical & Chemical Process
+- **Electro-chemical process**: Electrical signals travel through neurons, chemical signals between neurons.
+- Signals transmitted from dendrites to soma as electrical signals.
+- If strong enough, the signal progresses to the axon and terminal buttons.
+- **Resting membrane potential**: More negatively charged ions inside compared to outside.
+- **Action potential**: When threshold reached, positively charged ions enter axon.
+- **Node of Ranvier**: Segmented axon facilitating rapid transmission (up to 1000 times/sec).
+
+### 1.3.4 Neurotransmitters
+- Over **100 neurotransmitters** identified; vital for:
+  - Emotion, cognition, behavior, appetite, memory, muscle action.
+- **Table 1.1**: Key neurotransmitters and functions.
+  - **Acetylcholine (ACh)**: Muscle contractions; low levels linked to Alzheimer's.
+  - **Dopamine**: Motivation and emotion; schizophrenia and Parkinson's disease associations.
+  - **Endorphins**: Natural pain relief; deficiency linked to depression.
+  - **GABA**: Major inhibitory neurotransmitter; linked to anxiety.
+  - **Glutamate**: Major excitatory neurotransmitter; excessive levels may lead to migraines/seizures.
+  - **Serotonin**: Regulators for mood; low levels linked to seasonal affective disorders.
+  - **Adrenaline & Noradrenaline**: Regulation of fight-or-flight responses; excess linked to high blood pressure/depression.
+
+### 1.3.5 Drug Influence on Neurotransmitters
+- **Agonists**: Mimic neurotransmitter effects (e.g., cocaine with dopamine).
+- **Antagonists**: Block neurotransmitter effects (e.g., curare with acetylcholine).
+- Certain drugs inhibit reuptake, increasing neurotransmitter availability at synapses.
+
+## 1.4 Summary
+- Overview of human brain and functions.
+- Distinction between peripheral and central nervous systems.
+- Neural activity and resultant behaviors.
+- The role of neurotransmitters in functioning.
+
+## 1.5 Glossary
+- **Absolute Refractory Period**: Neuron unresponsive to stimulation.
+- **Action Potential**: All-or-nothing impulse down axon.
+- **Agonist**: Mimics neurotransmitter effects.
+- **Antagonist**: Inhibits neurotransmitter effects.
+- **Axon**: Neural fiber transmitting information.
+- **Dendrites**: Main input structures of neurons.
+- **Central Nervous System**: Comprises brain and spinal cord.
+- **Neurotransmitter**: Chemical transmitting signals among neurons.
+- **Synapse**: Communication gap between neurons.
+----- END OF CHUNK -----
+# PYC1501/Human Nervous System/OER/2024
+
+## 1.6 References
+- Ahmad, A. (2020). Nervous system. In R. Biswas-Diener & E. Diener (Eds.), Noba textbook series: Psychology.
+- Biswas-Diener, R. (2020). Brain and nervous system. In Noba textbook series: Psychology.
+- Brodel, P. (1992). The central nervous system: Structure and function. Oxford University Press.
+- Furtak, S. (2020). Neurons. In Noba textbook series: Psychology.
+- Kandel, E. R., & Schwartz, J. H. (1892). Molecular biology of learning: Modulation of transmitter release. *Science*, 218(4571), 433–443.
+- Kandel, E. R., Schwartz, J. H., & Jessell, T. M. (2000). Principles of neural science (4th ed.). McGraw-Hill.
+- Newman, T. (2017). All you need to know about neurons [Online image]. 
+
+---
+
+# PYC1501/Sensation and Perception/OER/2024
+
+## Unit 2: Sensation and Perception
+
+### 2.1 Introduction
+- Continuous interaction with environment; influences and responds.
+- Sensory systems enable exploration, understanding, and survival.
+- Focus on sensation and perception processes that provide meaning.
+
+### 2.2 Defining Sensation and Perception
+- **Sensation**: Awareness from sensory organ stimulation (biochemical, neurological).
+- **Perception**: Organization, interpretation of sensory information; includes bottom-up and top-down processing.
+  - **Bottom-up**: Perception built from sensory input.
+  - **Top-down**: Interpretation influenced by knowledge and experiences.
+- Goals: Detection (sensation) vs. creating useful information (perception).
+- **Absolute Threshold**: Minimum stimulation to detect a stimulus.
+- **Differential Threshold (Just Noticeable Difference - jnd)**: Minimum difference required to detect stimulus changes (Cacioppo & Freberg, 2013).
+- Sensory adaptation: Reduced response to unchanging stimuli.
+
+### 2.3 The Five Sensory Systems
+Refer to Figure 2.1: The sensory systems.
+
+#### 2.3.1 Hearing (Auditory)
+- Sound wave dynamics: Vibration in medium (e.g., air).
+- Sound enters outer ear → auditory canal → eardrum → ossicles (malleus, incus, stapes) → cochlea (hair cells detect sound) → auditory nerve (van Deventer & Mojapelo-Batka, 2013).
+- Tonotopic organization of hair cells; signals processed in auditory cortex (Romani et al., 1982).
+Refer to Figure 2.2: Diagram of the human ear.
+
+#### 2.3.2 Smell (Olfaction)
+- Chemical sense; interact with taste (gustatory).
+- Odour molecules detected by olfactory receptor cells in nasal passage.
+- Neuronal signals to olfactory bulb → limbic system and primary olfactory cortex (Lodovichi & Belluscio, 2012; Spors et al., 2013).
+Refer to Figure 2.3: Smell receptors.
+
+#### 2.3.3 Taste (Gustation)
+- Basic tastes: Sweet, salty, sour, bitter, umami.
+- Taste molecules interact with receptors on tongue; taste buds renew every 10-14 days.
+- Neural impulses from taste transmitted to medulla, thalamus, limbic system, gustatory cortex (Maffei et al., 2012; Roper, 2013).
+Refer to Figure 2.4: Structure of taste buds in the tongue.
+----- END OF CHUNK -----
+# PYC1501/Sensation and perception/OER/2024
+
+## 2.3.4 Touch
+- Somaesthetic system provides information about touch, pressure, heat, and pain.
+- Receptors transduce pressure into neural activity in/on the skin.
+- Somatosensation includes touch, temperature, and pain, converting stimuli into electrical potentials.
+- Tactile stimuli processed by mechanoreceptors; heightened skin sensitivity in areas like lips vs. shoulders.
+- Skin aids proprioception, sensing body position/movement through specialized neurons.
+
+## 2.3.5 Vision (Seeing)
+- Humans rely heavily on vision; light enters through the cornea, pupil, and lens, focusing on the retina.
+- Sensation depends on light intensity (brightness) and wavelength (color).
+- Photoreceptors (rods for low light, cones for color/details) convert light into electrical signals.
+- Damage to the primary visual cortex can lead to agnosia or prosopagnosia.
+- Visual recognition involves two pathways: ventral ('what') and dorsal ('where').
+
+### Colour vision and colour blindness
+- Normal vision relies on three cone types (trichromatic theory): red, green, blue.
+- Opponent-process theory posits color is coded in pairs; negative afterimages occur post-stimulus removal.
+
+### Depth perception
+- Ability to perceive spatial relationships in 3-D.
+- Binocular vision utilizes both eyes for depth; binocular disparity provides depth clues.
+- Monocular cues (e.g., linear perspective) enable depth perception in 2-D images.
+
+## 2.4 The principles of perceptual grouping
+- Perceptual grouping is the tendency to organize stimuli into meaningful patterns.
+- Gestalt psychology, led by theorists like Wertheimer, Köhler, and Koffka, explores how the brain forms a whole perception.
+- Perceptual hypotheses are informed by personal experiences and expectations.
+
+## 2.5 Wave amplitude and wavelengths
+- Visual and auditory stimuli are wave-based, sharing characteristics relevant to perception.
+- Wave amplitude: height of a wave; wavelength: length from peak to peak.
+- Frequency correlates to the number of waves passing a point, expressed in hertz (Hz).
+
+### 2.5.1 Light waves
+- The electromagnetic spectrum includes all radiation, with the visible range (380-740 nm) critical for human color perception.
+- Different species may perceive additional wavelengths (e.g., bees with ultraviolet light).
+
+### 2.5.2 Sound waves
+- Sound waves result from vibrations creating pressure in a medium, like air.
+- Frequency relates to pitch; human audible range is 20-20,000 Hz, with varying sensitivity across frequencies.
+- Loudness correlates to amplitude, measured in decibels (dB); potential hearing damage from 80 dB to 130 dB.
+----- END OF CHUNK -----
+# PYC1501/Sensation and Perception/OER/2024
+
+## 2.6 Summary 
+- Differentiate between **sensation** (physical processing) and **perception** (interpretation).
+- Overview of sensory systems and their functions.
+- Introduction to **Gestalt principles** of perception.
+- Brief discussion on **waves and wavelengths**.
+
+## 2.7 Glossary
+- **Absolute threshold**: Minimum stimulation for detection.
+- **Afterimage**: Residual visual sensation post-stimulus.
+- **Agnosia**: Loss of ability to perceive visual stimuli.
+- **Auditory**: Processing stimuli related to sound.
+- **Auditory canal**: Structure from outer to middle ear.
+- **Hair cells**: Cochlear receptors converting sound to electrical signals.
+- **Binocular disparity**: Variation in left and right eye images.
+- **Binocular vision**: 3D perception through retinal differences.
+- **Bottom-up processing**: Perception built from sensory input.
+- **Chemical senses**: Process smell and taste stimuli.
+- **Cochlea**: Inner ear structure containing auditory receptors.
+- **Cones**: Photoreceptors for color and detail in bright light.
+- **Decibel (dB)**: Logarithmic measure of sound intensity.
+- **Depth perception**: Spatial relationship perception in 3D space.
+- **Differential threshold**: Minimal detectable change in stimulation (just noticeable difference - jnd).
+- **Dorsal pathway**: "Where" visual processing pathway.
+- **Frequency**: Number of waves passing a point per period.
+- **Gustation**: Detection of taste via oral chemoreceptors.
+- **Light intensity**: Energy of light affecting brightness.
+- **Light wavelength**: Distance between wave crests; influences perceived color.
+- **Mechanoreceptors**: Skin receptors converting energy to brain-understandable form.
+- **Olfaction**: Processing smell stimuli.
+- **Olfactory receptor cells**: Located in nasal membrane with receptor proteins.
+- **Opponent-process theory**: Color vision theory influenced by color pair responsiveness.
+- **Ossicles**: Small bones in the middle ear transmitting sound vibrations.
+- **Perception**: Organization and interpretation of sensory information.
+- **Perceptual grouping**: Grouping stimuli for meaningful interpretation.
+- **Photoreceptors**: Retina cells converting light to electrical signals.
+- **Pinna**: Outermost ear structure.
+- **Primary auditory cortex**: Cortex area for auditory processing.
+- **Primary somatosensory cortex**: Cortex area for somatosensory stimuli.
+- **Primary visual cortex**: Cortex area for visual processing.
+- **Prosopagnosia**: Inability to recognize faces.
+- **Proprioception**: Sensing body part positioning and movement.
+- **Retina**: Layer at back of the eye with photoreceptors.
+- **Rods**: Photoreceptors for vision in dim light.
+- **Sensation**: Physical processing by sense organs.
+- **Sensory adaptation**: Decreased sensitivity after constant exposure.
+- **Signal detection**: Process of detecting stimuli at specific intensities.
+- **Somatosensation**: Sensing touch, pain, temperature.
+- **Sound waves**: Pressure caused by sound vibrations in a medium.
+- **Tactile stimuli**: Textural stimuli.
+- **Timbre**: Sound purity influenced by frequency, amplitude, timing.
+- **Top-down processing**: Perceptual process starting from general to specific.
+- **Trichromatic theory**: Color vision influenced by different cone responses.
+- **Tympanic membrane**: Eardrum vibrating in response to sound.
+- **Ventral pathway**: "What" visual processing pathway.
+- **Vestibular system**: Inner ear components for balance.
+- **Wave amplitude**: Height of a wave (peak to trough).
+- **Wavelength**: Length from one wave peak to another. 
+
+## 2.8 References
+- Bernstein et al. (2012). *Psychology* (9th ed.). Wadsworth.
+- Cacioppo & Freberg (2013). *Discovering psychology: The science of mind*. Wadsworth.
+- Chen et al. (2012). Reduced performance of prey targeting in pit vipers. *PloS ONE, 7*(5), e34989.
+- Goodale & Milner (1992). Separate visual pathways for perception and action. *Trends in Neurosciences*.
+- Goolkasian & Woodbury (2010). Priming effects with ambiguous figures. *Attention, Perception & Psychophysics*.
+- Kinnamon & Vandenbeuch (2009). Receptors and transduction of umami taste stimuli. *Annals of the New York Academy of Sciences*.
+- Lodovichi & Belluscio (2012). Odorant receptors in olfactory bulb circuitry. *Physiology*.
+- Maffei et al. (2012). Neural processing of gustatory information. *Current Opinion in Neurobiology*.
+- Privitera (2021). Sensation and perception. In *Noba textbook series: Psychology*.
+- Rock & Palmer (1990). The legacy of Gestalt psychology. *Scientific American*.
+- Romani et al. (1982). Tonotopic organization of the human auditory cortex. *Science*.
+- Roper (2013). Taste buds as peripheral chemosensory receptors. *Seminars in Cell & Developmental Biology*.
+- Schiffman (1990). *Sensation and perception: An integrated approach* (3rd ed.). Wiley & Sons.
+- Spors et al. (2013). Illuminating vertebrate olfactory processing. *Journal of Neuroscience*.
+----- END OF CHUNK -----
+# PYC1501/Cognition/OER/2024
+
+## Unit 3: Cognition: Thinking, Reasoning, and Problem-Solving
+
+### 3.1 Introduction
+- Thinking guides behavior; aids in problem-solving.
+- Involves manipulating information: forming concepts, solving problems, reasoning, decision-making.
+- Understanding thinking is key to learning, remembering, and communicating.
+
+### 3.2 Defining Cognition
+- **Cognition**: Mental processes including thinking, reasoning, and perceptions (Van Deventer & Mojapelo-Batka, 2013).
+- Entails organizing, understanding, and communicating information.
+- Involves mental imagery alongside verbal processes (Ciccarelli & White, 2017).
+
+### 3.3 Types of Mental Representations
+
+#### 3.3.1 Mental Image
+- Represents objects/events in mind, not merely pictorial (Shepherd & Metzler, 1971).
+- Involves various senses; can mentally manipulate images (Ciccarelli & White, 2017).
+
+#### 3.3.2 Concepts
+- Categories of objects/events/ideas sharing common properties (Bernstein et al., 2012).
+- Types:
+  - **Formal Concepts**: Defined by strict rules (e.g., a square).
+  - **Natural Concepts**: Defined by experiences, not strict rules (e.g., birds).
+- Importance:
+  1. Generalization
+  2. Association of experiences
+  3. Memory facilitation
+  4. Clues for reactions
+
+#### 3.3.3 Prototype
+- Best example of a natural concept possessing characteristic features (Bernstein et al., 2012).
+- Prototypicality influences categorization (Cacioppo & Freberg, 2013).
+
+#### 3.3.4 Proposition
+- Expresses relationships between concepts; can be true/false (Bernstein et al., 2012).
+- Dynamic; updates with new information.
+
+#### 3.3.5 Schemas
+- Set of propositions forming complex mental representations; generalizations about categories/events (Bernstein et al., 2012).
+
+#### 3.3.6 Scripts
+- Specific schemas outlining sequences for familiar activities (Bernstein et al., 2012).
+- Example: restaurant dining sequence.
+
+### 3.4 Reasoning
+- **Reasoning**: Evaluating arguments and drawing conclusions (Bernstein et al., 2012).
+
+#### 3.4.1 Types of Reasoning
+- **Formal (Logical) Reasoning**:
+  - Follows rigorous procedures for valid conclusions (Bernstein et al., 2012).
+  - **Deductive Reasoning**: General to specific; definitive conclusions based on true premises (Santrock, 2003).
+    - Example: Syllogism relating to angels.
+  
+- **Informal Reasoning**:
+  - Assesses the credibility of conclusions; context-dependent (Bernstein et al., 2012).
+  - **Inductive Reasoning**: Specific to general; conclusions are probable, not guaranteed (Santrock, 2003).
+
+----- END OF CHUNK -----
+# PYC1501/Cognition/OER/2024
+
+## 3.4 Reasoning
+
+### 3.4.1 Critical Reasoning
+- Reflective and productive thinking.
+- Evaluates evidence, open to different perspectives.
+- Encourages deeper understanding of concepts (Santrock, 2003).
+
+### 3.4.2 Reasoning Fallacies
+- **Errors in Thinking**:
+  - Sympathy manipulation: E.g., student uses personal issues to request a pass.
+  - Discrediting through personal attacks: E.g., witness's credibility questioned due to criminal history.
+  - Group characteristics: E.g., advertising claims "real men drink king size beer."
+  - False analogy: Assumes similarity suggests identity (e.g., roles of wives).
+  - Misrepresentation: E.g., altering someone’s statement to support one’s agenda.
+
+## 3.5 Problem-solving and Decision-making
+
+- **Cognitive Tools**: Mental images, concepts, and prototypes.
+- Problem-solving: Achieving a goal through thoughtful behavior (Santrock, 2003).
+- Decision-making: Identifying alternatives and choosing the best option (Cacioppo & Freberg, 2013).
+
+### 3.5.1 Steps in Problem-solving & Decision-making
+1. **Find and Frame the Problem**: Clear recognition and understanding.
+2. **Develop Strategies**: Effective methods include algorithms and heuristics.
+3. **Evaluate Solutions**: Test effectiveness of solutions against criteria.
+4. **Rethink Problems & Solutions**: Continuous improvement of understanding (Santrock, 2003).
+
+### 3.5.2 Strategies for Problem-solving & Decision-making
+- **Trial-and-error**: Testing solutions until one works (Ciccarelli & White, 2017).
+- **Algorithms**: Step-by-step procedures leading to correct solutions (Coon & Mitterer, 2012).
+- **Heuristics**: Educated guesses to narrow solutions (Cacioppo & Freberg, 2013).
+  - **Representative heuristic**: Classifying based on similarities.
+  - **Availability heuristic**: Based on recall ease (Tversky & Kahneman, 1973).
+- **Incubation**: Taking breaks can yield new insights (Weiten & Hassim, 2016).
+- **Analogy**: Drawing parallels from past solutions (Bernstein et al., 2012).
+- **Insight**: Sudden mental reorganization resulting in an 'aha' moment (Durso et al., 1994).
+
+### 3.5.3 Complexities in Decision-making
+- Emotions impact preferences.
+- Evaluations of options can fluctuate.
+- **Uncertainty effect**: Preference for avoiding uncertainty.
+- **Gut feeling**: Unconscious deliberation may guide choices.
+- Brand and product factors influence decisions (Weiten & Hassim, 2016).
+
+### 3.5.4 Barriers to Problem-solving & Decision-making
+1. **Focus on Irrelevant Information**: Distinguishing between relevant and irrelevant data (Sternberg, 1986).
+2. **Functional Fixedness**: Limited thinking to typical uses of objects (Ciccarelli & White, 2017).
+3. **Mental Sets**: Reliance on past strategies even if they're suboptimal (Weiten & Hassim, 2016).
+4. **Confirmation Bias**: Seeking evidence that supports one's beliefs, ignoring contrary evidence (Santrock, 2003).
+
+## 3.6 Language and Thinking
+- Language as a system of symbols representing thoughts.
+- Used for communication and inner speech (Van Deventer & Mojapelo-Batka, 2013).
+- Common structural characteristics of languages:
+  - Sounds, meanings, word order, and rules for sentence construction.
+
+--- 
+
+The notes have been condensed by approximately 50% while preserving core principles, concepts, and the original structure of headings and subheadings.
+----- END OF CHUNK -----
+# PYC1501/Cognition/OER/2024
+
+## 3.6 Language Structure and Use
+
+- **3.6.1 Grammar**
+  - Rules governing language structure.
+  - Chomsky (2006): Innate Language Acquisition Device (LAD) for language understanding and production.
+
+- **3.6.2 Phoneme**
+  - Basic unit of sound affecting meaning in language.
+  - Different languages have unique phonemes; changing them alters word meaning (Bernstein et al., 2012; Ciccarelli & White, 2017).
+
+- **3.6.3 Morpheme**
+  - Smallest meaningful unit of language (e.g., 'dog', 'un-', 'ed').
+  - Combined to form phrases and sentences, governed by syntax rules (Bernstein et al., 2012).
+
+- **3.6.4 Syntax**
+  - Rules for combining words and phrases into sentences.
+  - Syntax mix-ups can lead to misconstrued meanings (Lasnik, 1990; Ciccarelli & White, 2017).
+
+- **3.6.5 Semantics**
+  - Rules for determining meanings of words and sentences.
+  - Different syntax can yield same semantic meaning (Ciccarelli & White, 2017).
+
+- **3.6.6 Pragmatic**
+  - Practical aspects of communication (e.g., conversation turn-taking, gesturing).
+  - Includes intonation, which varies when addressing different audiences (Yule, 1996).
+
+## 3.7 The Relationship Between Language and Thinking
+
+- Language vs. Thought Influence:
+  - **Piaget (1962):** Concepts precede language development (collective monologue).
+  - **Vygotsky (1987):** Language aids the formation of thoughts; private speech increases with social interaction.
+
+### 3.7.1 The Role of Language in Thinking
+- Language's influence on cognition and problem-solving.
+- **Sapir-Whorf Hypothesis:** Language shapes thought patterns. Study by Lucy & Shweder (1979) supports color perception influenced by language.
+- Cognitive universalism: Concepts are universal and independent of language (Ciccarelli & White, 2017).
+
+### 3.7.2 The Role of Thinking in Language
+- Evidence shows cognition can exist independently of language.
+- Studies on deaf children show cognitive equivalence to hearing peers in tasks despite language barriers (Furth, 1971, in Santrock, 2003).
+
+## 3.8 Summary
+- Cognition encompasses mental processes for knowledge acquisition (thinking, reasoning, problem-solving).
+- Cognitive processes impact various life facets (school, work, relationships).
+
+## 3.9 Glossary
+- **Algorithms:** Fixed solution rules.
+- **Analogy:** Reasoning via similarities.
+- **Cognition:** Mental processes in thinking and perception.
+- **Cognitive Universalism:** Universal concepts influencing language.
+- **Collective Monologue:** Egocentric child speech.
+- **Confirmation Bias:** Seeking evidence that supports beliefs.
+- **Critical Reasoning:** Reflective and evaluative thinking.
+- **Decision-Making:** Selecting the best action option.
+- **Deductive Reasoning:** General to specific reasoning.
+- **Fallacies:** Errors in reasoning.
+- **Grammar:** Language rule set.
+- **Heuristic Method:** Simplified problem-solving approaches.
+- **Incubation:** Subconscious problem-solving.
+- **Inductive Reasoning:** Specific to general conclusions.
+- **Insight:** Sudden understanding of a solution.
+- **Intonation:** Communicative rhythm and emphasis.
+- **Mental Image:** Representation of objects/events.
+- **Mental Set:** Reliance on past problem-solving strategies.
+- **Morpheme:** Smallest meaningful language unit.
+- **Natural Concepts:** Undefined by strict rules.
+- **Phoneme:** Basic sound unit.
+- **Pragmatic:** Communication practices.
+- **Problem-Solving:** Finding solutions to goals.
+- **Proposition:** Relationships between concepts.
+- **Prototype:** Typical member of a concept.
+- **Reasoning:** Generating/evaluating arguments.
+- **Schemas:** Associated propositions.
+- **Scripts:** Schemas for familiar activities.
+- **Semantics:** Meaning rules for language.
+- **Syntax:** Sentence structure rules.
+- **Trial-and-Error:** Solution experimentation.
+
+## 3.10 References
+- **Key Authors:** Chomsky, Piaget, Vygotsky, Bernstein, Ciccarelli, White, others focusing on cognitive psychology and linguistics.
+----- END OF CHUNK -----
+# PYC1501/Memory/0ER/2024
+
+## Unit 4: Memory
+
+### 4.1 Introduction
+- Memory essential for organizing significant life events.
+- Enables connections with people and continuity over time.
+- Discusses the three-stage memory process: encoding, storage, retrieval.
+
+### 4.2 Defining Memory
+- **Memory**: Retention of information over time via encoding, storage, and retrieval (Santrock, 2003).
+- Reflects various abilities: holding information briefly, episodic recall, general knowledge (McDermott & Roediger, 2021).
+- Comparable to a computer: encoding → storage → retrieval (Coon & Mitterer, 2012).
+
+### 4.3 Three-stage Process of Memory
+
+#### 4.3.1 Encoding (putting it in)
+- **Encoding**: Process of acquiring and transferring information into memory (Cacioppo & Freberg, 2013).
+- Types of encoding:
+  - **Structural Encoding**: Shallow; focuses on physical characteristics (e.g., capitalization).
+  - **Phonemic (Acoustic) Encoding**: Emphasizes sound (e.g., recalling song lyrics).
+  - **Semantic Encoding**: Focuses on meaning; deeper processing leads to better retention.
+  - **Visual Encoding**: Involves pictorial representation; easier to recall high-imagery words (Paivio, 1986).
+
+#### 4.3.2 Storage (keeping it in)
+- **Storage**: Retention of encoded information; varies from brief to permanent (Santrock, 2003).
+- Stages: Sensory memory, short-term memory, long-term memory.
+
+#### 4.3.3 Retrieval (getting it out)
+- **Retrieval**: Accessing stored information for conscious awareness.
+- Types of tasks:
+  - **Recall**: Direct retrieval of learned information (e.g., essay test).
+  - **Recognition**: Identifying learned items (e.g., multiple-choice questions).
+- **Serial Position Effect**: Tendency to recall first and last items better than middle items (Santrock, 2003).
+
+### 4.4 Types of Memory Systems
+
+#### 4.4.1 Sensory Memory (SM)
+- Brief retention of sensory information; less than a second.
+- Types:
+  - **Iconic Memory**: Visual information retention for a short period (e.g., fleeting images).
+  - **Echoic Memory**: Auditory retention; short-lived echoing of sounds (Cacioppo & Freberg, 2013).
+
+#### 4.4.2 Short-term Memory (STM)
+- Information enters consciousness; selective attention is vital (Ciccarelli & White, 2017).
+- Retains information for approx. 30 seconds; capacity is 7 ± 2 items (Miller, 1956).
+
+#### 4.4.3 Long-term Memory (LTM)
+- Permanent storage with unlimited capacity; includes personal experiences and factual information.
+- Types:
+  - **Declarative (Explicit) Memory**: Directly accessed; stores specific knowledge (e.g., factual information) (Cacioppo & Freberg, 2013).
+
+--- 
+
+### Diagram Reference
+- **Figure 4.1**: The three-stage process of memory.
+----- END OF CHUNK -----
+# PYC1501/Memory/0ER/2024 Study Notes
+
+## Table of Contents
+
+1. Memory Systems  
+   1.1 Declarative Memory  
+   1.2 Non-Declarative (Implicit) Memory  
+   
+2. Forgetting  
+   2.1 Ineffective Encoding  
+   2.2 Decay and Transience  
+   2.3 Interference  
+   2.4 Motivated Forgetting  
+
+3. Strategies to Enhance Memory  
+   3.1 Rehearsal  
+   3.2 Chunking  
+   3.3 Mnemonic Device  
+   3.4 Whole vs Part Learning  
+
+4. Summary  
+
+5. Glossary  
+
+---
+
+### 1. Memory Systems  
+
+**1.1 Declarative Memory**  
+- **Semantic Memory**: Facts and concepts (e.g., Nelson Mandela's presidency in 1994).
+- **Episodic Memory**: Personal experiences (e.g., high school events).
+
+**1.2 Non-Declarative (Implicit) Memory**  
+- Influences behavior subconsciously.  
+- **Procedural Memory**: Skills and actions (e.g., riding a bike).
+- **Priming**: Better recall of information when preceded by related concepts.
+
+### 2. Forgetting  
+
+**2.1 Ineffective Encoding**  
+- Memory loss before encoding; failure to store information effectively.
+
+**2.2 Decay and Transience**  
+- Memories fade due to time; ability to recall diminishes without retrieval practice.
+
+**2.3 Interference**  
+- **Proactive Interference**: Old information disrupts recall of new.
+- **Retroactive Interference**: New information disrupts recall of old.
+
+**2.4 Motivated Forgetting**  
+- Deliberate suppression of painful memories (e.g., trauma).
+- **Repression**: Unpleasant memories are pushed into the unconscious.
+
+### 3. Strategies to Enhance Memory  
+
+**3.1 Rehearsal**  
+- **Elaborative Rehearsal**: Relating new information to known information for better retention.
+- **Overlearning**: Continued practice beyond mastery for increased retention under stress.
+
+**3.2 Chunking**  
+- Organizing information into manageable parts (e.g., grouping a phone number).
+
+**3.3 Mnemonic Device**  
+- Memory aids that make information more meaningful through association (e.g., songs, acronyms).
+
+**3.4 Whole vs Part Learning**  
+- Learning entire concepts for shorter information; parts for complex, lengthy information.
+
+### 4. Summary  
+- Memory is essential for daily activities; understanding types of memory, causes of forgetting, and enhancement strategies is crucial for better retention.
+
+### 5. Glossary  
+- **Chunking**: Grouping information to simplify recall.  
+- **Context-Dependent Memory**: Recall influenced by the learning context.  
+- **Decay and Transience**: Memory fading over time.  
+- **Declarative (Explicit) Memory**: Knowledge of facts and events.  
+- **Episodic Memory**: Personal experiences linked to specific times/places.  
+- **Interference**: New memories affecting the recall of older ones.  
+- **Motivated Forgetting**: Intentional effort to forget painful memories.  
+- **Non-Declarative (Implicit) Memory**: Unconscious memory retrieval.  
+- **Overlearning**: Further practice after mastering material for enhanced retention.  
+
+**Diagram References**: Figure 4.2 (Types of memory systems); Figure 4.3 (Knuckle mnemonic device).
+----- END OF CHUNK -----
+# PYC1501/Learning/OER/2024
+
+## Unit 5: Learning
+
+### 5.1 Introduction
+- Learning is crucial for human development, enabling behavioral adaptation.
+- Most behaviors are learned through social interaction and environmental stimuli. 
+
+### 5.2 Defining Learning
+- **Definition:** Permanent change in behavior or knowledge from experience.
+- Changes in behavior due to maturation or temporary conditions (motivation, illness) are not attributed to learning.
+
+### 5.3 Theories of Learning
+- Psychologists study learning through various theories, focusing on different perspectives but agreeing on the occurrence of learning under certain conditions.
+
+#### 5.3.1 Behaviouristic Learning Theories
+- **John B. Watson:** Founder of Behaviourism; emphasized observable behavior.
+  - Importance of measurable behavior over internal processes (thoughts, feelings).
+- **Skinner:** Agreed with Watson but acknowledged internal states' influence on behavior.
+  - Emphasized environment's role, contiguity, and reinforcement in learning (http://www.lifecircles-inc.com/Learningtheories/learningmap.html).
+
+#### Figure 5.1: John Broadus Watson - Founder of Behaviourism  
+*Source: https://en.wikipedia.org/wiki/John_B._Watson*
+
+#### 5.3.2 Cognitive Learning Theories
+- Emerged in response to behaviorism; focused on mental processes.
+- Acknowledges perceptions, thoughts, and feelings that influence behavior.
+- Gestalt psychologists criticized behaviorism for being reductionist, advocating a more comprehensive understanding of learning processes.
+
+---
+
+# PYC1501/Memory/0ER/2024
+
+## Memory Concepts
+
+### Phonemic (Acoustic) Encoding
+- Emphasizes word sounds; involves verbalization (silently).
+
+### Primacy Effect  
+- Better recall of first items presented.
+
+### Priming  
+- Implicit memory retrieval facilitated by cues.
+
+### Proactive Interference  
+- Old memories hinder retrieval of new information.
+
+### Procedural Memory  
+- Implicit memories for actions, skills, conditioned responses.
+
+### Recall  
+- Task of retrieving learned information with minimal cues.
+
+### Recency Effect  
+- Better recall of last items presented.
+
+### Recognition  
+- Identifying previously learned information.
+
+### Rehearsal  
+- Conscious repetition to enhance memory durability.
+
+### Repression  
+- Defense mechanism pushing unpleasant memories from consciousness.
+
+### Retrieval  
+- Process of accessing information from memory storage.
+
+### Retroactive Interference  
+- New memories interfere with old memories retrieval.
+
+### Semantic Encoding  
+- Focuses on meaning; involves relating words to objects/actions.
+
+### Semantic Memory  
+- Records impersonal knowledge about the world.
+
+### Sensory Memory (SM)  
+- Processes incoming sensory information (vision, touch, etc.).
+
+### Serial Position Effect  
+- Better recall of first and last items over middle items.
+
+### Short Term Memory (STM)  
+- Holds small amounts of information for short periods.
+
+### Storage  
+- Holding information for later recall.
+
+### Structural Encoding  
+- Shallow processing; focuses on physical characteristics of stimuli.
+
+### Visual Encoding  
+- Encoding visual images.
+
+### Whole/Part Learning  
+- Learning the whole concept vs. parts for easier recall.
+
+### Working Memory  
+- Short-term memory used for cognitive tasks.
+----- END OF CHUNK -----
+# PYC1501 Study Notes 
+
+## 5.3 Learning Theories 
+
+### 5.3.1 Cognitive Learning Theories
+- **Focus**: Acquisition of knowledge as an indicator of learning.
+- **Internal Processes**: Inputting, organizing, storing, retrieving information; linking new info to old knowledge (schemas).
+- **Key Theorist**: Jean Piaget
+  - Cognitive structures change due to developmental changes and environmental experiences.
+  
+### 5.3.2 Humanistic Learning Theories
+- **Key Contributors**: Abraham Maslow, Carl Rogers
+- **Perspective**: Focused on individual potential and growth.
+- **Rejection of Behaviourism**: Emphasis on choice, motivation, and responsibility in learning.
+- **Maslow's Hierarchy of Needs**:
+  - **Physiological Needs**: Basic survival drives.
+  - **Safety Needs**: Need for a secure environment.
+  - **Belongingness and Love Needs**: Desire for affection and social connection.
+  - **Self-Esteem Needs**: Desire for self-worth.
+  - **Self-Actualization Needs**: Desire to fulfill potential.
+- **Importance of Meaningfulness**: Subjective experience in learning.
+
+### 5.3.3 Social Learning Theories
+- **Key Theorist**: Albert Bandura
+- **Focus**: Learning through observation and social interaction.
+- **Key Processes**: Observation, imitation, modeling.
+- **Notable Experiment**: Bobo doll - children imitate behavior observed in adults.
+
+## 5.4 Types of Learning
+
+### 5.4.1 Associative Learning
+- Definition: Forming associations among stimuli and responses.
+- **Types**:
+  - **Classical Conditioning**: Anticipation of responses based on paired stimuli.
+    - **Key Elements**:
+      - **Unconditioned Stimulus (US)**: Naturally elicits a response (e.g., food).
+      - **Unconditioned Response (UR)**: Innate response (e.g., salivation).
+      - **Neutral Stimulus (NS)**: Does not elicit a response initially (e.g., whistle).
+      - **Conditioned Stimulus (CS)**: Previously neutral, now evokes a response after association (e.g., whistle after conditioning).
+      - **Conditioned Response (CR)**: Learned response to the CS (e.g., salivation triggered by the whistle).
+
+### References:
+- *Coon & Mitterer (2012)*, *Van Deventer & Mojapelo-Batka (2013)*, *Schacter et al. (2012)*, *Plotnik & Kouyoumdjian (2011)*, *Weiten (2013)*, *Swartz et al. (2011)*, *Cacioppo & Freberg (2013)*. 
+
+**Note**: For diagrams and further illustrations, refer to the specific figures mentioned in the original text.
+----- END OF CHUNK -----
+# PYC1501 Study Notes
+
+## Chapter 1: Learning Theories
+
+### Section 1: Classical Conditioning
+- **Definition**: Learning through association between a neutral stimulus and an unconditioned stimulus (US).
+- **Process**:
+  - **Contiguity**: Association formed through close temporal occurrence (Swartz et al., 2011).
+  - **Acquisition**: Development of a conditioned response (CR) when CS and US are paired (Weiten, 2013).
+  - **Extinction**: Gradual weakening of CR when CS is presented without US (Swartz et al., 2011).
+  - **Stimulus Generalization**: CR triggered by stimuli similar to the conditioned stimulus (Swartz et al., 2011).
+  - **Stimulus Discrimination**: Ability to differentiate between similar stimuli, responding accordingly (Schacter et al., 2012).
+  - **Higher-order Conditioning**: New stimuli linked to previously conditioned stimuli to elicit CR (Cacioppo & Freberg, 2013).
+  - **Spontaneous Recovery**: Reappearance of CR after extinction; indicates incomplete elimination of CR (Plotnik & Kouyoumdjian, 2011).
+
+### Section 2: Operant Conditioning
+- **Definition**: Learning where behaviors are modified through consequences (Plotnik & Kouyoumdjian, 2011).
+- **Core Concept**: Focus on consequences affecting behavior.
+- **Key Researchers**: B.F. Skinner, Edward L. Thorndike.
+
+#### Laws of Learning (Thorndike)
+- **Law of Readiness**: Motivation impacts learning experience; satisfaction vs. annoyance.
+- **Law of Exercise**: Repetition strengthens connections between stimulus and response.
+- **Law of Effect**: Actions followed by rewards are more likely to be repeated (Plotnik & Kouyoumdjian, 2011).
+
+### Section 3: Basic Principles of Operant Conditioning
+- **Reinforcement**: Increases likelihood of behavior.
+  - **Positive Reinforcement**: Adds pleasant stimuli (Swartz et al., 2011).
+  - **Negative Reinforcement**: Removes unpleasant stimuli (Weiten & Hassim, 2016).
+- **Punishment**: Aversive stimuli decrease behavior.
+  - **Positive Punishment**: Adds unpleasant stimuli (Swartz et al., 2011).
+  - **Negative Punishment**: Removes pleasant stimuli, reducing behavior (Swartz et al., 2011).
+
+#### Problems with Punishment
+- May lead to avoidance of the punisher over the behavior.
+- Encourages deceit and fear instead of addressing behavior.
+- Can model aggression and emotional distress.
+
+### References
+- Swartz et al. (2011), Weiten (2013), Cacioppo & Freberg (2013), Plotnik & Kouyoumdjian (2011), Schacter et al. (2012), Ciccarelli & White (2014). 
+
+**Diagram References**: See Figures 5.6, 5.7, 5.8, 5.9, and 5.10 for visual illustrations of concepts.
+----- END OF CHUNK -----
+# PYC1501 Study Notes
+
+## 5.4 Learning Theories
+
+### 5.4.1 Operant Conditioning
+
+- **Punishment Principles**:
+  - Timely: Punishment must follow undesired behavior immediately.
+  - Consistency: Must be applied every time the behavior occurs.
+  - Pairing: Punishment should coincide with reinforcement of desired behavior.
+
+- **Schedules of Reinforcement**:
+  - **Fixed Ratio (FR)**: Reinforcer follows a fixed number of responses.
+    - Example: Piecework payment system.
+    - Refer to Figure 5.11: Reinforcement in construction projects.
+  
+  - **Fixed Interval (FI)**: Reinforcer occurs after the first response following a fixed time interval.
+    - Example: Scheduled bus arrivals.
+    
+  - **Variable Ratio (VR)**: Reinforcer follows an unpredictable number of responses.
+    - Example: Casino slot machines.
+  
+  - **Variable Interval (VI)**: Reinforcer appears after varying time intervals.
+    - Example: Periodic checks by a boss.
+  
+- **Reinforcement Effectiveness**:
+  - Immediate reinforcement is crucial.
+  - Only desired behaviors should be reinforced.
+
+- **Comparison: Classical vs. Operant Conditioning**:
+  - **Classical Conditioning**: Involuntary behaviors; stimulus precedes behavior.
+  - **Operant Conditioning**: Voluntary behaviors; behavior influence by consequences.
+  
+|               | Classical Conditioning                     | Operant Conditioning                          |
+|---------------|---------------------------------------------|----------------------------------------------|
+| Response      | Involuntary and automatic                   | Voluntary and emitted                         |
+| Association   | Based on antecedent stimuli                  | Based on consequences                          |
+| Timing        | CS before US                                | Reinforcement follows response                 |
+
+### 5.4.2 Observational Learning
+
+- **Definition**: Learning by observing and imitating others (models).
+- **Bandura's Experiment**: Children imitate aggressive behavior based on model's consequences (rewarded vs. punished).
+- **Components of Observational Learning**:
+  - **Attention**: Must observe behavior and its consequences.
+  - **Retention**: Ability to store and recall information.
+  - **Reproduction**: Capability to imitate observed behavior.
+  - **Motivation**: Desire influenced by reinforcement and punishment.
+
+### 5.4.3 Cognitive Learning
+
+- **Definition**: Involves higher mental processes, understanding relationships between stimuli and consequences.
+- **Cognitive Maps**: Internal representations aiding in learning and memorization.
+- **Types**:
+  - **Perceptual-Motor Skills**: Skills guided by perception, becoming automatic with practice (e.g., driving).
+  - **Intellectual Skills**: Associating concepts, rules for reasoning/preparing verbal skills, and promoting discovery learning.
+
+### 5.4.4 Latent Learning
+
+(Note: Section left blank as no content was provided.)
+----- END OF CHUNK -----
+# PYC1501 / Learning / OER / 2024
+
+## 5.4.5 Insight Learning
+- **Definition**: Sudden understanding to solve a problem (Bernstein et al., 2012).
+- **Cognitive Focus**: Emerges from cognitive processes, not external interactions.
+- **Gestalt Theory**: Emphasizes perception of a whole for better understanding (Sharma, 2015).
+- **Process**: May involve trial-and-error; envisioning, stimulating outcomes, and evaluating alternatives.
+
+## 5.5 Summary
+- **Focus**: Adaptation of mind to the environment through experience.
+- **Learning Theories**: Discusses classical conditioning and operant conditioning.
+- **Behavior Variability**: Learning varies by social circumstances and situational contexts.
+- **Adaptive Learning**: Facilitates survival through behavior changes.
+- **Conclusion**: Understanding learning processes empower behavioral adaptations to needs.
+
+## 5.6 Glossary
+- **Acquisition**: Conditioning period with reinforced response.
+- **Associative Learning**: Linking stimuli and responses.
+- **Behaviourism**: Behavior explained via conditioning; excludes mental processes.
+- **Classical Conditioning**: Repeated pairing of stimuli to evoke responses.
+- **Cognition**: Mental processes in thinking and reasoning.
+- **Contiguity**: Proximity of stimulus and response fostering association.
+- **Extinction**: Disappearance of learned response.
+- **Fixed Interval (FI) Schedule**: Reinforcement after a specific time.
+- **Fixed Ratio (FR) Schedule**: Reinforcement after a set number of responses.
+- **Higher-Order Conditioning**: Response modification to neutral stimulus linked with conditioned stimulus.
+- **Humanism**: Philosophy prioritizing personal fulfillment and contribution to societal good.
+- **Imitation**: Using others as models.
+- **Insight**: Sudden problem-solving understanding.
+- **Latent Learning**: Knowledge revealed with motivation.
+- **Learning**: Permanent behavior/knowledge change from experience.
+- **Negative Punishment**: Removal of a positive stimulus to reduce behavior.
+- **Negative Reinforcement**: Response termination of discomfort/removal of unpleasant event.
+- **Operant Conditioning**: Learning via rewards/punishments to modify behavior.
+- **Positive Punishment**: Application of unpleasant stimulus to decrease behavior likelihood.
+- **Positive Reinforcement**: Response followed by reward, increasing future behavior likelihood.
+- **Social Learning**: Learning through observing others.
+- **Spontaneous Recovery**: Reappearance of conditioned response post-extinction.
+- **Stimulus Discrimination**: Distinguishing between similar stimuli.
+- **Stimulus Generalization**: Similar responses to conditioned stimuli.
+- **Variable Interval (VI) Schedule**: Reinforcement after varied time periods.
+- **Variable Ratio (VR) Schedule**: Reinforcement after unpredictable response number.
+
+## 5.7 References
+- **Bandura, A. (1986)**. Observational learning. *Social foundations of thought and action: A social cognitive theory.* Prentice-Hall.
+- **Bernstein et al. (2012)**. *Psychology* (9th ed.) Wadsworth.
+- **Cacioppo & Freberg (2013)**. *Discovering psychology: The science of mind.* Wadsworth.
+- **Coon & Mitterer (2012)**. *Introduction to psychology: Active learning through models* (12th ed.). Wadsworth.
+- **Heffner, C.L. (2014)**. Introduction to learning theory and behavioral psychology. 
+- **Plotnik, R. & Kouyoumdjian, H. (2011)**. *Introduction to psychology* (9th ed.). Wadsworth.
+- **Weiten & Hassim (2016)**. *Variations in psychology* (2nd South African edition). Cengage Learning. 
+
+**Diagram references**: Referenced figures in text such as typical rat maze.
+----- END OF CHUNK -----
+# Unit 6: States of consciousness
+
+## Learning objectives
+
+- Understand nature of consciousness.
+- Understand stages and functions of sleep.
+- Gain knowledge of sleep disorders.
+- Define hypnosis.
+- Understand psychoactive drugs.
+
+---
+
+## 6.1 Introduction
+
+- Consciousness influences functioning and diverse experiences.
+- Ranges from wakefulness to sleep; altered through psychoactive drugs.
+- Topics: states of consciousness, sleep stages, sleep disorders, psychoactive drugs, hypnosis.
+
+---
+
+## 6.2 Defining consciousness
+
+- "Conscious" from Latin *conscientia*: ‘to know’.
+- Consciousness = mental awareness of sensations/perceptions and self-awareness.
+- William James: "stream of consciousness" reflects continuous awareness.
+- Freud: refers to retrievable aspects of the mind.
+
+---
+
+## 6.3 The nature of consciousness
+
+- Consciousness: awareness of internal (pain, thoughts, emotions) and external stimuli (light, sound).
+- Waking consciousness: clear, organized alertness.
+- Continuum of consciousness: full awareness to deep sleep; includes daydreaming, intoxication, meditation, and hypnotic states.
+- Biological roots of psychological behaviors.
+
+---
+
+## 6.4 The nature of sleep
+
+- Sleep: low physical activity, reduced sensory awareness.
+- Biological regulation: fluctuations in heart rate, blood pressure, body temperature (Siegel, 2008).
+- EEG patterns: 
+  - Awake = beta waves.
+  - Pre-sleep = alpha waves.
+  - Deep sleep = delta waves (Ciccarelli & White, 2017).
+  
+- **Evolutionary Psychology Perspective**: sleep restores resources expended (Frank, 2006; Rial et al., 2007).
+- Cognitive function & memory formation during sleep (Brown, 2012; Huber et al., 2004).
+
+### 6.4.1 Non-Rapid Eye Movement (NREM) sleep
+
+- NREM sleep consists of various stages distinguished by brainwave patterns.
+
+**Stages of NREM Sleep**:
+1. **Stage 1**:
+   - Alpha waves → theta waves.
+   - K-complexes possible.
+   - Reflex muscle twitches ("hypnic jerk").
+   
+2. **Stage 2**:
+   - Sleep spindles appear.
+   - Transition to deep relaxation.
+  
+   ![Stage 1 sleep - sleep spindles and K-complex patterns.](https://socialsci.libretexts.org/@api/deki/files/1250/fig_4.3.3.png?revision=1)
+  
+3. **Stage 3**:
+   - Delta waves signal deeper sleep.
+  
+4. **Stage 4**:
+   - Largest, slowest delta waves; deep oblivion.
+
+### 6.4.2 Rapid Eye Movement (REM) sleep
+
+- REM sleep: brain activity resembles wakefulness; vivid dreams.
+- Significant for cognitive functions like memory retention and emotional processing.
+- Observed in all mammals; Newborns in REM for brain development.
+
+![Brainwave activity changes dramatically across the different stages of sleep.](https://socialsci.libretexts.org/@api/deki/files/1249/fig_4.3.2.png?revision=1)
+
+---
+
+## 6.5 Functions of sleep
+
+- Essential benefits for physical and mental functions.
+  
+### 6.5.1 Restoration
+- Sleep restores, replenishes brain/body (Santrock, 2003).
+- Stages 3 & 4 critical for bodily restoration (Cacioppo & Freberg, 2013).
+
+### 6.5.2 Growth
+- Sleep aids physical growth and brain development.
+- Growth hormone release peaks during stages 3 & 4.
+
+### 6.5.3 Memory
+- Facilitates memory storage and consolidation.
+- REM linked to emotional memory formation.
+
+---
+
+## 6.6 Sleep disorders
+
+- Various disturbances or disorders impacting sleep quality.
+----- END OF CHUNK -----
+# PYC1501/States of Consciousness/OER/2024
+
+## 6.6 Sleep Disorders
+
+### 6.6.1 Insomnia
+- Most common sleep disorder.
+- Characterized by trouble falling asleep, waking up at night, or waking too early.
+- Associated with daytime fatigue, cognitive impairment, anxiety, health problems.
+- Short-term treatment with sleeping pills; long-term use can interfere with sleep.
+
+### 6.6.2 Narcolepsy
+- Sudden, uncontrollable sleep episodes.
+- Episodes last from 1 minute to 30 minutes; individuals feel refreshed upon awakening.
+- Can hinder job performance and pose risks (e.g., driving).
+- Narcoleptics enter REM sleep immediately.
+- Treatment may include counseling.
+
+### 6.6.3 Catalepsy
+- Muscle paralysis akin to REM sleep.
+- Person is awake but unable to move; paralysis ceases when the person is touched.
+  
+### 6.6.4 Sleep Apnoea
+- Periods of halted breathing during sleep, leading to abrupt awakening.
+- Typically accompany loud snoring; more prevalent in men.
+- Common among older adults, postmenopausal women, and the obese.
+- Associated with increased fatigue and exacerbation of cardiovascular diseases (Sánchez-de-la-Torre et al., 2012).
+
+### 6.6.5 Somnambulism (Sleepwalking)
+- Occurs during NREM stages 3 and 4.
+- Individual wanders during sleep, typically within the first three hours; may not recall the event.
+- Causes unknown; potential genetic predisposition.
+
+### 6.6.6 Sleep-talking
+- Involves speaking during sleep; responses may be inaccurate.
+  
+## 6.7 Hypnosis
+- Systematic procedure inducing heightened suggestibility (Weiten & Hassim, 2016).
+- Used therapeutically to alter thoughts and perceptions; can facilitate retrieval of information from memory.
+- Distinction between therapeutic use and entertainment hypnosis is important.
+- Generally, individuals retain clear memories and control during hypnosis.
+- Four steps to induce suggestibility (National Research Council, 1994):
+  - Focus on one object.
+  - Comfort and relaxation.
+  - Openness to hypnosis.
+  - Encourage imagination.
+- Variation in susceptibility; most individuals are moderately hypnotizable (Kihlstrom, 2013).
+- Effective for pain management, depression, anxiety, smoking cessation, weight loss (Alladin, 2012; Elkins et al., 2012).
+
+## 6.8 Substance Use Disorders
+- Dependency and drug use are classified under DSM-5.
+- Compulsive drug use despite adverse consequences; characterized by physical and psychological dependence.
+- Drug tolerance leads to increased dosage and potential overdose.
+
+### 6.8.1 Psychoactive Drugs
+- Interaction with neurotransmitter systems; can act as agonists or antagonists.
+  
+- **Depressants**: 
+  - Suppress CNS activity (e.g., barbiturates, benzodiazepines).
+  - Alcohol as an agonist of GABA; effects include euphoria, sedation, impaired reaction time.
+  - Risks of physical dependence and withdrawal; potential for FAS in pregnant women.
+  
+- **Stimulants**: 
+  - Stimulate CNS; commonly agonists of dopamine.
+  - Examples include caffeine, cocaine, amphetamines, nicotine.
+
+- **Hallucinogens**: 
+  - Alter sensory experiences; include marijuana and LSD.
+  
+- **Inhalants**: 
+  - Chemicals inhaled for a high (e.g., household cleaners, glue).
+
+- **Opioids**: 
+  - Include heroin, morphine, methadone; analgesic properties.
+  - High potential for abuse with intense euphoria and addiction risks.
+
+## 6.9 Summary
+- Consciousness is influenced by biological and chemical factors including sleep, fatigue, and substance use.
+- Discussed nature of consciousness and different states, focusing on sleep disorders and psychoactive drugs.
+----- END OF CHUNK -----
+# PYC1501/States of consciousness/OER/2024
+
+## 6.10 Glossary
+- **Alpha wave**: Low frequency, high amplitude brain wave; stage 1 sleep.
+- **Brainwaves**: Electrical impulses in the brain.
+- **Catalepsy**: Sleep disorder with muscular rigidity linked to nervous system issues.
+- **Consciousness**: Mental awareness of sensations, perceptions, thoughts, memories, and feelings.
+- **Delta wave**: Low frequency, high amplitude brain wave; stages 3 and 4 sleep.
+- **Depressant**: Drug type that suppresses CNS activity.
+- **Drug tolerance**: Increasing quantities needed for same drug effect.
+- **Drug use disorders**: Disorders from specific drug use (substance use disorders).
+- **Electroencephalography (EEG)**: Detects brain electrical activity using scalp electrodes.
+- **Foetal alcohol spectrum disorder (FASD)**: Physical and psychological defects caused by maternal drug use.
+- **Growth**: Sleep function necessary for neural reorganization and brain development.
+- **Hallucinogen**: Drug class causing altered sensory experiences and vivid hallucinations.
+- **Hypnosis**: Procedure producing heightened suggestibility.
+- **Insomnia**: Inability to fall or stay asleep.
+- **K-complex**: High amplitude brain activity pattern in stage 2 sleep, may respond to stimuli.
+- **Memory**: Sleep function aiding information retention via encoding, storage, and retrieval.
+- **Narcolepsy**: Daytime drowsiness and sudden sleep attacks.
+- **Non-REM (NREM) sleep**: Sleep period excluding REM sleep.
+- **Physical dependence**: Body reliance on a substance.
+- **Psychological dependence**: Reliance on a substance for pleasurable effects.
+- **Rapid eye movement (REM)**: Sleep period with brain waves resembling wakefulness.
+- **Restoration**: Sleep function repairing necessary cellular components.
+- **Sleep apnoea**: Temporary breathing cessation during sleep.
+- **Sleep spindles**: Specific brain wave patterns during sleep.
+- **Sleep**: Low physical activity and reduced sensory awareness state.
+- **Stimulant**: Drug type increasing neural activity (e.g., caffeine, nicotine).
+- **Suprachiasmatic nucleus (SCN)**: Hypothalamus area housing biological clock.
+- **Theta wave**: Low frequency, low amplitude brain wave; end of stage 1 sleep.
+- **Wakefulness**: High sensory awareness, thought, and behavior state.
+- **Withdrawal symptoms**: Negative symptoms from discontinuing drug use.
+
+## 6.11 References
+- Alhola, P. & Polo-Kantola, P. (2007). Impact of sleep deprivation on cognitive performance. *Neuropsychiatric Disease and Treatment*, 3, 553–557.
+- Brown, L. K. (2012). Sleep deprivation studies and human sleep. *Current Opinion in Pulmonary Medicine*, 18, 541–545.
+- Alladin, A. (2012). Cognitive hypnotherapy for depression. *The American Journal of Clinical Hypnosis*, 54, 275–293.
+- Burgess, C. R., & Scammell, T. E. (2012). Neural mechanisms in narcolepsy. *Journal of Neuroscience*, 32, 12305–12311.
+- Cai, D. J., Mednick, S. A., et al. (2009). Role of REM in creativity. *Proceedings of the National Academy of Sciences, USA*, 106, 10130–10134.
+- Capellini, I., et al. (2008). Sleep ecology and evolution. *Evolution*, 62, 1764–1776.
+- Chokroverty, S. (2010). Overview of sleep & disorders. *Indian Journal of Medical Research*, 131, 126–140.
+- Del Casale, A., et al. (2012). Hypnosis and neuroimaging studies. *International Journal of Clinical and Experimental Hypnosis*, 60, 286–317.
+- Elkins, G., et al. (2012). Cognitive hypnotherapy for pain management. *The American Journal of Clinical Hypnosis*, 54, 294–310.
+- Ellenbogen, J. M., et al. (2007). Role of sleep in relational memory. *Proceedings of the National Academy of Sciences, USA*, 104, 7723-7728.
+- Fenn, K. M., et al. (2006). Sleep and language learning. *Nature*, 425, 614–616.
+- Frank, M. G. (2006). Sleep function perspectives. *Reviews in the Neurosciences*, 17, 375–392.
+- Golden, W. L. (2012). Hypnotherapy for anxiety. *The American Journal of Clinical Hypnosis*, 54, 263–274.
+- Guldenmund, P., et al. (2012). Brain function in altered consciousness. *Archives Italiennes de Biologie*, 150, 107–121.
+- Halász, P. (1993). Arousals without awakening. *Physiology and Behavior*, 54, 795–802.
+- Henry, D., & Rosenthal, L. (2013). Gender impact on sleep apnea diagnosis. *Social Science & Medicine*, 79, 48–56.
+- Huber, R., et al. (2004). Local sleep and learning. *Nature*, 430, 78–81.
+- Kihlstrom, J. F. (2013). Hypnosis and neuroscience. *Cortex*, 49, 365–374.
+- Luppi, P. H., et al. (2011). Neuronal network for paradoxical sleep. *Sleep Medicine Reviews*, 15, 153–163.
+- National Research Council. (1994). Enhancing human performance. *The National Academies Press*.
+- Rattenborg, N. C., et al. (2007). Functions of sleep. *Sleep Medicine Reviews*, 11, 405–409.
+- Raz, A. (2011). Hypnosis and mind-body regulation. *Trends in Cognitive Sciences*, 15, 555–557.
+- Rial, R. V., et al. (2007). The trivial function of sleep. *Sleep Medicine Reviews*, 11, 311–325.
+- Rock, A. (2004). *The mind at night*. Basic Books.
+- Sánchez-de-la-Torre, M., et al. (2012). Sleep apnoea and cardiovascular disease. *The Lancet Respiratory Medicine*, 1, 31–72.
+- Siegel, J. M. (2008). Do all animals sleep? *Trends in Neuroscience*, 31, 208–213.
+- Siegel, J. M., et al. (1984). REM sleep signs. *Neuroscience Letters*, 45, 241–246.
+- Steriade, M., & Amzica, F. (1998). Sleep oscillation dynamics. *Journal of Sleep Research*, 7(1 Suppl.), 30–35.
+- Stickgold, R. (2005). Sleep-dependent memory consolidation. *Nature*, 437, 1272–1278.
+- Van Deventer, V. & Mojapelo-Batka, M. (2013). *A students’ A-Z of psychology*. Juta.
+- Wagner, U., et al. (2004). Sleep and insight. *Nature*, 427, 352–355.
+- Walker, M. P. (2009). Sleep's role in cognition and emotion. *Annals of the New York Academy of Sciences*, 1156, 168–1.
+----- END OF CHUNK -----
+# PYC1501/Personality/OER/2024 Study Notes
+
+## Table of Contents
+- 7.3 Personality traits - The Five-Factor Model
+- 7.4 Other personality traits
+- 7.5 The criteria for personality traits
+- 7.6 Theoretical perspectives on personality
+
+---
+
+### 7.3 Personality traits - The Five-Factor Model
+
+- **Trait Psychology**: Individual differences in consistent patterns of thoughts, feelings, and behaviors. 
+- **Five-Factor Model (Big Five)**: Acronym OCEAN.
+  - **Openness**: Range from straightforward to imaginative and curious.
+  - **Conscientiousness**: Ranges from disorganized to reliable and disciplined.
+  - **Extraversion**: Ranges from reserved to sociable and enthusiastic.
+  - **Agreeableness**: Ranges from critical to cooperative and forgiving.
+  - **Neuroticism**: Ranges from stable to anxious and insecure.
+
+- **Cross-Cultural Support**: Dimensions identified globally (Triandis & Suh, 2002).
+- **Predictive Validity**: Successful predictions of behavior, job performance (Tett et al., 1991) and psychological disorders (Oldham, 2010; Saulsman & Page, 2004).
+- **Critique**: Model does not encompass moral behavior; interrelations with other traits like self-esteem and need for achievement.
+
+---
+
+### 7.4 Other personality traits
+
+- **Critique of Big Five**: Some theorists suggest other traits exist beyond the model’s scope.
+- **Physiological Basis**: Exploration of individual differences influenced by biological factors.
+- **HEXACO Model**: Introduces Honesty-Humility as a sixth trait dimension.
+
+  - **High Scorers**: Sincere, fair, modest.
+  - **Low Scorers**: Manipulative, narcissistic.
+
+- **Continuous Distribution**: Personality traits vary on a spectrum; most fall in the middle of traits like extraversion.
+
+---
+
+### 7.5 The criteria for personality traits
+
+- **Consistency**: Behavior remains stable across varying situations.
+- **Stability**: Behavior related to the trait remains stable over time.
+- **Individual Differences**: Variability in trait expression among individuals.
+
+---
+
+### 7.6 Theoretical perspectives on personality
+
+- **Psychoanalytic Perspective**:
+  - Developed by **Sigmund Freud** (1856 - 1939).
+  - Focus on unconscious influences on behavior stemming from early childhood.
+  - Mind comparison to an iceberg, highlighting the small portion of consciousness versus the larger unconscious.
+
+  - **Diagram Reference**: Figure 7.3 illustrating proportion of conscious and unconscious mind. 
+
+--- 
+
+**Note**: Engage in discussions on practical applications of personality theories within provided platforms (e.g., myUnisa).
+----- END OF CHUNK -----
+# PYC1501/Personality/OER/2024
+
+## 7.6 Freud’s Theory of Personality Development 
+### 7.6.1 Freudian Structures of Personality  
+- **Id**: Primitive, pleasure-seeking; operates on the pleasure principle.
+- **Ego**: Conscious, rational decision-maker; balances id and superego, operating on the reality principle.
+- **Superego**: Moral component; imposes societal standards and values; can lead to guilt if overly critical.
+
+- **Neurosis**: May occur from imbalances among id, ego, and superego, causing anxiety or negative emotions.
+- **Defence Mechanisms**: Unconscious behaviours to protect against negative feelings (see Figure 7.5).
+
+### Psychosexual Stages of Development  
+- **Stage 1: Oral (0-1 year)**  
+  - Focus: Mouth; conflict over feeding/weaning.  
+  - Fixation leads to dependency, addiction, etc.  
+- **Stage 2: Anal (2-3 years)**  
+  - Focus: Anus; conflict over toilet training.  
+  - Fixation can result in control issues, orderliness, or messiness.  
+- **Stage 3: Phallic (3-6 years)**  
+  - Focus: Genitals; develop Oedipus or Electra complexes.  
+  - Resolution is crucial for healthy identification.  
+- **Stage 4: Latency (6 years-puberty)**  
+  - Sexuality suppressed; focus on skills and social contacts.  
+- **Stage 5: Genital (puberty onward)**  
+  - Focus on mature relationships; influenced by earlier conflicts.  
+
+### Table 7.4: Freud's Psychosexual Stages  
+- Oral: 0-18 months, Mouth, Feeding, Traits: Talkative, dependent  
+- Anal: 2-3 years, Anus, Toileting, Traits: Orderly, controlling  
+- Phallic: 3-5 years, Genitals, Masturbation, Traits: Flirtatious, vain  
+- Latency: 5-13 years, - ,- , -  
+- Genital: Adulthood, Genitals, Adult responsibilities, Traits: Healthy relationships  
+
+### Importance of Psychosexual Development  
+- Conflict resolution at stages is crucial for personality development and potential fixation impacts adult behavior.
+
+## 7.6.2 The Neo-Freudians Perspective on Personality  
+- **Alfred Adler**: Emphasis on striving for superiority; inferiority complexes from parenting lead to low self-esteem and compensatory behaviors.
+- **Carl Jung**: Collective unconscious with archetypes influencing personality development; motivation guided by self-realization.
+
+## 7.6.3 The Behavioural Perspective on Personality  
+- **Skinner**: Personality shaped by reinforcements; behaviors learned through environment interaction.
+- **Behaviour Change**: Result of environmental changes rather than unconscious drives.
+- **Bandura**: Introduced social cognitive theory emphasizing reciprocal determinism, observational learning, and self-efficacy as key factors in personality development.
+
+### Self-Efficacy Influence  
+- High self-efficacy leads to positive outlook on challenges; low self-efficacy leads to avoidance and reduced confidence.
+
+## 7.6.4 The Humanistic Perspective on Personality  
+- Humanism counters negative determinism; emphasizes personal growth and the active role of individuals in shaping their own lives.  
+
+
+----- END OF CHUNK -----
+# PYC1501/Personality/OER/2024 Study Notes
+
+## Table of Contents
+1. Humanistic Perspective on Personality
+   - 1.1 Abraham Maslow's Hierarchy of Needs
+   - 1.2 Carl Rogers' Self-Concept
+2. Biological Perspective on Personality
+3. African Perspective on Personality
+   - 3.1 Cultural Influences
+   - 3.2 Collectivism vs. Individualism
+4. Personality Assessment
+   - 4.1 Self-Report Inventories
+   - 4.2 Projective Tests
+5. Summary
+
+---
+
+## 1. Humanistic Perspective on Personality
+
+- **Humanistic Theory**
+  - Emphasizes self-directed change.
+  - Focuses on subjective experience and self-awareness.
+
+### 1.1 Abraham Maslow's Hierarchy of Needs
+- **Self-Actualization**
+  - Achievement of fullest potential, highest need.
+
+### 1.2 Carl Rogers' Self-Concept
+- **Concept Components**
+  - **Ideal Self** vs. **Real Self**: Consistency leads to congruence.
+  - **Congruence**: Harmony between ideal and real self enhances self-worth.
+  - **Unconditional Positive Regard**: Enhances self-acceptance.
+  
+---
+
+## 2. Biological Perspective on Personality
+
+- **Biological Approach**
+  - Personality differences are attributed to genetics and physiological processes.
+  
+- **Behavioral Genetics**
+  - **Minnesota Study of Twins Reared Apart**: Identical twins show similar personality traits regardless of upbringing, indicating heritability.
+
+---
+
+## 3. African Perspective on Personality
+
+### 3.1 Cultural Influences
+- **Culture**: Beliefs, customs, traditions shape personality (Triandis & Suh, 2002).
+- **Universal vs. Culture-Specific Traits**: Acknowledges variations in personality across cultures.
+
+### 3.2 Collectivism vs. Individualism
+- **Western Cultures**: Focus on independence and personal achievement.
+- **African Cultures**: Emphasis on social harmony and collectivism (Umuntu ngumuntu ngabantu).
+  - Collectivism: Prioritizes community, cooperation, responsibilities, and interdependence.
+
+---
+
+## 4. Personality Assessment
+
+### 4.1 Self-Report Inventories
+- **Structure**: Typically multiple-choice or Likert scales (1 to 5).
+- **MMPI**: Widely used, assesses psychological disorders and occupational suitability.
+
+### 4.2 Projective Tests
+- **Rorschach Inkblot Test**: Reveals unconscious thoughts through interpretation of inkblots.
+- **Thematic Apperception Test (TAT)**: Uses ambiguous images to assess social perceptions and personal goals.
+
+- **Culturally Specific Tests**: 
+  - **C-TCB**: Developed for African Americans, focused on culturally relevant experiences.
+
+---
+
+## 5. Summary
+- **Essence of Personality**: Reflects long-standing traits influencing thought, feeling, and behavior.
+- **Personality Variances**: Highlighting differences among individuals fundamentally defines personality.
+----- END OF CHUNK -----
+# PYC1501/Personality/OER/2024
+
+## 7.9  Glossary
+
+- **Agreeableness**: Compassionate, cooperative, warm, and caring personality trait.
+- **Archetypes**: Universal symbols relating to emotional reactions across cultures.
+- **Behaviourism**: Theory explaining behaviour through conditioning, excluding mental processes.
+- **Complex**: Manifestation of a child's sexual desires for the opposite-sex parent and hostility toward the same-sex parent.
+- **Congruence**: Harmony between ideal self and actual behaviour; opposite of incongruence.
+- **Conscientiousness**: Careful, organized, hardworking personality trait; follows rules.
+- **Consistency**: Similar behaviour across similar situations or over time.
+- **Continuous Distribution**: Values occurring along an unbroken continuum.
+- **Culture**: Distinctive customs, values, beliefs, and language of a society.
+- **Defence Mechanisms**: Unconscious operations protecting from anxiety related to conflicts and stress.
+- **Ego**: The self in contact with the external world through perception.
+- **Extraversion**: Sociable, outgoing, active, and assertive personality trait.
+- **Five-Factor Model**: Personality framework encompassing OCEAN (openness, conscientiousness, extraversion, agreeableness, neuroticism).
+- **Fixation**: Inability to progress from one developmental stage to another appropriately.
+- **Heritability**: Genetic contribution to individual behavioural differences.
+- **HEXACO Model**: Personality model including honesty-humility as a sixth trait, alongside the Big Five.
+- **Humanism**: Philosophy emphasizing individual ethical responsibility for personal fulfillment and societal contribution.
+- **Id**: Personality component driving basic urges and desires.
+- **Ideal Self**: Desired set of psychological attributes one aims to possess.
+- **Incongruence**: Disagreement between ideal self and actual behaviour.
+- **Individual Differences**: Distinct psychological traits among individuals.
+- **Inferiority Complex**: Feelings of inadequacy from perceived deficiencies.
+- **Minnesota Multiphasic Personality Inventory (MMPI)**: Standardized personality and psychopathology assessment tool.
+- **Neo-Freudians**: Psychologists adapting Freud's theories with new ideas.
+- **Neurosis**: Tendency toward negative emotions and anxiety disorders.
+- **Neuroticism**: Sensitivity to interpersonal experiences and negative emotions.
+- **Observational Learning**: Learning through observing and replicating others' behaviours.
+- **Penis Envy**: Hostility a girl child feels toward her mother, attributing blame for not having a penis.
+- **Personality**: Distinct patterns of thinking, feeling, and behaving.
+- **Personality Assessment/Test**: Techniques measuring characteristic trait patterns.
+- **Personality Traits**: Characteristic behavioural patterns.
+- **Pleasure Principle**: Id's drive for immediate gratification.
+- **Projective Tests**: Ambiguous stimuli assessing personality through unconstrained responses.
+- **Psychoanalysis**: Theory focusing on early childhood's influence on adult behaviour through unconscious processes.
+- **Real Self**: Authentic self, encompassing thoughts, feelings, appearances, and actions.
+- **Reality Principle**: Mechanism modifying instinctual gratification per external realities.
+- **Reciprocal Determinism**: Interaction between behaviour, personal factors, and social environment.
+- **Self-Efficacy**: Belief in one’s ability to perform required behaviours for outcomes.
+- **Self-Realization**: Full potential realization through peak experiences.
+- **Self-Report Inventories**: Psychological tests through surveys or questionnaires by individuals.
+- **Stability**: Absence of variation in personality characteristics.
+- **Superego**: Personality component regulating id's primitive urges and enforcing moral behaviour. 
+
+## 7.10   References
+
+- **Allport, G. W. (1937)**: *Personality: A psychological interpretation*. Holt, Rinehart, & Winston.
+- **Aronow, E., Weiss, K. A., & Reznikoff, M. (2001)**: *A practical guide to the Thematic Apperception Test*. Brunner-Routledge.
+- **Ashton, M. C., & Lee, K. (2007)**: Empirical advantages of the HEXACO model. *Personality and Social Psychological Review, 11*, 150–166.
+- **Bandura, A. (Ed.). (1995)**: *Self-efficacy in changing societies*. Cambridge university press.
+- **Bouchard, T. J. et al. (1990)**: Sources of human psychological differences. *Science, 250(4978)*, 223-228.
+- **Freud, S. (1956)**: *Beyond the pleasure principle*. In J. Strachey & A. Freud (Eds.).
+- **Matthews, G. et al. (2003)**: *Personality traits*. Cambridge University Press.
+- **Rotter, J.B., & Rafferty, J. E. (1950)**: *Manual: The Rotter Incomplete Sentences Blank*. 
+
+*Additional references follow the same structured citation format.*
+----- END OF CHUNK -----
+# Unit 8: Intelligence and creativity
+
+## 8.1 Introduction
+- Human intelligence concepts debated historically in psychology.
+- Key qualities associated with intelligence include memory, quick thinking, and knowledge acquisition.
+- Overview of psychological conceptualizations of intelligence and theoretical models.
+
+## 8.2 Defining Intelligence and Creativity
+- **Intelligence Definition**: Global capacity to act purposefully, think rationally, and deal effectively with the environment (Weschler, 1955).
+- **Creativity Definition**: Ability to think in novel ways and produce unconventional solutions (Santrock, 2003).
+
+## 8.3 The Nature of Intelligence
+- **Alfred Binet**: Developed Binet-Simon test; Terman adapted it to create Stanford-Binet test (Terman, 1916).
+  - Used normal distribution for scoring intelligence.
+- **Francis Galton**: Studied psychological measurement; nature vs nurture debate; highlighted heritability in intelligence.
+- **David Wechsler**: Created WAIS to measure multiple intellectual abilities rather than a single general intelligence (Wechsler, 1955).
+
+## 8.4 Influences on Intelligence
+
+### 8.4.1 Genetic Influences on Intelligence
+- Brain volume correlates with intelligence; specific brain areas linked to IQ (Cacioppo & Freberg, 2013).
+- Genetic factors contribute to IQ similarity among family members (Weiten & Hassim, 2016).
+- **Heritability Concept**: Variability in group intelligence attributable to genetics (Santrock, 2003).
+- Twin studies: Identical twins show higher IQ similarity compared to fraternal twins (Weiten & Hassim, 2016).
+
+### 8.4.2 Environmental Influences on Intelligence
+- Adoption studies demonstrate environmental impact on IQ (Weiten & Hassim, 2016).
+- Studies indicate children raised by the same mothers show similar IQs regardless of genetic relationship (Weinberg, 1989).
+- Socioeconomic status influences intellectual stimulation opportunities for children (Santrock, 2003).
+  
+### 8.4.3 Cultural Influences on Intelligence
+- Culture shapes definitions of intelligence; e.g., Western vs. African perspectives (Santrock, 2003).
+- Challenges with standardized intelligence tests across different cultures; development of culture-fair tests (Coon & Mitterer, 2012).
+- Intelligence is context-specific; varies with cultural values and practices (Nisbett, 2003).
+
+## 8.5 Standardization and the Intelligence Quotient (IQ)
+- Intelligence tests aim to measure general intelligence (g) accurately.
+- Tests must demonstrate reliability (consistency) and validity (accurately measure intelligence).
+- **Standardization**: Testing diverse age groups to compute average scores; essential for norm creation.
+- **Flynn Effect**: Observations of increased global intelligence test scores over time (Flynn, 1999). 
+- **IQ Formula**: IQ = (mental age ÷ chronological age) × 100.
+- Modern IQ tests evaluate relative performance against peers; used in personnel selection in organizations (Schmidt & Hunter).
+----- END OF CHUNK -----
+# PYC1501/Intelligence and creativity/OER/2024
+
+## 8.6 Types of Intelligence
+- Various scholars contribute to understanding of intelligence.
+  
+### 8.6.1 Crystallised and Fluid Intelligence
+- **Crystallised Intelligence**: 
+  - Specific learned knowledge (e.g., vocabulary).
+  - Problem-solving skills.
+  - Remains stable throughout adulthood (Cacioppo & Freberg, 2013).
+  
+- **Fluid Intelligence**: 
+  - Logical thinking without previously learned knowledge.
+  - Involves memory capacity and information processing speed.
+  - Peaks in young adulthood, then declines (Cacioppo & Freberg, 2013).
+
+### 8.6.2 Social and Emotional Intelligence
+- **Social Intelligence**: Ability to manage interpersonal relationships.
+- **Emotional Intelligence (EQ)**: 
+  - Monitor own and others' emotions.
+  - Use emotions to guide thinking and actions (Santrock, 2003).
+  - Goleman (1995) identifies aspects: emotional awareness, managing emotions, reading emotions, handling relationships.
+
+## 8.7 Theoretical Models of Intelligence
+
+### 8.7.1 Spearman’s General (g) Factor Theory
+- **Spearman (1904)**: Intelligence is a general ability underlying multiple skills.
+- Developed **factor analysis** to identify common factors among intelligence tests.
+- Recognized specific (s) and group factors influencing test performance (Bernstein et al., 2012).
+
+### 8.7.2 Sternberg’s Triarchic Theory
+- **Three components**:
+  - **Analytical Intelligence**: Information processing, abstract reasoning; measured by IQ tests (Santrock, 2003).
+  - **Creative Intelligence**: Ability to generate new ideas and solve novel problems (Weiten & Hassim, 2016).
+  - **Practical Intelligence**: Everyday problem-solving abilities (Weiten & Hassim, 2016).
+
+### 8.7.3 Gardner’s Theory of Multiple Intelligences
+- **Eight types** identified, including:
+  - **Verbal-linguistic, Logical-mathematical, Visual-spatial, Musical-rhythm, Bodily-kinesthetic, Interpersonal, Intrapersonal, Naturalistic** (Gardner, 1999).
+- Each type can be damaged by brain injury; unique cognitive skills.
+
+### 8.7.4 Thurston’s Multiple Factors of Intelligence
+- **Seven primary mental abilities**: 
+  - Verbal comprehension, General reasoning, Word fluency, Memory, Number ability, Spatial ability, Perceptual speed (Thurston, 1947).
+
+### 8.7.5 Carroll's Model of Intelligence
+- **Three levels (strata) of intelligence**:
+  - **Stratum III**: general intelligence (g).
+  - **Stratum II**: broader categories (e.g., fluid intelligence, processing speed).
+  - **Stratum I**: specific components (e.g., visual memory) (Carroll, 1993).
+
+## 8.8 Creativity
+- **Definition**: Ability to think in novel ways and create solutions (Santrock, 2003).
+- Associated with **divergent thinking**: Generating multiple solutions to problems.
+  
+### Components of Creativity
+- Expertise, Imaginative thinking, Risk-taking, Intrinsic interest, Working in creative environments (Ericsson, 1998; Hennessey & Amabile, 2010).
+
+### 8.8.1 Stages of Creative Thought
+1. **Orientation**: Define the problem.
+2. **Preparation**: Gather information.
+3. **Incubation**: Unconscious processing.
+4. **Illumination**: Insight into the solution.
+5. **Verification**: Testing the solution (Coon & Mitterer, 2012).
+----- END OF CHUNK -----
+# PYC1501/Intelligence and Creativity/OER/2024
+
+## 8.8 Creative Thinking
+
+- **Stages of Creative Problem Solving:**
+  - **Incubation:** Period where solutions seem futile; subconscious problem-solving occurs.
+  - **Illumination:** Rapid insights leading to the 'Aha' moment (Coon & Mitterer, 2012).
+  - **Verification:** Testing and evaluating the illumination solutions; reverts to incubation if necessary.
+
+- **Characteristics of Creative Thinkers (Perkins, 1994, in Santrock, 2003):**
+  - **Flexibility and Playful Thinking:** Creativity flourishes with a light approach; fun disarms critical inner sensors.
+  - **Inner Motivation:** Driven by the joy of creation rather than external rewards (grades, money).
+  - **Risk-Taking:** More mistakes due to a greater volume of ideas; learns from failure.
+  - **Objective Evaluation:** Uses criteria or others' judgments for work assessment to refine creative processes.
+
+## 8.9 Summary
+
+- Intelligence as a complex psychological concept; ongoing research enhances understanding.
+- Multiple theories and measurements exist to analyze intelligence and creativity.
+- Intelligence tests influence recruitment and educational decisions, indicating their relevance in daily functioning and human behavior.
+
+## 8.10 Glossary
+
+- **Analytical Intelligence:** Ability to acquire, store, and translate information into performance.
+- **Autism:** Psychological disorder affecting social interaction.
+- **Convergent Thinking:** Providing conventional and established solutions.
+- **Creative Intelligence:** Producing new products, ideas, or solutions.
+- **Creativity:** Generating new ideas and possibilities.
+- **Crystallised Intelligence:** Logical thinking using learned knowledge.
+- **Culture-fair Test:** Minimizes cultural bias in skill and knowledge assessment.
+- **Divergent Thinking:** Producing unconventional thoughts or solutions.
+- **Factor Analysis:** Statistical technique for correlating intelligence tests.
+- **Fluid Intelligence:** Logical thinking without prior knowledge.
+- **Flynn Effect:** Global increases in intelligence test scores over decades.
+- **General Factor Theory of Intelligence:** Spearman’s theory of a general mental ability underlying specific skills.
+- **Heritability:** Genetic variance in population traits.
+- **Intelligence Quotient (IQ):** Numerical representation of intelligence level.
+- **Intelligence:** Capacity to think rationally and act purposefully.
+- **Practical Intelligence:** Wisdom from experience in problem-solving and social interaction.
+- **Reliability:** Consistency of test results.
+- **Social Intelligence:** Ability to understand and manage interpersonal relationships.
+- **Standardisation:** Testing and scoring processes across age groups.
+- **Theory of Multiple Intelligences:** Gardner’s eight intelligence types.
+- **Triarchic Theory of Intelligence:** Sternberg’s model of analytical, creative, and practical dimensions.
+- **Validity:** Extent to which a test accurately measures intended concepts.
+
+## 8.11 References
+
+*References are listed in their original format without individual entries included to maintain brevity.*
+----- END OF CHUNK -----
+# PYC1501/Emotions/OER/2024
+
+## Unit 9: Emotions
+
+### 9.1 Introduction
+- Emotions combine physiological sensations and subjective feelings.
+- Non-verbal communication (e.g., expressions, body language) predates spoken language (Cacioppo & Freberg, 2013).
+
+### 9.2 Defining Emotion
+- Emotion = intense, subjective feeling with physiological arousal.
+- Mood = prolonged, less intense affective state with no specific cause (Santrock, 2003).
+
+### 9.3 Theories of Emotions
+- Emotions involve physiological arousal, psychological appraisal, and subjective experience.
+- **Cultural factors** influence emotional experiences.
+
+#### 9.3.1 James-Lange Theory
+- Emotions result from physiological arousal (e.g., heart racing from fear).
+
+#### 9.3.2 Cannon-Bard Theory
+- Physiological arousal and emotional experience occur simultaneously but independently (Lang, 1994).
+- Research shows emotions can occur without distinct arousal.
+
+#### 9.3.3 Two-Factor Theory
+- Emotions = physiological arousal + cognitive appraisal (Schachter & Singer, 1962).
+- Context determines emotional interpretation.
+
+#### 9.3.4 Cognitive-Mediational Theory
+- Emotions arise from cognitive appraisal of stimuli (Lazarus, 1991).
+- Zajonc & LeDoux suggest different pathways for emotional processing.
+  - Zajonc: Some emotions precede cognitive interpretation (e.g., startled by loud sound).
+  - LeDoux: Fear processed with minimal cognition (Cunha et al., 2010; LeDoux, 1996).
+
+![Figure 9.1: Theoretical assertions of emotion](https://socialsci.libretexts.org/@api/deki/files/1404/fig_10.4.2.png?revision=1)
+
+- **Polygraphs** measure arousal to assess truthfulness, though validity/accuracy are questioned (Saxe & Ben-Shakhar, 1999).
+
+### 9.4 The Components of Emotions
+- Emotions consist of three interrelated components.
+
+#### 9.4.1 Cognitive Component
+- Involves interpretation and evaluation of emotions.
+- Positive/negative memories shape emotional responses.
+
+#### 9.4.2 Behavioral Component
+- Expressed through verbal/non-verbal behavior (e.g., body language, facial gestures).
+- Basic emotions (e.g., anger, fear) have universal expressions (Van Deventer & Mojapelo-Batka, 2013).
+- Actions are influenced by emotional states (e.g., fight or flight). 
+
+--- 
+
+This outline provides a concise framework of the essential components of emotions and their associated theories within the study of psychology. Further details and examples have been excluded for brevity while focusing on critical concepts and theories.
+----- END OF CHUNK -----
+# PYC1501/Emotions/OER/2024
+
+## 9.4.3 The physiological component of emotions
+- Emotional responses are linked to physiological processes.
+- Involves brain areas, neurotransmitters, autonomic nervous system, and endocrine system.
+- Physiological changes depend on emotion intensity (Weiten & Hassim, 2016). 
+  - Example: Fear can lead to increased heartbeat, dilated pupils.
+
+## 9.5 Functions of emotions
+- Emotions inform identity, relationships, and behavior in various contexts.
+
+### 9.5.1 Intrapersonal functions of emotions
+- Emotions act as quick information processors (Tooby & Cosmides, 2008).
+- Prepare for behavior and coordinate responses (Cosmides & Tooby, 2000; Levinson, 1999).
+  - Example: Fear leads to physiological changes for flight (Baumeister et al., 2007).
+- Influence thoughts and memories; emotions color recollection (Wang & Ross, 2007).
+
+### 9.5.2 Interpersonal functions of emotions
+- Emotions have communicative value in relationships.
+- Expressed verbally and non-verbally; others can reliably judge emotional expressions (Elfenbein & Ambady, 2002).
+- Facilitate social interactions and convey information about feelings, intentions, and relationships (Hwang & Matsumoto, 2020).
+- Universal facial expressions convey intent; influence behavior based on observed emotions (Marsh et al., 2005).
+
+### 9.5.3 Sociocultural functions of emotions
+- Emotions play roles in social and cultural maintenance.
+- Cultural variations influence emotional expressions and perceptions (Tsai, 2020).
+- Cultural norms dictate acceptable emotional displays (Friesen, 1972; Malatesta & Haviland, 1982).
+- Emotional expressions can guide social behavior and reinforce societal norms.
+
+## 9.6 Emotional intelligence (EI)
+- EI: Ability to monitor, discriminate, and use emotions effectively (Santrock, 2003).
+- Cognition and emotion are interrelated; emotions guide decision making and behavior (Brackett et al., 2020).
+
+### 9.6.1 Perception and expression of emotion
+- Capacity to identify and express emotions through non-verbal cues (Brackett et al., 2013).
+
+### 9.6.2 Use of emotion to facilitate thinking
+- Utilize emotions to enhance cognitive functions and facilitate task-oriented behaviors (Mayer & Salovey, 1997).
+
+### 9.6.3 Understanding of emotion
+- Differentiate between emotional states and their causes; recognize emotional trajectories (Feldman et al., 2001).
+
+### 9.6.4 Management of emotion
+- Manage emotions through recognition and understanding of context; employ strategies to control emotions effectively (Gross, 1998).
+- Importance of allowing emotions while ensuring appropriate responses.
+
+- Emotional intelligence is complex and not universally attainable; involves advanced cognitive and emotional skills.
+----- END OF CHUNK -----
+# PYC1501/Emotions/OER/2024 
+
+## C. True or False Summary 
+
+- **Managing Emotions**: Related to self-control, a characteristic of emotional intelligence.
+- **Creativity in Emotional Intelligence**: False; emotional intelligence involves empathy, not traditional creativity.
+- **Understanding Self & Others**: True; high emotional intelligence encompasses intrapersonal (self) and interpersonal (others) insights.
+
+## 9.7 Summary 
+
+- Overview of emotions' roles in daily life.
+- Theories of emotions examined, highlighting their processes.
+- Functions of emotions identified.
+- Emotional intelligence's abilities discussed in the context of public communication.
+
+## 9.8 Glossary 
+
+- **Cannon-Bard Theory**: Simultaneous, independent physiological arousal and emotional experience.
+- **Cognitive-Mediational Theory**: Emotions shaped by unconscious appraisals of stimuli.
+- **Cultural Display Rules**: Standards governing culturally acceptable emotional displays.
+- **Culture**: Shared ideas and values reinforced by social institutions.
+- **Emotion**: A composite of physiological arousal, conscious experience, and behavioral expression.
+- **Emotional Intelligence (EI)**: Monitoring and utilizing emotional information for decision-making.
+- **Evaluative Aspect of Emotion**: Characterization of emotions as pleasant or unpleasant.
+- **Gut Feeling**: Instantaneous, unexplainable emotional reactions.
+- **Interpretive Aspect of Emotion**: Understanding based on memory.
+- **James-Lange Theory**: Emotion arises from physiological changes.
+- **Mood**: Prolonged, less intense affective state.
+- **Polygraph (Lie Detector)**: Instrument measuring physiological responses.
+- **Social Referencing**: Seeking information from others to clarify situations.
+- **Two-Factor Theory**: Emphasizes both physiological arousal and cognitive evaluation in emotional experiences.
+
+## 9.9 References 
+
+- Comprehensive list of relevant academic literature, addressing theories and research related to emotions, emotional intelligence, and cultural emotional expressions. References include works by:
+  - Salovey & Mayer (1990) on emotional intelligence.
+  - Gross (1998) on emotion regulation.
+  - Cacioppo & Freberg (2013) on psychological implications.
+  
+(References should retain pagination and be properly formatted as per academic standards but are summarized here for brevity.)

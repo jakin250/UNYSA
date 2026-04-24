@@ -1,0 +1,1484 @@
+# STUDY NOTES: LAW OF PERSONS (PVL1501)
+
+## PREFACE
+- Module overview provided by lecturers.
+- Focus on various aspects of law relating to persons.
+
+---
+
+## PART 1: INTRODUCTION TO THE LAW OF PERSONS
+
+### Learning unit 1: General information and overview (3)
+- Introduction to fundamental concepts of legal personality.
+- Importance of the law of persons within broader legal context.
+
+### Learning unit 2: Introduction to the law of persons (13)
+- Definition of legal persons.
+- Distinction between natural and juristic persons.
+
+---
+
+## PART 2: THE BEGINNING AND END OF LEGAL PERSONALITY
+
+### Learning unit 3: The beginning of legal personality (20)
+- Legal personality commences at birth.
+- Conditions for recognition of legal status.
+
+### Learning unit 4: The interests of the unborn child (nasciturus) (24)
+- Rights of the unborn child.
+- Legal protections extended prior to birth.
+
+### Learning unit 5: The end of legal personality (38)
+- Circumstances leading to the termination of legal personality.
+- Key legislation and cases governing death and legal identity.
+
+---
+
+## PART 3: FACTORS WHICH DETERMINE STATUS
+
+### Learning unit 6: Status – definition of concepts (48)
+- Definition and implications of status in law.
+- Categories: legal status, social status, etc.
+
+### Learning unit 7: Domicile (52)
+- Concept of domicile and its relevance in determining legal jurisdiction.
+- Types of domicile: habitual residence vs. legal domicile.
+
+### Learning unit 8: Children born of unmarried parents (60)
+- Legal status and recognition of children from unmarried parents.
+- Rights and obligations of parents.
+
+### Learning unit 9: The status and change of status of children born of unmarried parents (69)
+- Establishing paternity and maternal rights.
+- Process for legitimating children.
+
+### Learning unit 10: Minority – introduction (76)
+- Definition of minority; implications on legal capacity.
+- Age of majority and its significance.
+
+### Learning unit 11: The legal status of an infans (82)
+- Infans (infant) legal constraints and protections.
+- Capacity to act and limitations therein.
+
+### Learning unit 12: The legal status of a minor – general principles (86)
+- Rights and legal recognition of minors.
+- Overview of common legal principles pertaining to minors.
+
+### Learning unit 13: The minor’s contractual capacity (90)
+- Legal framework for contracts involving minors.
+- Role of guardians in contract validity.
+
+### Learning unit 14: The minor’s contractual capacity – misrepresentation (94)
+- Consequences of misrepresentation in contracts with minors.
+
+### Learning unit 15: The minor’s contractual capacity – unjustified enrichment (103)
+- Legal implications of unjust enrichment as it pertains to minors.
+
+### Learning unit 16: The minor’s contractual capacity – restitutio in integrum (112)
+- Concept of restitution and applicability for minors.
+  
+### Learning unit 17: The minor’s capacity in respect of other types of juristic acts (117)
+- Juristic acts beyond contracts: litigation, delictual liability, criminal liability.
+
+### Learning unit 18: Termination of minority – attainment of the prescribed age, marriage, venia aetatis and release from tutelage (124)
+- Conditions leading to the end of minority status.
+
+### Learning unit 19: Termination of minority – emancipation (129)
+- Emancipation process and its legal effects.
+  
+### Learning unit 20: Diverse factors which affects status (133)
+- Overview of societal, legal, and personal factors influencing legal status.
+
+---
+
+## GLOSSARY (141)
+- Definitions of key terms for understanding of legal concepts.
+----- END OF FILE -----
+# PART 1  
+## INTRODUCTION TO THE LAW OF PERSONS  
+**PVL1501/1**  
+
+### LEARNING UNIT 1  
+**General information and overview**  
+**Learning unit 1**  
+**PVL1501/1**  
+
+---
+
+### CONTENTS  
+1.1 INTRODUCTION  
+1.2 MODULE OBJECTIVES AND SPECIFIC OUTCOMES  
+1.3 STUDY MATERIAL  
+1.3.1 Study guide  
+1.3.2 Tutorial letters  
+1.3.3 Prescribed book  
+1.3.4 myUnisa  
+1.4 CONTENTS OF MODULE  
+1.5 CONCLUSION  
+PRESCRIBED MATERIAL TO STUDY  
+
+---
+
+### 1.1 INTRODUCTION  
+- Overview of the law of persons module.  
+- Modules 2-20 contain substantive content.  
+
+### 1.2 MODULE OBJECTIVES AND SPECIFIC OUTCOMES  
+- Covers basic principles of the law of persons.  
+- Emphasis on transformative constitutionalism, Ubuntu, and social responsibility.  
+- **Specific outcomes:**  
+  - Analyze legal principles in the South African law of persons.  
+  - Identify issues in real/simulated scenarios.  
+  - Describe legal personality and status factors.  
+  - Formulate legal arguments for practical problems.
+
+### 1.3 STUDY MATERIAL  
+#### 1.3.1 Study guide  
+- First module in private law, treated as introductory.  
+- Emphasizes gradual guidance and understanding of legal concepts and principles.  
+- Study guide structure:  
+  - **Part 1:** Overview and introduction to the law of persons.  
+  - **Part 2:** Beginning and end of legal personality.  
+  - **Part 3:** Factors determining status.  
+- Glossary for Latin/technical terms included.  
+- Guides systematic study; not a substitute for the textbook.  
+
+#### 1.3.2 Tutorial letters  
+- Details and instructions specific to module content.  
+
+#### 1.3.3 Prescribed book  
+- Core readings complementing study guide content.  
+
+#### 1.3.4 myUnisa  
+- Online platform supporting study material and scheduling.  
+
+### 1.4 CONTENTS OF MODULE  
+- Detailed breakdown as per learning units; follow structured approach for understanding.  
+
+### 1.5 CONCLUSION  
+- Importance of understanding principles and relevance in legal discussions.  
+- Encouragement to engage with the content critically.  
+
+**PRESCRIBED MATERIAL TO STUDY**  
+- Tutorial Letter 101  
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## General information and overview
+### Learning unit 1
+
+- **Study Structure**
+  - 20 learning units; aim for 2 units/week.
+  - Time management essential for assignments and exam prep.
+
+- **Study Methodology**
+  - **STUDY**: Deep understanding of prescribed material, know and remember in detail.
+  - **READ**: Background information, not needed for exams but beneficial for knowledge.
+
+- **Prescribed Cases**
+  - Summarization required of prescribed cases (found in the Casebook for Law of Persons).
+  - Important to understand discussions of additional cases in study material.
+
+- **Learning Outcomes**
+  - Each unit outlines broad competencies to be achieved post-completion.
+
+- **Study Guides**
+  - Step-by-step guidance through study material.
+  - Attention to problem areas and integration of topics emphasized.
+
+- **Activities**
+  - Incorporated in units 2-20 to enforce learning and understanding.
+  - Not necessarily representative of exam questions but foundational for exam prep.
+
+- **Self-Assessment Questions**
+  - Post-discussion questions help gauge understanding and exam readiness.
+
+- **Keyword Margins**
+  - Keywords in margins aid in highlighting important concepts.
+
+### 1.3.2 Tutorial Letters
+- Contain compulsory reading; integrate with study guide.
+
+### 1.3.3 Prescribed Book
+- Heaton, J. *The South African law of persons*, 5th ed (2017), LexisNexis Durban.
+
+### 1.3.4 myUnisa
+- Access all prescribed study material and submit assignments.
+- Important announcements via myUnisa.
+
+## 1.4 Contents of Module
+- Overview of subjects in the module and their interrelation.
+
+### Law of Persons
+- Distinction between **natural persons** and **juristic persons**.
+- Legal personality begins at **birth**; special rules for unborn children (**nasciturus fiction**).
+- **Presumption of death**: Protocols when identity in life or death is uncertain.
+
+### Status
+- Definition of **status**: A person's standing in law; includes legal capacity and accountability.
+
+### Domicile
+- Legal presence at a location; importance and types of domicile explained.
+
+### Children Born to Unmarried Parents
+- Status affecting legal standing; implications of artificial fertilization.
+- Proof of parentage; parental responsibilities and rights.
+
+### Minority
+- Impact on rights and status; discusses **infans** and **minor** status.
+- **Capacity**: Entering contracts and remedies for agreements made by minors.
+
+### Termination of Minority
+- Criteria for termination: age, marriage, civil union, **venia aetatis**, tutelage release, emancipation.
+
+### Diverse Factors
+- **Mental illness**, inability to manage affairs, and effects of substances influence status.
+
+### Conclusion
+- Overview of module objectives and outcomes; next unit focuses on introductory aspects of the law of persons. 
+
+**This structured outline provides a concise understanding of key concepts in the law of persons.**
+----- END OF FILE -----
+# LEARNING UNIT 2
+## Introduction to the law of persons
+**Page 13 - 18**
+
+### 2.1 INTRODUCTION
+- Law of persons is a subsection of private law.
+- Governs relationships between individuals in a community.
+- Legal subjects are the core of law, vital for understanding other law branches.
+
+**Key Concepts:**
+- Legal subject: bearer of rights, duties, and capacities (e.g., contracts, ownership).
+
+### 2.2 DEFINITION OF LAW OF PERSONS
+- Studies the legal subject: identity, origin, legal status, and termination.
+- Determines:
+  - Different kinds of legal subjects.
+  - How legal subjects originate and cease.
+  - What legal status entails.
+  - Effects of various factors on legal status.
+
+### 2.3 DIFFERENT KINDS OF LEGAL SUBJECTS
+- Categories: **Natural persons** and **Juristic persons**.
+  - Natural persons: all human beings.
+  - Juristic persons: entities recognized by law (e.g., corporations).
+  
+**Recognized Juristic Persons:**
+- **General enabling legislation** (e.g., banks).
+- **Specially created** entities (e.g., universities).
+- **Common-law requirements**: continuous existence, rights and duties, non-commercial purpose (e.g., SPCA, TAC).
+- **Partnerships**: not juristic persons.
+
+### 2.4 LAW OF PERSONS, THE CONSTITUTION, AND TRANSFORMATIVE CONSTITUTIONALISM
+- **Transformative constitutionalism** promotes social and legal culture transformation.
+- **Sections of SA Constitution** (1996):
+  - **Section 21**: Unmarried fathers' rights (Children’s Act 38 of 2005).
+  - **Section 27(1)(c)**: Right to social security; child support grant example.
+  - **Section 27(1)(a)**: Right to healthcare; ARV Treatment Programme as an example.
+
+**Legal Culture Transformation:**
+- Focus on values and policy in legal education; beyond formal interpretation.
+
+### 2.5 LAW OF PERSONS AND CUSTOMARY LAW
+- **Section 211(3)**: Courts apply customary law subject to Constitution.
+- **Sections 30 & 31**: Cultural rights under the Bill of Rights.
+  
+**Definition and Characteristics of Customary Law:**
+- Customs of indigenous African peoples as part of cultural identity.
+  
+**Key Characteristics:**
+- Largely unwritten; exceptions exist (e.g., KwaZulu-Natal codification).
+- Evolves over time.
+- Underlying principles shared across cultures.
+
+**Distinctions:**
+- **Living customary law**: practices governing communities.
+- **Official customary law**: formalized legal rules; can misrepresent actual customs.
+
+**Relevant Legislation:**
+- **Recognition of Customary Marriages Act 120 of 1998**: defines customary law.
+
+---
+
+These notes summarize the essential points of "Learning Unit 2: Introduction to the law of persons" efficiently while retaining the structure and critical information needed for study.
+----- END OF FILE -----
+# PART 2
+## THE BEGINNING AND END OF LEGAL PERSONALITY  
+PVL1501/1  
+19  
+
+### LEARNING UNIT 3  
+The beginning of legal personality  
+Learning unit 3  
+20  
+
+#### CONTENTS  
+3.1 INTRODUCTION  
+3.2 THE BEGINNING OF LEGAL PERSONALITY  
+3.3 REGISTRATION OF BIRTHS  
+
+### 3.1 INTRODUCTION  
+- Legal personality begins at birth.
+- Importance of understanding the **Births and Deaths Registration Act 51 of 1992** and its regulations.
+
+### 3.2 THE BEGINNING OF LEGAL PERSONALITY  
+- Legal personality starts only at birth; not considered a legal subject before being born alive.
+- **Requirements for legal personality commencement:**
+  - **Completion of birth:** Must be fully completed; severance of the umbilical cord is not required.
+  - **Child's survival post-birth:** Must live after separation.
+  - Viability, though mentioned, is deemed unnecessary by authority (Heaton p 7).
+
+#### Key Legislation:
+- **Births and Deaths Registration Act 51 of 1992**.
+
+- **Determining whether a child lived after birth:** Medical evidence admissibility (Heaton p 7).
+- **Viability definition implication:** Must be able to exist independently (Heaton p 7).
+- **Objection to viability requirement:** It is a vague concept leading to evidentiary issues (Heaton p 7).
+
+### 3.3 REGISTRATION OF BIRTHS  
+- Notification of birth to the **Director-General of Home Affairs** is mandatory for every child born alive.
+- **Registration Process:**
+  - Both parents should register when possible; otherwise, the mother registers (if father is unavailable).
+  - Procedures differ for abandoned children.
+  
+#### Important Aspects:  
+- **Registration of births for married vs unmarried parents:** Procedures outlined (Heaton pp 8–12).
+- Important sections of the **Births and Deaths Registration Act 51 of 1992** include:
+  - Who needs to register births and by whom.
+  - Registration name distinctions for children of married versus unmarried parents.
+  - Conditions for changing registration details for children of unmarried parents.
+  
+#### Document Requirements:  
+- **Documents accompanying the notice of birth:** Distinction based on timing:
+  - Within 30 days.
+  - After 30 days.
+  - Child over one year old.
+  - Procedure for abandoned children.
+
+### CONCLUSION  
+- Discussed requirements for legal personality commencement and viability's relevance.
+- Explored implications of the **Births and Deaths Registration Act 51 of 1992**.
+----- END OF FILE -----
+# Detailed Study Notes: The Interests of the Unborn Child (Nasciturus) (PVL1501/1)
+
+### 4.1 INTRODUCTION
+- Legal personality commences at birth; a fetus lacks rights, duties, and capacities.
+- Law protects potential interests of unborn children via **nasciturus fiction**.
+
+### 4.2 DEFINITION AND REQUIREMENTS
+- **Definition**: Nasciturus is a conceived but unborn child. Also referred to as "fetus."
+- **Fiction**: An assumption deemed true, treating the unborn child as a living person.
+- **In Abeyance**: Legal position on interests held temporarily until the child is born or it's confirmed no person evolved from the nasciturus.
+- **Requirement**: The nasciturus must benefit, implying joint benefits with a third person (e.g., a parent).
+
+### 4.3 THE INTERESTS TAKEN INTO ACCOUNT
+- The application of nasciturus fiction has expanded in South African law, protecting any conceivable interest.
+
+#### 4.3.1 Patrimonial Interests
+##### 4.3.1.1 Succession
+- Distinction between **testate** (will present) and **intestate** (no will) succession is critical.
+  
+##### 4.3.1.2 Maintenance after Birth
+- **Case**: **Shields v Shields 1946 CPD 242** - Court ruled that a mother cannot agree to waive maintenance responsibilities for her unborn child.
+
+##### 4.3.1.3 A Dependant’s Action for Loss of Support
+- **Case**: **Chisholm v East Rand Proprietary Mines Ltd 1909 TH 297** - Established that a child can claim loss of support if their parent dies before their birth due to delict.
+
+#### 4.3.2 Prenatal Injury
+- Law of **delict**: Concerned with unlawful acts causing loss.
+- Prenatal injuries questioned – are actions for such injuries valid against the nasciturus?
+- Resolved in **Road Accident Fund v Mtati 2005 (6) SA 215 (SCA)**: Future claims for prenatal injuries must operate under standard delict principles, not nasciturus fiction.
+
+### 4.4 DOES THE PROTECTION OF THE INTERESTS OF THE NASCITURUS IMPLY THAT AN UNBORN CHILD IS SOMETIMES A LEGAL SUBJECT?
+- Consideration of whether an unborn child may occasionally possess legal personality.
+
+### PRESCRIBED MATERIAL TO STUDY
+- Heaton pages 12 to 27
+- **Road Accident Fund v Mtati 2005 (6) SA 215 (SCA)**
+
+### LEARNING OUTCOMES
+- Define the nasciturus fiction and its operation.
+- Identify interests protected by this fiction and understand its application.
+- Discuss the nasciturus as a potential legal subject.
+- Summarize the **Choice on Termination of Pregnancy Act 92 of 1996**. 
+
+*Note: Remove activities, self-assessment, and feedback sections; maintain focus on core principles and concepts.*
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## 4.3 The Interests of the Unborn Child (Nasciturus)
+
+### 4.3.1 Claim Against the Road Accident Fund
+- Case: **Road Accident Fund appeal** concerning a claim for prenatal injuries.
+- Legal question:
+  - Claim for damages due to disabilities.
+  - Use of nasciturus fiction vs. ordinary delict principles.
+- Supreme Court of Appeal ruling:
+  - Action for prenatal injuries is permitted under delict.
+  - Nasciturus fiction not applicable in future claims; apply delict principles instead.
+
+### 4.3.2 Guardianship and Care
+- **Children’s Act 38 of 2005** replaces:
+  - "Parental power" → "Parental responsibilities and rights."
+  - "Custody" → "Care."
+- Guardianship and care remain components of parental responsibilities and rights.
+- Courts may address guardianship and care orders in divorce if the woman is pregnant.
+- Parental responsibilities and rights cannot arise before birth; contracts for unborn child benefits necessary.
+
+### 4.3.3 Termination of Pregnancy
+#### 4.3.3.1 General
+- Nasciturus fiction not applicable for termination of pregnancy; aborted fetus cannot be born alive.
+
+#### 4.3.3.2 Circumstances for Termination
+- **Choice on Termination of Pregnancy Act 92 of 1996** regulates abortion:
+  - First 12 weeks: Woman's choice.
+  - 13th-20th week: Additional requirements.
+  - After 20 weeks: Strict circumstances.
+
+#### 4.3.3.3 Consent
+- Consent provisions under the Choice on Termination of Pregnancy Act:
+  - Mentally able women can consent independently.
+  - Mentally disabled or unconscious women need guardian, spouse, or partner for consent if <21 weeks pregnant.
+- Case: **Christian Lawyers’ Association v Minister of Health 2005**:
+  - Challenged minor's right to terminate without parental consent. Court held legislative framework ensures informed consent.
+
+#### 4.3.3.4 Foetus’s Right to Life
+- Courts historically viewed the foetus as lacking legal subjectivity and right to life before Bill of Rights.
+- Case: **Christian Lawyers Association of South Africa v Minister of Health 1998** rejected the argument that the Act violated the right to life (s. 11, Constitution).
+- Heaton indicates no conflict between rights of the unborn and pregnant woman; unborn has no rights pre-birth.
+
+### 4.3.4 Sterilisation
+- Study provisions in **Sterilisation Act 44 of 1998** (Heaton pp. 25–26):
+  - Different provisions for majors, minors, and incapable persons.
+  - Voluntary sterilisation permitted from 18 years of age.
+
+### 4.3.5 Legal Subjectivity of the Unborn
+- **Nasciturus Rule vs. Nasciturus Fiction Debate:**
+  - Some scholars advocate the unborn as a legal subject from conception for interests.
+  - Others argue nasciturus fiction protects interests without granting legal subjectivity.
+
+### 4.3.6 Test Yourself Sections
+- Discuss wills and inheritance rights of unborn children.
+- Focus on delictual claims for prenatal injuries.
+- Explore the implications of termination of pregnancy rights on the unborn child's rights.
+
+### Recommendations for Exam Answering
+- **Essay-type:** 
+  - Introduction: Identify and define problem.
+  - Discussion: Legal principles with authority.
+  - Conclusion: Summarize findings and personal opinions, if applicable.
+  
+- **Problem-type:** 
+  - Identify the problem.
+  - Define or describe.
+  - Discuss legal principles with authority.
+  - Conclude by applying legal principles to facts.
+
+--- 
+
+These notes summarize the key components of the legal discussions surrounding the rights of unborn children under South African law, relevant legislation, and key case law, while omitting extensive explanations and examples for brevity.
+----- END OF FILE -----
+# PVL1501/1
+
+## 4. The interests of the unborn child (nasciturus)
+- **Ex parte Boedel Steenkamp**: Court held unborn child entitled to inherit alongside other children. Testator's intent to exclude nasciturus not clear.
+- **Nasciturus Fiction**: 
+  - Meaning and apply requirements detailed.
+  - Legal subject status of nasciturus and relevant legislations:
+    - **Choice on Termination of Pregnancy Act**
+    - **Sterilisation Act**.
+
+---
+
+## 5. The end of legal personality
+### 5.1 Introduction
+- Legal personality ends at death.
+- **National Health Act 61 of 2003**: Provides legal definition of "death".
+  
+### 5.2 The End of Legal Personality
+- Legal personality ceases at death (Heaton, pp. 27-28).
+
+### 5.3 Proof of Death
+- **Common-law vs. Statutory Procedure**: Differences in application for presumption of death.
+- For established medical death, estate administration and marriage dissolution can proceed.
+- Uncertainty about living status necessitates presumption of death to resolve legal issues.
+
+### 5.4 Presumption of Death
+#### 5.4.1 Common-law Procedure
+- **Requirements**: 
+  - Interested parties (spouse, child, creditor) can apply.
+  - Facts for court consideration:
+    - Age when missing.
+    - Duration of absence.
+    - Dangerous occupation status (Heaton p. 29).
+- Court procedure includes setting a return date and publishing notice for interested parties (Heaton p. 29).
+
+#### 5.4.2 Statutory Procedure
+- **Inquests Act 58 of 1959**: 
+  - Governs presumption of death when unnatural causes suspected.
+  - Magistrate inquest findings ratified by High Court as presumption of death order (Heaton pp. 29-30).
+
+### 5.5 The Effect of an Order of Presumption of Death
+- The order creates a rebuttable presumption—it does not conclusively prove death, and can be contested (Heaton p. 32).
+- Effects on estate administration and marital status detailed (Heaton, pp. 30-32).
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## Page 43
+### 5.5 Presumption of Death
+- **Status of Person Presumed Dead**
+  - Estate administered as if proven dead (**Heaton, p. 31**).
+  - Rebuttable presumption: court can set aside order if evidence shows the person did not die.
+  - Application can be made by interested parties or the missing person themselves (**Heaton, p. 32**).
+
+### Mrs. Jonas Case
+- **Dissolution of Marriage**
+  - Under **Dissolution of Marriages on Presumption of Death Act 23 of 1979**:
+    - Court may dissolve marriage upon request.
+    - Separate application required unless at the time of presumption.
+  - **Effect**: Marriage deemed dissolved by death legally, similar to actual dissolution (**Heaton, p. 31**).
+
+### Inquests Act Consideration
+- **Marriage Dissolution without Separate Application**
+  - Section 2 of the **Dissolution of Marriages on Presumption of Death Act**: presumption expressed under **Inquests Act 58 of 1959** automatically dissolves marriage.
+  - No separate application required; effective from court’s death date finding (**Heaton, p. 31**).
+
+### Estate Division Upon Refusal of Presumption
+- Court may divide estate among heirs even if presumption order is denied.
+- Heirs may need to provide security for property return if missing person reappears (**Heaton, p. 31**).
+
+## Page 44
+### 5.6 Summary of Differences
+#### Common-Law vs. Statutory Presumption of Death
+- **Common Law**:
+  - **When**: Missing person, uncertain status.
+  - **Who Can Apply**: Interested parties.
+  - **Burden of Proof**: Preponderance of probabilities.
+  - **Court Authority**: High Court of domicile.
+  - **Applicable Law**: Common law.
+  - **Marriage Effect**: Requires separate application for dissolution.
+
+- **Statutory**:
+  - **When**: Death certainty not due to natural causes.
+  - **Who Can Apply**: Judicial officer (Inquests Act).
+  - **Burden of Proof**: Certainty beyond reasonable doubt.
+  - **Court Authority**: Judicial officer following investigation.
+  - **Applicable Law**: **Inquests Act 58 of 1959**.
+  - **Marriage Effect**: Automatically dissolved if confirmed by the High Court.
+
+## Page 45
+### 5.7 Presumptions Regarding Sequence of Death
+- Inheritance determination critical for commorientes (joint heirs in disaster) (**Heaton, p. 32**).
+
+### 5.8 Registration of Deaths
+- **Legislation**: **Births and Deaths Registration Act** mandates all deaths reported to Director-General of Home Affairs (**Heaton, pp. 32-33**).
+
+### 5.9 Duty to Bury the Deceased
+- Legal obligation for burial order prior to cremation or burial; adherence to wishes for funeral arrangements highlighted (**Heaton, p. 33**).
+
+## Page 46
+### Thomas's Burial Dispute
+- Legal principle: Follow deceased’s wishes if express, with emphasis on proof for verbal instructions contradicting written will (**Heaton, p. 33**).
+
+## Conclusion of Learning Unit
+- Discussed legal principles regarding presumption of death orders.
+- Next unit focuses on understanding a person's status.
+----- END OF FILE -----
+# PVL1501/1
+
+## CONTENTS
+
+### 6.1 INTRODUCTION
+- **Definition of Status**: Refers to a person’s legal standing influenced by attributes like youth and mental illness.
+- **Customary Law**: Patriarchal systems often affect legal status; "status" in customary law correlates with social standing rather than legal standing.
+  - Example: *Bhe v Magistrate, Khayelitsha* (2005) declared male primogeniture unconstitutional.
+- **Gender Neutrality**: Changes in customs (e.g., lobolo negotiations) reflect shifts towards gender equality.
+
+### 6.2 LEGAL CAPACITY
+- **Legal Capacity**: Capacity to have rights and duties held by all human beings, which can vary in extent.
+
+### 6.3 CAPACITY TO ACT
+- **Capacity to Act**: Ability to perform valid juristic acts; some individuals may lack or have limited capacity based on certain restrictions.
+
+### 6.4 CAPACITY TO LITIGATE
+- **Capacity to Litigate**: Right to appear in court; closely correlated with capacity to act, limited for similar reasons.
+
+### 6.5 CAPACITY TO BE HELD ACCOUNTABLE FOR CRIMES AND DELICTS
+- Capacity influenced by age and mental capacity.
+
+---
+
+## LEARNING UNIT 7: DOMICILE
+
+### 7.1 INTRODUCTION
+- **Domicile**: Affects status—determines legal capacity in applicable jurisdiction (lex domicilii).
+
+### 7.2 REPLACEMENT OF COMMON-LAW RULES ON DOMICILE
+- **Domicile Act 3 of 1992**: Replaces common law; non-retrospective, preserving rights acquired prior to enactment (1 August 1992).
+
+### 7.3 DEFINITION OF DOMICILE
+- **Domicile**: Place where one is deemed constantly present for rights and obligations, even if absent.
+
+### 7.4 GENERAL PRINCIPLES GOVERNING DOMICILE
+- Overview of foundational principles before addressing types of domicile.
+
+### 7.5 KINDS OF DOMICILE
+#### 7.5.1 Domicile of Origin
+- Automatically acquired at birth.
+
+#### 7.5.2 Domicile of Choice
+- **Definition** and conditions for acquiring.
+- **Requirements**: Presence and intention required for establishing domicile of choice.
+
+#### 7.5.3 Assigned Domicile
+- **Domicile by Operation of Law**: Includes unique categories such as domicile of minors and mentally incapacitated persons.
+
+---
+
+This reduction captures key concepts and principles discussed in each section while maintaining the original document's headings and structure.
+
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## Domicile
+### Chapter 7
+**7.5 Three Basic Principles**
+- Every person must have a domicile at all times.
+- Change of domicile requires proof; domicile remains until proven otherwise.
+- Only one domicile at a time is permitted.
+
+### 7.5.1 Kinds of Domicile
+#### 7.5.1.1 Domicile of Origin
+- Acquired at birth; may evolve into a domicile of choice.
+
+#### 7.5.1.2 Domicile of Choice
+- **Definition (Heaton p 42)**: A chosen domicile based on presence and intention.
+##### 7.5.1.2.1 Persons who can acquire a domicile of choice
+- Competency defined under **Domicile Act 3 of 1992**, s 1(1): 
+  - Age 18 or older or under 18 with legal adult status.
+  - Requires mental capacity to make a choice.
+
+##### 7.5.1.2.2 Presence and Intention
+- **Requirements**: 
+  - Lawful presence (objective).
+  - Intention to settle indefinitely (subjective).
+
+### 7.5.3 Assigned Domicile
+#### 7.5.3.1 Domicile of a Minor
+- Assigned by law; lasts as long as minority (Heaton p 46).
+- Determined by closest connection.
+
+#### 7.5.3.2 Domicile of a Mentally Incapacitated Person
+- Assigned by law; similar evaluation of closest connection.
+
+---
+**Legislation Highlighted**: 
+- Domicile Act 3 of 1992 (Sections: 1(1), 2(1), 2(3))
+
+**Notable References**: 
+- Heaton (Pages 41-46)
+
+### Conclusion
+- Understanding domicile: principles, types (origin, choice, assigned), and acquisition requirements essential for legal analysis.
+----- END OF FILE -----
+# PVL1501/1
+
+## CONTENTS
+### 8.1 INTRODUCTION 
+- Examines the status of children based on marital status of parents.
+  
+### 8.2 DEFINITION OF “CHILDREN BORN OF MARRIED PARENTS” AND “CHILDREN BORN OF UNMARRIED PARENTS”
+- **Married Parents**: Child born of parents legally married at child's conception or birth. Defined by **Children’s Act 38 of 2005** and **Civil Union Act 17 of 2006**.
+- **Unmarried Parents**: Child born to parents not in a valid marriage or civil union at the relevant times (Heaton p. 47).
+
+### 8.3 CATEGORIES OF CHILDREN BORN OF UNMARRIED PARENTS
+- Categories: Natural children, adulterine children, incestuous children. The differences are largely irrelevant in contemporary law (Heaton p. 48).
+
+### 8.4 ARTIFICIAL FERTILISATION
+#### 8.4.1 Meaning of “artificial fertilisation”
+- Defined as introduction of male gamete into a woman's reproductive organs via artificial means for reproduction (Heaton pp. 48-49).
+
+#### 8.4.2 Status of a child born from artificial fertilisation
+- Child status determined by consent of both spouses/civil partners. If the mother is married and uses husband's sperm, the child is considered born of married parents, regardless of consent (Heaton p. 49).
+
+#### 8.4.3 Relationship implications
+- Discusses parental rights and responsibilities related to artificial fertilisation (Heaton pp. 49-52).
+
+### 8.5 PROOF OF PARENTAGE
+#### 8.5.1 Introduction
+- **Children's Act** excludes certain individuals from qualifying as parents (Heaton pp. 52-53).
+
+#### 8.5.2 Presumption of paternity
+##### 8.5.2.1 Married Parents
+- Rebuttable presumption exists for children born to a married woman, considering her husband as the father unless proven otherwise (Heaton pp. 54-56).
+  
+##### 8.5.2.2 Unmarried Parents
+- A rebuttable presumption applies to men having sexual relations with the mother during conception period (Heaton p. 56).
+
+#### 8.5.3 Corroboration of the mother’s evidence
+- The need for corroboration of a mother’s evidence regarding sexual intercourse established (Heaton pp. 56-57).
+
+#### 8.5.4 Factors relevant to proving or rebutting paternity
+- Factors include absence of sexual intercourse, gestation period, sterility, the exceptio plurium concubentium, physical features, contraceptives, and scientific tests (Heaton pp. 57-65).
+  
+##### 8.5.4.1 Absence of sexual intercourse 
+- Lack of intercourse can rebut paternity presumption (Heaton p. 57).
+
+##### 8.5.4.2 Gestation period 
+- Courts assess gestation on a case-by-case basis with no fixed standard (Heaton p. 57).
+
+##### 8.5.4.3 Sterility 
+- Sterility may be a valid proof against paternity (Heaton p. 58).
+
+##### 8.5.4.4 Exceptio plurium concubentium
+- Addresses cases where more than one man could be the father (Heaton pp. 58-59).
+
+##### 8.5.4.5 Physical features
+- Court may consider a child’s traits relevant in paternity disputes (Heaton p. 59).
+
+##### 8.5.4.6 Contraceptives
+- Use of contraceptives does not necessarily rebut paternity presumption (Heaton p. 59).
+
+##### 8.5.4.7 Scientific tests
+- Blood/DNA tests accepted in proving paternity; courts have power to order testing if in the child’s best interests (YM v LB 2010 (6) SA 338 (SCA)). Legal and constitutional implications of testing outlined (Heaton pp. 59-65). 
+
+---
+
+**Prescribed Material Study:**
+- Heaton pages 47-49 (up to 5.4.2), 52-65 (5.5)
+- **YM v LB 2010 (6) SA 338 (SCA)** 
+
+--- 
+
+**Note**: The structure retains page numbers and references to the original text. It condenses relevant legal principles while removing self-activities and feedback.
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## Chapter 8: Children Born of Unmarried Parents
+
+### Learning Unit 8: Children Born of Unmarried Parents
+- **DNA Testing from Corpses**
+  - Legal implications of DNA testing requested from deceased individuals (Heaton p. 64).
+- **Judicial Notice on DNA Testing**
+  - Court's ability to take judicial notice of scientific paternity tests' reliability (Heaton pp. 64-65).
+
+#### Key Cases
+- **YM v LB 2010 (6) SA 338 (SCA)**
+  - Established that the High Court can order DNA tests for minors if in their best interests (Heaton pp. 61-62).
+
+### Children’s Paternity and Legal Issues
+- Presumption of fatherhood relates to married and unmarried parents.
+- Acknowledgment of paternity isn't established solely through sexual intercourse (Questions 7-13).
+
+#### Important Legal Concepts
+- **Presumption of Paternity**
+  - Factors can rebut the presumption of paternity.
+- **Exceptio plurium concubentium**
+  - Possible defenses in paternity disputes.
+  
+### Conclusion
+- Defined presumptions of paternity for unmarried parents and corroboration of evidence from mothers.
+
+## Part 3: Factors Which Determine Status
+
+### Learning Unit 9: The Status and Change of Status of Children Born of Unmarried Parents
+
+#### 9.1 Introduction
+- Legal relationship dynamics between children and unmarried parents regarding responsibilities and rights.
+
+#### 9.2 The Legal Relationship Between Child and Unmarried Parents
+- **Impact of Children’s Act 38 of 2005** (effective 2007)
+  - Changes in parental responsibilities and rights (Heaton p. 65).
+- **Customary Law**
+  - Affiliations of children to family groups; relevance of lobolo and damages (9.2.4).
+
+#### 9.2.2 Definition and Components
+- Four components of parental responsibilities and rights:
+  - Care
+  - Contact
+  - Guardianship
+  - Maintenance (Heaton pp. 65-67).
+
+#### 9.2.3 Parental Responsibilities and Rights of the Mother
+- Biological mothers gain full rights upon childbirth unless minor and unmarried (Heaton p. 67).
+
+#### 9.2.4 Parental Responsibilities and Rights of the Father
+- **Automatic Rights for Certain Unmarried Fathers**
+  - Conferral prerequisites based on living situations and contributions (Heaton pp. 67-69).
+  
+#### Key Case Reference
+- **KLVC v SDI [2015] 1 All SA 532 (SCA)**
+  - Guidelines on "reasonable period" for contributions; maintenance interpretations (Heaton p. 69).
+  
+### 9.2.4.2 Customary Law and Damages
+- Damages related to paternity in customary contexts (inhlawulo, dikotlo) explained (Kruger & Skelton).
+
+## Prescribed Material to Study
+- Heaton pp. 65–72, 76–77.
+- KLVC v SDI [2015] 1 All SA 532 (SCA).
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## Chapter 9: The Status and Change of Status of Children Born of Unmarried Parents
+
+### 9.2.4 Parental Responsibilities and Rights
+
+- **9.2.4.1 Payment of Damages**
+  - In **Cape Nguni & Swazi** communities, payment of damages grants the father custody rights.
+  - In **Sotho-Tswana, Tsonga,** and **Zulu**, damages do not confer automatic rights. Consent from family heads is needed.
+  - **Section 21(1)(b)**: Unmarried father gains parental rights by paying damages and contributing to upbringing.
+
+- **9.2.4.3 Parental Responsibilities and Rights Agreement**
+  - Unmarried fathers without automatic rights can enter a **parental responsibilities and rights agreement** under **Section 22** of the **Children’s Act**.
+
+- **9.2.4.4 Assignment by Court**
+  - Unmarried fathers can obtain rights through a court order under **Section 23**.
+  - Any interested party may apply, not limited to unmarried fathers.
+
+- **9.2.4.5 Adoption**
+  - Unmarried fathers may adopt their child, following **Children’s Act** regulations.
+  - Traditional law recognizes customary law adoptions even without compliance with adoption legislation (e.g., **Maneli v Maneli 2010 (7) BCLR 703 (GSJ)**).
+
+### 9.2.5 Succession
+
+- **9.2.5.1 Intestate Succession**
+  - Unmarried status impacts inheritance rights from intestate estates.
+  - **Bhe v Magistrate, Khayelitsha**: Customary law primogeniture declared unconstitutional, affirming rights of children born outside marriage.
+  - **Reform of Customary Law of Succession Act 11 of 2009**: Extends “descendant” definition for intestate succession to include accepted children regardless of biological link.
+
+- **9.2.5.2 Testate Succession**
+  - Unmarried status similarly affects rights to inherit from testate estates.
+
+### 9.3 Changing the Status of a Child Born of Unmarried Parents
+
+- A child can attain the status of a married child by:
+  1. Parents' subsequent marriage or civil union (Heaton p. 77).
+  2. Adoption (Heaton p. 77).
+
+### Factors Determining Status 
+
+- **Payment of Lobolo**: Transfers parental responsibilities to father's family; if unpaid, rights revert to mother's family (**s 1 of the Recognition of Customary Marriages Act 120 of 1998**).
+
+## Chapter 10: Minority – Introduction
+
+### 10.1 Introduction
+
+- A person’s legal capacity is influenced by age; limitations are in place for protection.
+- **Heaton** explains these limits reflect the developing capacity to act validly.
+
+### 10.2 Children’s Rights
+
+- **10.2.1 Constitution of the Republic of South Africa, 1996**
+  - Section 28 provides additional rights for minors beyond general rights.
+
+- **10.2.2 Children’s Act 38 of 2005**
+  - Children have supplementary rights under this Act, elaborated in **Heaton pp 80–83**.
+
+### 10.3 Fundamental Concepts
+
+- Key concepts to know:
+  - Juristic acts depend on a person's capacity, requiring understanding of consequences, nature, and meaning of actions.
+- Limited capacity to act reflects protection interests for minors.
+
+**Reference Material: Heaton Text Pages 70-84; Relevant Legislation and Cases as Outlined.**
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## Chapter 10 - Minority - Introduction
+### 10.1 Circumcision of Male Children
+- **Medical and Religious Circumstances**:
+  - Allowed for children <16 with medical recommendation or religious adherence.
+  - At age 16:
+    - Circumcision requires:
+      - Compliance with prescribed regulations.
+      - Consent from the child in prescribed manner.
+      - Proper counselling (Legislation: **Children’s Act, Section 12**).
+
+### 10.2 International Instruments
+#### 10.2.1 United Nations Convention and African Charter
+- South Africa ratified these instruments to affirm the protection of children's rights.
+
+#### 10.2.2 Customary Law and Children’s Rights
+- **Key Principles**:
+  - Interests of the child intertwined with family interests.
+  - Individual rights often conflict with duties emphasized in African culture.
+  - Children can express needs through societal practices (rituals).
+- **Judicial Interpretation**:
+  - **Section 28(2), Constitution**: best interests of the child are paramount, allowing cultural contexts in judicial decisions.
+
+### 10.3 Fundamental Concepts
+- **Definitions** (not in Heaton):
+  - **Agreement**: Consensus among parties (conscious consent).
+  - **Contract**: Agreement intended to create obligations.
+  - **Contractual Liability**: Legal liability for contract fulfillment.
+  - **Obligation**: Juristic bond; rights across parties involved.
+  - **Performance**: Human conduct—commission or omission.
+  - **Civil Obligation**: Legally enforceable, vs. **Natural Obligation**: unenforceable.
+  - **Unilateral Contract**: One party undertakes performance (e.g., donation).
+  - **Multilateral Contract**: More than one party involved (e.g., loan).
+  - **Reciprocal Contract**: Mutual obligations (e.g., sale of goods).
+
+## Chapter 11 - The Legal Status of an Infans
+### 11.1 Introduction
+- **Definitions**:
+  - **Infans**: Under 7 years.
+  - **Minor**: Under 18 years (includes infans).
+
+### 11.2 Capacity to Act of the Infans
+- **General Rule**: Infans has no capacity to act.
+- Exceptions: Liability under **unjustified enrichment** or **negotiorum gestio**.
+
+### 11.3 The Capacity to Litigate of the Infans
+- Infans cannot be a party in litigation, even with guardian assistance.
+
+### 11.4 Delictual and Criminal Liability of the Infans
+- **Definitions**:
+  - **Delictual Liability**: Results from a wrongful act causing loss.
+  - **Criminal Liability**: Results from acts prohibited by law.
+
+**Study Reference**: **Heaton**, pages 81-85 for details.
+----- END OF FILE -----
+**PVL1501/1**
+
+---
+
+### 12.1 INTRODUCTION 
+- Focus on minor’s capacity to perform juristic acts, specifically contracts.
+
+### 12.2 THE MINOR’S CONTRACTUAL CAPACITY – GENERAL PRINCIPLES 
+- **Minors' Capacity**: 
+  - Minors aged 7-18 have limited contractual capacity.
+  - Cannot incur contractual liability without guardian assistance.
+  
+- **Key Legislation**: 
+  - **Consumer Protection Act**: 
+    - Section 39(1)(b) – transaction with unemancipated minors voidable unless ratified by guardian or minor upon adulthood.
+  
+- **Contractual Obligations**: 
+  - Other party must abide by guardian's decision regarding contract upholding.
+  - Cannot use the **exceptio non adimpleti contractus** against a minor; this principle applies only to reciprocal contracts.
+
+- **General Principle**: 
+  - A contract entered into by a minor without assistance is unenforceable against the minor if it imposes duties.
+
+- **Examples**: 
+  - Validity of contracts:
+    - (1) Vusi, aged 16, buying a motorcar without assistance: **Unenforceable**.
+    - (2) Vusi receives a motorcar as a gift from his uncle: **Valid** (improves his position without imposing duties).
+
+- **Remedies for Minors**: 
+  - Monetary performance reclaimed via **condictio**; 
+  - Non-monetary performance reclaimed via **rei vindicatio**.
+
+### CONCLUSION 
+- Studied principles regarding minor’s capacity to contract.
+- Next unit addresses guardian-assisted contracts and statutory exceptions.
+
+--- 
+
+**LEARNING UNIT 13**  
+The minor’s contractual capacity – assistance by the guardian, ratification and statutory exceptions regarding a minor’s capacity to act.
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## CONTENTS
+
+### 13.1 INTRODUCTION (Page 91)
+- Minors contracting without guardian assistance are not held contractually liable.
+- Focus on minor actions with guardian assistance or contract ratification.
+
+### 13.2 ASSISTANCE BY THE GUARDIAN (Page 91-92)
+- Guardians assist in contracting, affecting minor's liability.
+- Certain contracts exempt from guardian's conclusion (e.g., antenuptial contracts).
+
+#### 13.2.1 Liability of the guardian (Page 92)
+- Guardian may incur personal liability under specific conditions:
+  - If minor acts as their agent.
+  - If guardian guarantees minor's performance.
+  - If guardian acts as surety for minor.
+- Negotiorum gestio not considered contractual liability.
+
+### 13.3 RATIFICATION (Page 92)
+- Minors can ratify contracts upon reaching majority.
+- **Edelstein v Edelstein 1952 (3) SA 1 (A)**: Minor cannot ratify antenuptial contracts concluded without consent post-marriage.
+
+### 13.4 STATUTORY EXCEPTIONS REGARDING A MINOR’S CAPACITY TO ACT (Page 93)
+- Various Acts provide exceptions to the general rule on minor contractual liability:
+  - Specific conditions under which minors can incur liability without guardian assistance.
+
+---
+
+## LEARNING UNIT 14: The Minor's Contractual Capacity – Misrepresentation
+
+### 14.1 INTRODUCTION (Page 95)
+- Minors typically can't incur liability without a guardian.
+- Adults can still seek remedies through misrepresentation by the minor.
+
+### 14.2 GENERAL (Page 96)
+- Minors misrepresenting themselves (as adults, emancipated, etc.) may be held liable.
+- Liability bases can be:
+  1. **Contractual Liability** - enforceable contract.
+  2. **Delictual Liability** - wrongful act leading to misrepresentation.
+
+### 14.3 BASIS FOR LIABILITY (Page 96-98)
+#### 14.3.1 Contract as a possible basis for liability
+- Argument against contractual liability based on Roman-Dutch law principles (restitio in integrum).
+
+#### 14.3.2 Delict as a possible basis for liability (Page 98)
+- Emphasis on delictual liabilities stemming from misrepresentation.
+
+### 14.4 IN A NUTSHELL (Page 101)
+- Summary of minor's capacity and potential liabilities based on misrepresentation.
+
+### PRESCRIBED MATERIAL
+- Heaton pages 93-96 (“(v) Misrepresentation by the minor”).
+
+--- 
+
+**Notes:** 
+- Focus primarily on the legal principles and case law outlined, particularly regarding minors' capacity, guardianship roles, and implications of misrepresentation in contractual contexts. 
+- Cross-reference Heaton for in-depth understanding and definitions where necessary.
+----- END OF FILE -----
+**PVL1501/1**  
+**Learning unit 14: The minor’s contractual capacity – misrepresentation**  
+**Page 97**
+
+- **The concepts of *restitutio in integrum* and minor's contracts**
+  - Applies to contracts concluded with assistance, valid but prejudicial.
+  - Misrepresentation does not imply underlying binding contracts.
+
+- **Arguments against the viewpoint**
+  - **Roman-Dutch practice:** *restitutio* used for minors without necessary consent; no binding contract necessary.
+  - **Enforceability:** Contracts without necessary assistance are unenforceable. Minors can recover through *rei vindicatio* or *condictio*, not *restitutio*.
+
+- **Louw v MJ & H Trust (Pty) Ltd 1975 (4) SA 268 (T)** 
+  - Critique: Minor should recover paid purchase price via *condictio*.
+
+**14.3.1.2 Second viewpoint in support of this approach**  
+- **Estoppel Argument:** 
+  - Minor bound by pretense of adulthood; cannot claim minority to avoid liability. 
+  - Flaw: Alters minor's capacity to act.
+
+**14.3.1.3 Third viewpoint in support of this approach**  
+- **Consumer Protection Act 68 of 2008 (section 39(2))** 
+  - Argument: Minor's liability under this section is flawed; misrepresentation shouldn't alter capacity to act.
+
+**14.3.1.4 Conclusion**  
+- **Delictual liability preferred:**
+  - Fraudulent minors should be delictually liable; they commit a wrongful act causing damage.
+  - Protects minors’ limited capacity to act but also safeguards prejudiced parties.
+
+**14.3.2 Delict as a possible basis for liability**  
+- **Fraudulent misrepresentation by minors:**
+  - Minor must compensate for damages (delict).
+  - Independent of contractual liability.
+
+- **Misrepresentation Determination:** 
+  1. Did the minor misrepresent age?
+  2. Was the major induced to contract?
+  3. Did the major suffer damages?
+
+- **Examples and analysis:**
+  1. Adult aware of minor's status (no liability).
+  2. Adult should know minor's age (potential liability).
+  3. Minor too young to appear as adult (no liability).
+  4. Acceptance of stated age versus investigation of true age (context-dependent).
+
+**14.4 In a nutshell**  
+- **Critical factors for minor's liability:**
+  - Confirm misrepresentation.
+  - Verify minor's liability not assumed.
+  - Requirements for delictual liability:
+    - Onus on minor to prove no misrepresentation.
+    - Misrepresentation caused other party's action.
+    - Prejudiced party suffered loss.
+
+**Conclusion**  
+- **Liability of fraudulent minors:**  
+  - If misrepresentation exists, minor liable under delict. 
+- **Next learning unit:** Unjustified enrichment claims for adults against minors.
+----- END OF FILE -----
+# LEARNING UNIT 15
+## The minor’s contractual capacity – unjustified enrichment
+
+### 15.1 INTRODUCTION
+- Minors cannot be held liable in contracts without guardian assistance (refer to Learning Units 12 and 13).
+- Adults contracting with minors have remedies, including unjustified enrichment.
+
+### 15.2 UNJUSTIFIED ENRICHMENT
+- Discussed in Heaton, pages 96-97.
+- Understanding this remedy is crucial for mastering problem-type questions.
+
+#### 15.2.1 What is unjustified enrichment?
+- **General Rule**: A person (A) cannot enrich their estate at another's (B) expense without legal justification.
+- Definition: A is unjustifiedly enriched at B's expense if A benefits financially without a recognized legal ground (Heaton p. 97).
+- Minor (A) can be liable for unjustified enrichment even without a valid contract, as per **Edelstein v Edelstein 1952 (3) SA 1 (A)**. 
+- **Key Concept**: Liability differs between valid contracts and unjustified enrichment claims. 
+
+#### 15.2.2 How is the extent of the minor’s enrichment calculated?
+- Reference: Heaton p. 97.
+1. **Moment of Calculation**
+   - Calculate enrichment at the time the claim is instituted, not when the contract was made.
+   
+2. **Amount of Enrichment**
+   - Two calculations are necessary:
+     - a. Value increase of the minor's estate due to other party's performance (actual value, not contract price).
+     - b. Value decrease of the other party's estate due to performance (also actual value).
+
+3. **Handling Circumstantial Changes**
+   - If minor loses the performance or its value decreases:
+     - a. No recovery if performance is gone.
+     - b. Liability only for decreased value.
+     - c. If sold, liability based on use of proceeds:
+       - i. Proceeds remaining = liable for that amount.
+       - ii. Proceeds used for necessaries = liable for the purchase price.
+       - iii. Proceeds for luxury items = liable for value remaining of those items.
+
+### 15.3 IN A NUTSHELL
+- Be familiar with the distinctions between unjustified enrichment and contractual liability for minors.
+- Understand how to calculate the extent of enrichment in various situations.
+
+---
+
+**Legislation & Case Law Highlight**:
+- **Edelstein v Edelstein 1952 (3) SA 1 (A)**: Establishes minors' liability for unjustified enrichment.
+- Reference to **Nel v Divine Hall & Co (1890) 8 SC 16** is acknowledged but deemed unnecessary.
+
+**Diagram References**: See relevant diagrams in Heaton's pages for better understanding of calculations and principles.
+----- END OF FILE -----
+# PVL1501/1
+
+## LEARNING UNIT 15
+### The minor’s contractual capacity – unjustified enrichment
+
+- **How much is the enrichment?**
+  - Calculation based on the state after an accident.
+  - Enrichment amount: R1,000 (value post-accident).
+  - Khumalo’s estate decreased by R5,000.
+  - Themba's liability: Lesser amount, R1,000.
+
+- **What if the circumstances change?**
+  - Action instituted prior (5 March): Themba enriched by R5,000 (motorcycle's pre-sale value).
+  - Khumalo’s estate decreased by R5,000.
+  - Themba liable for R5,000.
+  - Third principle does not apply since Themba retains the performance's value.
+
+- **ACTIVITY 15.4**
+  - Spending details: R1,200 on accommodation (necessary) and R800 on a television (luxury).
+  - Liability calculation:
+    - Total enrichment: R2,000 (R1,200 + R800).
+    - Khumalo’s estate decreased: R5,000.
+    - Themba liable for R2,000.
+
+### IN A NUTSHELL
+- Minor unjustly enriched if estate increases without legal ground.
+- Calculation principles from 15.2.2 apply to unjustified enrichment.
+
+## LEARNING UNIT 16
+### The minor’s contractual capacity – restitutio in integrum
+
+#### 16.1 INTRODUCTION
+- Focus on the remedy of restitutio in integrum for valid contracts.
+
+#### 16.2 RESTITUTIO IN INTEGRUM
+- Legal remedy allowing a minor to escape liability.
+- Restores parties to pre-contractual positions.
+- **Requirements**:
+  - Valid contract with guardian assistance.
+  - Contract prejudicial to minor at inception.
+
+#### 16.3 IN A NUTSHELL
+- **Key Points**:
+  - Minors generally lack contractual liability without guardian assistance.
+  - Adult has remedies (misrepresentation, unjustified enrichment) when engaging with minor without assistance.
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## The Minor’s Contractual Capacity – Restitutio in Integrum
+- **Contract with Guardian’s Assistance**: 
+  - Minor incurs liability; if prejudicial, remedy available: **restitutio in integrum**.
+  
+## Learning Unit 16: Restitutio in Integrum
+- **Key Principles**:
+  - Minors can escape liability via restitutio in integrum.
+  - Validity of minor’s contracts examined through case scenarios (e.g., Thomas vs. Sibongile).
+
+### Case Analysis
+1. **Stephen's Contract with Harry**:
+   - Validity questioned regarding surfboard purchase.
+2. **Contract Validities (Thomas)**:
+   - 1. Guardian’s assistance with Maria; valid?
+   - 2. Misrepresentation; valid?
+   - 3. No guardian assistance; proceeds selling illegally.
+
+## Conclusion
+- Understanding valid contracts and remedies for minors essential for further study.
+
+---
+
+## Factors Which Determine Status
+
+### Learning Unit 17
+**Contents**: 
+1. Introduction
+2. Minor’s Capacity for Other Agreements
+3. Capacity to Make or Witness a Will
+4. Marriages and Civil Unions
+5. Capacity to Consent to Medical Treatments
+6. Capacity to Hold Offices
+7. Capacity to Litigate
+8. Capacity for Delictual and Criminal Liability
+
+### 17.1 Introduction
+- Focus on minor’s capacity regarding various legal acts and liabilities.
+
+### 17.2 Minor’s Capacity for Other Agreements
+- Definition of **real agreements**: transfer of rights (ownership).
+- **Debts**: 
+  - Minor can extinguish own debt.
+  - Cannot extinguish debts owed to them without guardian assistance.
+
+### 17.3 Capacity to Make or Witness a Will
+- Brief explanation in **Heaton, page 99**.
+
+### 17.4 Marriages and Civil Unions
+- Parent/guardian consent typically required.
+- Additional consent may be needed from Minister of Home Affairs or court under certain conditions.
+
+### 17.5 Capacity to Consent to Medical Treatment
+- Minors >= 12 can consent if mature enough (Children’s Act 38 of 2005).
+- Parent/guardian assistance required for surgical operations.
+
+### 17.6 Capacity to Hold Certain Offices and Functions
+- Considerations include:
+  - Directorship in companies or banks.
+  - Role as trustee of insolvent estates.
+  - Executive capacity in deceased estates (emancipated minors).
+
+--- 
+
+These notes encapsulate legal principles regarding a minor's contractual capacity and related topics. Further study is advised on specific cases and legislation mentioned for comprehensive understanding.
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## Chapter 17: The Minor’s Capacity in Respect of Juristic Acts, Litigation, and Liability
+
+### 17.7 The Minor’s Capacity to Litigate
+- **Locus Standi**: Minor typically lacks capacity to litigate (Heaton 105-106).
+- **Limited Capacity to Litigate**: Minor can sue/be sued with guardian's assistance; or guardian may initiate on minor's behalf.
+- **Curator ad Litem**: If no guardian, court can appoint one; application can be made by interested parties, including minor (if capable).
+- **Case Reference**: **Vista University, Bloemfontein Campus v Student Representative Council** (1998) 4 SA 102 (O) - court acted as upper guardian.
+- **Venia Agendi**: Full capacity granted by High Court if minor reaches sufficient intellectual maturity; applies to private-law proceedings only.
+- **Criminal Proceedings**: Minors charged without guardian’s assistance; guardian must attend if under 18.
+
+### 17.8 The Minor’s Capacity to Incur Delictual and Criminal Liability
+- **Delict vs. Crime**: Delict - wrongful act causing damage; Crime - act prohibited by law.
+- **Accountability**: Minor’s ability to differentiate right/wrong; affects delictual and criminal liability.
+  - **Delictual Accountability**: Governed by age statutes.
+  - **Criminal Accountability**: Governed by **Child Justice Act 75 of 2008**.
+- **Capacity to Act vs. Accountability**: 
+  - Capacity to act: understanding nature/consequences of acts.
+  - Accountability: distinguishing right from wrong; minors can be accountable despite lacking full capacity to act.
+
+## Chapter 18: Termination of Minority
+
+### 18.1 Introduction
+- Examines termination of minority via:
+  - Attainment of prescribed age.
+  - Marriage/Civil Union.
+  - Emancipation in subsequent unit.
+
+### 18.2 Attainment of the Prescribed Age
+- **Age of Majority**: Reduced from 21 to 18 years as per **Children’s Act 38 of 2005** effective 1 July 2007.
+- **Non-Retroactive Effect**: Malcolm v Premier, Western Cape Government NO (2014) confirmed prior rights unaffected by the Act; prescription of minor’s claim is one year post-age of majority.
+- **Customary Law**: Majority determined by physical/intellectual maturity, initiation, marriage; differs across cultures.
+
+### Key Legislation and Cases
+- **Children’s Act 38 of 2005**: Alters definition of majority.
+- **Age of Majority Act 57 of 1972**: Repealed.
+- **Malcolm v Premier, Western Cape Government NO 2014 (3) SA 177 (SCA)**: Important case regarding prescription for minors.
+
+## Conclusion
+- Analysis of how age affects a minor's capacity in juridical contexts, with implications for litigation and liability. Transition to upcoming learning unit on termination of minority through emancipation.
+
+---
+
+### Key Diagrams
+- **[Diagram Reference]**: Consider adding visual aids for understanding the relationship between age, capacity to act, and accountability distinctions.
+----- END OF FILE -----
+# PVL1501/1 Study Notes
+
+## Chapter 18: Termination of Minority 
+
+### 18.3 MARRIAGE OR A CIVIL UNION
+- **Validity of marriage/civil union**: A person entering a valid civil or customary marriage before age 18 becomes a major for all purposes.
+- **Dissolution before 18**: Implications of marriage dissolution (death/divorce) on minority status (Heaton p. 108).
+
+### 18.4 VENIA AETATIS AND RELEASE FROM TUTELAGE
+- **Venia Aetatis**: Authority of state to permit minors to act as majors, cannot be granted now.
+- **Release from Tutelage**: Available from the High Court, allowing minors some autonomy (Heaton pp. 108-109).
+
+## Chapter 19: Termination of Minority - Emancipation
+
+### 19.1 INTRODUCTION
+- **Study relation**: Understanding emancipation requires knowledge of: 
+  - Capacity to act (Learning Unit 13) 
+  - Restitutio in integrum (Learning Unit 16)
+  - Capacity to litigate (Learning Unit 17).
+
+### 19.2 EMANCIPATION
+- **Definition**: Emancipation allows minors to enter contracts independently; usually granted by a guardian (Heaton pp. 109-111).
+- **Express Emancipation**: Declaration before the court by parent or guardian.
+- **Implied Emancipation**: Occurs when a minor lives independently and manages own affairs; can be inferred through actions (Heaton p. 109).
+
+- **Factors of Emancipation Determination**: 
+  - Minor’s living situation and independence.
+  - Age and relationship with guardian.
+  - Nature and duration of minor's occupation.
+
+- **Effects on Capacity**: 
+  - General emancipation may apply to all contracts.
+  - Specific emancipation limits to business-related contracts.
+  - Emancipated minors cannot alienate/encumber immovable property or marry without specific permissions.
+
+### Conclusion
+- Emancipation permits minors to contract independently.
+- Significant to understanding minority and status (including effects from factors beyond age).
+
+---
+
+### Key Legislation & Cases
+- **Children’s Act**: May impact how release from tutelage is viewed.
+- Relevant case law to identify applicable circumstances of emancipation. 
+
+### Diagram References
+- Diagrams detailing the framework of emancipation vs. tutelage may enhance comprehension of interrelationships in legal principles. 
+
+### Notes
+- Review principles surrounding minors and their status comprehensively before progressing to further topics involving status factors.
+----- END OF FILE -----
+# LEARNING UNIT 20  
+## Diverse factors which affect status  
+PVL1501/1  
+Pages 133-140  
+
+### 20.1 INTRODUCTION  
+- Status refers to legal capacity, capacity to act, litigate, and accountability for crimes/delicts.  
+- Factors affecting status: mental illness, inability to manage affairs, influence of alcohol/drugs, prodigality, and insolvency.  
+
+### 20.2 MENTAL ILLNESS  
+#### 20.2.1 Introduction  
+- Law protects mentally ill persons from exploitation.  
+- Mental illness impacts capacity to act and litigate.  
+
+#### 20.2.2 The definition of mental illness  
+- Definition per **Lange v Lange 1945 AD 332**:  
+  - Cannot understand nature/consequences of transactions.  
+  - Understands but influenced by mental illness delusions.  
+
+#### 20.2.3 Proving mental illness  
+- Determination based on medical evidence presented in court.  
+
+#### 20.2.4 The legal status of a mentally ill person  
+- Mentally ill persons lack capacity to act/litigate; all juristic acts are invalid, unless during a **lucidum intervallum**.  
+- Certification does not automatically confer or negate capacity; factual state at transaction time matters.  
+- Discusses **s39(1)(a) of the Consumer Protection Act 68 of 2008**, limiting contract capacity for declared mentally ill individuals; constitutional implications are questioned.  
+
+#### 20.2.5 The appointment of a curator  
+- Types of curators:  
+  - **Curator bonis**: Manages estate.  
+  - **Curator ad litem**: Represents interests in legal matters.  
+  - **Curator personae**: Cares for the individual.  
+- Appointment of a curator does not eliminate all capacity to act. Reference: **Pienaar v Pienaar’s Curator 1930 OPD 171**.  
+
+#### 20.2.6 Care and administration of the property of mentally ill persons  
+- Heaton pages 124-125 explain property management for mentally ill individuals.  
+
+### 20.3 INABILITY TO MANAGE ONE’S OWN AFFAIRS  
+- Appointment of **curator bonis** for those incapable due to physical/mental disabilities.  
+- Appointment does not terminate capacity to act; capability at transaction time determines validity.  
+
+### 20.4 THE INFLUENCE OF ALCOHOL AND DRUGS  
+- Intoxication includes both alcohol and drugs.  
+- Actions void if individual is unaware of effects/consequences.  
+- Burden of proof on claimant regarding intoxication; impacts capacity only during intoxication duration.  
+
+### 20.5 PRODIGALITY  
+#### 20.5.1 The definition of “prodigality”  
+- Prodigal defined as person with normal mental capacity but mismanages assets due to poor judgment/character.  
+- Often associated with alcoholism/gambling; court can restrict status for protection.  
+
+#### 20.5.2 Legal capacity  
+- Limitations on legal capacity for interdicted prodigals discussed in Heaton page 134.  
+
+#### 20.5.3 Capacity to act  
+- Difference between declared prodigal and interdicted prodigal emphasized.  
+- Interdicted prodigal cannot manage estate.  
+
+### 20.6 INSOLVENCY  
+- Definition and impact of insolvency on legal capacity and ability to act discussed, referencing relevant case law and legislation (not specified).  
+
+---  
+**Note**: Important cases and legislation highlighted for reference. Consult original pages for deeper understanding and specific legal principles.
+----- END OF FILE -----
+# PVL1501/1
+
+## 20.5 Capacity and Accountability
+
+### 20.5.4 Capacity to Litigate
+- Discussed in Heaton page 137 (10.4) regarding the prodigal's capacity to litigate.
+
+### 20.5.5 Capacity to be Held Accountable for Crimes and Delicts
+- Explained in Heaton page 137 (10.5) focusing on the prodigal's accountability for crimes and delicts.
+
+### 20.5.6 Constitutional Implications of Interdiction as a Prodigal
+- Heaton pages 137-138 (10.6) highlights constitutional implications of interdicting a prodigal from managing their estate.
+
+## 20.6 INSOLVENCY
+
+### Study
+- Heaton page 140 (11.2–11.3)
+- Heaton page 141 (11.5)
+
+### Read
+- Heaton pages 139-140 (11.1)
+- Heaton pages 140-141 (11.4)
+- Heaton pages 141-142 (11.6)
+
+### 20.6.1 Definition of “Insolvent”
+- A person is insolvent when liabilities exceed assets; sequestration by High Court affects status.
+
+### 20.6.2 Legal Capacity
+- Heaton page 140 (11.2) discusses legal capacity and limitations post-insolvency declaration.
+
+### 20.6.3 Capacity to Act
+- Estate vests in Master of High Court upon sequestration; trustee later appointed.
+- Insolvent retains some capacity to act:
+  - Contracts independently: specify which.
+  - Contracts needing trustee's consent: study related rules.
+
+### 20.6.4 Capacity to Litigate
+- Insolvent retains capacity to litigate; civil proceedings stayed until trustee's appointment.
+
+### 20.6.5 Capacity to be Held Accountable for Crimes and Delicts
+- Insolvency does not affect liability for crimes or delicts; compensation sourced post-sequestration assets.
+
+## Conclusion
+- Examined effects of mental illness, incapacity, intoxication, prodigality, and insolvency on legal status.
+
+## Part 3 Factors Which Determine Status
+
+## Glossary
+- a quo: judgment from a lower court.
+- ab initio: from the beginning.
+- actio: action.
+- ad hoc: for a specific purpose.
+- affadavit: sworn statement.
+- curator ad litem: court-appointed assistant for litigation.
+- curator bonis: administers another’s property.
+- doli capax: accountable.
+- non compos mentis: mentally ill.
+- ratio: ground for a decision.
+- sua generis: of its own kind.
+- venia agendi: permission to litigate.

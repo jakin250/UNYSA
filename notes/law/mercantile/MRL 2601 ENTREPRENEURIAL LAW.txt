@@ -1,0 +1,2172 @@
+# DEPARTMENT OF MERCANTILE LAW
+
+## Study guide for MRL2601
+
+### University of South Africa, Pretoria
+
+---
+
+## Table of Contents
+
+- **Study unit 0: Purpose of this study guide** (Page 1)
+- **Study unit 1: The impact of the Constitution and Globalisation on Entrepreneurial Law** (Page 5)
+- **Study unit 2: Legal personality** (Page 20)
+- **Study unit 3: Types of company** (Page 25)
+- **Study unit 4: Registration of companies** (Page 29)
+- **Study unit 5: Pre-incorporation contracts** (Page 37)
+- **Study unit 6: Registration of company names** (Page 40)
+- **Study unit 7: Capacity and representation of a company** (Page 43)
+- **Study unit 8: Corporate finance** (Page 51)
+- **Study unit 9: Corporate governance: Shareholders** (Page 59)
+- **Study unit 10: Directors and board committees** (Page 66)
+- **Study unit 11: Company auditors** (Page 77)
+- **Study unit 12: The company secretary** (Page 82)
+- **Study unit 13: Remedies and enforcement** (Page 85)
+- **Study unit 14: Trusts** (Page 90)
+- **Study unit 15: Partnerships** (Page 98)
+- **Study unit 16: Close corporations** (Page 110)
+
+---
+
+### STUDY UNIT 0: Purpose of this study guide (Page 1)
+- General background for examinations.
+- Context for tutorial letters.
+- Clarification of difficult concepts.
+- References to textbooks, legislation, and case law.
+
+### STUDY UNIT 1: The impact of the Constitution and Globalisation on Entrepreneurial Law (Page 5)
+- Understanding of Constitutional principles affecting business.
+- Influence of globalisation on local laws and practices.
+
+### STUDY UNIT 2: Legal personality (Page 20)
+- Definition and implications of legal personality.
+- Distinction between natural persons and juristic persons.
+- Case law illustrating legal personality.
+
+### STUDY UNIT 3: Types of company (Page 25)
+- Overview of different types of companies (private, public, etc.).
+- Legal requirements and implications of each type.
+- Relevant legislation: **Companies Act**.
+
+### STUDY UNIT 4: Registration of companies (Page 29)
+- Steps and processes for company registration.
+- Importance of compliance with the **Companies Act**.
+
+### STUDY UNIT 5: Pre-incorporation contracts (Page 37)
+- Definition and enforceability of pre-incorporation contracts.
+- Role of promoters in pre-incorporation situations.
+
+### STUDY UNIT 6: Registration of company names (Page 40)
+- Legal requirements for company names.
+- Procedures for registration and name change.
+
+### STUDY UNIT 7: Capacity and representation of a company (Page 43)
+- Concept of capacity as it relates to companies.
+- Authority of directors and agents in representation.
+
+### STUDY UNIT 8: Corporate finance (Page 51)
+- Overview of sources of corporate finance.
+- Legal implications of equity and debt financing.
+
+### STUDY UNIT 9: Corporate governance: Shareholders (Page 59)
+- Rights and obligations of shareholders.
+- Importance of shareholder agreements.
+
+### STUDY UNIT 10: Directors and board committees (Page 66)
+- Roles and responsibilities of directors.
+- Legal framework governing board committees.
+
+### STUDY UNIT 11: Company auditors (Page 77)
+- Role and duties of company auditors.
+- Legal requirements under **Companies Act**.
+
+### STUDY UNIT 12: The company secretary (Page 82)
+- Duties and responsibilities of the company secretary.
+- Importance of compliance and record-keeping.
+
+### STUDY UNIT 13: Remedies and enforcement (Page 85)
+- Types of remedies available in corporate law.
+- Enforcement of rights and obligations.
+
+### STUDY UNIT 14: Trusts (Page 90)
+- Definition and classification of trusts (inter vivos, testamentary).
+- Legal implications and fiduciary duties.
+
+### STUDY UNIT 15: Partnerships (Page 98)
+- Nature and characteristics of partnerships.
+- Legal framework governing partnerships.
+
+### STUDY UNIT 16: Close corporations (Page 110)
+- Definition and characteristics of close corporations.
+- Legal requirements and implications for members.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## IMPORTANT SECTIONS OF LEGISLATION:
+
+### COMPANIES ACT 71 OF 2008:
+
+- **Section 1** – Definitions
+- **Section 4** – Solvency and liquidity test
+- **Section 7** – Purposes of the Companies Act
+- **Section 8** – Categories of companies
+- **Section 13** – Right to incorporate a company
+- **Section 14** – Registration of a company
+- **Section 15** – Memorandum of Incorporation, shareholder agreements, and rules of company
+- **Section 16** – Amending Memorandum of Incorporation
+- **Section 19(1)** – Legal status of companies
+- **Section 19(3)** – Personal liability companies
+- **Section 19(4) & 19(5)** – Abolishing the doctrine of constructive notice and exceptions
+- **Section 20** – Validity of company actions
+- **Section 20(7)** – Statutory Turquand rule
+- **Section 20(9)** – Abuse of juristic personality
+- **Section 21** – Pre-incorporation contracts
+- **Section 38** – Issuing shares
+- **Section 44** – Financial assistance for subscription of securities
+- **Section 46** – Distributions must be authorized by the board
+- **Section 48** – Acquisition of company's own shares
+- **Section 57** – Expanded definition of “shareholder”
+- **Section 58** – Shareholder right to be represented by proxy
+- **Section 60** – Shareholders acting other than at meeting
+- **Section 61** – Shareholders’ meetings
+- **Section 62** – Notice of meetings
+- **Section 64** – Meeting quorum and adjournment
+- **Section 65** – Shareholder resolutions
+- **Section 66** – Consent to serve as a director required for appointment
+- **Section 67** – First director or directors
+- **Section 69** – Ineligibility and disqualification of persons to be director
+- **Section 71** – Removal of directors
+- **Section 76** – Standards of directors’ conduct
+- **Section 76(4)** – Business judgment rule
+- **Section 77** – Liability of directors and prescribed officers
+- **Section 65** – Abuse of separate juristic personality of a corporation
+
+### COMMON LAW FEATURES:
+- Applicability of common law in agency and representation discussions.
+- Common law duties of directors remain applicable.
+- Piercing the corporate veil is a common law concept.
+- Common law alternatives for pre-incorporation contracts still applicable.
+- Common law Turquand rule is preserved.
+- Common law actions enforceable by shareholders; derivative action abolished.
+
+### CLOSE CORPORATIONS ACT 69 OF 1984:
+
+- Introduction: Companies Act 71 of 2008 (effective 1 May 2011) replaces Companies Act 61 of 1973, barring Chapter 14.
+- Common law principles continue to develop alongside Companies Act.
+
+### IMPORTANT SECTIONS OF CLOSE CORPORATIONS ACT:
+- **Section 78** – Indemnification and directors’ insurance
+- **Section 90** – Appointment of auditor
+- **Section 91** – Resignation of auditors and vacancies
+- **Section 92** – Rotation of auditors
+- **Section 93** – Rights and restricted functions of auditors
+- **Section 94** – Audit committees
+- **Section 158** – Remedies to promote the purpose of the Act
+- **Section 160** – Application to protect rights of securities holders
+- **Section 161** – Application to declare director delinquent or under probation
+- **Section 162** – Relief from oppressive or prejudicial conduct
+- **Section 163** – Dissenting shareholders’ appraisal rights
+- **Section 164** – Derivative actions
+- **Section 165** – Alternative dispute resolution
+- **Section 166** – Non-profit companies and conversion of close corporations to companies
+
+---
+
+## STUDY UNIT 1: The Impact of the Constitution and Globalisation on Entrepreneurial Law
+
+### Introduction
+- Business operations reflect constitutional and African values, particularly the concept of **ubuntu**.
+- Law adapts to community needs through transformative constitutionalism, integrating values in corporate governance.
+
+### Key Questions:
+- Definition and significance of **ubuntu** and transformative constitutionalism.
+- Role of constitutional principles in South African business law.
+- Stakeholders impacted by corporate behavior and corporate social responsibility (**CSR**).
+- Benefits of CSR to companies and its recognition in the Companies Act.
+- Appointment and functions of the Social and Ethics Committee.
+- Understanding globalisation and its relevance to the corporate sector.
+- Audi alteram partem rule.
+
+### Important Terms:
+- **Africanisation** – Adaptation to African values and realities.
+- **Constitutional values/principles** – Human rights based on democratic values.
+- **Corporate social responsibility (CSR)** – Business approach for sustainable development.
+- **Globalisation** – Integration of nations through goods, services, and capital flow.
+- **Locus standi** – Right to appear in court.
+- **OECD** – Group of countries discussing economic policies.
+
+### Key Concepts:
+- Enforcing principles of ubuntu in law.
+- Restructuring common law to serve community interests.
+- Legislative impact on business forms in South Africa.
+----- END OF FILE -----
+# MRL2601/1
+
+## Transformative Constitutionalism
+- Long-term project involving constitutional enactment, interpretation, and enforcement.
+- Aims to transform political, legal, social institutions, and power relations democratically.
+
+## Ubuntu
+- Based on African idiom "Motho ke motho kabatho" (I am because you are).
+- Emphasizes community and sound relationships, allowing opposing views and interests.
+- Advocates for a horizontal decision-making structure (not top-down).
+- Impacts juridical concepts; recognized in **S v Makwanyane 1995 (6) BCLR 665 (CC)**.
+- Harms JA in **Pharmaceutical Society of South Africa v Tshabalala-Msimang 2005 3 SA 238 (SCA)** defines ubuntu as mutual respect.
+- Associated with treating people with dignity in **Koyabe v Minister for Home Affairs 2010 4 SA 327 (CC)**.
+
+## Africanisation of Business Values
+- **King Reports (2002 & 2016)** introduce African business values, notably ubuntu, emphasizing human service.
+- In **South African Broadcasting Corporation Ltd v Mpofu [2009] 4 All SA 169 (GSJ)**, the court highlighted corporate governance importance, particularly in state-owned entities guided by section 195 of the Constitution.
+
+## Corporate Governance and Ubuntu
+- Directors must promote ethical standards, integrity, and leadership consistent with ubuntu.
+- **Dikoko v Mokhatla 2006 (6) SA 235 (CC)** cites ubuntu’s foundation in social reconciliation.
+- Ubuntu merges individual rights with community values, shaping corporate decision-making.
+
+## Natural Justice Principle
+- **Audi alteram partem rule**: Each party must be heard before a decision is made, reflected in ubuntu.
+- Fairness in relationships mandates compassionate listening and the right to voice interests.
+
+## Values of Ubuntu in Business
+- Compassion, social justice, harmony, connectedness, integrity, transparency, due process.
+
+## Constitutional Principles/Values
+- **Section 8(2)**: Bill of Rights binds natural/juristic persons where applicable.
+- Courts may develop the common law to uphold Bill of Rights' values per **Section 36(1)**.
+
+### Examples of Ubuntu in Business Law
+- Company names must respect dignity (non-offensive).
+- Directors’ decisions must promote social cohesion, ensuring inclusivity (referred in **Mpofu**).
+- Companies Act promotes compliance with the Bill of Rights; underscores human dignity and rights ( **Section 7(a)**).
+- Directors are accountable for community and environmental impacts (Companies Act).
+- Removal of directors requires adherence to procedural fairness ( **Section 71**).
+- Protection for minority shareholders emphasizes fairness.
+- Collective decision-making mirrors ubuntu's principles.
+- Informal dispute resolution aligns with traditional practices.
+- Contracts, including shareholders agreements, should honor humaneness and fairness.
+- Disclosure principles enhance transparency.
+- Consequences for misconduct reflect ubuntu justice.
+
+## Legislative Context
+- **Broad-based Black Economic Empowerment Act 53 of 2003** aims to address racial ownership disparities.
+- **Protected Disclosures Act 26 of 2000** provides whistleblower protections.
+- Companies Act facilitates stakeholder rights in business rescues ( **Section 7(k)**).
+
+## Constitutional Interpretation and Development of Common Law
+- Constitutional values guide legislative interpretation; courts prefer broader protective constructions.
+- **Section 39** mandates common law development in light of Bill of Rights principles.
+- Courts adapt common law reflecting contemporary community needs.
+- **Everfresh Market Virginia (Pty) Ltd v Shoprite Checkers (Pty) Ltd 2012 (1) SA 256 (CC)** illustrates the requirement for good faith in contracts amidst traditional legal structures.
+
+--- 
+
+**Note**: The above notes condense the content while preserving critical legal principles, cases, and context.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## 1. Legal Precedents and Common Law Development
+
+- **Solutions t/a Orlando Service Station v Engen Petroleum Ltd & another 2016 (1) SA 621 (CC)**:
+  - Pre-democratic legal precedents can guide current law; age does not justify change.
+  - Common law must align with **section 39(2)** objectives; courts must assess necessary developments.
+  - Example of common law development in case law: companies possess constitutional rights akin to natural persons:
+    - **Right to Equality** - *Manong & Associates (Pty) Ltd v City Manager, City of Cape Town & another*
+    - **Right to Reputation** - *Dhlomo v Natal Newspapers (Pty) Ltd*
+    - **Right to Privacy** - *Financial Mail (Pty) Ltd v Sage Holdings Ltd*
+    - **Right to Identity** - *University of Pretoria v Tommie Meyer Films*
+
+## 2. Corporate Social Responsibility (CSR)
+
+### 2.1 Definition and Purpose
+- **Corporate Governance**: Regulates corporate conduct for stakeholder balance; ensures efficiency and profitability.
+- **CSR**: Integration of economic, social, environmental imperatives into company activities, addressing diverse stakeholder expectations.
+
+### 2.2 Stakeholders
+- Stakeholders include shareholders, employees, communities, governments, regulatory bodies, suppliers, customers, NGOs, and the public.
+
+### 2.3 Arguments Regarding CSR
+#### 2.3.1 Against CSR
+- Critics claim no direct link between CSR and competitive advantage; argue businesses should focus on profit, leaving social issues to the State.
+
+#### 2.3.2 In Favor of CSR
+- Benefits include:
+  - Sustainable value generation through stakeholder relationships.
+  - Preferential procurement and government support (e.g., BBEE).
+  - Enhanced reputation, potentially leading to increased business opportunities.
+  - Attraction and retention of quality workforce leading to better performance.
+
+### 2.4 CSR Reflection in the Companies Act
+- The Companies Act reflects CSR through:
+  - Recognition of social and ethical concerns in corporate law reforms.
+  - Promotion of economic and social benefits (section 7(d)).
+  - Non-profit companies for social activities (section 1).
+  - Extended locus standi for stakeholders to enforce provisions (section 165).
+  - Appointment of a Social and Ethics Committee required for certain companies (section 72).
+
+## 3. Globalisation
+
+### 3.1 Definition and Characteristics
+- **Globalisation**: Integration of nations through goods, services, information, and capital flows.
+- Characteristics include increased globalisation, electronic communication, social and ethical sensitivities, evolving markets, and heightened competition.
+
+### 3.2 Legal Responses to Globalisation
+- **Companies Act** Objectives:
+  - Enhance economic welfare globally (section 7(e)).
+  - Consideration of foreign law for interpretation (section 5(2)).
+- Influences of common law principles and statutes from jurisdictions like the USA and UK present (e.g., appraisal remedy - section 164).
+- Regulations for electronic communication and proxy appointments point to increased sensitivity to globalisation.
+
+## 4. Entrepreneurial Law and the South African Legal System
+
+### 4.1 Key Legislation
+- Main legislation includes:
+  - **Companies Act 71 of 2008**
+  - **Close Corporations Act 69 of 1984**
+  - **Trust Property Control Act 57 of 1988**
+- Important related legislation affects companies:
+  - **Insolvency Act 24 of 1936**
+  - **Income Tax Act 58 of 1962**
+  - **Labour Relations Act 66 of 1995**
+  - **Broad-Based Black Economic Empowerment Act 53 of 2003**
+  - Constitutional requirement for compliance with Bill of Rights within company law. 
+
+### 4.2 Conclusion
+- The evolving legal framework is necessary to support corporate development in alignment with constitutional mandates and international trends.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## 2.7 Reflection
+- Influence of **Africanisation**, **transformative constitutionalism**, and **globalisation** on South African business law.
+- Major constitutional impact on business law principles.
+- Courts must consider constitutional values in legislative interpretation and common law development.
+
+### 1. Introduction
+#### Important Terms
+- **Legal Personality**: Juristic personality recognized by law, holding rights and liabilities.
+- **Incorporation**: Formation of a company via registration with the Companies and Intellectual Property Commission.
+- **Lifting/Piercing the Corporate Veil**: Process to disregard a company's separate personality to hold individuals liable.
+
+#### Company Benefits
+- Legal personality allows limitation of liability of company participants.
+- **Companies Act**: Section 8(3) - No association can claim legal personality without registration as a company.
+- Legal personality acquired by:
+  1. Companies Act registration.
+  2. Registration under other legislation.
+  3. **Conduct** - excluded by Companies Act.
+
+### 2. Legal Personality of Companies
+- **Salomon v Salomon & Co Ltd**: Established separate legal personality implications:
+  - Company is assessed separate from shareholders.
+  - Company debts are not shareholder debts.
+  - Shares grant interest but not proprietary rights in assets.
+  - Only appointed representatives can act on behalf of the company.
+  - **Ahmadiyya Ishaati-Islam Lahore (South Africa) v Muslim Judicial Council (Cape)** confirms company must seek redress.
+  - Companies bear rights/duties under the Constitution.
+
+- **Ngcwase v Terblanche**: Corporation as a statutory juristic entity without physical existence.
+
+- **Dhlomo v Natal Newspapers**: Juristic persons hold reputation rights.
+
+- **Financial Mail (Pty) Ltd v Sage Holdings Ltd**: Companies have rights to privacy and identity.
+
+- **Manong & Associates (Pty) Ltd v City Manager, City of Cape Town**: Corporations possess rights as natural persons, including equality.
+
+- Company personality ceases upon dissolution and deregistration.
+
+### 3. Legal Personality of Branches and Divisions
+- Divisions/branches do not have separate legal identities unless registered.
+- **ABSA Bank Ltd v Blignaut and another** clarifies divisions are part of the company.
+
+### 4. Trusts and Partnerships
+- Trusts recognized as juristic persons per the Companies Act for limited liability, but not fully acknowledged as separate legal entities.
+- Partnerships generally lack legal personality benefits; only occasionally seen as separate from members.
+
+### 5. Disregarding Separate Juristic Personality
+#### Introduction
+- Exclusion from liability is not absolute; circumstances allow piercing corporate veil.
+- Methods:
+  - **Common Law**: Piercing the corporate veil.
+  - **Statutory Provisions**: 
+    - **Companies Act**: Section 20(9).
+    - **Close Corporations Act**: Section 65.
+----- END OF FILE -----
+# Chapter 3 of the Companies Act: Types of Company
+
+## 1. Introduction
+
+- A company acquires legal personality upon incorporation, which allows it to hold rights/duties separate from members.
+- The principle of separate personality can be lifted in specific instances to prevent abuse.
+
+## 2. Profit Companies
+
+### Important Terms
+
+- **Domesticated Company**: Foreign company registered in South Africa.
+- **External Company**: Foreign company operating in South Africa.
+- **Non-Profit Company**: Incorporated for public benefit, not for profit.
+- **Profit Company**: Incorporated for shareholders' financial gain.
+- **Public Company**: 
+  - Issues shares to the public.
+  - Can be listed on the JSE.
+  - Must have minimum three directors, hold AGMs, and appoint auditor and secretary.
+- **Private Company**: 
+  - Restricts share issuance and transferability within its Memorandum of Incorporation.
+- **Personal Liability Company**:
+  - Directors and past directors liable for company debts.
+  - Mainly for professional associations.
+  - Requires statement in Memorandum of Incorporation.
+  
+### Key Points
+
+- **Public Company (Ltd)**: 
+  - Shares can be publicly offered and traded.
+  - Required directors and compliance obligations (AGMs, audits).
+  
+- **State-owned Company (SOC Ltd)**:
+  - Registered under the Companies Act, with majority provisions of public companies applicable, unless exempted.
+  - Examples include Airports Company South Africa (ACSA).
+
+- **Personal Liability Company**: 
+  - Critically used by professions (e.g., attorneys).
+  - Directors liable for debts "contracted" during tenure (as per **Fundtrust (Pty) Ltd v Van Deventer**).
+
+### Legislation and Case Law
+
+- **Companies Act, section 19(3)**: Limits directors’ liability to contractual debts, excluding delictual/statutory responsibilities.
+- **Case Reference**: **Dadoo Ltd v Krugersdorp Municipal Council**, recognized distinct legal persons and necessity to lift corporate veil in fraudulent instances.
+- **Cape Pacific v Lubner** and **Botha v Van Niekerk**: Established tests and guidelines for piercing corporate veil based on abuse or unjust enrichment.
+
+### Reflection and Learning Outcomes
+
+- Understand types of companies under Companies Act and responsibilities.
+- Identify when legal personality may be disregarded.
+- Be aware of the implications of separate legal identity upon company insolvency or misconduct.
+
+--- 
+
+This structured summary preserves key points from the original text while providing a dense overview suitable for legal study notes.
+----- END OF FILE -----
+**MRL2601/1**  
+**Page 27**  
+
+**W Prescribed Study Material**  
+- Textbook: Chapter 2, par 2.2  
+- Textbook: Chapter 2, par 2.3 and 2.4  
+
+### Types of Companies
+
+#### Private Company (“(Pty) Ltd”)
+- Prohibits public securities offering; transferability restrictions apply.  
+- Unlimited shareholders (previously limited to 50 under Companies Act 1973).  
+- Section 8(2)(b) of the Companies Act mandates the incorporation restrictions.  
+- Can be formed by one person, requiring at least one director.  
+
+#### Non-Profit Companies (“NPC”)
+- Formed for social, public benefit, cultural activities; not profit-driven.  
+- Minimum formation of three persons as directors.  
+- Directors prohibited from financial gain, except remuneration.  
+- Income/property non-distributable; upon liquidation, assets must transfer to similar-purpose entities.  
+
+#### External and Domesticated Companies
+- External company: a foreign entity operating in South Africa; must maintain an office in the Republic.  
+- Registration as an external company due within 20 days of conducting business (form CoR 20.1).  
+- Activities that do not constitute “conducting business” listed in section 23(2A) of the Companies Act.  
+- Foreign companies can transfer registration to South Africa, gaining the same status as domesticated companies.  
+
+### Reflection
+- Familiarization with company types under the Companies Act: profit (public, private, personal liability, state-owned) vs. non-profit.  
+- Distinct features: private companies restrict share issuance; public companies may list shares.  
+- Registration through the Commission required for all companies, including foreign entities.  
+- Ability to identify company types and advise on formation requirements.  
+
+**MRL2601/1**  
+**Page 29**  
+
+### Key Questions
+- Required documents for company registration with the Commission?  
+- Flexibility of the Memorandum of Incorporation?  
+- Possible inclusions in the Memorandum of Incorporation?  
+- Legal status of the Memorandum of Incorporation and board rules?  
+- Impact of ring-fencing on third-party dealings?  
+- Procedure for altering/amending the Memorandum of Incorporation?  
+
+**W Prescribed Study Material**  
+- Textbook: Chapter 1, par 2  
+- Companies Act: sections 7, 8, and 13  
+
+---
+
+### 1. Introduction
+- Companies recognized as separate legal entities post-registration; includes registration of name and potential pre-incorporation contracts.  
+
+### Important Terms
+- **Memorandum of Incorporation**: Sole registration document for a company.  
+- **Notice of Incorporation**: Document filed to indicate intention to register.  
+- **Alterable Provisions**: Provisions that can be amended in the Memorandum.  
+- **Unalterable Provisions**: Provisions that cannot be changed in substance.  
+- **Registration Certificate**: Issued when registration requirements are met.  
+- **Company Rules**: Adopted by directors, possessing legal status similar to the Memorandum.  
+
+**STUDY UNIT 4: Registration of Companies**  
+
+**Page 31**  
+- Registration requires Notice of Incorporation and Memorandum submitted to Commission, with payment of fees.  
+- Section 7(b) of the Companies Act aims to foster economic development via flexibility, simplicity, transparency, and efficiency in company formation.  
+
+### 2. Procedure for the Incorporation of Companies
+- Documents lodged with Commission for registration (CIPC) define “lodge” as delivering to the Commission.  
+- Notice of Incorporation (form CoR 14.1) includes:  
+  - Company type  
+  - Incorporation date  
+  - Financial year-end  
+  - Registered address  
+  - Number of directors  
+  - Company name details (registration number, reserved name).  
+- Memorandum of Incorporation outlines rights, duties, and responsibilities, amendable over time.  
+- Profit companies can be formed by one or more persons; non-profit requires at least three.  
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## 31 Prescribed Study Material
+
+- **Textbook: Chapter 2 Par 3**
+  - **Companies Act**: Sections **6(8)**, **13(4)**, **14**, and **66(2)**
+    - **Section 66(2)**: Private companies require at least 1 director; non-profit companies require a minimum of 3 directors, plus additional if audit/social and ethics committee needed.
+    - If a director is disqualified, reducing director count below minimum leads to rejection of Notice of Incorporation.
+    - Registration certificate's date establishes the company's legal personality.
+
+## 32 Memorandum of Incorporation and the Role of the Commission
+
+- **Textbook: Chapter 2 Par 4**
+  - **Companies Regulations 2011**: Standard-form examples (CoR 15.1A-E) for Memorandum of Incorporation are optional.
+  - **Role of the Commission**:
+    - Accepts or rejects Notice of Incorporation post-filing.
+    - **Reasons for rejection** include:
+      - Incomplete or improperly completed forms (Section 13(4)(a)).
+      - Initial director count below prescribed minimum (Section 13(4)(b)).
+  - Registration governed by **Section 14**: Commission assigns unique number, enters info in Companies Register, issues registration certificate upon compliance.
+
+## 33 Memorandum of Incorporation Content
+
+- **Textbook: Chapter 2 Par 4.1**
+  - **Contents**:
+    - Details of incorporators, number of directors, alternate directors, share capital, content of the Memorandum.
+- **Alterable vs. Unalterable Provisions**:
+  - **Alterable (Section 6(8))**:
+    - Legal powers analogous to individuals, unless restricted by Memorandum.
+    - Compliance with extended accountability (Chapter 3) allowed.
+    - Same rights for shares unless stipulated otherwise.
+  - **Unalterable**:
+    - Cannot alter provisions regarding directors’ duties and public accountability (Section 15(1)(a) and (b)).
+
+## 34 Governance and Board Rules
+
+- **Textbook: Chapter 2 Par 5**
+  - Board allowed to make/amend/repeal rules;
+  - Rules must conform to the Act and Memorandum (**Section 15(4)(a)**).
+  - **Rule effectiveness**: Requires publication and filing (Section 15(3));
+    - Binding until ratified by shareholders at the next meeting.
+
+## 35 Binding Nature of Memorandum and Rules
+
+- **Textbook: Chapter 2 Par 4.6**
+  - Memorandum and rules binding between:
+    - Company and shareholders,
+    - Shareholders amongst themselves,
+    - Company and directors/officers.
+  - Changes in Memorandum replace existing ones.
+
+## 36 Amending the Memorandum of Incorporation
+
+- **Textbook: Chapter 2 Par 7**
+  - Amendments allowed unless prohibited (Section 15(2)(c)).
+  - Amendment methods:
+    - Court order,
+    - Board resolution (Sections 36(3) and (4)),
+    - Special resolution by board/shareholders (Section 60).
+  - **Documentation**: Form CoR 15.2, special resolution necessary if required.
+
+## 37 Alteration and Translations
+
+- **Textbook: Chapter 2 Par 8-9**
+  - **Alteration**: Minor corrections (form CoR 15.3).
+  - **Translations**: Must file in any official language, including sworn translator's statement (form CoR 15.4).
+
+## 38 Consolidation and Authenticity 
+
+- **Textbook: Chapter 2 Par 10-11**
+  - Companies may file consolidated revisions of the Memorandum, which should include all changes, with required forms (CoR 15.5).
+  - Latest filed version prevails in case of conflicts.
+
+## 39 Shareholders' Agreements and Anti-avoidance
+
+- **Textbook: Chapter 2 Par 12-13**
+  - Agreements must be consistent with the Companies Act and Memorandum.
+  - Section 6 allows for voiding of agreements aimed at defeating provisions of the Act.
+
+## 40 Substantial Compliance
+
+- **Textbook: Chapter 2 Par 14**
+  - Validity of company conduct hinges on substantial compliance with document content, except strict adherence to notice periods required by the Act. 
+
+---
+
+*Reflection*: Understanding the incorporation procedure under the Companies Act is vital for advising potential company founders on registration requirements, the significance of the Memorandum of Incorporation, and governance structure. Only one constitutive document is needed, promoting efficiency in company establishment.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## TABLE OF CONTENTS
+1. Introduction 
+2. Common law methods of concluding pre-incorporation contracts 
+   - 2.1 Cession and delegation 
+   - 2.2 Nomination 
+   - 2.3 Option 
+   - 2.4 Contract for the benefit of a third party (stipulatio alteri) 
+3. Statutory method of conclusion of a pre-incorporation contract (section 21) 
+4. Registration of company names 
+   - 4.1 Reservation process 
+
+---
+
+## 1. Introduction
+- **Common law vs. Companies Act** 
+  - Common law restricts agency for non-existent entities.
+  - **Section 21 of the Companies Act** permits pre-incorporation contracts.
+
+## 2. Common law methods of concluding pre-incorporation contracts
+- **General Principle**: Agents cannot act for principals that do not exist.
+
+### 2.1 Cession and delegation
+- **Definitions**: 
+  - **Cession**: Transfer of rights.
+  - **Delegation**: Transfer of duties.
+- **Process**: Contract in the individual's name; rights transferred to the company post-incorporation.
+- **Risk**: Requires consent from all parties for delegation; residual liabilities may remain with the original party.
+
+### 2.2 Nomination
+- **Process**: Includes a term for nominating the company upon incorporation.
+- **Risk**: Company might decline the nomination or inability to fulfill obligations.
+
+### 2.3 Option
+- **Process**: An offer remains open for a specified time; can be ceded to the company post-incorporation.
+- **Liability**: Original party remains liable unless specified otherwise in the option agreement.
+
+### 2.4 Contract for the benefit of a third party (stipulatio alteri)
+- **Process**: Contract includes provisions benefiting the future company.
+- **Risk**: Company may not materialize or accept benefits, original party liable only if specified.
+
+## 3. Statutory method of conclusion of a pre-incorporation contract (section 21)
+- **Advantages of Common Law**: Avoids automatic personal liability for promoters if company fails to incorporate or ratify the contract.
+- **Definition (Companies Act, Section 1)**: Pre-incorporation contract is a written agreement made before incorporation with intent for the proposed company to be bound.
+- **Binding Conditions under Section 21**:
+  - Contract must be in writing and executed by/for a future company.
+  - Must be ratified or unopposed by the board within three months post-incorporation.
+- **Liability**: Joint and several liabilities arise if:
+  - Company not incorporated or contract rejected.
+
+## 4. Registration of company names
+- **Importance**: Name provides corporate identity and influences public perception.
+
+### 4.1 Reservation process
+- **Procedure**: Complete form CoR 9.1 and pay filing fee.
+- **Criteria for Acceptance**:
+  - Protects public from misleading names.
+  - Safeguards interests of intellectual property owners.
+  - Prevents harmful expressions.
+- **Restrictions**:
+  - Names cannot be identical or confusingly similar to existing registered entities or trademarks. 
+
+--- 
+
+**Legislation References**: Companies Act Sections 1, 21, 11.
+**Key Concepts**: Pre-incorporation contracts, cession, delegation, nomination, stipulatio alteri, Companies Act compliance.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Prescribed Study Material
+- **Companies Act**:
+  - Section 12 and 160
+  - Section 11(3)
+
+## Prescribed Case Law
+- **Peregrine Group (Pty) Ltd & others v Peregrine Holdings Ltd & others** 2001 (3) SA 1268 (SCA)
+
+### Key Points
+- Company names must not:
+  - Mislead public regarding government association.
+  - Include propaganda for war or incitement of violence, hatred, or harm.
+- Name reservation:
+  - No provision for shortened/translated names.
+  - Foreign name reservations require certified translations.
+- **Consumer Protection Act 68 of 2008**: Business names must be registered with the Commission.
+- If a proposed name is similar to an existing business, the Commission may notify affected parties.
+- Any interested party can contest the company name to the Companies Tribunal.
+
+### Effect of Name Reservation
+- Valid for six months; extensions available via **form CoR 9.2**.
+- Name can be reserved for new or existing companies.
+- Reserved names can be transferred via **form CoR 11.1**.
+- Name disputes can be taken to Companies Tribunal or Human Rights Commission under **section 160**.
+
+### Change of Name
+- Name conflicting with another may allow interim use of registration number.
+- Companies must amend registration if their names are deemed undesirable.
+- **In Peregrine case**: Requiring name change due to confusion among similar names; consideration of existing business associations and registration dates.
+
+### Use of Name and Registration Number
+- Companies must disclose full name/registration number upon request (section 32).
+- Mis-representation is prohibited; registered names must be used consistently.
+- Interim names must be used until a company’s official name is amended.
+
+## Study Unit 7: Capacity and Representation of a Company
+
+### 1. Introduction
+- Company capacity determines legal actions.
+- Representation involves acting on behalf of the company.
+
+### 2. Capacity of a Company
+- **Important Terms**:
+  - **Estoppel**: Prevents denial of representation truth if requirements are met.
+  - **Turquand Rule**: Outsiders can assume internal compliance.
+  - **Ultra Vires Doctrine**: Company acts outside its powers are not binding.
+
+### 3. The Ultra Vires Doctrine
+- Acts beyond a company's capacity ("ultra vires") aren't legally binding (e.g., catering company buying yacht).
+- Company exists for its incorporation purpose, binding acts intra vires.
+- **Section 19(1)**: A company is a separate legal entity and enjoys perpetual existence.
+- **Section 19(1)(b)**: A company holds legal capacity like a natural person, not limited by its stated objectives.
+- Contracts conflicting with memoranda restrictions remain valid (section 20(1)(a)).
+- Shareholders have recourse for ultra vires acts. **Section 20(6)**: Shareholders can claim damages from those causing inconsistent actions.
+
+### 4. Representation
+- Authority to represent can be explicit or implied.
+- Authority determination is factual.
+----- END OF FILE -----
+# MRL2601/1 Study Notes 
+
+## Prescribed Study Material 
+- **Textbook**: Chapter 2 pars 4.2–4.3, Chapter 5, par 2
+- **Companies Act**: section 19(5) and (6)
+
+---
+
+## Section 15(2)(b) of the Companies Act
+- Company may include restrictions in Memorandum of Incorporation regarding capacity.
+- Requirements for third parties:
+  - Restriction must exist in the Memorandum of Incorporation.
+  - Amendment prohibition must be included.
+  - Company name must end with “RF” to alert third parties.
+  - Notice of Incorporation must indicate special conditions.
+
+## Authority of Agents 
+- **Actual Authority**: Binds company in acts within given mandate.
+  - Sources:
+    - Memorandum of Incorporation
+    - Rules
+    - Express mandate
+- **Ostensible Authority (Estoppel)**: Company liable if third party misled into believing the agent had authority.
+
+---
+
+## Doctrine of Constructive Notice
+- Third parties are deemed aware of public documents (partly abolished by Companies Act).
+- **Exceptions**:
+  1. Knowledge of company's Memorandum of Incorporation provisions (section 15(2)(b) must be evident).
+  2. Personal liability company provisions (section 19(3): directors are jointly liable).
+
+---
+
+## The Turquand Rule 
+### 6.1 Common Law Rule
+- Originates from **Royal British Bank v Turquand**.
+- Outsiders can assume internal formalities have been complied with; binding unless aware of non-compliance.
+- **Application**: Requires actual authority subject to internal requirement.
+
+### 6.2 Statutory Turquand Rule (Section 20(7) of the Companies Act)
+- Persons in good faith presume company complies with formal requirements unless they knew about non-compliance.
+- Does not replace common law principles; both rules apply.
+
+---
+
+## Doctrine of Estoppel
+- Only applicable when agent lacks actual authority.
+- Conditions:
+  - Misrepresentation by the company.
+  - Inducement to third party.
+  - Resulting prejudice.
+  
+- **Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd**: Estoppel applies if the company allowed an unauthorized person to act on its behalf.
+
+---
+
+## Capacity to Conclude Contracts
+- Companies can enter ultra vires contracts per section 19 of the Companies Act.
+- Valid transactions remain unless third party knows of capacity limitations (applicable to RF and personal liability companies).
+- Shareholder ratification and court intervention possible for unauthorized transactions.
+
+---
+
+## Application of Legal Principles
+1. **Turquand Rule**: 
+   - Mr. Buckley (a director) acts under authority with bounds on general meeting approval.
+   - Third party assumption, affected by knowledge of requirements, determines liability.
+   
+2. **Estoppel Application**: 
+   - Example with Mike contracting beyond authority but creating reliance through past acts.
+   - Company is liable due to representation made by allowing Mike's actions.
+
+---
+
+## Reflection 
+- Companies have separate legal personality; only authorized individuals can represent them.
+- Authority can be express or inferred through estoppel.
+- Constructive notice doctrine limits to specific types of companies; third parties protect against contract invalidity under the Turquand rule, acting in good faith. 
+
+--- 
+
+## Key Legislation and Cases
+- **Companies Act**: sections 15(2)(b), 19(3), 19(4), 20(7)
+- **Case Law**:
+  - **Royal British Bank v Turquand**
+  - **Wolpert v Uitzigt Properties (Pty) Ltd**
+  - **Tuckers Land and Development Corporation (Pty) Ltd v Perpellief**
+  - **Freeman & Lockyer v Buckhurst Park Properties (Mangal) Ltd** 
+
+--- 
+
+(Note: Diagram references for visual aids may be included in the textbook material but are not detailed in this summary.)
+----- END OF FILE -----
+# MRL2601/1 - Corporate Finance Study Notes
+
+## Table of Contents
+
+1. Introduction
+2. The Definition of a Share
+3. Classes of Shares
+   - Preference Shares
+   - Ordinary Shares
+   - Deferred Shares
+4. Issue of Shares
+
+---
+
+### 1. Introduction
+- **Separate Legal Personality**: Company distinct from shareholders; owns assets and liabilities.
+- **Financing Methods**: 
+  - **Equity Financing**: Issuing shares for cash (share capital).
+  - **Debt Financing**: Loans/debt securities (debentures).
+- **Return on Investment**:
+  - **Shareholders**: Dividends; residual interests upon winding-up.
+  - **Creditors**: Interest and repayment of principal.
+- Focus on shares and debentures issuance procedures and distributions.
+
+### 2. The Definition of a Share
+- **Legal Definition (Companies Act, §1)**: Share as a unit of proprietary interest in a profit company.
+- **Characteristics**:
+  - Movable and transferable property, without nominal value.
+  - Contributes to company's share capital.
+- **Memorandum of Incorporation**: Authorizes share classes and numbers; Board may adjust authorized capital.
+- **Case Reference**: *Standard Bank of SA Ltd v Ocean Commodities Inc* - Rights attached to shares include voting, dividends, and residual assets.
+
+### 3. Classes of Shares
+- Shares categorized by rights conferred: 
+  - Voting rights
+  - Information rights
+  - Dividend entitlements
+  - Asset claims on winding-up
+
+#### 3.1 Preference Shares
+- **Description**: Holders receive preferential treatment for dividends and capital upon winding-up.
+- **Voting Rights**: Often limited; however, Companies Act grants voting rights for preferences amendments.
+- **Types**:
+  - *Cumulative*: Rights carried over if dividends are not declared.
+  - *Participating*: May receive additional dividends after preference dividends.
+  - *Preferential Right to Capital*: Right to repayment of invested capital upon winding-up.
+  - *Convertible*: Convertible to another class of shares post-maturity.
+
+#### 3.2 Ordinary Shares
+- **Description**: Represent equity; dividends fluctuate based on company profits.
+- **Rights**: 
+  - Receive dividends after preference shareholders.
+  - Right to vote, though Companies Act allows curtailment.
+  
+#### 3.3 Deferred Shares
+- **Description**: Issue to founders; dividends paid only after ordinary shareholders, and exceeding specific thresholds.
+
+### 4. Issue of Shares
+- **Board Authority**: Can issue shares within the limits of the Memorandum of Incorporation.
+- **Special Resolution Required**: 
+  - Issuance to current/future directors or prescribed officers.
+  - Issuance to related parties or nominees, exceeding 30% voting power.
+- **Exempt from Special Resolution**: 
+  - Underwriting agreements
+  - Pre-emptive rights exercise
+  - Proportional shareholding offers
+  - Employee share schemes
+  - Public offers
+- **Restriction**: A company may not issue shares to itself.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Prescribed Study Material
+- **Textbook:** Chapter 3 par 1.4
+  - **Legislation:** Companies Act: sections 39 and 40
+- **Textbook:** Chapter 3 par 4
+  - **Legislation:** Companies Act: section 43
+- **Prescribed Case Law:**
+  - Coetzee v Rand Sporting Club 1918 WLD 74
+
+---
+
+## 5. Right of Pre-emption or Pro Rata Offer
+- **Section 39, Companies Act:**
+  - Right of pre-emption for private and personal liability company shareholders.
+  - Shareholders offered new shares proportionate to voting power prior to external offers.
+  - Memorandum of Incorporation may limit or negate this right.
+  - Purpose: Prevent dilution of ownership, ensuring control for current shareholders.
+
+---
+
+## 6. Debentures
+- **Definition:** A debenture represents a company's acknowledgment of debt to debenture holders (creditors).
+- **Types of Duties:**
+  - Duties can be secured (via trustee) or unsecured.
+- **Board Authority:** May issue debentures without shareholder approval unless otherwise specified.
+
+---
+
+## 7. Company Distributions
+- **Section 46, Companies Act:**
+  - Defines distributions including dividends, purchases of shares, etc.
+- **Requirements:**
+  - Authorization by the board.
+  - Solvency and liquidity must be satisfied post-distribution.
+  - Acknowledgment of tests required within 120 days post-test.
+- **Distinctions:**
+  - Shareholders: Rights to profits, net assets upon liquidation, duties under Memorandum of Incorporation.
+  - Debenture Holders: Creditors entitled to repayment, conditions specified in **Coetzee v Rand Sporting Club**.
+
+---
+
+## 8. Company or Subsidiary Acquisition of a Company’s Shares
+- **Section 48, Companies Act:**
+  - Acquisition of own shares requires board resolution.
+- **Special Resolution:** Needed for related party transactions or acquiring >5% of any class shares.
+- **Considerations:**
+  - Share acquisitions treated as distributions; compliance with **section 46** is required.
+- **Liability:** Directors may face personal liability if requirements are not met.
+- **Court Consideration:** Required if compliance is impossible post-agreement.
+
+---
+
+## 9. Financial Assistance for the Purchase of Securities
+- **Section 44, Companies Act:**
+  - Permits financial assistance for share acquisition under certain conditions.
+- **Authority:** Board can decide assistance, consistent with Memorandum of Incorporation and rules.
+- **Tests for Compliance:**
+  - **Impoverishment Test:** Evaluates if company is left financially worse off.
+  - Assistance must be directly tied to share acquisition.
+- **Essential Cases:**
+  - **Lipschitz v UDC Bank Ltd**: Important for understanding financial assistance implications.
+  - **Gradwell (Pty) Ltd v Rostra Printers Ltd**: Provides guidelines on impoverishment tests.
+
+---
+
+## Reflection
+- Importance of capital maintenance for creditor protection is critical.
+- Distinguish between types of shares and debentures regarding rights and regulations.
+
+---
+
+## Key Questions for Understanding
+- How are meetings convened?
+- Quorum requirements under the Companies Act?
+- Valid notice requirements under section 62?
+- Definition and implication of proxy representation?
+- Differences between ordinary and special resolutions?
+- Circumstances for passing resolutions without formal meetings?
+- Mandatory matters at the annual general meeting?
+- Protocol for meeting postponement or adjournment?
+
+---
+
+## Study Unit 9: Corporate Governance: Shareholders
+
+### 1. Introduction
+- Share classes with varying rights affect decision-making.
+  
+### 2. Meaning of “Shareholder”
+- **Important Terms:**
+  - **Proxy:** Representative for shareholder.
+  - **Majority Rule:** Majority vote prevails.
+  - **Ordinary Resolution:** Requires >50% support.
+  - **Special Resolution:** Requires >75% support.
+  - **Quorum:** Minimum presence required for meetings.
+  - **Unanimous Assent:** All shareholders agree on a resolution.
+  
+- **Definitions:** 
+  - Shareholder defined in Companies Act section 1; distinct from “member” in non-profit context.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Page 61
+
+### Chapter 2 of the Companies Act: Governance of Companies
+
+#### 3. Notice of Meetings
+- **Section 62 Requirements:**
+  - Written notice specifies date, time, place, and general purpose.
+  - Statement on shareholders' right to appoint proxies.
+  - Identification proof required from participants.
+  - Accompanied by proposed resolutions; minimum of 10 days’ notice (15 days for public/non-profit companies).
+  - Material defects in notice require unanimous approval by present voters to ratify defects.
+  - Electronic participation must be indicated in notice; costs borne by shareholders.
+
+#### 4. Representation by Proxy
+- Shareholders may appoint anyone (including non-shareholders) as proxies.
+- **Proxy Requirements:**
+  - Written and signed by the shareholder.
+  - Valid for one year; can specify time period or multiple persons.
+  - Proxy may delegate authority; copy to company before meeting.
+  - Revocation possible by written cancellation.
+
+#### 5. Demand to Convene a Shareholders’ Meeting
+- Meetings can be called by the board or authorized persons.
+- Required if mandated by Companies Act, Memorandum of Incorporation, or demanded by 10% voting shareholders.
+
+#### 6. Shareholders Acting Other Than at a Meeting
+- **Unanimous Assent Principle:**
+  - Valid decisions without meetings if all members are aware and agree; no written confirmation necessary.
+  - **Key Cases:**
+    - **Gohlke and Schneider v Westies Minerals (Pty) Ltd**: Valid appointment of directors without meeting.
+    - **In re Duomatic Ltd**: Unanimous approval of remuneration treated as valid resolution.
+- **Section 60:**
+  - Resolutions may be adopted in writing by the required majority without meeting, except for annual general meeting (AGM) business.
+
+#### 7. Annual General Meeting (AGM)
+- Statutory obligation for public companies; voluntary for others.
+
+#### 8. Convening a Meeting in Special Circumstances
+- Section 61(11): Authorize alternative person if no active directors.
+- Section 61(12): Court application possible for unheld meetings under specified circumstances.
+
+#### 9. Quorum
+- **Section 64:**
+  - Required attendance of 25% voting rights or minimum of three shareholders (if more than two).
+  - Postponement if quorum not met within an hour; deemed quorum present at adjourned meeting.
+
+#### 10. Conduct of Meetings
+- Majority rule for resolutions; only votes exercised count.
+- **Key Case:**
+  - **Sammel v President Brand Gold Mining Co Ltd**: Minority shareholders bound by decisions of the majority.
+
+#### 11. Exercise of Voting Rights
+- **Section 57 Scenarios:**
+  1. Single shareholder: fully exercises voting rights; no formalities.
+  2. Single director: exercises board powers anytime unless restricted.
+  3. All shareholders/directors: decisions by unanimous agreement without formalities.
+
+#### 12. Shareholder Resolutions
+- **Section 65(7) & (9):**
+  - Ordinary resolution: >50% votes; Special resolution: ≥75% votes.
+  - Memorandum of Incorporation may adjust required percentages (minimum 10% difference).
+
+#### 13. Decisions Requiring Special Resolution
+- Mandatory for:
+  - Amending Memorandum of Incorporation.
+  - Approving voluntary winding-up.
+  - Fundamental transactions.
+
+#### 14. Postponement and Adjournment of Meetings
+- Postponement if quorum not met in one hour; one-week extension without new notice unless venue changes.
+- Shareholders may adjourn meetings at any time, ensuring follow-up within 120 business days.
+
+## References to Legislation and Cases
+- **Companies Act Sections:** 57, 58, 60-65.
+- **Key Cases:** 
+  - **Gohlke and Schneider v Westies Minerals (Pty) Ltd**.
+  - **In re Duomatic Ltd**.
+  - **Sammel v President Brand Gold Mining Co Ltd**. 
+
+### Study Tips
+- Focus on the requirements and implications of each section of the Companies Act.
+- Understand the significance of each case in the context of corporate governance.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## 1. Introduction 
+- Introduces the **board of directors** as a primary organ alongside **general meeting of shareholders**.
+- Functions of shareholders defined by the **Companies Act** and **Memorandum of Incorporation**.
+
+## 2. Meaning of the word “director”
+- **Director**: Member of the board and includes alternate directors.
+- Conditions for directorship:
+  - Written consent to serve
+  - Appointment or election per **section 66** of the **Companies Act**.
+
+### Important terms
+- **Ex officio director**: Holds office via another title.
+- **Alternate director**: Substitutes an elected director.
+- **Executive director**: Engages in daily management, typically an employee.
+- **Independent director**: Not related to the company.
+- **Non-executive director**: Does not engage in day-to-day management.
+- **Ineligible**: Prohibited from becoming a director entirely.
+- **Disqualified**: Prohibited unless court permission is obtained.
+- **Board of directors**: Responsible for managing the business and affairs of a company.
+- **Codification**: Systematic compilation of law.
+- **Business judgment rule**: Protection for directors who act in good faith and rationally believe decisions are in the company's best interest.
+
+## 2.1 Types of director
+- **King IV** differentiates:
+  - **Executive**
+  - **Non-executive**
+  - **Independent**
+- **Howard v Herrigel**: Courts find the executive/non-executive classification misleading task-wise.
+
+### Companies Act Recognitions
+- Types of directors per law:
+  - **Ex officio director**
+  - **Memorandum of Incorporation-appointed director**
+  - **Alternate director**
+  - **Elected director**
+  - **Temporary director**
+
+### Classifications and election rules
+- Minimum 50% of directors must be elected by shareholders for profit companies.
+- Ex officio directors appointed per Memorandum provisions.
+
+## 3. Number of directors and consent
+- Minimum numbers as per **Companies Act**:
+  - **Private company**: 1
+  - **Personal liability company**: 1
+  - **Public company**: 3
+  - **Non-profit company**: 3
+
+### Conditions for Directorship
+- Appointment via **Companies Act** or **Memorandum of Incorporation**.
+- Written consent required for directorship.
+
+## 4. Directors: The Companies Act and a company’s Memorandum of Incorporation
+- Provisions in the **Companies Act** can be modified unless classified as unalterable.
+- **Public companies**: Can stipulate more than minimum required directors.
+- Shareholder rights in electing **alternate directors** (minimum 50%).
+- Memorandum may outline director remuneration and term of office.
+
+## 5. Ineligible and disqualified persons
+- Specific criteria per the **Companies Act** determine who may not serve as a director.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## **Investigating Director Eligibility and Disqualification**
+
+### **1. Ineligible and Disqualified Directors**
+- **Ineligible Directors**: 
+  - Absolutely prohibited from appointment.
+  - Juristic persons.
+  - Unemancipated minors/legal disabilities.
+  - Ineligibility per Memorandum of Incorporation.
+
+- **Disqualified Directors**:
+  - Not absolutely barred; court discretion exists.
+  - Includes:
+    - Declared delinquent.
+    - Unrehabilitated insolvent.
+    - Prohibited by public regulation.
+    - Removed for misconduct/dishonesty.
+    - Convicted of fraud/dishonesty.
+    - Disqualified per Memorandum of Incorporation.
+  
+**Legislation**: Companies Act, Section 162.
+
+### **2. Delinquency and Probation**
+- **Delinquency**:
+  - Order can be requested by various stakeholders (companies, shareholders, etc.).
+  - Grounds include:
+    - Serving while disqualified.
+    - Gross abuse of director position.
+    - Harm due to gross negligence/misconduct.
+
+- **Probation**:
+  - Similar applicants as above.
+  - Additional grounds include:
+    - Involvement in questionable decisions affecting solvency.
+    - Actions oppressive to shareholders/directors.
+
+**Legislation**: Companies Act, Sections 162.
+
+### **3. Application to Suspend/Set Aside Delinquency**
+- Suspension only pertains to non-lifetime orders.
+- Following two years of suspension, may request to set aside.
+
+## **Director Appointment and Board Composition**
+
+### **4. First Directors of a Company**
+- Incorporators deemed directors until appointed.
+- Meeting required within 40 business days to appoint sufficient directors.
+
+### **5. Board Vacancies**
+- Arise from resignation, death, inability to perform duties.
+- Resignation effective upon communication (case: *Rosebank Television & Appliance Co v Orbit Sales*).
+- Must be filled per Companies Act guidelines.
+
+**Legislation**: Companies Act, Sections 71.
+
+## **Director Removal and Committees**
+
+### **6. Removal of Directors**
+- Removed by shareholders/board via ordinary resolution.
+- Must receive notice and opportunity to represent before vote.
+- Court review possible within 20 business days post-removal.
+
+### **7. Board Committees**
+- Board may appoint committees unless stated otherwise in Memorandum of Incorporation.
+- Delegation does not absolve directors from overall duty.
+- Mandatory committees for public/state companies (e.g., audit committee).
+
+**Legislation**: Companies Act, Sections 66, 94.
+
+## **Directorial Duties and Responsibilities**
+
+### **8. Statutory and Common Law Duties**
+- **Sources of Duties**:
+  - Employment contracts.
+  - Company’s constitution.
+  - Companies Act.
+  - Common law (fiduciary duties).
+
+- **Partially Codified Duties**:
+  - New statutory provisions complement common law, maintaining relevance of past case law.
+
+### **9. Prohibition on Abuse of Position**
+- Directors must not use position to gain personal advantage (Companies Act, Section 76).
+- Disclosure required for personal financial interests (Section 75).
+
+**Key Cases**:
+- *Regal Hastings Ltd v Gulliver*
+- *Robinson v Randfontein Estate Gold Mining Co Ltd*
+- *CyberScene Ltd v i-Kiosk Internet and Information (Pty) Ltd*
+- *Ghersi and others v Timber Developments*
+
+## **Conclusion**
+- Directors operate under a blend of statutory provisions and common law principles.
+- Significant emphasis on the integrity, responsibility, and oversight of directors is mandated within company law frameworks.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## 1. Prescribed Study Material
+### 1.1 Textbook: Chapter 7
+- **6.2.4.1**: Cases
+  - **Philotex (Pty) Ltd v Snyman and others; Braitex (Pty) Ltd v Snyman and others** 1998 (2) SA 138 (SCA)
+- **6.2.4.2**: Companies Act
+  - Section **76(4)**
+
+### 1.2 Case Law
+- **Fisheries Development Corporation of SA v Jorgenson** 1980 (4) SA 156 (W)
+
+## 2. Acting in Good Faith, Care, Skill, and Diligence
+- **Fiduciary Duties**:
+  - Duty to act in good faith and in the best interests of the company.
+  - Duty to act for a **proper purpose**; misuse of powers (e.g., share dilution for control).
+- **Care and Skill**:
+  - Objective test with subjective elements based on director's expertise.
+  - Case reference: **Philotex** - skills expected vary by director’s background.
+
+## 3. Business Judgment Rule
+- Section **76(4)** of Companies Act:
+  - Director considered acting in best interests if:
+    - Reasonable steps to become informed are taken.
+    - No personal financial interest present or disclosed.
+    - Decision made believed to be in best interests of the company.
+- Reliance on information from specified persons permitted.
+- Court relief from liability for honest and reasonable actions.
+
+## 4. Liability of Directors and Prescribed Officers
+- Directors liable for losses due to:
+  - Actions without authority, fraud, contravention of Companies Act or Memorandum of Incorporation.
+  - Liability determined by common law principles related to fiduciary duty and delict.
+- Joint and several liability with others.
+- Potential court relief for honest actions, excluding wilful misconduct.
+
+## 5. Indemnification and Director's Insurance
+- Indemnification limitations:
+  - No indemnity for breaches of fiduciary duties.
+  - Indemnity insurance cannot cover negligence or trust breaches.
+- Permitted indemnity for other liabilities and protection of the company against litigation costs.
+
+## 6. Company Ownership and Control
+- Ownership by shareholders, control resting with directors.
+- Concept of separate legal personality:
+  - Company owns assets and is liable, not shareholders.
+
+## 7. Company Auditors
+### 7.1 Importance of Financial Disclosure
+- Protects interests of stakeholders (shareholders, investors, creditors).
+- Reliable financials crucial for attracting capital investments.
+
+### 7.2 Registered Office and Records
+- Accounting records must be kept accessible at registered office.
+- Annual financial statements include:
+  - Balance sheet
+  - Income statement
+  - Cash flow statement
+  - Directors' report
+  - Auditor's report
+
+### 7.3 Regulatory Framework
+- Governed by Companies Act and **Auditing Profession Act 26 of 2005**.
+- Financial disclosures vary by company type—minimum requirements for all, stricter for public companies.
+
+### 7.4 Audit Requirements
+- Public companies must audit annual financial statements (Section **30(2)**).
+- **Public Interest Score (PIS)** determines reporting duties:
+  - Calculated by employees, liabilities, turnover, beneficial interests.
+  
+### 7.5 Auditor Responsibilities
+- Section **44** of Auditing Profession Act:
+  - Examination of financial statements and adherence to standards.
+  - Auditors opine on truth and fairness of financial statements.
+
+## 8. Key Legislation
+- **Companies Act**: Sections 24 - 30
+- **Auditing Profession Act 26 of 2005**
+
+## 9. Conclusion
+- Compliance with financial disclosure and auditing standards is essential for company integrity and stakeholder protection.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Prescribed Study Material
+- **Textbook:** Chapter 9, Paragraph 2.2.1
+- **Legislation:** 
+  - Companies Act: Sections 34, 84, 85, 90–91
+  - Auditing Profession Act: Section 37
+
+## 1. Overview of Auditing Requirements
+- Independent review required for companies with score < 100 if not owner-managed.
+- Owner-managed companies (< 100) not requiring professional assistance.
+- Definition of "Owner-managed": All shareholders are directors or at least one trustee is a director.
+- Companies with score 100-350 (not owner-managed) need:
+  - Audit if reports internally compiled.
+  - Independent review if externally compiled.
+- Owner-managed companies (100-350): 
+  - No intervention if reports externally compiled.
+  - Audit required if reports internally compiled.
+- Companies scoring > 350 must have an audit, regardless of ownership.
+- Companies may voluntarily choose to undergo audits.
+
+## 2. Appointment of an Auditor
+- Public, state-owned, and specific private companies required to appoint an auditor yearly at AGM (Companies Act: Sections 34, 84, 85, 90, 91).
+- Other companies may follow less extensive requirements unless stated otherwise in Memorandum of Incorporation (Section 34).
+
+### Notification of Appointment
+- **Section 85**: Companies must notify the Registrar of auditor appointments within ten business days.
+- First auditor's appointment must be filed as part of the Notice of Incorporation.
+- Auditor may be an individual or firm; appointed via contract.
+- Audit committee (Section 94(7)) must nominate a registered, independent auditor and set fees.
+
+### Auditor Registration Requirements
+- **Auditing Profession Act (Section 37)**: 
+  - Must meet education, training, competency standards.
+  - Must be a fit and proper person, residing in South Africa.
+  - Disqualified if found guilty of misconduct, dishonesty, or declared unsound by court (Section 37(3)).
+
+### Disqualifications (Section 90(2))
+- Disqualifications include:
+  - Directors, prescribed officers, and long-term employees involved in financial record maintenance or preparation.
+  - Related persons to the above.
+
+## 3. Resignation and Vacancies
+- Auditor may resign at any time; resignation effective upon notice filing.
+- New auditor must be appointed within 40 business days of resignation.
+- Board must propose a new auditor to audit committee within 15 business days; committee has 5 business days to reject the proposal.
+
+## 4. Rotation of Auditors
+- **Section 92**: Same individual may serve as auditor for max five consecutive financial years.
+- Joint auditors must manage rotation to avoid simultaneous cessation.
+- Auditor ceases service cannot return for at least two financial years.
+
+## 5. Rights and Restricted Functions of Auditors
+- **Section 93**: Auditors have rights to access company records and may attend general meetings.
+- **Section 44(6) Auditing Profession Act**: Auditors cannot audit entities where they have a conflict of interest as defined by IRBA.
+
+## 6. Audit Committees
+- **Section 94**: 
+  - Public companies and certain enterprises must appoint an audit committee annually.
+  - Committee must have at least three non-executive directors with no prior management involvement.
+  
+### Functions of the Audit Committee
+- Nominate appointed registered independent auditor.
+- Determine auditor’s fees and terms.
+- Ensure compliance with Companies Act and other legislation.
+- Pre-approve agreements for non-audit services.
+- Prepare annual reports on function performance and auditor independence.
+- Address complaints related to accounting practices and audit.
+- Advise the board on accounting policies and governance.
+
+## 7. Company Secretary
+### Mandatory Appointment
+- Must be knowledgeable about relevant laws.
+- Required for public or state-owned companies; voluntary for others.
+
+### Appointment Process
+- First appointed by incorporators or within 40 days by directors/shareholders (Section 86(3)).
+- Fill vacancy within 60 days with required knowledge and experience.
+
+### Disqualifications
+- Must not be disqualified under **Section 69(8)** from serving as a director.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Prescribed Study Material
+- **Textbook**: Chapter 9, par 2.1.2  
+- **Legislation**: Companies Act, sections 33(3), 88, 89(1)
+
+## 1. Qualifications for Company Directors
+- Prohibited from directorship if:
+  - Declared delinquent by court.
+  - Unrehabilitated insolvent.
+  - Prohibited by public regulation.
+  - Removed from a trust position due to dishonesty.
+  - Convicted of serious offences (theft, fraud, etc.), as governed under relevant sections.
+
+## 2. Duties of the Company Secretary
+- Must provide guidance to directors on responsibilities and powers.
+- Keep directors informed on relevant laws.
+- Report compliance failures to the board.
+- Maintain accurate minutes of meetings (shareholders, board, committees).
+- Certify annual financial statements regarding compliance with Companies Act.
+- Ensure distribution of annual financial statements as required.
+- Act as the compliance officer as per section 33(3).
+
+## 3. Resignation or Removal of Company Secretary
+- **Section 89(1)**: Requires one month written notice for resignation.
+- Upon removal, the secretary can request a statement in annual financials regarding circumstances of removal.
+
+## 4. Registration of Company Secretaries and Auditors
+- **Section 85**: Companies must file notices for appointments or terminations of secretaries/auditors within ten business days.
+- Notice of the first company secretary can be included in the Notice of Incorporation.
+
+## 5. Enforcement and Compliance
+- **Reflection**: Importance of knowledge on company law developments.
+- Regulatory frameworks for auditors governed by the Auditing Profession Act. Registration required for secretaries and auditors.
+
+## 6. Remedies Against Directors
+### 6.1 Legal Remedies
+- **Delinquency or Probation**: Applications under **section 162** of the Companies Act.
+- **Derivative Action**: Governed by **section 165**, allows shareholders to sue on behalf of the company.
+
+### 6.2 Specifics of Derivative Action
+- Action must be preceded by a demand to the company to act.
+- Valid demand can be made by:
+  - Shareholder or prospective shareholder.
+  - Director or prescribed officer.
+  - Registered trade union or employee representative.
+  - Court-allowed individuals.
+
+## 7. Important Legal Concepts
+- **Derivative Action**: For director misconduct, serving as a mechanism for shareholders.
+- **Personal Action**: Individual claims for personal grievances.
+- **Alternative Dispute Resolution (ADR)**: Mechanisms such as mediation and arbitration to resolve disputes outside courts.
+
+## 8. Key Sections of the Companies Act
+- **Section 162**: Grounds for declaring a director delinquent or under probation.
+- **Section 165**: Framework for derivative actions by shareholders.
+
+Understanding these principles helps navigate the complexities of company law, the roles of officers, and shareholder rights. Keep current with legislative changes for effective compliance and governance.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Prescribed Study Material
+- **Chapter 12 Par 4.3**
+  - **Companies Act**: Section 163
+- **Chapter 12 Pars 6.1–6.4**
+  - **Companies Act**: Section 164
+
+## 2.2.1 Personal Derivative Action
+- Court application allowed within 15 days of demand receipt.
+- Company requirements:
+  - Investigate if demand is substantial.
+  - Report must be submitted to the board within the timeframe allotted by the court.
+- Options for demand maker if company fails to act:
+  - Court application for leave to proceed if:
+    - Company appointed non-independent investigator.
+    - Report deemed inadequate.
+    - Company acted contrary to reasonable findings.
+    - Refusal notice was served.
+
+## 3 Remedies for Shareholders  
+### 3.1 Relief from Oppressive or Prejudicial Conduct (Section 163)
+- Shareholder/director may seek court intervention for oppressive conduct.
+- Potential court orders:
+  - Restraint from conduct.
+  - Liquidation appointment if insolvent.
+  - Business rescue proceedings initiation.
+  - Amendments to Memorandum or shareholders’ agreements.
+  - Share issuance/exchange.
+  - Director appointment/replacement.
+  - Order for repayment of shares.
+  - Transaction variation or setting aside.
+  - Financial statement production or compensation orders.
+  - Rectification of company records.
+  - Court determined trial order.
+
+### 3.2 Dissenting Shareholders’ Appraisal Rights (Section 164)
+- Right to demand fair buyout for shares post-triggering company actions.
+- Triggering actions include:
+  - Amendments harmful to shareholder rights.
+  - Asset disposal resolutions.
+  - Mergers/amalgamations.
+  - Scheme of arrangement considerations.
+- Procedure:
+  - Written objection pre-meeting.
+  - Notice of resolution must be sent within ten business days.
+  - Demand for fair value within 20 business days post-notice.
+  - Company’s offer within five business days after demand.
+  - Offer acceptance within 30 business days with payment within ten days.
+
+### 3.3 Application to Protect Securities Holders’ Rights (Section 161)
+- Right to file for declaratory orders regarding rights.
+- May seek orders for rights protection or rectification due to acts in contravention of the Act/Memorandum.
+
+## 4 Liability for Abuse of Separate Juristic Personality
+- Remedy involves lifting corporate veil.
+- Court may impose personal liability if juristic nature is abused.
+
+## 5 Alternative Remedies
+- Administration-based enforcement system under Companies Act.
+- Few remaining offenses (e.g., perjury, false financial statements).
+- **Companies and Intellectual Property Commission**:
+  - Monitors compliance, investigates complaints.
+  - Promotes alternative dispute resolution (ADR).
+  - Handles complaints from individuals and initiates its own.
+- **Companies Tribunal**:
+  - Forum for voluntary ADR and administrative decision reviews.
+  - Referrals for mediation, conciliation, or arbitration available.
+
+## Important Sections of Legislation
+### Trust Property Control Act 57 of 1988
+- **Section 6(1)**: Trustee authorization by Master of the High Court.
+- **Sections 9, 11, 16 & 17**: Duties of trustees.
+
+## 1 Introduction to Trusts
+- Trust as a flexible business entity; advantages over companies/ccs.
+- Trusts created by deed/document; not dependent on statutory forms.
+- Distinction: Trusts separate from founders, enduring until terminated.
+- Legal relationship defined by deed, managed by a trustee.
+- Types: Inter vivos and testamentary trusts.
+
+### Important Terms
+- **Trustee**: Person authorized under the Trust Property Control Act.
+- **Trust Instrument**: Written agreement establishing a trust.
+- **Trust Property**: Movable or immovable property managed by the trustee.
+- **Founder of Trust**: Individual establishing the trust (donor/settler).
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Prescribed Study Material
+
+- **Textbook**: Chapter 14, pars 3.1–3.2
+- **Prescribed Case Law**:
+  - **Land and Agricultural Bank of South Africa v Parker and others** 2005 (2) SA 77 (SCA)
+
+---
+
+## 3 Legal Nature of Trusts
+- Trust lacks separate existence; cannot contract in its name.
+- Exception for trusts under the **Companies Act**.
+- **Trust Beneficiary**: Individual designated in trust deed to receive benefits.
+- **Business Trust**: Carries on business activities.
+- **Bewind Trust**: Beneficiary owns the trust assets, trustee manages them.
+- **Nomine Officio**: Trustees hold trust assets in official capacity only.
+
+---
+
+## 4 Creation of a Trust
+- Trust created via a trust deed (contract or will).
+- Must be written and documented.
+
+## 5 Parties to a Trust
+### 5.1 Founder
+- Establishes trust, identifies beneficiaries, nominates trustee(s).
+
+### 5.2 Trustee
+- Administers trust assets; acts in official capacity only.
+- Court can appoint trustee if not nominated.
+
+### 5.3 Trust Beneficiary
+- Trust cannot exist without a beneficiary; court can validate or void trust if beneficiaries are unclear.
+
+---
+
+## 6 Regulation of Trusts
+- Regulated mainly by **Trust Property Control Act 57 of 1988** and trust deed.
+- Common law applies, with origins from English law (as per **Braun v Blann and Botha NNO**).
+
+---
+
+## 7 Types of Trust
+- **Ordinary Trust**: Control of property vested in trustee.
+- **Bewind Trust**: Ownership lies with beneficiaries, trustee manages assets.
+- **Categories**:
+  - **Testamentary Trusts**: Created upon founder's death.
+  - **Inter Vivos Trusts**: Created during founder’s lifetime for estate planning.
+  - **Business Trusts**: Public and private variations.
+  - **Statutory Trusts**: Created for specific statutory purposes.
+  - **Court Order Trusts**: Established by court.
+  - **Offshore Trusts**: Established outside jurisdiction.
+
+---
+
+## 8 Forming a Valid Trust
+- Must express intention in writing.
+- Trust must have lawful purpose; beneficiaries identifiable.
+- **Key Cases**:
+  - **Estate Price v Barker and Price**: Emphasizes necessity for obligation in will to create a trust.
+- Trust property must be well-defined; minimum requirements include one beneficiary and one trustee.
+
+---
+
+## 9 Authorisation of Trustees
+- Trustees require written authority from the Master under **Trust Property Control Act** §6(1).
+- Acts without Master authorization are void (refer to **Kropman v Nysschen**).
+- No ratification of contracts performed without authority is permitted (refer to **Sackville West v Nourse**).
+
+---
+
+## 10 Duties of Trustees
+- Trust formed for specific purposes; duties outlined in deed.
+- **Section 9(2)**: Exemption from liabilities void.
+- **Duties Include**:
+  - Duty of care, skill, and diligence.
+  - Maintain separate trust accounts.
+  - Protect trust property; diligent in collecting debts.
+  - Good faith in dealings; adhere to trust deed.
+- **Key Cases**:
+  - **Sackville West v Nourse**: Duty against undue risk.
+  - **Doyle v Board of Executors**: Good faith obligation.
+
+---
+
+## 11 Advantages and Disadvantages of Business Trusts
+- **Advantages**:
+  - Easy formation; limited liability.
+  - Flexibility; low legal regulation; continuity.
+- **Disadvantages**:
+  - Limited access to capital; potential for conflicts.
+  - Confusion with partnerships.
+- Trusts offer low-cost formation with minimal regulation, but carry risks of misclassification and require careful deed formulation and trustee selection. 
+
+--- 
+
+## Conclusion
+- Crux of trusts involves their legal nature, creation, regulation, types, validity, trustee duties, and implications of business trusts in law.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Chapter 14: Partnerships
+
+### 1. Introduction
+- Partnerships are one of the oldest business forms in South Africa.
+- Easy and inexpensive to form; characterized by flexibility.
+- Created via a partnership agreement, focused on profit generation.
+- No separate legal personality; partners must maintain good faith for business continuity.
+- Regulated primarily by common law; no specific Partnerships Act.
+
+### 2. Important Sections of Legislation
+- **Section 13(1)**: Sequestration of partnership estate dealt with separately from individual partners' estates.
+- **Section 8(3)**: Non-registered associations not recognized as legal persons for profit.
+- **Section 24H**: Partners are deemed participants in the partnership business, allowing legal actions in the partnership's name.
+- References: **Insolvency Act 24 of 1936, Companies Act 71 of 2008, Income Tax Act 58 of 1962, High Court and Magistrate Court Rules**.
+
+### 3. Important Terms
+- **Co-owners**: Partners sharing ownership of partnership assets.
+- **Joint Liability**: Shared responsibility for a debt/claim.
+- **Joint and Several Liability**: Group members individually or mutually liable for obligations.
+- **Partnership Agreement**: Contract outlining terms between partners.
+- **Universal Partnership**: All property shared; includes current and future assets/obligations.
+- **Particular Partnership**: Formed for a specific transaction.
+- **Anonymous Partnership**: Limited liability for undisclosed partners not involved in operations.
+- **Partnership en Commandite**: Limited liability up to fixed contribution amount, in exchange for a share of profits.
+
+### 4. Definition of a Partnership
+- Defined in **Pezzutto v Dreyer and others**: Legal relationship created by contract for mutual benefit and profit among partners making contributions.
+
+### 5. Types of Partnership
+#### 5.1 Universal and Particular Partnerships
+- **Universal Partnerships**: Non-restricted to specific transactions (e.g., societas universorum bonorum; societas universorum quae ex quastu veniunt).
+- **Particular Partnerships**: Specific project-focused (e.g., construction).
+
+#### 5.2 Ordinary and Extraordinary Partnerships
+- **Extraordinary Partnerships**: Limited liability for certain partners; includes:
+  - **Anonymous Partnership**: One partner operates publicly; undisclosed partners share risks.
+  - **Partnership en Commandite**: Liable only to the amount of their capital contribution.
+  - **Special Partnerships**: Registered under repealed legislation; limited liability hampered by partner involvement in transactions.
+
+### 6. Differences Between Partnerships and Companies
+- **Legal Personality**: Companies possess separate legal identity; partnerships do not.
+- **Formation**: Companies require incorporation under the Companies Act; partnerships can form by agreement.
+- **Objectives**: Partnerships primarily aim for profit; companies can be non-profit.
+
+### 7. Responsible Cases
+- **Pezzutto v Dreyer and others (1992)**: Establishes partnership definition.
+- **Bester v Van Niekerk (1960)**: Affirms conditions under which specific partnerships arise.
+
+---
+
+**Diagram References**: Relevant diagrams should be located at page 100 or referenced accordingly in applicable contexts.
+----- END OF FILE -----
+**MRL2601/1**  
+**Page 101**
+
+**W Prescribed study material**  
+**Textbook: chapter 15 pars 3 and 4.1–4.3**
+
+**Prescribed case law**  
+- **Joubert v Tarry and Co 1915 TPD 277**
+- **Ally v Dinath 1984 (2) SA 451 (T)**
+- **Harrington v Fester and others 1980 (4) SA 424 (C)**
+
+### 1. Company vs. Partnership
+
+- **Impact of membership change:** 
+  - Company: No effect on existence.
+  - Partnership: Leads to dissolution.
+
+- **Ownership of assets:** 
+  - Company: Owned by it; no member property rights.
+  - Partnership: Partners are joint co-owners.
+
+- **Profit entitlement:** 
+  - Company: Profits only via declared dividends.
+  - Partnership: Partners share net profits directly.
+
+- **Authority to bind:** 
+  - Partners bind the partnership (mutual mandate); shareholders do not bind the company.
+
+- **Membership requirements:** 
+  - Partnership: Minimum two partners; 
+  - Company: Some companies (e.g., private) can have one shareholder.
+
+- **Identity of members:** 
+  - Partnership: Partners.
+  - Company: Shareholders (profit) or members (non-profit).
+
+---
+
+### 5. Advantages and Disadvantages of Partnerships
+
+**Advantages:**
+- Ease of formation.
+- Diversification of partner skills/abilities.
+- Increased capital accumulation.
+- Minimal legal formalities.
+
+**Disadvantages:**
+- Personal liability for partners.
+- Difficulty in disposing of interests.
+- Potential for partner conflicts.
+- Lack of continuity (can be mitigated by agreement).
+
+---
+
+### 6. Essentialia of a Partnership
+
+- **Definition:** Elements necessary for a partnership agreement.
+  
+#### 6.1 Contribution by Partners
+- Economic input required from each partner (money, property, skills) exposed to business risks.
+
+#### 6.2 Joint Benefit
+- Partnerships must aim for mutual net profit sharing. Unequal profit shares are permissible.
+
+#### 6.3 Profit Motive
+- Refers to material gains (as per **Ally v Dinath**). Non-profit entities (e.g., sports clubs) aren't partnerships.
+
+#### 6.4 Valid Contract
+- Requires intention of forming a partnership (e.g., **Harrington v Fester**). Validity hinges on essentialia.
+
+##### 6.4.1 Other Legal Formalities
+- No formal partnership registration needed. Any agreement (written/oral/implied) is valid unless specific formalities are agreed upon.
+
+#### 6.5 Essentialia as an Aid
+- All essentialia must be present to form a valid partnership. Intent of partners is crucial (refer **Pezzutto v Dreyer**, **Purdon v Muller**).
+
+---
+
+### 7. Legal Nature of a Partnership
+
+- Partnerships lack separate legal personality; rights and obligations are those of individual partners.
+  
+#### 7.1 Insolvency
+- **Insolvency Act:** Section 13(1) mandates separate treatment of partnership and individual member estates (refer **Michalow NO v Premier Milling Co Ltd**).
+
+#### 7.2 Litigation
+- Partners generally must sue and be sued jointly. Partnerships may also engage in litigation under their business name (see **Uniform Rules of the High Court: Rule 14**, **Magistrates’ Courts Act: Rule 54**).
+
+---
+
+### 8. Relationships in Partnerships
+
+#### Important Terms
+- **Essentialia:** Key contract terms distinguishing contract types.
+- **Naturalia:** Implied terms by law.
+- **Incidentalia:** Terms agreed upon by parties.
+- **Actio pro socio:** General action enforcing partner compliance.
+- **Actio communi dividundo:** Right for partners to demand fair asset division.
+- **Fiduciary duty:** Duty to act in the best interest of the partnership.
+- **Joint liability:** Collective responsibility for debts.
+- **Joint and several liability:** Individual or mutual responsibility for debts.
+- **Ratification:** Acceptance of unauthorized actions, validating them retroactively.
+
+#### 8.1 Natural Consequences of Partnership Agreement (Naturalia)
+- Profit sharing: Generally proportional to contributions; losses shared similarly.
+- Representation: Each partner can represent the partnership.
+- No compensation for contributions unless altered by agreement.
+- Joint ownership of partnership assets.
+
+#### 8.2 Relationship Between Partners
+- Fiduciary relationship exists; utmost good faith required, per **Purdon v Muller**.
+- Broad categories of duties:
+  - Adherence to agreement.
+  - Promote partnership interests; avoid personal conflicts.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## 9 Representation in Partnerships
+- **Prescribed study material**: Textbook: chapter 15 pars 11.1–11.9
+- **Liability**: Each partner liable jointly and severally for partnership debts.
+  - Creditors cannot sue partners individually during partnership existence.
+  - Partners bind all others when acting within the scope of authority (Goodrickes v Hall).
+- **Authority to bind**:
+  - **Actual Authority**: Can be express or implied.
+    - Partners have implied authority for necessary acts in business conduct (mutual mandate).
+  - **Contract Validity**: 
+    - Binding if within scope of partnership; otherwise, not binding unless expressly authorized or ratified.
+
+## 10 Dissolution of Partnerships
+- **Nature of Partnerships**: No separate legal personality, reliant on partners; joint ownership of assets and liability for debts.
+- **Dissolution Methods**:
+  - Effluxion of term
+  - Completion of business
+  - Mutual agreement
+  - Change in membership (death, retirement, new partner)
+  - Insolvency/sequestration
+  - Notice of dissolution by a partner
+  - Legal order
+- **Court Orders**:
+  - Granted for good cause upon partner application.
+  - Breach of fiduciary duty may constitute good cause.
+- **Sequestration**:
+  - Leads to simultaneous but separate sequestration of personal estates.
+  - Private creditors cannot claim against the partnership estate.
+- **Post-Dissolution Consequences**:
+  - Account rendering necessary before claims.
+  - Creditors can sue partners jointly and severally for partnership debts post-dissolution (Lee and another v Maraisdrif).
+  - No implied authority post-termination; partners can demand accounts from co-partners.
+
+## Important Sections of Legislation
+### Close Corporations Act 69 of 1984
+- **Introductory Remarks**: New option for small enterprises, combines partnership and corporate features.
+- **Legal Personality**: Acquires upon incorporation, enjoys perpetual succession.
+  
+### Key Sections:
+- **Section 34(1)**: Procedure for insolvent member’s interest disposal.
+- **Section 36**: Court order for member’s interest disposal.
+- **Sections 38 & 39**: Acquisition of member’s interest by close corporation.
+- **Section 40**: Financial assistance in interest acquisition.
+- **Sections 42 & 50**: Fiduciary duties of members.
+- **Section 43**: Personal liability for negligence.
+- **Section 44**: Association agreements.
+- **Section 49**: Statutory personal action.
+- **Section 50**: Statutory derivative action.
+- **Section 51**: Payments to members.
+- **Section 52**: Prohibitions on loans/security provisions.
+- **Section 54**: Representation in close corporations.
+- **Section 56**: Liability for improper record-keeping.
+- **Section 58(2)**: Accounting requirements.
+- **Section 62**: Duties of accounting officers.
+- **Section 62A**: Applicability of Companies Act accountability provisions.
+----- END OF FILE -----
+# Study Notes: Close Corporations
+
+## 1. Prescribed Study Material
+- Textbook: Chapter 16
+  - Par 10.3: Close Corporations Act, Section 65
+  - Par 3.1: Close Corporations Act, Sections 28-30
+
+## 2. Transitional Arrangements and Close Corporations
+- Close Corporations Act 69 of 1984 regulates close corporations.
+- Companies Act provisions applicable (Schedule 3): 
+  - Name reservations
+  - Dissolution and deregistration
+  - Probation and delinquency orders
+
+## 3. Legal Personality and Piercing the Corporate Veil
+- **Legal Personality**: Juristic personality enabling rights and liabilities independent of members.
+- **Founding Statement (Form CK 1)**: Registration document.
+- **Perpetual Succession**: Entity independent from members; persists through membership changes.
+- Legal personality upon registration; piercing the veil may occur under legal circumstances referencing **Section 65** of the Close Corporations Act.
+
+## 4. The Number and Nature of Members
+- Limited to **ten members**.
+- Only **natural persons** permitted.
+- **Juristic persons** generally excluded from membership.
+- Conditions under which minors or people under legal disability may become members.
+
+### Section 63
+- Joint liability for failure related to:
+  - Using “CC” in the name
+  - Contributing agreed amounts
+  - Compliance with rules for financial assistance
+  - Auditor vacancy exceeding six months
+  - Managing while disqualified
+
+### Section 64
+- Liability for reckless and fraudulent trading.
+
+### Section 65
+- Gross abuse of legal personality of a close corporation.
+
+## 5. Formation of a Close Corporation and Members’ Interests
+- **Founding Statement**: Main document for registration; details required about the business and members.
+- Member's contribution: Monetary, goods, or services.
+
+## 5.1 Characteristics of a Member’s Interest
+- Expressed as a percentage of total 100%.
+- Not jointly held; akin to shares in a company.
+- Incorporeal, moveable thing representing a right to profits.
+
+## 6. Disposal of Member’s Interest
+- Changes in membership must comply with the association agreement or require consent from all members.
+- Economic value of member’s interest; procedures upon death or insolvency.
+
+### 6.1 Death of a Member
+- Interest can be bequeathed but requires consent for transfer.
+- Alternatives available if consent is denied, including sale to the corporation or other members.
+
+### 6.2 Insolvency of a Member
+- **Section 34(1)**: Procedure mandating balance of member and creditor rights.
+- Trustee may sell member’s interest under similar conditions as death.
+
+### 6.3 Attachment and Sale in Execution
+- **Section 34A**: Rules applicable post-judgment against a member regarding interest sale.
+
+## 7. Duties Members Owe to the Close Corporation
+- Duties: 
+  - **Fiduciary Duty**: Act in good faith, manage interests, avoid conflicts.
+  - **Duty of Care and Skill**: Liability contingent on measurable losses due to breaches.
+
+### 7.1 Fiduciary Duty
+- Must disclose material interests in transactions; failure leads to voidable contracts.
+- Breach can result in personal liability for losses incurred by corporation.
+
+### 7.1.1 Contracts Between Member and Close Corporation
+- Disclosure required; breach leads to voidable contracts.
+
+### 7.1.2 Personal Liability for Debts
+- Liability for debts incurred due to conflicts of interest must be disclosed to mitigate risk.
+
+### 7.2 Duty of Care and Skill
+- Liability for loss due to breach requires proof of negligence measured against standard conduct.
+
+### 7.3 Remedies in Case of Breach
+#### 7.3.1 Statutory Derivative Action
+- **Section 50**: Allows a member to act on behalf of the corporation for breaches, including fiduciary duties.
+
+#### 7.3.2 Cessation of Membership by Court Order
+- **Section 36**: Termination of membership based on inability to carry on business or detrimental conduct.
+- **Section 49**: Remedy for unfairly prejudicial actions; court may intervene for equitable resolutions.
+
+## Prescribed Case Law
+- **Gatenby v Gatenby**
+- **De Franca v Exhaust Pro CC** 
+
+*(Refer to respective sections for case law relevance and outcome effects.)* 
+
+- Claims for fairness must be substantiated in context of corporate conduct and individual rights within the close corporation framework.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Prescribed Study Material
+- Textbook: Chapter 16
+  - Par 3.6: **Close Corporations Act:** Sections 37–40
+  - Par 5.1–5.3: **Close Corporations Act:** Section 44 
+
+### 8. Acquisition of Member’s Interest by the Corporation
+- **Key Terms**
+  - **Solvency:** Assets > Liabilities
+  - **Liquidity:** Ability to pay debts as they arise
+
+- **Requirements for Acquisition:**
+  - At least one other member
+  - Aggregate members’ interest must total 100%
+  - Written consent from all members required before payment
+  - Corporation must be solvent and liquid before and after payment
+
+- Financial assistance for acquiring member’s interest also possible:
+  - Written consent from every member
+  - Corporation must be solvent and liquid before and after providing assistance
+
+### 9. Internal Relations and Association Agreements
+- **Key Terms**
+  - **Association Agreement:** Non-compulsory internal affairs arrangement
+  - **Internal Relationships:** Members inter se and with the corporation
+
+- **Association Agreements:**
+  - Not compulsory but advisable
+  - Can regulate members’ business carry-on, decision-making, and payments
+
+- **Regulatory Framework:**
+  - Must be written, signed by all members, and kept at registered business offices
+  - Not public documents; only accessible to members
+  - Cannot contravene the Close Corporations Act; clauses contrary to the Act are void
+   
+- **Prescribed Case Law:**
+  - J&K Timbers (Pty) Ltd v GL&S Furniture Enterprises CC 2005 (3) SA 223 (N)
+
+### 10. Representation of a Close Corporation
+- **Authority of Members:** 
+  - Each member can conclude contracts for the corporation with outsiders (as per **Section 54**).
+
+- **Doctrine of Constructive Notice:**
+  - Does not apply; members act as agents regardless of specified authority.
+
+- **Key Case:**
+  - J&K Timbers (Pty) Ltd v GL&S Furniture Enterprises CC: Members act as agents of the corporation unless third parties know of any lack of authority.
+
+### 11. Payments by Corporation to Members
+- **Rules on Payment (Section 51):**
+  - Payments to members require compliance with solvency and liquidity and written consent from all members.
+  
+- **Liability on Creditor Claims:**
+  - If payments are due to creditors, standard obligations apply independent of Section 51.
+
+### 12. Prohibition of Loans to and Security on Behalf of Members
+- Loans/security to members require written consent from all other members (Section 52).
+- Noncompliance renders loans/security invalid; consenting members assume liability.
+
+### 13. Accounting Officer, Records, and Financial Statements
+- **Financial Reporting Requirements:**
+  - Annual financial statements required.
+  - Appointment of an accounting officer instead of an auditor.
+  
+- **Accounting Officer Role:**
+  - Report irregularities to members; notify Registrar of significant changes (removal, inactivity, exceeding liabilities).
+  
+- **Record Approval:**
+  - Accounting records must be approved by members holding at least 51% interest; not submitted to Registrar.
+
+### 14. Circumstances When Members and Others Can be Liable for Corporation's Debts
+- A close corporation is a separate legal entity, but courts may “pierce the corporate veil” for liability under certain conditions (Sections 23, 26, 42, 43, 52, 64, and 65).
+- Liability arises from:
+  - Omission of "CC" in name (Section 63).
+  - Reckless trading harming creditors (Section 64), requiring proof of negative impact on creditor claims (L&P Plant Hire CC v Bosch).
+
+### 15. Advantages and Disadvantages Associated with Close Corporations
+- **Advantages:**
+  - Ease of formation
+  - Limited member liability
+  - Greater capital acquisition potential
+  - Continuity
+    
+- **Disadvantages:**
+  - No new close corporations under Companies Act
+  - Legislative principles from Companies Act apply
+  - Membership limited to ten; juristic persons cannot be members
+
+## Reflection
+- Close corporations emerged to provide a simplified enterprise form for small businesses, balancing legal personality with less complex management structures.
+
+## Conclusion
+- Overview of companies, trusts, partnerships, and close corporations with emphasis on legal implications, advantages, disadvantages, and regulatory measures.
+----- END OF FILE -----
+# MRL2601/1 Study Notes
+
+## Page 123
+
+### Chapter 1: Introduction to Legal Principles
+
+- **Legal Principles**
+  - Definition and scope of legal principles.
+  - Importance in common law systems.
+
+- **Sources of Law**
+  - Statutory law: Legislations (highlight specific Acts).
+  - Case law: Importance of judicial precedents (notable cases).
+
+### Page 125
+
+### Chapter 2: Fundamental Legal Concepts
+
+#### 2.1 Jurisprudence
+
+- **Key Theories**
+  - Natural Law: Ethical basis of law (examples).
+  - Positivism: Law as commands of the state (notable theorists).
+
+#### 2.2 Legal Rights and Duties
+
+- **Rights**
+  - Definition and classification: Absolute vs. relative rights.
+  
+- **Duties**
+  - Correlation between rights and duties. 
+
+### Chapter 3: Legal Processes
+
+#### 3.1 Court Structure
+
+- **Hierarchy of Courts**
+  - Overview of court system: trial courts, appellate courts, and supreme courts.
+  
+- **Roles of Courts**
+  - Functions such as dispute resolution and interpretation of laws.
+
+#### 3.2 Judicial Procedures
+
+- **Civil Procedure**
+  - Important steps: Pleadings, trial, judgment, appeal.
+  
+- **Criminal Procedure**
+  - Key stages: Arrest, arraignment, trial, sentencing.
+
+### Chapter 4: Legal Ethics
+
+- **Ethical Standards**
+  - Importance of ethics in legal practice (codes of conduct).
+  
+- **Professional Responsibility**
+  - Duties of lawyers: confidentiality, competence, and conflict of interest.
+
+### Chapter 5: Specific Areas of Law
+
+#### 5.1 Contract Law
+
+- **Elements of a Valid Contract**
+  - Offer, acceptance, consideration, legality, and capacity.
+
+#### 5.2 Tort Law
+
+- **Types of Torts**
+  - Intentional torts, negligence, and strict liability.
+  
+#### 5.3 Criminal Law
+
+- **Classification of Crimes**
+  - Felonies vs. misdemeanors.
+
+### Chapter 6: International Law
+
+- **Sources of International Law**
+  - Treaties, customs, and general principles.
+  
+- **Compliance and Enforcement**
+  - Challenges in enforcement of international law.
+
+#### Diagram References
+- **Hierarchy of Courts** (see diagram on page xx).
+- **Elements of a Contract** (refer to diagram on page yy). 
+
+---
+
+**Note**: For detailed legislative references, please consult respective statutes and significant case laws mentioned throughout the chapters.

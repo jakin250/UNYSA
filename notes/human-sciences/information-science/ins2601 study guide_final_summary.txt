@@ -1,0 +1,1664 @@
+# INS2601 Study Notes
+
+## Study unit 1: Orientation to the module INS2601
+- **1.1 Welcome**
+- **1.2 Structure of the unit**
+- **1.3 Purpose of the module**
+- **1.4 Module outcomes**
+- **1.5 Critical cross-field outcomes**
+- **1.6 Relationship with other modules**
+- **1.7 What you will be studying in this module**
+- **1.8 Structure of the module**
+- **1.9 Module content**
+- **1.10 How to use the study guide**
+  - **1.10.1 Preliminary reading and self-assessment**
+  - **1.10.2 Recommended reading**
+- **1.11 Planning your time**
+- **1.12 Use of key terms**
+- **1.13 Icons**
+- **1.14 Concluding remarks**
+
+## Study unit 2: Focus on the information user
+- **2.1 Welcome**
+- **2.2 Structure of the study unit**
+- **2.3 Purpose**
+- **2.4 Learning outcomes**
+- **2.5 Assessment criteria**
+- **2.6 Introduction**
+- **2.7 Theoretical frameworks**
+- **2.8 Information User Studies**
+  - Object of study
+  - Key issues
+- **2.11 General theoretical framework**
+  - **2.11.1 Reading/media utilisation event model**
+  - **2.11.2 Information usage model**
+- **2.12 Information usage behaviour**
+  - Motives for information usage
+  - Information seeking patterns
+  - Information utilisation and effects
+  - Contexts of information usage
+- **2.13 Wilson’s models of information user behaviour**
+  - **2.13.2 Wilson’s 1996 model**
+- **2.14 Application of Information User Studies in practice**
+- **2.15 Concluding remarks**
+
+## Study unit 3: Information user groups
+- **3.1 Welcome**
+- **3.2 Structure of the unit**
+- **3.3 Purpose**
+- **3.4 Learning outcomes**
+- **3.5 Assessment criteria**
+- **3.6 Introduction**
+- **3.7 Categories of information users**
+- **3.8 Social context of users**
+- **3.9 Occupational context**
+- **3.10 Managers & scientists in disciplines**
+  - **3.10.1 Managers**
+  - **3.10.2 - 3.10.5 Various scientists**
+- **3.11 Models for studying information users**
+  - **3.11.1 Paisley’s model**
+  - **3.11.2 Havelock’s model**
+  - **3.11.3 Blom’s task performance model**
+- **3.12 Dervin’s sense-making model**
+- **3.13 Concluding remarks**
+
+## Study unit 4: Contexts of information usage
+- **4.1 Welcome**
+- **4.2 Structure of the unit**
+- **4.3 Purpose**
+- **4.4 Learning outcomes**
+- **4.5 Assessment criteria**
+- **4.6 Introduction**
+- **4.7 Contextual factors influencing information usage**
+  - **4.7.1 Models of scientist usage behaviour**
+  - **4.7.2 General model of information seeking**
+- **4.8 - 4.10 Contexts**: social, personal, occupational
+- **4.11 Record and information context**
+  - Access to information
+  - Information barriers
+- **4.12 Concluding remarks**
+
+## Study unit 5: User needs and motivation
+- **5.1 Welcome**
+- **5.2 Structure of the unit**
+- **5.3 Purpose**
+- **5.4 Learning outcomes**
+- **5.5 Assessment criteria**
+- **5.6 Introduction**
+- **5.7 Definition of key concepts**
+- **5.8 Basic information needs and motives**
+  - Basic human needs
+  - Role of motives and interests
+- **5.9 Community and educational needs**
+- **5.10 Information needs in the work context**
+  - Conscious vs unconscious needs
+  - Types of information needs
+- **5.12 Information needs of academics and managers**
+  - Relevance in research and management
+- **5.13 Concluding remarks**
+
+## Study unit 6: Knowledge generation and information transfer
+- **6.1 Welcome**
+- **6.2 Structure of the unit**
+- **6.3 Purpose**
+- **6.4 Learning outcomes**
+- **6.5 Assessment criteria**
+- **6.6 Introduction**
+- **6.7 Data, knowledge, and information**
+  - Definitions and relationships
+- **6.8 Information and knowledge process**
+  - Knowledge generation
+  - Information verification and transfer
+- **6.9 Scholarly research and communication**
+- **6.10 Huberman’s dissemination models**
+- **6.11 Concluding remarks**
+
+## Study unit 7: Information usage
+- **7.1 Welcome**
+- **7.2 Structure of the unit**
+- **7.3 Purpose**
+- **7.4 Learning outcomes**
+- **7.5 Assessment criteria**
+- **7.6 Introduction**
+- **7.7 Stages in information usage**
+- **7.8 Patterns of media use and reading**
+- **7.9 Information-seeking patterns**
+  - Search for sources and use of technologies
+- **7.10 Information utilisation**
+  - Interpretation and reading processes
+- **7.11 Concluding remarks**
+
+## Study unit 8: Effects of information usage
+- **8.1 Welcome**
+- **8.2 Structure of the unit**
+- **8.3 Purpose**
+- **8.4 Learning outcomes**
+- **8.5 Assessment criteria**
+- **8.6 Introduction**
+- **8.7 Nature of effects**
+- **8.8 Approaches to study media effects**
+- **8.9 Record content effects**
+  - Cognitive and behavioral changes
+- **8.10 Media functions**
+  - Satisfaction of needs and displacement effects
+- **8.11 Effects of information utilisation**
+  - Different uses of information
+- **8.12 Effects of information and communication technology**
+- **8.13 Concluding remarks**
+
+## Glossary
+
+## Bibliography
+----- END OF CHUNK -----
+# INS2601/1
+
+## 1 STUDY UNIT 1
+### ORIENTATION TO THE MODULE INS2601
+
+#### 1.1 Welcome
+- Module: INS2601 – Exploring Information User Studies
+- Credits: 12
+- Engagement: Approx. 120 hours required
+
+#### 1.2 Structure of the study unit
+- Overview of module purpose
+- Relationship of Information User Studies to other Information Science modules
+- Content overview
+- Guide on using the study material
+
+#### 1.3 Purpose of the module
+- Acquire knowledge on:
+  - Information users
+  - Information needs
+  - User behavior
+- Focus: Reader and user study in occupational and social contexts
+
+#### 1.4 Module outcomes
+- **Specific outcome 1**: Develop typology of information users
+  - Distinction of user contexts
+  - Information needs indication
+  - Motives for information use
+  - Contextual factors impacting use
+  
+- **Specific outcome 2**: Knowledge of knowledge process roles
+  - Elements role description
+  - Models of information flow identification
+  - User pattern demonstration using models
+  
+- **Specific outcome 3**: Understanding barriers to information use
+  - Major barriers description
+  - Methods for promoting information use
+  - Assessment of ICT application effectiveness 
+  
+- **Specific outcome 4**: Interpretation/application conditions of information
+  - Identification of interpretation levels/modes
+  - Distinction in user preference
+  - Reflexive impact of information use in contexts
+
+#### 1.5 Critical cross-field outcomes
+- Problem-solving through creative thinking
+- Self-discipline in learning management
+- Information evaluation and organization
+- Effective communication skills
+- Responsible use of information technology
+
+#### 1.6 Relationship with other modules
+- INS2601 is one of five modules in User Studies:
+  - **AIS2603**: Focus on library users' needs and behaviors.
+  - **AIS2605**: Planning and management of information collections based on user knowledge.
+  - **AIS3703**: Development of user guidance services in a multicultural realm.
+  - **INS3036**: Application of information use by diverse user groups.
+
+#### 1.7 What you will be studying in this module
+- Study object and key issues in Information User Studies (Study Unit 2)
+- User groups in various contexts (Study Unit 3)
+- Individuals in personal and work contexts, models, and barriers (Study Unit 4)
+- Basic human needs and information usage motivations (Study Unit 5)
+- Knowledge generation and transfer related to information use (Study Unit 6)
+- Reading, information-seeking patterns, sources, and technology (Study Unit 7)
+- Interpretation of information and its societal impact (Study Unit 8)
+
+#### 1.8 Structure of the module
+- Emphasis on self-directed learning
+- Systematic study through eight units with progression
+- Each unit contains:
+  - Learning outcomes
+  - Theme overview
+  - Activities to enhance learning
+  - Assessment questions for reflection
+
+#### 1.9 Module content
+- Materials provided:
+  - Study guide (8 units)
+  - Tutorial Letter 101 with assessment details
+  - Follow-up letters with study guidelines
+
+#### 1.10 How to use the study guide
+- Use study guide in conjunction with Tutorial Letter 101
+- Focus on diagrams for understanding theoretical concepts
+
+#### 1.10.1 Preliminary reading and self-assessment
+- Detailed study of units and diagrams
+- Use self-assessment questions to gauge understanding
+
+#### 1.10.2 Recommended reading
+- No prescribed texts; additional readings may follow assignments.
+
+#### 1.10.3 Activities and feedback
+- Activities are integral for practical application of concepts.
+
+#### 1.10.4 Questions for self-assessment
+- Self-assessment questions for reinforcing understanding of unit content.
+
+#### 1.11 Planning your time
+- Academic semester length contingent upon registration timing.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## Page 7-10
+### 1.1 Study Planning
+- Total weeks: 15 (17-20 total, including revision).
+- Study units and recommended weeks:
+  - Study unit 1: 1 week
+  - Study unit 2: 2 weeks
+  - Study unit 3: 2 weeks
+  - Study unit 4: 2 weeks
+  - Study unit 5: 2 weeks
+  - Study unit 6: 2 weeks
+  - Study unit 7: 2 weeks
+  - Study unit 8: 2 weeks
+
+### 1.2 Key Terms
+- Definitions of key terms provided throughout the study guide.
+- Glossary at the end for terminology familiarization.
+
+### 1.3 Icons
+- **Definitions**: Important explanations; essential to study.
+- **Examples**: Provide clarity on points made.
+- **Individual Activity**: Self-reflection and application of concepts.
+- **Group Activity**: Collaborative analysis via online posting.
+- **Reference**: Relation to prior materials or cases.
+- **Additional Web Sources**: External resources for expanded understanding.
+- **Net-Flash**: Crucial information highlighted.
+  
+### 1.4 Concluding Remarks
+- The interrelation of modules and key issues in Information User Studies become apparent through continued study.
+- Advised to follow study method and engage actively for success.
+
+## Page 10-11
+## 2. STUDY UNIT 2: FOCUS ON THE INFORMATION USER
+
+### 2.1 Welcome
+- Focus on the information user, using theoretical frameworks and models.
+
+### 2.2 Structure of the Study Unit
+- Relevant diagram provided to outline topics.
+
+### 2.3 Purpose
+- Introduce information user as the focus in Information User Studies.
+- Discuss theoretical frameworks’ value in understanding information behavior.
+
+### 2.4 Learning Outcomes
+- Understand theoretical frameworks' application in Information User Studies.
+- Define key areas and objects of study.
+- Compare models of information usage behavior.
+
+### 2.5 Assessment Criteria
+- Evaluate understanding of:
+  - Theoretical frameworks’ importance.
+  - Identification of study object and key issues.
+  - Fouché’s model and the information usage model.
+  - Wilson’s models comparison.
+  - Contextual factors influencing user behavior.
+
+### 2.6 Introduction
+- User Studies examine users of information, considering individual and group dynamics.
+- Emphasize the theoretical frameworks aiding comprehension of user actions.
+
+### 2.7 Introduction to Theoretical Frameworks
+- **Theory Definition**: A system of ideas to explain phenomena (Reader’s Digest, 2001).
+- Theoretical frameworks: Systematic order of related ideas.
+- Conceptual frames serve to systematize research observations.
+- **Model Definition**: Logically cohesive representation of basic concepts, aiding understanding of relationships among factors. Use in Information User Studies emphasized.
+
+*Note: Further diagrams referenced throughout sections.*
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 2.8 Information User Studies as a subject discipline
+- User studies: empirical investigation of users; broader term includes Information User Studies.
+- Focus on individuals as readers and users of various information records.
+- "Read" encompasses interpretation beyond traditional definitions, inclusive of various media formats.
+- Information literacy: ability to interpret diverse media; computer literacy: effective use of computers.
+- Historical context: development of readership research since the late 1920s with cycles of interest.
+
+## 2.9 Object of study of Information User Studies
+- Emerged post-1948 Royal Society conference on information supply to scientists.
+- Extensive studies conducted on user groups and their information behaviors (needs, seeking, usage).
+- Distinct perspectives across disciplines (Psychology, Sociology, Information User Studies) shape study focus.
+- **Definition**: Examines people as interpreters of all forms of recorded information, irrespective of context.
+
+## 2.10 Key issues of Information User Studies
+- Core questions to explore about information users:
+  - User needs and motives (information needs)
+  - User behavior (information usage)
+  - Act of interpretation (information utilization)
+  - Media effects/functions (effects of information usage)
+- Hatt’s questions provide a framework:
+  1. Who is the reader?
+  2. What are the reader’s needs?
+  3. What is the text?
+  4. How do the reader and text interact?
+  5. Nature of the reading act?
+  6. Outcome of the reading act?
+
+## 2.11 General theoretical framework for studying the information user
+- Focus on the information user as an active participant in communication.
+
+### 2.11.1 Model of the reading or media utilization event
+- Fouché's "reading events model": identifies critical moments in user behavior:
+  - Decision to read/use media
+  - Selection of media
+  - Reading/interpretive act
+  - Outcomes of the reading act
+- Influencing factors: content of reading matter, reader characteristics, environment.
+
+### 2.11.2 Information usage model
+- Addresses strategies users employ in electronic/virtual environments.
+- Rephrased Hatt’s questions to fit contemporary contexts:
+  1. Attributes and predispositions of users.
+  2. Information needs/motivations.
+  3. Source selection and usage.
+  4. Search processes for information.
+  5. Nature of interpretive acts.
+  6. Outcomes of information usage.
+  7. Contextual factors influencing use.
+- **Figure 2.1 Information usage model**: Depicts components of information generation, user motivation, and contextual factors related to usage. 
+
+## **Diagram References**
+- Fouché’s Model (Figure 2.1): Information usage model illustrating relationships between elements of information usage. 
+
+**Note**: Remove learning activities, self-assessment, and feedback sections for clarity.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 2.12 Information Usage Behaviour
+- **Definition**: Extends beyond using information, including antecedents (needs, motives) and outcomes of information usage.
+  
+### 2.12.1 Motives for Information Usage
+- **Needs and Motives**: Fundamental driver behind information needs; derived from deep-seated personal requirements (Hatt, 1986:41–44).
+- **Decision to Use Information**: Influenced by personal needs and characteristics (age, sex, intelligence).
+
+### 2.12.2 Information Seeking Patterns
+- **Components**: Selection and acquisition of information.
+- **Influences**: User's personal and social factors.
+- **Examples**: Consulting colleagues, using libraries, internet.
+
+### 2.12.3 Information Utilisation
+- **Process**: Involves decoding and interpretation.
+- **Interpretive Act**: Core element; requires decoding which involves perceptual and cognitive processes.
+- **Influences**: User's context, predispositions, and cultural framework.
+
+### 2.12.4 Effects of Information Utilisation
+- **Outcomes**: Immediate reactions (knowledge increase, attitude change) or more permanent effects.
+- **Variability**: Effects differ in duration, exposure, and scope; relates to satisfaction or gratiﬁcation of needs.
+
+### 2.12.5 Contexts of Information Usage
+- **Factors**:
+  - User's attributes and circumstances.
+  - Record/media characteristics and the information environment.
+
+#### 2.12.5.1 User Attributes and Circumstances
+- **Social Context**: Influences knowledge generation (culture, economics, politics).
+- **Physical Context**: Geographic factors affect media availability.
+- **Personal Context**: Biological, hereditary factors, personality impacting media usage.
+
+#### 2.12.5.2 Record Characteristics and Information Environment
+- **Factors**:
+  - **Record Content**: Subject, theme, presentation, readability affect usability.
+  - **Record Form**: Types (visual, auditory, audiovisual) require different skills.
+  - **Availability and Accessibility**: Media accessed via various distribution channels affects choice.
+
+## 2.13 Wilson’s Models of Information User Behaviour
+- Focuses on user behaviour; comprehensive view compared to other models.
+  
+### 2.13.1 Wilson’s 1981 Model of Information Behaviour
+- **Versions**: Published from 1981 to 1999, termed “information behaviour models”.
+- **Core Idea**: Arises from user’s perceived need influenced by satisfaction with previously acquired information.
+- **Threefold View**:
+  - **Context of the Seeker**: Personal situations influencing information needs.
+  - **System Employed**: Manual/computerised, personal/intermediary usage.
+  - **Information Resources**: Selection based on perceived need.
+
+- **Outcome**: Information-seeking behaviour effects (success/failure) allow for information transfer and sharing. 
+
+### Note on Legislation and Cases
+- No specific legislative or case references in this text. Further context may be provided in related study units. 
+
+## Diagrams
+- **Refer to Figure 2.1**: Model of Information Usage.
+- **Refer to Figure 2.2**: Wilson’s 1981 Model of Information Behaviour.
+----- END OF CHUNK -----
+# INS2601/1
+
+## 2.13.2 Wilson’s 1996 Model of Information Behaviour
+- Expands 1981 model; incorporates literature from diverse fields (psychology, decision making, health communication).
+- Focus: Individuals in context and their information needs.
+- **Barriers:** Represented by intervening variables affecting information use.
+  - **Motivators:** Based on Wilson’s activating mechanisms (Case 2012:155).
+  - **Types of intervening variables:**
+    1. Psychological predispositions (curiosity, risk aversion)
+    2. Demographic background (age, education)
+    3. Social role factors (manager vs. parent)
+    4. Environmental variables (available resources)
+    5. Source characteristics (accessibility, credibility)
+- Information processing is crucial for satisfying information needs.
+
+### Theoretical Ideas in the Model
+1. **Stress/Coping Theory:** Explains variations in information-seeking triggers.
+2. **Risk-Reward Theory:** Insights into source preference.
+3. **Social Learning Theory:** Ability to carry out behaviours for desired outcomes.
+
+- Recognized types of search behaviour:
+  - Passive attention
+  - Passive search
+  - Active search
+  - Ongoing search
+
+## 2.14 Application of Information User Studies in Practice
+1. **User Needs Studies:**
+   - Clarifies information use in various circumstances; aids in understanding user needs for improving service.
+2. **User Behaviour Patterns:**
+   - Describes information usage; links biographical and social data to media usage.
+   - Discoveries include:
+      - Availability/accessibility for specific user groups.
+      - Role of information in users' lives.
+      - Characteristics and usage patterns of groups.
+3. **User Interpretation of Media:**
+   - Investigates readability and comprehension; outcomes impact educators and the publishing industry.
+4. **Effects of Information Utilisation:**
+   - Important for policymakers; relates to research application and implementation.
+
+## 2.15 Concluding Remarks
+- **Study Focus:** Information user studies focus on individuals as information users across various media.
+- Historical surge in interest; demand for a conceptual framework led to emerging models.
+- Models emphasized varying aspects of information usage, influenced by communication theories.
+- Key issues identified in Information User Studies relate to user needs, characteristics, and behaviour.
+- Existing models offer valuable insights, but a comprehensive framework is necessary for further research.
+
+## 3 STUDY UNIT 3: INFORMATION USER GROUPS
+
+### 3.1 Welcome
+- Focus on information users in social and occupational contexts; utilize theoretical frameworks for deeper understanding.
+
+### 3.2 Structure of the Study Unit
+- Overview of key topics regarding information users.
+
+### 3.3 Purpose
+- Introduce different types of information users; categorize according to social/economic features and occupational roles.
+- Explore models for understanding information needs across various user groups.
+
+### 3.4 Learning Outcomes
+- Distinguish types of information users based on social, economic, occupational roles.
+- Demonstrate understanding of occupational contexts and task performance characteristics.
+
+### 3.5 Assessment Criteria
+- Ability to describe and classify information users effectively within social and economic frameworks.
+
+### 3.6 Introduction
+- Emphasizes roles of group membership in influence on information-seeking behavior (Allen 1996:74; Choo & Auster 1993:284).
+- Occupational structures are common for investigating information seeking (Case 2012:285). 
+- Examines theoretical models relevant to occupational contexts.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 3.7 Categories of Information User
+- **Definition of User**: Encompasses all readers of texts in paper-based or electronic formats, including independent, reluctant readers, and non-readers (dyslexics, illiterates).
+- **User Types**:
+  - **Independent Readers**: Read without difficulty.
+  - **Reluctant Readers**: Read with hesitation.
+  - **Non-Readers**: Includes illiterates and those unable to read due to socioeconomic environments.
+  - **Users vs. Non-Users**: Users engage with various media; non-users are potential users and a key area in Information User Studies.
+- **Sources of Information**: Formal (published) and informal (oral communication).
+
+## 3.8 Information Users in a Social Context
+- **Demographic Variables**:
+  - **Age**: Children, youth, adults, seniors.
+  - **Occupational Role**: Clerks, artisans, professionals.
+  - **Non-Occupational Roles**: Homemakers, retired, unemployed.
+  - **Geographic Location**: Rural vs. urban populations.
+  - **Disadvantaged Groups**: Physically impaired, economically disadvantaged, illiterates.
+  
+### Focus on Illiterates and Developing Groups
+- **Characteristics**: Often live in poverty, unemployed, and large families.
+- **Educational Needs**: Require literacy programs and information for daily survival.
+- **Information Access**: Limited for rural communities; subsistence farmers require practical agricultural information.
+
+## 3.9 Information Users in an Occupational Context
+- **Classification by Function/Environment** (Line, 1969):
+  - **Research Conductors**
+  - **Educators and Trainers**
+  - **Managers and Administrators**
+  - **Media Professionals**
+  - **Politicians**
+  - **Business and Commerce Professionals**
+  - **Students**
+
+## 3.10 Managers and Scientists in Various Disciplines
+### 3.10.1 Managers
+- **Management Functions**: Planning, organizing, leading, coordinating.
+- **Decision-Making**: Ongoing process requiring efficient, timely information.
+- **Managerial Levels**:
+  - **Top Managers**: Strategic decisions, unstructured scenarios.
+  - **Middle Managers**: Structured decisions with unstructured components.
+  - **Operational Managers**: Structured decision-making from reports.
+
+### 3.10.2 Human Scientists
+- **Fields**: Language, philosophy, arts, religion.
+- **Research**: Subjective; relies on personal interpretation.
+
+### 3.10.3 Social Scientists
+- **Study Focus**: Human behavior; challenges in objective knowledge due to the dual role of humans.
+
+### 3.10.4 Natural Scientists
+- **Fields**: Medicine, biology, chemistry, physics.
+- **Objective Research**: Empirical data verification; teamwork is common.
+
+### 3.10.5 Technologists
+- **Commonalities**: Shared ground with natural and social scientists.
+- **Research Focus**: Applied rather than basic research; engineers primarily utilize internal knowledge over literature.
+
+## 3.11 Models for Studying Information Users in an Occupational Context
+### 3.11.1 Scientists Within Systems: Paisley’s Model
+- **Framework**: Views scientists as part of interconnected systems influencing information behavior.
+- **Diagram Reference**: Paisley’s eight concentric circles model outlining systems surrounding the user.
+  
+**Note:** Further exploration into models by Havelock (1971) and Blom (1979) will provide additional insights into information needs and user behavior.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## Page 37
+
+### 3.11 Information Utilization Models
+
+#### **3.11.1 Theoretical Framework: Paisley’s Model**
+- Emphasizes the importance of the **scientist's personal system** as central in Information User Studies.
+- Explores external systems that influence information usage behavior.
+- **Ten Relevant Systems Identified by Paisley (1968):**
+  1. **Cultural System**: Pervasive influence; largest circle in the model.
+  2. **Political System**: Affects research focus, e.g., scientific nationalism.
+  3. **Professional Membership Group**: Shapes access to discipline-specific information.
+  4. **Reference Group**: Includes scientists with similar backgrounds, influences information management.
+  5. **Scientific Fraternity (Invisible College)**: Small, personal network sharing direct information.
+  6. **Formal Organisation**: Governs roles and policies affecting information access.
+     - **6b. Umbrella Organisation**: E.g., university under educational department.
+  7. **Work Team**: Subsystem focused on problem-solving and pertinent information.
+  8. **Personality System**: Individual motivations, intelligence, and information relevance.
+  9. **Legal and Economic System**: Impacts information flow (patents, copyrights).
+  10. **Formal Information (Public) System**: Libraries/centers as competing information sources.
+    - Wilkin (1977) emphasizes practical realization of this model.
+
+#### **3.11.2 The Linkage Model: Havelock’s Model**
+- Combines aspects of:
+  - Research, Development, and Diffusion (RDD) model.
+  - Problem-solving model.
+  - Social interaction model.
+- **Characteristics of Linkage Model**:
+  - Views information transfer as two-way interaction.
+  - Successful linkage needs understanding of user needs and problem-solving behaviors.
+  - Requires shared trust and relationships for effective information transfer.
+  
+#### **3.11.3 The Task Performance Model: Blom’s Model**
+- Shifts focus from user satisfaction to task performance.
+- **Core Concept**: Information should serve scientific progress and effective decision-making.
+- Context of information usage must align with specific tasks performed by scientists.
+- **Model Structure**:
+  - Central nucleus represents scientific task performance.
+  - Surrounding segments represent factors influencing performance: individual, discipline, environment.
+  
+### 3.12 Dervin’s Sense-Making Model
+- Conceptual tool for understanding communication, information, and meaning.
+- Emphasizes active information seeking rather than passive reception.
+- Focuses on situational contexts prompting information seeks, irrespective of user demographics.
+
+---
+
+### References:
+- **Paisley (1968)**: Frameworks for understanding scientific information behavior.
+- **Wilkin (1977)**: Insights into the importance of systemic influences.
+- **Havelock (1971; 1986)**: Models combining perspectives on information utilization.
+- **Blom (1979)**: A shift in model focus towards task performance implications.
+- **Dervin (1994)**: Generic approach to information seeking across user groups.
+----- END OF CHUNK -----
+# Study Notes: INS2601/1
+
+## Chapter 3: Information Needs and Information Behaviour
+### 3.1 Introduction
+- Emphasis on understanding information usage principles in various contexts.
+
+### 3.2 Dervin’s Sense-Making Theory
+- Focus on human information processing traits and contexts of information needs.
+- Individuals navigate a time-space continuum that alters cognitive maps with new information (Morris 1994:21–22).
+- **Elements of the Sense-Making Model**:
+  - **Situation**: Context of information problems.
+  - **Gap**: Difference between actual and desired situations.
+  - **Outcome**: Consequences of the sense-making process.
+  - **Bridge**: Means of closing the gap.
+- Sense-making as cognitive, recognizing subjective information.
+
+### 3.3 Shift in Research Emphasis
+- From information sources to information users.
+- Methodology informs user-centered information service design.
+- Focus on individual sense-making and social phenomena in information usage.
+
+### 3.4 Models of Information Behaviours
+#### Paisley’s Framework
+- "Scientist within systems" focused on factors influencing a scientist's information needs.
+  
+#### Havelock’s Linkage Model
+- Integrates research, development, and dissemination, highlighting problem-solving and social interaction aspects.
+
+#### Blom’s Task Performance Model
+- Core: Task performance, influenced by individual factors, subject discipline, and environment.
+
+### 3.5 Models Comparison
+- **Macro-level Models**: Comprehensive but general; insufficient for detailed issues (e.g., decision-making).
+- **Micro-level Models**: Specific to particular problems of information usage; may lack comprehensive scope.
+- Dervin’s model supports individual-focused analysis of information usage.
+
+### 3.6 Theoretical Frameworks Discussion
+- Importance of establishing a general yet specific framework for diverse information users.
+- Different approaches may be necessary to study varying user groups (e.g., business managers, scholars).
+
+### 3.7 Concluding Remarks
+- Requires further exploration of diverse frameworks for understanding information behaviour across user groups.
+
+---
+
+## Chapter 4: Contexts of Information Usage
+### 4.1 Welcome
+- Continuation of study regarding contexts influencing user behaviour.
+
+### 4.2 Structure of the Study Unit
+- Examination of social, personal, occupational contexts, and the record and information context.
+
+### 4.3 Purpose
+- Aim: Understand contexts shaping information usage and barriers in information seeking.
+
+### 4.4 Learning Outcomes
+- Grasp of different contexts and models influencing user behaviour.
+
+### 4.5 Contextual Factors Influencing Information Usage
+- Two broad categories: User-related (occupational, social, personal factors) vs. information-related factors.
+- Interconnected influence of these factors on reading and usage behaviour.
+
+### 4.6 Models of Usage Behaviour
+#### Blom’s Model
+- Identifies three factor sets: subject discipline, work environment, task performance.
+
+#### Paisley’s "Scientist within Systems" Model
+- Ten sets of systems affecting information needs and behaviour (e.g., cultural systems, professional groups).
+
+### 4.7 Conclusion
+- Emphasizes the importance of understanding contextual influences and barriers in information usage. 
+
+---
+
+**Legislation and Cases**: Not explicitly mentioned in the provided text. 
+
+**Diagram References**: 
+- Dervin’s sense-making model and Wilson's modified framework (Figures 3.5 & 3.6).
+- Blom's task performance model and Paisley's "scientist within systems" (Figures 3.1 & 3.3).
+
+**Note**: These study notes are condensed and should be supplemented with detailed readings for comprehensive understanding.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 4.7 General Model of Information-Seeking Behaviour
+### 4.7.1 Contextual Complexity
+- Brown's (1991) model emphasizes barriers to information-seeking and cycles in search behaviour.
+  
+### 4.7.2 General Model Focusing on the Context of Information Seeking
+#### 4.7.2.1 The Conditions
+- **Exposure:** Continuous presentation of stimuli (visual, aural).
+- **Evaluation:** Processing occurring at the sensory register; stimuli split into specific and general signals.
+- **Cognitive Recognition:** Stimuli represented in memory as thoughts.
+
+#### 4.7.2.2 The Context
+- **Components:** Individual needs (physiological, affective, cognitive), role, environment (social/cultural/political/economic).
+- Barriers arise at the intersection of self, role, and environment.
+
+#### 4.7.2.3 The Process
+- **Immediate vs. Deferred Needs:** Immediate need prompts active seeking; deferred need remains dormant until activated.
+- **Source Preference:** Influenced by self, role, environment leading to preferred methods of searching.
+
+#### 4.7.2.4 Barriers
+- Barriers from organizational structures, physical environments, personalities, and imposed search strategies.
+
+## 4.8 Social Context 
+- Influences include cultural, political, and economic factors (e.g., Auster, 1982; trade union impact on scientists).
+
+## 4.9 Personal Context
+- Individual factors: personality, education, skills, motivation (Paisley; Blom, 1983; Line, 1969).
+
+## 4.10 Occupational Context
+- **Subject Discipline:** Distinctions affect usage among natural scientists, human scientists, and social scientists.
+- **Human Sciences vs. Natural Sciences:** Different approaches to measurement (qualitative vs. quantitative).
+- **Communication Differences:** Variances in information sources and usage (e.g., books vs. periodicals; recency of sources).
+
+### 4.10.1 Subject Discipline
+- Natural sciences = data-driven, measurable; human sciences = qualitative exploration.
+- Research processes in humanities often involve browsing and personal interpretation.
+
+### 4.10.2 Work Context 
+- Differentiation between formal and informal structures; informal channels may enhance communication.
+
+### 4.10.3 Task Performance
+- Task type dictates information needs (Blom, 1983); usage behaviors vary among researchers, managers, etc.
+
+## 4.11 Record and Information Context
+- Knowledge generation, transfer processes, and utilization are crucial.
+- Key record-related factors: **Accessibility, readability, format.**
+  
+### 4.11.1 Access to Information
+- Vital for fulfilling community needs; accessibility can be hindered by unfamiliar literature or language issues. 
+
+*Note: Reference to diagrams such as Figure 4.1 for visual representation of the information-seeking model.*
+----- END OF CHUNK -----
+## INS2601/1 Study Notes
+
+### Page 55 - 60
+
+#### 4.11 Access to Information
+- **Importance**
+  - Critical for a competitive economy, education, and democracy.
+  - Constitution of South Africa, 1996 provides the regulatory framework for access.
+
+#### 4.11.2 Factors Influencing Access to Information
+- **4.11.2.1 Distance from Service Points**
+  - Rural users face significant barriers due to distance from libraries and services.
+  - Internet access is hindered by lack of infrastructure in remote areas.
+
+- **4.11.2.2 Costs**
+  - High costs of books, journals, and technology restrict access.
+  - Affordable alternatives include cyber cafés and public access points.
+  - Distinction: 
+    - **Data:** non-copyrighted and inexpensive.
+    - **Information:** often copyright protected and more costly.
+    - **Meta-information:** concerns origin and authenticity.
+
+- **4.11.2.3 Language**
+  - Dominant language barriers impede access.
+  
+- **4.11.2.4 Technology**
+  - Enhances access through the internet but can create an "information gap" for those lacking skills.
+  - ICT aids in government information accessibility and economic transition.
+
+- **4.11.2.5 User Interface**
+  - Communication quality between the user and system impacts information access.
+
+- **4.11.2.6 Information Skills**
+  - Information literacy: ability to recognize, locate, evaluate, and use information effectively.
+
+- **4.11.2.7 Open Access Scholarly Communication**
+  - Emerged in response to high publication costs.
+  - Open Access Journals and self-archiving bypass traditional publishing barriers.
+  - Dulle (2010): Open access defined as freely available scholarly content.
+
+#### 4.11.3 Information Barriers
+- **General Information Barriers**
+  - Brown’s model emphasizes environmental, personal, and organizational factors as barriers.
+  - Key barriers: accessibility levels, time constraints, facility design, information delay, and language issues.
+
+- **4.11.3.1 ICT and Online-related Problems**
+  - Obstacles like multiple command languages and inadequate infrastructure.
+  - Solutions: standardization and simplified search processes.
+
+- **4.11.3.2 Language Barriers**
+  - Effective communication reliant on common language; significant challenge in accessing information.
+  - Dominance of English affects information retrieval and accessibility.
+
+- **4.11.3.3 Information Overload**
+  - Excessive information poses a barrier to understanding; particularly prevalent in electronic communications.
+  - Shift to targeted information retrieval leads to the establishment of intranets in organizations.
+
+### 4.12 Concluding Remarks
+- Discussed factors influencing information user behavior in occupational contexts.
+- Identified conceptual models highlighting barriers to information usage, including personal, disciplinary, and environmental factors.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+---
+
+## 4. INFLUENCES ON INFORMATION USAGE
+
+### 4.1 Different Approaches to Information Usage
+- Research and scholarship in the **humanities** vs. **natural sciences** show varied information usage practices.
+- Human scientists rely more on **individual searches** rather than systematic approaches.
+- Dependency on **books** for analysis and investigation is significant.
+- Knowledge acquired tends to be **more personal**.
+
+### 4.2 Information Barriers
+- Key barriers: **information overload** and **language barriers**.
+- Focus on factors influencing **information transfer and access.**
+
+---
+
+## 5. USER NEEDS AND MOTIVATION
+
+### 5.1 Welcome
+- Continued examination of **information users** in various contexts including community and workplace.
+  
+### 5.2 Purpose
+- Discuss **user needs** and **motivation**; integral in User Studies.
+- Relationship between interests, motivation, and information needs of scholars, scientists, managers.
+
+### 5.3 Definition of Key Concepts
+- **Information user**: Active processor of messages, motivated to seek information.
+- **Information need** (Case, 2012): Acknowledgment of inadequate knowledge for meeting goals.
+- **Information requirements**: User-specific requests, including accessibility and relevance (Du Preez, 2008).
+
+### 5.4 Basic Information Needs and Motives
+- Basic needs motivate information seeking (Wilson, 1981).
+  
+#### 5.4.1 Maslow’s Hierarchy of Needs
+- Depicts five levels: 
+  - **Physiological needs**: Food, water, shelter.
+  - **Safety needs**: Security, order.
+  - **Love and belonging**: Relationships, community acceptance.
+  - **Esteem needs**: Recognition, status.
+  - **Self-actualization need**: Knowledge for its own sake.
+
+### 5.5 Needs and Motives
+- **Explicit information need** drives information-seeking behavior.
+- **Motive**: Causes personal action, clearer than needs (Naumer & Fisher, 2009).
+  
+---
+
+## Key Legislation & Cases
+- Wilson (2006): Discusses difficulties in defining "information need".
+- Behrens, Olën & Machet (1999): Info's role in daily decision-making.
+- Naumer and Fisher (2009): Questions surrounding information needs.
+
+---
+
+## Diagrams
+- **Figure 5.1**: Maslow’s Hierarchy of Needs (source: Canadian Tamil Youth Alliance).
+
+--- 
+
+**End of Study Notes**
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 5.8 Motivation
+- **Stages of Motivation:**
+  - Need → Motive → Behaviour
+  - Motivation factors: sustaining factors; influenced by inherent and environmental factors.
+  
+- **Types of Motivation:**
+  - **Intrinsic Motivation:** Internal satisfaction (e.g., reading for pleasure).
+  - **Extrinsic Motivation:** External rewards (e.g., reading prescribed materials).
+
+- **Reinforcement in Motivation:**
+  - Past satisfaction increases likelihood of continued use of the same information source.
+
+## 5.8.3 Motives and Interests
+- **Interest vs. Preferences:**
+  - **Interest:** Personal involvement; attention-holding quality of subject.
+  - **Preference:** Positive orientation towards subject matter or format.
+
+## 5.9 Community Information Needs
+- **Definition:** Information needed for decision-making in societal roles (excludes work).
+- **Maslow’s Hierarchy of Needs:** Identifies basic community information needs linked to social and economic contexts.
+- **Rural Areas:** 
+  - Information needs often related to survival, civic and political rights.
+  - Illiteracy impacts information awareness and technology adoption.
+
+## 5.10 Educational Needs
+- **Types of Education:**
+  - **Formal Education:** Institutionalized (e.g., schools to university).
+  - **Non-Formal Education:** Outside formal systems, targeting specific learning interests.
+
+- **Connection to Information Needs:**
+  - Neoliterates require basic skills for societal functioning, especially in urban environments transitioning from rural settings.
+
+## 5.11 Information Needs in the Work Situation
+- **Information Needs Definition (Blom, 1987):**
+  - Inputs required for task completion.
+
+- **Types of Information Needs (Lor, 1979):**
+  1. Subjective: Recognized as useful by users.
+  2. Objective: Valuable for work, regardless of user awareness.
+
+- **Classification of Information Needs:**
+  - Meijer’s Categories:
+    - **Conscious Needs:** Expressed or suspected; can be categorized into expressed, unexpressed, and unexpressed suspected needs.
+    - **Unconscious Needs:** Users unaware of their needs, including subconscious and potential future needs.
+
+## 5.11.2 Information Wants
+- **Definition:** Conscious needs individuals would like to fulfill; influenced by subjective factors (e.g., personal characteristics, time).
+
+## 5.11.3 Information Demands
+- **Definition:** Vocal or written enquiries to information systems (Nicholas & Herman, 2009).
+- **Relation to Needs:** Can be synonymous or differ based on user awareness of their needs.
+
+## 5.11.4 Information Requirements
+- **Definition:** User specifications for information requests (e.g., accessibility, timeliness).
+- **Usage:** Criteria for evaluating information systems, essential for task accomplishment.
+
+## 5.12 Information Needs of Scholars, Scientists, and Managers
+- **Scholars:** Academic individuals (including researchers) requiring information for research and publishing.
+  
+- **Channels, Form, and Content Needs Classifications (Lin & Garvey, 1972):**
+  - **Channel Dimension:** Delivery mediums for information.
+  - **Format Dimension:** Presentation and structure of information.
+  - **Content Dimension:** Substance or relevance of the information.
+----- END OF CHUNK -----
+# Course Notes for INS2601/1
+
+## 5.12 Information Needs
+
+### 5.12.1 Dimensions of Information Needs
+- **Channel Dimension**:
+  - User requires specific information channels.
+  - Formal (libraries, information services) vs. informal (colleagues, internet).
+  - Ex. Intranets for medical doctors to reduce information overload.
+
+- **Format**:
+  - Physical forms of stored information (e.g., books, CD-ROMs).
+  - Specific material types (e.g., reference sources, audiovisual aids).
+
+- **Content Dimension**:
+   - **Nature**: Length, complexity required (e.g., abstracts vs. comprehensive reports).
+   - **Subject**: Specific fields for academic/research scholars.
+   - **Nature of Information**: Conceptual, theoretical, historical, statistical.
+   - **Quantity**: Need for all vs. the most relevant information.
+   - **Processing/Repackaging**: Presentation forms; needs adaptations for lay users.
+   - **Speed of Presentation**: Urgency based on task.
+   - **Date Range**: Relevant information age (recent for applied sciences, historical for human sciences).
+   - **Specification**: General vs. highly specialized information needs.
+   - **Immediate Function**: Need to answer questions or stay updated.
+   - **Quality**: Accuracy, recency, depth of information.
+   - **Level of Presentation**: Elementary vs. advanced knowledge.
+
+### 5.12.2 Need for Relevance
+- **Vakkari & Hakala (2000)**: Dual nature of relevance tied to user information needs.
+  - Relevance assessed based on task effectiveness and suitability of information retrieved.
+  - Often overlooked in information usage studies; focus mainly on channel needs.
+
+### 5.12.3 Information Needs and the Research Process
+- **Research Process Stages** (Blom 1983:14):
+  1. **Stating the Problem**: Background info from articles/bibliographic services.
+  2. **Methodology**: Appropriateness of research designs/methods.
+  3. **Gathering Data**: Need for recent/specific info (informal colleagues, formal services).
+  4. **Analysis/Synthesis**: Need for verified information from formal sources.
+  5. **Reporting**: Interpretation and scientific presentation of findings; various sources needed.
+  6. **Application in Practice**: Transfer/use of research findings.
+  
+- **Task Performance Needs**: Problem solving, planning, decision making related to the research process.
+
+### 5.12.4 Information Needs in Management
+- **Managerial Information Needs**:
+  - Addressing new situations, decision-making with significant implications, expert consultations, authoritative support required.
+  
+- **Task Performance**:
+  - Reflects unique requirements of management levels (high, middle, low).
+  
+- **Information Sources**: 
+  - Colleagues/subordinates first; then textbooks/journals. Current journals are crucial.
+
+- **Network Building**: Information behavior characterized by extensive networking (Kotter in Katzer & Fletcher 1992). 
+
+## 5.13 Concluding Remarks
+- Examined user needs and motives.
+- Link between basic information needs, human motives, and information use.
+- Theoretical frameworks reveal differences in user needs based on discipline, role, motivation.
+- Identified correlation between information needs, research processes, and decision-making.
+
+## 5.14 Questions for Further Reflection
+- Distinction between information needs and requirements.
+- Maslow’s hierarchy linked to information motives.
+- Relationship between information needs and user interests. 
+
+Notes to refer to for study material familiarity and preparation for next units.
+----- END OF CHUNK -----
+# INS2601/1 
+
+## 6 STUDY UNIT 6 - KNOWLEDGE GENERATION AND INFORMATION TRANSFER
+
+### 6.1 Welcome
+- Focus on the user and their information behaviour.
+- Explore information needs and motives of different user categories.
+
+### 6.2 Structure of the study unit
+- Diagram on topics to be examined in the study unit.
+
+### 6.3 Purpose
+- Focus on information transfer and flow.
+- Present model of research use related to knowledge and information processes.
+
+### 6.4 Learning outcomes
+- Differentiate between data, information, and knowledge.
+- Understand information and knowledge processes.
+- Clarify the research process in scholarly communication.
+- Outline Huberman’s models of research dissemination and use.
+
+### 6.5 Assessment criteria
+- Define concepts: data, information, and knowledge.
+- Illustrate differences through examples.
+- Describe knowledge and information generation, dissemination, and use.
+- Identify steps in the knowledge process.
+- Discuss information flow and transfer.
+- Explain research as transformation of knowledge to communicable information.
+- Analyse Huberman’s models regarding communication of research.
+
+### 6.6 Introduction
+- The importance of understanding knowledge and information processes for user behaviour analysis.
+- Impact on scholarly communication and media usage.
+
+### 6.7 Data, Knowledge, and Information
+
+#### 6.7.1 Data
+- Raw materials for information; can be facts, numbers, or observations.
+- Distinction between primary (original, personally collected) and secondary data (collected by others).
+- Secondary data can be quicker and cheaper but may lack reliability checks.
+
+#### 6.7.2 Information
+- Data transformed into meaning through context; requires interpretation.
+- Defined by Blom as input acquiring meaning for problem-solving.
+- Dervin's perspective: information constructed by the user, not merely objective.
+
+#### 6.7.3 Knowledge
+- Information becomes knowledge when interpreted and understood.
+- Knowledge as organized and synthesized information beneficial for personal and societal development.
+- Distinction: knowledge is internal, personal, while information is external and shared.
+  
+  - Havelock's view: Knowledge includes facts, concepts, theories, and cultural content.
+  - Information serves as the communicable form of knowledge.
+
+### 6.8 Information and Knowledge Process
+- Understanding creation and utilization of information and knowledge.
+- Havelock identifies three main processes of information and knowledge:
+  1. Generation
+
+(Note: Diagrams referred but not reproduced in the text.)
+----- END OF CHUNK -----
+# INS2601/1 - Law Study Notes
+
+## Table of Contents
+- 6.8 Knowledge Processes
+  - 6.8.1 Knowledge Generation or Creation
+  - 6.8.2 Information Verification and Control
+  - 6.8.3 Information Transformation
+  - 6.8.4 Information Transfer or Communication
+  - 6.8.5 Reception of Information
+  - 6.8.6 Information Utilisation
+- 6.9 Scholarly Research and Communication
+- 6.10 Huberman’s Models of the Dissemination and Use of Research
+
+---
+
+## 6.8 Knowledge Processes
+
+### 6.8.1 Knowledge Generation or Creation
+- **Seven forms of knowledge generation**:
+  - **Discovery**: Initial finding based on theories or evidence.
+  - **Definition**: Explanation or description of properties.
+  - **Distinction**: Differentiation between phenomena characteristics.
+  - **Establishing Relations**: Connecting concepts and phenomena.
+  - **Quantification**: Specific relations for empirical measurement.
+  - **Synthesis**: Combining knowledge elements for conclusions.
+  - **Rearrangement**: New relations formed from existing knowledge.
+
+### 6.8.2 Information Verification and Control
+- Establish truth of generated information through logical reasoning and evidence presentation.
+
+### 6.8.3 Information Transformation
+- **Seven types of transformation**:
+  - **Collection**: Basic gathering of knowledge (e.g., libraries).
+  - **Abstraction**: Summarizing information for clarity.
+  - **Sorting**: Categorizing information (e.g., indexing).
+  - **Translation**: Changing context or medium.
+  - **Materialisation**: Transforming abstract ideas into practical applications.
+  - **Subtraction/Generalisation**: Making information widely applicable.
+  - **Adaptation**: Modifying information for different contexts.
+
+### 6.8.4 Information Transfer or Communication
+- Process of communicating information across entities.
+- **Transfer**: Movement of information items (narrow) vs. comprehensive integration by recipient (broad).
+- **Dissemination**: Targeted distribution of conceptual information.
+- **Diffusion**: General distribution without specific targeting.
+
+### 6.8.5 Reception of Information
+- Steps in reception:
+  - **Attention**: Minimum response to receive a message.
+  - **Acknowledgement**: Initial perception.
+  - **Consciousness**: Recall or awareness of the information.
+  - **Interest, Comprehension, Apperception**: Integration into knowledge.
+  - **Agreement/Disagreement**: Recipient's attitude toward the message.
+
+### 6.8.6 Information Utilisation
+- Terms related to actual use and application of information in task performance.
+- Four main forms:
+  - **Instrumental usage**
+  - **Conceptual usage**
+  - **Symbolic usage**
+  - **Communicative usage**
+
+---
+
+## 6.9 Scholarly Research and Communication
+- Research involves investigating phenomena to find truths.
+- **Research activities**:
+  - Question formulation.
+  - Information gathering and management.
+  - Transformation of information back into communicable knowledge.
+- Cognitive development through knowledge representation.
+
+---
+
+## 6.10 Huberman’s Models of the Dissemination and Use of Research
+- Research communication involves dissemination and use of findings.
+- **Selective transformation** of findings may occur unconsciously or intentionally.
+- **Huberman’s models** include:
+  - **General model**: Relationships between role players and factors affecting dissemination and use.
+  - **Predictors**: Organizational factors influence the research context and outcome.
+  
+**Figure 6.1**: General model outlines dissemination variables and their interconnections, influencing research use outcomes and secondary effects.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 6.11 Concluding Remarks
+- Differentiated between **data, information, and knowledge** for understanding the knowledge process.
+- Analyzed steps in the knowledge process to discuss information usage behavior.
+- Focused on **information transfer** and **flow** as vital to Information User Studies.
+
+## 7 STUDY UNIT 7: INFORMATION USAGE
+
+### 7.1 Welcome
+- Introduction to the **information usage model**.
+- Emphasis on **information usage behavior** of scientists and scholars.
+
+### 7.2 Structure of the Study Unit
+- Overview of topics to be examined.
+
+### 7.3 Purpose
+- Explore **information usage behavior** within the knowledge and information process.
+- Address the **interpretation of information** and **reading processes**.
+
+### 7.4 Learning Outcomes
+- Apply the **information usage model**.
+- Recognize **reading and media usage patterns**.
+- Understand **information-seeking patterns**.
+- Appraise **information utilization**.
+
+### 7.5 Assessment Criteria
+- Distinguish concepts related to **information usage behavior**.
+- Identify stages of **information usage**.
+- Differentiate between **descriptive and explanatory aspects** of user behavior.
+- Discuss **reading habits** and **media usage patterns**.
+- Identify typical **information-seeking patterns**.
+- Describe users' methods for information searching.
+- Explain the role of **information technology** in patterns.
+- Discuss **scholarly communication** and channel types (formal/informal).
+- Define **gatekeepers** and **opinion leaders**.
+- Describe the **reading and interpretation process** and strategies.
+- Address **literacy skills** in interpretation (traditional, representational, tool literacy).
+
+### 7.6 Introduction
+- **Information usage** comprises **information-seeking** and **utilization**.
+- Key questions about users include who uses what, and how and where it is obtained.
+- Usage is motivated by needs; involves observable and explanatory aspects.
+
+### 7.7 Stages in Information Usage
+- **Stages identified**:
+  - Decision to use information.
+  - Selection of channels/sources.
+  - Acquisition of sources/information.
+  - Utilization of information.
+- User behavior can be quantified (observable aspects) and explained by demographic factors.
+
+### 7.8 Reading and Media Usage Patterns
+
+#### 7.8.1 Reading Habits
+- Behavioral patterns determine user habits:
+  - What is read, how it is obtained, the timing and frequency of reading.
+  - Interest in specific content (fiction/nonfiction).
+  - Frequency determines purchasing decisions (e.g., dictionaries vs. leisure books).
+
+#### 7.8.2 Patterns of Media Use
+- **Media usage patterns**:
+  - Formats (audiovisual vs. printed).
+  - Distribution channels and their regularity/duration of use.
+
+### 7.9 Information-Seeking Patterns
+- **Information seeking** defined as acquiring information to fill knowledge gaps.
+- Crucial questions include how information is searched, selected, and utilized.
+- Kuhlthau’s model highlights stages in **information search process**:
+  - Initiation, selection, exploration, formulation, collection, presentation.
+- Types of information address general, specific, and pertinent aspects.
+- Sources include individuals and information systems.
+- **Relevance** and **search tactics** (browsing or querying) are essential.
+
+### References
+- **Huberman (1987)**: **Dissemination effort** concept.
+- **Case (2012)**: Definition of information seeking.
+- **Spink (2010)**: Sub-process definition in information behavior.
+- **Kuhlthau**: Model of information search stages and behaviors.
+----- END OF CHUNK -----
+# INS2601/1
+
+## 7.9 Search terms and operators
+
+- **Mental Models:**
+  - Importance of having a focal point in the search process.
+  - Initial phase: General/vague thoughts; seek background info.
+  - Final phase: Directed search; construct a task and precise info needs.
+
+### 7.9.1 Users’ search for information
+- **Macro Level:**
+  - Utilisation of information systems; user demand and movement between services.
+  
+- **Micro Level:**
+  - Use of sources within services (e.g., OPAC searches).
+
+### 7.9.2 Selection of sources
+- Formal research not the sole source of information.
+- Importance of first-hand experience and informal sources.
+- Major informal sources: colleagues, discussions, community organizations.
+- Studies (Chen & Hernon, 1982; Bekker & Lategan, 1988) highlight reliance on informal sources.
+
+### 7.9.3 Use of information technology
+- Emergence of hypertext/hypermedia systems in 1985.
+- **Hypertext:** Non-sequential text allowing user selection via links.
+- **Hypermedia:** Extends hypertext; includes text, graphics, audio, video.
+- Importance of access to all relevant information formats.
+
+### 7.9.4 Use of formal and informal communication sources and channels
+- **Huberman’s model:** Studies information transfer in a wider context.
+  
+- **Garvey-Griffith Model:** Reflects scientific communication process.
+  - Communication is fundamental to science; includes formal and informal methods.
+  
+### 7.9.4.1 Formal communication channels
+- Examples: libraries, journals, conferences.
+- **Electronic networks:** Major contributions to scholarly communication.
+
+### 7.9.4.2 Informal communication channels
+- Examples: invisible college, e-mail, social media.
+- **Cronin (1982):** Identifies characteristics, advantages, and disadvantages of informal communication.
+  - **Characteristics:** Currency, redundancy, relevance, open-endedness.
+  - **Advantages:** Direct dynamics, feedback encouragement, discovery prioritization.
+  - **Disadvantages:** Elitism, instability, possible information distortion.
+
+### 7.9.5 Use of information source systems
+- **Communication forms:** 
+  - Task-oriented, discipline-oriented, general culture.
+  
+- **Information behaviour factors:** Influence channel selection and utilization.
+
+### 7.9.6 Use of information technology in scholarly information
+- **Hurd (2000):** New model for scientific communication in 2020.
+  - **Modernised features:** Technology enhancement of traditional functions.
+  - **Transformed aspects:** Fundamental changes, new functionalities.
+  
+- Communication through electronic journals: crucial for successful information transfer.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 7.10 Information Utilisation
+- How users seek and utilise information.
+- Involves interpretation, reading, viewing, and listening processes.
+
+### 7.10.1 Interpretation
+- User interaction model (Figure 2.1).
+- Two interactions: 
+  - Readers as interpreters (text + reader's background).
+  - Readers as consumers (impact on producers via feedback).
+
+### 7.10.2 Reading Process
+- Interpret textual messages (paper/electronic).
+- Reading is not sequential; more influenced by reader’s input (Johnson 1982).
+- **Schemata**: Background knowledge structures aiding comprehension.
+  - **Content schema**: Reader's knowledge.
+  - **Formal schema**: Text organization.
+- Comprehension depends on interaction between reader knowledge and text (Pearson-Casanave 1984; Zhang 1988).
+- Background knowledge mitigates ambiguity (Pearson, Hansen & Gordon 1979).
+- Language comprehension is crucial (See section 4.11.3.2).
+
+### 7.10.3 Prediction Strategies in Reading
+- Prediction clarifies reading and forms expectations.
+- Relies on reader’s linguistic knowledge and experience (Chang & Watson 1988).
+- Meaning arises from interaction of text and reader's experience (Carpenter & Just 1986).
+
+### 7.10.4 Modes and Depths of Interpretation
+- Modalities of interpretation (Oosthuizen 1989):
+  - Affective/cognitive: Emotions and thoughts.
+  - Verbalistic/projective: Superficial or in-depth.
+  - Subject-related/self-related: Directed thought processes.
+- Depth varies by text richness and reader capability.
+
+### 7.10.5 In-Depth Interpretation of Digital Texts
+- Koutnik (1997): Web surpasses print for information retrieval and references.
+- Shift from print to digital impacts reading practices and comprehension (Gericke 1998).
+- Birkets (1996): Historical shift from intensive to extensive reading; access vs. depth.
+- Overload diminishes sincere engagement with texts.
+
+### 7.10.6 Literacy Skills and Interpretation
+- Literacy transcends printed text due to technological advancement.
+- Diverse forms of literacy (Rafferty 1999):
+  1. Traditional literacy.
+  2. Representation literacy.
+  3. Tool literacy.
+- Distinction between verbal/nonverbal and visual literacy emphasized.
+
+#### 7.10.6.1 Traditional Literacy
+- Ability to read prose and interpret non-prose formats (e.g., graphs).
+- Document literacy involves practical application of information.
+
+#### 7.10.6.2 Representational Literacy
+- Emphasizes analysis and understanding of information (ALA 1991):
+  1. Message origin and intent.
+  2. Attention-grabbing techniques.
+  3. Suggested lifestyles and values.
+  4. Diverse interpretations.
+  5. Omitted information.
+
+#### 7.10.6.3 Tool Literacy
+- Increasing reliance on technology to access diverse information forms.
+- Specialized knowledge is essential for effective use (hurdle to technological literacy).
+
+## 7.11 Concluding Remarks
+- Reviewed user behavior, reading habits, information-search methods.
+- Highlighted interaction of text and reader in meaning-making.
+- Individual backgrounds affect text interpretation.
+- Identified various interpretation modalities and literacy skills' importance in digital contexts.
+
+## 8 STUDY UNIT 8: Effects of Information Usage
+### 8.1 Welcome
+- Final study unit reflects on learned concepts regarding information user and usage.
+
+### 8.2 Structure of the Study Unit
+- Topics overview outlined in the accompanying diagram.
+
+### 8.3 Purpose
+- Concludes study by examining effects of information usage, reading, media usage, and ICTs.
+----- END OF CHUNK -----
+### INS2601/1
+
+#### 8.4 Learning Outcomes
+- Recognise the nature of effects
+- Identify approaches to study media effects
+- Understand record content effects
+- Identify media functions
+- Understand information utilisation
+- Reflect on effects of ICT
+
+#### 8.5 Assessment Criteria
+- Differentiate nature of effects
+- Distinguish approaches to media effects study
+- Identify categories of record content effects
+- Discuss media functions regarding needs satisfaction
+- Describe communication media functions
+- Discuss displacement effects of media functions
+- Discuss research effects and information utilisation
+- Describe instrumental, conceptual, symbolic, communicative, and directional uses of information
+- Explain research use for continued education and development
+- Describe internet, email, mobile devices, and media-assisted networking effects
+
+#### 8.6 Introduction
+- Effect = change resulting from information usage.
+- Immediate and long-term effects on users explored: "user response" and "reading/media effects."
+
+#### 8.7 Nature of Effects
+- Media usage outcome questions:
+  - Use of information and its application.
+- Media effects classification:
+  - Short-term vs. long-term (knowledge, attitudes).
+- Individual vs. social impacts.
+
+#### 8.8 Approaches to the Study of Media Effects
+- User interaction with information records is key.
+- Distinction between:
+  1. Content effect (unanticipated user impact).
+  2. Uses and gratifications approach (satisfaction of needs).
+- Transactional approach: interaction of user, medium, message necessary for effect.
+
+#### 8.9 Record Content Effects
+- Changes in user results from interaction with content:
+  - Affective (emotional), cognitive (knowledge), and behavioral changes.
+- Three categories addressed:
+  1. **Cognitive Changes**:
+     - Learning effects, perceptual skills, language ability, creativity, worldview.
+  2. **Changes in Norms, Values, and Attitudes**:
+     - Media’s role in socialisation and personal development (positive/negative).
+  3. **Behavioral Changes**:
+     - Action changes, leisure activity impacts, search for information.
+
+#### 8.10 Media Functions
+- Impact of media on needs satisfaction and communication:
+  1. **Satisfaction of Needs**:
+     - Users’ gratifications (diversion, social need, identity reinforcement, knowledge).
+     - Distinction between sought and obtained gratification.
+     - Scenarios of media engagement based on gratification outcomes.
+
+### References
+- **Legislation & Cases**: Referenced theories and models include those from McQuail, Dervin, and Noelle-Neumann.
+- **Diagrams**: Reference to figure 2.1 (study unit 2) for information usage model.
+----- END OF CHUNK -----
+# INS2601/1
+
+## 8.10 Effects of Media Usage and Gratification
+
+- **People’s Expectations**  
+  - Media characteristics influence motives for search of gratification.  
+  - Gratification feedback alters perceptions of media.  
+  - Studies indicate a correlation between gratification obtained, media choice, and content choice (Palmgreen, Wenner & Rosengren 1985:22).  
+
+- **Motivation for Media Usage**  
+  - Media usage motivated by gratifications associated with the medium.  
+  - Constraints include availability and work schedule, but motivation is key (Palmgreen et al 1985:22).  
+
+- **User Gratifications Related to Media Effects**  
+  - Motivations can include a need for information, affecting learning from media (Palmgreen et al 1985:30–31).  
+
+## 8.10.2 Functions of Communications Media
+
+- **Functions Identified by Researchers**:  
+  1. **Entertainment Function**  
+     - Diversion, recreation, escapism.  
+  2. **Information Function**  
+     - Deliberate acquisition vs. incidental knowledge assimilation.  
+  3. **Social Function**  
+     - Media as a medium for social contact/interaction.  
+
+- **Complexity of Media Functions**  
+  - Realistic content may combine informative with recreational aspects (Bogart 1983:217).  
+  - Function effectiveness varies across users and content formats (Von Feilitzen 1976:97–102).
+
+## 8.10.3 Displacement Effects
+
+- **Understanding Displacement Effects**  
+  - Related to satisfaction of needs by media.  
+  - New medium satisfaction may displace similar existing activities.  
+  - Factors influencing media preference: age, gender, social status (Neuman 1988:436).  
+  - Emphasis on understanding how media satisfy needs rather than mere displacement.
+
+## 8.11 Effects of Information Utilisation
+
+- **Forms of Information Usage**:  
+  - Instrumental, conceptual, symbolic, communicative, directional, continued education. (Refer to Huberman’s model in figure 6.1)
+
+### 8.11.1 Instrumental Use of Information
+- Defined as direct application for decision making and problem solving.  
+- Involves transforming knowledge into specific behaviours (Havelock 1986b:24–25).  
+- Process of decision making includes problem identification, solution evaluation, and selection (Weiss 1980:381).
+
+### 8.11.2 Conceptual Use of Information
+- Involves influencing thought and policy indirectly through new insights.  
+- Helps users understand and navigate complex social processes (Weiss 1980:390–397).  
+- Policy development may occur without explicit research considerations.
+
+### 8.11.3 Symbolic Use of Research
+- Used to justify previous actions or support opinions in decision-making (Havelock 1986b:24).  
+- Research assists in clarifying and defending positions within debates (Weiss 1980:388).  
+- May involve selective or distorted usage to support specific activities.
+
+### 8.11.4 Communicative Use of Information
+- Knowledge conveyed to others, primarily through intermediaries (Havelock 1986b:23).  
+
+### 8.11.5 Directional Use of Information
+- Research provides guidance for policy formulation and decision-making.  
+- Integrates new information into existing knowledge bases for planning (Weiss 1980:391).  
+
+### 8.11.6 Use of Research for Continuing Education and Development
+- High-level officials utilize research for professional development in knowledge fields.  
+- Sociological research communicates needs and service challenges.
+
+## 8.12 Effects of Information and Communication Technology
+
+### 8.12.1 The Internet
+- Enables information access anywhere with connectivity.  
+- Transformative impact on communication and information dissemination in Africa (Chivhanga 2000:373).  
+
+### 8.12.2 The World Wide Web
+- Distinction between Internet (network) and Web (information system), spanning from Web 1.0 to Web 3.0 (semantic Web).
+
+### 8.12.3 E-mail and Mailing Lists
+- Simplifies global communication, facilitating rapid sharing of information and resources.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## 8.12 Mailing Lists
+- **Definition**: Distribution of information via e-mail to many users (Hock 2010:137).
+- **Uses**:
+  - Communicates specialized topics globally.
+  - Tracks new developments.
+  - Shares common interests and ideas.
+  - Provides searchable archives and FAQs.
+
+## 8.12.4 Mobile Devices
+- **Types**: Handheld devices, PDAs, tablets, smartphones.
+- **Characteristics**:
+  - Portable and personal nature.
+  - Constant accessibility to information.
+  - Facilitates instantaneous information sharing.
+- **Impact**:
+  - Enhances internet and social network access.
+  - Broadens exposure and communication opportunities.
+
+## 8.12.5 Media-Assisted Networking
+- **Definition**: Active information sharing among groups for problem-solving.
+- **Types of Networking**:
+  - Individual exchanges (telephone, e-mail).
+  - Online social networks (Facebook, Twitter).
+- **Impact**: 
+  - Technology enables global networking and information dissemination.
+
+## 8.13 Concluding Remarks
+- **Gratification**: Key outcome of media usage; lack may drive users to alternatives.
+- **Study Focus**: Functional use of media versus user cognition and attitudes.
+- **Technology Impact**: Changing information transfer dynamics via internet and mobile technology.
+
+## Glossary
+- **Concept**: Generalized idea applicable to related phenomena.
+- **Data**: Raw facts before organization.
+- **Decision Making**: Evaluating and selecting among alternatives.
+- **Effect**: Result of an action.
+- **Information**: Processed data useful to individuals.
+- **Information Behaviour**: Actions related to handling information.
+- **Information Literacy**: Abilities to recognize, locate, evaluate, and use information effectively.
+- **Information Overload**: Excessive information causing anxiety.
+- **Information Seeking**: Act of searching for information.
+- **Knowledge**: Internalized information with value and meaning.
+- **Model**: Conceptual representation of ideas.
+- **Open Access**: Scholarly content available online without restrictions.
+- **Social Networking**: Online services for community building.
+- **Web 2.0**: User-generated content and collaboration platforms.
+
+## Bibliography
+- **ACRL**. 2000. Information literacy competency standards for higher education. [Link](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/standards/standards.pdf) (Accessed 12 February 2013).
+- **Budd, JM**. 1989. Research in the two cultures: the nature of scholarship in science and the humanities. *Collection Management*, 11(3/4):1–21.
+- **Case, DO.** 2012. *Looking for information: a survey of research on information seeking, needs, and behaviour*. 3rd edition. Bingley, UK: Emerald.
+- **Dervin, B.** 2005. What methodology does to theory: sense-making methodology as exemplar. In *Theories of information behaviour*, edited by KE Fisher, S Erdelez and LEF McKechnie. Melford, NJ: Information Today, 25–29.
+- **Fairer-Wessels, FA.** 1990. Basic community information needs of urban black women in Mamelodi, Pretoria, South Africa. *South African Journal of Library and Information Science*, 58(4):359–369.
+----- END OF CHUNK -----
+# INS2601/1 Study Notes
+
+## Chapter 1: Information Needs and User Behaviour
+
+### 1.1 Introduction to Information Needs
+- **Havelock (1986)**: Definition and scope of knowledge perspective.
+- **Heine et al. (2000)**: Service-seeking behavior in academic libraries.
+- **Hewins (1990)**: Information needs and usage studies.
+
+### 1.2 Theoretical Frameworks
+- **Huberman (1987)**: Integrated model of research utilization.
+- **Hurd (2000)**: Transformation of scientific communication model.
+- **Ingwersen & Järvelin (2005)**: Integration of information seeking and retrieval.
+
+### 1.3 Research on Information Needs
+- **Kaniki (1995)**: Study of information needs in South African communities.
+- **Katzer & Fletcher (1992)**: Information environment of managers.
+- **King & Palmer (1973)**: User behavior in information retrieval.
+
+### 1.4 Models of User Behaviour
+- **Kuhlthau (1993)**: Principle of uncertainty in information seeking.
+- **Wilson (1981, 1999, 2006)**: Various models in information behavior research.
+
+### 1.5 User Studies  
+- **Lin & Garvey (1972)**: Information needs analysis.
+- **Large (1990)**: Foreign-language barriers in electronic information handling.
+- **Morris (1994)**: User-centered information service concept.
+
+### 1.6 Challenges in Information Access
+- **Cultural & Linguistic Factors**: Studies addressing barriers in information use (e.g., Large, 1990).
+- **Zhang (1988)**: Reading miscues among non-native English speakers.
+
+## Chapter 2: Information Use in the Digital Age
+
+### 2.1 Digital Transformation
+- **Hurd (2000)**: Future models for scientific communication.
+- **Nicholas & Herman (2009)**: Assessing information needs for digital consumers.
+
+### 2.2 User Interaction with Information Systems
+- **Slawsky & Fleming (2000)**: Managing internet access through intranets.
+- **Stevens & McElhill (2000)**: Email usage in organizations.
+
+### 2.3 Impact of Technology on Reading and Literacy
+- **Neuman (1988)**: Displacement effect of television on reading.
+- **Walker (1999)**: The role of technology in raising literacy standards.
+
+## Chapter 3: Research Methodologies in Information Studies
+
+### 3.1 Methodological Approaches
+- **Kunz et al. (1977)**: Analysis and evaluation of information needs.
+- **Vakkari (2001)**: Task-based information retrieval process overview.
+
+### 3.2 Qualitative Research in Information Behavior
+- **Tidline (2005)**: Dervin's sense-making approach.
+- **Tombros & Crestani (2000)**: Users’ perceptions of spoken documents.
+
+### 3.3 Information Behaviour Models
+- **Wilson (1999)**: Overview of behavioral research models.
+- **Welsch (1992)**: Use of hypertext in the humanities.
+
+## Chapter 4: Literacy and Information in Society
+
+### 4.1 Literacy Research
+- **Kaestle (1991)**: Historical perspectives on literacy in the U.S.
+- **Rafferty (1999)**: The influence of information age on literacy.
+
+### 4.2 Societal Impact of Information Access
+- **Roos (2000)**: Access to research among public sector institutions.
+- **McQuail (1987)**: Mass communication theories and societal impact.
+
+### 4.3 The Role of Libraries and Information Services
+- **Morris (1994)**: User-centred approach in library services.
+- **Westbrook (2001)**: User needs analysis handbook.
+
+## References
+- **Citations**: Key references for further reading on discussed theories and principles.
+
+(Documentation richness reduced by 50%, retaining critical points across original chapters and headings.)

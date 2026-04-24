@@ -1,0 +1,1276 @@
+# CONTENTS
+
+## ORIENTATION
+- Course Overview
+  - Purpose: Explore critical reasoning tools; empower personal thinking.
+  - Value: Helps address ethical, social, and political issues in life and work.
+  - Aim: Acquire analytical skills; evaluate knowledge claims; understand cultural stereotypes.
+
+## TOPIC ONE: Introduction to critical reasoning
+1.1 What is critical reasoning?
+- Definition and importance of critical reasoning in decision-making.
+  
+1.2 Becoming a critical thinker
+- Steps and mindset for developing critical thinking skills.
+
+1.3 Critical reasoning competence
+- 1.3.1 Thinking for yourself
+  - Emphasis on independent thought.
+- 1.3.2 Thinking in an informed way
+  - Importance of informed decision-making.
+- 1.3.3 Critical self-reflection
+  - Reflective practices to enhance reasoning skills.
+
+## TOPIC TWO: Obstacles to clear thinking
+2.1 Social conditioning
+- 2.1.1 Preconceived ideas
+  - Challenges posed by biases in perception.
+- 2.1.2 Labelling
+  - Effects of categorization on understanding.
+- 2.1.3 Stereotypes
+  - Impact on critical reasoning.
+
+2.2 Fallacies
+- 2.2.1 Slippery slope argument
+- 2.2.2 Straw man argument
+- 2.2.3 Begging the question
+- 2.2.4 Equivocation
+- 2.2.5 Complex question
+- 2.2.6 Faulty analogy
+- 2.2.7 Ad hominem argument
+- 2.2.8 False appeal to authority
+- 2.2.9 False dilemma
+- 2.2.10 Hasty generalisation
+  - Importance of recognizing and addressing these fallacies.
+
+## TOPIC THREE: Identifying and analysing arguments
+3.1 What is an argument?
+- Definition and significance in reasoning.
+
+3.2 Analysing arguments
+- 3.2.1 Identifying premises and conclusions
+- 3.2.2 The structure of arguments
+- 3.2.3 Applying your knowledge and skills to analysing arguments
+  - Techniques for effective analysis.
+
+## TOPIC FOUR: Evaluating arguments
+4.1 Different types of arguments
+  - Overview of argument classifications.
+
+4.2 Applying your knowledge and skills to evaluating arguments
+  - Methods for assessing the strength of arguments.
+
+## TOPIC FIVE: The use of arguments in different kinds of writing
+5.1 Different kinds of writing
+- 5.1.1 Expressive writing
+- 5.1.2 Journals
+- 5.1.3 Communicative writing
+  - Varieties of writing and their purposes.
+
+5.2 Writing argumentative essays
+  - Structure and components of effective argumentative essays.
+
+5.3 The philosophical attitude
+  - Critical thinking's philosophical foundations.
+
+## BIBLIOGRAPHY
+- Listing of sources and references.
+
+## GLOSSARY: English
+- Definitions of key terms.
+
+## GLOSSARY: Afrikaans
+- Definitions in Afrikaans.
+
+## GLOSSARY: Zulu
+- Definitions in Zulu.
+
+## GLOSSARY: Northern Sotho
+- Definitions in Northern Sotho.
+----- END OF CHUNK -----
+**Study Notes on Critical Reasoning Module**
+
+**vii: Introduction**
+- **Tutorial Letter 101**: Guidelines for organizing studies, including information on syllabus, prescribed book, examinations, assignments, and a study programme.
+- **Prescribed Book**: 
+  - Van den Berg, MES. 2010. *Critical reasoning and the art of argumentation*. 2nd edition. Pretoria: Unisa Press.
+
+---
+
+### Orientation
+
+**Notional Hours**
+- Total: 120 hours allocated across topics.
+
+---
+
+### Topic 1: Introduction to Critical Reasoning (10 hours)
+- Explore the essence of critical reasoning.
+- Develop independence in thinking.
+
+---
+
+### Topic 2: Obstacles to Clear Thinking (20 hours)
+- Understand common reasoning faults (fallacies).
+- Reflect on personal biases and stereotypes.
+
+---
+
+### Topic 3: Analyzing Arguments (25 hours)
+- Skills to evaluate and analyze various arguments.
+- Focus on argument structure and components.
+
+---
+
+### Topic 4: Evaluating Arguments (25 hours)
+- Practice evaluating different argument types.
+
+---
+
+### Topic 5: The Use of Arguments in Writing (20 hours)
+- Learn to construct arguments.
+- Explore critical essay writing.
+
+---
+
+### Learning Outcomes
+- **Demonstrate independent thinking**.
+- **Make informed decisions** based on facts.
+- **Reflect** on personal thinking and biases.
+- **Critically analyze** information and claims.
+- **Apply critical reasoning concepts** to arguments and essays.
+
+---
+
+### Engagement and Participation
+- Active involvement in activities is encouraged.
+- Keeping a journal is advisable for reflection and tracking progress.
+
+---
+
+### Plagiarism
+- Defined as copying without acknowledgment.
+- Punishable by law, it undermines personal academic integrity.
+- **Ways to avoid plagiarism**: Proper citation of sources.
+
+---
+
+### Gender-Sensitive Language
+- Emphasizes inclusion and avoids biased language.
+- Acknowledges gender equality in language use.
+
+---
+  
+**Summary**: Prepare to engage with the content critically, reflect on personal viewpoints, and develop skills in reasoning and argumentation throughout the module.
+----- END OF CHUNK -----
+# TOPIC 1
+## INTRODUCTION TO CRITICAL REASONING
+
+### Key Competencies
+- Think for oneself
+- Think in an informed manner
+- Engage in critical self-reflection
+
+### 1.1 What is Critical Reasoning?
+- Active and skillful conceptualization, analysis, questioning, and evaluation.
+- Opposite of dogma: unquestioned information embraced without critical thought.
+- Encourages questioning beliefs and ideas.
+- Terms used interchangeably: critical reasoning, critical thinking, clear thinking.
+
+### Components of Critical Reasoning
+- **Thinking for yourself**
+- **Informed reasoning**
+- **Critical self-reflection**
+
+### 1.2 Becoming a Critical Thinker
+- Natural ability that can be sharpened through practice.
+- Essential for better decision-making across various life aspects.
+
+---
+
+## Feedback on Warm-Up Activity
+### Argument Weakening and Strengthening
+- **Movie argument:** 
+  - Weaken: Popularity doesn’t equate to quality.
+  - Strengthen: Direct relationship between popularity and quality.
+- **Dog statement:** 
+  - Hidden assumption: All pets are dogs.
+- **Zuma’s university argument:** 
+  - Weaken: Personal background irrelevant to his suggestion.
+  - Strengthen: Personal background relevant to the suggestion.
+- **Headache tablets argument:** 
+  - Weaken: Personal results may not reflect general outcomes.
+  - Strengthen: Personal results indicative of general outcomes.
+
+---
+
+### Important Reflections
+- Understanding parts of an argument’s relationship.
+- Strong language skills essential.
+- Ability to assess argument strengths/weaknesses.
+- Contextual view of argumentation needed.
+
+---
+
+### Julius Malema Profile Overview
+- **Political Background:** 
+  - Former president of ANC Youth League; associated with Economic Freedom Fighters (EFF).
+- **Early Life:** 
+  - Raised in Limpopo, involved with ANC from a young age.
+- **Notable Events:**
+  - International controversy regarding statements about Jacob Zuma.
+  - Expulsion from ANC for conduct unbecoming.
+- **Education:** 
+  - Completed diploma in youth development; enrolled for BA at UNISA.
+- **Political Aspirations:** 
+  - Advocates for the poor and landless, seeks economic emancipation.
+
+## Diagram References
+- (Insert diagram references related to critical reasoning components, processes, or any relevant visual aids). 
+
+---
+----- END OF CHUNK -----
+# INTRODUCTION TO CRITICAL REASONING
+
+## Economic Emancipation Objectives
+- **Expropriation of land** without compensation for redistribution.
+- **Nationalisation** of mines and banks without compensation.
+- **Building government capacity** to abolish tenders.
+- **Provision of free quality education, healthcare, housing, and sanitation.**
+- **Protected industrial development** to create jobs and implement minimum wages to bridge the wage gap.
+- **Development of the African economy** with a shift from reconciliation to justice.
+- **Advocacy for an open, accountable, corruption-free government** without victimization.
+
+## Julius Malema's Background
+- Continues political aspirations amid ongoing legal challenges.
+- Maintains a controversial political approach followed intently by media.
+
+---
+
+## FEEDBACK 
+
+### Importance of Critical Thinking
+- Avoid laziness and blind acceptance of others' ideas to prevent exploitation.
+- Empowerment through independent reasoning enables the challenge of oppressive systems.
+
+### The Role of Societal Values
+- Awareness of societal values and beliefs influences self-perception and understanding.
+- Critical self-reflection helps to question oppressive ideologies and authorities.
+
+---
+
+## 1.3 Critical Reasoning Competence
+
+### Key Components
+- **Thinking for yourself**
+- **Informed reasoning**
+- **Critical self-reflection**
+
+### Thinking for Yourself
+- Encouraged to offer alternative viewpoints and question the world.
+- Emphasizes humility and listening to others' perspectives.
+
+---
+
+### Experiment: Milgram Experiment Overview
+- Aimed to determine obedience to authority by administering electrical shocks.
+- Majority of participants complied despite moral implications.
+
+#### Observations by Milgram (1974)
+- Shows the willingness of individuals to obey authority figures regardless of moral consequences.
+- Highlights the need for critical examination of authority.
+
+---
+
+### Lessons from the Milgram Experiment
+- Indicates readiness to abandon reason for obedience.
+- Encourages suspicion of authority claims and promotes independent critical thinking.
+
+---
+
+### Tips for Developing Critical Thinking
+1. **Ask Questions** - Be inquisitive regarding the validity of information.
+2. **Place Experience Over Authority** - Reflect on personal experiences vs. authoritative claims.
+3. **Understand Motivations** - Assess any underlying agendas of information sources.
+4. **Individuality** - Resist peer pressure and independent thought is valuable.
+5. **Trust Your Instincts** - Listen to gut feelings about information validity.
+6. **Maintain Calm** - Stay composed for better objectivity and rational thought.
+----- END OF CHUNK -----
+# 13 INTRODUCTION TO CRITICAL REASONING
+
+## 1.3.2 Thinking in an Informed Way
+- **Informed Reasoning**: Based on substantiated claims.
+- **Importance**: Essential for responsible opinion formation on political, social issues, interactions.
+- **Key Aspects**:
+  - Opinion vs. substantiated viewpoint.
+  - Need for educated discussions over emotional responses.
+  
+## 1.3.3 Critical Self-Reflection
+- **Critical Self-Reflection**: 
+  - **Definition**: Purposive process of examining personal thoughts.
+  - **Elements**:
+    - Introspection
+    - Self-knowledge and self-awareness
+  
+## Self-Reflection Activity
+- Topics for critical self-reflection:
+  - Marriage
+  - Single parenting
+  - Racial differences
+  - Gender differences
+  - Homosexuality
+  - Heterosexuality
+  - HIV/AIDS
+  - Personal identity ("What am I?", "Who am I?", "How do others see me?")
+
+## Summary
+- Clarity in thinking crucial for problem-solving.
+- Importance of independent thinking in overcoming preconceived ideas.
+
+# 17 TOPIC 2 OBSTACLES TO CLEAR THINKING
+
+- **Competences Developed**:
+  - Recognising obstacles to clear thinking.
+  - Avoiding fallacies and stereotypes.
+----- END OF CHUNK -----
+# 19 OBSTACLES TO CLEAR THINKING
+
+## 2 TOPIC 2
+
+### Social Conditioning
+- **Definition**: Inherited or assimilated biases from family, school, and society influence perspectives.
+- **Impact**: Social customs and institutions significantly shape worldview, making objective assessment challenging.
+  
+### 2.1 Social Conditioning (Seeing Only What We Expect to See)
+- Biases affect perception prior to critical evaluation.
+- Reflection on inherent biases necessary for clear reasoning.
+
+#### 2.1.1 Preconceived Ideas
+- **Definition**: Unquestioned beliefs formed through community interaction.
+- **Critical Assessment**: Evaluating validity of beliefs is essential; grounded scrutiny demanded.
+- **Example Case**: Surgeon riddle illustrates preconceived ideas linked to gender stereotypes.
+
+### Preconceived Ideas and Critical Reasoning
+- Analyze preconceived notions: societal conditioning & stereotypes hinder critical analysis.
+- Efforts for objectivity essential despite skepticism regarding absolute objectivity.
+
+### Impact of Negativity
+- Parents' attitudes deeply influence beliefs and outlook, affecting individual perspectives.
+
+### Claims Analysis
+- Example Claims:
+  - Peter (wealthy) = Individuality & capitalism.
+  - Paul (poor) = Community & socialism.
+- **Critical Reflection**: Such claims often rooted in assumptions rather than reasoned analysis.
+
+### Systematic Examination of Preconceived Ideas
+- Critical reasoning encourages reflection without mandating change in beliefs.
+- Aim for rational defensibility in inherited ideologies.
+
+**Note**: Refer to Diagram References (not provided in text) for visual aids in understanding concepts discussed.
+----- END OF CHUNK -----
+# 25 OBSTACLES TO CLEAR THINKING 
+
+## 2.1.2 Labelling
+- Labels focus on specific features relevant to context but can obscure important attributes.
+- Relevant examples:
+  - Labeling as “disabled” for considerate treatment.
+  - Labeling as “doctor” may lead to undue trust in unrelated expertise.
+  - Racial labels in South Africa highlighted differences, ignoring commonalities.
+- Labelling fosters prejudiced thinking, hindering critical reasoning.
+
+## 2.1.3 Stereotypes
+- Reliance on labels causes stereotyped assumptions, leading to prejudice.
+- Stereotypes are often applied by groups to those outside their group.
+- Example patterns:
+  - The rich vs. the poor, youth vs. the elderly.
+  - Misidentification in contexts like police line-ups (cross-race effect).
+- Societal constructs simplify complex human realities, prompting dehumanization in conflicts.
+- Exposure to individuals disrupts generalizations and stereotypes.
+
+**Diagram Reference:** Cross-Race Effect
+
+## 2.2 Fallacies
+- Defined: A fallacy is a deceptive argument where the supporting reasons are irrelevant to the claim.
+- Distinction: Fallacy vs. factual error; the former is reasoning error, the latter is simply incorrect fact.
+- Types not covered:
+  - Appeal to ignorance, coercion, emotional manipulation, shifting burden of proof, etc.
+
+### 2.2.1 Slippery Slope Argument
+- Leads from minor premises to exaggerated conclusions.
+- Basis: Allowing exceptions to rules could result in the abandonment of those rules due to ambiguous distinctions.
+
+----- END OF CHUNK -----
+# OBSTACLES TO CLEAR THINKING
+
+## 2.2 Fallacies
+
+### 2.2.1 Slippery Slope Argument
+- Form: 
+  1. Event X occurs.
+  2. Therefore, event Y will follow inevitably.
+- Fallacy: Lacks argument linking X and Y directly.
+
+### Examples:
+- Tuition fees escalating to R10,000.
+- South Africa's foreign troop involvement leading to extensive military presence.
+- Giving leeway leading to being taken advantage of.
+- Banning one form of literature leading to broader censorship.
+
+### Extended Example:
+- Preventing smoking in cinemas threatens personal liberty and democratic principles.
+
+### 2.2.2 Straw Man Argument
+- Definition: Misrepresenting an opponent's argument to defeat it easily.
+- Example: Responding to animal rights by claiming animals cannot claim rights due to perceived stupidity.
+- Identification: Requires familiarity with the topic to recognize misrepresentation.
+
+### 2.2.3 Begging the Question
+- Definition: Conclusion presupposed in premises (circular reasoning).
+- Example: "Deliberate ending of a foetus is murder" used to define abortion without new support.
+
+### 2.2.4 Equivocation
+- Definition: A word used with different meanings in the same argument.
+- Example: Alvaré’s argument on "humanity" of embryos versus the right to life.
+- Explanation: Ambiguity not due to grammar but to distinct meanings of words.
+
+### 2.2.5 Complex Question
+- Definition: Two or more questions disguised as one.
+- Example: "Is it government’s unlawful conduct or moral decline causing economic issues?"
+- Another Example: "Have you stopped beating your wife and children?"
+- Implication: Assumes answer to one question within the other.
+
+### 2.2.6 Faulty Analogy
+- Definition: Comparing two dissimilar things without relevant similarities.
+- Example: Comparing dog breeding to child rearing—oversimplifies both.
+
+### General Note on Fallacies
+- Categorization of fallacies as distraction fallacies; deeper exploration available in prescribed materials.
+- Emphasis on identification and understanding of various fallacies in debates and discussions.
+
+### Examples of Additional Distractive Fallacies:
+1. Right to bear arms linked to overreach.
+2. Illegal sales practices presumptions.
+3. Global warming skepticism due to lack of proof.
+4. Existence of ghosts not disproven, thus believed to exist.
+5. Risks of gambling leading to crime.
+6. Promises of honesty in used car sales.
+7. Mischaracterization of gun control advocates.
+8. Flawed analogies (e.g., marriage without love and driving without brakes).
+----- END OF CHUNK -----
+# OBSTACLES TO CLEAR THINKING
+
+## 2.2.7 Ad Hominem Argument
+- **Definition**: Attacks the character of the person making a claim instead of the claim itself.
+- **Forms**:
+  - Personal attack on character.
+  - Attack on circumstances of the claimant.
+  - Attack on claimant's interests.
+
+## 2.2.8 False Appeal to Authority
+- **Definition**: Citing an authority not relevant to the context to justify a claim.
+- **Example**: A medical doctor asserting moral justification for human cloning is a false appeal to authority if they lack expertise in ethics.
+
+## 2.2.9 False Dilemma
+- **Definition**: Presents only two alternatives when more exist.
+- **Example**: Suggesting only aggressive or submissive responses ignores complexities.
+
+## 2.2.10 Hasty Generalisation
+- **Definition**: Generalizing based on insufficient evidence.
+- **Example**: Claiming all good engineers are men based on limited observations is hasty.
+
+### Summary
+- **Common Fallacies**: Ad hominem, false appeal to authority, false dilemma, hasty generalisation.
+- **Focus**: Develop a sense of recognizing bad arguments through practice, beyond specific fallacy identification.
+
+---
+
+# IDENTIFYING AND ANALYSING ARGUMENTS
+
+## Competence Goals
+- Identify arguments.
+- Analyze simple and complex arguments.
+
+## Philosophical Background
+- **Socrates (469–399 BC)**: Enigmatic figure in Greek philosophy, known through Plato's dialogues.
+- **Plato (428–347 BC)**: Prominent philosopher who, along with Socrates and Aristotle, contributed foundational concepts to Western philosophy.
+- **Aspasia (470–400 BC)**: Influential woman philosopher known for her rhetorical skills, political influence, and as a muse to Pericles and Socrates. 
+
+---
+----- END OF CHUNK -----
+# STUDY NOTES ON IDENTIFYING AND ANALYSING ARGUMENTS
+
+### 3.1 What is an argument?
+
+- **Definitions of Argument**:
+  - (1) Quarrel between individuals.
+  - (2) Group of statements aimed at establishing truth or acceptance of a claim.
+  - (3) Exchange of differing opinions where reasons are provided for positions.
+
+- **Context**: In critical reasoning, "argument" refers to senses (2) and (3).
+
+- **Example Uses**:
+  - Descartes on existence.
+  - Plato’s Republic dialogue regarding justice.
+
+- **Argument Definition**:
+  - A group of statements; one is the conclusion, others are premises aimed to support said conclusion.
+
+### 3.2 Analysing Arguments
+
+#### 3.2.1 Identifying Premises and Conclusions
+
+- **Premises**:
+  - Support statements in an argument.
+  - Provide reasons for accepting the conclusion. Not all reasons are valid or relevant.
+
+- **Conclusions**:
+  - Statements intended to be supported by the premises.
+  - The objective of an argument is to affirm the truth or acceptability of the conclusion.
+
+- **Example Argument**:
+  - Premise: "My nose itched this morning."
+  - Conclusion: "So I am going to be upset later today."
+  - Analysis: No valid connection between premise and conclusion; conclusion is unsupported.
+
+### Key Concepts
+
+- **Sound Argument**: Conclusion is true or acceptable due to the premises and valid structure.
+
+### Additional Topics for Exploration
+
+- Authors will delve deeper into identification and analysis of premises and conclusions in future sections.
+- Follow up with further reading in Chapter 4 of the prescribed book for advanced analysis techniques. 
+
+### References
+- Notable philosophical arguments: **Descartes** (Meditations), **Plato** (Republic).
+- Legislation: South African Constitution relevant to affirmative action discussions.
+- Case Studies: Edward vs. Samantha on affirmative action; moral implications.
+----- END OF CHUNK -----
+# IDENTIFYING AND ANALYSING ARGUMENTS
+
+## Page 49
+
+### Activity
+- Identify premises & conclusions in arguments:
+  1. If President Obama were wise, then he would withdraw military forces from Iraq. He has withdrawn his forces from Iraq. Therefore, he must be wise.
+  2. Abortion is morally justified because a woman has a right to decide what happens to her body.
+  3. Since there are no mental diseases, there can be no treatments for them.
+  4. Prisons in South Africa are a failure: 
+     - They do not rehabilitate anyone.
+     - They provide free room and board rather than punishment.
+     - They allow criminals to exchange information.
+     - Those who have been imprisoned are likely to reoffend.
+  5. Capital punishment is morally wrong:
+     - It consists of killing human beings.
+     - Killing human beings is morally wrong.
+
+### Indicators of Arguments
+- **Premise Indicators**:
+  - because, since, given that, first, secondly, etc.
+- **Conclusion Indicators**:
+  - therefore, in conclusion, thus, consequently.
+
+## Page 50
+
+### Analysis Example (Activity 4)
+- **Argument**: Prisons in South Africa are a failure.
+  - Premises:
+    1. They do not rehabilitate anyone.
+    2. They provide free room and board.
+    3. They allow criminals to swap information.
+    4. Those with imprisonment are likely to recommit crimes.
+  - **Conclusion**: Prisons in South Africa are a failure.
+
+### Analysis Example (Activity 5)
+- **Argument**: Capital punishment is morally wrong.
+  - **Premises**:
+    1. Killing human beings is morally wrong.
+    2. Capital punishment consists of killing human beings.
+  - **Conclusion**: Capital punishment is morally wrong.
+
+## Page 51
+
+### Structure of Arguments
+- Identifying how conclusions relate to premises:
+  - Independent support: Each premise supports the conclusion separately.
+  - Interdependent support: Premises combined provide conclusive support.
+
+#### Example of Independent Support
+- **Argument**: 
+  - 1. Abortion preserves mother’s rights.
+  - 2. Abortion prevents unwanted children.
+  - **Conclusion**: Abortion should be legally available.
+
+#### Example of Interdependent Support
+- **Argument**: 
+  - 1. All human beings are mortal.
+  - 2. Sue is a human being.
+  - **Conclusion**: Sue is mortal.
+
+### Missing Premises 
+- Arguments can have omitted premises required for sufficiency of support.
+  - Example: Peter is a poor student because he reads comics. 
+    - Missing premise: "Students reading comics are poor." 
+
+## Page 52
+
+### Logical Compulsion
+- Accepting premises and structure compels acceptance of conclusion.
+- Non-acceptance implies rejection of at least one premise or rejection of structure validity.
+
+### Implied Conclusions
+- Some arguments may imply conclusions rather than stating them outright.
+
+## Page 53
+
+### Further Analysis (Activity Passages)
+1. Censorship cannot be easily enforced & criteria are arbitrary/partisan.
+   - Implied conclusion: Censorship is unacceptable.
+2. Without rain, food production/industry suffers:
+   - Implied conclusion: Promote good water management.
+3. Objections to dam short-sighted:
+   - More beneficiaries than detractors.
+   - Those displaced will be compensated.
+   - Jobs created by construction.
+4. Most workers want better pay/conditions:
+   - Implied conclusion: Workers favor trade unions. 
+
+### Feedback
+- Complete activities independently leveraging previous discussions.
+----- END OF CHUNK -----
+# IDENTIFYING AND ANALYSING ARGUMENTS
+
+- **Structure of Argument:**
+  - Premises 1 & 2 support the conclusion interdependently.
+  - Both premises needed for conclusion validation.
+  - Reference to **diagrams** highlighting argument structure.
+
+## TOPIC 3
+
+### 3.2.3 Applying Your Knowledge and Skills to Analysing Arguments
+
+- Step 1: **Clarify the meaning of the argument.**
+- Step 2: **Bracket and number statements; underline signal words.**
+- Step 3: **Identify conclusion(s) of the argument.**
+- Step 4: **Identify premises of the argument.**
+- Step 5: **Provide representation of argument structure.**
+
+### Examples of Argument Analysis
+1. **Argument 1:** Connection between personality and health outcomes.
+   - Main conclusion: Our minds control our bodies.
+   - Premises: Personality influences disease outcomes (1, 2, 3, 4, 5).
+
+2. **Argument 2:** Relationship between depression and the brain.
+   - Main conclusion: Mind as an aspect of the brain.
+   - Premises: Depression can be relieved by drugs (1-4).
+
+3. **Argument 3:** Noise as environmental pollution.
+   - Main conclusion: Increase utilization of local law enforcement for noise control.
+   - Premises: Noise disrupts communities (1-6).
+
+4. **Argument 4:** Gender differences in brain size.
+   - Main conclusion: Male intellectual superiority claims.
+   - Premises: Statistical averages of brain size (1-7).
+
+### Summary
+- Identified components: arguments, premises, conclusions.
+- Techniques for analysis established.
+- Competence in analysis aids in argument evaluation for subsequent studies.
+----- END OF CHUNK -----
+# EVALUATING ARGUMENTS
+
+---
+
+## 4.1 Different types of arguments
+
+- **Understanding Argument Structures**
+  - Evaluating arguments requires knowledge of argument types and soundness criteria.
+  
+- **Types of Arguments**
+  - **Empirical Arguments**: Based on observable facts.
+  - **Value Arguments**: Pertaining to moral judgments or preferences.
+  - **Deductive Arguments**: Conclusions necessarily follow from premises.
+  - **Inductive Arguments**: Conclusions extend beyond premises.
+
+---
+
+- **Characteristics of Argument Types** (Refer to Chapter 6)
+  - Empirical arguments focus on facts.
+  - Value arguments focus on opinions and moral positions.
+  
+- **Additional Observations**: 
+  - Recognizing argument type is crucial for appropriate analysis.
+
+## Activity Responses
+
+1. **Empirical vs. Value Arguments**:
+   - Empirical arguments assert factual states; correctness is based on external facts.
+   - Value arguments make moral claims; correctness depends on reasoning.
+
+2. **Argument Type Identification**:
+   - (a) Empirical Argument
+   - (b) Value Argument
+   - (c) Empirical Argument
+   - (d) Value Argument
+   - (e) Value Argument
+   - (f) Empirical Argument
+
+---
+
+## Deductive vs. Inductive Arguments
+
+1. **Differences**:
+   - **Deductive Arguments**:
+     - Premises inherently contain the conclusion.
+     - Valid if true premises guarantee the conclusion's truth.
+   - **Inductive Arguments**:
+     - Conclusions offer additional information beyond premises.
+     - Based on reasonable expectations or observations.
+
+2. **Examples**:
+   - **Deductive Argument**:
+     - "If A, then B. A is true, therefore B is true."
+   - **Inductive Argument**:
+     - "Specific observations suggest general conclusions."
+
+---
+
+## Valid vs. Invalid Deductive Arguments
+
+1. **Valid Deductive Argument**:
+   - Structure follows logical rules; premises sufficiently support conclusion.
+   - Example:
+     - "All humans are mortal; Socrates is human; therefore, Socrates is mortal."
+
+2. **Invalid Deductive Argument**:
+   - Structure is flawed; premises do not lead logically to conclusion.
+   - Example:
+     - "If A, then B; not A; therefore, not B."
+
+---
+
+## Conclusion
+
+- **Sound Argument**: A valid argument with all true premises.
+- **Evaluating Arguments**:
+  - Identify argument type.
+  - Assess validity and soundness based on premises and conclusion support.
+  
+(Refer to pictorial diagrams in Chapter 6 as necessary.)
+----- END OF CHUNK -----
+### 67 EVALUATING ARGUMENTS
+
+- **Conclusion**: 3  
+- **Premises**: 1, 2  
+- **Invalid Structure**: Argument not sufficiently supported by premises.
+
+#### Types of Inductive Arguments
+- **Types Defined**: 
+  - Statistical extrapolations 
+  - Inductive reasoning by analogy 
+  - Cause-and-effect reasoning
+
+#### Validity vs. Soundness
+- **Validity**: Refers to structural form, focusing on the relationship between premises and conclusion. 
+- **Soundness**: Concerns the truth of premises and conclusions based on acceptable evidence.  
+
+- **Example**:  
+  - **Argument Structure**:
+    - [Premise 1] All creatures on Mercury have pointed ears.
+    - [Premise 2] Flora is a creature on Mercury. 
+    - **Conclusion**: Flora has pointed ears.
+  - **Validity**: Valid structure (conclusion logically follows premises).
+  - **Soundness**: Unsound (premises lack empirical support).
+
+### 68 TOPIC 4 
+#### Summary
+- **Evaluation Importance**: Understanding types of arguments is essential for effective evaluation.
+- Different approaches are necessary based on argument types.
+
+### 69 EVALUATING ARGUMENTS
+
+- **Personal Reflection**: Evaluate emotional response to images relating to argument evaluation.
+- **Active Participation**: Develop competence in evaluating arguments, considering charitable interpretations.
+
+#### Steps for Argument Evaluation:
+- **Step 1**: Understand argument meaning.
+- **Step 2**: Identify the conclusion.
+- **Step 3**: Locate supporting reasons.
+- **Step 4**: Evaluate reason acceptability.
+- **Step 5**: Formulate personal opinion on argument quality.
+
+#### Key Considerations:
+- Importance of definitions in arguments.
+- Example: Distinctions in euthanasia cases.
+
+### 70 TOPIC 4
+#### Guidelines for Good Arguments:
+- A good argument is a **sound** argument.
+- It should be **consistent**.
+- Must provide **sufficient and relevant reasons** supporting its conclusion.
+- Evidence must align with other established claims.
+
+---
+
+### 71 EVALUATING ARGUMENTS
+
+**Critical Arguments for Evaluation**:
+
+- **(A)** Argument against pornography as anti-female propaganda (Barnett 1997).
+- **(B)** A woman harming her unborn child incurs psychological repercussions (Olen & Barry 1999).
+- **(C)** Recognition of animal rights challenged through reasoning about suffering (Bentham 1970).
+- **(D)** Crime vs. death rates in slums vs. hospitals (Van den Haag 1998).
+- **(E)** Critique of social responsibilities in business as socialism (Friedman 2002).
+- **(F)** Dignity in dying and euthanasia's ethical considerations (Olen & Barry 1999).
+- **(G)** Inconsistency of affirmative action in past vs. present contexts (Wasserstrom 1997).
+----- END OF CHUNK -----
+# EVALUATING ARGUMENTS
+
+## (H) BANNINGS RIGHT
+- Government restrictions on 18 political/trade union organizations.
+- Restrictions on promoting communism as per ANC.
+- South Africa's anti-communist stance justifies these restrictions.
+- Critics are labeled as communists or sympathizers.
+- Emphasis on eradicating communism outweighs concerns about repression.
+
+## (I) HELP, NOT HANDOUT
+- Critique of "affirmative action"; contrasts with "equal opportunity".
+- Arthur Ashe's view: affirmative action undermines self-worth.
+- Thurgood Marshall’s stance: rights based on race/ability should avoid discrimination.
+- Affirmative action's outcome leads to decreased productivity and lowered standards.
+- Advocates for support without diminishing educational/workplace standards.
+- Emphasis on personal achievement over preference in opportunities.
+
+## TOPIC 4
+
+## (J) Winston Fletcher's Argument Against Tobacco Advertising Restrictions
+- **Tobacco Advertising Restrictions**:
+  - Current restrictions exist, health lobby pushing for broader bans.
+  - Initial arguments: advertising increases cigarette purchases; cigarettes are harmful.
+  - Missing aspect: advertising effects on consumption (e.g., brand switching).
+  
+- **Key Points**:
+  - Advertising does not lead to increased cigarettes sold.
+  - Advertising's historical context in non-incremental purchase behaviors.
+  - Denmark, Norway, and Finland saw smoking rise after advertising bans.
+  - UK and US smoking rates dropped despite advertising.
+
+- **Court's View**:
+  - Canadian court finds no connection between advertising bans and smoking rates.
+
+- **Consequences of Further Restrictions**:
+  - Tobacco companies gain profits by cutting advertising costs.
+  - Market monopolization increases for existing companies.
+  - Absence of health warnings may enhance less safe products.
+  - Potentially reverse downward consumption trends.
+
+- **Psychological Aspect**:
+  - Banning seen as making tobacco more attractive (forbidden fruit).
+  
+- **Conclusion**:
+  - Restrictions viewed as ineffective, invade freedoms, and represent moral gestures lacking utility. 
+
+## (G) Argument Against Affirmative Action
+- **Nature of the Argument**:
+  - Inductive value argument, critiques affirmative action as inconsistent with anti-discrimination postures.
+
+- **Main Claim**:
+  - Advocates of affirmative action exhibit intellectual inconsistency by reversing prior exclusions based on race/sex.
+
+- **Supporting Reasons**:
+  - Past discriminatory policies deemed wrong; current affirmative action similarly flawed.
+
+- **Evaluation of Arguments**:
+  - **Good argument?**: Not sound; fails to acknowledge affirmative action's context for addressing historical discrimination.
+
+## (J) Evaluation of Fletcher’s Argument
+- **Types of Argument**:
+  - Extended complex argument with empirical and value claims.
+
+- **Main Assertions**:
+  - Against banning tobacco advertising, identifying unfounded rationale from health interests; rather, supports industry profit margins and retains market dominance.
+
+- **Direct Responses to Key Points**:
+  - Brand switching vs. increase in consumption debated.
+  - Anticipated effects of international regulations and bans dissected for practical implications.
+
+- **Final Observations**:
+  - Overall ineffective moral posturing of advertising bans; regulatory actions perceived as overreach infringing upon rights.
+----- END OF CHUNK -----
+### 79 EVALUATING ARGUMENTS
+
+- **Counterargument:**
+  - Decreased youth smoking indicates awareness due to tobacco advertising restrictions.
+  - Increases in smoking in Norway, Finland, Portugal support advertising restrictions over outright bans.
+
+- **Point 4:** Canadian court findings show no proven connection between advertising and tobacco consumption; a ban may not lower smoking rates.
+  - **Counterargument:**
+    - Ambiguity in "proven connection"; may relate to lack of warnings from lifted restrictions or "forbidden fruit" syndrome promoting defiance in consumption.
+
+- **Point 5:** Banning tobacco advertising encourages consumption.
+  - Advantages for existing companies:
+    - Savings on advertising costs.
+    - Maintenance of market monopoly.
+    - Production of higher tar products without health warnings.
+    - Potential increase in tobacco use following a ban.
+
+- **Point 6:** A ban is a futile moral gesture.
+  - **Counterarguments:**
+    - False analogy with illegal substances; tobacco is legal and likely has less "forbidden" appeal.
+    - Addictive properties of tobacco are lower than those of illegal drugs, undermining the argument that advertising is unnecessary.
+    - Banning ads does not deter individuals who want to smoke.
+
+- **Counterargument:** Countries with advertising bans (Norway, Finland, Portugal) show rising smoking rates; contrasts with decreasing tobacco use in the US and UK due to awareness campaigns.
+  
+- **Counterargument:** Banning advertising imposes unnecessary controls equated with manipulative advertising.
+  - **Counterarguments:**
+    - Banning seeks to reduce harm, whereas advertising promotes it, merging public control with corporate interest.
+    - Equivocation on “us” conflates public freedom with corporate rights.
+    - Public perception of promoting public good is secondary to its actual efficacy.
+
+- **Counterargument:** Comparison with Hare Krishna movement draws false analogy; anti-advertising efforts can be quantitatively assessed.
+
+- **Counterargument:** Interference with tobacco companies’ advertising is justified if it reduces harmful tobacco use; not unselfish.
+
+- **Evaluation of Argument Quality:**
+  - Chain argument unstable; only the claim on company interests holds against scrutiny.
+  - Lacks clarity on "restrictions," intertwining health warnings with incentives for tobacco consumption.
+  - Implies partiality in favor of tobacco messaging without regard for public health impacts.
+
+---
+
+### 82-83 TOPIC 5 THE USE OF ARGUMENTS IN DIFFERENT KINDS OF WRITING
+
+- **Objectives:**
+  - Distinguish between different kinds of writing.
+  - Construct argumentative essays according to specific rules.
+  - Engage in self-reflection to address own biases and assumptions.
+
+#### 5.1 Different kinds of writing
+- Critical reasoning focuses on argumentative writing, though other types exist (descriptive, comparative, narrative).
+- Understanding various writing forms enhances comprehension of argumentative writing's principles.
+----- END OF CHUNK -----
+# THE USE OF ARGUMENTS IN DIFFERENT KINDS OF WRITING
+
+## 5.1 Kinds of Writing
+
+- **Purpose of Writing**:
+  - Personal growth and understanding.
+  - Critical thinking, creativity, analysis, synthesis, informed judgment.
+  - Categories: expressive writing vs. communicative writing.
+
+### 5.1.1 Expressive Writing
+- **Characteristics**:
+  - Personal, informal.
+  - Encourages comprehension and reflection.
+  - Open-ended and creative; good for initial learning.
+- **Purpose**:
+  - Helps students make sense of new topics.
+
+### 5.1.2 Journals
+- **Definition**:
+  - Reflective tools (learning logs, idea notebooks).
+- **Utility**:
+  - Record thoughts, questions, and ideas.
+  - Can be integrated into various courses.
+
+### 5.1.3 Communicative Writing
+- **Definition**:
+  - Analytical, formal, impersonal writing.
+- **Contexts**:
+  - Essays, reports, official documents.
+- **Characteristics**:
+  - Emphasizes logic and adherence to conventions.
+  - Transforms personal observations into objective prose.
+
+## 5.2 Types of Communicative Writing
+- **Categories Discussed**:
+  - Descriptive writing: focuses on describing phenomena.
+  - Comparative writing: highlights similarities and differences.
+  - Narrative writing: tells a story.
+  - Argumentative writing: defends a position with logic.
+
+## 5.3 Writing Argumentative Essays
+- **Foundational Elements**:
+  - Knowledge of issues and arguments.
+  - Importance of thorough text reading for comprehension.
+
+### Key Features of Argumentative Writing
+- **Thesis Statement**: Clearly define what you will argue.
+- **Problem Analysis**: Explain the issue related to the thesis.
+- **Research Material**: Use necessary documentation and references.
+- **Support for Thesis**: Provide relevant reasons.
+- **Definition of Concepts**: Clarify key terms.
+- **Counterarguments**: Anticipate and address opposition.
+- **Language and Structure**: Use appropriate tone and organization.
+
+### Brief Guide to Writing Argumentative Essays
+- **Skills Development**: Effective argumentation is learned, not innate.
+- **Objective**: Aim to convince the reader through logical reasoning.
+
+> Note: For further exploration of writing methodologies, refer to Chapter 8 of the prescribed textbook.
+----- END OF CHUNK -----
+# THE USE OF ARGUMENTS IN DIFFERENT KINDS OF WRITING
+
+## Page 91
+
+### Features
+- **Topic Selection** 
+  - Choose a well-defined, controversial issue. 
+  - Ensure readers understand the issue and stakes.
+
+- **Clear Position**
+  - State your position directly in the thesis without using "I believe."
+  
+- **Convincing Argument**
+  - Support assertions with credible data (facts, testimonials, statistics).
+  - Utilize educated, nonbiased sources.
+  
+- **Reasonable Tone**
+  - Maintain professionalism and anticipate reader skepticism.
+  - Address potential objections to enhance credibility.
+
+### Key Example Topics
+1. Euthanasia
+2. Cloning
+3. Bioterrorism
+4. Affirmative Action
+5. Death Penalty
+6. Human Trafficking
+7. Xenophobia
+
+## Page 92
+
+### Argument Structure
+- Define the problem/claim before presenting the thesis. 
+- Provide adequate reasoning for the claim.
+- Ensure discussion relevance and provide illustrations via examples.
+- Address counterarguments thoughtfully.
+- Include bibliographical references.
+
+### Sample Thesis
+- **Thesis Example**: "Abortion is morally permissible when the mother’s life is endangered by continued pregnancy."
+
+## Page 93
+
+### Argument Development
+- **Self-defense Principle**: A mother has a right to protect herself against a life-threatening pregnancy.
+- Differentiate between the rights of a mother (person) and the foetus (potential person). 
+- Ensure all arguments avoid fallacious reasoning.
+
+### Use of Language
+- **Supportive vs. Opposing Views**: Use varied terminology (e.g., proponents, opponents, advocates, objectors).
+- **Verbs for Opinion Expression**: Replace "say" with alternatives like assert, claim, maintain.
+
+## Page 94
+
+### Philosophical Attitude
+1. **Clarity and Rigour**: Essential for understanding and avoiding distortion.
+  
+2. **Tolerance**: Be open to divergent viewpoints; advocate based on reasoned conviction.
+  
+3. **Critical Perspective**: Scrutinize underlying assumptions without taking things for granted.
+  
+4. **Imagination**: Encourage creative thinking about alternative perspectives and solutions.
+
+## Page 95
+
+### Reflection and Critical Thinking
+- Engage in introspection regarding the implications of critical reasoning skills.
+- Assess the impact of critical reasoning on decision-making and ethical dilemmas.
+- Explore how critical thinking aids in interdisciplinary studies and general understanding of the world.
+
+### Final Notes
+- Acknowledge that worldviews shape perceptions and influences.
+- Understand that beliefs evolve through various experiences.
+----- END OF CHUNK -----
+# 97 THE USE OF ARGUMENTS IN DIFFERENT KINDS OF WRITING
+
+- **Critical Self-Reflection and Discovery**
+  - Explore basic beliefs influencing attitudes and behavior.
+  - Cultivating a critical attitude requires openness to others' viewpoints.
+
+- **Conclusion**
+  - Emphasized the importance of participating in the “initiation process”.
+  - Skills acquired: 
+    - Reflection on personal thinking.
+    - Development of a critical attitude towards stereotypes, biases, and fallacies.
+    - Analysis and evaluation of arguments.
+    - Construction of personal critical arguments.
+  - Encouragement to register for additional philosophy modules:
+    - Topics include: 
+      - Introduction to Western Philosophy
+      - Biomedical Ethics
+      - Business Ethics
+      - Environmental Ethics
+      - Philosophy of Science
+      - African Philosophy
+
+# 98 BIBLIOGRAPHY
+
+- **Key References**
+  - Allport, GW. 1954. *The Nature of Prejudice*. Cambridge: Addison-Wesley.
+  - Bentham, J. 1970. *Introduction to the Principles of Morals and Legislation*. London: Athlone.
+  - Barnett, HA. 1997. *Sourcebook on Feminist Jurisprudence*. London: Cavendish.
+  - Kahane, H & Cavender, N. 2006. *Logic and Contemporary Rhetoric*. Belmont: Wadsworth/Thomson Learning.
+  - Plato. 1966. *The Republic*. London: Longmans.
+  - Teays, W. 2003. *Second Thoughts: Critical Thinking for a Diverse Society*. Boston: McGraw-Hill.
+  - Various academic articles and online resources.
+
+# 99 GLOSSARY: ENGLISH
+
+- **Key Terms**
+  - **Ad hominem argument**: Attack on opponent's character instead of their claim.
+  - **Fallacies**:
+    - **Affirming the consequent**: Incorrectly confirming the antecedent leads to false conclusions.
+    - **Begging the question**: Assuming what one is trying to prove.
+    - **False dilemma**: Presenting only two choices when more exist.
+  - **Argument**: Group of statements; one is the conclusion, the others are premises.
+  - **Critical reasoning**: Active evaluation of ideas and beliefs.
+  - **Evaluating arguments**: Critically examining claims and supporting evidence.
+  - **Valid argument**: Structure supports conclusion; premises are true.
+
+- **Types of Writing**:
+  - **Argumentative writing**: Seeks to persuade on a specific viewpoint.
+  - **Descriptive writing**: Provides information or describes events.
+
+- **Errors in Reasoning**:
+  - **Hasty generalization**: Drawing conclusions from insufficient evidence.
+  - **Faulty analogy**: Comparing disparate cases without relevant similarities.
+
+- **Other Definitions**:
+  - **Stereotypes**: Generalizations about group characteristics based on inaccurate images.
+
+*Diagrams referred to in the original text for visual aid in understanding complex argument structures were omitted for brevity but are noted to be referenced as necessary.*
+----- END OF CHUNK -----
+### Page 103 - Conclusion and Arguments
+
+- **Conclusion**: Main statement in an argument intended to be proven by premises.
+- **Consequent**: What follows if the preceding conditions are accepted as true.
+- **Counterargument**: Argument formulated in response to another argument.
+- **Counterexample**: Specific example used to refute a claim made in an argument.
+- **Critical reasoning**: Ability to conceptualize, analyze, question, and evaluate ideas and beliefs.
+- **Critical self-reflection**: Active questioning of one’s own thoughts and beliefs; relates to self-knowledge and awareness.
+- **Critical thinking**: Synonym for "critical reasoning".
+- **Deductive argument**: Assumes premises sufficiently support the following conclusion.
+- **Denying the antecedent fallacy**: Argument suggesting that if the antecedent does not occur, the consequent cannot occur.
+- **Descriptive writing**: Type of writing that describes or provides information about a state of affairs or events.
+- **Distraction fallacies**: Occur when attention is diverted from a weak point of an argument.
+- **Emotion fallacies**: Confuse emotion with reason.
+- **Empirical argument**: Argument asserting that certain empirically determinable facts apply.
+- **Equivocation**: Fallacy occurring when a word or phrase is used in different meanings in different parts of the same argument.
+- **Evaluating arguments**: Process of critically studying the credibility of claims made in an argument.
+- **Fallacious reasoning**: Invalid reasoning that suppresses relevant evidence or contains dubious premises.
+- **Fallacy**: A misleading argument that aims to persuade acceptance of a claim based on irrelevant or inappropriate reasons.
+- **False appeal to authority**: Example of fallacy when an authoritative figure not an expert in the discussed field is cited.
+
+### Page 104 - More Fallacies and Definitions
+
+- **False dilemma**: Occurs when a reasoner presents a choice between two options when more alternatives exist.
+- **Faulty analogy**: When a comparison is drawn between two different cases without relevant similarities.
+- **Hasty generalisation**: Conclusion made based on insufficient evidence.
+- **Inductive argument**: Argument where the conclusion is subject to probability.
+- **Invalid deductive argument**: Argument where the structure is invalid; premises do not adequately support the conclusion.
+- **Logical definition**: Definition based on properties shared by all items covered by the term.
+- **Narrative writing**: Type of writing focused on unfolding a story or recounting a sequence of events.
+- **Persuasive definition**: Definition aiming to influence the reader's attitude and thoughts by proposing a new meaning.
+- **Preconceived idea**: Assumption prevalent in a society affecting thought, often without critical reflection.
+- **Premise indicator**: A word or phrase introducing a premise.
+- **Premise**: A statement serving as a reason supporting the argument's conclusion.
+- **Principle of charitable interpretation**: When multiple interpretations of an argument are possible, the argument should be interpreted to give premises the strongest support for the conclusion.
+- **Slippery slope argument**: Argument that leads from an apparently insignificant first premise to exaggerated consequences.
+- **Social conditioning**: Seeing only what one expects to see.
+- **Sound**: Argument that is valid and has all premises accepted as true.
+- **Soundness**: Relates to the truth or strength of the premises in an argument.
+
+### Page 105 - Statements and Statistical Reasoning
+
+- **Statement**: A claim that is either true or false.
+- **Statistical extrapolation**: Inductive reasoning based on a statistical study to make conclusions about a target population from a sample group.
+- **Stereotypes**: Generalizations about characteristics of all members of a group, often incorrect.
+- **Stipulative definition**: Definition stipulating that a term must be used in a certain manner.
+- **Straw man argument**: Misleading reasoning that portrays an opponent's position in a distorted or mocked way.
+- **Structural fallacies**: Contain reasoning flaws due to invalid form or structure.
+- **Thesis**: Conclusion of an extensive argument.
+- **Valid deductive argument**: Argument whose structure is valid and premises adequately support the conclusion.
+- **Valid**: Criterion of coherent reasoning requiring premises to support the conclusion either deductively or inductively.
+- **Validity**: Relation between premises and conclusion of an argument.
+- **Value argument**: Argument expressing a preference or moral judgment.
+----- END OF CHUNK -----
+# GLOSSARY: ZULU
+
+- **Soundness**: Ukuba nesisindo - eqinisweni noma esisindweni sesichasiselo.
+- **Statement**: Isitatimende - iqiniso noma ingamanga.
+- **Statistical extrapolation**: Izibalo ezilinganisayo - ukukhipha isizathu ngokuya ngobufakazi bezibalo.
+- **Stereotypes**: Ababheka uhlangothi olulodwa - imicabango engalungile mayelana nabantu.
+- **Stipulative definition**: Incazelo eyalezelayo - incazelo ethile yeqembu.
+- **Straw man argument**: Impikiswano yomuntu oyedwa - ukuveza umbono ophikisayo ngendlela engamanga.
+- **Structural fallacies**: Ukuma kwento engamalutha - ukuphikisa okungakhombisi iqiniso.
+- **Thesis**: Umqondo ogcinayo - isiphetho sempikiswano.
+- **Valid**: Iqiniso - ukuqinisekisa okusekelwe kuhlaka.
+- **Valid deductive argument**: Impikiswano ehlaziyayo eyiqiniso - indlela yokucabanga yokuxhasa isiphetho.
+- **Validity**: Ukuba neqiniso - ubudlelwane phakathi kwesichasiselo nesiphetho.
+- **Value argument**: Impikiswano eyiqiniso - evuma kunezizathu zokusingatha izinqumo ezingekho emthethweni.
+
+# GLOSSARY: NORTHERN SOTHO
+
+- **Ad hominem argument**: Kgang ya Ad hominem - ukugxila kumuntu, hhayi izizathu.
+- **Affirming the consequent fallacy**: Go tiišetša kgang ya sephetho se se fošagetšego - amanga okuphikisa imiphumela.
+- **Analogy**: Tshwano - umqondo oqhathaniswayo.
+- **Analysing arguments**: Go sekaseka dikgang - ukuhlaziya izizathu.
+- **Antecedent**: Ketapele - pegu yokugcina.
+- **Appeal to force fallacy**: Kgopelo go gapeletša kgang - use of force rather than reason.
+- **Appeal to the masses**: Kgopelo go mašabašaba - ukulamula phakathi kwabantu.
+- **Argument**: Kgang - ukudweba izizathu.
+- **Argumentative writing**: Go ngwala ka mokgwa wa go ngangiša - ukubhalela ukuhlekisa.
+- **Begging the question fallacy**: Mogopolo wo o fošagetšego wa go kgopela potšišo - ukuphikisa imbangela.
+- **Cause-and-effect reasoning**: Kgopolo ya lebaka le ditlamorago - ukuveza ubudlelwane.
+- **Comparative writing**: Go ngwala ka go bapiša - ukuqhathanisa izimo.
+- **Complex question fallacy**: Kgopolo ye e fošagetšego - imibuzo enzima enezinhlangothi eziningi.
+- **Conclusion**: Sephetho - umphumela wokugcina.
+- **Conclusion indicator**: Tšhupo ya sephetho - izinkanyezi ezikhipha isiphumo.
+- **Consequent**: Ditlamorago - imiphumela yangemuva.
+- **Counterargument**: Kgang ya go ganetša - ukuphikisana nokuphendula.
+- **Counterexample**: Mohlala wo o lego kgahlanong - isibonelo esiphikisa umbono.
+- **Critical reasoning**: Phahlelo ya go tsenelela - ukukhanya kokucabanga.
+- **Critical self-reflection**: Boitekolo bja go tsenelela - ukucabangisisa.
+- **Critical thinking**: Kgopolo ya go tsenelela - ukuhlaziya umbono.
+- **Deductive argument**: Sephetho go tšwa mehlaleng - ukuveza izizathu.
+- **Denying the antecedent fallacy**: Go ganetša kgopolo ye e fošagetšego ya mathomo - ukuphika ikhanda.
+- **Descriptive writing**: Go ngwala ka go hlaloša - ukuhlinzeka ngemininingwane.
+- **Distraction fallacies**: Maaka a go tloša šedi - ukuphazamiseka okungamanga.
+- **Emotion fallacies**: Kgopolo ye e fošagetšego ya go huetša maikutlo - ubuhlungu bokucabanga.
+- **Empirical argument**: Kgang go ya ka maitemogelo - izizathu zokuziphatha.
+- **Equivocation**: Polelo ye e sa kwagalego - ukungaqondi kahle kwemisho.
+- **Evaluating arguments**: Go lekola dikgang - ukuhlola izizathu.
+- **Fallacy**: Mogopolo wo o fošagetšego - ukungaqondakali okungamanga.
+- **False appeal to authority**: Maatlakgogedi a bofora - ukugxila kumuntu ongakaze ahlole.
+- **False dilemma**: Boemo bjo bothata bja bofora - ukunciphisa izinketho.
+- **Faulty analogy**: Ditshwantshwani tše di nago le phošo - ukugxila kwezinto ezingafani.
+- **Fallacious reasoning**: Kakanyo ye e fošagetšego - izizathu ezingasengozini.
+- **Hasty generalisation**: Sephethokakaretšo sa ka pela - izimpikiswano ezingakhombisi iqiniso.
+- **Inductive argument**: Ngangišano go ya ka sephetho - ukuveza izizathu ezisekelwe kumongo.
+- **Invalid deductive argument**: Kgang ya kgonthišišo ya bonnete bja sephetho - isiqabunga esingapheli.
+- **Logical definition**: Tlhalošo ya go kwagala - ukuhlinzeka ngencazelo eqondile.
+- **Narrative writing**: Mongwalokanegelo - ukubhalela izindaba.
+- **Persuasive definition**: Tlhalošo ya go kgodiša - ukulama izizathu.
+- **Preconceived idea**: Kgopolo yeo go šetšego e akantšwe - umbono osesithombeni.
+- **Premise indicator**: Sešupo sa pego - izinkomba ezivela ngaphambi.
+- **Premise**: Pego yeo e thekgago sephetho - izizathu ezikhulumayo.
+- **Principle of charitable interpretation**: Molao wa tlhathollo ya maleba - izincazelo ezicacile.
+- **Slippery slope argument**: Kgang ya ditiragalo tšeo di ka hlolago kotsi - umbono wezingozi.
+- **Social conditioning**: Tlwaetšo yamaitshwaro - imikhuba yokuziphatha.
+- **Sound**: Kwagalago - ukuhamba kahle.
+- **Soundness**: Bokgonthe - ukuhamba ngokunembile.
+- **Statement**: Pego - obala.
+- **Statistical extrapolation**: Kakanyo ya sephetho sa dipalopalo - ukuvuna ukuhlelwa.
+- **Stereotypes**: Dikgopolotee - ucwaningo lwemibono.
+- **Stipulative definition**: Tlhalošo go ya ka mabaka - incazelo ethile.
+- **Straw man argument**: Kgang ya kganetšo ya mophenkgišani - ukuphikisa umbono.
+- **Structural fallacies**: Kgang ya tlhamego ye e fošagetšego - ukungaqondakali kwedokhumenti.
+- **Thesis**: Thesese - umphumela.
+- **Valid**: Kgonthe - okucacile.
+- **Valid deductive argument**: Sephetho sa makgonthe - isizathu esithembekile.
+- **Validity**: Tiišetšo - ubudlelwane phakathi kwephrojekthi.
+- **Value argument**: Kgang ya mohola - umbono wokuziphatha.

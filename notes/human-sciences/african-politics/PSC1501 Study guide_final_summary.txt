@@ -1,0 +1,495 @@
+# PSC1501/501/1/2019 Study Notes
+
+## CONTENTS
+
+### Introduction
+- Aimed at aspiring science teachers
+- Emphasizes personal experience in Practical Science for effective teaching
+- Importance of integrating practical activities into learning programs
+- Connection between motivation for learners and understanding theoretical concepts
+
+### Study unit 1: WHY PRACTICAL SCIENCE?
+1.1 **Introduction**
+   - Overview of significance of practical science in education  
+   
+1.2 **Why Practical Science? What the research proposes**
+   - Enhances engagement and retention of scientific concepts
+
+1.3 **Why is Practical Science often left out?**
+   - Historical neglect in curriculum
+
+1.4 **Clarifying the four reasons**
+   - 1.4.1 **Motivation**
+     - Increases student interest in science  
+   - 1.4.2 **Developing practical skills**
+     - Essential for real-world applications  
+   - 1.4.3 **Learning the scientific approach**
+     - Encourages critical thinking and problem-solving  
+   - 1.4.4 **Gaining a better understanding of theoretical aspects of the subject**
+     - Reinforces comprehension of scientific principles  
+
+1.5 **How should a teacher do practical work?**
+   - Incorporation of hands-on activities and guided exploration  
+
+1.6 **Inquiry-based science education**
+   - Focus on student-led investigations and questioning  
+
+### Study unit 2: PRACTICAL SCIENCE IN THE SCHOOL CURRICULUM
+2.1 **Introduction**
+   - Necessity of practical science in curriculum design  
+
+2.2 **Classifying practical activities**
+   - Different types and purposes of practical science activities  
+
+2.3 **What you need for Practical Science for the classroom?**
+   - 2.3.1 **Classroom versus laboratory**
+     - Distinctions between settings  
+   - 2.3.2 **Equipment for Practical Science in the classroom**
+     - Essentials for carrying out experiments  
+   - 2.3.3 **Supporting Practical Science in the classroom**
+     - Curriculum alignment and teacher training  
+   - 2.3.4 **Safety in the classroom and environmental impact outside it**
+     - Importance of safety protocols  
+   - 2.3.5 **Washing up, tidying, maintenance**
+     - Organizational strategies for practical work  
+   - 2.3.6 **Practical Science on a shoestring budget**
+     - Resourcefulness in low-budget settings  
+   - 2.3.7 **Practical Science in the IT age**
+     - Integration of technology in experiments  
+   - 2.3.8 **Practical Science in the classroom**
+     - Recommendations for effective implementation  
+
+### Study unit 3: INVESTIGATING THE BIG IDEAS OF SCIENCE
+3.1 **What are the Big Ideas of Science?**
+   - Core concepts underpinning scientific education  
+
+3.2 **Where do the Big Ideas of Science come from?**
+   - Origins from scientific inquiry and foundational theories  
+
+3.3 **How can we investigate a Big Idea of Science?**
+   - 3.3.1 **Investigating the particle Big Idea with a learning cycle approach**
+     - Step-by-step inquiry process  
+   - 3.3.2 **Investigating a Big Idea of Science and achieving the aims of practical work**
+     - Aligning practical work with learning objectives  
+
+3.4 **What are the Big Ideas about Science? How can Practical Science contribute?**
+   - Connection between practical activities and theoretical understanding  
+
+### Study unit 4: MODELLING, REPRESENTING AND COMMUNICATING SCIENCE
+4.1 **Introduction**
+   - Role of representation in science education  
+
+4.2 **Modelling**
+   - Importance of models in understanding scientific concepts  
+
+4.3 **Art**
+   - Utilizing artistic approaches to convey scientific ideas  
+
+4.4 **Drama**
+   - Engaging learners through dramatic representations of scientific scenarios  
+
+4.5 **Field trips**
+   - Benefits of hands-on experiences and real-world exposure in learning  
+
+---
+
+**Diagram References:** Include diagrams where referenced in units for enhanced understanding.
+----- END OF CHUNK -----
+# PSC1501/1  
+## LEARNING UNIT 1 (HCE)
+
+### 1 Why Practical Science?
+#### 1.1 INTRODUCTION
+- Public image of science: Often misrepresented by stereotypes.
+- Misunderstanding leads to scientific illiteracy among adults.
+- Importance of science education: Motivating learners through practical understanding.
+
+#### 1.2 WHY PRACTICAL SCIENCE? WHAT THE RESEARCH PROPOSES
+- Practical science involves hands-on experiences in the curriculum.
+- Traditional lab settings are often unrealistic for many schools.
+- **Woolnough and Allsop (1985)** - Four main benefits of practical science:
+  - Motivation
+  - Developing practical skills
+  - Learning the scientific approach
+  - Gaining better understanding of theoretical aspects
+
+#### 1.3 WHY IS PRACTICAL SCIENCE OFTEN LEFT OUT?
+- Evidence suggests many teachers lack practical skills due to insufficient training.
+- Curriculum requirements for practical work may appear non-essential, leading to avoidance.
+- Teachers may prioritize exam success over practical skills, deeming practical work as a low priority.
+
+#### 1.4 CLARIFYING THE FOUR REASONS
+##### 1.4.1 Motivation
+- Motivation linked to:
+  - Curiosity: Desire to learn and ask questions.
+  - Achievement: Reaching conclusions and demonstrating competence.
+  - Understanding: Connecting concepts, models, and theories in science.
+
+##### 1.4.2 Developing Practical Skills
+- Skills include:
+  - Manipulative skills: Performing experiments safely (e.g., filtering).
+  - Observational skills: Accurate measurement and critical analysis.
+  - Experiment design: Understanding variables and safety.
+
+##### 1.4.3 Learning the Scientific Approach
+- Common misconceptions: Absence of pre-conceived ideas leads to bias.
+- Reality: Scientists often operate from initial hypotheses while recognizing potential biases.
+
+##### 1.4.4 Gaining a Better Understanding of Theoretical Aspects of the Subject
+- Theories evolve from observations and experimental evidence.
+- Big Ideas in science:
+  - Identifying causes of natural phenomena.
+  - Developing explanations that fit current evidence.
+- Importance of purposive experimentation to enhance understanding.
+
+#### 1.5 HOW SHOULD A TEACHER DO PRACTICAL WORK?
+- Focus on linking:
+  - Domain of objects to the domain of ideas.
+- Design practical sessions that account for varied student experiences.
+- Ensure that practical work is meaningful and contributes to understanding.
+
+#### 1.6 INQUIRY-BASED SCIENCE EDUCATION
+- Inquiry-based learning: Promotes understanding through active engagement.
+- Aligns with social constructivist views of learning.
+- Effective implementation is essential but time-consuming; prioritization is necessary.
+- Inquiry often necessitates practical activities for deeper comprehension.
+----- END OF CHUNK -----
+# PSC1501/1
+## 2 LEARNING UNIT 2 (HCE)
+### 2 Practical science in the school curriculum
+
+#### 2.1 INTRODUCTION
+- Integration of practical work and theory is essential to strengthen concepts. 
+- Types of practical work: 
+  - Demonstrations
+  - Experiments
+  - Investigations
+- Assessment forms: formal and informal. 
+
+#### 2.2 CLASSIFYING PRACTICAL ACTIVITIES
+- **Demonstrations**: Teacher-led, students observe, may record data.
+  - Goal: Illustrate concepts without direct student involvement. 
+  - Examples: 
+    - Ripple tank for interference.
+    - Relationship of normal force to static friction.
+
+- **Experiments**: Guided activities for verification of theories.
+  - Focus on clear instructions and preparation of materials.
+  - Examples: 
+    - Electric circuits with series and parallel resistors.
+    - Conservation of matter experiments.
+
+- **Practical investigations**: Student-led, allow for initiative and broader exploration.
+  - Require significant time, emphasize scientific method.
+  - Examples: 
+    - Conservation of linear momentum study.
+    - Investigating electrolytic and galvanic cells.
+
+- **Projects**: Comprehensive activities encouraging problem selection and planning.
+  - Often integrate practical activities with other subjects.
+  - Examples: 
+    - Exothermic vs. endothermic reactions.
+    - Snell’s Law. 
+
+#### 2.3 WHAT YOU NEED FOR PRACTICAL SCIENCE FOR THE CLASSROOM?
+##### 2.3.1 Classroom versus laboratory
+- Laboratories equipped for scientists; schools need functional classrooms.
+- Schools should focus on essential services like water and electricity.
+ 
+##### 2.3.2 Equipment for Practical Science in the classroom
+- Requirements:
+  - Sufficient space for safety and movement.
+  - Simple, robust equipment for hands-on activities.
+  - Separate storage for chemicals and equipment.
+
+##### 2.3.3 Supporting Practical Science in the classroom
+- Provide instructions via:
+  - Overhead projectors or computer displays.
+  - Videos for equipment setup demonstrations.
+
+##### 2.3.4 Safety in the classroom and environmental impact outside it
+- Anticipate hazards, primarily from chemicals.
+- Implement rules for safe behavior akin to lab settings.
+
+----- END OF CHUNK -----
+### PSC1501/1  
+### LEARNING UNIT 2 (HCE): Practical Science in the School Curriculum
+
+#### 2.3.5 Washing Up, Tidying, Maintenance
+- Learners must participate in cleaning and organizing after practical activities.
+- Establish rules for cleanliness and inspection of equipment to avoid penalties.
+- Timely washing of equipment is critical to prevent damage; typically done outside classroom.
+- Practical science teaches essential life skills and team-working.
+- Group work (2-4 learners) is preferred to ensure participation and responsibility sharing.
+
+#### 2.3.6 Practical Science on a Shoestring Budget
+- Limited funding should not deter practical science; creative problem-solving is vital.
+- History of scientific achievements demonstrates resourcefulness over financial expenditure.
+- Collect items from environment or households for hands-on activities.
+- Common consumer chemicals (sugar, salt, vinegar) are sufficient for many experiments.
+- Compliance with curriculum is secondary to the core learning objectives.
+
+#### 2.3.7 Practical Science in the IT Age
+- Virtual experiences can supplement real-world practical science, especially for complex/dangerous experiments.
+- Virtual demonstrations allow close examination and commentary.
+- However, development of practical skills cannot be fully achieved virtually.
+- Assessment of IT materials is crucial for effectiveness in teaching.
+
+#### 2.3.8 Practical Science in the Classroom
+- Practical science involves students directly engaging with tangible elements.
+- Millar, Le Marechal, and Tiberghien (1999) suggest hands-on or observational activities are essential.
+
+### LEARNING UNIT 3 (HCE): Investigating the Big Ideas of Science  
+
+#### 3.1 What are the Big Ideas of Science?
+- Science education must evolve to integrate new discoveries effectively.
+- South African learners score poorly internationally in science, indicating a need for reform.
+- Big Ideas of Science provide a framework for inquiry-based education (IBSE).
+  
+- **Key Points from Harlen (2010):**
+  - Many students lack understanding of core scientific concepts due to current curricula.
+  - The goal is not mere fact retention but building broad ideas enabling informed citizenship.
+
+#### Big Ideas of Science (Harlen 2010):
+1. All matter consists of very small particles.
+2. Objects can affect others at a distance.
+3. Net force is required to change an object's motion.
+4. Total energy in the universe is constant, but transfers occur.
+5. Earth and atmosphere processes shape surface and climate.
+6. The solar system is a small part of billions of galaxies.
+7. Organisms are cellular, with finite lifespans.
+8. Organisms need energy from or compete with others.
+9. Genetic information is inherited.
+10. Diversity of organisms results from evolution.
+
+- CAPS curricula (Grades 4-12) includes these ideas, but emphasis on their importance in building understanding may be lacking. Each concept is foundational to the overall comprehension of natural sciences.
+----- END OF CHUNK -----
+# PSC1501/1 
+## LEARNING UNIT 3 (HCE): Investigating the big ideas of science
+
+### 3.2 WHERE DO THE BIG IDEAS OF SCIENCE COME FROM?
+- Historical context:
+  - Early theories were based on logical thinking without experimentation.
+  - Example: Ancient atomic theory; materials composed of different atoms.
+- Importance of methodology:
+  - **Big Ideas of Science** arise from a combination of **thinking and experimentation**.
+  - Development through iterative approach: building, testing, discarding flawed ideas.
+- Learner experience parallels scientists:
+  - Similar process in education, where learners develop 'bricks' (ideas) that may later be corrected.
+- Role of the educator:
+  - Curriculum design must support gradual development of scientific concepts.
+  - Science teachers are crucial for facilitating effective learning in GET and FET bands.
+
+### 3.3 HOW CAN WE INVESTIGATE A BIG IDEA OF SCIENCE?
+
+#### 3.3.1 Investigating the particle Big Idea with a learning cycle approach
+- Continuity of investigation across educational phases (Grades 4-12).
+- CAPS curriculum outlines subjects/content but requires teacher initiative to develop concepts.
+- Example: Overview of particle ideas throughout grades:
+  - **Grade 6: Solid, Liquid, Gas**  
+    - Particle arrangement in states; introduction to mixtures.
+  - **Grade 7: Physical properties of materials**  
+    - Variation in particle shape; chemical properties of acids and bases.
+  - **Grade 8: Atoms**  
+    - Molecules as particles; chemical bonds and their electrical forces.
+  - **Grade 9: Compounds**  
+    - Chemical formulae indicating atomic composition; valency of different atoms.
+
+- Addressing curriculum gaps:
+  - Teachers should proactively include relevant concepts beyond CAPS requirements to enhance understanding of scientific principles.
+- Practical activities:
+  - Essential for linking observations with theoretical concepts.
+  - Emphasize the importance of structuring practicals to accommodate learners in varied resource settings.
+
+## PSA 1: WHERE DOES THE WATER COME FROM?
+### Background
+- Introduction of **particle model** in Grade 6.
+- Focus on water's three states (solid, liquid, gas) and common observational experiences as a springboard for discussion.
+
+### Instructions
+1. Prepare a vial with crushed ice; measure initial temperature.
+2. Seal vial; record classroom air temperature.
+3. Observe condensation on the vial's exterior after a few minutes.
+4. Engage in inquiry about the source of the liquid observed.
+
+### Discussion
+- Explore the concept of water molecules (H2O) being too small to be seen.
+- Distinguish between states concerning molecular arrangement and movement.
+- Discuss temperature effects on molecular attraction and state changes (solid, liquid, gas).
+
+## PSA 2: SMELLS IN THE AIR AND DEFLATING BALLOONS: HOW CAN WE EXPLAIN THEM?
+### Background
+- Introduction to the presence of various molecules in the air, utilizing smells (e.g., ammonia).
+- Objective: Investigate permeability of rubber to ammonia molecules using a balloon as a model.
+
+### Instructions
+1. Prepare indicator paper and secure with rubber material over a vial.
+2. Add ammonia solution and observe changes in indicator color.
+
+### Discussion
+- Color change indicates ammonia molecules passed through rubber, informing about molecular size.
+- Chemical reactions illustrate bond formations and transformations at the molecular level.
+
+### Extension
+- Suggest extension activity related to sugar dissolving in water, linking sweetness perception to molecular presence.
+- Encourage learners to report observations and frame explanations through the **particle model of matter**.
+----- END OF CHUNK -----
+# PSC1501/1 Study Notes
+
+## LEARNING UNIT 3 (HCE): Investigating the Big Ideas of Science
+
+### Q3.2: The Particle Big Idea - Smelling and Tasting
+- Smell and taste are influenced by particles.
+- PSA 3 illustrates the role of molecules in air, including:
+  - **Molecules present:** Water vapor, ammonia, nitrogen (N₂), oxygen (O₂), argon (Ar).
+  - Reaction-dedicated molecules: **O₂ participates in combustion** while **N₂ and Ar do not**.
+- Combustion definition: Chemical reaction producing **heat and light**, typically exothermic.
+
+### PSA 3: Burning a Candle - Different Molecules in the Air
+- Experiment with candle combustion in air to ascertain molecule types involved.
+- Observations:
+  - The candle burns using **O₂**; nitrogen does not participate.
+  - Chemical reaction releases energy (heat and light), signaling **lower energy molecules** are formed.
+
+### Extension: Investigating Rusting of Steel Wool
+- Conduct an experiment comparing a candle's combustion within two jam jars with steel wool and water.
+- **Observations on rusting** in relation to oxygen availability and molecular interactions.
+
+### Q3.3: Mixing Molecules and Energy Changes
+- Air is a **mixture of molecules**: O₂ and N₂ deduced from their reactivity.
+- **Water is a pure substance** but commonly mixed with impurities.
+- Mixing liquids (water and methylated spirits):
+  - Temperature rise indicates energy change due to intermolecular forces, suggesting stronger **W–E forces** than **W–W** or **E–E forces**.
+  
+### PSA 4: Experimental Procedure
+- Mixed 1 ml of water and methylated spirits and noted temperature change.
+- Discussion points:
+  - Energy release suggests **physical change** rather than chemical reaction.
+  - Physical changes yield smaller energy fluctuations compared to chemical changes.
+
+### Q3.4: Volume Change on Mixing
+- Experiment to test potential volume changes on mixing molecules, focusing on intermolecular interactions and energy effects.
+
+### PSA 5: Forces Within and Between Molecules
+- Energy changes are linked to attractive forces among molecules.
+- Experiments:
+  - Static rise in energy/practical exploration through interaction with charged objects (e.g., propettes).
+  
+### Discussion on Electronic Charges
+- Charged particles like electrons facilitate attractions between molecules.
+- **Electrons can facilitate bond and intermolecular force strength**, introducing concepts of bonding and reactions upon collisions.
+
+### Extension: Exploring Static Electricity
+- Further experiments with charged objects allow for practical understanding and reporting on static electrical behavior.
+
+### Q3.5: Everyday Examples of Static Electricity
+- Potential classroom examples for applying concepts of static electricity to daily life contexts.
+
+### PSA 6: Current Electricity - Charge Transfer
+- Discusses how static electricity differs from current electricity in charge movement.
+- Current electricity involves long-distance travel of charged particles, initiated by electrochemical cells. 
+
+### Summary Points
+- Importance of molecule types in reactions (combustion).
+- Relationship between intermolecular forces and energy changes.
+- Differentiate between physical and chemical changes in molecular interactions.
+----- END OF CHUNK -----
+# PSC1501/1  
+
+## LEARNING UNIT 3 (HCE): Investigating the big ideas of science  
+
+### 3.1 Practical Investigations  
+- **Circuit Construction**  
+  - Cells contain chemicals reacting separately in two halves.  
+  - + and – signs indicate electron flow.  
+  - Electric current is electron flow from one reactant to another.  
+
+### 3.1.1 Electron Transfer  
+- Electrons flow from high potential energy (PE) to low PE areas.  
+- Negative electrons leave at the – side and enter at the + side.  
+- Current flows through metal strips, not solid materials.  
+
+### 3.1.2 Observations  
+- Light bulb glows when current flows, indicating energy transfer.  
+- Resistance in components affects electron transfer rate (Amps).  
+- Chemical reaction inside the cell is the real energy source.  
+- Electrical energy differs from thermal energy in transfer methods.  
+
+### 3.2 Extension Activities  
+- Create a simple zinc-copper cell:  
+  - Use copper and zinc strips, connecting wire, and solutions.  
+  - Observe changes in strip appearances when connected.  
+
+### 3.2.1 Chemical Reactions  
+- Zinc reacts with copper ions via electron transfer:  
+  - **Balanced Reaction**: Zn(s) + Cu²⁺(aq) = Zn²⁺(aq) + Cu(s).  
+- Salt bridge facilitates ion movement to maintain charge balance.  
+
+### 3.3 Investigating Big Ideas  
+- Reflect on the four aims of practical science:  
+  1. **Practical Skills**: Care and handling of equipment; accurate measurement; safety protocols.  
+  2. **Theoretical Understanding**: Importance of personal experience for engagement in learning.  
+  3. **Scientific Approach**: Experiments designed with preconceived ideas.  
+  4. **Motivation**: Engaging activities increase interest in scientific exploration.  
+
+### 3.4 Big Ideas about Science  
+- Four major concepts:  
+  1. Science seeks causes for natural phenomena.  
+  2. Scientific explanations evolve with evidence.  
+  3. Scientific knowledge is applied in engineering/technology.  
+  4. Ethical, social, economic, and political implications arise from scientific applications.  
+
+### 3.4.1 Contribution of Practical Science  
+- Practical activities illustrate and foster understanding of Big Ideas.  
+- Activities provide evidence for theoretical concepts within investigative context.  
+- Inquiry questions from practical activities stimulate technological solutions and societal discussions.  
+
+### 3.5 Conclusion  
+- Teachers facilitate discussions, ensuring hands-on experiences foster learning.  
+- Effective science teaching engages learners through active participation, enhancing retention and understanding.
+----- END OF CHUNK -----
+# PSC1501/1
+### 4 LEARNING UNIT 4 (HCE)
+#### 4 Modelling, representing and communicating science
+
+---
+
+### 4.1 INTRODUCTION
+- Practical Science includes practical activities supporting the curriculum.
+- Focus on ancillary activities that complement core practical science.
+
+### 4.2 MODELLING
+- **Definition**: Modelling as a method to visualize theoretical ideas using physical objects.
+- Examples from Unit 3 (Particle Big Idea):
+  - **PSA 4**: Mixing models with beads representing water (blue) and alcohol (red).
+    - **Combining beads**: Demonstrates homogeneous mixture.
+    - **Different liquids**: Requires modifications (gluing beads) to illustrate separation due to strong intermolecular forces.
+- Cautions in modelling:
+  - Discrepancies (color, shape, movement) do not hinder understanding.
+  - Importance of distinguishing significant aspects from non-significant ones.
+- **Alternative methods**: 
+  - Drawing with stencils for accuracy in representation.
+
+### 4.3 ART
+- Incorporating art to express scientific concepts.
+- **Topics for artistic expression**: Environmental impacts, particle representation.
+- Example from PSA 4: Creating art depicting molecular mixing and interactions.
+
+### 4.4 DRAMA
+- Utilizing drama to illustrate scientific concepts and misconceptions (e.g., dissolving sugar).
+- Scenario creation: Characters to convey different scientific opinions (e.g., melting vs. disappearing).
+- Objective: Promote understanding through evidence and discussion.
+
+### 4.5 FIELD TRIPS
+- Purpose: Engage learners with science in natural environments, not limited to biology.
+- Potential for motivation and discovery in real-world contexts.
+- **Preparation**:
+  - Define learning objectives.
+  - Background knowledge on careers or scientific principles related to the trip.
+  - Include educational activities for learners (questions, reports).
+- **Field trip outcomes**:
+  - Unexpected educational moments; examples from a chromium mine visit (understanding elements vs. compounds).
+
+--- 
+
+*Note*: Refer to specific PSAs above for detailed examples pertaining to modelling molecules and related activities. This structured note focuses on key concepts and disregards detailed explanations to cater to efficient study.

@@ -1,0 +1,1036 @@
+# PYC3703 TUT 501 - MOCK EXAM JUNE/JULY 2022  
+## Psychology PYC3703 (University of South Africa)
+
+### Contents  
+- Introduction  
+- Study Unit 1: Introduction to Cognitive Psychology  
+- Study Unit 2: Cognitive Neuroscience  
+- Study Unit 3: Perception  
+- Study Unit 4: Memory  
+- Study Unit 5: Problem-Solving  
+- Study Unit 6: Judgement, Reasoning and Decisions  
+- List of Sources Referred to in this Tutorial Letter  
+
+---
+
+### Introduction  
+- **Cognitive Psychology**: Study of human mind, cognitive processes, relationship with the brain.  
+- **Key Focus Areas**: Perception, memory, reasoning, decision-making.  
+- **Questions Addressed**:  
+  - Relation of the mind to the brain  
+  - Neural mechanisms of cognition  
+  - Role of subliminal learning  
+  - Accuracy of memories  
+  - Problem-solving skill development  
+  - Potential of intelligent machines  
+- **Aim**: Enhance understanding of cognition for application in education, industry, and understanding mental dysfunctions.
+
+---
+
+### Study Unit 1: Introduction to Cognitive Psychology  
+- **Overview of Cognitive Psychology**: Dynamic exploration of mental processes.  
+- **Important Concepts**: Neural basis of cognition, information processing, role of language and imagery (chapters excluded in study).
+
+---
+
+### Study Unit 2: Cognitive Neuroscience  
+- **Neuroscience Links**: Connection between cognition and neural processes.  
+- **Research Methods**: Neuroimaging, case studies (e.g., brain injuries).  
+- **Key Idea**: Brain as a system supporting cognitive functions.
+
+---
+
+### Study Unit 3: Perception  
+- **Perceptual Processes**: Mechanisms of interpreting sensory information.  
+- **Theories**: Gestalt principles, bottom-up and top-down processing.  
+- **Issues in Perception**: Optical illusions, perceptual errors linked to neurological conditions.
+
+---
+
+### Study Unit 4: Memory  
+- **Types of Memory**: Short-term, long-term, working memory.  
+- **Processes**: Encoding, storage, retrieval.  
+- **Memory Theories**: Multi-store model, levels of processing.  
+- **Relevant Cases**: Studies illustrating memory distortions.
+
+---
+
+### Study Unit 5: Problem-Solving  
+- **Models of Problem Solving**: Steps in troubleshooting, algorithms vs heuristics.  
+- **Factors Affecting Problem Solving**: Mental set, functional fixedness.  
+- **Creativity**: The role of divergent and convergent thinking in problem-solving.
+
+---
+
+### Study Unit 6: Judgement, Reasoning and Decisions  
+- **Cognitive Biases**: Common biases impacting judgement (confirmation bias, availability heuristic).  
+- **Decision Making Models**: Rational choice theory vs bounded rationality.  
+- **Practical Applications**: Implications for workplace decisions, policy-making.
+
+---
+
+### List of Sources Referred to in this Tutorial Letter  
+- Essential readings outlined for each study unit. 
+- Core textbook: **Cognitive Psychology (2nd Edition)** by Goldstein and Van Hooff. 
+
+--- 
+
+### Additional Notes  
+- **Legislation and Cases**: Not directly applicable; focus on cognitive theory and empirical research.  
+- **Diagrams**: Refer to textbook diagrams in each unit for visual understanding of concepts.
+----- END OF CHUNK -----
+# 6 THE SCIENTIFIC METHOD
+
+- **Cognitive Psychology & Scientific Approach**
+  - Scientific method: directions leading to answers and questions.
+  - Historical misuse to justify racialized oppression (Dubow, 1995).
+  - Contentious definition of science, especially in African context.
+
+- **Euro-American Influence**
+  - Psychological theories historically marginalize African ontologies (Curran, 2011; Ramose, 1999).
+  - Indigenous psychology rooted in European Enlightenment; neglects holistic African worldviews.
+  - Contemporary psychology must consider broader politico-ideological backgrounds.
+  
+- **Limits of Current Psychological Methodology**
+  - Current methods inadequately capture African knowledge sources (folklore, idioms, etc.).
+  - Traditional views such as Darwinian evolution may be limited (Nsamenang, 2007).
+  - Holism intrinsic to African universe theory; encompasses matter, life, and mind.
+  
+- **Complex Adaptive Systems**
+  - Emerging field, based on holistic principles, mimics evolutionary processes.
+  - Limitations exist in the understanding of multifaceted realities.
+
+- **Scientific Enquiry**
+  - Begins with questions from systematic observations of phenomena.
+  - Key standards for adequate data:
+    - Accurately shows variable relationships.
+    - Applicable beyond the individual studied.
+    - Produces consistent and accurate information.
+  
+- **Provisional Nature of Theories**
+  - Theories are not permanent; they evolve as scientific understanding matures.
+  - Science as a process, encompassing systematic observation and experimentation.
+
+- **Common Activities in Cognitive Psychology Research**
+  - Observation of phenomena.
+  - Development of theories.
+  - Testing theories through hypotheses.
+  - Evidence collection for hypotheses.
+
+- **Karl Popper's Falsifiability Principle**
+  - Scientific theories must be falsifiable; untestable claims are non-scientific.
+  
+- **Stephen Hawking's Perspective on Theories**
+  - Theories are hypotheses; can only be disproven, never definitively proven.
+
+- **Testing Theories**
+  - Implications derived from theories dictate 'what-if' scenarios.
+  - Example of neural-imaging techniques (fMRI) in cognitive research.
+
+- **Continuous Process of Science**
+  - Constant refinement of theories to generate new hypotheses.
+
+# 8 A SCIENTIFIC ATTITUDE
+
+- **Skepticism**
+  - Good scientists seek alternative explanations for observations (Nogueira & Guzzo, 2016).
+
+- **Systematic Approach**
+  - Critical evaluation of research methods and logic in data interpretation.
+
+- **Parsimony and Ockham’s Razor**
+  - Pursuit of simplest theories that accurately explain observations.
+
+- **Critical Evaluation Role**
+  - Readers of research act as evaluators, validating findings in context with existing theories.
+
+- **Figure 1.1: Scientific Process Perspective**
+  - Interplay between researcher and reader in evaluating cognitive psychology research.
+
+# 9 YOUR SYLLABUS AT A GLANCE
+
+- **CP Chapters Overview**
+  - Introduction to cognitive psychology (Chapter 1).
+  - Cognitive neuroscience (Chapter 2).
+  - Perception (Chapter 3).
+  - Short-term and working memory (Chapter 5).
+  - Long-term memory: Structure (Chapter 6).
+  - Long-term memory: Encoding, retrieval, consolidation (Chapter 7).
+  - Everyday memory and memory errors (Chapter 8).
+  - Problem-solving (Chapter 12).
+  - Judgement, reasoning, and decisions (Chapter 13).
+
+# STUDY UNITS
+
+- **Divided into Six Study Units**
+  - Each focuses on specific aspects of cognition, leading to efficient planning.
+
+# KEY CONCEPTS
+
+- **Importance of Understanding Key Concepts**
+  - Essential for grasping the module's material. 
+
+# ADDITIONAL EXPLANATIONS
+
+- **Supplemental Information for Exams**
+  - Some topics provide further explanations relevant to examen questions.
+
+**Note:** The outlined structure presumes a base knowledge of cognitive psychology principles and philosophical inquiries within science, tailored for advanced literature in the domain.
+----- END OF CHUNK -----
+# Study Unit 1: Introduction to Cognitive Psychology
+
+## Prescribed Reading
+- CP, Chapter 1 (Introduction to cognitive psychology)
+
+## Recommended Reading
+- Eysenck, M.W. & Keane, M. (2015). Cognitive psychology: A student’s handbook (7th ed.). Psychology Press, Chapter 1.
+- Matlin, M.W. & Farmer, T.A. (2017). Cognition (9th ed.). John Wiley & Son, Chapter 1.
+
+---
+
+## Learning Outcomes
+- Discuss philosophical and psychological origins of cognitive psychology.
+- Explain emergence of cognitive psychology.
+- Identify Donders and Ebbinghaus as early cognitive psychologists.
+- Describe rise of behaviorism and its influence on mind research.
+- Outline research methods in cognitive psychology.
+- Clarify the information-processing approach's relevance.
+- Reason about human cognition’s central components.
+- Highlight key issues and fields within cognitive psychology.
+- List core ideas shaping cognitive psychology research.
+- Define the importance and relationship of structural and process models.
+- Explain AI's scope and its significance for cognitive psychologists.
+- Discuss the Chinese room argument as criticism of strong AI.
+
+## Key Concepts
+- Analytic introspection
+- Artificial intelligence
+- Behaviourism
+- Choice reaction time
+- Classical conditioning
+- Cognition
+- Cognitive map
+- Cognitive psychology
+- Cognitive revolution
+- Dichotic listening
+- Empiricist approach
+- Information-processing approach
+- Interleaving
+- Logic theorist
+- Mind
+- Operant conditioning
+- Process model
+- Reaction time
+- Retrieval-based learning
+- Savings
+- Savings curve
+- Simple reaction time
+- Structuralism
+- Structural model
+
+---
+
+## Orientation
+- Overview of historical context influencing cognitive psychology.
+- Research methods unique to cognitive psychology.
+- Key issues faced by researchers.
+- Recommended reading for enrichment (consult library resources).
+
+---
+
+## Development of Cognitive Psychology
+- Importance of understanding origins and evolution of cognitive psychology.
+- Consideration of philosophical concepts and psychological theories influencing development.
+
+### Dialectical Process
+- Evolution in science viewed as merging opposite theoretical extremes into compromise.
+- Not all new theories are strictly syncretic; some modify or radically differ from predecessors.
+
+### Empirical Observations and Theory Building
+- Theories derive from interpreting empirical data, involving significant creative components.
+- Emphasis on primary theorists: structuralism, analytical introspection, behaviorism, and Gestalt psychology.
+
+---
+
+## Assumptions in Cognitive Psychology
+- Definition: Assumptions as unproven truths accepted in the study of psychology.
+- Importance of assumptions for focus in cognitive research.
+
+### Behaviourist Approach
+- Critique of behaviorism as overly limited, focusing on observable behaviors while neglecting internal processes.
+
+### Cognitive Psychologists
+- Rejection of behaviorism; mind as an information processing system:
+  - Internal mental activities exist and can be scientifically studied.
+  - Emphasis on experimental methods and tools to explore the mind systematically.
+
+---
+
+## Artificial Intelligence (AI)
+- Overview of AI's connection with cognitive psychology and image of a static field is misleading.
+- Importance of current developments and applications of AI across various domains (transport, medicine, law, etc.).
+
+### Key AI Concepts
+- AI as a rapidly evolving field demanding technological and mathematical understanding.
+- Influence of early computer and information theory on cognitive psychology metaphors.
+
+### Perspectives on AI Evolution
+- Ongoing debates about AI's potential impacts on employment and human self-perception.
+- Concerns regarding reliance on AI technologies for complex tasks.
+
+### Conclusion
+- The interplay between cognitive psychology and AI highlights the need for understanding assumptions in mind research and theoretical developments shaping the disciplines.
+----- END OF CHUNK -----
+# Searle’s Chinese Room Argument
+
+## Page 18
+
+### Overview
+- **Strong AI**: The belief that a program can achieve intelligence akin to human understanding if it passes the Turing test.
+- **Weak AI**: Searle's position that computers cannot truly understand language; they merely follow instructions without comprehension.
+
+### Thought Experiment
+- **Chinese Room**:
+  - A man inside a room, without knowledge of Chinese, processes Chinese symbols received from outsiders using a manual of instructions.
+  - The man generates responses that seem intelligent but lacks understanding.
+
+### Conclusions
+- The man in the room does not comprehend Chinese, similar to how computers process symbols without true understanding.
+- **Syntactic Operations**: Computers perform on symbols, lacking semantic understanding (meaning).
+
+### Rejections of Searle’s Argument
+- Various responses from AI researchers, notably:
+  - **The Systems Reply**: Asserts that the entire system (man, room, instructions) demonstrates understanding.
+    - **Searle’s Rejoinder**: Memorizing rules does not grant understanding; individual components cannot confer meaning.
+  
+  - **The Robot Reply**: Suggests that embedding the program in a robot creates causal links to the environment, potentially providing true understanding.
+    - **Searle’s Response**: Even a robotic embodiment doesn't bestow understanding; the operator merely follows syntactic rules without knowledge of the symbols' meanings.
+    
+---
+
+## Page 19
+
+### Legislation and Cases
+- **Cognitive Psychology Research Goals**:
+  - Understanding human cognition and brain-mind relationship.
+  - Development of intelligent artifacts based on cognitive processes.
+
+### Expert Systems
+- Definition: A computer system simulating expert human decision-making in specialized fields.
+- Example: MYCIN, a system for diagnosing bacterial infections.
+
+### Deep Learning
+- ML technique using complex neural networks on vast datasets for tasks like natural language processing and image recognition.
+- Relevant to cognitive psychology due to its connection to human-like tasks and cognition modelling.
+
+### Weak vs Strong AI
+- **Weak AI**: Aims for simulation of intelligent behavior without implying true mental equivalence.
+- **Strong AI**: Argues that AI programs can replicate human cognitive functions, potentially achieving consciousness.
+
+### Turing Test
+- Passing does not equate to strong AI; it may misrepresent underlying capabilities.
+
+### General Resource References
+- **Go Cognitive (APA)**: Educative resources on cognitive psychology.
+- History of psychology: Valuable classic texts available online.
+----- END OF CHUNK -----
+# Chapter 2: Cognitive Neuroscience
+
+## Prescribed Reading
+- CP, Chapter 2 (Cognitive neuroscience)
+
+## Recommended Reading
+- Eysenck, M.W. & Keane, M. (2015). Cognitive psychology: A student’s handbook (7th ed.). Psychology Press, Chapter 1.
+
+## Learning Outcomes
+- Outline the importance of studying cognitive neuroscience.
+- Describe neuron and synapse structures; explain neural transmission.
+- Recognize techniques for studying neural basis of cognitive processes.
+- Explain neural representation and sensory coding.
+- Discuss localization studies and their implications.
+- Describe neural networks and the use of EEG in this context.
+- Discuss distributed representation across the brain.
+
+## Key Concepts
+- **Neuron**: Basic unit of the nervous system.
+- **Dendrite**: Receives signals from other neurons.
+- **Axon**: Transmits impulses away from the neuron.
+- **Synapse**: Junction between neurons.
+- **EEG**: Measures electrical activity in the brain.
+- **Neurotransmitter**: Chemical messenger for neuron communication.
+- **MRI**: Imaging technique for detailed brain structure.
+- **fMRI**: Assesses brain activity through changes in blood flow.
+- **PET**: Imaging technique assessing metabolic processes in the brain.
+- **TMS**: Non-invasive method stimulating specific brain regions.
+
+## Orientation
+- Cognitive neuroscience connects brain functions and cognitive psychology, utilizing molecular processes and network activities. Advanced techniques (PET, fMRI, MEG) assess brain activities related to cognition. Eysenck & Keane (2015) emphasize the convergence of cognitive psychology and neural science.
+
+## Additional Explanation
+
+### Blood-Brain Barrier
+- Complex system regulating substance entry to the brain; allows small uncharged molecules and fatty-soluble drugs to pass. Active transport mechanisms are essential for certain essential substances.
+
+### Cognition in the Brain
+- Study of neuroanatomy focuses on brain structure and functions, including hemispheric specialization and association areas.
+
+### Double Dissociation
+- A technique identifying cognitive functions through brain damage patterns. Example: A patient with vision impairment but intact auditory function indicates distinct perceptual processes. 
+
+### Diagrams
+- Reference diagrams in Chapter 2 for visualizing neuron structures and brain areas associated with cognitive functions.
+
+## Key Terms
+- **Cerebral Cortex**: Outer layer responsible for higher-order functions.
+- **Frontal Lobe**: Involved in decision making and impulse control.
+- **Temporal Lobe**: Processes auditory information and memory.
+- **Parietal Lobe**: Involved in sensory perception and integration.
+- **Occipital Lobe**: Responsible for visual processing.
+
+### Legislation and Cases
+- None included in this section.
+----- END OF CHUNK -----
+# Study Notes for PYC3703/501/3/2022
+
+## Table of Contents
+- Case Study: Phineas Gage
+- Glossary Check
+- Essay Question
+- Additional Activities
+- Study Unit 3: Perception
+- Key Concepts
+
+---
+
+### Case Study: Phineas Gage
+
+- **Frontal Lobe Damage**: 
+  - Damage caused by a tamping iron incident led to significant personality changes.
+  - Expected cognitive functioning effects: impaired planning, judgment, poor social skills.
+  - Intelligence levels relatively intact.
+
+- **Single Case Studies Concerns**:
+  - Non-representative sample limitations for generalizing findings regarding frontal lobe functions.
+
+### Glossary Check
+
+- **Neuron**: Nerve cell transmitting signals; example: motor neuron.
+- **Dendrite**: Receives signals from other neurons; example: tree-like extensions.
+- **Axon**: Long fiber transmitting signals away from the cell body; example: myelinated axon.
+- **Synapse**: Junction between neurons where communication occurs; example: neurotransmitter release.
+- **EEG (Electroencephalogram)**: Measures electrical activity in the brain; example: sleep studies.
+- **Neurotransmitter**: Chemical messenger between neurons; example: serotonin.
+- **Event-Related Potential**: Brain response to specific sensory event; measured via EEG.
+- **MRI (Magnetic Resonance Imaging)**: Imaging technique using magnetic fields for brain structure visualization.
+- **fMRI (Functional MRI)**: Measures brain activity by detecting changes in blood flow; shows functioning areas during tasks.
+- **PET (Positron Emission Tomography)**: Imaging shows glucose metabolism in the brain; relies on radioactive tracers.
+- **TMS (Transcranial Magnetic Stimulation)**: Non-invasive technique stimulating neuronal activity using magnetic fields.
+- **MEG (Magnetoencephalography)**: Records magnetic field changes from neuronal activity; offers high temporal resolution.
+- **fTCD (Functional Transcranial Doppler Sonography)**: Measures blood flow changes; non-invasive but limited spatial precision.
+- **NIRS (Near-Infrared Spectroscopy)**: Measures cerebral blood flow using light; portable and child-friendly.
+- **Localization of Function**: Concept that specific brain areas are responsible for particular functions.
+- **Cerebral Cortex**: Outer layer of the brain involved in complex functions like thought and perception.
+- **Frontal Lobe**: Associated with executive functions, decision-making, and personality.
+- **Temporal Lobe**: Involved in auditory processing and memory.
+- **Parietal Lobe**: Processes sensory information and spatial awareness.
+- **Occipital Lobe**: Responsible for visual processing.
+
+### Essay Question
+
+- **Nail Injury Information Relay**:
+  - Involvement of pain receptors, sensory neurons, spinal cord processing, motor neurons, and effectors (muscles).
+
+### Additional Activities
+
+1. **Participant Symptoms**:
+   - **Parkinson’s Disease**: Motor control deficits, tremors, rigidity.
+   - **Alzheimer’s Disease**: Memory loss, cognitive decline, confusion.
+   - **Schizophrenia**: Hallucinations, delusions, disorganized thinking.
+
+2. **Brain Lobe Functions in Activity**:
+   - A complex task requires frontal (planning), occipital (visuals), and temporal (auditory) lobe functions.
+
+---
+
+## Study Unit 3: Perception
+
+### Prescribed Reading
+- CP, Chapter 3 (Perception).
+
+### Learning Outcomes
+- Define perception and its challenges in computer modeling.
+- Distinguish between bottom-up and top-down perception.
+- Discuss Helmholtz's unconscious inference theory.
+- Explain Gestalt principles: good continuation, Pragnaz, similarity.
+- Integrate environmental regularities in perception.
+- Apply Bayesian inference to the inverse projection problem.
+- Understand experience-dependent plasticity through experiments (e.g., kittens, Greebles).
+- Analyze the perception-action interaction (Ungerleider and Mishkin, Milner and Goodale).
+- Utilize visual illusions in understanding perception/action pathways.
+- Critique cultural impacts on perception.
+
+### Key Concepts
+- **Perception**: Process of organizing and interpreting sensory information.
+- **Inverse Projection Problem**: Difficulty in reconstructing 3D objects from 2D images.
+- **Bottom-Up Processing**: Data-driven perception based on sensory input.
+- **Top-Down Processing**: Perception influenced by prior knowledge and expectations.
+- **Speech Segmentation**: Identifying boundaries between words in spoken language.
+- **Direct Pathway Model**: Explains pain perception pathways.
+- **Bayesian Inference**: Statistical method for reasoning under uncertainty in perception.
+- **Experience-Dependent Plasticity**: Brain's adaptability based on experiences.
+- **Ebbinghaus Illusion**: Visual illusion demonstrating perceptual influence of context. 
+
+--- 
+
+These notes consolidate critical concepts from the study unit while maintaining the integrity of the original structure, ensuring an effective study guide.
+----- END OF CHUNK -----
+# PYC3703/501/3/2022 Study Notes
+
+## 36. ORIENTATION
+- **Perceptual Processes**
+  - Cognitive activities that attach meaning to sensory input.
+  - Fast and effortless but complex.
+
+- **Understanding Perception** 
+  - Not restricted to vision; includes all sensory modalities.
+  - Visual perception studied more extensively. 
+  - Operates as an active, computational process rather than a passive mechanism.
+  - Example: 2-D image on retina interpreted as 3-D by the brain.
+  - Importance of cues: Allows determination of object size and interpretation.
+  
+- **Visual Processing Theories**
+  - Bottom-up vs. Top-down theories:
+    - Bottom-up: Processing driven by sensory input.
+    - Top-down: Influenced by prior knowledge and expectations.
+  - Interaction between bottom-up and top-down processing in visual systems.
+  - Several brain areas specialized for different visual functions.
+
+- **Higher Cognition**
+  - Perception serves as a foundation for studying higher cognitive functions such as reasoning and problem-solving.
+
+---
+
+## ADDITIONAL EXPLANATION
+
+### Prototype Theory
+- Feature-matching theories: Recognition of objects categorized by defining features.
+- Prototype Theory:
+  - Recognition influenced by typical members of a category.
+  - Prototypes serve as models for perceptual recognition.
+  - Knowledge of prototypes shaped by cultural experiences.
+  - More of a top-down approach, relying on previously acquired knowledge.
+
+---
+
+## GLOSSARY CHECK
+- **Perception:** Process of recognizing and giving meaning to sensations.
+- **Inverse Projection Problem:** Deduction of the 3D shape from a 2D image.
+- **Viewpoint Invariance:** Ability to recognize objects regardless of viewing angle.
+- **Bottom-up Processing:** Recognition based on sensory input features.
+- **Top-down Processing:** Recognition influenced by pre-existing knowledge.
+- **Speech Segmentation:** Division of continuous speech into distinct units.
+- **Direct Pathway Model:** Suggests pain perceived directly through sensory receptors.
+- **Placebo:** Effect of expecting improvement from a non-active treatment.
+- **Likelihood Principle:** Perception influenced by probabilities of events occurring.
+- **Unconscious Inference:** Perception relies on subconscious assumptions.
+- **Principle of Perceptual Organisation:** Tendency to organize visual elements into coherent wholes.
+- **Principle of Good Continuation:** Perception follows paths of least resistance.
+- **Law of Pragnanz:** Preference for simpler, more stable visual interpretations.
+- **Principle of Similarity:** Similar objects grouped together perceptually.
+- **Physical Regularities:** Consistent patterns in the physical environment.
+- **Semantic Regularities:** Contextual meaning influencing perception.
+- **Scene Schema:** Knowledge about what typically belongs in a scene.
+- **Bayesian Inference:** Updating beliefs based on new evidence.
+- **Experience-dependent Plasticity:** Brain's ability to adapt based on experience.
+- **Brain Lesioning:** Study of the effects of damage to specific brain areas.
+- **Object Discrimination Problem:** Identifying objects based on features.
+- **Landmark Discrimination Problem:** Identifying locations based on landmarks.
+- **The What-Where Pathway:** Pathway for identifying objects and their locations.
+- **Perception-action Pathway:** Relationship between perception and movement.
+- **Ebbinghaus Illusion:** Visual illusion affecting size perception.
+
+--- 
+
+### **Diagram Reference**
+- CP, Figure 3.9 on page 58: Illustrates the vision process in humans.
+----- END OF CHUNK -----
+# Study Unit 4: Memory
+
+## Prescribed Reading
+- CP, Chapter 5 (Short-term and working memory)
+- CP, Chapter 6 (Long-term memory: structure)
+- CP, Chapter 7 (Long-term memory: encoding, retrieval, and consolidation)
+- CP, Chapter 8 (Everyday memory and memory errors)
+
+## Recommended Reading
+- Eysenck, M.W. & Keane, M. (2015). Cognitive psychology: A student’s handbook (7th ed.). Psychology Press, Chapters 7–8.
+- Matlin, M.W. & Farmer, T.A. (2017). Cognition (9th ed.). John Wiley & Sons, Chapter 4.
+
+## Learning Outcomes
+### Chapter 5
+- **Define memory**
+- **Discuss model of memory**
+- **Sensory memory:** sparkler’s trail, projector’s shutter, Sperling’s experiment
+- **Short-term memory:** duration, capacity
+- **Working memory:** phonological loop, visuospatial sketch pad, central executive, episodic buffer, models
+- **Prefrontal cortex damage effects**
+- **fMRI research:** executive attention, object representation
+- **Stress effects on working memory**
+
+### Chapter 6
+- **Short-term (STL) vs. long-term memory (LTM)**
+- **Serial position curve:** primacy effect, recency effect
+- **Coding in STM and LTM:** visual, auditory, semantic
+- **Neurological studies:** patients H.M., Wearing, K.F.
+- **Hippocampus' role in LTM**
+- **Episodic buffer vs. semantic memory**
+- **Memory and aging**
+- **Types of implicit memory:** procedural memory, priming, classical conditioning
+
+### Chapter 7
+- **Encoding in LTM:** levels of processing theory, paired-associate learning, self-reference effect, organizing information, retrieval practice
+- **Conditions of encoding and retrieval:** specificity, state-dependent learning, transfer-appropriate processing
+- **Define consolidation:** synaptic consolidation, systems consolidation, long-term potentiation
+- **Enhancement of memory:** consolidation, sleep
+- **Retrieval and reconsolidation**
+- **Effective studying techniques**
+
+### Chapter 8
+- **Multi-dimensional nature of autobiographical memory**
+- **Life-span memory concepts:** reminiscence bump, self-image hypothesis, cognitive hypothesis, cultural life-script hypothesis
+- **Memory and emotion link:** amygdala's function, flashbulb memories, narrative rehearsal hypothesis
+- **Constructive nature of memory:** Barlett’s ‘war of ghosts’ experiment
+- **Source monitoring:** source monitoring errors, ‘becoming famous overnight’ experiment
+- **Real-world knowledge and schemas**
+- **False recall and recognition issues**
+- **Creation/modification of memory by suggestion:** misinformation effect, misleading post-event information (MPI)
+    - MPI interference
+    - MPI source monitoring errors
+- **Eyewitness testimony errors**
+- **Flawed memory systems**
+
+## Key Concepts
+- Central executive, chunking, delayed-response tasks, echoic memory, episodic buffer, iconic memory, memory, modal model of memory, partial report method, perseveration, phonological loop, short-term memory span (STM), autobiographical memory, declarative memory, explicit memories, implicit memories, lexical decision task, long-term memory (LTM), primacy effect, procedural memory, recency effect, consolidation, cross-cortical consolidation, cued recall, depth of processing, encoding, encoding specificity, retrograde amnesia, amygdala, eyewitness testimony, flashbulb memory, reminiscence bump, retroactive interference, schema.
+
+## Orientation
+- Memory as a system with three main stages: **encoding (input)**, **storage**, **retrieval (output)** (see Figure 4.1). 
+- **Information Processing Perspective:** Memory described by theories and models, including connectionism/neural networks.
+
+### Mnemonic Techniques
+- Importance of spatial learning strategies (e.g., method of loci) for improving recall abilities, illustrated by Joshua Foer’s experience in memory competition.
+
+### Long-Term Memory
+- Divided into explicit (episodic and semantic) and implicit memory types (procedural memory, priming, conditioning).
+- Neuropsychological studies on amnesic persons illustrate separate memory stores and the hippocampus' role, evidenced by H.M.'s case.
+
+### Processes of Memory
+- Focus on encoding, retrieval, consolidation, and forgetting in cognitive psychology; memory's role is crucial for all thinking skills.
+
+### Common Misconceptions
+- Memory inaccuracies: we often fill in gaps, high confidence does not equal accuracy, emotion affects memory retention (e.g., highly memorable events distort risk perception). 
+
+### Eyewitness Memory Research
+- Error-prone; memories can reflect distortions.
+
+### Autobiographical Memory
+- Reminiscence bump phenomenon and emotion's impact on memory recall.
+
+### False Memories
+- Findings from Roediger and McDermott (1995) on false recall/recognition, shaping understanding of memory reliability and cognitive function evaluation through metacognition.
+----- END OF CHUNK -----
+# PYC3703/501/3/2022 - Study Notes
+
+---
+
+## Chapter 4: Memory
+
+### Table of Contents
+1. **Memory Models**
+2. **Types of Memory**
+3. **Memory Processes**
+4. **Memory Disorders**
+5. **Memory Improvement Strategies**
+6. **Glossary Check**
+7. **General Resources**
+
+---
+
+### 1. Memory Models
+
+- **Atkinson and Shiffrin’s Model**
+  - Sensory store: smallest capacity
+  - Iconic store: visual sensory memory
+  - Haptic store: tactile sensory memory
+  - Distinction: Structures termed **stores**; information held is **memory**.
+
+---
+
+### 2. Types of Memory
+
+- **Episodic Memory**: Personal experiences tied to specific time and place.
+- **Semantic Memory**: General knowledge, meaning of words.
+- **Working Memory**: Active processing of information.
+- **Short-term Memory**: Holds information temporarily.
+
+- **Amnesia Types**
+  - **Retrograde Amnesia**: Loss of memory for events before trauma.
+  - **Anterograde Amnesia**: Loss of memory for events after trauma.
+  - Explicit vs. Implicit Memory
+    - **Explicit Memory**: Declarative knowledge; conscious recall.
+    - **Implicit Memory**: Procedural knowledge; unconscious recall.
+
+---
+
+### 3. Memory Processes
+
+- **Encoding**: Transformation of sensory input into memory representation.
+- **Storage**: Retaining information over time.
+- **Retrieval**: Accessing stored information.
+
+- **Transfer from Short-term to Long-term**
+  - Attend to and understand information.
+  - Make connections to existing knowledge.
+  - Rehearse to enhance retention.
+
+---
+
+### 4. Memory Disorders
+
+- **Impacts of Amnesia**
+  - Explicit memory typically impaired; implicit memory often intact.
+  - Performance on tasks requiring procedural knowledge is affected.
+
+---
+
+### 5. Memory Improvement Strategies
+
+- **Deliberate Attention**: Focus on new information.
+- **Use of Associations**: Link new information with prior knowledge.
+- **Rehearsal**: Reinforces memory retention.
+- **Reflective Practice**: Monitor understanding and information processing.
+- **Distributed Practice**: Space out learning sessions.
+- **Context Variation**: Study in different locations/times to enhance recall.
+- **Sleep**: Positive effects on memory consolidation (REM stage).
+- **Elaborative Rehearsal**: Integrate new knowledge meaningfully.
+- **Categorical Clustering**: Group items into classes to aid memory.
+
+---
+
+### 6. Glossary Check
+
+- Central Executive
+- Chunking
+- Delayed-response Tasks
+- Echoic Memory
+- Episodic Buffer
+- Iconic Memory
+- Memory
+- Modal Model of Memory
+- Partial Report Method
+- Perseveration
+- Phonological Loop
+- Short-term Memory Span (STM)
+- Autobiographical Memory
+- Declarative Memory
+- Explicit Memories
+- Implicit Memories
+- Lexical Decision Task
+- Long-term Memory (LTM)
+- Primacy Effect
+- Procedural Memory
+- Recency Effect
+- Consolidation
+- Cross-cortical Consolidation
+- Cued Recall
+- Depth of Processing
+- Encoding
+- Encoding Specificity
+- Retrograde Amnesia
+- Amygdala
+- Eyewitness Testimony
+- Flashbulb Memory
+- Reminiscence Bump
+- Retroactive Interference
+- Schema
+
+---
+
+### 7. General Resources
+
+- Educational Psychology Interactive on information processing.
+- Research articles on visual memory and working memory processes.
+- Videos demonstrating memory experiments and theoretical concepts.
+
+--- 
+
+These notes encapsulate the major points of the chapter while omitting detailed explanations and examples to focus on key principles and concepts.
+----- END OF CHUNK -----
+# Study Unit 5: Problem-Solving
+
+## Prescribed reading
+- CK, Chapter 12 (Problem-solving)
+
+## Recommended reading
+- Eysenck, M.W. & Keane, M. (2015). *Cognitive psychology: A student’s handbook (7th ed.)*, Chapter 12.
+- Matlin, M.W. & Farmer, T.A. (2017). *Cognition (9th ed.)*, Chapter 10.
+
+## Learning outcomes
+- Define a problem in psychological terms.
+- Outline principles behind Gestalt approach to problem-solving.
+- Discuss insight and its relationship to problem-solving.
+- Describe Newell and Simon’s (1972) problem-solving approach.
+- Discuss the mutilated checkerboard experiment.
+- Explain analogical problem-solving basics.
+- Describe Duncher’s relational problem.
+- Discuss three steps in analogical problem-solving.
+- Define analogical encoding.
+- Critically analyze approaches of experts vs. novices.
+- Discuss creativity and its measurement.
+- Outline idea generation factors.
+- Explore relationship between creativity and mental illness.
+
+## Key concepts
+- Alternate uses test
+- Analogical encoding
+- Analogical problem solving
+- Candle problem
+- Divergent thinking
+- Fixation
+- Functional fixedness
+- Insightful
+- Means-ends analysis
+- Mutilated checkerboard problem
+- Operators
+- Problem space
+- Radiation problem
+- Restructuring
+- Source problem
+- Subgoals
+- Target problem
+- Tower of Hanoi problem
+
+## Orientation
+- **Problem-solving**: Hallmark of intelligent thinking; focus on cognitive processes and strategies.
+- **Types of problems**: Observable phenomena vs. specialized expertise.
+- **Common focus**: Simple, non-expert pen-and-paper puzzles (e.g., cryptarithmetic problems).
+- **Research goal**: Understanding transferable thinking skills across domains.
+- **Newell & Simon's GPS**: Computer program for problem solving using means-ends analysis.
+
+## Experts vs. Novices
+- Research in acquisition of domain-specific skills related to becoming knowledgeable experts.
+- Cognitive processes and strategies involved in transitioning from novice to expert.
+
+This structured outline condenses the key concepts of problem-solving related to cognitive psychology, while maintaining crucial references to readings and insights within the context of expertise and problem-solving strategies.
+----- END OF CHUNK -----
+# PYC3703/501/3/2022 Study Notes
+
+## Page 60 
+
+### Chapter: Acquisition of Expertise
+
+#### Key Principles of Expertise
+- Experts possess effective problem-solving strategies.
+- Sternberg’s research emphasizes the importance of organization and representation of knowledge in expertise.
+- Acquisition of expertise can indicate the outcomes of successful learning.
+
+#### Creativity and Problem-Solving
+- Creativity is often aligned with problem-solving; some problems can be solved either creatively or routinely.
+- Creative solutions are both useful and unique.
+- Historical figures (e.g., **Archimedes, Einstein, Crick**) recognized for their creative solutions.
+- Modern problem solvers include advanced machines.
+- Problem finding may be considered more critical than problem-solving (Einstein and Infield, 1938).
+
+### Chapter: Insights for Postgraduate Studies
+- Identifying research themes is often challenging for postgraduate students.
+- The study of creativity can deepen understanding (see **Chapter 15, Eysenck and Keane, 2015**).
+
+---
+
+## Page 61 
+
+### Understanding Intelligence and Creativity
+- The relationship between intelligence and creativity remains unclear among psychologists. 
+- The activity on potential uses for objects (e.g., a watch, a paper clip) is linked to measuring creative capacity.
+
+---
+
+## Page 62
+
+### Self-Assessment Activities Overview
+- Distinction between problem-solving, perception, categorization, and reasoning must be addressed.
+  
+### Characteristics of Well-defined vs. Ill-defined Problems
+- Well-defined problems: clearly specified solution, beginning, and techniques (e.g., algebraic equations).
+- Ill-defined problems: lack one or more characteristics (e.g., subjective questions).
+
+#### Characteristics of Expert Problem Solvers
+- Experts remember more, use diverse strategies, and have richer representations; expertise comes from practice.
+- Functional fixedness can hinder expert problem solvers.
+
+---
+
+## Page 63
+
+### Problem-Solving Insights
+- Case study of inmates’ ingenious escape illustrates creativity in problem-solving.
+  
+### The Role of Computer Simulations
+- Computer simulations help in understanding problem-solving but may mislead regarding human cognitive processes.
+
+#### Statement Evaluation: Forward Planning vs. Means-Ends Analysis
+- Experts may use analytical approaches but means-ends analysis remains vital for complex problems.
+
+---
+
+## Page 64
+
+### The Creative Process
+- Intrinsic motivators include personal satisfaction in creativity and problem-solving.
+
+---
+
+## Page 65
+
+### Diophantus's Riddle
+- The riddle provides a formulaic approach to determine ages using algebraic expressions that reveal Diophantus lived to 84.
+
+### Insurance Salesman Puzzle
+- The complex nature of the puzzle requires clues and deduction for solving based on provided hints.
+
+---
+
+## Glossary
+- **Divergent Thinking:** Generating creative ideas by exploring multiple possibilities.
+- **Expert:** An individual with extensive knowledge and skills in a specific area.
+- **Functional Fixedness:** A cognitive bias that limits a person to use an object only in the way it is traditionally used.
+- **Means-Ends Analysis:** A strategy in problem-solving that involves breaking down the problem into more manageable subgoals.
+
+### General Resources
+- Insight and definitions: [webspace.ship.edu/cgboer/insight.html](http://webspace.ship.edu/cgboer/insight.html)
+- Research on problem-solving differences: [nap.edu/read/9853/chapter/5](https://www.nap.edu/read/9853/chapter/5) 
+
+--- 
+
+**Note:** Further exploration of suggested texts and additional activities may enhance understanding and application of these concepts in educational settings.
+----- END OF CHUNK -----
+# Study Unit 6: Judgement, Reasoning, and Decision-Making
+
+## Prescribed Reading
+- CK, Chapter 13 (Judgement, reasoning, and decision-making)
+
+## Recommended Reading
+- Eysenck, M.W. & Keane, M. (2015). *Cognitive Psychology*: A Student’s Handbook (7th ed.). Psychology Press, Chapters 13 and 14.
+- Matlin, M.W. & Farmer, T.A. (2017). *Cognition* (9th ed.). John Wiley & Sons, Chapter 11.
+
+## Learning Outcomes
+- Describe judgement and decision-making strategies.
+- Understand inductive reasoning and common errors.
+- Explain the conjunction rule and related experiments.
+- Discuss biases (myside, confirmation) and deductive reasoning.
+- Differentiate validity and truth in syllogisms.
+- Examine models of reasoning like belief bias and mental models.
+- Understand Wason’s four-card problem and evolutionary cognition.
+- Discuss decision-making theories (expected utility, risk aversion).
+- Explain role of emotions in decision-making processes.
+- Overview of neuroeconomics and dual systems approach.
+
+## Key Concepts
+- **Heuristics:** Availability, representativeness; biases (myside, confirmation).
+- **Reasoning Types:** Deductive (conditional, syllogisms) and inductive.
+- **Syllogism Validity:** Importance of distinguishing valid forms from invalid.
+- **Framing Effect & Risk Aversion:** Impact on decisions and associated theories.
+- **Neuroeconomics:** Intersection of neuroscience and economic decision-making.
+- **Cognition & Evolution:** Role of evolutionary perspectives on cognitive function.
+
+## Orientation
+- Chapter's focus: integration of judgement, reasoning, and decision-making.
+- Distinction between judgement and decision-making is fluid; they are interrelated processes.
+- Research perspectives diverge: rational reasoning vs. heuristics and bias in decision-making.
+- Models of reasoning discussed include rationality assessments via probability and logic.
+
+### Models of Reasoning
+- **Logical Reasoning:** Focus on rational choices and premises.
+- **Heuristic Reasoning:** Emphasis on rules of thumb in decision-making.
+
+### Deductive vs. Inductive Reasoning
+- **Deductive:** Valid conclusions based on premises; examples include syllogisms.
+- **Inductive:** Generalizations based on specific data or observations; linked to hypothesis formulation.
+
+### Validity and Truth
+- Distinction between **validity (logical form)** and **truth (actual state)**.
+- Example of absurd conclusions highlighting logical vs. factual discrepancies.
+
+### Mental Models
+- Johnson-Laird’s theory: understanding reasoning via internal representations.
+- Definition: a mental model is a cognitive structure representing a scenario.
+
+### Expected Utility Theory
+- Focuses on maximizing utility in decision-making; emotional factors influence choices.
+
+## Conclusion
+- Comprehend key theories and principles surrounding judgement, reasoning, and decision-making.
+- Consult recommended texts for in-depth understanding and applications of concepts. 
+
+(Note: Removed self-assessment activities and references to video links or app suggestions as requested. Material has been condensed while preserving essential structure and content.)
+----- END OF CHUNK -----
+# Study Notes
+
+## Chapter 6: Reasoning and Decision-Making
+
+### Learning Unit 6.1: Arguments
+
+#### 6.1.1 Types of Arguments
+- **Deductive Arguments**: 
+  - Conclusions follow necessarily from premises. 
+  - Examples: 
+    - "All human beings are rational. You are a human being. Therefore, you are rational." 
+      - **Type**: Deductive, certain.
+    - "All pigs can fly. Porky is a pig. Therefore, Porky can fly." 
+      - **Type**: Deductive, certain.
+
+- **Inductive Arguments**:
+  - Conclusions based on probabilities rather than certainties.
+  - Evaluated for plausibility.
+  - Examples: 
+    - "Most Algerian AIDS cases have been reported among young men in their twenties. Ahmed has been diagnosed with AIDS. So, Ahmed is a young man in his twenties." 
+      - **Type**: Inductive, fairly plausible.
+    - "Of all the rats we have tested, only one has learnt to run this maze. So, the next rat we test will not be able to run the maze." 
+      - **Type**: Inductive, quite plausible.
+
+#### 6.1.2 Analyzing Arguments
+- Validity: Premises support the conclusion.
+- Circular reasoning concerns: 
+  - Example: "It is important to talk about household problems because it is important to talk about them."
+    - Justification: Reasoning is circular; conclusion repeats premises.
+
+### Learning Unit 6.2: Common Logical Fallacies
+- **Gambler’s Fallacy**: Misconception that past independent events affect future outcomes.
+- **Framing Effect**: Influence of presentation on decision-making.
+- **Confirmation Bias**: Tendency to search for information that confirms existing beliefs.
+
+### Learning Unit 6.3: Decision-Making Theories
+- **Subjective Expected Utility Theory**:
+  - Decision-making based on individual perceptions.
+  - Focuses on maximizing perceived personal benefits.
+
+- **Heuristics**: Mental shortcuts for decision-making.
+  - **Availability Heuristic**: Accessibility of information influences perception of probability.
+
+### Glossary of Terms
+- **Deductive Reasoning**: Logic deducing conclusions from general principles.
+- **Inductive Reasoning**: Forming generalizations based on specific instances.
+- **Categorical Syllogism**: Logical argument using two premises leading to a conclusion.
+- **Framing Effect**: How context influences perception of choices.
+- **Confirmation Bias**: Favoring information that supports existing theories.
+
+### General Resources
+- Online resources for deductive/inductive reasoning.
+- Videos on syllogisms and cognitive biases.
+- Relevant literature and case studies in cognitive psychology.
+
+### References
+- List of academic sources cited relevant to reasoning and decision-making studies. 
+
+---
+
+**Note**: This condensed format maintains essential principles and arguments while eliminating examples and excessive explanations, focusing on structure and brevity.

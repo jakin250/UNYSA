@@ -1,0 +1,2019 @@
+# HFL1501 Study Notes
+
+## PREFACE
+- Overview of South African law's historical development.
+- Focus on the Constitution of the Republic of South Africa, 1996.
+- Multi-layered legal system: uncodified, hybrid, based on:
+  - **Constitution** (supreme law)
+  - **Legislation**
+  - **Case law**
+  - **Common law**
+  - **Indigenous African law**
+- Three main components of South African law:
+  - **African component**: Indigenous African law.
+  - **Western component**: Roman, Roman-Dutch, and English law.
+  - **Universal component**: Human rights law.
+- Internal legal history: law of property and obligations.
+- Importance of continuous legal development within historical context.
+
+---
+
+## Part 1: The origins of South African law
+
+### Learning unit 1: Setting the scene
+- Historical context of South African law.
+- Influence of multicultural society on legal system.
+
+### Learning unit 2: The African component and Islamic law
+- Indigenous African law's role in legal framework.
+- Islamic law's influence on South African legal traditions.
+
+### Learning unit 3: The Western component: Roman legal history until the 11th century
+- Development of Roman law and its principles.
+- Impact on subsequent legal systems.
+
+### Learning unit 4: The Western component: Legal development in Europe from the 12th to the 19th centuries
+- Evolution of legal systems in Europe.
+- Key legal reforms and their implications.
+
+### Learning unit 5: The development of the Western component in South African law before the 1990s
+- Historical influences on South African law.
+- Adaptation of Roman-Dutch law.
+
+### Learning unit 6: The South African liberation movement and its contribution to the development of South African law and constitutionalism
+- Role of liberation movements in shaping legal principles.
+- Impact on constitutional development.
+
+### Learning unit 7: The universal component: The history of human rights in South Africa
+- Historical context of human rights law.
+- Integration into South African legal framework.
+
+---
+
+## Part 2: Historical foundations and development of the law of property and obligations
+
+### Learning unit 1: Setting the scene
+- Overview of property and obligations law.
+- Historical significance in current legal practice.
+
+### Learning unit 2: The law of property
+- Key principles of property law.
+- Historical development and current relevance.
+
+### Learning unit 3: Obligations: The law of contract
+- Fundamental concepts of contract law.
+- Historical evolution and modern application.
+
+### Learning unit 4: Obligations: The law of delict
+- Principles of delictual liability.
+- Historical context and contemporary issues.
+
+---
+
+## Part 3: The role of the Constitution in South African legal development
+
+### Learning unit 1: Setting the scene: The supremacy of the South African Constitution
+- Constitution as the foundation of legal authority.
+- Importance of constitutional supremacy.
+
+### Learning unit 2: Transformative constitutionalism: The duty to transform society through law
+- Concept of transformative constitutionalism.
+- Role of law in societal transformation.
+
+### Learning unit 3: Ubuntu and the transformation of South African law
+- Influence of Ubuntu philosophy on legal principles.
+- Integration into legal practices.
+
+### Learning unit 4: Conclusions
+- Summary of constitutional impact on legal development.
+- Future directions for South African law.
+
+---
+
+## LIST OF LATIN TERMS
+- Key legal terms and their meanings.
+
+## BIBLIOGRAPHY
+- References and sources for further reading.
+----- END OF FILE -----
+# HFL1501/501 
+## PART 1: The origins of South African law
+
+### Page
+- Learning unit 1: Setting the scene 2
+- Learning unit 2: The African component and Islamic law 11
+- Learning unit 3: The Western component: Roman legal history until the 11th century 20
+- Learning unit 4: The Western component: Legal development in Europe from the 12th to the 19th centuries 30
+- Learning unit 5: The development of the Western component in South African law before the 1990s 41
+- Learning unit 6: The South African liberation movement and its contribution to the development of South African law and constitutionalism 48
+- Learning unit 7: The universal component: The history of human rights in South Africa 59
+
+---
+
+## 1 LEARNING UNIT 1: Setting the scene
+
+### 1.1 EXTERNAL AND INTERNAL LEGAL HISTORY
+- **External Legal History**: Traces sources/factors influencing legal system development (political, constitutional, economic, sociological, religious).
+- **Internal Legal History**: Covers origins/development of legal rules/principles influenced by external events.
+- **Examples**:
+  - **Apartheid Policy**: External event; **Group Areas Act** as internal development.
+  - **Trade Unions**: Economic event leading to recognition of employee rights.
+
+### 1.2 THE DIFFERENT COMPONENTS OF SOUTH AFRICAN LAW
+- **Legal Pluralism**: Existence of multiple legal systems in South Africa (Hindu, Muslim, indigenous African, Western).
+- **Mixed/Hybrid Legal System**: Combination of civil (Roman) law and English common law; indigenous law recognized post-1990s.
+- **Constitutional Recognition**: Indigenous law now part of the legal system.
+- **Case Reference**: *Pharmaceutical Manufacturers Association of South Africa v President of the Republic of South Africa* 2000 (2) SA 674 (CC) para [44].
+
+### 1.3 THE SOURCES OF LAW: THE RELATIONSHIP BETWEEN THE DIFFERENT COMPONENTS
+- **Sources of Law**:
+  - **Constitution of the Republic of South Africa, 1996**: Supreme law.
+  - **Legislation**: Primary authoritative source.
+  - **Court Decisions**: Judicial precedents.
+  - **Common Law**: Historical component, primarily Roman-Dutch law influenced by English law.
+  - **Custom**: Includes indigenous African law.
+- **Indigenous Law**: Previously secondary; now recognized as a source of law post-1996 Constitution.
+- **Common Law Adaptation**: Courts adapt common law to modern values (e.g., *Paulsen v Slip Knot Investments* 2015 (3) SA 479 (CC)).
+- **Interrelation of Legal Components**: Indigenous African law increasingly influences legal development (e.g., *Le Roux v Dey* 2011 (3) SA 274 (CC)).
+
+### Diagram Reference
+- **SOUTH AFRICAN LEGAL SYSTEM**:
+  - Indigenous Component
+  - Western Component (Roman-Dutch, English)
+  - Universal Component (Human-rights law)
+----- END OF FILE -----
+# HFL1501/501 
+
+## LEARNING UNIT 1: Setting the scene
+
+- **Constitution as Supreme Law**  
+  - Bill of Rights is the supreme law.  
+  - All laws must conform to the Constitution.  
+  - **Section 8**: Bill of Rights binds all state organs.  
+  - **Section 39(2)**: Courts must interpret laws in line with the Bill of Rights.  
+  - Laws conflicting with the Constitution can be developed or abolished.
+
+### 1.4 THE RECEPTION PHENOMENON
+
+- **Legal System Integration**  
+  - Legal systems can become applicable through:
+    - **Reception**: Adoption of rules into an existing system.
+    - **Transplantation**: Introduction into a territory without a legal system.
+    - **Imposition**: Forced introduction into an existing system.
+
+- **Historical Context**  
+  - **Roman-Dutch Law**: Initially thought to be transplanted; however, indigenous legal systems existed.
+  - **Imposition**: Roman-Dutch law was imposed on indigenous communities.
+  - **Reception Examples**: 
+    - English law was willingly received by the Cape settler community.
+    - Human-rights law was accepted through the Constitution.
+
+- **Types of Reception**  
+  - **Practical Reception**: Adoption of actual rules.
+  - **Scientific Reception**: Adoption of concepts and structures.
+
+### 1.5 CONCLUSION
+
+- Overview of the development of South African law components.
+- Next unit focuses on the African component of law.
+
+---
+
+## LEARNING UNIT 2: The African component and Islamic law
+
+### SOUTH AFRICAN LEGAL SYSTEM
+
+- **Components**: 
+  - **Indigenous Component**: African law.
+  - **Western Component**: Roman-Dutch and English law.
+  - **Universal Component**: Human-rights law.
+
+### 2.1 INDIGENOUS LAW
+
+- **Definition**: Law of Bantu speakers, a single legal family due to shared features.
+- **Historical Context**: Bantu speakers migrated to South Africa around AD 500.
+
+#### 2.1.1 The pre-colonial era
+
+- **Oral Traditions**: 
+  - Pre-literate tradition without written records.
+  - Oral traditions serve as the main source of historical information.
+  - Overcoming historical neglect through interdisciplinary approaches (ethnography, archaeology).
+  - Critical analysis of oral accounts for historical reconstruction.
+----- END OF FILE -----
+# HFL1501/501 
+## LEARNING UNIT 2: The African component and Islamic law
+
+### 2.1 Indigenous Law
+
+- **Indigenous Law Overview**
+  - Recorded through legislation, codiﬁcation, and restatement; primarily oral law.
+  - Continues to develop within indigenous communities; field research necessary for understanding.
+
+#### 2.1.1 The Cape 1652–1795
+- **Jan van Riebeeck's Arrival (1652)**
+  - Established a trading post for the Dutch East India Company.
+  - Judicial administration was poorly organized; indigenous law application was neglected.
+- **British Control (1795)**
+  - Marked the end of the pre-colonial era; indigenous law began to be regulated.
+
+#### 2.1.2 The Colonial Period
+- **Civilizing Policies**
+  - Aimed to eliminate indigenous laws and customs; indigenous law often unrecognized.
+  - Recognition subject to a repugnancy clause; only applicable if not contrary to Western public policy.
+- **Legislation**
+  - 1878: Codiﬁcation of Zulu law in Natal.
+  - 1883: Code for Transkeian Territories.
+  - 1899: Orange Free State recognized indigenous law.
+- **Political Transitions**
+  - Little change for indigenous populations post-Union (1910) and Republic (1961); unofficial law gained importance.
+
+#### 2.1.3 The Post-Colonial Era
+- **External Legal History**
+  - Apartheid policies (post-1948) aimed at segregation; influenced indigenous law development.
+  - **Black Administration Act 38 of 1927**
+    - Provided limited recognition of indigenous law; established a system of black administration.
+    - Created separate court systems for blacks, leading to loss of credibility over time.
+
+- **Special Courts for Blacks Abolition Act 34 of 1986**
+  - Abolished commissioners’ courts; repealed section 11 of the Black Administration Act.
+  - Repugnancy clause retained in subsequent legislation.
+
+#### 2.1.4 The Constitutional Era
+- **Constitution of the Republic of South Africa, 1996**
+  - Recognizes indigenous law as a source of South African law (Section 211(3)).
+  - Indigenous law subject to the Constitution; must align with equality standards.
+- **Bhe Case (2005)**
+  - Constitutional Court ruled male primogeniture unconstitutional; led to the Reform of Customary Law of Succession and Regulation of Related Matters Act 11 of 2009.
+- **Law Reform**
+  - Repeal of the Black Administration Act and Amendment of Certain Laws Act 28 of 2005; aimed to eliminate remnants of discriminatory laws.
+  - Increasing importance of indigenous law in legal education and practice.
+
+### 2.2 Islamic Law
+
+- **Historical Context**
+  - Muslims arrived at the Cape in the 1650s; personal laws not recognized, causing hardships.
+  - Conflicts between Islamic law and Western common law, particularly in marriage and succession.
+
+#### 2.2.1 Before the Constitutional Era
+- **Court Attitudes**
+  - Non-recognition of Muslim marriages due to potential polygyny deemed against public policy (Ismail v Ismail, 1983).
+  
+#### 2.2.2 The Constitutional Era
+- **Changing Court Perspectives**
+  - 1990s: Courts began recognizing Muslim marriages (Ryland v Edros, Amod v Multilateral Motor Vehicle Accidents Fund).
+  - **Daniels v Campbell NO (2004)**
+    - Recognized monogamous Muslim marriages under the Intestate Succession Act.
+  - **Hassam v Jacobs NO (2009)**
+    - Declared section 1 of the Intestate Succession Act unconstitutional for excluding polygynous marriages.
+  
+- **Law Reform Commission**
+  - Proposed Bill for recognition of Islamic marriages; not yet approved by Parliament.
+
+### Key Legislation and Cases
+- **Black Administration Act 38 of 1927**
+- **Special Courts for Blacks Abolition Act 34 of 1986**
+- **Reform of Customary Law of Succession and Regulation of Related Matters Act 11 of 2009**
+- **Repeal of the Black Administration Act and Amendment of Certain Laws Act 28 of 2005**
+- **Bhe and others v Magistrate, Khayelitsha (2005)**
+- **Ismail v Ismail (1983)**
+- **Ryland v Edros (1997)**
+- **Amod v Multilateral Motor Vehicle Accidents Fund (1999)**
+- **Daniels v Campbell NO (2004)**
+- **Hassam v Jacobs NO (2009)**
+
+### Conclusion
+- Indigenous law and Islamic law have evolved under significant historical and legislative influences.
+- Current legal frameworks reflect ongoing changes and recognition efforts, particularly in the context of constitutional rights.
+----- END OF FILE -----
+# HFL1501/501 Study Notes
+
+## Chapter 2: The African Component and Islamic Law
+
+### 2.3 Conclusion
+- **Indigenous Law Recognition**: Indigenous law, including Islamic law, recognized as a source of South African law.
+- **Historical Context**: Liberation movements contributed to this recognition.
+
+---
+
+## Chapter 3: The Western Component: Roman Legal History until the 11th Century
+
+### Learning Outcomes
+- Importance of Roman law for South African jurists.
+- Influence of ancient Greek philosophical thought on Western legal tradition.
+- Development of Roman law through four political eras.
+- Significance of the **Corpus Iuris Civilis** for modern jurists.
+
+### Overview of Roman Law
+- Roman law is part of Roman-Dutch law; relevant today despite the fall of the Western Roman Empire.
+- **Case Reference**: *Hendricks v Hendricks and others* (2016) - Supreme Court of Appeal cited the **Institutes of Justinian**.
+- **Constitutional Adaptation**: Courts adapt Roman law to societal needs per **Section 39(2)** of the Constitution.
+- South Africa has a hybrid legal system influenced by Roman law and English common law.
+
+### Historical Context
+- **Roman Empire Division**: Western Empire (capital Rome) fell in AD 476; Eastern Empire (Byzantium) lasted until AD 1453.
+- **Government Types**: Monarchy (753 BC–509 BC), Republic (509 BC–27 BC), Principate (27 BC–AD 284), Dominate (AD 284–AD 476).
+- **Roman Law Development Periods**:
+  - Early Roman Law (753 BC–250 BC)
+  - Pre-Classical Period (250 BC–27 BC)
+  - Classical Period (27 BC–AD 284)
+  - Post-Classical Period (AD 284–AD 565)
+
+### 3.1 The Monarchy and Early Roman Law (753 BC–509 BC)
+- **Founding of Rome**: Legend of Romulus; kings held autocratic power.
+- **Legal System**: Rigid ius civile applied only to Roman citizens.
+- **Social Classes**: Division into patricians and plebeians led to class struggles.
+
+### 3.2 The Republic: Early Roman Law and Pre-Classical Roman Law (509 BC–27 BC)
+- Transition from monarchy to republic; growth of Rome into an empire.
+- **Key Influences**:
+  - **Law of the Twelve Tables** (450 BC): Ended patrician control, provided legal access, created legal certainty.
+  - **Praetor's Role**: Administered justice, developed civil procedure, introduced **ius gentium** for foreigners.
+  - **Jurists**: Initially laymen, later became legal advisors.
+
+### 3.3 The Principate and Classical Roman Law (27 BC–AD 284)
+- Governed by emperors; Augustus as the first emperor.
+- **Legal Development**: Classical Roman law emerged, superior to other ancient legal systems.
+- **Contributors**:
+  - **Emperor**: Central authority in law-making.
+  - **Praetor**: Continued to refine legal procedures.
+  - **Jurists**: Provided legal interpretations and advice.
+
+### Important Notes
+- **Critical Thinking Roots**: Ancient Greek thought influenced Western legal ideals.
+- **Legal Evolution**: Roman law adapted to societal changes; not the sole foundation of South African law.
+
+### Diagram Reference
+- **SOUTH AFRICAN LEGAL SYSTEM**: Indigenous, Western, and Universal components illustrated.
+
+---
+
+### Legislation and Case References
+- **Intestate Succession Act 81 of 1987**: Interpretation of "spouse" in inheritance.
+- **Daniels v Campbell NO**: Court ruling on Muslim marriages.
+- **Hassam Case**: Retrospective effect on inheritance rights.
+- **Constitution of South Africa**: Section 39(2) regarding legal adaptation.
+----- END OF FILE -----
+# HFL1501/501 
+## LEARNING UNIT 3: The Western component: Roman legal history until the 11th century
+
+### 3.1 The Emperor
+- Roman Empire governed by emperor and Senate; actual power with emperor.
+- Emperor had law-making authority; jurists influenced law administration.
+- Imperial legislation became significant; by 2nd century AD, most laws from emperor/officials.
+- Quality of legislation often low.
+
+### 3.2 The Praetor
+- Praetor elected by emperor, acted on emperor's instructions.
+- Functions of praetor absorbed by emperor; Edictum Perpetuum (AD 130) codified praetorian edicts.
+- Praetor bound by Edict; limited contribution to legal development.
+
+### 3.3 The Jurists
+- Elite group of legal experts; provided legal advice, teaching, court assistance, and interpretation.
+- Writings crucial for Roman law development.
+- **Five Great Roman Jurists**:
+  - **Gaius**: Author of *Institutes*, influential textbook.
+  - **Papinian**
+  - **Ulpian**
+  - **Paul**
+  - **Modestinus**
+- Their works comprised two-thirds of writings codified by Justinian (6th century AD); Statute of Citation (AD 426) recognized them as authoritative.
+
+### 3.4 The Dominate and Post-Classical Roman Law (AD 284–AD 476)
+- Post-classical era marked by autocratic emperors (beginning with Diocletian).
+- Jurists absorbed into imperial law office; Senate reduced to announcing imperial legislation.
+- Legal simplification efforts; rise of "vulgar law" (Roman law influenced by Germanic law).
+- Renewed interest in classical law led to Justinian's codification.
+
+### 3.5 Collections of Imperial Laws
+- Codex Theodosianus (AD 438): first official collection of imperial legislation; influenced later codifications (e.g., Lex Romana Visigothorum, Corpus Iuris Civilis).
+
+### 3.6 Collections and Simplifications of Classical Writings
+- Post-classical jurists produced simplified works based on classical writings (e.g., Epitome Gai, Sententiae Pauli).
+
+### 3.7 The Statute of Citation, AD 426
+- Simplified legal authority; only works of Five Great jurists considered authoritative.
+
+### 3.8 The Fall of the Western Roman Empire
+- Fall in AD 476 due to Germanic invasions; personality principle applied (individuals followed tribal laws).
+- **Leges Romanae barbarorum**: Germanic codifications of Roman law for Roman subjects (e.g., Lex Romana Visigothorum, AD 506).
+
+### 3.9 Emperor Justinian’s Codification: The Corpus Iuris Civilis
+- Justinian (AD 527-565) aimed to codify law for clarity and accessibility.
+- Codification process:
+  - **Codex**: Systematized imperial legislation.
+  - **Digest**: Updated juristic law; majority from Five Great jurists.
+  - **Institutes**: Textbook for students, based on Gaius.
+  - **Novellae**: Later imperial legislation.
+- Importance: Corpus Iuris Civilis became a key source of Roman law; influenced legal systems, including South Africa.
+
+### 3.10 Conclusion
+- Roman law's development over 2,000 years; Corpus Iuris Civilis remains relevant.
+- Rediscovered in the 12th century; influenced modern legal systems.
+
+### References
+- **Legislation**: Codex Theodosianus, Lex Romana Visigothorum, Corpus Iuris Civilis.
+- **Cases**: Hendricks, Paulsen.
+----- END OF FILE -----
+# HFL1501/1 
+## LEARNING UNIT 4: The Western component: Legal development in Europe from the 12th to the 19th centuries
+
+### 4.1 THE MEDIEVAL LAW SCHOOLS
+- **The glossators**
+  - First jurists studying Justinian’s codification of Roman law (12th century, Bologna).
+  - Aimed to rediscover and restore Roman law using the *Corpus Iuris Civilis*.
+  - Employed interpretative methods, writing "glosses" on the *Corpus Iuris*.
+  - Notable figure: **Accursius**; his *Glossa Ordinaria* became authoritative.
+  - Their work ensured the survival and spread of Roman law across Europe.
+
+- **The ultramontani**
+  - Jurists at the French law school of Orléans (13th-14th centuries).
+  - Focused on practical applications of Roman law for 14th-century courts.
+  - Investigated town law, canon law, and Germanic customary law.
+  - Key figures: **Revigny** and **Bellaperche**; established rules for canon law reception.
+
+- **The post-glossators or commentators**
+  - Emerged post-12th century, addressing practical legal challenges due to economic growth.
+  - Wrote commentaries on the *Corpus Iuris Civilis*, integrating various legal sources.
+  - Notable figures: **Bartolus** and **Baldus**; foundational in private international law.
+  - Achievements:
+    - Laid groundwork for 17th-century natural law.
+    - Influenced modern private international law.
+    - Facilitated Roman law's integration into justice systems across Europe.
+
+### 4.2 CANON LAW
+- **Historical backdrop**
+  - Canon law integrated into Germanic customary legal systems, influencing Roman-Dutch law in South Africa.
+  - Canon law less formal than Roman law, softening its severity.
+  - Principle of *pacta servanda sunt* (agreements must be honored) derived from canon law.
+
+- **The Corpus Iuris Canonici**
+  - Compiled by **Gratianus** in the 12th century; foundational for canon law studies.
+  - Studied alongside the *Corpus Iuris Civilis* in medieval law schools.
+
+- **Reception of canon law into secular law**
+  - Initially random; later structured by ultramontani rules.
+  - Canon law applied to church matters; Roman law to secular matters.
+  - Canon law's fairness tempered Roman law's severity.
+
+### 4.3 THE EUROPEAN IUS COMMUNE
+- Common law developed from Roman law, canon law, and Germanic customary law (12th-15th centuries).
+- Key components:
+  - Adaptation of Roman and canon law to local needs.
+- Influenced legal systems in Western Europe; facilitated by commentators and printing.
+- **Relevance to South African law**:
+  - Roman-Dutch law's development linked to European legal history.
+  - Shared legal heritage among Southern African countries (e.g., South Africa, Namibia).
+
+### 4.4 LEGAL DEVELOPMENT IN EUROPE FROM THE 16TH TO THE EARLY 19TH CENTURIES
+- Shift of legal scholarship center from Italy to France (16th century).
+  
+- **France and legal humanism**
+  - Humanists aimed to rediscover classical Roman law pre-Justinian.
+  - Focused on systematic study rather than fragmented analysis.
+  - Contributions:
+    - Spread of Roman law.
+    - High-standard work in pure Roman law.
+    - Systematization of legal material.
+  - Notable jurist: **Pothier**; influential treatises on civil law.
+  - **Code Civil** (1804) codified French civil law, influencing many European legal systems.
+
+- **Germany**
+  - Roman law reception more complete than in France or the Netherlands.
+  - German legal literature followed humanist approaches, with greater practical influence.
+----- END OF FILE -----
+# HFL1501/1 
+
+## LEARNING UNIT 4: The Western component: Legal development in Europe from the 12th to the 19th centuries
+
+- **17th and 18th Centuries: Usus Modernus Pandectarum**
+  - Emergence in Germany; practical application of law.
+  - Leading proponent: **Carpzovius II**.
+
+- **19th Century German Jurisprudence**
+  - Influential on European legal systems.
+  - Rise of the **historical school**; reaction against natural law.
+  - Key figure: **Savigny**; significant contributions to German law.
+  - Codification movement; introduction of **Bürgerliches Gesetzbuch** in 1900.
+
+### 4.5 THE NETHERLANDS
+
+- **Roman-Dutch Law in South Africa**
+  - Introduced in 1652; significant influence on South African law.
+  - Law of Holland was predominant; other provinces influenced by it.
+
+- **Reception of Roman Law**
+  - Occurred from the late 15th to late 16th centuries.
+  - Influenced by political, economic, and cultural factors.
+  - Foundation of **University of Louvain**; dual faculties of canon and Roman law.
+
+- **Codification**
+  - **Napoleon's Conquest**: Introduction of French civil code by Louis Bonaparte in 1809.
+  - Dutch civil code promulgated in 1838; modeled on **Code Civil**.
+  - Similarities among French, German, and Dutch law during this period.
+
+- **Dutch Jurists**
+  - Roman-Dutch law as an independent system for nearly three centuries.
+  - Key jurists:
+    - **Hugo de Groot (Grotius)**: 
+      - *Inleidinge tot de Hollandsche Rechtsgeleerdheid*; first treatise on Roman-Dutch law.
+      - *De Jure Belli ac Pacis*; foundational work in public international law.
+    - **Simon van Leeuwen**: 
+      - First to term existing Dutch law as “Roman-Dutch law”.
+      - *Het Roomsch-Hollandsche Recht*; comprehensive review of Roman-Dutch law.
+    - **Johannes Voet**: 
+      - Influential in South African practice.
+      - *Commentarius ad Pandectas*; extensive commentary on Roman-Dutch law.
+    - **Dionysius van der Keessel**: 
+      - *Theses Selectae Juris Hollandici et Zeelandici*; significant work before South Africa's separation.
+    - **Johannes van der Linden**: 
+      - Prolific writer; *Regtsgeleerd, Practicaal en Koopmans Handboek*; last treatise before codification.
+
+- **Dutch Humanist School**
+  - Influenced by humanism; focused on practical needs of existing law.
+
+## 4.6 CONCLUSION
+- Revival of Roman law and its reception in Europe.
+- Development of a European ius commune with Roman law and canon law as foundations.
+- Importance of the law of Holland in South African legal history.
+
+---
+
+## LEARNING UNIT 5: The development of the Western component in South African law before the 1990s
+
+### 5.1 INTRODUCTION
+- Focus on the integration of Roman-Dutch and English law in South Africa (1652-1990s).
+- Indigenous law held inferior status; emphasis on Roman-Dutch and English law.
+
+- **Interpretation of Roman-Dutch Law**
+  - Narrow: Law of Holland in the 17th and 18th centuries.
+  - Broad: Law of all Dutch provinces and elements of European ius commune.
+  - **Du Plessis v Strauss 1988 (2) SA 105 (A)**: Narrow interpretation favored.
+
+- **Application of Roman-Dutch Law**
+  - Established through custom; influenced by English law.
+  - Basic common law of South Africa evolved from this foundation.
+
+- **Legal Administration at the Cape**
+  - Initial governance by the governor; establishment of **Raad van Justitie** in 1685.
+  - Primitive conditions compared to the Netherlands.
+
+- **Formal Sources of Law (Dutch Rule 1652-1795)**
+  - Legislation, old writers, judicial decisions, and custom.
+
+### 5.2 THE PERIOD FROM 1795 TO 1827
+- **First British Occupation (1795)**
+  - Existing justice system maintained; temporary Dutch control in 1803.
+
+- **Second British Occupation (1806)**
+  - Preservation of burgher rights; gradual Anglicisation initiated by Lord Charles Somerset.
+  - Commission established to recommend legal system changes; led to **Charter of Justice** in 1828.
+----- END OF FILE -----
+# HFL1501/1 
+## LEARNING UNIT 5: The development of the Western component in South African law before the 1990s
+
+### 5.3 THE RECEPTION OF ENGLISH LAW AT THE CAPE (1828–1910)
+- **Charter of Justice**: Initiated changes in court structure and formal law, leading to English law influence.
+- **Court Changes**:
+  - **Supreme Court of the Colony of the Cape of Good Hope** replaced the Raad van Justitie.
+  - **Privy Council** appeal established.
+  - **Jury system** introduced (discontinued in 1969).
+  - Judges recruited from England, Ireland, Scotland.
+  - Advocates required to have qualifications from specific universities or prior experience in the Raad van Justitie.
+- **Second Charter of Justice (1834)**: Re-enacted first Charter with amendments; Roman-Dutch law remained applicable, but gradual English law assimilation was encouraged.
+
+### 5.4 THE MECHANICS OF THE RECEPTION PROCESS
+- **English Institutions**: Strong influence in education, language, and commerce; English customs dominated business practices.
+- **Judiciary**: English judges promoted assimilation of English law into Roman-Dutch law; advocates trained in English law preferred English authorities.
+- **Legislation**: Cape statutes from 1828 mirrored British legislation, enhancing English law emphasis.
+- **Extent of Reception**: Included comprehensive reception of English Companies Act, negotiable instruments law, and parliamentary conventions; represented both practical and scientific reception of English law.
+
+### 5.5 LEGAL DEVELOPMENT OUTSIDE THE CAPE (1838–1910)
+- **Boer Migration**: Non-British population (Boers/Voortrekkers) moved inland to form independent states (Transvaal and Free State).
+- **Legal Foundations**:
+  - **Zuid-Afrikaansche Republiek**: Law based on Van der Linden’s *Koopmans Handboek*, supplemented by Leeuwen and Grotius.
+  - **Orange Free State**: Roman-Dutch law declared basic law, with Voet, Leeuwen, Grotius, Van der Linden, and Van der Keessel as authoritative sources.
+- **Anglo-Boer War (1899-1902)**: Strained relations led to British annexation and subsequent assimilation of English law into Roman-Dutch law.
+- **Natal**: Initially Roman-Dutch law; modified by English procedural laws post-1845 British control.
+
+### 5.6 LEGAL DEVELOPMENT SINCE THE UNIFICATION OF SOUTH AFRICA IN 1910
+- **Unification (1910)**: Merged four colonies; established Appellate Division of the Supreme Court, pivotal for legal development.
+- **Scientific Legal Practice**: Emergence of law faculties at independent universities fostered scientific study of Roman-Dutch law.
+- **Appellate Division Role**: Unified legal system; independent legal development; rejected outdated Roman-Dutch principles while not deviating from established principles.
+- **Influence of English Law**: Continued but diminished post-1910; courts adapted Roman-Dutch rules to modern needs (e.g., *Linvestment CC v Hammersley*).
+
+### 5.7 THE SOUTH AFRICAN LAW REFORM COMMISSION
+- **Established (1973)**: Investigates legal matters referred by the Minister of Justice; proposes law changes based on societal needs.
+- **Draft Bills**: Often incorporate comparative legal material, harmonizing common law and indigenous law.
+
+### 5.8 CONCLUSION
+- Overview of the Western component of South African law until the early 20th century; next unit will address the liberation movement's impact on law development.
+----- END OF FILE -----
+# HFL1501/1 
+## 1 
+In later years, “Native” was replaced with “Black”. 
+
+## LEARNING UNIT 6: The South African liberation movement
+- Influenced the development of a constitutional democracy and created institutional constraints on the exercise of power.
+
+### 6.1 What is a national liberation movement?
+- Political movement aimed at national independence and freedom from domination.
+- In South Africa, sought a just society and legitimate legal order through:
+  - Passive resistance (non-violent protest)
+  - Civil disobedience (deliberate law-breaking)
+- Gained international support from the Organisation of African Unity.
+
+### 6.2 The national liberation movement and change in South Africa
+- **Background**
+  - Racial discrimination and political repression existed throughout South Africa's history.
+  - Policies of segregation led to unjust laws maintaining black and other racial groups in subordination.
+  - State power was virtually unlimited; Parliament could pass any legislation.
+
+- **Oppressive Laws:**
+  - **Natives Land Act of 1913**: Limited black land ownership to 7% of South Africa.
+  - **Natives (Urban Areas) Act of 1923**: Created separate urban locations for blacks.
+  - **Native Administration Act of 1927**: Established a separate court system for blacks.
+  - **Prohibition of Mixed Marriages Act of 1949**: Banned marriages between whites and non-whites.
+  - **Group Areas Act of 1950**: Segregated urban areas and led to forced removals.
+  - **Reservation of Separate Amenities Act of 1953**: Reserved amenities for whites only.
+  - **Bantu Education Act of 1953**: Created a separate education system for blacks.
+  - **Bantu Homelands Citizenship Act of 1970**: Excluded blacks from South African citizenship.
+
+- **The national liberation movement of the 20th century**
+  - Resistance to segregation and unjust laws predates the 20th century.
+  - Notable events:
+    - 1825: Khoi laborers and slaves rebelled.
+    - 1894: Gandhi formed the Natal Indian Congress.
+    - 1956: Women’s March against pass laws.
+
+- **Pass Laws**
+  - Required black South Africans to carry passes for movement.
+  - Severe penalties for non-compliance.
+
+- **Apartheid Era (1948 Onwards)**
+  - Stricter enforcement of discriminatory legislation.
+  - **Sharpeville Massacre (21 March 1960)**: Police killed 69 protesters, leading to international condemnation.
+  - ANC and PAC declared unlawful under the **Unlawful Organisations Act 34 of 1960**.
+  - Emergence of armed struggle; ANC formed **Umkhonto we Siswe (MK)** in 1961.
+
+### 6.3 Defining moments in the articulation of the principles underlying the Constitution of South Africa
+- **The Africans’ Claims**
+  - **Atlantic Charter (14 August 1941)**: Influenced liberation struggles.
+  
+### Influential Political Activists
+- **Helen Joseph**: Organiser of the 1956 Women’s March.
+- **Albertina Sisulu**: Key figure in anti-apartheid activism.
+- **Chief Albert Luthuli**: First African Nobel Peace Prize laureate (1960).
+- **Bishop Desmond Tutu**: Nobel Peace Prize (1984); chaired the Truth and Reconciliation Committee.
+- **Nelson Mandela**: Nobel Peace Prize (1993); advocated for equality and human rights.
+
+### Recognition of the Liberation Movement
+- UN addressed South Africa's racial policies since 1946.
+- **Oliver Tambo**: Advocated for UN support in dismantling apartheid.
+- UN recognized liberation movements as legitimate representatives of South Africa.
+
+### Conclusion
+- The liberation movement led to the eventual abolition of unjust laws and the establishment of a constitutional democracy, emphasizing the rights of all citizens.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 6: The South African Liberation Movement
+
+### The Freedom Charter
+- **Historical Significance**: 
+  - Adopted at the Congress of the People in Kliptown, Soweto on 26 June 1955.
+  - Represents core principles for a just, democratic society; non-racial unitary state; basic human rights.
+  - Influenced the Constitution of the Republic of South Africa, 1996.
+
+- **Preamble Highlights**:
+  - South Africa belongs to all who live in it, asserting equality and democratic governance.
+  - Acknowledges historical injustices and the need for equal rights and opportunities.
+  - Calls for a democratic state to secure rights without distinction of race, color, or belief.
+
+- **Significance**:
+  - Foundation for a constitutional democracy in South Africa.
+  - Influenced ANC's Constitutional Guidelines (1988) and the 1996 Constitution.
+  - Advocated for equality before the law, repeal of discriminatory laws, and access to education and land.
+
+### The National Liberation Movement and Legal Order
+- **Role of Civil Disobedience**:
+  - Challenged the legitimacy of the Roman-Dutch legal regime.
+  - Engaged in sustained resistance against apartheid laws.
+
+- **Emergence of Theories**:
+  - Concepts of decolonialisation and land redistribution.
+  - Development of legal theories of sovereignty and statehood.
+
+- **Impact on Legal System**:
+  - Liberation movement integral to post-apartheid legal system.
+  - External events (e.g., apartheid laws) influenced internal legal history.
+  - Recognition of equal treatment and inalienable human rights.
+
+### Conclusion
+- The liberation movement's history illustrates the interplay between external legal history and the development of South African law.
+- Important events contributed to constitutional democracy and human rights recognition.
+
+## Chapter 7: The Universal Component: The History of Human Rights in South Africa
+
+### The Principle of Constitutionalism
+- **Definition**: 
+  - Power of the state must be limited to ensure democracy.
+  - Courts have the capacity to test the validity of legislation.
+
+- **Constitutional Approaches**:
+  - **Complete Denial**: No limitations on parliamentary will; courts lack testing capacity.
+  - **Partial Recognition**: Parliament supreme; courts can assess procedural adherence but not content.
+  - **Full Recognition**: Constitution is supreme; courts can test both procedure and content.
+
+- **Current Status**: 
+  - Full recognition since 1994 with the adoption of the Interim Constitution and Bill of Rights.
+
+### Origins and Development of Fundamental Rights
+- **Human Rights Definition**: 
+  - Inherent rights belonging to every person; cannot be taken away without justification.
+  
+- **Historical Context**: 
+  - Exploration of the origins of human rights and their evolution within South African law.
+
+### Diagram Reference
+- **South African Legal System**:
+  - Indigenous Component
+  - Western Component
+  - Universal Component
+
+---
+
+This structured summary captures the essential elements of the original text while reducing the content by approximately 50%. It highlights key principles, theories, and concepts relevant to the study of South African law and the historical context of human rights.
+----- END OF FILE -----
+# HFL1501/1 
+## LEARNING UNIT 7: The universal component: The history of human rights in South Africa
+
+### 7.1 Natural-law philosophy as the foundation of human rights
+- Human rights traditionally viewed as Western origin, linked to natural-law theory.
+- Natural-law: higher, eternal norms not created by humans; all states subject to these norms.
+- Key philosophers:
+  - **St Augustine** (4th century AD)
+  - **Ibn Rushd** (12th century AD)
+  - **Thomas Aquinas** (13th century AD)
+  - **Hugo de Groot**: modern natural law; derived from human rationality, not divine.
+- **John Locke**: inalienable rights to life, liberty, property; state exists to protect these rights; foundation of constitutional democracy.
+- Global movements: 
+  - **American Declaration of Independence** (1776)
+  - **French Constitution** (1789)
+  - **Universal Declaration of Human Rights** (1948)
+- **African Charter on Human and People’s Rights**: adopted 1986; African Court established 2004.
+
+### 7.2 The African philosophy of ubuntu as the foundation of human rights
+- **S v Makwanyane**: Constitutional Court emphasized the Bill of Rights rooted in South African values, particularly ubuntu.
+- **Ubuntu**: spirit of humaneness, social justice, fairness; virtues include tolerance, compassion, forgiveness.
+- Emphasizes human dignity and community over individualism; includes rights and duties.
+
+### 7.3 Human rights in South Africa before April 1994
+- Apartheid legislation violated human rights; common law restricted.
+- **Zuid-Afrikaansche Republiek (ZAR)**: Constitutional crisis; courts invalidated Volksraad decisions; Chief Justice Kotzé dismissed.
+- **Orange Free State Constitution (1854)**: early recognition of human rights; influenced by American Constitution; procedural rules for legislation.
+- **Union of South Africa (1910)**: formal testing powers of courts; Harris v Minister of the Interior: courts ruled on procedural validity, not moral content.
+
+### 7.4 Human rights in South Africa since April 1994
+- Bill of Rights in 1993 and 1996 Constitutions marked a shift towards human rights recognition.
+- **Truth and Reconciliation Commission (1996)**: addressed past human rights violations; identified reasons for judicial inaction during apartheid:
+  - Parliamentary sovereignty doctrine.
+  - Judges' role limited to administering, not creating justice.
+  - Legal positivism: separation of law and morality.
+- **Le Roux and others v Dey**: Roman-Dutch law as a fair system; equitable principles present.
+- 1993 and 1996 Constitutions established constitutional supremacy, replacing parliamentary sovereignty.
+
+### 7.5 Conclusion
+- South African law characterized as a "mixed" legal system; integration of African, Western, and universal components.
+- Constitution and human rights culture fundamentally transformed South African law. 
+
+### References
+- **S v Makwanyane** 1995 (6) BCLR 665 (CC).
+- **Harris v Minister of the Interior** 1952 (2) SA 42 (A).
+- **Le Roux and others v Dey** 2011 (3) SA 274 (CC).
+----- END OF FILE -----
+# HFL1501/1 
+## PART 2
+### Historical foundations and development of the law of property and obligations
+
+#### Learning unit 1
+**Setting the scene**  
+**Page 68**
+
+- **Learning Outcomes**
+  - Explain the relationship between the Constitution and other sources of law in South Africa.
+  - Describe "transformative constitutionalism" and the transformative constitutional project.
+  - Provide an opinion on the purpose of the Constitution in South Africa.
+
+---
+
+### 1.1 INTRODUCTION  
+**Page 68-69**
+- Focus on historical origins and development of legal rules.
+- Distinction between external and internal legal history:
+  - **External Legal History**: Sources and factors influencing legal system development (political, socio-economic, religious).
+  - **Internal Legal History**: Origins and development of legal rules influenced by external events.
+- Reference to Roman law principles (Twelve Tables, 450 BC) and their treatment by the Constitutional Court (2017).
+- Aim: Understand legal rule development in South Africa, noting changes over time due to historical events and societal needs.
+
+---
+
+### 1.2 HOW TO APPROACH THIS PART  
+**Page 69-70**
+- Engage with the Constitution; essential for understanding legal principles.
+- Access the Constitution via:
+  - Department of Justice and Constitutional Development website.
+  - Southern African Legal Information Institute (SAFLII).
+  - UNISA library resources.
+- Importance of reading relevant sections of the Constitution throughout the study guide.
+- Interrelationship of laws: Property law, contract law, and delict law are interconnected.
+- Critical thinking about legal principles is essential; law is dynamic and influenced by the Constitution.
+
+---
+
+### 1.3 WHY THE LAW OF PROPERTY AND OBLIGATIONS?  
+**Page 70-71**
+- Selected fields illustrate legal rules stemming from Roman law, retaining what is just and fair.
+- Examination of outdated legal principles needing development for the transformative-constitutional project.
+- Purpose: Introduce legal principles for further exploration in legal studies.
+- Laws must evolve with society; observe legal development examples.
+
+---
+
+### 1.4 THE IMPORTANCE OF THE TRANSFORMATIVE-CONSTITUTIONAL PROJECT  
+**Page 71-72**
+- **Supreme Law**: The Constitution is the highest law; any law conflicting with it is invalid (Section 2).
+- Legal rules must align with constitutional values; unjust laws must be amended or repealed.
+- Legal interpretation must reflect constitutional values; transformative constitutionalism is key.
+- **Transformative Constitutionalism**: 
+  - Defined by Karl Klare as a process aimed at transforming political and social institutions towards democracy and equality.
+  - Encompasses nonviolent legal processes for societal change.
+- **Transformation Focus**: Address socio-economic issues (e.g., healthcare, education, land reform).
+- **Need for Transformation**: Post-1994 government inherited systemic inequalities; ongoing efforts required for true equality.
+- **Methods of Transformation**: Utilize law to enact change; the Constitution guides legal reforms.
+- **Personal Impact**: As future legal practitioners, involvement in the transformative project is essential; question fairness and purpose of laws.
+
+---
+
+### READING  
+**Page 72**
+- Read the Preamble and sections 1, 2, 7, and 8 of the Constitution of the Republic of South Africa, 1996.
+
+--- 
+
+### References
+- **Legislation**: Constitution of the Republic of South Africa, 1996.
+- **Cases**: Reference to Constitutional Court decisions relevant to transformative constitutionalism.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 1: Setting the Scene
+
+### 1.1 Purpose of the Constitution
+- **Adopted for four aims**:
+  - Heal past divisions; establish democratic values, social justice, human rights.
+  - Foundation for a democratic society; government based on people's will; equal legal protection.
+  - Improve citizens' quality of life; unleash individual potential.
+  - Build a united, democratic South Africa as a sovereign state.
+
+### 1.2 Bill of Rights
+- **Location**: Chapter 2 of the Constitution.
+
+### 1.3 State's Obligation
+- **Section 8(1)**: All government spheres (legislature, executive, judiciary) and state organs are bound by the Constitution.
+
+### 1.4 Conclusion
+- Focus on transformative constitutionalism; refer to the Constitution throughout the study guide.
+
+---
+
+## Chapter 2: The Law of Property
+
+### 2.1 Introduction
+- **Law of Property**: Governs legal relationships regarding specific legal objects (things).
+- **Roman Law Influence**: Basic principles remain relevant; ownership concepts differ in African customary law vs. Western law.
+- **Constitutional Impact**: Sections 25 and 26 influence property law; identify gaps for economic transformation.
+
+### 2.2 Scope and Function
+- **Definition**: Regulates relationships between legal subjects and legal objects (things).
+- **Function**: Harmonizes individual rights concerning specific things.
+
+### 2.3 Definition and Classification of Things
+- **Corporeal Objects**: Things that can be perceived by senses (e.g., land, clothing).
+  
+#### 2.3.1 Things in Commerce vs. Outside Commerce
+- **In Commerce**: Can be owned and possessed.
+- **Outside Commerce**: Beyond human control; includes:
+  - Divine law subjects (religious objects).
+  - Public property (air, roads).
+  - State/community property.
+
+#### 2.3.2 Single and Composite Things
+- **Single Things**: Unit objects (e.g., a tomato).
+- **Composite Things**: Composed of multiple components (e.g., a house).
+
+#### 2.3.3 Consumable vs. Non-consumable Things
+- **Consumables**: Used up (e.g., food).
+- **Non-consumables**: Retain existence after use (e.g., tools).
+
+#### 2.3.4 Movable vs. Immovable Things
+- **Immovable**: Land and attachments (e.g., buildings).
+- **Movable**: Not fixed in location (e.g., furniture).
+
+#### 2.3.5 Fruits
+- **Economic Benefits**: Derived from the use of a principal thing.
+  - **Fructus naturales**: Natural products (e.g., crops).
+  - **Fructus civiles**: Contractual benefits (e.g., rent).
+
+#### 2.3.6 Res Mancipi vs. Res Nec Mancipi
+- **Res Mancipi**: Valuable property requiring formal transfer.
+- **Res Nec Mancipi**: Less formal transfer methods.
+
+### 2.4 Slavery
+- **Historical Context**: Slavery as property; significant in Roman society.
+- **South African Context**: Dutch importation of slaves; gradual legal improvements; abolition in 1834.
+- **Modern Implications**: Human trafficking addressed by the **Prevention and Combating of Trafficking in Persons Act**; **Section 13** of the Constitution protects against slavery.
+
+### 2.5 Relationships Between Legal Subjects and Legal Objects
+- **Real Rights vs. Personal Rights**:
+  - **Real Rights**: Rights enforceable against any person regarding a thing.
+  - **Personal Rights**: Rights enforceable against specific individuals.
+
+---
+
+**Note**: This summary condenses key principles and concepts from the original text while maintaining the structure and page references for effective study.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## 2.6 POSSESSION (POSSESSIO)
+- **Definition**: Legal term indicating physical and factual control over a corporeal thing.
+- **Distinction from Ownership**: 
+  - Possession does not equate to ownership; a non-owner can possess a thing (e.g., lessee).
+  - Legal consequences differ between possession and ownership.
+- **Protection of Possession**: 
+  - Law protects possession via interdicts.
+  - Important for limited real rights.
+- **Complexity**: Law of possession is intricate; further study in PVL3701.
+
+## 2.7 OWNERSHIP
+### 2.7.1 What is Ownership?
+- **Definition**: Most significant real right; fullest right over a corporeal thing.
+- **Rights of Ownership**:
+  - **ius utendi**: Right to use the thing.
+  - **ius fruendi**: Right to the fruits produced.
+  - **ius abutendi**: Right to alienate or destroy.
+- **Constitutional Protection**: Section 25 protects ownership rights against arbitrary deprivation.
+
+### 2.7.2 Restrictions on Ownership
+- **Personal Rights**: Limitations arise from agreements (e.g., lease).
+- **Legal Provisions**: Restrictions based on public interest (e.g., neighbour law).
+- **Case Reference**: *Gien v Gien* - Ownership is not absolute; legal restrictions apply.
+
+### 2.7.3 Indigenous Property Rights
+- **Categories**:
+  - **Family Property**: Controlled by the head of the family for collective benefit.
+  - **Household Property**: Includes gifts and household items, managed for the household's advantage.
+  - **Personal Property**: Individual use, minimal group value; rights may be limited by family structure.
+- **Constitutional Relevance**: Indigenous rights protected under section 25.
+
+### 2.7.4 Comparison of Ownership in Roman Law and Indigenous Law
+- **Contextual Differences**: Indigenous ownership is community-oriented, contrasting with Roman individual ownership.
+- **Key Questions**: Control and use of property depend on familial and marital relationships in indigenous law.
+
+## 2.8 THE ACQUISITION OF OWNERSHIP: DERIVATIVE ACQUISITION
+- **Modes of Acquisition**: Distinction between original and derivative acquisition.
+- **Derivative Acquisition**: Ownership transferred with predecessor's cooperation (e.g., sale).
+- **Original Acquisition**: Independent acquisition without predecessor's assistance.
+
+### 2.8.1 The Nemo Plus Iuris Rule
+- **Principle**: No one can transfer more rights than they possess.
+
+### 2.8.2 Traditio ex Iusta Causa (Delivery on a Lawful Ground)
+- **Definition**: Transfer of ownership through delivery; requires intention from both parties.
+- **Legal Basis**: Ownership transfer necessitates both delivery and agreement (case reference: *Air-Kel (Edms) Bpk h/a Merkel Motors v Bodenstein*).
+
+### 2.8.3 Simple Delivery (Traditio de Manu in Manum)
+- **Definition**: Physical handing over of the item.
+
+### 2.8.4 Delivery with the Long Hand (Traditio Longa Manu)
+- **Definition**: Pointing out the item within sight for immediate control.
+
+### 2.8.5 Delivery with the Short Hand (Traditio Brevi Manu)
+- **Definition**: No physical handover needed if transferee already possesses the item.
+
+### 2.8.6 Constitutum Possessorium
+- **Definition**: Possession remains with the transferor under a lease agreement post-sale.
+
+### 2.8.7 Symbolic Delivery (Traditio Symbolica)
+- **Definition**: Transfer of possession through symbolic acts (e.g., documentation).
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## 2.9 THE ACQUISITION OF OWNERSHIP: ORIGINAL ACQUISITION
+
+- **Original Acquisition**: Ownership can be acquired independently from another person.
+- **Forms of Original Acquisition**:
+  - **Appropriation (occupatio)**: Taking possession of a res nullius (unowned thing) with the intention of ownership.
+    - Types of res nullius:
+      - Never owned (wild animals, found objects).
+      - Abandoned (res derelictae).
+      - Lost (res deperditae) not considered res nullius.
+    - **Case Reference**: *Reck v Mills* - Ownership lost when abandoned; occupatio grants ownership to the new possessor.
+  
+  - **Acquisition of Fruits (acquisitio fructuum)**: Ownership of fruits acquired upon separation from the principal thing.
+    - Civil fruits (e.g., rent) transfer ownership on delivery.
+  
+  - **Creation of a New Thing (speciﬁ catio)**: New thing created from existing materials.
+    - Ownership depends on material ownership and ability to revert to original state.
+    - **Justinian's View**: Maker of new thing from own and others' materials becomes owner unless revertible.
+  
+  - **Prescription (usucapio)**: Acquiring ownership through possession over time.
+    - Governed by the **Prescription Act**.
+    - Requirements:
+      1. Property must be capable of ownership (res in commercium).
+      2. Actual control of property during the required period.
+      3. Valid iusta causa (e.g., contract).
+      4. Good faith possession.
+      5. Prescribed time period must be uninterrupted.
+
+## 2.10 PROTECTION OF OWNERSHIP
+
+- **Legal Remedies**: Available for ownership infringement, including actions, interdicts, and exceptions.
+- **Rei Vindicatio**: Key remedy for reclaiming ownership.
+  - Owner claims property from current possessor, regardless of good or bad faith.
+  - Requires proof of ownership.
+
+## 2.11 LIMITED REAL RIGHTS
+
+- **Definition**: Rights over another's property (ius in re aliena).
+- **Categories**:
+  - Real rights of enjoyment (e.g., servitudes).
+  - Real rights of security (e.g., hypothec).
+- **Protection**: Limited real rights enforceable against third parties.
+
+## 2.12 SERVITUDES
+
+- **Definition**: Real right exercised over another's property.
+- **Types**: Personal servitudes and praedial servitudes (focus on personal servitudes).
+- **Characteristics**:
+  - Specific to one person; cannot be inherited or transferred.
+  - Ceases upon the holder's death.
+  - Must be exercised reasonably, without causing inconvenience to the owner.
+  - Does not require the owner to act but to tolerate or refrain from actions.
+  - Indivisible; persists across subdivided properties.
+
+### 2.12.3 Usufruct (ususfructus)
+
+- **Definition**: Right to use and enjoy another's property without altering it.
+- **Origin**: Ensures maintenance for surviving spouses while preserving inheritance for children.
+- **Rights**: Usufructuary has the right to use (ius utendi) and take fruits from the property.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## 2.12 Usufruct and Servitudes
+
+### 2.12.1 Usufruct
+- **Definition**: Right to use and enjoy property (ius fruendi) while preserving its substance.
+- **Bare Ownership**: Owner can alienate property (ius abutendi) but cannot use it.
+- **Fruits**: 
+  - Natural fruits (e.g., crops, livestock)
+  - Civil fruits (e.g., rental income)
+- **Maintenance**: Usufructuary must maintain property and not alter its nature (salva rerum substantia).
+  - No conversion of property type (e.g., wine farm to cattle farm).
+  - Must maintain condition and stock levels.
+  - Must exercise reasonable care (diligens paterfamilias).
+
+### 2.12.4 Protection of Servitudes
+- **Actio Confessoria**: Enforces servitude holder's rights against interference.
+- **Actio Negatoria**: Available to landowners against unlawful servitude claims.
+
+## 2.13 Real Securities
+
+### 2.13.1 Hypothec (Hypotheca)
+- **Definition**: Security for debt using property, allowing creditor to sell property if debt is unpaid.
+- **Types of Real Security**: 
+  - **Fiducia**: Not discussed in detail.
+  - **Pledge**: Briefly covered in Unit 3.
+  - **Hypothec**: 
+    - Originated from leasing practices.
+    - Tenant's movables and farm fruits serve as security for rent.
+    - Praetor granted actio Serviana for landlords against tenants.
+- **Advantages for Debtor**:
+  - Broad range of property can be used as security.
+  - Retention of ownership and possession.
+  - Ability to offer property as security to multiple creditors.
+
+### Legislation Regulating Home Loans
+- **National Credit Act** (Act 34 of 2005)
+- **Home Loan and Mortgage Disclosure Act** (Act 63 of 2000)
+- **PIE Act** (Prevention of Illegal Eviction from Unlawful Occupation of Land Act, Act 19 of 1998)
+
+### Case Example
+- **Venter Case**: Court ruled against immediate payment demand by Nedbank after late payment, emphasizing consumer protection under the Constitution and relevant acts.
+
+## 2.14 Constitutional Developments of South African Property Law
+
+### 2.14.1 Section 25 of the Constitution and Land Reform
+- **Context**: Addresses historical imbalances in land ownership due to colonialism and apartheid.
+- **Provisions**:
+  - Protects existing land ownership.
+  - Regulates state expropriation and compensation.
+  - Mandates state facilitation of land redistribution.
+- **Legislation Supporting Section 25**:
+  - Various acts aimed at land reform and protection of rights (e.g., Restitution of Land Rights Act, Extension of Security of Tenure Act).
+
+### Case Example
+- **Daniels v Scribante** ([2017] ZACC 13):
+  - Context: Domestic worker sought to improve her dwelling without owner's consent.
+  - Court linked security of tenure to human dignity.
+  - Ruling: Occupiers can make improvements to dwellings, reflecting legislative intent under ESTA.
+  - Balance of rights: Owner's rights must be respected while ensuring occupier's dignity.
+
+### Conclusion
+- The evolution of property law in South Africa reflects a shift towards addressing historical injustices and promoting socio-economic transformation, guided by constitutional principles.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## LEARNING UNIT 2: The Law of Property
+
+### PART 2: Historical Foundations and Development of the Law of Property and Obligations
+
+#### 2.14.1 Constitutional Context
+- **Constitutional Mandate**: Courts must balance conflicting rights, considering historical context and dignity.
+- **Judgements Overview**:
+  - **First Judgement**: Emphasizes the need for dignity in living conditions.
+  - **Second Judgement**: Historical divisions must be addressed.
+  - **Third Judgement**: Courts must consider historical context in decisions.
+  - **Fourth Judgement**: Supports the first judgement; highlights owners' duties.
+  - **Fifth Judgement**: Improvements for dignity do not infringe on property rights.
+
+#### 2.14.2 Section 26 of the Constitution and Eviction
+- **Eviction Law**: Conflicting rights exist regarding property ownership and unlawful occupation.
+- **Unlawful Occupiers**: Addressing homelessness and unlawful occupation is crucial.
+- **Professor André van der Walt's View**: 
+  - Apartheid laws led to marginalization; reforms aim to protect unlawful occupiers.
+  - Common-law remedies (e.g., **rei vindicatio**) may be restricted to protect rights of occupiers.
+- **PIE Act**: 
+  - Provides procedures for lawful eviction.
+  - Aims to correct historical injustices.
+
+#### 2.14.3 Case Law: Port Elizabeth Municipality v Various Occupiers
+- **Case Summary**: Municipality sought eviction under the PIE Act for unlawful occupiers.
+- **Judicial Outcomes**:
+  - High Court granted eviction; Supreme Court of Appeal overturned.
+  - Constitutional Court emphasized historical context and socio-economic rights.
+  - **Key Findings**: Eviction must consider alternative accommodation and the dignity of occupiers.
+
+#### 2.14.4 Case Law: Occupiers of Erven 87 & 88 Berea v Christiaan Frederick De Wet NO
+- **Case Summary**: New owner sought eviction of long-term unlawful occupiers.
+- **Judicial Findings**:
+  - Eviction order based on invalid consent; occupiers unaware of implications.
+  - Importance of alternative accommodation emphasized.
+  - Local authorities must assist in providing alternatives to avoid homelessness.
+
+#### 2.14.5 Case Law: Baron and Others v Claytile (Pty) Limited and Another
+- **Case Summary**: Valid eviction under ESTA for former employees living on the farm.
+- **Judicial Findings**:
+  - City of Cape Town's duty to provide alternative accommodation.
+  - Rejected housing options must be justified; distance from work and schools considered.
+  - Emphasizes the balance between property rights and the need for secure housing.
+
+### Key Legislation and Cases
+- **Constitution**: Section 25 (property rights), Section 26 (housing rights).
+- **PIE Act**: Prevention of Illegal Eviction from and Unlawful Occupation of Land Act, Act 19 of 1998.
+- **ESTA**: Extension of Security of Tenure Act, Act 62 of 1997.
+- **Key Cases**:
+  - **Daniels case**: Importance of dignity and historical context.
+  - **Port Elizabeth Municipality case**: Socio-economic rights and eviction considerations.
+  - **Occupiers case**: Validity of consent in eviction.
+  - **Baron case**: Municipal duty to provide alternative accommodation.
+
+### Conclusion
+- The evolving landscape of property law in South Africa reflects a commitment to addressing historical injustices while balancing the rights of property owners and unlawful occupiers. The Constitution serves as a guiding framework for these legal principles.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## LEARNING UNIT 2: The law of property
+
+### 2.15 CONCLUSIONS
+- Law of property has evolved significantly from Roman law to South African common law.
+- Shift from viewing humans as property to recognizing equal rights under the law.
+- Legal development aligns with societal needs; law must adapt to remain relevant.
+- South African Constitution necessitates transformation of property law for broader societal benefit.
+- Not all Roman-law principles are inherently unjust; some, like **rei vindicatio**, remain essential.
+- Law is fluid; continuous development is necessary for societal relevance.
+- Legislature enacts laws for societal transformation; courts interpret and apply laws to protect vulnerable parties.
+- Courts may prioritize vulnerable individuals in cases involving property rights (e.g., single mothers vs. negligent usufructuaries).
+- Customary law may govern family property disputes, reflecting community-specific legal principles.
+- Courts must develop law to align with constitutional values and the Bill of Rights.
+
+## LEARNING UNIT 3: Obligations: The law of contract
+
+### 3.1 INTRODUCTION
+- Overview of Roman law of contract and its evolution into South African law.
+- Examination of African philosophy and constitutional values' influence on contract law.
+- Interrelationship between property law and contract law.
+- Focus on obligations and general principles of contract, particularly purchase and sale contracts.
+
+### 3.2 OBLIGATIONS
+- **Definition**: Legal bond between parties; creditor has a right to claim performance from debtor.
+- **Personal vs. Real Rights**: Obligations involve personal rights to claim performance, unlike property rights.
+
+#### 3.2.1 What is an obligation?
+- Obligation creates a right and corresponding duty; creditor claims performance, debtor delivers.
+- **Roman Definition**: Obligation binds another to perform for the creditor.
+
+#### 3.2.2 Sources of obligations
+- **Gaius**: Sources include contracts, delicts, and other causes.
+- **Justinian's Four Sources**:
+  - Contracts
+  - Delicts
+  - Quasi-contracts
+  - Quasi-delicts
+
+**Contracts**:
+- Types:
+  - Consensual contracts (agreement only)
+  - Verbal contracts (agreement + formal words)
+  - Real contracts (agreement + delivery)
+  - Written contracts (agreement + writing)
+
+**Delicts**:
+- Roman law recognized theft, robbery, unlawful damage, and insults.
+- Modern law classifies theft and robbery as crimes, not delicts.
+
+### 3.3 GENERAL PRINCIPLES OF THE LAW OF CONTRACT
+- Principles apply universally across Roman and modern South African contracts.
+- Key questions:
+  - How is a contract concluded?
+  - What must be performed?
+  - Who is liable?
+  - When must performance occur? 
+
+**Note**: Quasi-contracts and quasi-delicts are not evaluated in depth in this module.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## 3.3.1 Agreement (consensus)
+- **Consensus**: Essential for contract formation; absence leads to no contract.
+- **Factors Influencing Consensus**:
+  - **Fraud (dolus)**: Deceitful conduct leading to voidable contracts.
+  - **Duress (metus)**: Intimidation affecting free will, resulting in voidable contracts.
+  - **Mistake (error)**: Incorrect understanding affecting contract validity.
+
+- **Contract Validity**:
+  - **Void Contracts**: No legal effect from inception (void ab initio).
+  - **Voidable Contracts**: Valid initially but can be declared void by the injured party.
+
+- **Important Note**: Avoid using "invalid"; use "valid," "void," or "voidable."
+
+### Fraud (dolus)
+- Definition: Deceptive conduct intended to persuade.
+- Result: Contract voidable; remedies available for the wronged party.
+
+### Duress (metus)
+- Definition: Coercion affecting decision-making.
+- Result: Contract voidable at the victim's request.
+
+### Mistake (error)
+- Definition: Bona fide misunderstanding not due to fraud.
+- Types of Mistakes:
+  - **Error in negotio**: Mistake about the nature of the contract (void).
+  - **Error in corpore**: Mistake about the object (void).
+  - **Error in nomine**: Mistake in naming (valid).
+  - **Error in persona**: Mistake about identity (voidable if material).
+  - **Error in substantia**: Mistake about quality (potentially void).
+
+## 3.3.2 Performance in Terms of a Contract
+- **Performance**: Required actions or omissions under a contract.
+- **Requirements for Valid Performance**:
+  - Not conflict with morals/legal principles.
+  - Determinable in monetary terms.
+  - Due to the other party.
+  - Physically and legally possible.
+
+- **Impossibility of Performance**:
+  - **Initial Impossibility**: Contract void if impossible at inception.
+  - **Supervening Impossibility**: Becomes impossible post-contract; liability depends on cause (act of God vs. debtor's fault).
+
+## 3.3.3 Contractual Liability
+- **Contractual Liability**: Obligation to perform as per contract terms.
+- **Malperformance**: Failure to perform adequately.
+  - Can result from fraud or negligence.
+  - Standard of care: **Bonus et diligens paterfamilias** (utmost care expected).
+
+### Key Concepts
+- **Personal Rights and Duties**: Created by contracts; enforceable obligations.
+- **Good Faith**: Essential in performance; fraud breaches this principle.
+
+### Legislation and Cases
+- **Roman Law Principles**: Foundation for modern contract law.
+- **Case References**: Specific examples illustrate principles (e.g., fraud, duress, mistake).
+
+### Diagrams
+- Reference diagrams illustrating contract formation, types of mistakes, and performance requirements.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## LEARNING UNIT 3: Obligations: The Law of Contract
+
+### 3.3.4 Terms and Conditions
+- **Culpa Levis in Abstracto**: Highest care required; liable for slightest negligence.
+- **Diligens/Bona Paterfamilias**: Standard for negligence in South African law.
+  
+#### Contractual Clauses and Terms
+- **Contractual Clauses**: Specific lines or sections in a contract.
+- **Contractual Terms**: General reference to the agreement or specific stipulations.
+- **Types of Terms**:
+  - **Condition**: Event must occur before another obligation arises (e.g., "I will buy if...").
+  - **Term**: Defined period of time (e.g., "Until 5 December 2025").
+  - **Suspensive**: Action/event is on hold until a condition is met.
+  - **Resolutive**: Contract ends upon a specified event.
+
+#### Examples
+- **Resolutive Term**: Ends on a specific date (e.g., rental agreement until 31 December 2021).
+- **Resolutive Condition**: Ends if a condition is met (e.g., lease ends if a job is secured).
+- **Suspensive Term**: Validity until a future date (e.g., donation upon retirement).
+- **Suspensive Condition**: Contract enforceability depends on a condition (e.g., buying a house if a donation occurs).
+
+### 3.4 Verbal and Written Contracts
+- **Verbal Contracts**: Formed by consensus and specific formal words.
+  - **Formula**: Agreement + Formal Words = Contractus Verbis
+- **Written Contracts**: Formed by written agreement.
+  - **Formula**: Agreement + Written Record = Contractus Litteris
+- **Importance of Written Contracts**: Complexity, proof of intent, and legal requirements (e.g., immovable property under **Deeds Registries Act 47 of 1937**).
+
+### 3.5 Real Contracts
+- **Definition**: Contracts that require delivery of the subject matter.
+- **Types**:
+  - **Mutuum**: Loan for consumption.
+  - **Commodatum**: Loan for use.
+  - **Depositum**: Deposit.
+  - **Pignus**: Pledge.
+- **Requirements**: Consensus and delivery of the object.
+
+### 3.6 Consensual Contracts
+- **Definition**: Created solely by agreement; no additional actions required.
+- **Types**:
+  - **Letting and Hiring**: Reciprocal contract for use of a thing.
+    - **Forms**:
+      - **Hiring of a Thing**: Lease agreement (locatio conductio rei).
+      - **Contract of Service**: Employment relationship (locatio conductio operarum).
+      - **Contract for Undertaking Work**: One-off job (locatio conductio operis).
+
+### Key Legislation
+- **Basic Conditions of Employment Act**: Regulates employment contracts.
+- **Employment Equity Act**: Promotes equitable employment opportunities.
+- **Labour Relations Act**: Governs labor relations in South Africa.
+
+### Important Cases
+- Reference to relevant case law is necessary for practical application and understanding of principles.
+
+### Diagrams
+- Diagrams illustrating the relationships between terms, conditions, and types of contracts may be included for visual understanding.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## 3.6 Types of Contracts
+
+### 3.6.2 Partnership
+- **Definition**: Contract where two or more persons join in a common venture for mutual economic benefit.
+- **Essential Characteristics**:
+  - Agreement on partnership terms.
+  - Common venture purpose.
+  - Contributions (goods, capital, labor, expertise).
+- **Nature**: Bilateral contract; partners must act in good faith (bona fides).
+
+### 3.6.3 Mandate
+- **Definition**: Contract where the mandatee performs a service gratuitously for the mandator.
+- **Origin**: Roman custom of moral duty among friends.
+- **Requirements**:
+  - Consensus on contract nature and action.
+  - Gratuitous performance.
+- **Nature**: Imperfectly bilateral contract; mandatee incurs obligations, mandator incurs obligations in certain cases.
+
+## 3.7 The Contract of Purchase and Sale
+
+- **Definition**: Consensual contract (emptio venditio) requiring consensus on essential elements.
+- **Essential Elements**:
+  - Agreement on contract nature (buying and selling).
+  - Object of sale must meet specific requirements.
+  - Purchase price must meet specific requirements.
+  
+### 3.7.1 Elements of the Contract of Sale
+- **Agreement (consensus)**: Valid contract exists without delivery or payment.
+- **Object of Sale**:
+  - Must be susceptible to private ownership (res in commercio).
+  - Must be specific (certum) or semi-specific.
+- **Purchase Price**:
+  - Must be specified; unilateral determination not allowed.
+  - Must be in money; barter not permitted.
+  - Must be specific (certum) or ascertainable.
+  - Must be genuine (verum) and just (iustum).
+
+### 3.7.2 Duties of the Contracting Parties
+- **Duties of the Seller**:
+  - Care for property before delivery (culpa levis).
+  - Deliver vacant possession to purchaser.
+  - Guarantee against eviction (actio empti for damages).
+  - Guarantee against latent defects (aedilitian actions: actio redhibitoria and actio quanti minoris).
+  - Conduct in accordance with good faith.
+  
+- **Duties of the Purchaser**:
+  - Payment of purchase price at agreed time.
+  - Acceptance of delivery at agreed time and place.
+  - Reimbursement of seller's necessary expenses.
+  - Conduct in accordance with good faith.
+
+### 3.7.3 Modern Duties and Good-Faith Requirement
+- Seller's obligations (care, guarantee against eviction, latent defects) persist in modern South African law.
+- Good faith requirement has evolved; historically limited in South African contract law.
+
+### Legislation and Cases
+- **Consumer Protection Act**: Act 68 of 2008.
+- **Case Reference**: Trustees, South African Bank v Prince 1852 1 Searle 198.
+
+### Diagram References
+- Consider diagrams illustrating the flow of obligations in contracts of sale and the relationship between parties.
+
+---
+
+This summary condenses the key principles and concepts from the original text while maintaining the structure and essential details necessary for legal study.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 3: Obligations: The Law of Contract
+
+### 3.8 The Constitutional Development of the Law of Contract in South Africa
+- **Supreme Law**: Section 2 of the Constitution invalidates laws not aligned with its principles.
+- **Slow Transformation**: Change in contract law has been slow; conservative legal culture protects existing wealth distribution.
+- **Socio-Economic Impact**: Contract law negatively affects socio-economic status of vulnerable parties.
+
+### 3.8.1 The Problem with Freedom of Contract
+- **Pacta Sunt Servanda**: Foundation of South African contract law; implies freedom to contract.
+- **Inequality in Bargaining Power**: Assumes equal negotiation power; often not the case (e.g., municipalities, service providers).
+- **Consumer Vulnerability**: Consumers often lack choice, leading to injustice and social inequality.
+
+### 3.8.2 The Constitutional Rights of Contracting Parties
+- **Rights Impact**: Equality and human dignity are crucial in contractual disputes.
+- **Distributive Justice**: Contracts distribute wealth and power; must consider vulnerable parties.
+- **Boni Mores**: Legal convictions reflecting societal standards; the Constitution embodies these standards.
+
+### 3.8.3 What About Good Faith?
+- **Limitations on Freedom**: Public policy and boni mores can limit contractual freedom.
+- **Good Faith Principle**: Underlying principle in South African contract law; debated in courts.
+- **Need for Ethical Contracts**: Good faith could enhance protection for weaker parties.
+
+### 3.8.4 Ubuntu and the Law of Contract
+- **Ubuntu Concept**: Emphasizes community and ethical contracting.
+- **Everfresh Case**: Discussed ubuntu's relevance to good faith in contracts; minority judgment highlighted need for ethical updates in contract law.
+- **Community Benefit**: Incorporating good faith and ubuntu could improve justice and fairness in contracts.
+
+### 3.9 The Impact of the Consumer Protection Act on the Law of Sale
+- **Inequality of Bargaining Power**: CPA addresses power imbalances in consumer contracts.
+- **Legislative Response**: CPA aims to protect consumers and promote socio-economic change.
+- **Consumer Rights**: CPA provides specific rights to consumers, limiting freedom of contract to ensure protection.
+
+### Key Legislation and Cases
+- **Constitution of the Republic of South Africa, 1996**: Supreme law; sections 9, 10, 12 relevant to equality and dignity.
+- **Consumer Protection Act, 2008**: Social justice legislation aimed at protecting consumers.
+- **Everfresh Market Virginia (Pty) Ltd v Shoprite Checkers (Pty) Ltd**: Case discussing ubuntu and good faith in contracts.
+
+### Conclusion
+- **Transformative Approach**: Legal practitioners must consider socio-economic realities and ethical obligations in contract law.
+- **Future Developments**: Ongoing discussions about integrating good faith and ubuntu into formal law to enhance justice for vulnerable parties.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 2: Consumer Protection Act (CPA)
+
+### 2.1 Aim of the CPA
+- Transformative goals of the Constitution.
+- Protects vulnerable consumers (e.g., poor, minors, seniors, those with literacy issues).
+
+### 2.2 Consumer Rights (Parts A-H)
+- Right to equality in the market.
+- Right to privacy.
+- Right to choose.
+- Right to disclosure and information.
+- Right to fair and responsible marketing.
+- Right to fair and honest dealing.
+- Right to fair, just, and reasonable terms.
+- Right to fair value, good quality, and safety.
+
+### 2.3 Defective Goods under the CPA
+- Not all sales are consumer agreements; common law may apply.
+- Example: Sale of a car by a dealer (CPA applies) vs. sale by an individual (common law applies).
+
+### 2.4 Warranty of Quality (Sections 55-56)
+- Implied warranty that goods meet quality standards.
+- Goods must be suitable for intended use, in good working order, and comply with applicable standards.
+- Definition of defect: "any material imperfection" affecting acceptability or safety.
+
+### 2.5 Consumer Protection vs. Common Law
+- Section 56(4): Legislative warranty applies in addition to common law warranties.
+- CPA provides broader protection than common law regarding defects (latent and patent).
+
+### 2.6 Voetstoots Clause
+- CPA's protective purpose may render voetstoots clauses unlawful in consumer agreements.
+- Supplier's freedom of contract may be limited to protect vulnerable consumers.
+
+### 2.7 Conclusion
+- Continuous development of contract law is necessary to reflect societal values and principles of ubuntu.
+- Need for courts to enhance protections for weaker parties in contracts.
+
+---
+
+## Chapter 4: Obligations: The Law of Delict
+
+### 4.1 Introduction
+- Delict: wrongful act causing damage, creating obligations.
+- Distinction between delict and contract: no consensus in delict.
+
+### 4.2 Definition of a Delict
+- Wrongful, culpable conduct causing damage to property, personality, or body.
+- Victim (creditor) has a claim against the wrongdoer (debtor).
+
+### 4.3 Difference Between Delict and Crime
+- A single act can constitute both a delict and a crime.
+- Roman law classified crimes as state interests; other wrongs as private delicts.
+
+### 4.4 Elements of a Delict
+1. **Conduct**
+   - Direct action or omission causing damage.
+   - Indirect causation recognized.
+
+2. **Wrongfulness**
+   - Conduct must be against the law (e.g., murder, theft).
+
+3. **Fault (Mens Rea)**
+   - Blameworthy attitude; can be intent or negligence.
+   - Intent: subjective frame of mind.
+   - Negligence: objective test; three degrees in Roman law (culpa levis in abstracto, culpa levis in concreto, culpa lata).
+
+### 4.5 Conclusion
+- Understanding delictual elements is crucial for establishing liability.
+- The evolution of delict law reflects societal changes and justice interests.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 4: Obligations: The Law of Delict
+
+### 4.4 Elements of a Delict
+
+- **4.4.1 Fault**
+  - Negligence defined by the standard of a diligent bonus paterfamilias.
+  - Modern test: reasonable person standard.
+  - Constitutional Court's application of "reasonable security-guard test."
+
+- **4.4.4 Damage**
+  - Must cause damage to another's property, body, or personality.
+  - No claims for self-inflicted damage.
+  - Types of damage:
+    - Property (e.g., vehicle damage)
+    - Bodily harm (e.g., shooting)
+    - Personality infringement (e.g., defamation)
+
+- **4.4.5 Causation**
+  - Causal connection required between wrongdoer's conduct and victim's damage.
+  - Example: Direct act leading to damage (e.g., throwing a bottle).
+
+### 4.5 Damage to Property (Damnum Iniuria Datum)
+
+- **4.5.1 Origins and Early Development**
+  - Early Roman law: limited delicts in the Twelve Tables.
+  - Lex Aquilia (287 BC) established a uniform delict for wrongful damage to property.
+    - Chapter 1: Wrongful killing of slaves or livestock.
+    - Chapter 3: Wrongful destruction of property.
+
+- **4.5.2 Elements of a Delict under Lex Aquilia**
+  - **Conduct**: Direct or indirect acts recognized as conduct.
+  - **Unlawfulness**: Grounds of justification can exclude unlawfulness.
+  - **Fault**: Intentional or negligent damage; standard of culpa levis in abstracto.
+  - **Damage**: Claims for damage to body recognized; full damages include consequential damage and loss of profit.
+  - **Causation**: Damage must result from the wrongdoer's action.
+
+- **4.5.3 Actio Legis Aquiliae**
+  - Action instituted against wrongdoer for delict of damnum iniuria datum.
+
+### 4.6 Insulting Behaviour (Iniuria)
+
+- **4.6.1 Development of the Delict**
+  - Originated from physical attacks; evolved to include personality infringements.
+  - Actio iniuriarum created for claims against insulting behavior.
+
+- **4.6.2 Forms of Iniuria**
+  - **Physical Attack (Corpus)**: Any unlawful physical attack or threat.
+  - **Dignity Attack (Dignitas)**: Actions undermining self-worth (e.g., public humiliation).
+  - **Reputation Damage (Fama)**: False rumors damaging a person's reputation.
+
+- **4.6.3 Elements of Iniuria**
+  - **Conduct**: Any act infringing physical integrity, dignity, or reputation.
+  - **Wrongfulness**: Action must be unjustifiable; justifications exclude delict.
+
+### Legislation and Cases
+- **Lex Aquilia**: Foundation for damage to property claims.
+- **Actio iniuriarum**: Legal action for claims of iniuria.
+
+### Notes
+- Understanding elements of delict is crucial for identifying liability.
+- The law of delict is dynamic, evolving to meet societal needs and constitutional principles.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 4: Obligations: The Law of Delict
+
+### 4.6.4 The Actio Iniuriarum
+- **Definition**: Remedy for wrongful and intentional infringement of personality rights.
+- **Nature of Claim**: Claim for satisfaction (solatium) rather than monetary damages.
+- **Purpose**: To provide comfort for injured feelings, not to enrich the aggrieved party.
+- **Key Case**: *Minister of Safety and Security v Tyulu* 2009 (5) SA 85 (SCA).
+
+### 4.7 The Constitutional Development of the Law of Delict in South Africa
+- **Overview**: Evolution from Roman law to Roman-Dutch law; ongoing developments in common law.
+- **Key Sections**: Refer to sections 9, 10, 12, and 14 of the Constitution.
+
+#### 4.7.1 Damnum Iniuria Datum and *Loureiro and Others v iMvula Quality Protection (Pty) Ltd*
+- **Facts**: Security company failed to prevent a robbery; applicants claimed financial losses.
+- **Legal Question**: Delictual liability for negligence.
+- **Vicarious Liability**: Company liable for employee's negligent conduct.
+- **Negligence Test**:
+  - Foreseeability of harm.
+  - Reasonable steps to prevent loss.
+  - Failure to take those steps.
+- **Court's Finding**: Security guard was negligent; company held liable.
+
+#### 4.7.2 Iniuria and *Le Roux and Others v Dey*
+- **Facts**: Teacher defamed by pupils' digital image; awarded R25,000 and an apology.
+- **Legal Principles**: Discussion of Roman-Dutch and African customary law.
+- **Amende Honorable**: Concept of formal apology in defamation cases.
+- **Ubuntu**: Emphasis on restoring relationships; apology as a form of justice.
+- **Criticism**: Court's language perceived as biased against homosexual individuals; implications for societal norms.
+
+### 4.8 Social Justice, the Constitution, and the Law of Delict: *Nkala and Others v Harmony Gold Mining Company Limited and Others*
+- **Case Overview**: Class-action suit for mineworkers with silicosis/TB.
+- **Significance**: Largest potential class action in South Africa; section 38(c) of the Constitution allows for class actions.
+- **Health Risks**: Silicosis linked to silica dust exposure; long-term health implications for mineworkers.
+- **Settlement**: Agreement reached in 2018; pending court ratification.
+
+### References
+- **Legislation**: Constitution of South Africa.
+- **Key Cases**: 
+  - *Minister of Safety and Security v Tyulu*.
+  - *Loureiro and Others v iMvula Quality Protection (Pty) Ltd*.
+  - *Le Roux and Others v Dey*.
+  - *Nkala and Others v Harmony Gold Mining Company Limited and Others*.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 4: Obligations: The Law of Delict
+
+### 4.1 Judgement of the South Gauteng High Court
+- **Dependants of Deceased Mineworkers**: Recognized as vulnerable; dependants included in class action.
+- **Delictual Action Requirements**:
+  - Defendant's action/inaction.
+  - Wrongfulness of action (breach of legal duty).
+  - Fault (negligence).
+  - Causation of damage.
+  - Quantifiable damage.
+- **Claims Against Mining Companies**:
+  - Breach of legal duties under common law, legislation, and Bill of Rights.
+  - Allegations of bad faith and ongoing negligence.
+- **Class Action Justification**: 
+  - Essential for access to justice for poor, unsophisticated claimants.
+  - Court's ruling focused on the ability to institute claims collectively, not on proving delicts.
+
+### 4.2 The Settlement Agreement
+- **Legal Process Duration**: Years of planning; delays led to increased mortality among claimants.
+- **Settlement Reached (May 2018)**:
+  - R5 billion allocated by six mining companies.
+  - Claims between R70,000 and R250,000 based on illness and circumstances.
+- **Justice and Legal Outcomes**: 
+  - Courts and legal practitioners bear the duty to ensure justice.
+
+### 4.3 Reflections in Conclusion
+- **Transformation of Law**: Significant evolution from historical roots to modern application influenced by the Constitution.
+- **Legal Remedies**: Historical remedies (e.g., actio legis Aquiliae) still relevant in addressing contemporary injustices.
+- **Socio-Economic Impact**: Mining companies' failures exacerbate struggles of vulnerable populations.
+- **Constitutional Aims**: Social justice, access to justice, and dignity protection are central to legal developments.
+
+## Chapter 5: The Role of the Constitution in South African Legal Development
+
+### 5.1 Setting the Scene: The Supremacy of the South African Constitution
+- **Learning Outcomes**:
+  - Importance of questioning the Constitution's relevance.
+  - Understanding "supremacy of the Constitution".
+  - Rationale for a supreme Constitution over parliamentary supremacy.
+
+### 5.2 Introduction
+- **Focus**: Role of the Constitution in legal development; reflection on historical and social contexts.
+- **Common Law Influence**: Analysis of property and obligations law development influenced by the Constitution.
+- **Key Topics**:
+  - Constitution as supreme law.
+  - Transformative constitutionalism.
+  - Relationship between common law, courts, and the Constitution.
+  - Impact of ubuntu on law.
+
+### 5.3 Importance of the Constitution
+- **Supremacy in Action**: Courts base rulings on constitutional principles.
+- **Pivotal Role**: Essential for developing constitutionally sound legal rules and principles.
+
+---
+
+**Note**: This summary condenses the original text while preserving key legal principles, case references, and structural integrity.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## PART 3: THE ROLE OF THE CONSTITUTION IN SOUTH AFRICAN LEGAL DEVELOPMENT
+
+### 1.3 THE SUPREMACY OF THE CONSTITUTION
+- **Constitution as Supreme Law**: 
+  - The Constitution is the highest law, binding all government spheres.
+  - Sections to review: Preamble, 1, 2, 7, 165, 167, 172.
+  
+- **Constitutional Principles**:
+  - **Supremacy**: Constitution is supreme law (Principle 4).
+  - **Separation of Powers**: Distinct roles for legislature, executive, judiciary (Principle 6).
+  - **Judiciary Independence**: Courts must be qualified, independent, and safeguard rights (Principle 7).
+
+- **Certiﬁcation of the Constitution Case**:
+  - Examined compliance with constitutional principles.
+  - Fundamental structures include:
+    - Constitutional democracy.
+    - Separation of powers.
+    - Checks on governmental power.
+    - Protection of fundamental rights.
+
+- **Judiciary's Role**:
+  - Must uphold the Constitution and avoid overstepping into other branches' functions.
+  - Courts can declare laws invalid if inconsistent with the Constitution (Section 172).
+
+### 1.4 THE CONSTITUTIONAL COURT ON THE CONSTITUTION
+- **Key Cases**:
+  - **Doctors for Life International v Speaker of the National Assembly**:
+    - Court enforces constitutional obligations (Section 167(4)(e)).
+  
+  - **S v Makwanyane**:
+    - Abolished capital punishment; emphasized Constitution's supremacy (Section 4).
+  
+  - **Pharmaceutical Manufacturers Association Case**:
+    - Common law is subject to constitutional control; no separate legal systems.
+  
+  - **Economic Freedom Fighters v Speaker of the National Assembly**:
+    - Emphasized accountability and rule of law as constitutional values.
+
+### 1.5 CONCLUSION
+- Explored the Constitution's supremacy and its role in a democratic society.
+- Evaluated Constitutional Court's commitment to protecting the Constitution.
+- Next unit will address the duty to transform inconsistent laws.
+
+## LEARNING UNIT 2: Transformative Constitutionalism: The Duty to Transform Society Through Law
+
+### 2.1 INTRODUCTION
+- Focus on the Constitution's role in transforming South African society.
+- Link between legal transformation and socio-economic improvement.
+
+### 2.2 AN EXPLORATION OF TRANSFORMATIVE CONSTITUTIONALISM
+- **Definition**: Transformative constitutionalism aims to align law with constitutional values for societal transformation.
+- **Implications for Jurists**: Legal scholars and practitioners must engage with transformative principles to effect change.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 2: Transformative Constitutionalism: The Duty to Transform Society Through Law
+
+### Learning Unit 1: Influence of the Constitution on Common-Law Principles
+- **Transformative Constitutionalism**: Concept emphasizing the Constitution's role in reshaping societal norms and legal principles.
+- **Key Influencers**:
+  - **Justice Chaskalson**:
+    - Dignity as a fundamental right; asserts inherent dignity of all individuals.
+    - Dignity linked to equality; Constitution mandates positive action for socio-economic rights (housing, healthcare, etc.).
+    - Courts must balance conflicting rights, guided by constitutional values (democracy, dignity, equality, freedom).
+  - **Justice Langa**:
+    - Transformation as a core principle; aims for a truly equal society.
+    - Transformation is ongoing and requires continuous dialogue and adaptation.
+  - **Justice Moseneke**:
+    - Emphasizes equality and socio-economic rights for social justice.
+    - Constitution's purpose is to address unjust power/resource distributions.
+
+### Learning Unit 2: Implications of Transformative Constitutionalism
+- **Constitutional Sections**:
+  - **Section 7**: Rights enshrined in the Bill of Rights; state obligations to respect and fulfill these rights.
+  - **Section 8(1)**: Bill of Rights binding on judiciary, legislature, and executive.
+  - **Section 39(2)**: Courts must promote the spirit of the Bill of Rights when developing common law.
+- **Carmichele v Minister of Safety and Security**:
+  - Courts have a duty to develop common law to align with constitutional values.
+  - Obligation to transform law that does not promote constitutional objectives.
+
+### Conclusion
+- **Transformative Constitutionalism**: A process requiring all legal actors to advance societal change through law.
+- **Key Takeaway**: Law must evolve to serve society fairly and justly, addressing inequalities.
+
+## Chapter 3: Ubuntu and the Transformation of South African Law
+
+### Learning Unit 1: Understanding Ubuntu
+- **Definition**: Ubuntu translates to humaneness; emphasizes personhood, morality, and community solidarity.
+- **Key Case**: **S v Makwanyane** (1995):
+  - Justice Mokgoro's definition highlights respect for human dignity and community values.
+- **Complexity of Ubuntu**:
+  - Viewed as a philosophy encompassing various components (e.g., cooperation, community support).
+  - Evolving concept relevant in both rural and urban contexts.
+
+### Key Components of Ubuntu
+- **Cultural Expressions**:
+  - Masakhane (let us build each other), Izandla ziyagezana (hands wash each other), and others.
+  - Importance of dialogue, consensus, and connection to ancestors.
+
+### Implications for Jurisprudence
+- **Judicial Reference**: Courts frequently invoke ubuntu in constitutional matters to promote community values and social justice.
+- **Ongoing Relevance**: Ubuntu continues to influence legal interpretations and societal interactions.
+
+---
+
+**References**:
+- **Legislation**: South African Constitution (Sections 7, 8, 39, 173).
+- **Cases**: Carmichele v Minister of Safety and Security; S v Makwanyane.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## 3.3 WHY DO THE PRINCIPLES OF UBUNTU INFORM SOUTH AFRICAN LAW?
+
+- **Constitutional Reference**: Ubuntu not explicitly mentioned in the Constitution; included in the Interim Constitution.
+- **Interim Constitution**: Emphasizes National Unity and Reconciliation.
+  - Addresses past divisions and human rights violations.
+  - Promotes understanding, reparation, and ubuntu over vengeance and victimization.
+- **Constitutional Court**: Confirms principles of the Interim Constitution are reflected in the final Constitution.
+- **Group Rights**: Protection of community rights (cultural, religious, language communities).
+- **Duties and Rights**: Co-existence illustrated in sections 3(2) and 8(2) of the Constitution.
+- **Judicial Recognition**: Various Constitutional Court cases affirm ubuntu's presence in the Constitution.
+
+## 3.4 THE ROLE OF UBUNTU IN CONSTITUTIONAL PRIVATE-LAW MATTERS
+
+- **Complex Nature of Ubuntu**: Integral to South African law transformation.
+- **Property Law**: Conflicting rights (common-law and human rights) addressed in eviction cases.
+  - **Daniels v Scribante**: Human dignity linked to security of tenure.
+  - **Baron v Claytile**: Consideration of circumstances and rights before eviction.
+  - **PE Municipality Case**: Historical context of unlawful occupiers' eviction affecting dignity.
+  - **Occupiers of Berea Case**: Lack of humane treatment in eviction processes.
+- **Contract Law**: Ubuntu influences equality and human dignity in contract law.
+  - **Everfresh Case**: Calls for alignment of common law with ubuntu principles.
+- **Delict Law**: Injury to dignity linked to ubuntu principles.
+  - **Le Roux v Dey**: Court ordered apology and compensation, emphasizing community values.
+
+## 3.5 CONCLUSION
+
+- **Value of Ubuntu**: Significant in discussions on social justice and legal transformation.
+- **Influence on Law**: Ubuntu has impacted various legal areas; however, greater integration into common law is needed.
+- **Future Prospects**: Hope for more comprehensive transformation aligning with constitutional values and ubuntu principles.
+
+## 4 LEARNING UNIT 4
+
+### 4.1 INTRODUCTION
+
+- **Module Overview**: Discusses supremacy of the Constitution, transformative constitutionalism, and the role of ubuntu in legal development.
+
+### 4.2 WHY IS HISTORY IMPORTANT?
+
+- **Historical Context**: The Constitution does not nullify previous laws; it coexists with them.
+- **Legal Principles**: All laws must align with the Constitution; transformation is ongoing.
+- **Legal History's Role**: 
+  - Analyzes legal culture and transformation needs.
+  - Provides insights into societal changes influencing law.
+- **Transformation vs. Tradition**: Historical sources should be interpreted contextually, not conservatively.
+
+### 4.3 REFLECTIONS ON THE STUDY GUIDE
+
+- **Module Focus**: 
+  - External historical events shaping South African legal system.
+  - Origins of African legal components and their contemporary relevance.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## Chapter 1: Introduction to South African Law
+- **Indigenous Law and Western Law**: Both are recognized and constitutionally protected sources of South African law.
+
+## Chapter 2: Historical Roots of Western Law
+- **Roman Law**: Origins and growth; revival in medieval law schools; development of European ius commune.
+- **Reception of Roman Law**: Influence of canon law in Western Europe; development of Roman-Dutch law in Holland.
+- **South African Law**: Merging of Roman-Dutch and English law into a single system.
+
+## Chapter 3: Constitutionalism and Human Rights
+- **Political Events**: 20th-century liberation movements leading to constitutional democracy in the 1990s.
+- **Constitutional Protection**: Fundamental human rights in South Africa.
+
+## Chapter 4: Internal History of South African Law
+### Learning Unit 2: Law of Property
+- **Abolition of Slavery**: Transition from legal objects to legal subjects.
+- **Ownership Concepts**: Comparison of Roman and indigenous views; individual vs. collective ownership.
+- **Protection of Ownership**: Focus on **rei vindicatio**; impact of **Sections 25 and 26** of the Constitution on land rights.
+- **Transformative-constitutional Project**: Emphasis on housing access as a dignity requirement; land redistribution issues.
+
+### Learning Unit 3: Law of Contract
+- **Historical Foundations**: Nature of obligations; general principles of contract.
+- **Consumer Protection Act**: Contrast with constitutional development in contract law.
+- **Ubuntu Principles**: Potential influence on contract nature; responsible contracting ethos.
+- **Societal Reflection**: Questioning the alignment of contract law with societal values.
+
+### Learning Unit 4: Law of Delict
+- **Historical Development**: Focus on **damnum iniuria datum** and **iniuria**.
+- **Constitutional Influence**: Addressing damage through apologies and monetary compensation.
+- **Common Law Role**: Importance in upcoming class-action cases against gold mines.
+
+## Chapter 5: The Role of the Constitution in Legal Development
+- **Constitutional Guidance**: Supreme law guiding interpretation and application of conflicting rights.
+- **Social and Historical Contexts**: Courts considering these contexts as sources of legal knowledge.
+- **Legal Transformation**: Responsibility of society to engage in continuous legal transformation.
+
+## Chapter 6: Final Thoughts
+- **Historical Development**: Importance of understanding legal history for current legal principles.
+- **Transformative-constitutional Project**: Aim to restore dignity and equality; necessity of knowing legal origins for effective transformation.
+
+## Chapter 7: Obligations: The Law of Contract
+- **Bill of Rights**: Necessity for courts to balance competing rights and develop entrenched rights cohesively.
+- **Legal Transformation Responsibility**: Society's role in creating and transforming law.
+
+## List of Latin Terms
+- **Actio**: Action, claim, lawsuit.
+- **Damnum iniuria datum**: Unlawful damage from delict.
+- **Rei vindicatio**: Recovery of property by the owner.
+- **Ubuntu**: Concept emphasizing communal values and respect in legal contexts.
+
+### Diagram References
+- **Historical Development of South African Law**: Illustrates the evolution of legal systems and influences.
+
+---
+
+This structured summary retains the essential principles and concepts while condensing the original text by approximately 50%.
+----- END OF FILE -----
+# HFL1501/1 Study Notes
+
+## LIST OF LATIN TERMS
+
+- **stare decisis**: Adhere to decided cases.
+- **sub iudice**: Under consideration by a court.
+- **sui generis**: Unique, one of its kind.
+- **sui iuris**: Having legal capacity.
+- **superficies solo cedit**: Buildings on leased land become property of the landowner.
+- **supra**: Above.
+- **uberrima fides**: Highest standard of good faith.
+- **ultra vires**: Beyond the scope of powers.
+- **usucapio**: Acquisition of property by possession over time.
+- **vice versa**: The other way round.
+- **vinculum iuris**: Legal bond or obligation.
+- **vis major**: Irresistible force, act of God.
+- **vitium**: Defect or flaw.
+- **viva voce**: Oral evidence/testimony.
+
+## BIBLIOGRAPHY
+
+### Old Authorities
+- **Codex 2.3.20**
+- **Digesta 1.1.10pr**
+- **Digesta 41.2.1.21**
+- **Digesta 44.7.3pr**
+- **Digesta 50.17.54**
+- **Gaius Institutiones 2.66**
+- **Gaius Institutiones 3.88**
+
+### Legislation and Constitutions
+- **Black Administration Act 38 of 1927**
+- **Constitution of the Republic of South Africa, 1996**
+- **Consumer Protection Act 68 of 2008**
+- **Extension of Security of Tenure Act 62 of 1997**
+- **Law of Evidence Amendment Act 45 of 1988**
+- **Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998**
+- **Special Courts for Blacks Abolition Act 34 of 1986**
+- **Traditional Courts Bill (B15-2008)**
+- **Traditional Courts Bill (B1-2017)**
+
+### International Law
+- **A/RES/3411 C (XXX)**: UN General Assembly Resolution on apartheid policies.
+- **S/RES/134 (1960)**: UN Security Council Resolution on South Africa.
+
+### Case Law
+- **AB and another v Minister of Social Development** 2017 (3) BCLR 267 (CC)
+- **African National Congress v Congress of the People** 2009 (3) SA 72 (GPHC)
+- **Air-Kel (Edms) Bpk h/a Merkel Motors v Bodenstein** 1980 (3) SA 917 (A)
+- **Barkhuizen v Napier** 2007 (5) SA 323 (CC)
+- **Baron and others v Claytile (Pty) Limited** [2017] ZACC 24
+- **Bhe v Magistrate Khayelitsha** 2005 (1) BCLR 1 (CC)
+- **Carmichele v Minister of Safety and Security** 2001 (4) SA 938 (CC)
+- **Daniels v Campbell NO** 2004 (7) BCLR 735 (CC)
+- **Economic Freedom Fighters v Speaker of the National Assembly** 2016 (3) SA 580 (CC)
+- **Port Elizabeth Municipality v Various Occupiers** 2005 (1) SA 217 (CC)
+
+### Foreign Case Law
+- **Botswana**: Matumo v News Company (Botswana) 1997 BLR 43 (IC)
+- **Lesotho**: Motokoa v Mota [2001] LSCA 91
+
+### Books
+- **Barnard, AJ**: Contractual justice (LLD thesis, University of Pretoria, 2002).
+- **Du Plessis, HM**: Good faith and ubuntu in South African contract law (LLD thesis, University of South Africa, 2017).
+- **Dugard, J**: International law: A South African perspective (4th ed, Juta, 2011).
+
+### Academic Articles
+- **Barnard-Naudé, J & De Vos, P**: "The heteronormative observer: The Constitutional Court’s decision in Le Roux v Dey" 2011 SALJ 407.
+- **Davis, D**: "Developing the common law of contract in the light of poverty and illiteracy" 2011 Stell LR 845.
+
+### Internet Sources
+- **De Vos, P**: "ConCourt judgment links access to land and housing with dignity" (Date of use: 26 June 2017).
+- **Fin24**: "Most silicosis claimants living in poverty" (Date of use: 5 June 2018).

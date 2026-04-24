@@ -1,0 +1,1321 @@
+# Public Supply Chain Management Study Notes
+
+## Preface  
+- Overview and introduction to public supply chain management.
+
+## How to Use This Study Guide  
+- Instructions for effectively utilizing the study guide.
+
+## Overview of the Module  
+- Synopsis of the module's structure and objectives.
+
+## List of Official Sources  
+- Compilation of authoritative references.
+
+---
+
+## Learning Unit 1: Introduction to Public Supply Chain Management (Page 1)
+
+### 1.1 Introduction (Page 2)  
+- Definition and significance of public supply chain management.
+
+### 1.2 Overview (Page 3)  
+#### 1.2.1 The Legislative and Policy Framework Regulating Procurement in the South African Public Service (Page 3)  
+- Framework governing public procurement processes.  
+
+##### 1.2.1.1 Legislation and Policy for Uniformity in Procurement Reform (Page 3)  
+- Establishes guidelines for consistent procurement practices.  
+
+##### 1.2.1.2 Constitutional Provisions (Page 3)  
+- Constitutional foundation for public procurement.  
+
+##### 1.2.1.3 Public Finance Management Act, 1999 (PFMA), Act 1 of 1999 as amended by Act 29 of 1999 (Page 4)  
+- Framework for supply chain management.  
+
+##### 1.2.1.4 Amendment to the State Tender Board Act Regulations (Page 5)  
+- Empowerment of accounting officers regarding ad hoc tenders.  
+
+#### 1.2.2 General (Page 5)  
+- General principles guiding the public supply chain management.
+
+### 1.3 Legislation and Policy Strategies Regulating SCM (Page 6)  
+#### 1.3.2 PFMA Amendment (Page 6)  
+- Key provisions of the PFMA.
+
+#### 1.3.3 Guide for Accounting Officers/Authorities (Page 7)  
+- Responsibilities and guidelines for officers.
+
+#### 1.3.4 Municipal Finance Management Act, 56 of 2003 (Page 8)  
+- Regulation of municipal supply chains.
+
+#### 1.3.5 Preferential Procurement Policy Framework (PPPF) Act No 5 of 2000 (Page 8)  
+- Framework incentivizing local procurement. 
+
+#### 1.3.6 Preferential Procurement Regulations of August 2001 (Page 9)  
+- Detailed procedures for implementing PPPF.
+
+### 1.4 Improving Accountability through an Integrated Procurement System (Page 9)  
+- Strategies for increasing transparency.
+
+### 1.5 Supply Chain Management (Page 10)  
+#### 1.5.1 Concepts of Supply Chain Management (Page 10)  
+- Basic concepts defining SCM.
+
+#### 1.5.2 Elements of Supply Chain Management (Page 11)  
+- Key components:  
+  - Demand management (Page 12)  
+  - Acquisition management (Page 13)  
+  - Logistics management (Page 13)  
+  - Disposal management (Page 14)  
+  - Risk management (Page 14)  
+  - Supply chain performance (Page 14)  
+
+### 1.6 Objectives of the Supply Chain Management Function (Page 15)  
+- Goals targeted by SCM processes.
+
+### 1.7 Training (Page 16)  
+- Training requirements for SCM professionals.
+
+### 1.8 Conclusion (Page 16)  
+- Summary of public supply chain principles.
+
+---
+
+## Learning Unit 2: Acquisition Management in Perspective (Page 17)
+
+### 2.1 Introduction (Page 18)  
+- Overview of acquisition management in SCM.
+
+### 2.2 Role-Players (Page 18)  
+#### 2.2.1 National Treasury (Page 18)  
+- Oversight body for public finance.
+
+#### 2.2.2 Supply Chain Management Office (Page 18)  
+- Central role in SCM implementation.
+
+#### 2.2.3 Practice Notes (Page 19)  
+- Guidelines on procurement practices.
+
+#### 2.2.4 Provincial Treasuries (Page 19)  
+- Function within the provincial level.
+
+#### 2.2.5 State Information Technology Agency (Page 19)  
+- Focus on government IT procurement.
+
+#### 2.2.6 Internal Role-Players (Page 20)  
+- Key internal committees:  
+  - Bid specification committee (Page 20)  
+  - Bid evaluation committee (Page 20)  
+  - Bid adjudication committee (Page 21)  
+
+### 2.3 Meaning of the Principles in Section 217(1) of the Constitution (Page 22)  
+#### 2.3.1 Fair and Equitable (Page 23)  
+- Requirements for fairness in procurement.  
+
+#### 2.3.2 Transparent (Page 23)  
+- Necessity for openness in processes. 
+
+#### 2.3.3 Competitive/Cost-effective (Page 23)  
+- Ensuring best value in procurement.
+
+### 2.4 Equity (Page 24)  
+- Promotion of equitable access in SCM.
+
+### 2.5 Choice of Procurement Method (Page 25)  
+#### 2.5.1 Petty Cash Purchases (Page 25)  
+#### 2.5.2 Written or Verbal Quotations (Page 25)  
+#### 2.5.3 Formal Written Price Quotations (Page 25)  
+##### 2.5.3.1 List of Prospective Suppliers (Page 25)  
+
+#### 2.5.4 Competitive Bidding (Page 27)  
+- Requirements and processes for competitive bids.
+
+### 2.6 Determination of Appropriate Process to Satisfy Requirements (Page 27)  
+#### 2.6.1 Two-stage Bidding (Page 27)  
+#### 2.6.2 Pre-qualifying Bidders (Page 28)  
+#### 2.6.3 Single Source Bidding (Page 28)  
+#### 2.6.4 Sole Provider (Page 29)  
+#### 2.6.5 Public Private Partnerships (PPP) (Page 29)  
+#### 2.6.6 Negotiations (Page 29)  
+#### 2.6.7 Establishment of a List of Preferred Suppliers (Page 30)  
+#### 2.6.8 E-Procurement (Page 30)  
+#### 2.6.9 Procurement from Abroad (Page 30)  
+#### 2.6.10 Specific Cases (Page 31)  
+##### 2.6.10.1 Urgent and Emergency Cases (Page 31)  
+##### 2.6.10.2 Unsolicited Bids (Page 31)  
+#### 2.6.11 Appointment of Consultants (Page 31)  
+#### 2.6.12 Transversal Contracts (Page 31)  
+
+### 2.7 Conclusion (Page 32)  
+- Summary of acquisition management principles.
+
+---
+
+## Learning Unit 3: Planning and Procurement Administration (Page 33)
+
+### 3.1 Introduction (Page 34)  
+- Importance of planning in procurement.
+
+### 3.2 Guidelines in the Preparation Process (Page 34)  
+- Steps for effective preparation.
+
+### 3.3 General and Special Conditions of Contract (Page 34)  
+#### 3.3.1 General Conditions of Contract (GCC) (Page 34)  
+##### 3.3.1.1 Warranty (Page 35)  
+##### 3.3.1.2 Subcontracts (Page 35)  
+##### 3.3.1.3 Packaging (Page 35)  
+##### 3.3.1.4 Payment (Page 35)  
+
+#### 3.3.2 Special Conditions of Contract (SCC) (Page 36)  
+- Specifics tailored to individual contracts.
+
+### 3.4 Prohibition of Set Asides and the Use of Cost Estimates as Benchmarks (Page 37)  
+- Guidelines on set asides.
+
+### 3.5 Measurables Attached to Specific Goals for Which Preference Points Are Awarded (Page 37)  
+- Criteria for measuring outcomes.
+
+### 3.6 Administration of Procurement Processes (Page 38)  
+#### 3.6.1 Advertising (Page 38)  
+#### 3.6.2 Utilizing Standard Bidding Documents (Page 39)  
+#### 3.6.3 Sale of Documents (Page 40)  
+#### 3.6.4 Bid Closing Time (Page 41)  
+#### 3.6.5 Bids Received After Closing Time (Page 41)  
+#### 3.6.6 Opening and Admission of Bids (Page 41)  
+#### 3.6.7 Communication Pertaining to Bids (Page 42)  
+
+### 3.7 Conclusion (Page 42)  
+- Wrap-up of planning and administration aspects.
+
+---
+
+## Learning Unit 4: Bid Evaluation and Adjudication (Page 44)
+
+### 4.1 Introduction (Page 44)  
+- Overview of evaluation and adjudication processes.
+
+### 4.2 Access to Information (Page 45)  
+- Transparency in bid evaluations.
+
+### 4.3 Just Administrative Action (Page 46)  
+- Principles of fair decision-making.
+
+### 4.4 Mandate, Role and Function of the BIO Adjudication Committee (Page 46)  
+#### 4.4.1 Composition and Appointment of Committee Members (Page 47)  
+#### 4.4.2 Bid Adjudication Meetings and Procedures (Page 47)  
+##### 4.4.2.1 Notice of Meetings (Page 48)  
+##### 4.4.2.2 Submissions/Reports to the Committee (Page 48)  
+##### 4.4.2.3 Minutes (Page 48)  
+##### 4.4.2.4 Register (Page 48)  
+
+### 4.5 Award of Contract (Page 49)  
+- Procedures for contract awards.
+
+### 4.6 Contract Management (Page 49)  
+#### 4.6.1 Safekeeping of Contracts (Page 50)  
+- Importance of contract management.
+
+### 4.7 Risk Management and Contract Administration (Page 50)  
+#### 4.7.1 Performance Security (Page 51)  
+#### 4.7.2 Termination for Default (Page 51)  
+- Termination procedures for non-compliance.
+
+### 4.8 Fraud and Corruption (Page 51)  
+- Measures to combat fraud in SCM. 
+
+### 4.9 Conclusion (Page 52)  
+- Summary of bid evaluation and management.
+
+---
+
+## Learning Unit 5: Appointment of Consultants (Page 54)
+
+### 5.1 Introduction (Page 55)  
+- Role and importance of consultants in public supply chains.
+
+### 5.2 Definition of the Term Consultant (Page 55)  
+- Understanding who qualifies as a consultant.
+
+### 5.3 Need for Appointment (Page 56)  
+- Justification for engaging consultants.
+
+### 5.4 Promoting Government’s Preferential Policies (Page 56)  
+- Alignment of consultant appointments with governmental policy goals.
+
+### 5.5 Steps to Follow When Selecting Consultants (Page 57)  
+- Procedures for consultant selection.
+
+### 5.6 Identify the Approach (Page 57)  
+- Approaches to consultant engagement.
+
+### 5.7 Selection of Particular Types of Consultants (Page 58)  
+#### 5.7.1 Non-Governmental Organisations (NGOs) (Page 58)  
+#### 5.7.2 Inspection Agents (Page 59)  
+- Criteria for selecting specialized consultants.  
+
+---
+
+## Conclusion  
+- Recap of key concepts in public supply chain management and its importance in public administration.
+----- END OF CHUNK -----
+# Study Notes on Public Supply Chain Management
+
+### Table of Contents
+- **Chapter 5: Procurement and Supply Chain Management**
+  - 5.7.3 Banks
+  - 5.7.4 Auditors
+  - 5.7.5 Service Delivery Contractors
+  - 5.8 Requests for Bids
+    - 5.8.1 Terms of Reference (TOR)
+    - 5.8.2 Request for Proposals
+  - 5.9 Receipt of Proposal
+  - 5.10 Evaluation of Bids/Proposals
+  - 5.11 Negotiations and Awarding of Contract
+    - 5.11.1 General Conditions of Contract
+      - 5.11.1.1 Definitions
+      - 5.11.1.2 Application
+      - 5.11.1.3 General
+      - 5.11.1.4 Standards
+      - 5.11.1.5 Use of Contract Documents and Information: Inspection
+      - 5.11.1.6 Patent Rights
+      - 5.11.1.7 Performance Security
+      - 5.11.1.8 Inspections, Tests and Analyses
+      - 5.11.1.9 Packing
+      - 5.11.1.10 Delivery and Documents
+      - 5.11.1.11 Insurance
+      - 5.11.1.12 Transportation
+      - 5.11.1.13 Incidental Services
+      - 5.11.1.14 Spare Parts
+      - 5.11.1.15 Warranty
+      - 5.11.1.16 Payment
+      - 5.11.1.17 Prices
+      - 5.11.1.18 Contract Amendments
+      - 5.11.1.19 Assignment
+      - 5.11.1.20 Subcontracts
+      - 5.11.1.21 Delays in Supplier’s Performance
+      - 5.11.1.22 Penalties
+      - 5.11.1.23 Termination for Default
+      - 5.11.1.24 Force Majeure
+      - 5.11.1.25 Termination for Insolvency
+      - 5.11.1.26 Limitation of Liability
+      - 5.11.1.27 Anti-dumping and Countervailing Duties and Rights
+      - 5.11.1.28 Governing Language
+      - 5.11.1.29 Applicable Law
+      - 5.11.1.30 Notices
+      - 5.11.1.31 Taxes and Duties
+      - 5.11.1.32 National Industrial Participation (NIP) Programme
+  - 5.12 Contract Award
+  - 5.13 Types of Contracts
+  - 5.14 Evaluation of the Performance of Consultants
+  - 5.15 Debriefing
+  - 5.16 Conclusion
+  - 5.17 Review Questions
+
+### 1. Introduction to Public Supply Chain Management
+
+#### 1.1 Overview of SCM
+- Modern government aims to enhance citizen well-being through effective service delivery.
+- Key services include roads, healthcare, education, and municipal services funded by taxes and VAT.
+- Public sector procurement must align with legislative frameworks aimed at protecting social rights and achieving strategic objectives.
+
+#### 1.2 Legislative and Policy Framework
+- **Constitution of the Republic of South Africa, 1996** emphasizes fair and transparent procurement practices (Section 217).
+- Procurement policies must support uniformity and align with broader governmental objectives such as socio-economic development.
+  
+##### 1.2.1 Key Legislation
+- **Public Finance Management Act (PFMA), 1999**: Framework for sound procurement management.
+- **Local Government Municipal Finance Management Act (MFMA) 56 of 2003**: Regulations to enhance municipal procurement.
+- **Preferential Procurement Policy Framework Act (PPPFA) 5 of 2000**: Aims to correct historical inequalities and enhance participation from disadvantaged groups.
+
+### 5.11.1 General Conditions of Contract
+- **5.11.1.1 Definitions**: Key terms used within contracts.
+- **5.11.1.2 Application**: Scope and applicability of the conditions.
+- **5.11.1.3 General**: Basic contractual obligations.
+- **5.11.1.4 Standards**: Quality and performance benchmarks.
+
+### Conclusion
+- Ongoing procurement reforms are necessary to ensure accountability and transparency in public sector operations.
+
+### References
+- **Constitution of the Republic of South Africa, 1996**
+- **Public Finance Management Act, 1999 (PFMA), Act 1 of 1999 as amended by Act 29 of 1999**
+- **Local Government Municipal Finance Management Act 56 of 2003**  
+- **Preferential Procurement Policy Framework Act 5 of 2000** 
+
+--- 
+
+These notes encapsulate essential information and legislative references for the study of public supply chain management, suitable for examination preparation or academic review while maintaining critical structure and content integrity.
+----- END OF CHUNK -----
+# Study Notes: Public Supply Chain Management
+
+## 1.1 Obligations under the Constitution
+- **Section 217(3)**: Mandates national legislation for preferential procurement to remedy past socio-economic disparities.
+- **Sections 215–219**: Require the National Treasury to establish norms for transparency and expenditure control in government spheres.
+- **Section 195(1)**: Public administration must adhere to democratic values:
+  - Professional ethics
+  - Efficient resource use
+  - Development-oriented administration
+  - Fair and impartial service provisioning
+  - Public responsive policymaking
+  - Accountability
+  - Transparency of information
+
+## 1.2 Regulatory Framework for SCM 
+### 1.2.1 Framework Established by PFMA
+- **PFMA (1999; Act 1 of 1999, amended by Act 29 of 1999)**: 
+  - Governs financial management in national/provincial governments.
+  - Emphasizes: Fairness, equity, transparency, competition, and cost-effectiveness in procurement systems.
+- **Framework for Supply Chain Management (effective 5 December 2003)**:
+  - Approved by the Minister of Finance, guides supply chain management in national and provincial departments.
+
+### 1.2.2 State Tender Board Act Amendment
+- Amendments (Government Gazette): Allow accounting officers to procure either through the State Tender Board or PFMA.
+- Promotes accountability and responsibility for departmental expenditures.
+
+### 1.3 Legislation Impacting SCM 
+#### 1.3.1 Objectives of Legislation
+- Addresses societal problems.
+- Provides statutory guidelines for achieving objectives.
+- Grants authority for policy execution.
+
+#### 1.3.2 Public Finance Management Act (PFMA)
+- **Objectives**: Regulate financial management, ensure efficient management of public resources.
+- **Sections 38(1)(a)(i) & 76(4)(c)**: Stipulate requirements for procurement regulations under National Treasury.
+
+#### 1.3.3 Guide for Accounting Officers
+- Aims to facilitate integrated SCM understanding and implementation across government.
+
+#### 1.3.4 Municipal Finance Management Act (MFMA, 2003)
+- Aims to modernize municipal financial management.
+- Establishes SCM as essential to municipal governance, impacting service delivery.
+- **Section 62(1)(f)(iv)**: Mandates municipal managers to implement fair, equitable, and transparent SCM policy.
+
+#### 1.3.5 Preferential Procurement Policy Framework Act (PPPF, Act 5 of 2000)
+- Addresses procurement as a tool for rectifying past injustices.
+- **Objectives**:
+  - Alleviate historical inequalities.
+  - Enhance flexibility in procurement.
+  - Combat fronting and corruption.
+
+#### 1.3.6 Preferential Procurement Regulations (August 2001)
+- Highlight key procurement processes:
+  - Require careful planning prior to tender invitations.
+  - Establish penalties for non-compliance or misrepresentation.
+  - Dictate the award process based on scoring systems.
+  - Include provisions for HDI ownership in evaluations.
+
+## 1.4 Accountability through Integrated Procurement Systems
+- **Definition**: Holding individuals/institutions accountable for actions and performance.
+- Emphasized through PFMA, requiring individual accountability for decisions.
+- **Accountability Actions**:
+  - Annual Reports and Auditor-General's assessments highlight adherence to strategic objectives and areas needing improvement. 
+
+---
+
+**Diagram Reference**: Summarization of the legislative framework influencing procurement processes.
+----- END OF CHUNK -----
+# Study Notes on Supply Chain Management
+
+## Page 10
+### Committee on Public Accounts (Scopa)
+- Ultimate authority on financial performance of accounting officers.
+- Legislation mandates accounting officer to establish a procurement system per constitutional provisions.
+
+### 1.2 Accountability of Accounting Officers/Authorities
+- Accountability mechanisms for decisions include adherence to PFMA norms and standards.
+
+## Page 11
+### 1.5 SUPPLY CHAIN MANAGEMENT
+- Accountability chain enhances public sector financial management.
+- PFMA empowers accounting officers to manage financial affairs.
+- Introduction of supply chain management (SCM) concept by Cabinet.
+
+#### Four Major Objectives of SCM Policy:
+- Transform procurement into an integrated SCM function.
+- Systematic approach for consultant appointments.
+- Common understanding of preferential procurement policy.
+- Consistent application of best practices across government.
+
+### 1.5.1 Concepts of Supply Chain Management
+- SCM involves planning, design, control of information and materials.
+- It aims to meet current and future customer needs efficiently.
+- Includes managing working capital related to goods and services.
+- Applicable to all public entities, constitutional institutions, and municipalities.
+
+- **SCM Legislation**: 
+  - Relevant for constitutional institutions, public entities, national/provincial departments, municipalities, and school governing bodies.
+
+- **International Best Practices**:
+  - Integrated SCM to add value at each process stage.
+  - Focus on procurement, contract management, and asset disposal.
+
+- **Office of the Chief Procurement Officer (OCPO)**: 
+  - Established in 2013 to monitor procurement.
+  - Responsibilities include modernizing SCM, ensuring transparency and fairness, developing SCM policies, and providing training.
+
+### 1.5.2 Elements of Supply Chain Management
+
+#### 1.5.2.1 Demand Management
+- Initiates with needs assessment to satisfy institutional requirements.
+- Must align with strategic and operational commitments.
+- **Regulatory Framework** (Effective from 5 Dec 2003): 
+  - Ensures understanding of needs, links to budget, determines specifications, and assesses past expenditures.
+
+#### 1.5.2.2 Acquisition Management
+- Focuses on the procurement process.
+- Addresses management considerations like:
+  - Identification of preferential policy objectives.
+  - Market approach strategy.
+  - Total cost of ownership (TCO) principle.
+  - Contract administration and documentation.
+
+#### 1.5.2.3 Logistics Management
+- Concerned with the management of goods and related processes.
+- Involves inventory management, transport management, contract administration, and vendor performance evaluation.
+
+#### 1.5.2.4 Disposal Management
+- Final phase addressing removal of unserviceable or redundant assets.
+- Involves obsolescence planning and disposal strategy execution.
+
+#### 1.5.2.5 Risk Management
+- Must identify and manage potential risks in SCM.
+- Includes allocation of risks, cost acceptance, and proactive management.
+
+#### 1.5.2.6 Supply Chain Performance
+- Retrospective analysis ensuring compliance with norms and cost efficiency.
+- **Section 38(1)(a) PFMA**:
+  - Stipulates maintenance of effective financial management systems, internal audit controls, and procurement systems.
+
+## Page 15
+### 1.4 Case Study Analysis
+- Key Issues: Misallocation of resources leading to waste (e.g., unwanted furniture purchase).
+- Application of SCM policy can prevent waste by ensuring proper needs assessment and budget alignment.
+
+## Page 16
+### 1.6 Objectives of Supply Chain Management Function
+- Aim for effective and efficient resource use.
+- Adhere to “five rights” in SCM:
+  - Right product, quantity, time, place, and price.
+- Specific fundamental objectives further support achieving overall SCM goals.
+----- END OF CHUNK -----
+### 1. Acquisition Management in Perspective
+
+#### 1.7 Training
+- Need for dedicated, well-trained SCM unit in government.
+- Accounting officers/authorities responsible for adequate training of SCM personnel.
+- SCM officials and bid committee members must understand SCM legislation and institutional policies.
+
+#### 1.8 Conclusion
+- Public servants must ensure optimal use of public funds in procurement.
+- Public procurement has constitutional status since 1996, emphasizing good governance and socioeconomic goals.
+
+### 2. Introduction
+- SCM to utilize various acquisition methods for optimal goods/services at the best price.
+- Overview of constitutional principles and procurement methods.
+
+#### 2.1 Role-Players
+- **National Treasury** (PFMA Section 5):
+  - Promotes/enforces transparency in revenue, expenditure, assets, liabilities.
+  - Prescribes norms and standards, monitors implementation.
+  
+- **Supply Chain Management Office**:
+  - Ensures uniformity in SCM, formulates policy, oversees procurement.
+  - Monitors performance of SCM units and ensures compliance with national guidelines.
+
+- **Practice Notes**:
+  - Issued by National Treasury for procedural uniformity across government.
+
+- **Provincial Treasuries**:
+  - Must align procurement with national standards, provide practice notes for compliance.
+
+- **State Information Technology Agency (SITA)** (SITA Act 88 of 1998):
+  - Acts as procurement agency for IT, managing contracts exceeding R50 million.
+  - Written agreements required for services and payments.
+
+- **Internal Role-Players**:
+  - Committees ensure collaborative procurement decisions.
+  
+#### 2.2 Committees
+- **Bid Specification Committee**:
+  - Cross-functional; develops unbiased bid specifications.
+  - Ensures optimal contracting and prevents legal issues due to poor specifications.
+
+- **Bid Evaluation Committee**:
+  - Cross-functional; evaluates bids according to predetermined criteria.
+  - Responsible for validating bidder credentials and ensuring compliance with **PPPFA** criteria.
+
+- **Bid Adjudication Committee**:
+  - Composed of senior officials; considers evaluation committee reports.
+  - Responsible for awarding bids or recommending actions to accounting officer/authority.
+  - Must ensure fairness, justify disqualifications, and confirm accurate scoring.
+
+### Diagram References
+- Diagram of SCM elements identifying committees and their functions (refer to section noted for visual representation).
+----- END OF CHUNK -----
+# PUB1505/1 
+
+## 2.1 Role and Function of Committees
+
+- **Specification Committee**
+  - Develops and prepares specifications for goods or services required.
+
+- **Bid Evaluation Committee**
+  - Evaluates bids based on predefined criteria set in specifications.
+
+- **Bid Adjudication Committee**
+  - Finalizes contract awards based on recommendations from the evaluation committee.
+
+---
+
+## 2.3 Principles in Section 217(1) of the Constitution
+
+- **Fair and Equitable**
+  - Bids evaluated solely on advertised specifications.
+  - Equal bidding opportunity for all suppliers.
+  - Public advertisement in Government Tender Bulletin.
+  - Timely consideration of all bids received.
+  - No preferential treatment; bidders cannot amend offers unduly.
+  - Unsuccessful bidders entitled to reasons for non-acceptance.
+
+- **Transparent**
+  - Bids and specifications clearly communicated to suppliers.
+  - Public bid opening of timely submissions.
+  - Disclosure of successful bidder information and rationale to unsuccessful bidders.
+
+- **Competitive/Cost-effective**
+  - Aim for lowest price with maximum competition for taxpayer benefits.
+  - Accessibility to procurement opportunities is critical.
+  - Costs of bidding should not deter capable suppliers.
+  - Costs incurred for promoting competition must align with benefits received.
+
+---
+
+## 2.4 Equity
+
+- **Equity Definition**
+  - Refers to the application of government policies promoting advancement of disadvantaged individuals/groups.
+  
+- **Key Legislative Framework**
+  - **PPPFA** (Preferential Procurement Policy Framework Act)
+    - Aims to enhance opportunities for SMMEs, HDIs, and promote diversity and local enterprises.
+
+---
+
+## 2.5 Choice of Procurement Method
+
+- **General Guidelines**
+  - Procurements categorized based on monetary thresholds: petty cash, written/verbal quotations, formal written price quotations, competitive bidding.
+
+- **Petty Cash Purchases**
+  - For incidental expenses.
+  - No competitive bids required; internal financial management procedures necessary.
+
+- **Written or Verbal Quotations**
+  - Applicable for amounts R2,000 to R10,000.
+  - Minimum of three verbal quotes required; written confirmation necessary for orders.
+
+- **Formal Written Price Quotations**
+  - For estimates over R10,000 up to R500,000.
+  - Must adhere to PPPFA principles for amounts above R30,000.
+
+- **List of Prospective Suppliers**
+  - Established per commodity for contracts under R500,000.
+  - Regular updates to encourage inclusion of newly empowered businesses.
+  - Requires rotation basis for inviting quotations to maintain competitiveness.
+
+- **Central Supplier Database (CSD)**
+  - Standardized database for supplier information; verification aligned with PFMA, MFMA.
+  - Information includes business registration, tax compliance, and B-BBEE status.
+
+---
+
+## 2.5.4 Competitive Bidding
+
+- **Application**
+  - Required for all procurement above R500,000.
+  - Advertisement in Government Tender Bulletin and potentially additional media.
+  - Ensures timely notification and equal bidding opportunity aligned with cost-effectiveness.
+
+---
+
+## 2.6 Determination of Appropriate Process
+
+### 2.6.1 Two-Stage Bidding
+
+- **Process**
+  - Separation of technical proposals and priced bids into two envelopes.
+  - Focus on technical evaluation in the first stage; pricing evaluated subsequently.
+
+--- 
+
+These notes reflect the principles and frameworks guiding acquisition management as per South African legislation, emphasizing transparency, fairness, and competitive practices.
+----- END OF CHUNK -----
+### 2.6 Methods of Procurement
+
+#### 2.6.1 Two-stage bidding
+- Suitable for complex projects, projects without detailed specifications, long-term projects (>3 years).
+- Applicable for tech-sensitive equipment (e.g., computers, communications).
+- Allows bids for different approaches to fulfilling needs.
+- Necessary to adhere to **PPPFA** regulations:
+  - Points split for price and functionality allowed.
+  - Points for HDI involvement and RDP goals required.
+  - Evaluation methods must be documented in bid documents.
+
+#### 2.6.2 Pre-qualifying bidders
+- Pre-qualification involves criteria that bidders must meet prior to bidding.
+- Commonly used for large or costly projects (e.g., custom equipment, industrial plants).
+- Evaluation based on:
+  - Capabilities (personnel, equipment, facilities).
+  - Financial position.
+- Successful pre-qualified bidders invited to submit specific bids.
+  
+#### 2.6.3 Single source bidding
+- Only one among limited bidders selected post-transparent pre-selection.
+- Suitable for:
+  - Creative works, patent rights, ongoing projects.
+  - Urgent circumstances requiring rapid selection.
+- Negative impacts include:
+  - Lack of market information and competition.
+  - Potential bias in awarding contracts.
+
+#### 2.6.4 Sole provider
+- Applicable when one bidder exists, often with patent/distribution rights.
+- Price should not exceed prevailing retail prices.
+- Bid documents should require:
+  - Wholesale price disclosures.
+  - Breakdown of cost elements (direct labor/materials, variable/fixed costs, profit).
+
+#### 2.6.5 Public Private Partnerships (PPP)
+- Facilitates cost-sharing for government projects.
+- Compliance with **Treasury Regulation 16** necessary.
+
+#### 2.6.6 Negotiations
+- Engaged under specific conditions with approval:
+  - Urgent needs where bidding is impractical.
+  - Catastrophic events requiring immediate procurement.
+  - Preferred bidders identified through competitive bidding.
+
+#### 2.6.7 Establishment of a list of preferred suppliers
+- Created via competitive bidding for recurring needs.
+- Accelerates service delivery through approved lists.
+- Must be advertised and evaluated by a committee.
+
+#### 2.6.8 E-Procurement
+- Online sourcing of goods/services encompassing full transaction process.
+- Enhances efficiency in high-volume generic purchases (e.g., office supplies).
+
+#### 2.6.9 Procurement from abroad
+- Follow local procurement processes with added considerations:
+  - Transport costs, lead times, administrative complexity.
+  - Exchange rate/economic factors.
+
+#### 2.6.10 Specific cases
+- Non-competitive bids possible under certain justifications.
+  
+##### 2.6.10.1 Urgent and emergency cases
+- Bids can be omitted if urgency necessitates.
+- Record reasons and obtain approval for exceptions.
+
+##### 2.6.10.2 Unsolicited bids
+- Consideration possible if:
+  - Unique, beneficial offering.
+  - Sole provider.
+  - Need established in strategic planning.
+
+#### 2.6.11 Appointment of consultants
+- Should utilize competitive bidding like other services.
+- Governed by specific procurement guidelines.
+
+#### 2.6.12 Transversal contracts
+- Contracts required by multiple institutions to achieve economies of scale.
+- Participation limits contracting for the same goods/services during contract tenure.
+- Evaluated by joint committees involving multiple representatives.
+
+### 2.7 Conclusion
+- Cost-effectiveness in procurement means comparing price and quality to select the best value contractor.
+- All public procurement must comply with constitutional principles of fairness, equity, transparency, competition, and cost-effectiveness.
+----- END OF CHUNK -----
+# Study Notes on Public Procurement Processes
+
+## 3.1 Introduction
+- Importance of trained officials in bid processes.
+- Ensuring public perception of fairness and transparency.
+
+## 3.2 Guidelines in the Preparation Process
+- Assess availability of items on existing contracts.
+- Identify quantity and proper procurement method (e.g., price quotation, competitive bidding).
+- Conduct planning and cost calculations before bid invitation.
+- Determine applicable preference point system under **Preferential Procurement Policy Framework Act (PPPFA)**.
+
+## 3.3 General and Special Conditions of Contract
+- **General Conditions of Contract (GCC)** and **Special Conditions of Contract (SCC)** are part of bid documentation.
+- Acceptance of these conditions is mandatory for bidders.
+- GCC issued by National Treasury requires uniformity in bidding.
+- Conflicts with SCC lead to SCC provisions prevailing.
+
+### 3.3.1 General Conditions of Contract (GCC)
+- **GCC Requirements**:
+  - Section 15: Supplier warranties regarding goods (new, defect-free).
+  - Section 20: Suppliers must inform about subcontracts; remain responsible for contract execution.
+  - Section 9.1: Suppliers must ensure damage-proof packaging.
+  - Section 16: Payment must be made within 30 days of invoice submission.
+
+### 3.3.2 Special Conditions of Contract (SCC)
+- SCC should be specific to each bid, requiring accounting officer approval.
+
+## 3.4 Prohibition of Set Asides and Use of Cost Estimates as Benchmarks
+- **Constitutional Framework**: 
+  - Section 217(2): Allows preferential categories without excluding others.
+  - Section 217(3): Requires national legislation framework.
+- **PPPFA (Act 5 of 2000)**: Aims to advance disadvantaged groups without exclusive bidding restrictions.
+- Conflict in reserving contracts (e.g., under R30,000) may violate principles of fairness.
+
+## 3.5 Measurables Attached to Specific Goals for Which Preference Points Are Awarded
+- Bid documentation must clearly outline promotion goals and measurable criteria.
+- Compliance with **Treasury Regulation 16A6.3(b)** in including evaluation criteria.
+
+## 3.6 Administration of Procurement Processes
+- Importance of close monitoring of procurement operations due to public fund involvement.
+- Adherence to five procurement pillars for effective SCM.
+
+### 3.6.1 Advertising
+- Bids to be advertised in **Government Tender Bulletin (GTB)** for at least 30 days.
+- Avoid advertising mid-December due to firm closures.
+- Requires simultaneous advertisement in widely read newspapers for state asset sales.
+
+### 3.6.2 Utilising Standard Bidding Documents (SBDs)
+- Standardization introduced by National Treasury promotes clarity and efficiency.
+- Benefits include:
+  - Easier risk assessment for bidders.
+  - Streamlined contract management.
+  - Cost savings and improved quality.
+- Essential SBDs include:
+  1. **Invitation to Bid (SBD 1)**
+  2. **Application for Tax Clearance Certificate (SBD 2)** - must not be amended.
+  3. **Pricing Schedules (SBD 3.1 to 3.3)**.
+----- END OF CHUNK -----
+**PUB1505/1 - Planning and Procurement Administration**
+
+---
+
+### 3.4 Declaration of Interest and Bidding Documents
+
+- **Declaration of interest (SBD 4)**
+- **National Industrial Participation Programme (SBD 5)**
+  - Standard wording must not be amended.
+- **Preference claim forms (SBD 6.1 to 6.12)**
+- **Formal contract (SBD 7.1 to 7.3)**
+  - Only applicable to successful bidders post-adjudication.
+- **Declaration of Bidder’s Past Supply Chain Practices (SBD 8)**
+- **Technical specifications/Terms of Reference (TOR)**
+- **General Conditions of Contract**
+- **Special Conditions** (per commodity)
+
+**Legislation to Consider:**
+- **Preferential Procurement Policy Framework Act (PPPFA)**
+- Ensure compliance in bid evaluation specifications.
+
+---
+
+### 3.6 Bid Documentation and Submission
+
+#### 3.6.3 Sale of Documents
+- Institutions may charge reasonable fees for bid documents:
+  - Reflect costs only—printing/delivery.
+  - Should not discourage prospective bidders.
+  - All funds directed to **National Revenue Fund** (Public Finance Management Act 1 of 1999).
+
+#### 3.6.4 Bid Closing Time
+- Cut-off time typically at **11:00** on specified date.
+
+#### 3.6.5 Late Bids
+- **Late bids** are not to be considered.
+- Should be returned unopened with explanation.
+- Re-advertisement required if suitable bids not received.
+
+#### 3.6.6 Opening and Admission of Bids
+- Bids opened publicly at stipulated time and place.
+- Names and total amounts should be read aloud and recorded.
+
+#### 3.6.7 Communication Pertaining to Bids
+- Communication allowed with approval of bid adjudication committee.
+- Clarifications must be in writing—no alterations to bids allowed.
+- Confidentiality maintained until notification of awards.
+
+---
+
+### 3.7 Conclusion 
+- Procurement planning and preparation ensure adherence to constitutional values of fairness, transparency, and competitiveness.
+- Key to societal trust in SCM system.
+  
+**Committees:**
+1. **Specification Committee** - Ensures specifications satisfy actual needs and risk is managed.
+2. Remaining committees addressed in subsequent learning unit.
+
+---
+
+### 4.1 Introduction to Bid Evaluation and Adjudication
+- Importance of efficient, effective, and integrity in procurement duties.
+- **Transparency** and impartiality in bid allocation.
+- Establishment of bid committees as essential.
+
+---
+
+### 4.2 Access to Information
+- Right of access under **Section 32** of the Constitution.
+- Obligations of committees:
+  - Maintain records of decisions.
+  - Take rational decisions based on facts.
+
+**Promotion of Access to Information Act 2 of 2000:**
+- Ensures unsuccessful contractors receive feedback.
+- Limitations on access include:
+  - Protecting personal privacy.
+  - Confidential third-party commercial information.
+  - Safety and property protections.
+----- END OF CHUNK -----
+# Study Notes on Just Administrative Action
+
+## 4.3 Just Administrative Action
+- **Constitutional Basis**: 
+  - **Section 33(1)**: Right to lawful, reasonable, and procedurally fair administrative action.
+  - **Section 33(2)**: Right to written reasons upon adverse administrative action.
+- **Importance in Procurement**: 
+  - Bid adjudication committee members must be knowledgeable about SCM legislation and policies to ensure lawful, reasonable, and fair treatment of bids.
+
+## 4.4 Mandate, Role, and Function of the Bid Adjudication Committee
+- **Treasury Regulation 16A6.2**: SCM systems must include a bid adjudication committee to prevent isolated decision-making by any one individual.
+- **Committee Role**: Not limited to evaluating recommendations; may also review specifications from the bid specification committee to ensure:
+  - Unbiased specifications and proper Terms of Reference.
+  - Application of strategic sourcing principles and availability of funds.
+  - Inclusion of appropriate special requirements.
+  - Compliance with Preferential Procurement Regulations.
+
+### 4.4.1 Composition of Bid Adjudication Committees and Appointment of Members
+- **Appointment**: Written appointment by the accounting officer; must include at least four senior officials, with at least one supply chain practitioner.
+- **Chairperson**: Preferably the Chief Financial Officer (CFO).
+- **Quorum**: At least 60% presence required for decision-making.
+- **Confidentiality Obligations**: Members must declare financial interests and confidentiality at each meeting.
+
+### 4.4.2 Bid Adjudication Meetings and Procedures
+#### 4.4.2.1 Notice of Meetings
+- Agenda must be circulated at least three working days before the meeting.
+
+#### 4.4.2.2 Submissions/Reports to the Committee
+- All reports must be in writing and substantiated through prior committees.
+
+#### 4.4.2.3 Minutes
+- Written records reflecting decisions; dissenting opinions must be recorded.
+- Minutes serve as proof of committee actions.
+
+#### 4.4.2.4 Register
+- Attendance and confidentiality undertaking must be signed by members.
+- Declarations of gifts/invitations from suppliers must be recorded.
+
+## 4.5 Award of Contract
+- **Contract Validity**: Must award while bids are still valid (usually 60 days from tender closure).
+- **Contract Formation**: Concluded upon unconditional acceptance of a bid during validity period.
+- **Acceptance Communication**: Must be posted via registered mail, date-stamped by SAPO as proof of timely acceptance.
+
+## 4.6 Contract Management
+- **Public Interest**: State's duty to procure supplies/services under the best conditions while adhering to contractual terms.
+- **Consensus Required**: Both parties must agree on terms before conclusion; obligations must be fulfilled.
+
+### 4.6.1 Safekeeping of Contracts
+- Institutions must secure original contract documents in a monitored environment.
+- Original documentation essential for legal recourse during contract execution.
+
+## 4.7 Risk Management and Contract Administration
+- **Risk Allocation**: Clear documentation aids in assigning responsibilities.
+  
+### 4.7.1 Performance Security
+- **GCC Paragraph 7**: Successful bidders must provide performance security by a specified amount as a safeguard against default.
+
+### 4.7.2 Termination for Default
+- Termination procedures under **section 23 of the GCC** allow for procurement of similar goods if a contract is partially or wholly terminated due to supplier default.
+
+## 4.8 Fraud and Corruption
+- **Ethics Requirement**: Government mandates high standards in contract execution and selection.
+- **Definitions**:
+  - **Corrupt Practice**: Influencing public officials through value offerings.
+  - **Fraudulent Practice**: Misrepresentation of facts affecting contract processes.
+
+- **Proposal Rejection**: Institutions must reject bids if corruption or fraud in bidding is discovered.
+- **Prohibited Practices**: Include fictitious bids and creation of non-existent competition.
+----- END OF CHUNK -----
+# Study Notes on Appointment of Consultants
+
+### 5.1 INTRODUCTION
+- Procedures for selecting, contracting, and monitoring consultants for projects.
+- Focus on intellectual and advisory services.
+- Excludes general services: construction, goods manufacture, facility operation, etc.
+
+### 5.2 DEFINITION OF THE TERM CONSULTANT
+- Professional providing advice or services in a specific field.
+- Typically self-employed or part of a consultancy firm.
+- Relationship: purchaser/provider, regulated by a contract.
+- Pertinent legislation: **Public Service Act, 1994 (PSA)**.
+
+### 5.3 NEED FOR APPOINTMENT
+- Engage consultants when internal skills/resources are lacking or recruitment/training isn't feasible.
+- Departments must have policies ensuring:
+  - High-quality services.
+  - Economy and efficiency.
+  - Opportunities for qualified consultants.
+  - Transparency in selection.
+- Committees ensure:
+  - Proper qualification of selected consultants.
+  - Adherence to project schedules.
+  - Alignment of services with project needs.
+
+### 5.4 PROMOTING GOVERNMENT’S PREFERENTIAL POLICIES
+- Appointment subject to **Preferential Procurement Regulations, 2000**.
+- Involvement of Historically Disadvantaged Individuals (HDIs) and RDP goals is mandatory.
+
+### 5.5 STEPS TO FOLLOW WHEN SELECTING CONSULTANTS
+- Four distinct stages recommended for selection.
+- Advertising and proposal opening follows standard processes for acquisitions.
+
+### 5.6 IDENTIFY THE APPROACH
+- Commonly recommended: **Quality and Cost-Based Selection (QCBS)**.
+- Other approaches include:
+  - Quality-based selection.
+  - Selection under a fixed budget.
+  - Least cost selection.
+  - Single source selection.
+- Selection approach determined by:
+  - Assignment scope.
+  - Service quality.
+  - Assignment complexity.
+
+- Decision questions for selecting appropriate consultant:
+  - Is the assignment complex or specialised? 
+    - If not, use QCBS.
+    - If yes, consider **Quality-Based Selection (QBS)** for innovation. 
+
+### Relevant Legislation
+- **Public Service Act, 1994**.
+- **Preferential Procurement Regulations, 2000**. 
+
+### Case References
+- Not specified; however, attention should be on compliance and effectiveness in procurement practices in line with aforementioned legal frameworks.
+----- END OF CHUNK -----
+### 5.7 SELECTION OF PARTICULAR TYPES OF CONSULTANTS
+
+- **5.7.1 Non-governmental Organisations (NGOs)**
+  - Unique qualifications due to local knowledge.
+  - May use **QCBS** for evaluation, focusing on criteria like:
+    - Voluntarism
+    - Non-profit status
+    - Local expertise
+  - Possible **single-source selection** if criteria are met.
+
+- **5.7.2 Inspection Agents**
+  - Employed for inspecting and certifying goods (quality, quantity, price).
+  - Must be registered with **SANAS**; use competitive bidding for selection.
+
+- **5.7.3 Banks**
+  - Engaged for asset sales and financial transactions.
+  - Selected under **QCBS**; RFP must detail selection criteria, including experience.
+  - Compensation includes a “success fee” linked to asset value.
+
+- **5.7.4 Auditors**
+  - Selected via **QCBS** or **Least-Cost Selection** under defined TOR.
+  - Tariffs set by **Auditor-General** and **SAICA** serve as benchmarks.
+
+- **5.7.5 Service Delivery Contractors**
+  - Involves hiring for service delivery (e.g., social workers).
+  - Project documentation to detail job descriptions and selection procedures.
+
+---
+
+### 5.8 REQUESTS FOR BIDS
+
+- **5.8.1 Terms of Reference (TOR)**
+  - Departments must draft their own TOR.
+  - Scope of services aligned with budget.
+  - Clearly outlines task directives, objectives, background info, and required outputs.
+  - To include:
+    - Training objectives with specifics.
+    - Evaluation criteria correlated with TOR.
+    - Cost estimates based on staffing/logistics.
+    - Composition of evaluation panel.
+    - Experience requirement disclosures for consultants.
+
+- **5.8.2 Request for Proposals (RFP)**
+  - Utilized for projects needing both quality and cost evaluation.
+  - Should include:
+    - **Letter of Invitation (LOI)**: Contract intention details.
+    - **Information to Consultants (ITC)**: Evaluation process transparency.
+    - **Terms of Reference (TOR)**: Defines project scope and methodology.
+    - **Contract**: Use **Standard Form of Contract** issued by **NT**.
+
+---
+
+### 5.9 RECEIPT OF PROPOSALS
+
+- Allow 4 weeks to 3 months for proposal preparation.
+- Clarifications available in writing to all bidders.
+- Submit technical and financial proposals simultaneously in sealed envelopes.
+- No post-deadline modifications accepted; late proposals returned unopened.
+
+---
+
+### 5.10 EVALUATION OF BIDS/PROPOSALS
+
+- Bids evaluated per **Preferential Procurement Regulations, 2001**.
+- Criteria: functionality, price, achievement of specified RDP goals.
+----- END OF CHUNK -----
+# Study Notes
+
+## Chapter 5: Appointment of Consultants 
+
+### 5.11 Negotiations and Awarding of Contract 
+- Evaluation in two phases: functionality (quality) followed by price.
+- Total percentage allocation for both must equal 100%; division ratio approved by accounting officer.
+- Panel members use prepared score sheets containing criteria and weights from TOR.
+- Members must evaluate independently without discussions.
+- No additional criteria permitted post-bid closure.
+- Score sheets signed by panel members; written motivations required for significant discrepancies.
+
+#### 5.11.1 General Conditions of Contract
+- **5.11.1.1 Definitions**
+  - *Closing time*: Date & hour for bid receipt.
+  - *Contract*: Written agreement between purchaser and supplier.
+  - *Contract price*: Price payable for proper contract performance.
+  - *Corrupt practice*: Influencing public officials in procurement.
+  - *Countervailing duties*: Measures against foreign subsidies.
+  - *Country of origin*: Where goods/services are produced.
+  - *Delivery*: Compliance with contract conditions; types defined (ex stock, into store).
+  - *Dumping*: Selling goods in RSA at lower prices than in country of origin.
+  - *Force majeure*: Events outside supplier's control.
+  - *Fraudulent practice*: Misrepresentation by bidders, including collusion.
+  - *GCC*: General Conditions of Contract.
+  - *Goods*: Equipment/materials supplied under contract.
+  - *Imported content*: Cost of components imported.
+  - *Local content*: Non-imported portion of bidding price.
+  - *Manufacture*: Production activities in a factory.
+  - *Order*: Official written request for supply.
+  - *Purchaser*: Entity buying goods/services.
+
+- **5.11.1.2 Application**
+  - General conditions apply to bids/contracts excluding immovable property unless stated otherwise. 
+
+- **5.11.1.3 General**
+  - Purchaser not liable for bid preparation expenses; potential non-refundable fees for documents.
+
+- **5.11.1.4 Standards**
+  - Goods must meet specified standards in bidding documents.
+
+- **5.11.1.5 Use of Contract Documents**
+  - Supplier must not disclose contract specifics without prior consent; documents remain purchaser property.
+
+- **5.11.1.6 Patent Rights**
+  - Supplier must indemnify purchaser against third-party claims of infringement.
+
+- **5.11.1.7 Performance Security**
+  - Successful bidder to provide security within 30 days; various acceptable forms specified.
+
+- **5.11.1.8 Inspections, Tests, Analyses**
+  - Pre-bidding testing at bidder's cost; compliance inspections by purchaser representatives; non-compliance leads to supplier costs.
+
+- **5.11.1.9 Packing**
+  - Supplier responsible for adequate packing to prevent damage; must comply with contract specifications.
+
+- **5.11.1.10 Delivery and Documents**
+  - Delivery per contract terms; specifics outlined in SCC.
+
+- **5.11.1.11 Insurance**
+  - Goods fully insured against loss or damage in specified currency.
+
+- **5.11.1.12 Transportation**
+  - Non-inclusive prices for transportation specified in SCC. 
+
+### Notes 
+- Combine emphasis on legislation cited and monitor adherence to the General Conditions of Contract (GCC) during the bidding and procurement processes.
+- Review **GCC clauses** throughout contracting cycles for compliance and obligations. 
+- Refer to relevant **case law** for application and interpretation of corrupt practices and other violations. 
+
+### Page References
+- Page 64-69: Contract evaluation, negotiations, definitions of terms, and general conditions.
+----- END OF CHUNK -----
+### 5.11.1.13 Incidental Services
+- Supplier may provide additional services as specified in the SCC, including:
+  - On-site assembly/commissioning supervision.
+  - Furnishing tools for assembly/maintenance.
+  - Detailed operations and maintenance manual.
+  - Maintenance/repair services agreed upon, without relieving warranty obligations.
+  - Training of purchaser’s personnel at supplier's plant/on-site.
+- Prices for incidental services must be agreed in advance and not exceed prevailing rates for similar services.
+
+### 5.11.1.14 Spare Parts
+- Supplier may provide materials/notifications regarding spare parts as specified in SCC:
+  - Spare parts purchaser might elect to buy.
+  - Notification of termination of production:
+    - Advance notification to purchaser.
+    - Provision of blueprints/drawings post-termination at no cost if requested.
+
+### 5.11.1.15 Warranty
+- Supplier warrants goods are new, of the latest models, and conform to contract.
+- Warranty for defects: Covers design, materials, or workmanship (exceptions apply).
+- Warranty period: 12 months post-delivery or 18 months post-shipment, whichever is earlier.
+- Purchaser must notify supplier promptly of warranty claims; supplier must repair/replace within specified SCC time.
+
+### 5.11.1.16 Payment
+- Payment conditions specified in SCC; invoices require delivery note copy.
+- Payments due within 30 days of invoice submission, generally in South African rand.
+
+### 5.11.1.17 Prices
+- Prices for goods/services shall match quoted bid prices, except authorized adjustments in SCC.
+
+### 5.11.1.18 Contract Amendments
+- Variations to contract terms require written amendments signed by both parties.
+
+### 5.11.1.19 Assignment
+- Supplier cannot assign contractual obligations without prior written consent from purchaser.
+
+### 5.11.1.20 Subcontracts
+- Supplier must notify purchaser of all subcontracts; liability remains with supplier regardless of notification.
+
+### 5.11.1.21 Delays in Performance
+- Timely delivery as per purchaser schedule; supplier must notify of delays and their causes.
+- Purchaser may extend delivery time or procure substitutes without contract cancellation; penalties may apply.
+
+### 5.11.1.22 Penalties
+- Failure to perform on time results in penalties; amounts deducted from contract price based on delays.
+
+### 5.11.1.23 Termination for Default
+- Purchaser can terminate in whole/part upon supplier default (failure to deliver, perform obligations, engagement in corrupt practices).
+- Purchaser may procure similar goods/services from other sources, and excess costs are chargeable to the supplier.
+
+### 5.11.1.24 Force Majeure
+- Supplier not liable for damages due to force majeure; must notify purchaser and continue obligations as practicable.
+
+### 5.11.1.25 Termination for Insolvency
+- Purchaser may terminate contract if supplier becomes insolvent, without compensation.
+
+### 5.11.1.26 Limitation of Liability
+- Disputes to be resolved via consultation; unresolved disputes can proceed to mediation or South African court.
+- Supplier's liability limited to total contract price, excluding issues by supplier's negligence or equipment repair.
+
+### 5.11.1.27 Anti-Dumping and Countervailing Duties
+- Supplier responsible for provisional payments or duties post-bid date; provisions for favorable differences outlined.
+
+### 5.11.1.28 Governing Language
+- Contracts must be in English; all correspondence shall also be in English.
+
+### 5.11.1.29 Applicable Law
+- Contract interpretation governed by South African laws, unless specified otherwise.
+
+### 5.11.1.30 Notices
+- Notices served by registered mail; dates for actions computed from notice posting date.
+
+### 5.11.1.31 Taxes and Duties
+- Foreign suppliers bear taxes outside purchaser's country; local suppliers responsible for taxes until delivery.
+- Tax clearance certificate required before contract awarding; no contracts granted without it.
+
+### 5.11.1.32 National Industrial Participation (NIP) Programme
+- NIP Programme applies to applicable contracts as administered by the Department of Trade and Industry.
+
+### 5.12 CONTRACT AWARD
+- Contract awarded based on highest points under PPPFA unless justified; accounting officer must defend decisions deviating from points criteria.
+----- END OF CHUNK -----
+## 5.13 TYPES OF CONTRACTS
+
+- **Lump Sum (Firm Fixed Price) Contract**  
+  - Used for clearly defined services and outputs.  
+  - Payments linked to deliverables (reports, designs).
+
+- **Time-Based Contract**  
+  - Suitable for undefined scope/length services.  
+  - Payments based on set rates (hourly, daily, etc.) plus reimbursables.  
+  - Ceiling amount required, including contingencies.
+
+- **Retainer and/or Contingency Fee Contract**  
+  - Common in mergers or sales preparation.  
+  - Combines fixed retainer and success fee (percentage of sale price).
+
+- **Percentage Contract**  
+  - Fees based on project cost, primarily for architectural services.  
+  - Must be based on fixed target costs; discouraged for lack of economic incentive.
+
+- **Indefinite Delivery Contract (Price Agreement)**  
+  - "On call" services for undefined activities.  
+  - Unit rates agreed upon; payments for actual time used.
+
+## 5.14 EVALUATION OF THE PERFORMANCE OF CONSULTANTS
+
+- *Due Diligence:* Consultants required to meet standards.  
+- *Evaluation Process:* Fair and confidential; opportunity for explanation of performance issues.  
+- *Modifications:* Significant changes require approval from accounting officer/authority.
+
+## 5.15 DEBRIEFING
+
+- *Request Procedure:* Written request to accounting officer for rationale on non-selection.  
+- *Dissatisfaction Resolution:* Further escalation to treasury, public protector, or court.
+
+## 5.16 CONCLUSION
+
+- Importance of a systematic approach in selecting consultants.  
+- Monitoring of consultant performance ensures informed future decisions.  
+- Emphasis on professionalism and trust within supply chain management.
+
+## 5.17 REVIEW QUESTIONS
+
+1. Definition and elements of a **TOR**. (Refer to 8.1)
+2. Definition and elements of an **RFP**. (Refer to 8.2)
+3. Types of **contracts** for consultant appointments. (Refer to 13)
+4. Types of **consultants**. (Refer to 7.1 – 7.5)
+
+---
+
+## Glossary
+
+- **Accounting Authority:** Defined in Section 49 of the PFMA; oversees public entity accountability.
+- **Bid:** Written offer in response to a state invitation for goods/services.
+- **Competitive Bidding:** Ensures equal opportunity for all prospective bidders.
+- **Contract:** Binding agreement resulting from bid acceptance.
+- **Supply Chain Management (SCM):** Management of resources to optimize financial return.
+
+---
+
+This document is a condensed legal study guide summarizing the key points relevant to types of contracts, consultant performance evaluation, and debriefing procedures as prescribed in the original text. Relevant sections and concepts are highlighted for easy reference.
+----- END OF CHUNK -----
+# Page 82
+
+## List of References
+
+- **Bekink, B.** (2006). *Principles of South African local government law*. South Africa: LexisNexis.
+  
+- **Bolton, P.** (2005). *The legal regulation of government procurement in South Africa*. LLD thesis, Faculty of Law, University of the Western Cape, Bellville.
+
+- **Du Toit, D., Knipe, A., Van Niekerk, D., Van der Waldt, G. & Doyle, M.** (2002). *Service excellence in governance*. South Africa: Heinemann.
+
+- **Hugo, WMJ, Badenhorts-Weiss, JA, Van Biljon, EHB & Van Rooyen, DC.** (2006). *Purchasing & supply management*. Pretoria: Van Schaik Publishers.
+
+- **Lambert, DM., Stock, JR. & Ellram, LM.** (1998). *Fundamentals of logistics management*. London: Irwin McGraw-Hill.
+
+- **Pauw, JC., Woods, G., Van der Linde, GJA., Fourie, D. & Visser, CB.** (2002). *Managing public money: a system from the south*. South Africa: Heinemann.
+
+- **South Africa (Republic).** (2015). *2015 public sector supply chain management review*. Pretoria: Government Printer.
+
+- **Van der Waldt, G., Van Niekerk, D., Doyle, M., Knipe, A. & Du Toit, D.** (2002). *Managing for results in government*. South Africa: Heinemann.
+
+- **Van Niekerk, D., Van der Waldt, G. & Jonker, A.** (2002). *Governance, politics and policy in South Africa*. Southern Africa: Oxford.
+
+### Legislation Links
+
+- **The Constitution**: [http://www.info.gov.za/constitution/1996/96cons.htm](http://www.info.gov.za/constitution/1996/96cons.htm)
+  
+- **PFMA**: [http://www.treasury.gov.za/legislation/acts/pfma/act.pdf](http://www.treasury.gov.za/legislation/acts/pfma/act.pdf)
+  
+- **PPPFA**: [http://ocpo.treasury.gov.za/Resource_Centre/Legislation/Preferential%20Procurement%20Policy%20Framework%20Act,%202000%20(Act%20No.5%20of%202000).pdf](http://ocpo.treasury.gov.za/Resource_Centre/Legislation/Preferential%20Procurement%20Policy%20Framework%20Act,%202000%20(Act%20No.5%20of%202000).pdf)
+
+### Regulations Links
+
+- General Regulations: 
+  - [http://www.treasury.gov.za/divisions/sf/ostb/default.aspx](http://www.treasury.gov.za/divisions/sf/ostb/default.aspx)
+  - [http://www.treasury.gov.za/divisions/sf/sc/Guidelines/SCM%20Jan900-Guidelines.pdf](http://www.treasury.gov.za/divisions/sf/sc/Guidelines/SCM%20Jan900-Guidelines.pdf)
+  - [http://www.treasury.gov.za/divisions/sf/sc/PracticeNotes/20100721%20NT%20Practice%20Note.pdf](http://www.treasury.gov.za/divisions/sf/sc/PracticeNotes/20100721%20NT%20Practice%20Note.pdf)
+  - [http://www.treasury.gov.za/divisions/sf/sc/GeneralConditions/General%20Conditions%20of%20Contract-%20Inclusion%20of%20part%2034%20CIBD.pdf](http://www.treasury.gov.za/divisions/sf/sc/GeneralConditions/General%20Conditions%20of%20Contract-%20Inclusion%20of%20part%2034%20CIBD.pdf)
+  - [http://ocpo.treasury.gov.za/Resource_Centre/Legislation/Preferential%20Procurement%20Regulations%202017%20as%20per%20Gazette%2010684.pdf](http://ocpo.treasury.gov.za/Resource_Centre/Legislation/Preferential%20Procurement%20Regulations%202017%20as%20per%20Gazette%2010684.pdf)

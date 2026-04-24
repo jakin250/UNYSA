@@ -1,0 +1,977 @@
+# PVL2602/1/2020–2024 Study Notes
+
+## INTRODUCTION
+- Overview of Law of Succession
+- Importance for private law practitioners
+- Addresses wills and deceased estates
+- Prescribed Material:
+  - Jamneck et al., *The Law of Succession in South Africa* (3rd ed, 2017)
+  - Cronjé & Roos, *Casebook on the law of succession* (4th ed, 2002)
+
+## LEARNING UNIT 1: Introduction
+- Fundamental concepts of the law of succession
+- Contextual importance in South African law
+
+## LEARNING UNIT 2: Intestate succession
+- **Intestate succession**: occurs where no valid will exists.
+- **Testamentary heirs** defined.
+- Relevant legislation: *Intestate Succession Act*
+
+## LEARNING UNIT 3: Testate succession: general rules
+- **Testate succession**: distribution of estate per deceased's will.
+- Requirements for validity of a will.
+- **Key case law** on testate succession principles.
+
+## LEARNING UNIT 4: Testamentary capacity
+- Criteria for **testamentary capacity**:
+  - Age
+  - Sound mind
+- Relevant cases illustrating testamentary capacity issues.
+
+## LEARNING UNIT 5: Formalities for a will
+- Essential formal requirements:
+  - Written document
+  - Signature
+  - Witnessing
+- Case law on formal vs. informal wills.
+
+## LEARNING UNIT 6: Revocation and revival of wills
+- Methods of revocation:
+  - By new will
+  - Destruction
+- Conditions for revival of revoked wills.
+
+## LEARNING UNIT 7: Capacity to inherit
+- Requirements for an heir's capacity.
+- Impediments to inheritances based on legislation.
+
+## LEARNING UNIT 8: Freedom of testation
+- **Freedom of testation**: rights of individuals to decide on estate distribution.
+- Limitations: statutory and common law restrictions.
+
+## LEARNING UNIT 9: Content of wills – absolute bequests, conditions, the modus and estate massing
+- Types of bequests:
+  - Absolute bequests
+  - Conditional bequests
+- Concepts:
+  - **Modus**: specific instructions
+  - **Estate massing**: amalgamation of assets for distribution.
+
+## LEARNING UNIT 10: Content of wills – substitution, usufruct and accrual
+- **Substitution**: alternative heirs
+- **Usufruct**: right to use and derive profit from property
+- **Accrual**: sharing growth in estate values among heirs.
+
+## LEARNING UNIT 11: Content of wills – trusts
+- Types of trusts:
+  - Testamentary trusts
+- Legal implications and regulations governing trusts.
+
+## LEARNING UNIT 12: Collation
+- Definition and importance of collation in estate planning.
+- Relevant legislative provisions.
+
+## LEARNING UNIT 13: Interpretation of wills
+- Rules for interpreting ambiguous clauses.
+- Case law on interpretation issues.
+
+## LEARNING UNIT 14: Succession by contract (pactum successorium)
+- Definition of pactum successorium.
+- Binding nature of succession agreements.
+- Important case law illustrating these agreements.
+
+## LEARNING UNIT 15: Customary law and the Reform of Customary Law of Succession Act
+- Overview of customary law principles.
+- Key aspects of the **Reform of Customary Law of Succession Act**.
+
+## LEARNING UNIT 16: Administration of estates
+- Processes involved in estate administration.
+- Relevant statutes and fiduciary duties of executors.
+
+## CONCLUSION
+- Recap of the critical aspects of the law of succession and its implications for practice in South Africa.
+----- END OF FILE -----
+# PVL2602/1/2020–2024 Study Notes
+
+## Structure of the Study Guide 
+
+- **Overview:**
+  - Brief introduction to the unit's content.
+
+- **Learning Material:**
+  - Indicates specific paragraphs from the textbook for study.
+
+- **Content of this Chapter:**
+  - Overview of the chapter's module content.
+  - Refers to prescribed cases for study.
+
+- **Activity:**
+  - Outlines practice opportunities for applying principles.
+
+- **Summary:**
+  - Condensed review of key concepts from the unit.
+
+## Hints on Studying This Subject 
+
+- **Definitions:** 
+  - Essential for understanding succession law; memorize exact wording.
+  
+- **Terminology:**
+  - Correct usage crucial to avoid misinterpretation.
+
+- **Case Law:**
+  - Study prescribed cases in depth; know case names only, not full references.
+
+- **This Chapter in Essence:**
+  - Quick overview of chapter content; read but not required for study.
+
+- **Comprehensive Knowledge:**
+  - Aim for an integrated understanding of succession law across all chapters.
+
+## Hints on Answering Examination Papers 
+
+- **Client Explanation:**
+  - Answer as if explaining principles to a layperson.
+  
+- **Definitions:** 
+  - Always provide definitions; avoid examples unless required.
+
+- **Conciseness:**
+  - Adhere strictly to word limits for answers.
+
+- **Avoid Misleading Statements:**
+  - Do not qualify answers unnecessarily; be precise.
+
+## Learning Unit 1: Introduction 
+
+### Overview
+- Introduces the law of succession in South Africa.
+- Covers testate and intestate succession, and contractual succession.
+
+### Purpose
+- Define key terminology in succession law.
+- Explain placing of succession law in the legal system.
+- Compare common law and customary law of succession.
+- Describe the foundational rules of succession.
+
+### Learning Material
+
+#### Chapter 1: Introduction
+- Positions succession law within the broader legal framework.
+- Read introductory chapter for foundational skills in estate management.
+
+- **Study References:**
+  - J&R: Par 1.1–1.5, 1.6 (important terminology), 1.7.
+
+### Content of this Chapter
+
+- **Par 1.1–1.6** 
+  - General background and terminology essential for succession law study.
+
+- **Case Study:**
+  - **Bhe v Magistrate, Khayelitsha; Shibi v Sithole; SA Human Rights Commission v President of the RSA 2005 (1) SA 580 (CC)** - as discussed in J&R.
+
+- **Important Definitions:**
+  - Par 1.6 contains critical definitions; mastery required for progression in succession law study.
+----- END OF FILE -----
+# PVL2602/1/2020–2024 Study Notes
+
+## 3. GROUND RULES WITH REGARD TO SUCCESSION
+### Par 1.7
+- **CASE STUDY:**
+  - Ex parte Graham 1963 (4) SA 145 (D)
+  - Estate Orpen v Estate Atkinson 1966 (4) SA 589 (A)
+  
+- **Ground Rule:**
+  - A person must have died for their estate to be divided.
+  - Exceptions: Estate massing and cases of disappearance.
+
+- **Important Definitions:** Review key definitions in succession law.
+
+### Summary
+- Core principles:
+  - A person must die for their estate division.
+  - No presumptions about order of death for multiple deaths in disaster.
+
+---
+
+## 4. LEARNING UNIT 2: INTESTATE SUCCESSION
+### Overview
+- **Definition:** Intestate succession applies when a person dies without a valid will, governed by the **Intestate Succession Act 81 of 1987**.
+- **Diagrams:** Family tree diagrams essential for understanding intestate succession.
+
+### Learning Objectives:
+- Distinguish testate from intestate succession.
+- Define the law of intestate succession.
+- Explain vesting of intestate inheritance.
+- Discuss capacity to inherit intestate.
+- Evaluate Constitutional challenges regarding intestate succession.
+
+---
+
+## 5. CHAPTER 2: INTESTATE SUCCESSION
+### 1. Par 2.1 INTRODUCTION
+- **Acts Applicable:**
+  - Intestate Succession Act 81 of 1987
+  - RCLSA for customary law estates.
+
+### 2. Par 2.2 BASIC CONCEPTS
+- **Key Terms:**
+  - Only blood relations inherit intestate.
+  - Descendants precede ascendants and collaterals in inheritance hierarchy.
+
+### 3. Par 2.3 WHEN DOES A PERSON DIE INTESTATE?
+- Types of intestacy:
+  - Wholly intestate
+  - Wholly testate
+  - Partly testate and partly intestate.
+
+### 4. Par 2.4 VESTING OF AN INTESTATE INHERITANCE
+- **CASE STUDY:** Harris v Assumed Administrator Estate MacGregor 1987 (3) SA 563 (A)
+- **Concept:** Vesting of inheritance upon intestate succession.
+
+### 5. Par 2.5 CAPACITY TO INHERIT INTESTATE
+- Historical context: Certain persons were restricted from inheriting.
+- Modern intestate succession rules broaden inheritance eligibility.
+
+### 6. Par 2.6 CONSTITUTIONAL CHALLENGES
+- Women's roles and domestic partners historically unrecognized.
+- Courts have addressed challenges (referenced cases include):
+  - Bhe v Magistrate, Khayelitsha 2005 (1) SA 580 (CC)
+  - Daniels v Campbell 2004 (5) SA 331 (CC)
+  - Hassam v Jacobs 2009 (5) SA 572 (CC)
+
+#### CASE DETAIL: Hassam v Jacobs NO 2009 (5) SA 572 (CC)
+- **Facts:** 
+  - Claims by widow in a polygynous Muslim marriage for intestate inheritance.
+- **Court Decision:**
+  - High Court declared section 1(4)(f) of the Intestate Succession Act unconstitutional.
+  - Confirmation by Constitutional Court on rights to equality and the definition of “spouse” to include multiple spouses in polygamous marriages.
+- **Remedial Action:**
+  - Amend definitions in Intestate Succession Act.
+  - Framework for calculating shares in intestate estates for multiple spouses.
+
+--- 
+
+### **Legislation and Cases to Study:**
+- **Intestate Succession Act 81 of 1987**
+- **Hassam v Jacobs NO 2009 (5) SA 572 (CC)** 
+- **Harris v Assumed Administrator Estate MacGregor 1987 (3) SA 563 (A)** 
+
+Refer to diagrams in the text for visual representation of inheritance principles and flows.
+----- END OF FILE -----
+# PVL2602/1/2020–2024 Study Notes
+
+## Chapter 2: Intestate Succession
+
+### 2.7 Applicable Intestate Succession Laws
+- **Intestate Succession Act 81 of 1987, Section 1(1)(c)**: If intestate and survived by spouse & descendant, spouse inherits:
+  - Either child’s share or statutory amount (currently R250,000) — whichever is greater.
+- **Child's Share Calculation**:
+  - Total estate value divided by (number of surviving children + number of spouses).
+  
+### 2.8 Order of Succession Under the Intestate Succession Act Read with the RCLSA
+- Importance of understanding order in which intestate succession occurs.
+- Spouse's inheritance based on comparison between child’s share and statutory amount.
+
+#### Examination Guidance
+- Ability to divide intestate estate based on established rules is crucial.
+  
+#### Case Example
+- **Xavier's Estate**:
+  - Joint estate of R800,000 divided by 2 for community property, spouse Wendy entitled to R400,000.
+  - Child’s portion: R800,000 ÷ 2 = R400,000; statutory amount is R250,000.
+  - Wendy inherits R250,000; Sam inherits remaining R150,000.
+  
+### 2.9 Disqualification and Repudiation
+- Discusses consequences when an intestate heir is disqualified or repudiates their inheritance.
+- Reference: **Intestate Succession Act Sections 1(6) & 1(7)**; correspond with **Wills Act Sections 2C(1) & (2)**.
+
+### 2.10 Customary Law of Succession
+- Customary law largely abolished by **Bhe case & RCLSA** (effective Sept 20, 2010).
+- Testators may still dictate estate devolution per customary law in wills.
+
+## Summary
+- Covered fundamentals of intestate succession law.
+- Key concepts: ascendants, descendants, stirps, vesting of intestate inheritance, key case references including:
+  - **Bhe v Magistrate, Khayelitsha** (CC)
+  - **Daniels v Campbell** (CC)
+  - **Hassam v Jacobs** (CC)
+
+---
+
+## Chapter 3: Testate Succession – General Rules
+
+### 3.1 Overview of Testate Succession
+- Testate succession occurs when a valid will regulates distribution of property.
+- Must adhere to basic principles for validity.
+
+### 3.2 General Rules of Testate Succession
+- **Key Concepts**:
+  - **Will, Codicil, Testamentary Writing**: Definitions essential for understanding will-making.
+  - **Joint vs. Mutual Wills**: Distinction necessary for will validity.
+  - **Adiation vs. Repudiation**: Understanding acceptance or rejection of inheritance.
+  - **Doctrine of Election**: Understanding when applicable.
+
+### Learning Material
+- Reference J&R for deeper insight, especially in Section 3.2.1 on definitions. 
+
+--- 
+
+This structured summary provides concise coverage of critical intestate and testate succession concepts, applicable legislation, and case law without additional detail, prepared for advanced law study and exam preparation.
+----- END OF FILE -----
+# PVL2602 Study Notes
+
+## Chapter 3: Wills, Codicils and Testamentary Writings
+
+### Par 3.1 INTRODUCTION
+- Definition of a will: Know **Definition 4**.
+- A will requires intention; valid only if made freely, without duress (**Spies v Smith 1957 (1) SA 539 (A)**; **Kirsten v Bailey 1976 (4) SA 108 (C)**).
+
+### Par 3.2 WILLS, CODICILS AND TESTAMENTARY WRITINGS
+- Differences between joint and mutual wills explained.
+
+### Par 3.3 JOINT AND MUTUAL WILLS
+- Testator’s intention crucial for validity.
+
+### Par 3.4 ADIATION AND REPUDIATION
+- No obligation for beneficiaries to accept (adiate) or refuse (repudiate) benefits under a will.
+
+### Par 3.5 DOCTRINE OF ELECTION
+- Only applies when a burden is placed on a beneficiary.
+
+### Par 3.6 CUSTOMARY LAW OF SUCCESSION
+- Any person can make a will under customary law, subject to Wills Act rules.
+
+---
+
+## Chapter 4: Testamentary Capacity
+
+### Par 4.1 INTRODUCTION
+- Distinction between testamentary capacity and contractual capacity.
+
+### Par 4.2 TESTAMENTARY CAPACITY
+- **Testamentary capacity**: 16 years old.
+- **Contractual capacity**: 18 years old.
+- **Capacity to witness a will**: 14 years old.
+- Mental capabilities essential for testamentary capacity discussed (**Spies v Smith 1957 (1) SA 539 (A)**; **Kirsten v Bailey 1976 (4) SA 108 (C)**; **Katz v Katz [2004] All SA (4) 545 (C)**; **Smith v Strydom 1953 (2) SA 799 (T)**).
+
+---
+
+## Chapter 5: Formalities for a Will
+
+### Overview
+- Valid will must comply with Wills Act requirements.
+- After death, the Master of the office checks formalities; beneficiaries may approach the court under **section 2(3) of the Wills Act** if rejected.
+
+### Purpose
+- Know signature requirements for involved parties.
+- Define the “end” of a will.
+- Clarify what constitutes a signature.
+- Attributes of witnesses and their requirements.
+
+### Formalities and Case Law
+- Advise on signing, amending, and circumstances for **section 2(3)** applications. 
+
+---
+
+### Summary Points
+- Key concepts: adiation, repudiation, animus testandi, volition.
+- Revisit important cases: **Spies v Smith 1957**, **Kirsten v Bailey 1976** for comprehensive understanding of will validity requirements.
+----- END OF FILE -----
+# PVL2602/1/2020–2024 Study Notes
+
+## CONTENT OF THIS CHAPTER
+
+### Par 5.1–5.5
+
+#### INTRODUCTION – CUSTOMARY LAW OF SUCCESSION
+- Execution formalities for a will are critical.
+- Invalid wills may lead to intestacy, contrary to testator's wishes.
+- Key requirements include:
+  - Who must sign the will
+  - Where the will must be signed
+  - When it must be signed
+  - How it must be signed
+
+#### CASES:
+- **Back v Master of the Supreme Court [1996] 2 All SA 161 (C)**
+- **Bekker v Naude 2003 (5) SA 173 (SCA)**
+- **Ex parte Williams: In re Williams Estate 2000 (4) SA 168 (T)**
+- **Kidwell v The Master 1983 (1) SA 509 (E)**
+- **Radley v Stopforth 1977 (2) SA 516 (A)**
+
+- Must ensure all signing formalities are met, especially if signing by mark or an amanuensis. A commissioner of oaths is necessary in these cases.
+
+- The requirement for will amendments mirrors that for initial will execution. Understand distinctions between “amendment” and “rectification”.
+
+### Example Case (Tom’s Will)
+- Execution invalid due to lack of commissioner of oaths. 
+- Peter may apply under section 2(3) of the Wills Act if:
+  1. Document was drafted/executed by a deceased,
+  2. Intended as a will despite procedural non-compliance.
+  
+#### Relevant Cases:
+- **Back v Master of the Supreme Court [1996] 2 All SA 161 (C)**
+- **Ex parte Williams: In re Williams Estate 2000 (4) SA 168 (T)**
+- **Bekker v Naude 2003 (5) SA 173 (SCA)**
+
+### SUMMARY
+- Ensure complete understanding of formalities surrounding will execution (both for signing with own signature and by mark).
+  
+---
+
+## Learning unit 6: Revocation and Revival of Wills
+
+### Par 6.1
+
+#### INTRODUCTION
+- A testator may revoke a will at will, barring exceptions (massing, antenuptial contracts).
+
+### Par 6.2
+
+#### METHODS OF REVOKING A WILL
+- Revocation does not require formalities.
+- Partial revocation is allowed; intent is critical.
+- Example: two lines across a clause may indicate revocation or amendment.
+
+#### CASE: **Marais v The Master 1984 (4) SA 288 (D)**
+
+### Par 6.3
+
+#### PRESUMPTIONS CONCERNING THE REVOCATION OF WILLS
+- Legal presumptions assist courts when a will is missing post-death.
+
+### Par 6.5
+
+#### REVIVAL OF REVOKED WILLS
+- Revocation of a revoking will does not automatically revive the revoked will (Moses v Abinader 1951 (4) SA 537 (A)).
+- Must re-execute or incorporate the revoked will in the new document.
+
+### Par 6.6
+
+#### REVOCATION BY THE COURT: SECTION 2A
+- A court can declare a will or its part revoked if the intent is clear from the will or separate documents.
+
+### SUMMARY
+- Revocation has no formal requirements, and revoked wills don't automatically revive. Courts may declare wills revoked based on intent.
+
+---
+
+## Learning unit 7: Capacity to Inherit
+
+### Par 7.1–7.3
+
+- Disqualifications from inheritances outlined. 
+- Discuss implications for adopted, illegitimate children, and those of unsound mind.
+- Unborn children’s inheritance rights specified.
+
+### Par 7.4
+- **Par 7.4.1:** Understanding disqualifications in inheritance capacities.
+- **Par 7.4.2–7.4.4:** Focus on beneficiaries involved in will execution and their inheritance status.
+
+### SUMMARY
+- Understand capacity to inherit for different classes of beneficiaries and implications if disqualified from inheritance.
+----- END OF FILE -----
+### PVL2602/1/2020–2024
+
+#### CONTENT OF THIS CHAPTER
+
+##### 7.1 INTRODUCTION – PERSONS CAPABLE OF INHERITING: JURISTIC PERSONS
+- Any person (natural or juristic), born or unborn, may be a beneficiary under a will.
+- Common law disqualifies certain individuals, e.g., murderers (**Harris v Assumed Administrator Estate MacGregor 1987 (3) SA 563 (A)**) from inheriting.
+- The Wills Act 7 of 1953 excludes individuals involved in execution processes from succession (see par 7.4.3).
+- Discussion includes adopted, illegitimate, unborn children, and persons of unsound mind.
+
+##### 7.4 PERSONS DISQUALIFIED FROM INHERITING
+- A murderer cannot inherit under the maxim "De bloedige hand er neemt geen erfenis." (The bloody hand does not inherit) (**Ex parte Steenkamp and Steenkamp 1952 (1) SA 744 (T)**).
+- The principle applies specifically to inherit from the victim; murderers can inherit from others.
+  
+###### 7.4.1 General Unworthiness
+- Distinction: Only unworthy to inherit from specific victims, not universally unworthy.
+- Inheriting from a victim's heir is permissible.
+
+###### 7.4.2 Intestate and Testate Succession
+- In intestate succession, a grandchild cannot inherit from a grandfather if the child (father) was predeceased and the grandchild murdered the grandfather.
+- **Steenkamp case:** excludes murderers of closer relatives (parent, child, spouse). No exclusion for distant relatives (e.g., grandparent).
+
+###### 7.4.3 Causal Relationship
+- Exclusion applies if the murder results in direct benefit; assessed under delictual liability.
+- **Ex parte Steenkamp:** test of a usual, natural, or reasonably foreseeable result.
+
+###### 7.4.4 Negligent Causes of Death
+- Negligently causing death also disqualifies, but moral reprehensibility is a consideration (**L. Taylor v A.E. Pim (1903) 24 NLR 484; Casey v The Master 1992 (4) SA 505 (N)**).
+
+###### 7.4.5 Wills Act Provisions
+- **Section 4A:** Disqualifies individuals involved in will execution; exceptions apply under (**Wills Act 7 of 1953**).
+
+##### 7.5 CUSTOMARY LAW
+- Customary rules apply similarly to exclusion under testate and intestate succession, with specific additional principles influencing inheritance.
+
+### SUMMARY
+- Beneficiaries can be disqualified from inheriting; differentiation is critical between intestate and testate succession.
+- Important to understand circumstances leading to disqualification.
+
+### Learning Unit 8: Freedom of Testation
+- **Overview:** Discusses freedom of testation and necessary preconditions (testamentary capacity) for will-making.
+  
+#### Key Principles
+- **Freedom of Testation:** Right to distribute estate as desired.
+- Recognition of voluntas testatoris servanda est in South African law.
+  
+##### Limitations on Freedom of Testation
+- Disinheritance of close relatives (spouse, children) under **Minister of Education v Syfrets Trust Ltd 2006 (4) SA 205 (C)**; courts may not enforce contra bonos mores conditions.
+
+##### Case References
+- Discuss implications of will conditions affecting marital relationships (**Levy v Schwartz 1948 (4) SA 930 (W); Ex parte Swanevelder 1949 (1) SA 733 (O); Barclays Bank DC & O v Anderson 1959 (2) SA 478 (T)**) and faith clauses (**Aronson v Estate Hart 1950 (1) SA 539 (A)**).
+
+##### Maintenance Claims
+- Child/spouse claims addressed under **Maintenance of Surviving Spouses Act 27 of 1990** with case references (**Daniels v Campbell 2004 (5) SA 331 (CC); Hassam v Jacobs 2009 (5) SA 572 (CC); Volks v Robinson 2005 5 SA 446 (CC)**).
+
+- Definition of "power of appointment" and testator's delegation of this power discussed.
+
+### Diagram References
+- Diagrams (if any) illustrating succession principles and disqualification criteria should be studied in conjunction with the notes above.
+----- END OF FILE -----
+### CHAPTER 8: FREEDOM OF TESTATION
+
+#### 1. Par 8.1 INTRODUCTION
+- **Freedom of Testation**: Right of a person to execute a valid will governing property transmission after death.
+- Implications: Testator may disinherit close relatives; courts cannot alter binding clauses of a will.
+
+#### 2. Par 8.2 LIMITATIONS ON FREEDOM OF TESTATION
+- **Cases to Study**:
+  - *Minister of Education v Syfrets Trust Ltd* 2006 (4) SA 205 (C)
+  - *Levy v Schwartz* 1948 (4) SA 930 (W)
+  - *Ex parte Swanevelder* 1949 (1) SA 733 (O)
+  - *Barclays Bank DC & O v Anderson* 1959 (2) SA 478 (T)
+  - *Aronson v Estate Hart* 1950 (1) SA 539 (A)
+  - *Daniels v Campbell* 2004 (5) SA 331 (CC)
+  - *Hassam v Jacobs* 2009 (5) SA 572 (CC)
+  - *Volks v Robinson* 2005 5 SA 446 (CC)
+  
+- **Types of Limitations**:
+  - **Statutory**: Restrictions from laws (e.g., Immovable Property (Removal or Modification of Restrictions) Act 94 of 1965).
+  - **Common Law**: Provisions contrary to public policy invalid (e.g., affecting marital relationships).
+  - **Constitutional**: Unconstitutional conditions declared invalid (e.g., race-based inheritance conditions).
+  - **Indirect**: Maintenance claims against estates limiting testator’s freedom.
+
+- **Developments**: Interpretation of terms "spouse" and "survivor" evolving; includes surviving partners in Muslim and same-sex relationships but excludes heterosexual life partners. Also influenced by the Civil Union Act regarding "spouse."
+  
+#### 3. Par 8.3 POWER OF APPOINTMENT
+- **Case to Study**:
+  - *Braun v Blann and Botha* 1984 (2) SA 850 (A)
+  
+- **Power of Appointment**: Testator's ability to appoint beneficiaries; invalid delegation of this power if left to others (e.g., "heirs will be those decided by John").
+
+#### 4. Par 8.4 CUSTOMARY LAW
+- Examines the interaction between customary law and freedom of testation. 
+
+### CHAPTER 9: CONTENT OF WILLS – ABSOLUTE BEQUESTS, CONDITIONS, THE MODUS AND ESTATE MASSING
+
+#### 1. Par 9.1 INTRODUCTION
+- Concepts established in wills have specific legal meanings. Caution in using terms like "condition" or "usufruct."
+
+#### 2. Par 9.2 VESTING OF RIGHTS
+- **Case to Study**:
+  - *Greenberg v Estate Greenberg* 1955 (3) SA 361 (A)
+
+- **Vesting**: Two moments—**dies cedit** (right vests) and **dies venit** (benefit received). Significant in understanding usufruct and conditional bequests.
+
+#### 3. Par 9.3 BEQUESTS
+- **Bequests**: Assignment of benefits to beneficiaries (legatees or heirs). Legacies have preference over inheritances.
+
+- **Types of Bequests**: 
+  - Absolute/conditional. Conditional can include time clauses.
+  - **Time Clauses**: 
+    - **Suspensive**: Must meet an uncertain future event.
+    - **Terminative**: Subject to a definite future event.
+
+- **Conditional Bequests**: Distinguish between suspensive and resolutive conditions. Must have corresponding resolute conditions, otherwise classified as **nudum praeceptum**.
+
+#### 4. Par 9.4 NUDUM PRAECEPTUM
+- A nudum praeceptum arises when there's a prohibition without a valid gift over, rendering the provision ineffective. 
+
+### Summary
+- Testator's freedom to allocate benefits is broad, constrained by statutory, common law, and constitutional limitations. Understanding various legal terminologies and their implications on wills is essential for constructing legally valid documents.
+----- END OF FILE -----
+# PVL2602/1/2020–2024 Study Notes
+
+## CHAPTER 9: Modus and Estate Massing
+
+### Par 9.5: Modus or Obligation
+- **Definition:** A testator may obligate a beneficiary to use a bequest for a specific purpose, known as a modus.
+- **Key Point:** Compliance with the modus does not affect the vesting of the beneficiary's rights; it imposes a personal obligation.
+- **Reasons for Imposing a Modus:**
+  - Varying motivations, detailed in par 9.5.1.
+  - **Enforceability:** Not all objects of a modus are enforceable.
+- **Distinctions:**
+  - Modus vs. suspensive condition.
+  - Modus vs. terminative condition discussed in par 9.5.2.
+
+### Par 9.6: Estate Massing
+- **Definition:** Estate massing is commonly found in joint wills, particularly for couples married in community of property, but can exist in other contexts.
+- **Examples:** Joint wills that mass estates (e.g., husband and wife leave property to a son with usufruct for the surviving spouse).
+- **Acceptance:** Surviving spouse must accept the usufruct for massing to take effect.
+- **Requirements for Massing:**
+  - Discussed in par 9.6; involves legal institutions like usufruct, fideicommissum, and trust.
+- **Common Law Position:** Survivors had only personal rights against the property contributed, leading to issues for ultimate beneficiaries.
+- **Legislative Change:** Section 37 of the Administration of Estates Act regulates massing (discussed in par 9.6.2).
+- **Court Case: Rhode v Stubbs 2005 (5) SA 104 (SCA)** emphasizes the complexities and presumption against massing.
+
+#### Rhode v Stubbs Case Summary
+- **Facts:** Attie and Lettie Williams' joint will contained a clause about their property rights after the first-dying spouse's death.
+- **Legal Question:** Did the mutual will mass their estates?
+- **Court Findings:**
+  - Acceptance of benefits under a mutual will does not automatically result in massing.
+  - Requires clear intention indicating massing.
+  - Presumption against massing in ambiguous cases.
+- **Legal Principles Established:**
+  - Interpretation of joint wills defaults to two separate wills until proven otherwise.
+  - Freedom of testation is a fundamental right, reinforced by the presumption against massing.
+
+### Summary of Important Concepts
+- **Modus:** Personal obligation without affecting vesting.
+- **Estate Massing:** Effected through mutual wills, requiring acceptance of benefits and specific intent for massing.
+- **Presumption Against Massing:** Uncertainty in wills interpreted to favor individual testamentary freedom.
+- **Case Significance:** Rhode v Stubbs highlights the importance of clarity in joint wills and the interpretation rules ensuring testators' freedom. 
+
+### Key Takeaways
+- Understand the distinction and implications of a **modus** versus conditions.
+- Recognize the legal framework and requirements for **estate massing**.
+- Analyze the precedent set by **Rhode v Stubbs** for future cases regarding joint wills and estates.
+----- END OF FILE -----
+# PVL2602/1/2020–2024 
+## Learning unit 10 
+### Content of wills – substitution, usufruct and accrual 
+
+#### OVERVIEW
+- Discussion on the content of a will: substitution (fi deicommissum), usufruct, and accrual.
+- Prerequisite knowledge includes vesting of rights, dies cedit, dies venit, conditions, and nudum praeceptum.
+
+---
+
+### CONTENT OF THIS CHAPTER
+#### Par 10.1 INTRODUCTION
+- Study of legal concepts in wills, including direct substitution, fi deicommissary substitution, usufruct, and common law right to accrual.
+- Reference to figure 10.1 illustrating types of substitution.
+
+---
+
+#### Par 10.2 SUBSTITUTION
+- Substitution occurs when a testator appoints a secondary beneficiary to inherit if the first is unable.
+- Two types of substitution:
+  - **Direct Substitution**: One beneficiary inherits; e.g., John inherits unless he predeceases the testator, then Peter takes.
+  - **Fi deicommissary Substitution**: One beneficiary inherits first, then passes to another after certain conditions; e.g., a farm to son, then to grandson.
+
+---
+
+#### Par 10.3 DIRECT SUBSTITUTION
+- **Types of Direct Substitution**:
+  - **Express Direct Substitution**: Clearly stated in the will.
+  - **Direct Substitution Ex Lege**: Implied by law; occurs under **section 2C of the Wills Act**.
+  
+- **Section 2C Details**:
+  - 2C(1): Allows a child to renounce inheritance for the surviving spouse to inherit.
+    - Applies only if the child renounces.
+  - 2C(2): Permits representation of deceased beneficiaries' descendants.
+    - Excludes cases of prior disqualification.
+    
+- **Direct Substitution Excludes Accrual**: Both express and implied direct substitutions negate the application of accrual rights.
+
+---
+
+#### Par 10.4 FIDEICOMMISSARY SUBSTITUTION (FIDEICOMMISSUM)
+- **Case Study**: *Du Plessis v Strauss 1988 (2) SA 105 (A)*.
+- A fi deicommissum is characterized by a succession of owners.
+- Types include:
+  - Conditional fi deicommissa: Coupled with conditions.
+  - Fi deicommissum residui: Allows part alienation during a fi duciary's lifetime.
+  
+- **Tacit fi deicommissum**: Implied by clauses like *si sine liberis decesserit*.
+
+---
+
+#### Par 10.5 STATUTORY RESTRICTION ON THE FIDEICOMMISSUM
+- The **Immovable Property (Removal or Modification of Restrictions) Act 94 of 1965** limits fi deicommissa of immovables to two substitutions post-original fi duciary.
+
+---
+
+#### Par 10.6 LEGAL POSITIONS OF THE PARTIES TO A FIDEICOMMISSUM
+- **Table 10.2** outlines legal positions:
+  - **Fi duciary**: Cannot alienate or destroy property.
+  - **Fi deicommissary**: No vested right to inherit until survival of the fi duciary. 
+
+--- 
+
+*Note: Ensure familiarity with the key legislation and its implications on the various legal principles discussed.*
+----- END OF FILE -----
+### PVL2602/1/2020–2024
+
+**51**
+
+**Par 10.7 PRESUMPTION AGAINST FIDEICOMMISSUM**
+- **Case**: Van Zyl v Van Zyl 1951 (3) SA 288 (A)
+- Common law's stance against *fideicommissa*: Viewed as burdensome due to limitations on fiduciaries and *fideicommissaries*.
+- **Presumption against substitution**: Develops only when testator’s intention is ambiguous regarding direct vs. *fideicommissary* substitution; not applicable to ambiguity between *fideicommissum* and usufruct.
+
+**Par 10.8 USUFRUCT**
+- Usufruct: Personal servitude where one party holds ownership (*dominus*) while another (*usufructuary*) has rights to use and benefit from the property.
+- Example wording: "I leave my farm to my son. However, my wife is to have the lifelong usufruct of the farm."
+  - **Son**: Vested right (dies cedit) in ownership; enjoyment rights (dies venit) deferred.
+  - **Wife**: Vested right in usufruct upon the death of the testator.
+- Contrast with *fideicommissum*: Usufructuary never gains ownership.
+
+**Par 10.9 COMMON LAW ACCRUAL**
+- **Case**: Lello v Dales 1971 (2) SA 330 (A)
+- Right of accrual (*ius accrescendi*): Heirs/legatees inherit benefits from those who forfeit or are unable to inherit.
+- Example: "I leave my farm to A and B." If A predeceases, B inherits.
+- **Substitution exclusion**: If the testator indicates a substitute, accrual does not occur between co-beneficiaries.
+- **Testator's intention** is pivotal for determining whether accrual happens; reliance on guidelines from will's language and circumstances.
+- Three types of joinders influencing accrual: *joinder re*, *joinder re et verbis*, and *joinder verbis tantum*.
+
+**Par 10.10 CUSTOMARY LAW**
+- Emphasizes constitutional considerations in the context of wills.
+
+**SUMMARY**
+- Discussed wills' content, including direct and *fideicommissary* substitution, usufruct, and accrual principles.
+
+**54**  
+**Learning unit 11 CONTENT OF WILLS – TRUSTS**
+
+**OVERVIEW**
+- Shifted focus to **trusts**: Distinction between trust types and legal regulations is emphasized, contrasting with common law concepts.
+
+**Par 11.1 INTRODUCTION**
+- Differentiates between *testamentary trusts* (trust mortis causa) and *inter vivos trusts*.
+- Explains treuhand principle as foundational to trust law.
+
+**Par 11.2 BRIEF HISTORICAL PERSPECTIVE**
+- Outlines historical development of trust law.
+
+**Par 11.3 DEFINING A TRUST**
+- Trust can be understood both broadly and narrowly.
+- Types of testamentary trusts:
+  - Ownership trust: Trustee holds ownership.
+  - Bewind trust: Beneficiary receives ownership, trustee administers.
+  - *Discretionary vs. non-discretionary trusts*.
+
+**Par 11.4 LEGAL NATURE OF THE TESTAMENTARY TRUST**
+- **Case**: Braun v Blann and Botha 1984 (2) SA 850 (A)
+- Trust is fiduciary but not a *fideicommissum*; lacks legal personality yet can be treated as one in certain contexts.
+
+**Par 11.5 REQUIREMENTS FOR A VALID TRUST**
+- **Cases**: Braun v Blann and Botha 1984 (2) SA 850 (A); Minister of Education v Syfrets Trust Ltd 2006 (4) SA 205 (C)
+- Six essential requirements:
+  1. **Intent**: Testator must intend to create a trust.
+  2. **Expression**: Must create a binding obligation; mere precatory words insufficient.
+  3. **Formality**: Must comply with will formalities.
+  4. **Identification**: Trust property must be clear.
+  5. **Purpose**: Trust's object or purpose must be clear.
+  6. **Lawfulness**: Trust object must be lawful.
+----- END OF FILE -----
+# PVL2602/1/2020–2024 Study Notes
+
+## Chapter 11: Trusts
+
+### 11.6 Core Elements of a Trust
+- Trust object must be **clear** (Braun v Blann and Botha 1984 (2) SA 850 (A)).
+- Trust object must be **lawful** (Minister of Education v Syfrets Trust Ltd 2006 (4) SA 205 (C)).
+
+### 11.7 Trustees
+- **11.7.1 Appointment and Authorisation of Trustees**
+  - Trustees can appoint additional trustees only if authorized by will or trust document (power of assumption).
+
+- **11.7.2 Duties of Trustees**
+  - Governance and responsibility of trustees are stipulated.
+
+- **11.7.3 Breach of Fiduciary Duty**
+  - Addressed alongside duties of trustees.
+
+- **11.7.4 Powers of a Trustee**
+  - Powers delegated within the scope of the trust.
+
+- **11.7.5 Termination of Trusteeship**
+  - Conditions under which trusteeship may end.
+
+### 11.8 Beneficiaries
+- **11.8.1 Nomination and Qualification of Beneficiaries**
+  - Criteria for identifying beneficiaries are established.
+
+- **11.8.2 Rights of Beneficiaries**
+  - Defined legal rights are granted to beneficiaries of the trust.
+
+### 11.9 Amendment of Trust Provisions
+- Limited court power to amend trust provisions (Minister of Education v Syfrets Trust Ltd 2006 (4) SA 205 (C)).
+- **11.9.1 Common Law**
+  - Amending trusts under common law has strict requirements.
+
+- **11.9.2 Trust Property Control Act, Section 13**
+  - Variations permitted under specific circumstances outlined by the Act.
+
+- **11.9.3 Authority of Trustee to Amend**
+  - Discussion on whether trust founders can grant amendments to trustees.
+
+### 11.10 Termination of a Trust
+- Factors leading to trust termination must be studied carefully.
+
+---
+
+## Chapter 12: Collation
+
+### 12.1 Introduction
+- Overview of collation principles relevant in estate administration.
+
+### 12.2 Who Participates in Collation?
+- **Obligation**
+  - Descendants who are heirs must collate benefits received during the deceased's lifetime.
+
+- **Entitled Persons**
+  - Only descendants with a duty to collate can enforce collation.
+
+### 12.3 What Benefits are Collatable?
+- Identification of benefits that must be collated versus those that are exempt.
+
+---
+
+## Chapter 13: Interpretation of Wills
+
+### 13.1 Introduction
+- Understanding wills as unilateral legal acts necessitating interpretation posthumously.
+
+### 13.2 Golden Rule
+- Aim to ascertain testator's intention as expressed in will's wording.
+
+### 13.3 Statutory Rules of Interpretation
+- **Law of Succession Amendment Act 43 of 1992**
+  - **Section 2B**: Excludes ex-spouses as beneficiaries if deceased dies within 3 months post-divorce.
+  - **Section 2D**: Clarifies inheritance rights among biological, adopted children, and children born out of wedlock.
+
+### 13.4 Common Law Rules of Interpretation
+- Rules must be memorized; differences between armchair and extrinsic evidence must be understood.
+
+### 13.5 Variation of Wills
+- Courts generally must adhere to testator’s intent; variations allowed only in specific contexts.
+
+### 13.6 Rectification of Wills
+- Distinction between rectification (correcting mistakes) and variations; correction examples should be studied.
+
+---
+
+**Note:** References to cases and specific severe legislative sections must be adequately studied for a comprehensive understanding of trust and succession law.
+----- END OF FILE -----
+# PVL2602 Study Notes  
+## Chapter 13: Rectification and Variation of Wills  
+### Par 13.7: Customary Law  
+- Interpretation rules for customary law wills may vary; pending court decisions on application.  
+- **Key Case:** Rens v Esselen 1957 (4) SA 8 (T) provides insight on variation vs. rectification of wills.  
+- **Rectification:** Only granted by court; requires proof of mistakes (omissions or erroneous insertions).  
+- **Variation:** Subject to formalities; separate from rectification.  
+
+### Summary  
+- Focus: Interpretation, variation, and rectification of wills.  
+- Next Topic: Succession by contract (pactum successorium).  
+
+---
+
+## Chapter 14: Succession by Contract (Pactum Successorium)  
+### Overview  
+- Shift from wills to contractual succession via pactum successorium.  
+
+### Learning Material  
+- **Essential Knowledge:**  
+  - Distinguish between pactum successorium and donatio mortis causa.  
+  - **Pactum Successorium**:  
+    - Agreement regulating estate devolution post-death.  
+    - Generally invalid due to:
+      - Restricting freedom of testation.  
+      - Evading will formalities.  
+      - **Exception:** Valid in antenuptial contracts (Ex parte Executors Estate Everard 1938 TPD 190).  
+  - **Donatio Mortis Causa**:  
+    - Valid donation in contemplation of death, revocable before death.  
+    - Must follow will formalities for validity.  
+
+### Summary  
+- Brief overview of succession by contract.  
+- Next Topic: Reform of Customary Law of Succession Act.  
+
+---
+
+## Chapter 15: Reform of Customary Law of Succession Act  
+### Overview  
+- Examination of RCLSA (Act 11 of 2009): Effective from 20 September 2010.  
+
+### Learning Material  
+- Key Outcomes:  
+  - Anyone can make a will, independent of living customs.  
+  - Intestate succession governed by Intestate Succession Act 81 of 1987.  
+
+### Summary  
+- Understanding the RCLSA and definitions (particularly "descendant").  
+- Next Topic: Administration of Estates.  
+
+---
+
+## Chapter 16: Administration of Estates  
+### Overview  
+- Focus on estate administration post-death (testate or intestate).  
+- Reference to collation (learning unit 12).  
+
+### Learning Material  
+- Basic knowledge of estate administration; reference **Administration of Estates Act 66 of 1965**.  
+- **Executor's Role:**  
+  - Liquidates and winds up the estate.  
+  - Master of the High Court supervises.  
+
+### Section 16.3: Uniform Rules for Administration  
+- **16.3.1 Basic Concepts of Administration:**  
+  - Definition of "estate" under the Act.  
+  - **Executor:**
+    - Nomination, appointment, powers, security requirements, and remuneration.  
+- **16.3.2 Administration Process:**  
+  - Duties of executors across winding-up phases.  
+  - Concepts:  
+    - Partial sale, total sale, surviving spouse estate takeover, redistribution agreements.  
+
+### Summary  
+- Final insights into administration procedures and executor responsibilities.  
+----- END OF FILE -----
+# Study Notes on Administration of Estates
+
+## Chapter 1: Administration of Deceased Estates
+
+### Learning Unit 1: Initial Steps Post-Death
+
+- **First Steps After Death:**
+  - Notification of death.
+  - Locate the will, if any.
+  - Determine the deceased’s assets and liabilities.
+
+### Learning Unit 2: Executor’s Functions
+
+- **Executor’s Responsibilities:**
+  - Identify and secure estate assets.
+  - Notify creditors and heirs.
+  - Prepare and submit inventory of assets.
+  - Manage estate disputes and claims.
+  - Distribute the estate according to the will or intestacy laws.
+
+### Learning Unit 3: Liquidation of Estates
+
+- **Methods of Liquidation:**
+  - **Sale of Assets:** Selling physical property or assets to raise funds.
+  - **Distribution in Kind:** Allocating specific assets to heirs rather than liquidating them.
+  - **Payment of Debts:** Settling debts using estate assets.
+  - **Court-Ordered Liquidation:** Involvement of a court if disputes arise.
+  - **Voluntary Liquidation:** Executor’s decision to liquidate based on circumstances.
+
+## Conclusion
+
+- Summary of key concepts in succession law.
+- Best wishes for continued studies.
+
+---
+
+**Legislation and Case References**: Note that specific legislation and relevant case law should be integrated in the context of the above principles where applicable, although not specifically detailed in provided text. 
+
+**Diagram References**: Include diagrams illustrating estate management processes as appropriate.

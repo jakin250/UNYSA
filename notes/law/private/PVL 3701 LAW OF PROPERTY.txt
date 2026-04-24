@@ -1,0 +1,3506 @@
+# STUDY MANUAL
+
+## STUDY UNIT 1: INTRODUCTION TO PROPERTY LAW – THINGS AS LEGAL OBJECTS
+
+### INTRODUCTION TO PROPERTY LAW
+- **Definition**: Study of rights related to property.
+- **Function of Law of Things**: Regulates ownership, possession, and use of property.
+
+### THINGS AS LEGAL OBJECTS
+- **Definition**: Items that can be owned or possessed.
+- **Classification of Things**: Physical vs. intangible, movable vs. immovable.
+
+## STUDY UNIT 2: REAL RIGHTS AND PERSONAL RIGHTS (CREDITOR’S RIGHTS/CLAIMS)
+
+### REAL RIGHTS AND PERSONAL RIGHTS
+- **Introduction**: Distinction between rights extending over things vs. rights enforceable against parties.
+- **Theoretical Distinction**: Real rights tied to property; personal rights tied to obligations.
+- **Distinguishing Characteristics**: Rights linked to ownership vs. contractual relationships.
+- **Subtraction from Dominium Test**: Evaluates if a right diminishes ownership.
+- **Categories of Real Rights**: Ownership, usufruct, servitudes.
+
+## STUDY UNIT 3: OWNERSHIP DEFINITION OF AND LIMITATIONS ON OWNERSHIP
+
+### DEFINITION OF OWNERSHIP
+- **Ownership Defined**: Comprehensive rights over a thing.
+
+### LIMITATIONS ON OWNERSHIP
+- **Introduction**: Circumscribed by law and rights of others.
+- **Limitations Imposed by Law**: Regulatory restrictions on usage and transfer.
+- **Limitations by Rights of Other Legal Subjects**: Encumbrances like easements.
+
+## STUDY UNIT 4: ORIGINAL ACQUISITION OF OWNERSHIP
+
+### ORIGINAL ACQUISITION OF OWNERSHIP
+- **Appropriation (Occupation – Occupatio)**: Acquiring unowned property.
+- **Accession (Accessio)**: Ownership of additions to property.
+- **Mixing of Solids (Commixtio)**: Ownership arises from mixing tangible properties.
+- **Mingling of Fluids (Confusio)**: Similar to commixtio but involves liquids.
+- **Manufacture Specification (Specificatio)**: Ownership of goods made from materials.
+- **Acquisition of Fruits**: Ownership of produced yields from property.
+- **Treasure Trove**: Ownership considerations of found valuables.
+- **Expropriation**: Government acquisition of private property.
+- **Acquisitive Prescription**: Gaining ownership through long possession.
+
+## STUDY UNIT 5: DERIVATIVE ACQUISITION OF OWNERSHIP
+
+### DERIVATIVE ACQUISITION OF OWNERSHIP
+- **Definition**: Transfer of ownership from one party to another.
+- **Elements**: Agreement, transfer, and legal capacity.
+- **Delivery**: Physical transfer in case of movable property.
+- **Registration**: Necessary formalities for immovable property.
+
+## STUDY UNIT 6: OWNERSHIP PROTECTION AND TERMINATION
+
+### PROTECTION OF OWNERSHIP
+- **Property Law Remedies**: Legal means to protect ownership.
+- **Delictual Remedies**: Compensation for wrongful interference.
+- **Summary of Remedies**: Overview of all available legal recourses.
+
+### TERMINATION OF OWNERSHIP
+- **Introduction**: Grounds for losing ownership.
+- **Death of Owner**: Legal impact on ownership.
+- **Destruction of Thing**: Loss of ownership through destruction.
+- **Termination of Legal Relationship**: Conclusiveness of legal artifice.
+
+## STUDY UNIT 7: CO-OWNERSHIP
+
+### CO-OWNERSHIP
+- **Definition**: Joint ownership by multiple parties.
+- **Rights and Duties Regarding Thing**: Shared responsibilities and benefits.
+- **Division of Thing**: Methods for partitioning co-owned property.
+- **Remedies**: Legal means for resolving disputes among co-owners.
+
+## STUDY UNIT 8: POSSESSION AND HOLDERSHIP NATURE OF
+
+### POSSESSION AND HOLDERSHIP
+- **Introduction**: Fundamental concepts of possessing property.
+- **Possession – Fact or Right?**: Legal standing of physical possession.
+- **Ius Possessionis and Ius Possidendi**: Rights associated with possession.
+- **Possession and Presumption of Ownership**: Legal assumption favoring possessors.
+
+## STUDY UNIT 9: POSSESSION AND HOLDERSHIP PROTECTION AND TERMINATION
+
+### PROTECTION AND TERMINATION OF POSSESSION
+- **Introduction**: Safeguarding rights of possessors.
+- **Remedies**: Legal options for possessors facing challenges.
+- **Termination of Possession and Holdership**: Conditions leading to loss of possession.
+
+## STUDY UNIT 10: LIMITED REAL RIGHTS INTRODUCTION, SERVITUDES, RESTRICTIVE CONDITIONS
+
+### INTRODUCTION
+- **Overview**: Understanding rights limited to how property can be used.
+  
+#### SERVITUDES
+- **Definition**: Rights to use another's property.
+- **Establishment**: Requirements for creating servitudes.
+- **Nature and Classification**: Types of servitudes - personal vs. predial.
+- **Land (Praedial) Servitudes**: Tied to land ownership.
+- **Personal Servitudes**: Rights held by individuals.
+- **Termination**: End of servitude rights.
+- **Relationship Between Servitude Holder and Owner**: Legal implications.
+- **Remedies**: Legal recourse for servitude disputes.
+  
+#### RESTRICTIVE CONDITIONS
+- **Introduction**: Limitations placed on property transactions.
+- **Remedies**: Options for enforceability of conditions.
+
+## STUDY UNIT 11: REAL SECURITY RIGHTS CONVENTIONAL MORTGAGES
+
+### INTRODUCTION TO REAL SECURITY RIGHTS
+- **Concepts**: Legal assurance for loan repayment through property.
+
+#### PLEDGE, MORTGAGE SECURITY BY MEANS OF CLAIMS
+- **Pledge**: Possession-based security right.
+- **Mortgage**: Use of immovable property as collateral.
+- **Security by Means of Claims**: Legal right over claims for securing debts.
+
+#### TACIT MORTGAGES (HYPOTHECS)
+- **Introduction**: Implicit mortgages arising in specific contexts.
+- **Tacit Hypothecs**: Automatically created rights without formal agreement.
+- **Liens (Rights of Retention)**: Right to retain possession as security.
+- **Judicial Pledge**: Court-ordered security right.
+
+## STUDY UNIT 12: MINERAL RIGHTS WATER RIGHTS LESSEE’S (TENANT’S) RIGHTS
+
+### MINERAL RIGHTS
+- **Definition**: Rights concerning extraction of minerals.
+- **Meaning of Concept “Mineral”**: Legal classification of minerals.
+
+### WATER RIGHTS
+- **Introduction**: Regulatory framework for water usage.
+- **Water Act 54 of 1956**: Early legislative framework.
+- **National Water Act 36 of 1998**: Modern governance and rights.
+
+### LESSEE’S (TENANT’S) RIGHTS
+- **Introduction**: Legal protections for tenants.
+- **Applicable Only to Houses and Land**: Scope of tenant rights.
+- **Establishment of Lessee’s Real Right**: Formalities needed for rights to exist.
+- **Effect of Lessee’s Real Right**: Tenants' enforcement against property owners.
+
+## STUDY UNIT 13: CONSTITUTIONAL PROPERTY LAW
+
+### CONSTITUTIONAL PROPERTY LAW
+- **Introduction**: Intersection of property law and constitutional principles.
+- **Property Clause**: Constitutional protections offered to property rights.
+
+## STUDY UNIT 14: LAND REFORM
+
+### LAND REFORM
+- **Introduction**: Initiatives aimed at altering land ownership.
+- **Redistribution of Land**: Objectives and impacts of land reform policies.
+----- END OF FILE -----
+# Land Tenure Reform  
+
+**4. Restitution of Land Rights**  
+- Focus on the restoration of land to those dispossessed due to past discriminatory policies.  
+
+# STUDY UNIT 15  
+**ADDITIONAL FORMS OF STATUTORY LAND USE AND REVISION**  
+
+**1. Introduction**  
+- Overview of statutory frameworks regulating land use.  
+
+**2. Sectional Titles Act 95 of 1986**  
+- Governs the rights and responsibilities associated with sectional title properties.  
+
+**3. Share Blocks Control Act 59 of 1980**  
+- Regulates share blocks and related ownership structures in property.  
+
+**4. Property Time-sharing Control Act 75 of 1983**  
+- Addresses time-sharing agreements and frameworks for shared property usage.  
+
+**5. Housing Development Schemes for Retired Persons Act 65 of 1988**  
+- Focuses on housing needs and protections for retired individuals.
+
+# PART I  
+## Introduction  
+
+### 1. DIVISION OF STUDY GUIDE  
+- Divided into four parts:  
+  - Part I: General information.  
+  - Part II: Graphic illustrations showcasing legal relationships in property law.  
+  - Part III: Study manual covering material.  
+
+### 2. DIVISION OF WORK  
+- Part III is organized into 15 study units covering various topics.  
+- Each unit lists relevant cases, some prescribed for self-study.  
+- Key facts often based on court decisions; examples provided for context.  
+- Questions at the end of each topic to assess understanding; some include provided catch points.  
+
+# PART II  
+## Example  
+- Understanding property law application through factual scenarios is essential.  
+- Key legal relationships illustrated include:  
+
+**- Co-Ownership:**  
+  - X and Y married in community of property; co-owners of Waterford (immovable).  
+  - Co-ownership dynamics of movable property utilized (vehicle).  
+
+**- Free Co-Ownership:**  
+  - Q and R co-own Pulang farm acquired before their marriage.  
+
+**- Ownership with Rights:**  
+  - S has ownership of Highlands and personal rights against X and Y for grazing on Waterford.  
+
+**- Personal Servitude:**  
+  - M holds a personal servitude of habitation in Waterford's homestead.  
+
+**- Mortgage Bond:**  
+  - Land Bank possesses a mortgage over Waterford providing security for a loan.  
+
+**- Reserved Ownership:**  
+  - C retains ownership of farm implements until final payment is made by X and Y.  
+
+**- Third Parties:**  
+  - D, E, F, G, V, W rights dependent on relationships with Q, R, and S.  
+  - Third party Z's legal standing varies based on circumstances (e.g., stolen car situation).  
+  - T, the thief, discussed in terms of legal rights over stolen property.
+
+- Refer back to the diagram illustrating these relationships for clearer understanding of principles discussed.
+----- END OF FILE -----
+# PART III Study Manual
+
+## STUDY UNIT 1: INTRODUCTION TO PROPERTY LAW
+
+### CONTENTS
+1. **Introduction**
+2. **Definitions**
+   - 2.1 Legal subject
+   - 2.2 Legal object
+     - 2.2.1 Thing
+   - 2.3 Law, right, real relationships, real rights and entitlements
+     - 2.3.1 Law and right
+     - 2.3.2 Real relationships and real rights
+       - 2.3.2.1 Entitlements
+   - 2.4 Remedies
+3. **Function of law of things**
+4. **Basis and sources of law of things**
+  
+### 1. INTRODUCTION
+- Property law broadly encompasses **patrimonial law**, regulating a person's assets.
+- Subdivisions of patrimonial law:
+  - Law of things
+  - Law of succession
+  - Law of obligations
+  - Intellectual property law
+- **Property** includes:
+  - **Tangible assets** (land, vehicles)
+  - **Personal rights** (creditor’s rights)
+  - **Immaterial property rights** (copyright, patent rights)
+- Law of things is a subdivision under **private law**, focusing on specific legal objects (things).
+
+### 2. DEFINITIONS
+
+#### 2.1 Legal subject
+- Refers to entities that can hold rights or obligations.
+
+#### 2.2 Legal object
+- Concerns what rights pertain to (typically, a thing).
+
+##### 2.2.1 Thing
+- The key legal object in the law of things.
+
+#### 2.3 Law, right, real relationships, real rights and entitlements
+
+##### 2.3.1 Law and right
+- Law establishes rights and enforces them.
+
+##### 2.3.2 Real relationships and real rights
+- Focus on legal relationships regarding tangible assets.
+
+###### 2.3.2.1 Entitlements
+- Specific rights related to ownership and use of property.
+
+#### 2.4 Remedies
+- Legal solutions available for rights infringements.
+
+### 3. FUNCTION OF LAW OF THINGS
+- Regulates relationships associated with tangible assets and establishes frameworks for rights attached to personal property.
+
+### 4. BASIS AND SOURCES OF LAW OF THINGS
+
+- Various sources underpin the law of things, including:
+  - Codified statutes (e.g., **Constitution of South Africa, 1996**)
+  - Historical legal principles
+  - Judicial precedents
+
+#### Legal Classifications
+- **Patrimonial law** includes various types of law based on objects (personal, obligations, and property).
+
+### DIAGRAM 1: Position of law of things in legal system
+- Visual representation of how the law of things integrates with the broader legal framework.
+----- END OF FILE -----
+# Law of Property Study Notes
+
+## Page 2 
+
+### Chapter 1: Definition of Law of Things
+
+- **Property**: 
+  - Broadly: all that forms part of a person's estate.
+  - Narrowly: law of things; regulates legal relationships regarding legal objects (things).
+  
+- **Law of Things**: 
+  - Branch of private law with rules for:
+    - Nature, content, vesting, protection, transfer, and termination of relationships between legal subjects and things.
+    - Rights and duties from these relationships.
+
+## Page 2 
+
+### 2. Definitions
+
+#### 2.1 Legal Subject
+
+- **Definition**: 
+  - Any person (natural or legal) capable of acting in legal relationships and acquiring rights and duties.
+
+#### 2.2 Legal Object
+
+- **Definition**: 
+  - Object with which a legal subject has a legal relationship.
+  
+- **Types**:
+  - Things
+  - Performances
+  - Immaterial property
+  - Personality property
+
+- **Importance**: 
+  - Law of things focuses mainly on rights to things, distinguishing between things and performances.
+
+#### 2.2.1 Thing
+
+- **Definition**:
+  - Material object; independent part of the corporeal world, external to humans, valuable and useful.
+
+## Page 11 
+
+### 2.3 Law, Right, Real Relationships, Real Rights, and Entitlements
+
+#### 2.3.1 Law and Right
+
+- **Law**: 
+  - Body of rules regulating legal subjects’ rights and duties.
+  
+- **Right**: 
+  - Relates to lawful relationships between subjects and their objects.
+
+#### 2.3.2 Real Relationships and Real Rights
+
+- **Legal Relationship**: 
+  - Law attaches consequences to relationships with an object.
+  
+- **Real Relationship**: 
+  - Lawful relationship between legal subjects and a thing; includes real rights and some unlawful relationships.
+
+- **Aspects of Real Relationships**:
+  - Subject-object
+  - Subject-subject
+  
+- **Real Right**: 
+  - Dual relationship (subject-object and subject-subject); lawful only.
+
+- **Types of Real Relationships**:
+  - **Ownership**: lawful, confers real right.
+  - **Possession**: intentional physical control; can be lawful (animo domini) or unlawful.
+  - **Holdership**: physical control to derive benefit; may be lawful or unlawful.
+
+## Page 12 
+
+### Important Real Relationships
+
+- **Categories**:
+  - Ownership: lawful, thus a real right.
+  - Possession: not a real right; involves intention.
+  - Holdership: may be lawful/unlawful.
+
+### Diagram 2: Real Relationships
+
+- Possession / Holdership → Subdivided into lawful and unlawful, good faith (bona fide) or bad faith (mala fide).
+
+## Page 14 
+
+### Definition of Real Right
+
+- **Real Right**: 
+  - Lawful relationship with direct control over the thing, enforceable against all.
+
+- **Categories of Rights**:
+  - **Real Rights**: e.g., ownership
+  - **Personal Rights**: e.g., creditor's claims
+  - **Immaterial Property Rights**
+  - **Personality Rights**
+
+### 2.3.2.1 Entitlements
+
+- **Entitlements**: 
+  - Acts legal subjects may perform based on real rights.
+  
+- **Examples**:
+  - Owner's rights: sell, use, encumber, enjoy fruits, alienate, vindicate.
+
+### 2.4 Remedies
+
+- **Real Remedy**: 
+  - Legal process protecting real relationships.
+  
+- **Functions**:
+  - Maintain, protect, restore real rights.
+  - Address consequences of unlawful relationships.
+
+## Page 15 
+
+### 3. Function of Law of Things
+
+1. Harmonise competing ownership rights.
+2. Regulate owner's rights versus limited right holders.
+3. Control acquisition, protection, and extinction of things and real rights.
+
+## Page 15 
+
+### 4. Basis and Sources of Law of Things
+
+- **Influences**: 
+  - Derived from Roman law; modern context alters applications.
+  
+- **Sources**:
+  1. **Constitution of the Republic of South Africa, 1996**
+  2. Statute law
+  3. Case law
+  4. Common law (Roman-Dutch) / Indigenous customary law. 
+
+### Note
+- In multicultural contexts, indigenous law may serve as the subsidiary legal framework.
+
+--- 
+
+This document serves as a condensed review of essential concepts in property law, focusing on the law of things, real rights, and legal relationships.
+----- END OF FILE -----
+# THINGS AS LEGAL OBJECTS
+
+## CONTENTS
+
+**1. Definition**  
+1.1 Elements of definition  
+1.1.1 Corporeality  
+1.1.2 External to humans  
+1.1.3 Independence  
+1.1.4 Subject to human control  
+1.1.5 Useful and valuable to humans  
+
+**2. Classification of things**  
+2.1 Criteria for classification  
+2.1.1 Relation to humans  
+2.1.1.1 Negotiability  
+2.1.2 Inherent nature  
+2.1.2.1 Singular and composite things  
+
+---
+
+## 1. DEFINITION
+
+- **Definition**: A thing is a legal object that is an independent part of the corporeal world, external to humans, subject to human control, and useful/valuable to humans.
+
+### 1.1 Elements of definition
+
+#### 1.1.1 Corporeality
+- Law confined to corporeal things (e.g., land, car).
+- Exception: Incorporeal rights (e.g., pledge of claims, **National Bank of SA Ltd v Cohen’s Trustee** 1911 AD 235, **Millman NO v Twiggs** 1995 (3) SA 674).
+- Technological issues regarding definition (e.g., electricity, **Telkom SA Ltd v Xsinet (Pty) Ltd** 2003 (5) SA 309).
+
+#### 1.1.2 External to humans
+- Human body parts excluded as legal objects. 
+- Future debates anticipated due to medical technology.
+- **National Health Act 61 of 2003** regulates dealings with human body parts.
+
+#### 1.1.3 Independence
+- A thing must exist independently as a distinct entity.
+- Issues arise with composite things (e.g., car).
+- Definition adaptation in sectional titles and land demarcation (**Sectional Titles Act 95 of 1986**, **Land Survey Act 8 of 1997**).
+
+#### 1.1.4 Subject to human control
+- Objects must have potential for human legal control.
+- Non-controllable entities (e.g., Mars, air) cannot be legal objects.
+
+#### 1.1.5 Useful and valuable to humans
+- Legal relationships arise from value; trivial things don’t qualify (e.g., individual grains of sand not applicable, but a pile is).
+
+---
+
+## 2. CLASSIFICATION OF THINGS
+
+### 2.1 Criteria for classification
+- Classification by relation to humans and inherent nature.
+
+#### 2.1.1 Relation to humans
+- Focus on function in legal processes.
+  
+##### 2.1.1.1 Negotiability
+- **Res in commercio**: Negotiable things.
+- **Res extra commercium**: Non-negotiable (e.g., res communes omnium, res publicae, body parts).
+- Negotiable things can be one’s property (**res alicuius**) or no one’s property (**res nullius**).
+
+#### 2.1.2 Inherent nature
+- Classification by characteristics.
+
+##### 2.1.2.1 Singular and composite things
+- Singular: Independent items (e.g., horse).
+- Composite: Made of parts (e.g., car).
+- Distinction: Collections treated as units but don’t lose individuality (e.g., flock of sheep as a legal unit).
+
+- **Principal thing**: Independent entity in a composite. 
+
+--- 
+
+This reconstruction adheres to the original structure of the document, encapsulating its key legal concepts and principles succinctly.
+----- END OF FILE -----
+# Detailed Law Study Notes
+
+## Table of Contents
+- 2.1.2.1 Composite and Accessory Things
+- 2.1.2.2 Movable and Immovable Things
+- 2.1.2.3 Fungible and Non-fungible Things
+- 2.1.2.4 Consumable and Non-consumable Things
+- 2.1.2.5 Divisible and Indivisible Things
+
+### 2.1.2.1 Composite and Accessory Things
+- **Composite Thing**: Land is the principal; buildings are not (SU 4 para 3.4.2).
+- **Accessory Thing**: 
+  - Independent existence forfeited via physical attachment to a principal (e.g., brick in a wall) (SU 4 para 3.4.2).
+- **Auxiliary Thing**: 
+  - Dependent economically but not physically (e.g., key: reliant on lock) (Senekal v Roodt 1983 (2) SA 602 (T)).
+
+### Fruits
+- **Definition**: Yield from the principal (e.g., apples, interest).
+- **Types**: 
+  - Accessory to principal until separated.
+  - Natural Fruits (fructus naturales) vs. Civil Fruits (fructus civiles). 
+    - Distinctions in natural fruits: 
+      - Hanging (fructus pendentes)
+      - Separated (fructus separati)
+      - Gathered (fructus percepti).
+
+### 2.1.2.2 Movable and Immovable Things
+- **Immovable Things**: Land and permanently attached items (plants, buildings).
+- **Movable Things**: Transferable without damage (e.g., chairs, cars).
+
+- **Legal Implications**:
+  - **Transfer of Ownership**: Movables (delivery); Immovables (registration) (SU 5 para 5).
+  - **Statutes**: E.g., Deeds Registries Act 47 of 1937; Alienation of Land Act 68 of 1981.
+  - **Private International Law**: 
+    - Movables governed by owner’s domicile (lex loci domicilii).
+    - Immovables governed by location (lex loci rei sitae) (Southern Tankers (Pty) Ltd t/a Unilog v Pescana D’’Oro Ltd 2003 (4) SA 566 (C)).
+  - **Minor's Estate**: Court permission for alienation of immovables > R100,000.
+  - **Judicial Execution**: Movable assets liquidated first for debts.
+  - **Criminal Law**: Theft (movables); arson (immovables).
+  - **Real Security**: Pledge for movables; mortgage for immovables (SU 11).
+
+### 2.1.2.3 Fungible and Non-fungible Things
+- **Fungible Things (res fungibiles)**: Replaceable (e.g., sugar).
+- **Non-fungible Things (res non fungibiles)**: Unique (e.g., Picasso painting).
+
+- **Legal Significance**:
+  - **Law of Obligations**: Replaceability affects contractual performance.
+  - **Pledge**: Basic rule excludes replaceable items.
+  - **Transfer of Ownership**: Possible via commixtio or confusio (SU 4 para 4).
+  - **Court Attitudes**: More likely to authorize repairs/replacements for fungibles (SU 9).
+
+### 2.1.2.4 Consumable and Non-consumable Things
+- **Consumable Things (res consumptibiles)**: Used up by regular use (e.g., food).
+- **Non-consumable Things (res non consumptibiles)**: Retain value despite use (e.g., vehicle).
+
+- **Legal Relevance**:
+  - **Loan, Lease, Usufruct**: Duty to replace for consumables.
+  - **Ownership Transfer**: Consumption confers ownership.
+  - **Money**: Classed as consumable.
+
+### 2.1.2.5 Divisible and Indivisible Things
+- **Divisible Things**: Can be split without losing essential characteristics (e.g., fabric).
+- **Indivisible Things**: Cannot be divided without changing nature (e.g., cars).
+----- END OF FILE -----
+# S T U D Y U N I T 2  
+## REAL RIGHTS AND PERSONAL RIGHTS (CREDITOR’S RIGHTS/CLAIMS)
+
+### CONTENTS
+
+1. Introduction  
+2. Theoretical Distinction  
+   2.1 Personalist Theory  
+       2.1.1 Content  
+       2.1.2 Criticism  
+   2.2 Classical Theory  
+       2.2.1 Content  
+       2.2.2 Criticism  
+3. Distinguishing Characteristics  
+4. Subtraction Form the Dominium (Ownership)-Test  
+5. Categories of Real Rights  
+
+---
+
+### 1. INTRODUCTION
+
+- Distinction between **real rights** and **personal rights** (creditor’s rights/claims) is central to the division of patrimonial law: law of things vs. law of obligations.
+- Personal rights arise from obligations (contracts, delicts, unjust enrichment).
+- Characterized as:
+   - **Creditors**: Hold personal rights against **debtors**.
+   - Diagram References:
+     - Example of a lease contract: Personal rights and obligations outlined.
+
+### 2. THEORETICAL DISTINCTION
+
+#### 2.1 PERSONALIST THEORY
+
+##### 2.1.1 Content
+- Real rights enforceable against everyone (absolute).
+- Personal rights enforceable only against specific individuals (relative).
+
+##### 2.1.2 Criticism
+- Overstates absoluteness of real rights; not applicable in all scenarios (e.g., estoppel).
+- Exceptions where personal rights operate absolutely (e.g., service contracts recognized).
+
+#### 2.2 CLASSICAL THEORY
+
+##### 2.2.1 Content
+- Real rights pertain to person-thing relationships (direct control).
+- Personal rights pertain to person-person relationships (claim for performance).
+
+##### 2.2.2 Criticism
+- Difficulty defining “direct relationship with a thing.”
+- Personal rights can also concern tangible objects.
+
+### 3. DISTINGUISHING CHARACTERISTICS
+
+- **Characteristics of Real Rights**:
+  - Object: Corporeal thing.  
+  - Content: Direct claim and disposal over the thing.  
+  - Remedies: Enforced through real actions (e.g., **rei vindicatio**).
+
+- **Characteristics of Personal Rights**:
+  - Object: Performance (to give, do, or abstain from doing).
+  - Content: Claim for performance from a specific person.
+  - Remedies: Enforced through personal actions (e.g., **condictio furtiva**).  
+
+### 4. SUBTRACTION FORM THE DOMINIUM (OWNERSHIP)-TEST
+
+- No specific content provided in the original text. Consult further materials or textbooks for comprehensive understanding.
+
+### 5. CATEGORIES OF REAL RIGHTS  
+
+- No specific content provided in the original text. Consult further materials or textbooks for comprehensive understanding.  
+
+---  
+
+**Legislation**:  
+- Deeds Registries Act 47 of 1937, section 63(1)  
+
+**Cases**:  
+- Ex parte Geldenhuys (for registration of personal rights).  
+
+---  
+
+**Note**: The study notes have been condensed, retaining essential principles and theories while eliminating illustrative examples and activities that do not contribute to legal principles.
+----- END OF FILE -----
+# Study Notes on Real Rights vs. Personal Rights
+
+## 1. Origins
+- **Real Rights**: Originates from legal facts (e.g., delivery of movable things, registration of land, accession, prescription).
+- **Personal Rights**: Emerge through obligations (e.g., contracts, delicts).
+
+## 2. Absoluteness
+- **Real Rights**: Absolute in principle; vindication against any possessor.
+- **Personal Rights**: Relative; enforced only against obligors.
+
+## 3. Preference
+- Real rights have preference in insolvency.
+- "First in time is stronger in law" applies to competing real rights.
+- This principle generally does not apply to personal rights.
+
+## 4. Publicity
+- Creation, transfer, or extinction of real rights requires publicity (e.g., delivery for movable property, registration for immovable property).
+- Essential for acknowledgment by the public.
+
+## 5. Distinctive Characteristics
+- Characteristics assist in identifying real vs. personal rights but are not exclusive.
+- **Real Right Definition**: Lawful relationship granting direct control over a thing, binding all legal subjects to respect this relationship.
+
+## 6. Subtraction from Dominion (Ownership) Test
+- **Legal Test**: Identify if an obligation is a burden on the land (real right) or merely on a person (personal right).
+  - **Real Right**: Obligation burdens land, registrable.
+  - **Personal Right**: Generic obligation, not registrable.
+  
+### Example: Ex parte Geldenhuys (1926 OPD 155)
+- **Facts**: A mutual will concerning farm division upon death.
+- **Legal Question**: Characterization of rights created by will provisions.
+- **Ratio Decidendi**: Focus on the burden of obligation to determine real vs. personal rights.
+- **Finding**: Provisions creating real rights were registrable; payments to specific heirs classified as personal rights.
+
+## 7. Categories of Real Rights
+- **Ownership**: Real right to one's own thing (ius in re propria).
+- **Limited Real Rights**: Real rights to another's thing (iura in re aliena).
+  - Ownership is comprehensive; limited rights are defined and restricted.
+  
+### Impact of Ownership vs. Limited Real Rights
+- **Ownership**: Complete freedom of use.
+- **Limited Rights (e.g., usufruct)**: Defined entitlements restricted from inception.
+
+### Legislation Referenced
+- **Deeds Registries Act 47 of 1937**: Section 63 outlines registration criteria for real vs. personal rights.
+----- END OF FILE -----
+# S T U D Y U N I T 3
+**OWNERSHIP: DEFINITION AND LIMITATIONS ON OWNERSHIP**
+
+## 1. Definition of ownership
+
+### 1.1 Introduction
+- Ownership is the most comprehensive real right regarding a thing.
+- Definition reflects freedom to act on one's property, but limited by law and rights of others.
+- Ownership varies across societies, affecting its nature and content.
+- Distinction: 
+  - **Ius in re propria**: ownership (right to one's own thing)
+  - **Iura in re aliena**: limited real rights (rights to another's things).
+
+### 1.2 Inviolability
+- Inviolability principle: ownership cannot be lost without consent.
+- Roman law maxim: *nemo plus iuris in alium transferre potest quam ipse haberet*.
+- Example: If X sells Y's property to Z, Z does not acquire ownership; Y can reclaim through *rei vindicatio*.
+
+### 1.3 Inherent nature
+- Ownership defined as the most comprehensive real right.
+- Comprehensive nature allows enforcement against the world; entitlements extend broadly.
+- Limitations exist by law and rights of others.
+
+### 1.4 Entitlements
+- Entitlements arise from ownership: capacity to perform acts regarding the property.
+- Typically classified as "entitlements" rather than "powers."
+- Major entitlements include:
+  - **Use and enjoy**: Entitlement to utilize the property.
+  - **Fruits**: Right to benefit from the property (ex: collect rent).
+  - **Control**: Physical possession of the thing.
+  - **Consume or destroy**: Right to dispose of the property.
+  - **Alienate**: Entitlement to transfer ownership.
+  - **Burden**: Ability to grant limited rights over the property.
+  - **Vindicate**: Right to reclaim property from unlawful possession.
+
+### 1.4.1 Use and enjoy
+- Primary entitlement is to use and benefit from one’s property (ex: driving a car).
+- Burdening property (ex: servitudes) limits this entitlement.
+
+### 1.4.2 Fruits
+- Right to natural and civil fruits from ownership.
+
+### 1.4.3 Control
+- Ownership confers physical control; e.g., pledging property transfers control.
+
+### 1.4.4 Consume or destroy
+- Right to destroy property raises societal questions, especially for valuable commodities.
+
+### 1.4.5 Alienate
+- Ownership can be transferred via sale or donation; valid only if ownership addresses the inviolability principle.
+
+### 1.4.6 Burden
+- Granting limited real rights (e.g., servitudes) restricts ownership entitlements.
+
+### 1.4.7 Vindicate
+- Owners can reclaim property by proving ownership; changes in legal interpretations affecting immovable property may occur.
+
+--- 
+
+### **Important Cases and Legislation:**
+- **Gien v Gien** 1979 (2) SA 1113 (T): Defines ownership's inherent nature.
+- **Physical Planning Act 125 of 1991**: Limits ownership regarding land use.
+- **Development Facilitation Act 67 of 1995**: Regulates land use consistency with community plans. 
+
+### **Diagram References:**
+- Mention of specific diagrams relating to entitlements (not provided in the text).
+
+---
+
+### **Key Principles:**
+- Ownership is dynamic and context-sensitive; societal needs shape its definition and entitlements.
+- Ownership entails rights but is also subject to limitations defined by law and community interests.
+----- END OF FILE -----
+# LIMITATIONS ON OWNERSHIP
+
+## CONTENTS
+1. Introduction
+2. Limitations imposed by law
+   - 2.1 Statutory limitations
+   - 2.2 Neighbour law
+       - 2.2.1 Nuisance
+       - 2.2.2 Lateral and surface support
+       - 2.2.3 Encroachments
+       - 2.2.4 Surface water
+       - 2.2.5 Party walls and fences
+       - 2.2.6 Elimination of dangers
+3. Limitations imposed by rights of other legal subjects
+   - 3.1 Limited real rights
+   - 3.2 Personal rights (creditor’s rights/claims)
+
+---
+
+## 1. INTRODUCTION
+
+- Ownership is the most comprehensive real right, but subject to limitations.
+- Limitations on ownership can be categorized into:
+  - **Limitations imposed by law**
+  - **Limitations imposed by the rights of other legal subjects**
+
+---
+
+## 2. LIMITATIONS IMPOSED BY LAW
+
+### 2.1 Statutory limitations
+
+- Distinction between limitations on movable vs. immovable things.
+- Examples:
+  - **Constitution**: Sections 25 and 26.
+  - **Movables**:
+    - Firearms: *Firearms Control Act 60 of 2000*
+    - Motor vehicles: *National Road Traffic Act 93 of 1996*
+    - Drugs: *Drugs and Drugs Trafficking Act 140 of 1992*
+  - **Immovables**:
+    - Land: *Subdivision of Agricultural Land Act 70 of 1970*, *Spatial Planning and Land Use Management Act 16 of 2013*
+
+### 2.2 Neighbour law
+
+- Regulates and harmonizes conflicting ownership rights between neighbouring properties.
+- Key areas of neighbour law:
+  - 1. Nuisance
+  - 2. Lateral and surface support
+  - 3. Encroachments
+  - 4. Surface water
+  - 5. Party walls and fences
+  - 6. Elimination of dangers
+
+#### 2.2.1 Nuisance
+
+- Nuisance limits owners' exercise of rights in the interest of neighbours.
+- Types:
+  - **Narrow sense**: Infringement on personality rights (e.g., noise).
+  - **Broad sense**: Damage to property.
+- Remedies: Prohibitory interdict, delictual compensation.
+- Landmark cases:
+  - *Gien v Gien 1979 (2) SA 1113 (T)*
+  - *Malherbe v Ceres Municipality 1951 (4) SA 510 (A)*
+  - *Regal v African Superslate 1963 (1) SA 102 (A)*
+
+#### 2.2.2 Lateral and surface support
+
+- Owners entitled to support; excavations causing subsidence liable for damage (strict liability).
+- Applies only if land is in its natural state (e.g., *Gijzen v Verrinder 1965 (1) SA 806 (D)*).
+
+#### 2.2.3 Encroachments
+
+- Distinction between buildings and trees:
+  
+  **2.2.3.1 Buildings**
+  - Remedies for land owners:
+    - Claim removal of encroachment.
+    - Ejectment with compensation.
+    - Transfer of encroached land with compensation.
+  - Key cases: 
+    - *Trustees of the Brian Lackey Trust v Annandale [2003] 4 All SA 528 (C)*
+    - *Lombard v Fischer [2003] 1 All SA 689 (O)*
+
+  **2.2.3.2 Trees**
+  - **Branches**: Neighbours can request removal of encroaching branches; court order available.
+
+---
+
+## 3. LIMITATIONS IMPOSED BY RIGHTS OF OTHER LEGAL SUBJECTS
+
+### 3.1 Limited real rights
+
+### 3.2 Personal rights (creditor’s rights/claims)
+
+- Ownership may be limited by third-party claims (e.g., personal agreements for use).
+
+---
+
+**DIAGRAM 6**: Limitations on ownership structure in relation to legal subjects.
+----- END OF FILE -----
+# Study Notes
+
+## 2.2.3.2.2 Roots
+- Neighbour may remove encroaching roots; authority is unclear on compelling owner to do so.
+- **Bingham v City Council of Johannesburg** (1934 WLD 180):
+  - Trees caused nuisance; owner must remove trees, not only encroachment.
+- **Smith v Basson** (1979 (1) SA 559 (W)):
+  - Neighbour can remove intruding roots/plants; right to claim damages or compel removal is uncertain.
+
+## 2.2.4 Surface Water
+- Owners must receive natural water flow; upper owner cannot prejudicially interfere.
+- **Rural Tenement**: Lower owner may institute **actio aquae pluviae arcendae** to remove interfering works/damages.
+- **Urban Tenement**: Water diverted to nearest street; if not possible, diverted onto lower land with precautions (**Williams v Harris** 1998 (3) SA 970 (SCA)).
+- **Papalardo v Hau** (2010 (2) SA 451 (SCA)): Lower owner must accept natural water flow from higher tenement.
+- **Criteria in distinguishing rural vs urban** (**Redelinghuis v Bazzoni** 1976 (1) SA 110 (T)):
+  - Size of the land.
+  - Extent of building development.
+  - Identifiability of original topographical qualities.
+
+## 2.2.5 Party Walls and Fences
+- Party wall: Built on boundary, owned by both owners.
+- No demolition without consent; wooden fence can be replaced by brick wall.
+- Owners share maintenance unless one abandons ownership.
+- Owners may beautify or extend their owned section.
+
+## 2.2.6 Elimination of Dangers
+- Owner's duty to remove dangerous situations on property (e.g., toxic substances, vicious animals).
+
+---
+
+## 3 LIMITATIONS IMPOSED BY RIGHTS OF OTHER LEGAL SUBJECTS
+
+### 3.1 Limited Real Rights
+- Personal servitude (e.g., M has habitation right over X and Y's farm) limits ownership until death or abandonment.
+- Praedial servitude (e.g., S has a right of way over Q and R’s farm).
+- Mortgages limit owner’s ability to sell or burden property without the bank's permission. Bank may seek court action for repayment enforcement.
+
+### 3.2 Personal Rights (Creditor’s Rights/Claims)
+- S's right to graze cattle on X and Y's farm is personal; less restrictive.
+- X and Y may prohibit grazing, and S's remedies are limited to breach of contract claims for damages and/or specific performance.
+----- END OF FILE -----
+### S T U D Y U N I T 4  
+**ORIGINAL ACQUISITION OF OWNERSHIP**  
+
+#### CONTENTS 
+1. **Introduction**
+   - Outline of original methods of acquisition of ownership
+
+2. **Appropriation (occupation – occupatio)**
+   2.1 Definition  
+   2.2 Elements  
+   - Control  
+   - Thing which does not belong to anyone  
+   - Thing within sphere of law  
+   - Intention of becoming owner  
+
+3. **Accession (accessio)**
+   3.1 Definition  
+   3.2 Introduction  
+   3.3 Accession of immovables to immovables  
+   - Invisible accretion (alluvio)  
+   - Visible accretion (avulsio)  
+   - Island arising in riverbed (insula nata in flumine)  
+   - Dry riverbed (alveus derelictus)  
+   3.4 Accession of movables to immovables  
+   - Sowing and planting (satio et plantatio)  
+   - Building (inaedificatio)  
+   3.5 Accession of movables to movables  
+   - Definition  
+   - Elements  
+   - Examples  
+
+4. **Mixing of solids (commixtio) and mingling of fluids (confusio)**
+   4.1 Definition  
+   4.2 Elements  
+
+5. **Manufacture and specification (specificatio)**
+   5.1 Definition  
+   5.2 Elements  
+
+6. **Acquisition of fruits**
+   6.1 Definition  
+   6.2 Elements  
+
+7. **Treasure trove**
+   7.1 Introduction  
+   7.2 Definition  
+   7.3 Elements  
+
+8. **Expropriation**
+   8.1 Definition  
+
+9. **Acquisitive prescription**
+   9.1 Definition  
+   9.2 Introduction  
+   9.3 Requirements  
+   9.4 Elements  
+
+---
+
+### 1. **INTRODUCTION**  
+- Distinction: Original vs. Derivative methods.  
+  - Original: No cooperation from a predecessor (no transfer of ownership).  
+  - Derivative: Involves cooperation from a predecessor (transfer of ownership required).  
+- Principle: **Nemo plus iuris** - cannot transfer more rights than one possesses.  
+
+### 1.1 **Outline of original methods of acquisition of ownership**  
+- **Appropriation**  
+- **Accession**  
+  - Immovables to immovables  
+  - Movables to immovables  
+  - Movables to movables  
+- **Mixing of solids/mingling of fluids**  
+- **Manufacturing**  
+- **Acquisition of fruits**  
+- **Treasure trove**  
+- **Expropriation**  
+- **Prescription**  
+
+---
+
+### 2. **APPROPRIATION (OCCUPATION – OCCUPATIO)**  
+
+#### 2.1 **Definition**  
+- Appropriation defined as the unilateral control of a res nullius within the legal sphere to become its owner.  
+
+---
+
+### 2.2 **Elements**  
+- **Control**  
+- **Thing does not belong to anyone**  
+- **Sphere of law**  
+- **Intention to become owner**  
+
+#### Case References:
+- **R v Mafohla** 1958 (2) SA 373 (SR) - Details regarding control of hunted game and the question of theft.  
+- **Reck v Mills** 1990 (1) SA 751 (A) - Discussion of undisturbed physical control in relation to spoliation.  
+- **Lamont v Heyns** 1938 TPD 22 - Claim of ownership over escaped game animals.  
+
+--- 
+
+This reconstruction preserves the relevant legal principles while summarizing the content effectively for study purposes. It omits interactive elements and rearranges the information in a concise manner, maintaining the original structure and core concepts.
+----- END OF FILE -----
+## 2.2 Elements
+
+### 2.2.1 Control
+- **Physical Control**: Essential for acquisition of ownership via *appropriation (occupatio)*; must be intentional.
+- **Lawfulness of Control**: Control can be unlawful; e.g., illegal hunting may still result in ownership (e.g., *R v Mafohla 1958*).
+- **Wounded Animals**: If not physically controlled post-wound, appropriation does not occur.
+
+### 2.2.2 Thing which does not belong to anyone
+- **Res Nullius**: Things that belong to no one, including wild creatures in a natural state or reverted state (e.g., fish, animals).
+- **Exceptions**:
+  - Tamed animals remain owned until they lose their domestic habits.
+  - Domestic animals not considered res nullius (e.g., Game Theft Act 105 of 1991).
+- **Abandoned Things (res derelictae)**: Rightful abandoned property becomes res nullius and can be appropriated (*Reck v Mills 1990*).
+- **Lost Things (res deperditae)**: Remain the owner's property unless intention to retain is lost.
+
+### 2.2.3 Thing within sphere of law
+- Ownership not acquireable for body parts or corps, reflecting legal limitations.
+
+### 2.2.4 Intention of becoming owner
+- *Underwater Construction and Salvage Co (Pty) Ltd v Bell (1968)* - ownership acquired with seizure intending ownership; physical control serves as an indicator of intention.
+
+## 3 ACCESSION (ACCESSIO)
+
+### 3.1 Definition
+- Accession defined as acquiring ownership when an accessory merges with a principal thing, forming one entity; owner of the principal owns the whole.
+
+### 3.2 Introduction
+- Owner of principal gains ownership of accessory, accessory loses independence.
+- Determining principal vs. accessory can focus on weight or value; generally, land is principal.
+
+### 3.3 Accession of immovables to immovables
+- Distinction between natural boundary (e.g., water) and artificially fixed boundary.
+
+#### 3.3.1 Invisible Accretion (Alluvio)
+- **Definition**: Gradual addition of land through water's natural action.
+- **Elements**:
+  - Gradual, imperceptible addition.
+  - Occurs via natural water action.
+  - Only applicable where property boundary is a river or sea.
+
+#### 3.3.2 Visible Accretion (Avulsio)
+- **Definition**: Ownership acquired by sudden land addition from external violent forces.
+- **Elements**:
+  - Sudden substantial increase.
+  - Results from violent natural causes (e.g., floods).
+  - Dislodged from one property to another; mature plants indicate completion.
+
+#### 3.3.3 Island Arising in Riverbed (Insula nata in flumine)
+- **Definition**: Ownership of newly formed island in a river is proportionate among riparian owners.
+- **Elements**: Formation parallels alluvio principles.
+----- END OF FILE -----
+# Study Notes on Acquisition and Accession in Property Law
+
+## 3.3.4 Acquisition by Riparian Owners
+- **Islands in Rivers**:
+  - When an island forms in a public river, **ager non limitatus** (unbounded land) owners share the island proportionately (Van Niekerk & Union Government v Carter 1917 AD 359).
+  - In the case of **ager limitatus** (bounded land), the island may be treated as **res nullius**, potentially owned by the first occupier; some claim it belongs to the state.
+
+### 3.4 Proportionate Division
+- Boundary presumed to extend to the river's midpoint for **ager non limitatus**.
+- New islands entitled to riparian owners based on proximity; islands closer to one bank are divided proportionally.
+
+## 3.3.4 Dry Riverbed (Alveus Derelictus)
+- Accessio applied to dry riverbeds that shift courses per Roman and Roman-Dutch law.
+
+## 3.4 Accession of Movables to Immovables
+- **General Principle**: Land as principal, movables accede to land.
+  
+### 3.4.1 Sowing and Planting (Satio et Plantatio)
+#### 3.4.1.1 Definition
+- Original method of acquiring ownership when plants take root on land, becoming property of landowner.
+
+#### 3.4.1.2 Elements
+- (i) **Growth Accession**: Plants integrated into land upon rooting (omne quod implantatur solo cedit; Secretary of Lands v Jerome 1922 AD 103).
+- (ii) **Ownership Transfer**: Plants on X and Y's land belong to them post-rooting; potential claims for compensation by the sower exist where unjust enrichment is in play.
+
+### 3.4.2 Building (Inaedificatio)
+#### 3.4.2.1 Definition
+- Original method where movable items become integrated with land, losing independence and forming part of the land.
+
+#### 3.4.2.2 Introduction
+- Numerous court decisions elaborate on building accession’s importance.
+
+#### 3.4.2.3 Elements
+- (i) **Attachment**: Movables must be permanently affixed to immovables.
+  - **Judicial Tests**: Nature and purpose of the attached item, manner and degree of attachment, and the intent of the annexor are crucial (MacDonald Ltd v Radin NO 1915 AD 454).
+  
+**Criteria for Determination**:
+- (a) **Nature and Purpose**: Attachment should benefit the immovable indefinitely (example: bricks, concrete).
+- (b) **Manner and Degree**: Attachment must be substantial, causing injury upon separation (Standard-Vacuum Refining Co v Durban City Council 1961 (2) SA 669).
+- (c) **Intent**: Crucial in determining if an item is to become part of the immovable.
+
+### Key Cases:
+- **Van Niekerk and Union Government (Minister of Lands) v Carter 1917 AD 359**
+- **Secretary of Lands v Jerome 1922 AD 103**
+- **Gore NO v Parvatas 1992 (3) SA 363**
+- **MacDonald Ltd v Radin NO & Potchefstroom Dairies 1915 AD 454**
+- **Standard-Vacuum Refining Co v Durban City Council 1961 (2) SA 669**
+- **Theatre Investments (Pty) Ltd v Butcher Brothers Ltd 1978 (3) SA 682**
+
+### Diagram References:
+- Diagrams illustrating the principles of **proportional division of islands** and **assessment criteria for building accession** included in original notes.
+----- END OF FILE -----
+### Chapter 1: Accession in Property Law
+
+#### 1. Tests for Accession
+
+- **Manner of Detachment**
+  - Detachable without substantial damage: Not part of immovable (MacDonald Ltd v Radin and the Potchefstroom Dairies and Industries Co Ltd 1915 AD 454).
+  - Ordinary methods considered; engineering not relevant.
+
+- **State after Attachment**
+  - If attached item loses identity and is incorporated, sufficient degree of attachment.
+
+- **Intention of Annexor**
+  - Intention at time of attachment is key.
+  - MacDonald case: Intention of annexor versus owner of the movable is critical.
+  - Importance increases with uncertainty in physical attributes.
+
+#### 2. Relevant Case Law
+
+- **Standard-Vacuum Refining Co v Durban City Council (1961)**
+  - Objective vs. subjective intention distinguished.
+  - Inquiry into whether the attachment intended permanence.
+  - Factors: nature, method, and degree of attachment.
+  
+- **Theatre Investments (Pty) Ltd v Butcher Brothers Ltd (1978)**
+  - All evidence of intention considered collectively.
+  - Determination based on balance of probabilities.
+
+- **Konstanz Properties (Pty) Ltd v Wm Spilhaus en Kie (1996)**
+  - Applied MacDonald's requirements; intentions decisive.
+   
+#### 3. Property Rights Post-Attachment
+
+- **Rights of Lessee**
+  - Right to remove dismantlable improvements (Van Wezel v Van Wezel’s Trustee 1924 AD 409).
+
+- **Bona Fide Attacher**
+  - Ownership revives post-demolition; claims via **rei vindicatio**.
+  
+- **Mala Fide Attacher**
+  - Loses ownership rights; potential claims on unjust enrichment.
+
+- **Estoppel**
+  - Owner of movables may be estopped from claiming ownership post-attachment (Konstanz Properties; Concor Holdings (Pty) Ltd v Potgieter, 2004).
+
+### Chapter 2: Legal Questions and Case Analysis
+
+#### 1. Questions on Accession
+
+- Criteria for movable becoming part of immovable:
+  - **Nature and purpose** of attachment.
+  - **Manner and degree** of attachment.
+  - **Intention** of annexor.
+
+#### 2. Case Analysis: Standard-Vacuum Refining Company
+
+- **Legal Question**
+  - Tanks' status as attached to land or movable disputed.
+
+- **Ratio Decidendi**
+  - Enquiry aims to determine intention of permanence regarding attachment.
+  - Features influencing permanence include attachment method and necessity of damage upon detachment.
+
+- **Application to Facts**
+  - Tanks integral to land; cannot be detached without damage.
+  - Intent inferred from physical characteristics and representative's statements.
+
+#### 3. Case Analysis: Theatre Investments v Butcher Brothers
+
+- **Context**
+  - Equipment removal post-lease termination raised.
+  
+- **Relevant Lease Terms**
+  - All buildings revert to landlords upon lease termination without compensation.
+
+- **Discussion of Equipment Status**
+  - Attached items (theatre seats, carpets, etc.) assessed against permanence and intention.
+  
+### Conclusion
+- The court's assessment balances tangible aspects of attachment with the interpretative elements of intention, reflecting diverse judicial interpretations across cases. The evolving jurisprudence on annexation demonstrates the complexity surrounding accession within property law.
+----- END OF FILE -----
+# Legal Study Notes
+
+### Table of Contents
+1. **Case Analysis: Theatre Investments (Pty) Ltd v Butcher Brothers**
+   1.1 Legal Question  
+   1.2 Ratio Decidendi  
+   1.3 Application of Finding to Relevant Facts
+
+2. **Accession of Movables to Movables**
+   2.1 Definition  
+   2.2 Elements  
+   2.3 Examples  
+
+3. **Mixing of Solids (Commixtio) and Mingling of Fluids (Confusio)**
+   3.1 Definition  
+   3.2 Elements    
+
+4. **Manufacture Specification (Specificatio)**
+   4.1 Definition  
+   4.2 Elements  
+
+5. **Acquisition of Fruits**
+   5.1 Definition  
+   5.2 Elements  
+
+6. **Treasure Trove**
+   6.1 Introduction  
+   6.2 Definition  
+   6.3 Elements  
+
+---
+
+## 1. Case Analysis: Theatre Investments (Pty) Ltd v Butcher Brothers
+
+### 1.1 Legal Question  
+- Determine ownership of equipment through land attachment.
+
+### 1.2 Ratio Decidendi  
+- Test for ownership: annexor's intention for permanence.  
+- Evidence sources:  
+  - Annexor's statements (not conclusive)  
+  - Nature of movable and immovable  
+  - Manner and circumstances of annexation  
+
+### 1.3 Application of Finding to Relevant Facts  
+- Evidence indicates intention for equipment (seats, lighting) to remain indefinitely due to contract duration and building purpose.
+
+---
+
+## 2. Accession of Movables to Movables
+
+### 2.1 Definition  
+- Original method of ownership; accessory movable becomes part of principal movable.
+
+### 2.2 Elements  
+- **Accessory Movable Concerns**:  
+  - Distinguishable accessory and principal;
+  - Difficult to separate;
+  - No manufacturing involved.  
+- **Formation of Single Entity**:  
+  - Annexure's finality (e.g., welding = accession).  
+
+### 2.3 Examples  
+- **Painting**: X owns painting on Y's canvas (if worth more).  
+- **Weaving**: Ownership can depend on thread value.  
+- **Writing**: Ownership of paper vs. document.
+
+---
+
+## 3. Mixing of Solids (Commixtio) and Mingling of Fluids (Confusio)
+
+### 3.1 Definition  
+- Original ownership acquisition via mixing of different owners' movables.
+
+### 3.2 Elements  
+- **Mixing Criteria**:  
+  - Separation difficult/impossible;
+  - Belong to different owners;
+  - Occurs without consent.  
+- **Distinctions**:  
+  - Mixing differs from accession and manufacturing.
+
+---
+
+## 4. Manufacture Specification (Specificatio)
+
+### 4.1 Definition  
+- Ownership acquired through unauthorized production of a new object using another's material.
+
+### 4.2 Elements  
+- **Unauthorized Production**:  
+  - Must not be authorized by material owner; bona fide mistaken belief allows for certain claims.  
+- **Completely New Object**:  
+  - New product cannot revert to original parts.  
+- **Ownership Shift**:  
+  - Former owner loses ownership; compensation may be required from manufacturer.
+
+---
+
+## 5. Acquisition of Fruits
+
+### 5.1 Definition  
+- Ownership arises when entitled person gathers fruits, previously accessories of principal thing.
+
+### 5.2 Elements  
+- **Types of Fruits**:  
+  - Natural (e.g., milk, wool);
+  - Civil (e.g., rent, interest).  
+- **Separation Required**:  
+  - Fruits only independent post-separation.  
+- **Ownership Post-Separation**:  
+  - Owner retains ownership until fruits gathered; exceptions apply.
+
+---
+
+## 6. Treasure Trove
+
+### 6.1 Introduction  
+- Treasure not res nullius; landowner may gain ownership through law.
+
+### 6.2 Definition  
+- Ownership acquisition method for hidden valuable objects defined by control taken by the finder or the landowner.
+
+### 6.3 Elements  
+- **Valuable Movable Corporeal Things**:  
+  - Includes coins, jewelry.  
+- **Hidden Nature**:  
+  - Difficulty in finding necessary for classification as treasure.
+----- END OF FILE -----
+# Study Notes on Ownership and Expropriation
+
+## Chapter 8: Expropriation
+### 8.1 Definition
+- **Expropriation**: Original method of acquiring ownership; State acquires movable or immovable property without owner's consent, compensating under **Section 25 of the Constitution of the Republic of South Africa, 1996**.
+
+---
+
+## Chapter 9: Acquisitive Prescription
+### 9.1 Definition
+- **Acquisitive Prescription**: Ownership acquired by open control of property for an uninterrupted period of thirty years.
+
+### 9.2 Introduction
+- Contrast with **Extinctive Prescription**: Both processes recognized by law; former in acquisition, latter in enforcement.
+
+### 9.3 Requirements
+- **Prescription Act 18 of 1943**: Defines acquisition of ownership via possession for thirty years, **nec vi, nec clam, nec precario**.
+- **Prescription Act 68 of 1969**: Similar definition, with focus on open possession.
+
+### 9.4 Elements
+- **(i) Possession**: 
+   - Physical (corpus) + Mental (animus) elements.
+   - Objective control and intention of ownership validated by reasonable inference.
+  
+- **(ii) Openly**:
+   - Corresponds with not by force (nec vi), not secretly (nec clam), not on sufferance (nec precario).
+  
+- **(iii) As if he/she were the owner**:
+   - External conduct reflecting animus domini.
+
+- **(iv) For an uninterrupted period of thirty years**:
+   - **(a)** Calculation includes predecessors (i.e., **Stephenson v Lamsley**).
+   - **(b)** Continuity not absolute (i.e., **Morkels Transport v Melrose Foods**).
+   - **(c)** Continuity disturbance analyzed through interruption or suspension.
+
+### A. Interruption
+- Prescription period resets upon interruption, defined as:
+  - **(i) Natural Interruption**: Loss of possession required; voluntary or involuntary.
+  - **(ii) Judicial Interruption**: Serving process (per **Section 4 of the 1969 Prescription Act**) interrupts running until final judgment; temporary unless successful.
+
+### B. Suspension
+- Temporary halting of prescription without lapse:
+   - Applies to individuals unable to assert rights (i.e., minors, insane individuals, etc.).
+   - **Section 3 of the 1969 Act**: Completion of prescription postponed for three years following removal of impediment.
+
+--- 
+
+*Diagram References: Consider flowcharts detailing the principles and distinctions between Acquisitive and Extinctive Prescription, interruption and suspension processes.*
+----- END OF FILE -----
+# S T U D Y U N I T 5: DERIVATIVE ACQUISITION OF OWNERSHIP
+
+## CONTENTS
+1. Introduction  
+2. Definition  
+3. Elements  
+4. Delivery (movables)  
+   4.1 Actual delivery (traditio vera)  
+   4.2 Constructive or fictitious delivery (traditio ficta)  
+      - A Transferee is placed in position to exercise physical control  
+        4.2.1 Symbolic delivery (clavium traditio)  
+        4.2.2 Delivery with long hand (traditio longa manu)  
+        4.2.3 Bills of lading  
+      - B Transferee is already in physical control by virtue of some other legal relationship  
+        4.2.4 Delivery with short hand (traditio brevi manu)  
+      - C Someone else exercises physical control on behalf of transferee  
+        4.2.5 Constitutum possessorium  
+        4.2.6 Attornment  
+5. Registration (land)  
+   5.1 Introduction  
+   5.2 Transfer procedure  
+   5.3 System of transfer of ownership  
+   5.4 Positive and negative systems of registration  
+
+---
+
+## 1 INTRODUCTION
+- Derivative acquisition of ownership methods discussed.
+- Transfer of ownership:
+  - Movable items: delivery.
+  - Immovable property: registration.
+
+## 2 DEFINITION
+- **Derivative methods** require predecessor in title’s cooperation.
+- Ownership transferred from former owner (predecessor-in-title), based on the maxim **nemo plus iuris in alium transferre potest quam ipse haberet**.
+- Transfer includes rights, advantages, and disadvantages affecting ownership.
+
+## 3 ELEMENTS
+- Key elements in derivative acquisition of ownership:
+  1. **Applicability**: The res in commercio.
+  2. **Capacity**: Parties must be legally capable to transfer/receive ownership.
+  3. **Transferor ownership**: Must be the owner or authorized.
+  4. **Intention**: Parties must intend to pass/receive ownership (physical + mental elements).
+     - Distinction between contract and transfer; ownership passes on delivery.
+  5. **Legal ground (iusta causa)**: Valid underlying contract necessary for effective transfer.
+     - Causal vs. abstract systems of transfer.
+
+## 4 DELIVERY (MOVABLES)
+- **Delivery**: Transfer of ownership consists of:
+  - Physical element (corpus).
+  - Mental element (animus).
+
+### 4.1 Actual delivery (traditio vera)
+- Physical handing over with accompanying intention to transfer ownership.
+
+### 4.2 Constructive or fictitious delivery (traditio ficta)
+- Situations where physical handing-over does not occur, classified as:
+  - A **Transferee placed in position** to exercise physical control:
+    1. **Symbolic delivery (clavium traditio)**: Handing over a token to indicate control.
+    2. **Delivery with long hand (traditio longa manu)**: Transfer where possession remains with transferor temporarily.
+    3. **Bills of lading**: Documentation confirming control over goods.
+  - B **Transferee already in physical control** due to another relationship:
+    1. **Delivery with short hand (traditio brevi manu)**: Existing control acknowledged.
+  - C **Someone else exercises control on behalf of transferee**:
+    1. **Constitutum possessorium**: Transferor retains possession but acknowledges transfer.
+    2. **Attornment**: Third party acknowledges new ownership.
+  
+## 5 REGISTRATION (LAND)
+### 5.1 Introduction
+- Transfer of immovable property occurs through registration.
+
+### 5.2 Transfer procedure
+- Specific steps and documentation required for transferring land ownership.
+
+### 5.3 System of transfer of ownership
+- Legal framework detailing registration processes.
+
+### 5.4 Positive and negative systems of registration
+- Variances in how ownership transfer is registered and notified to third parties.
+----- END OF FILE -----
+# Legal Study Notes
+
+## Chapter 4: Modes of Delivery
+
+### 4.2 Transfer of Ownership
+- Ownership can be transferred through various modes of delivery.
+  
+### 4.2.1 Longa Manu (Delivery with the Long Hand)
+- **Case Reference**: **Groenewald v Van der Merwe (1917 AD 233)**
+  - Physical transfer not essential; placement of item for control crucial.
+  - Transferee must be able to deal with it exclusively.
+  
+- **Principles of Longa Manu Delivery**:
+  - Indirect form of delivery where physical transfer is impractical.
+  - Concept confirmed in related case law.
+  
+- **Application in Case**: Groenewald claimed ownership of a threshing machine sold by D. D's involvement and Groenewald's threat to sue positioned him to exercise control.
+
+### 4.2.2 Shorta Manu (Delivery with the Short Hand)
+- **Definition**:
+  - No physical transfer occurs; transferee already has control.
+  
+- **Case Reference**: **Info Plus v Scheelke (1998 (3) SA 184)**
+  - Ownership remains with the seller until payment completed.
+  - Clear indication of the intention to transfer ownership is necessary.
+  
+- Without further transfer of control needed as transferee was already in possession.
+
+### 4.2.3 Applicability of Rei Vindicatio
+- **Concept**:
+  - Legal action to reclaim ownership (rei vindicatio) must demonstrate:
+    - Proof of ownership.
+    - Current possession of the item by another party.
+    
+- **Implications**:
+  - If control requirements are unmet, rei vindicatio may fail.
+
+### 4.2.4 Constitutium Possessorium
+- **Definition**:
+  - Transfer of possession where another party exercises physical control.
+  
+- **Example**: Sale of a dry-cleaning business which involved delayed ownership transfer until full payment.
+  
+### 4.3 Key Deliverables for Success in Proprietary Claims
+- Establishment of:
+  - Ownership (based on valid transfer).
+  - That current possessor lacks rightful title to hold item.
+  
+- Relevant case law solidifies interpretation of ownership rights and delivery modes.
+
+### Legislation and Legal Framework
+- **Bills of Lading**:
+  - Essential document in shipping contracts, recognized separate from symbolic delivery.
+  
+### Conclusion
+- Understanding of modes of delivery and legal principles is crucial for property transfers and related disputes.
+- Essential to refer to case law for substantiation and clarity in ownership and delivery issues. 
+
+**References**:
+- **Groenewald v Van der Merwe (1917 AD 233)**
+- **Eskom v Rollomatic Engineering (Pty) Ltd (1992 (2) SA 725 (A))**
+- **Info Plus v Scheelke (1998 (3) SA 184)**
+- Relevant provisions governing ownership transfer and delivery methods.
+----- END OF FILE -----
+# Study Notes on Constitutum Possessorium and Attornment 
+
+## Chapter 4: Ownership Transfer
+
+### 4.1 Constitutum Possessorium  
+- **Definition**: Transfer of ownership where the transferor retains physical control but changes intention towards the thing.  
+- **Key Case**: *Vasco Dry Cleaners v Twycross* (1979 (1) SA 603 (A)) establishes the nature of the transfer.
+- **Legislation**: No explicit legislation mentioned, but principles derived from case law.
+- **Fraud Risk**: 
+  - Possibility of misleading creditors through claims of ownership transfer.
+  - Courts scrutinize assertions of ownership based on intention change alone.
+- **Safeguards from *Goldinger’s Trustee v Whitelaw and Son* (1917 AD 66)**:
+  - Constitutum not presumed; must show clear supporting facts.
+  - Distinct causa detentionis required; mere change of mind does not effect transfer.
+- **Findings in *Vasco Dry Cleaners v Twycross***:
+  - Ownership not transferred merely by mental change.
+  - Court determined transaction primarily akin to a pledge, not a sale.
+  - Required delivery of control for valid pledge; constitutum lacks this.
+  - Twycross cannot reclaim machinery since ownership never passed.
+  
+### 4.2 Attornment  
+- **Definition**: Transfer of ownership where transferor, transferee, and third party agree that the third party will control the property on behalf of the transferee.  
+- **Requirements**:
+  - **Tripartite Agreement**: Agreement among transferor, transferee, and holder.
+  - **Physical Control**: Holder must exercise control at the moment of transfer.
+- **Case Law**: 
+  - *Air-Kel (Edms) Bpk h/a Merkel Motors v Bodenstein* (1980 (3) SA 917 (A)) illustrates requirements for attornment.
+  - *Caledon en Suid-Westelike Distrikte Eksekuteurskamer Bpk v Wentzel* (1972 (1) SA 270 (A)) extended principles, allowing holder's prior declaration of intent for future ownership holding.
+  
+### 4.3 Conclusion  
+- Ownership of movable things can only be transferred if the holder controls the item; loss of control nullifies transfer capability through attornment. 
+
+### DIAGRAM 7: Air-Kel (Edms) Bpk h/a Merkel Motors v Bodenstein  
+| S (Transferor) | C (Transferee) | Z (Creditor) | Panel Beater (Holder) |
+|-----------------|----------------|---------------|------------------------|
+| Sale            |                |               | Notice of Transfer      |
+|                 |                | Attachment     |                        |
+
+---
+
+**Note**: The notes preserve structure while condensing content, focusing on legal principles, relevant case law, and key terms.
+----- END OF FILE -----
+### STUDY UNIT 5 - REGISTRATION (LAND)
+
+#### 5.1 Introduction
+- Transfer of ownership of immovable things via **registration** (historical basis in the Netherlands).
+- Requires **land surveying** and representation on a diagram/general plan.
+- **Title registration**: Deed of transfer as per **Deeds Registries Act 47 of 1937**, requires existing title deed lodging.
+- Ownership transfer occurs upon registrar affixing signature to deed.
+
+#### 5.2 Transfer Procedure
+- Owner sells land via **registration of deed of transfer** (s 16).
+- Deed must be prepared by **conveyancer** and executed in presence of registrar.
+- Ownership transfers once signed by registrar, deed assigned a unique number.
+
+#### 5.3 System of Transfer of Ownership
+- **Concurring intentions** required for transfer (real agreement as **iusta causa**).
+- **Legator McKenna Inc v Shea**: Valid transfer of ownership can occur despite invalid sales agreement; abstract system applicable to both movable and immovable properties.
+- **Fry’s (Pty) Ltd v Ries**: Registered deed of transfer proves ownership.
+
+#### 5.4 Positive and Negative Systems of Registration
+- **Positive vs. Negative System**: Reliability on deeds registry data.
+- South Africa operates a **negative system**; inaccuracies may exist.
+- **Exceptions**:
+  1. Marriage in community of property creates joint ownership without transfer.
+  2. Expropriation under **Expropriation Act 63 of 1975**: Ownership passes without delivery/registration.
+  3. **Prescription**: Ownership acquired without transfer, court approval required for registration.
+  4. Registry errors may misrepresent ownership (cases: **Barclays Nasionale Bank v Registrateur van Aktes**).
+
+---
+
+### STUDY UNIT 6 - OWNERSHIP PROTECTION AND TERMINATION
+
+#### 1. Introduction
+- **Ownership protection remedies**: Understand various categories and their purposes.
+  
+#### 1.1 Property Law Remedies
+1. **Rei vindicatio**: 
+   - Owner's action to reclaim.
+2. **Interdict**: 
+   - Court order to prevent a harm or injury.
+3. **Declaratory order**: 
+   - Court declaration on rights or status.
+4. **Actio negatoria**: 
+   - Action to prevent interference with ownership.
+
+#### 1.2 Delictual Remedies
+1. **Condictio furtiva**: 
+   - Recovery for stolen property.
+2. **Actio ad exhibendum**: 
+   - Demand for possession or evidence of property.
+3. **Aquilian action**: 
+   - Claim for damages due to wrongful act.
+
+#### 1.3 Enrichment Remedies
+- Possible claims for **unjust enrichment** when a bona fide possessor benefits from property without paying value. 
+
+#### 2. Summary of Remedies
+- Distinguish between **property law**, **delictual**, and **enrichment** remedies available for owners and possessors to protect and enforce rights.
+----- END OF FILE -----
+**Chapter 2: PROPERTY LAW REMEDIES**
+
+### 2.1 Rei Vindicatio
+- **Definition**: A real action for an owner to reclaim unlawfully possessed property, applicable to movable and immovable things.
+  
+- **Principles**:
+  - Inviolability of ownership: Ownership cannot be lost without consent.
+  - No one can transfer greater rights than they possess (nemo plus iuris).
+
+- **Key Case**: *Chetty v Naidoo (1974 (3) SA 13 (A))*
+  - Establishes the owner's right to reclaim possession of property.
+
+### 2.1.1 Requirements for Rei Vindicatio
+1. **Ownership**: Plaintiff must prove ownership.
+2. **Existence & Identifiability of the Thing**:
+   - Item must exist in identifiable form; changes (accession/mixing) may affect recovery.
+3. **Defendant's Control**: Defendant must be in unlawful control of the item at the time of action.
+
+### 2.1.2 Defences and Restrictions
+- **Defence Types**:
+  - **Requirement Non-Fulfillment**: Defendant may show lack of ownership or destruction/unidentifiability of the item.
+  
+#### 2.1.3 Sales in Execution
+- **Legislation**: Section 70 of the *Magistrates Courts Act 32 of 1944*
+  - Protects bona fide purchasers against claims by true owners post-sale.
+
+#### 2.1.4 Statutory Limitations on Eviction
+- **Constitution**: Section 26(3) protects against eviction without court order (Case: *Jaftha v Schoeman*).
+- Certain statutes provide additional protections for vulnerable groups (e.g., *Land Reform Act*, *Extension of Security of Tenure Act*).
+
+#### 2.1.5 Estoppel
+- **Definition**: Defence against rei vindicatio where the owner’s conduct leads third parties to believe in another's ownership.
+- **Requirements**:
+  1. **Representation**: Must have been made by the owner.
+  2. **Fault**: Owner must have acted with intent/negligence.
+  3. **Detriment**: Third party must show detrimental reliance on the representation.
+  4. **Causal Connection**: Proof that reliance caused detriment.
+
+- **Key Cases**:
+  - *Oakland Nominees (Pty) Ltd v Gelria Mining & Investment Co (Pty) Ltd (1976 (1) SA 441 (A))*
+  - *Quenty’s Motors (Pty) Ltd v Standard Credit Corporation Ltd (1994 (3) SA 188 (A))*
+
+### 2.2 Interdict
+- **Definition**: Summary court order for urgent relief against infringement or imminent infringement of rights.
+
+### 2.2.1 Requirements for an Interdict
+- Clear right: The applicant must show ownership or rights.
+- Actual or reasonably apprehended harm: Must demonstrate likelihood of rights violation.
+- Absence of other remedies: No other effective legal protections available.
+
+- **Key Case**: *Setlogelo v Setlogelo (1914 AD 221)*
+  - Established requirements for claiming an interdict.
+
+---
+
+This document condenses essential legal principles and cases related to property law remedies such as rei vindicatio and interdicts while maintaining an organized structure for effective study reference.
+----- END OF FILE -----
+# Study Notes on Legal Principles
+
+## 2.3 Declaratory Order
+- A declaratory order addresses disputes over legal positions between parties.
+- Court determines rights and duties of contesting parties.
+- Applicable when ownership is disputed and rights are not registered against title deed.
+  - **Legislation**: *Willoughby’s Consolidated Co Ltd v Copthall Stores Ltd 1913 AD 267; De Kock v Ha¨nel 1999 (1) SA 914 (C)*.
+  
+## 2.4 Actio Negatoria
+- **Definition**: Protects ownership against third-party claims exceeding servitude limits.
+  - **Case Law**: *JH Wade v AM Paruk (1904) NLR 219*.
+
+## 3 Delictual Remedies
+
+### 3.1 Condictio Furtiva
+- **Definition**: Action for recovery of stolen property from the thief or their heirs.
+  - Arises from delict theft.
+  - **Case Law**: *Clifford v Farinha 1988 (4) SA 315 (W)*.
+- **Requirements**:
+  - Ownership or lawful interest at time of theft.
+  - Theft/deceitful removal.
+  - If not against the thief, action against heirs.
+
+### 3.2 Actio ad Exhibendum
+- **Definition**: Action to claim market value from a person who destroyed or alienated property with mala fide intention.
+- **Requirements**:
+  - Ownership of the thing.
+  - Wrongful/intentional destruction or alienation.
+  - Mala fide intent of the defendant.
+  - Loss suffered by the owner.
+  - **Case Law**: *Frankel Pollak Vinderene Inc v Stanton (2000 (1) SA 425 (W))*.
+
+### 3.3 Aquilian Action (Delictual Claim for Damages)
+- **Definition**: Claim for damages caused by unlawful conduct.
+  - **Case Law**: *Hefer v Van Greuning 1979 (4) SA 952 (A); Philip Robinson Motors (Pty) Ltd v NM Dada (Pty) Ltd 1975 (2) SA 420 (A)*.
+- **Requirements**:
+  - Unlawful conduct by the defendant.
+  - Culpability (intent/negligence).
+  - Plaintiff's proprietary right/interest in the property.
+  - Patrimonial loss.
+  - Causal link between loss and conduct.
+
+### Examples 
+1. **Condictio Furtiva Case**: Theft of a car and subsequent sale to another party.
+2. **Actio ad Exhibendum Case**: Destruction of car by thief; recovery of the market value claimed.
+3. **Aquilian Action Case**: Car accident resulting from negligent conduct by a borrower.
+
+For diagrams referencing relationships between claims and remedies, refer to the original document. 
+
+## 4 Summary of Remedies
+- Study the remedies detailed for ownership protection, including **condictio furtiva**, **acti ad exhibendum**, and **aquilian action**, reflecting the requirements and applicable case law.
+
+These notes summarize legal principles relevant to ownership disputes, recourse in theft cases, and remedies available in delict.
+----- END OF FILE -----
+# Study Notes on Ownership and Co-Ownership
+
+## TERMINATION OF OWNERSHIP
+
+### 1. Introduction
+- Discusses termination of ownership through:
+  - Death of owner
+  - Destruction of the thing
+  - Termination of legal relationship
+    - Transfer of ownership
+    - Loss of physical control
+    - Operation of law
+
+### 2. Death of Owner
+- Ownership terminated upon death.
+- **Case**: *Greenberg v Estate Greenberg* (1955 (3) SA 361(A)):
+  - Heir receives a personal right to demand delivery from executor.
+  - Ownership transfers only upon delivery.
+
+### 3. Destruction of Thing
+- Ownership ceases if a thing is destroyed or becomes res in commercio.
+
+### 4. Termination of Legal Relationship
+- Three ways:
+  - **Transfer of Ownership:**
+    - Loss of ownership through delivery/registration to another.
+  - **Loss of Physical Control:**
+    - Thing becomes res nullius (e.g., wild animals losing control).
+    - Distinction between:
+      - **Res derelicta**: abandoned with intent to relinquish.
+      - **Res deperdita**: lost property.
+  - **Operation of Law:**
+    - E.g., accession, acquisitive prescription, statutory provisions (e.g., Expropriation Act 63 of 1975, forfeiture).
+
+---
+
+## CO-OWNERSHIP
+
+### 1. Introduction
+- Analyze co-ownership, distinguishing between free and bound co-ownership.
+- Discuss rights, duties, and remedies for co-owners.
+
+### 2. Definition
+- Co-ownership: Situation where two or more persons own the same thing in undivided shares.
+- Forms:
+  - **Free Co-ownership**: Only relationship between co-owners.
+  - **Bound Co-ownership**: Underlying legal relationship (e.g., marriage in community of property).
+
+### 2.1 Elements
+#### 2.1.1 Ownership
+- No separate ownership of the whole thing; ownership is a joint, undivided interest among co-owners.
+
+### 3. Rights and Duties Regarding Thing
+#### 3.1 Whole Thing
+- Rights include:
+  - **Alienation or Burdening**
+  - **Use**
+  - **Profit, Income, and Fruits**
+  - **Maintenance and Expenses**
+#### 3.2 Undivided Share
+- Co-owners have rights over their respective shares.
+#### 3.3 Exclusive Use of Part of Thing
+- Agreements may allow exclusive usage of sections.
+
+### 4. Division of Thing
+#### 4.1 Agreement to Divide Without Termination of Co-Ownership
+- Co-owners can agree to divide usage without ending co-ownership.
+#### 4.2 Agreement to Partition and Termination of Co-Ownership
+- Formal agreements to partition ownership and terminate.
+
+### 5. Remedies
+#### 5.1 Damages or Division of Profit
+- Remedies available include claims for damages or division of profits.
+#### 5.2 Interdict
+- Co-owners may seek interdicts against violations.
+#### 5.3 Subdivision
+- Options for subdividing the property.
+
+---
+
+This structured summary preserves the original layout and critical information necessary for focused study of ownership and co-ownership concepts.
+----- END OF FILE -----
+# Study Notes
+
+## 2.1.2 Two or more persons
+- **Co-ownership Types:**
+  - Mixing of solids and mingling of fluids
+  - Joint heirs, legatees, donees, purchasers
+  - Business partnerships and unincorporated associations
+  - Marriage in community of property leads to joint estate ownership.
+
+## 2.1.3 One thing in undivided shares
+- **Ownership Division:**
+  - A co-owner does not own the whole or a specific part; ownership is conceptually divided.
+  - Examples of co-ownership include various properties (e.g., fountain pen, house).
+  - Shares can be equal or unequal (e.g., Q: ½, R: ½ vs. Q: ¼, R: ¾).
+
+## 3 RIGHTS AND DUTIES REGARDING THING
+
+### 3.1 Whole thing
+#### 3.1.1 Alienation or burdening
+- **Consent Requirement:**
+  - All co-owners must consent to alienate or burden property (e.g., transfer of ownership).
+  - **Case Law:** *Bonheur 76 General Trading (Pty) Ltd v Caribbean Estates (Pty) Ltd* (2010 (4) SA 298) highlights this principle.
+
+#### 3.1.2 Use
+- **Rights to Use:**
+  - Co-owners may use property reasonably, proportional to their shares (case: *Erasmus v Afrikander Proprietary Mines Ltd* 1976).
+
+#### 3.1.3 Profit, income, and fruits
+- **Entitlement:**
+  - Co-owners entitled to profits/income per share; agreements may alter this.
+
+#### 3.1.4 Maintenance and expenses
+- **Cost Sharing:**
+  - Co-owners must share necessary maintenance costs in proportion to shares.
+
+### 3.2 Undivided share
+- **Free Co-owner Rights:**
+  - Independent arrangements on undivided share (alienation, mortgage).
+  - Reasonable use of property allowed, but not exclusive appropriation without consent.
+  
+### 3.3 Exclusive use of part of the thing
+- **Use Rights:**
+  - Exclusive use requires cooperation from all co-owners for action regarding a specific property portion.
+
+## 4 DIVISION OF THING
+
+### 4.1 Agreement to divide without termination of co-ownership
+- Co-owners may agree to physical division without terminating co-ownership; binding only to parties involved.
+
+### 4.2 Agreement to divide and terminate co-ownership
+- **Formal Termination:**
+  - Partition transfers required to terminate co-ownership; informal agreements are binding inter partes.
+
+## 5 REMEDIES
+- Remedies for disputes among co-owners:
+  
+### 5.1 Damages or division of profit
+- Claim damages if unreasonable use by co-owner occurs.
+
+### 5.2 Interdict
+- Use interdict to prohibit inappropriate property use (case: *Pretorius v Nefdt and Glas 1908 TS 854*).
+
+### 5.3 Subdivision
+- Attempt agreement before court action; use *actio communi dividundo* if agreement fails.
+- Court discretion for property division includes physical division or sale and income distribution if indivisible. 
+
+### 5.4 Claims
+- Claims under *actio communi dividundo* may include both division and profit adjustment. 
+
+## Diagram References
+- Illustrations of co-ownership, rights, and duties may be referenced throughout sections for clarity on ownership dynamics.
+----- END OF FILE -----
+# S T U D Y U N I T 8  
+## POSSESSION AND HOLDERSHIP  
+
+### 1. Introduction  
+- Concept of "possession" is complex, comprising a physical element and a mental state.  
+- Broad sense includes possession (unlawful) and holdership (lawful/unlawful).  
+- Possession = physical control (corpus) + intention of owner (animus).  
+- Lawful possession occurs when ownership exists; unlawful possession exemplified by a thief.  
+
+### 1.1 Physical element (corpus)  
+- Refers to physical/control by the possessor or holder. 
+- Legal criteria determine the significance of physical control; circumstances and nature of the relationship are considered.  
+
+#### 1.1.1 Direct physical control  
+- Actual control judged by physical criteria; e.g., holding a pen or sitting on a chair (Scholtz v Faifer 1910 TS 243; Nienaber v Stuckey 1946 AD 1049).  
+
+#### 1.1.2 Indirect physical control  
+- Situations where direct control isn’t feasible; e.g., owning a chair while at work (Welgemoed v Coetzer 1946 TPD 701).  
+
+#### 1.1.3 Acquisition of control  
+- Stricter criteria apply for establishing physical control for ownership transfer versus maintenance of control.  
+- Buyer must gain direct control for effective delivery, then may retain through indirect means (Nienaber v Stuckey 1946 AD 1049; R v Mafohla 1958 (2) SA 373).  
+
+#### 1.1.4 Personal exercise of control  
+- Control can be exercised by one for another (as a representative); distinction crucial between control for another vs personal interests (Strydom v De Lange 1970 (2) SA 6).  
+
+#### 1.1.5 Continuous control  
+- Continuous control not always required; ability to regain control is significant (Scholtz v Faifer 1910 TS 243; Nienaber v Stuckey 1946 AD 1049).  
+- Nature of object and use matter in determining continuous control (Nienaber v Stuckey; Scholtz v Faifer).  
+
+### 2. Possession – fact or right?  
+- Distinguishing the nature of possession as either a factual state or a legal entitlement.  
+
+### 3. Ius possessionis and ius possidendi  
+- **Ius possessionis**: Right to possess (factual).  
+- **Ius possidendi**: Right to hold (legal).  
+
+### 4. Possession and presumption of ownership  
+- Importance of possession in establishing presumptions regarding ownership rights.  
+----- END OF FILE -----
+# Law Study Notes
+
+## 1.1.6 Degree of contact
+- Greater contact required for movable things than immovables.
+- **Legislation/Case Law**: R v Mafohla 1958 (2) SA 373 (SR); Reck v Mills 1990 (1) SA 751 (A).
+
+## 1.2 Mental element (animus)
+- Intention (animus) essential for establishing legal relationship.
+- Requirements:
+  - Capacity to form legal intention.
+  - Awareness of relationship with the thing.
+  - Formation and maintenance of intention regarding control.
+- Forms of intention discussed:
+  - **Animus domini** (intention of ownership).
+  - **Animus ex re commodum acquirendi** (intention to derive benefit).
+
+### 1.2.1 Intention of owner (animus domini)
+- Control over a thing with intentions of an owner; signifies ownership assumption.
+- Non-owners can possess animus domini under certain conditions.
+- Groups:
+  1. **Owners**: Legal owners perceive and assert ownership.
+  2. **Bona fide possessors**: Incorrectly assume ownership (opinio domini); unaware of true ownership status. Examples include:
+     - Purchaser from a non-owner.
+     - Accidental possessor.
+     - Neighbor encroachment.
+  3. **Mala fide possessors**: Aware of non-ownership but assert control illegitimately; typical example: a thief. They recognize ownership exclusion.
+
+### 1.2.2 Intention to derive a benefit (animus ex re commodum acquirendi)
+- Control with the intent to benefit without ownership assumption; recognizes true ownership.
+- Legal grounds for control (e.g., permissions, contracts).
+- Groups:
+  1. **Lawful holders**: Control with owner’s consent; examples include:
+     - Tenants, borrowers, credit purchasers, pledgees.
+  2. **Unlawful holders**:
+     - **Bona fide unlawful holders**: Unaware of illegitimacy (e.g., invalid lease).
+     - **Mala fide unlawful holders**: Aware of the absence of owner’s consent; e.g., tenant after lease expiration.
+
+## 2 POSSESSION – FACT OR RIGHT?
+- Debate whether possession is a fact or a real right.
+- Roman-Dutch law: Possession recognized via actions/possession interdicts.
+- Modern law: Provides protection, even to mala fide possessors (spoliation remedy).
+
+## 3 IUS POSSESSIONIS AND IUS POSSIDENDI
+- **Ius possessionis**: Right of possession, recognized legally (includes thieves).
+- **Ius possidendi**: Legally recognized right to possess; not applicable to thieves. 
+- Example: Buyer before delivery has ius possidendi; lessees have ius possidendi.
+
+## 4 POSSESSION AND PRESUMPTION OF OWNERSHIP
+- Assertion of possession (ius possessionis) does not assure ius possidendi.
+- Burden on third parties to prove ownership.
+- Rebuttable presumption: Controller presumed owner unless contrary evidence provided.
+
+### Diagram Reference
+- **Diagram 10**: Illustrates possession and holdership dynamics. 
+
+## Summary
+- Possession involves a physical and mental element; distinctions made between possessors and holders based on intention (animus).
+- Owners, bona fide, and mala fide possessors play significant roles in establishing legal control and relationships with property.
+- Legal frameworks provide protections for possessors while distinguishing them from holders based on their intentions and recognition of ownership. 
+
+*Page numbers and specifics to legal cases, statutes, and illustrations preserved within the context provided.*
+----- END OF FILE -----
+# STUDY UNIT 9: POSSESSION AND HOLDERSHIP
+
+## 1. Introduction
+- Discusses remedies to protect possession and holdership.
+- Distinction between different remedies is crucial.
+- Types of remedies:
+  - Declaratory order
+  - Interdict
+  - Spoliation remedy
+  - Possessory action
+  - Condictio furtiva
+  - Aquilian action
+  - Enrichment action
+
+## 2. Remedies
+
+### 2.1 Declaratory Order
+- Possessor or holder may apply for a declaratory order in disputes (e.g., two street vendors, **Padayache v Veerapan 1979 (1) SA 992 (W)**).
+
+### 2.2 Interdict
+- An interdict serves to prevent a party from acting in a way that infringes upon another's rights.
+
+### 2.3 Spoliation Remedy
+#### 2.3.1 Purpose
+- Protects against unlawful dispossession of possession.
+
+#### 2.3.2 Definition
+- A remedy for restoring possession to an unlawfully dispossessed person.
+
+#### 2.3.3 Requirements
+- Proof of possession and unlawful dispossession.
+
+#### 2.3.4 Defences Against Spoliation Remedy
+- Possible defenses that a defendant can raise in a spoliation claim.
+
+### 2.4 Possessory Action
+- Legal action initiated to protect possession.
+
+### 2.5 Condictio Furtiva
+- Action aimed at the recovery of stolen property.
+
+### 2.6 Aquilian Action
+- Delictual action for damages arising from wrongful acts.
+
+### 2.7 Enrichment Action
+- Action for recovery based on unjust enrichment principles.
+
+---
+
+## CASE STUDY EXAMPLE
+
+### S v Brick
+- **Legal Question**: What does "possession" mean in the statute?
+- **Ratio Decidendi**: 
+  - Definition causes difficulty; intent of the legislature matters.
+  - A person "has in his possession" indecent photographic matter penalized when controlled, without proving intention to benefit.
+  
+### Application
+- The accused was guilty, but intent to report mitigated penalty.
+
+### Important notes:
+- "Possession" is interpreted as control under the Act. 
+
+## Factual Context
+- Co-ownership of farm implements by X and Y.
+- Credited purchase from C with reserved ownership.
+- Involves theft (plough by T) and temporary borrowing (tractor by Z).
+
+### Control Analysis
+- **Harvester**: X and Y through farm workers (lawful holders).
+- **Stolen Plough**: T (mala fide unlawful possessor).
+- **Borrowed Tractor**: Z (lawful holder).
+
+### Intention Analysis
+- X and Y: Benefit from farm implements.
+- Farm workers: Control on behalf of X and Y.
+- T: Owner's intention.
+- Z: Benefit from borrowed equipment.
+
+### Real Relationships
+- C: Owner of implements due to reserved ownership.
+- Z: Lawful holder of tractor.
+- T: Thief and mala fide possessor of plough.
+
+---
+
+## REMARKS
+- Understanding possession encompasses control and intentions, crucial for legal interpretations concerning ownership and rights. 
+
+### Diagrams 
+- Refer to related diagrams illustrating possession and control dynamics where applicable.
+----- END OF FILE -----
+# Study Notes
+
+## Chapter 2: Remedies in Property Law
+
+### 2.1 Interdict
+- **Purpose**: Protects an applicant’s right to control over a thing from disturbance.
+- **Nature**: Summary court order to prevent ongoing or imminent prejudice.
+- **Refer to**: SU 6, para 2.2 for requirements of interdict.
+
+### 2.2 Spoliation Remedy
+
+#### 2.2.1 Purpose
+- Aims to protect the legal order; prevents self-help leading to breaches of peace.
+- Summarily undoes consequences of self-help without investigating parties' rights.
+  
+#### 2.2.2 Definition
+- Summary remedy restoring control without assessing original rights of control.
+
+#### 2.2.3 Requirements
+1. Applicant (spoliatus) must have had peaceful and undisturbed control.
+2. Respondent (spoliator) must have disturbed control unlawfully.
+
+- Focus on factual control, not parties' rights.
+- Courts emphasize immediate control restoration without endorsement of spoliatus's prior control.
+
+#### 2.2.4 Case References
+- **Key Cases**: *Nino Bonino v De Lange 1906 TS 120*, *Yeko v Qana 1973 (4) SA 735 (A)*, *Telkom SA Ltd v Xsinet (Pty) Ltd 2003 (5) SA 309 (SCA)*.
+
+### 2.3 Defences Against Spoliation Remedy
+1. Applicant lacked peaceful and undisturbed control.
+2. Respondent did not disturb control.
+3. Disturbance was lawful (e.g., court order).
+4. Applicant delayed application excessively (over 1 year).
+5. Impossibility to restore control (cases: *Fredericks v Stellenbosch Divisional Council*, *Ierse Trog CC v Sulra Trading CC*, *Rikhotso v Northcliff Ceramics (Pty) Ltd*).
+
+### 2.4 Notable Cases
+- **Rikhotso v Northcliff Ceramics**: Demolition without consent, spoliation order sought.
+- **Ierse Trog CC v Sulra Trading CC**: Urgent application for restoration of storeroom.
+
+### Diagram Reference
+- **Diagram 11**: Spoliation Process
+  - Spoliatus: peaceful control, obtains spoliation order.
+  - Spoliator: unlawfully disturbs control.
+
+### Learning Points
+- Spoliation remedy prioritizes immediate restoration over legal debates.
+- Courts assert spoliation offers no validation of control legality but condemns unlawful actions.
+- Specific defences exist against spoliation claims, focusing on control status and lawful basis for disturbance.
+----- END OF FILE -----
+# Law Study Notes
+
+## 2.4 Possessory Action
+- **Applicant's Proof Requirements**
+  - Stronger right to control the implements (ownership or lawful interest).
+  - Respondent’s prior control over the implements at destruction.
+  
+- **Example Context**
+  - S leases farm equipment; X (father) destroys S’s rented equipment.
+  - Remedy: Possessory action to reclaim control or seek damages.
+
+## 2.5 Condictio Furtiva
+- **Purpose:** Action for recovery against the thief or representative post-death.
+- **Applicability:** Can be initiated by an owner or lawful interest holder (Clifford v Farinha).
+  
+- **Requirements to Succeed**
+  1. Proof of ownership or lawful interest from date of theft to action date.
+  2. Evidence of theft or deceitful removal.
+  3. If against an heir, proof of status as heir of the thief.
+
+## 2.6 Aquilian Action
+- **Definition:** Delictual remedy to recover damages from unlawful impairment of ownership.
+- **Eligibility:** Primarily for owners, but non-owners with patrimonial interest may also claim.
+  
+- **Extension of Remedy**
+  - Available to bona fide possessors and lawful holders (Smit v Saipem).
+
+- **Example Context**
+  - Unauthorized use of S’s equipment causes irreparable damage.
+  
+- **Requirements to Succeed**
+  - Demonstrated actual loss resulting from another's culpable damage.
+
+---
+
+## 2.7 Enrichment Action
+- **Basis:** Recovery for unjustified enrichment when one improves another's property without legal cause.
+  
+- **Types of Improvements**
+  1. **Essential Expenses (impensae necessariae):** Necessary for preservation.
+  2. **Useful Expenses (impensae utiles):** Increase market value.
+  3. **Luxurious Expenses (impensae voluptuariae):** No legal recovery availed.
+
+- **Eligibility:** For possessors and holders; not applicable to luxurious expenses.
+- **Recovery Basis:** Lesser of owner's enrichment or plaintiff's impoverishment; includes possible removal of improvements (ius tollendi).
+
+## Termination of Possession and Holdership
+- **Methods of Termination**
+  1. Death of possessor or holder.
+  2. Destruction of the thing.
+  3. Termination due to:
+     - Loss of physical control.
+     - Loss of mental element (intention to control/benefit). 
+
+---
+
+This summary preserves critical legal concepts and principles while condensing the original text significantly.
+----- END OF FILE -----
+# Study Notes
+
+## LIMITLESS REAL RIGHTS
+
+### 1. Introduction (Page 175)
+- Discussion on limited real rights: servitudes and restrictive conditions.
+- Distinction between **vested rights** and **definitions** of servitudes.
+- Classification:
+  - **Praedial Servitudes**: Rights of use related to land.
+  - **Personal Servitudes**: Rights attached to individuals.
+- Topics Covered:
+  - Termination of servitudes.
+  - Relationship between the servitude holder and owner of the burdened property.
+  - Remedies and public servitudes.
+  - Restrictive conditions and remedies for noncompliance.
+
+### 2. Types of Limited Real Rights
+- **Real Rights**: Ownership versus limited real rights over another's property.
+- **Categories**:
+  - **Servitudes**
+    - Personal
+    - Land/Praedial
+  - **Restrictive Conditions**
+  - **Real Security Rights**
+    - Pledge
+    - Mortgage
+    - Liens
+    - Judicial pledges
+  - **Diagram 12**: Limited real rights.
+
+### 3. Legal Relationships of Parties (Example)
+- Identified Real Rights:
+  - **X and Y**: Co-ownership of the farm (real right).
+  - **C**: Reserved ownership (secured debt, forms of real security).
+  - **L**: Mortgage over farm (limited real right).
+  - **M**: Right of habitation (personal servitude).
+  - **S**: Right of way (personal or land servitude).
+
+### 4. Termination of Possession and Holdership
+- **Chief Methods of Termination**:
+  - Sale or transfer of ownership.
+  - Destruction of the object.
+  - Abandonment or relinquishment of rights.
+
+### 5. Legal Relationship Termination (Page 173)
+- Indicators when possession or holdership is legally terminated include:
+  - Legal act (e.g., deed of sale).
+  - Change of circumstances (e.g., destruction of property).
+  
+### 6. Specific Scenarios of Possession and Holdership Termination (Page 176-177)
+- Example Case: X and Y's ownership, C's reserved ownership, L's mortgage security, M’s habitation right, S's servitude.
+  - **X and Y**: Co-ownership identified as a real right.
+  - **C**: Ownership reserved until full payment (secured debt).
+  - **L**: Mortgagor with a limited real right over farm.
+  - **M**: Right of habitation classified under personal servitude.
+  - **S**: Servitude of way categorized under land/praedial servitude.
+
+### Summary of Key Concepts
+- Limited real rights are specific rights related to the property of others.
+- Enforcement and remedies vary based on the type and nature of the right.
+- Understanding how these rights interact is crucial for legal ownership and obligations.
+
+### References
+- **Relevant Legislation**: Specific laws governing possession, servitudes, and mortgage rights should be reviewed.
+- **Key Cases**: Important for case law illustrating principles above.
+
+### Diagrams
+- **Diagram 12**: Visual representation of limited real rights; useful for study purposes.
+
+(Note: Detailed examples and self-assessment questions have been excluded as per instructions.)
+----- END OF FILE -----
+# SERVITUDES
+
+## CONTENTS
+
+1. **Introduction**  
+2. **Definition**  
+3. **Establishment**  
+   - 3.1 Source  
+   - 3.2 Vesting  
+   - 3.3 Doctrine of notice  
+4. **Nature and classification**  
+   - 4.1 Significant differences between land and personal servitudes  
+   - 4.2 Significant common characteristics of land and personal servitudes  
+5. **Land (praedial) servitudes**  
+   - 5.1 Definition  
+   - 5.2 Characteristics  
+     - 5.2.1 General  
+     - 5.2.2 Requirements for validity  
+       - 5.2.2.1 Two or more properties  
+       - 5.2.2.2 Benefit (utilitas)  
+       - 5.2.2.3 Proximity (vicinitas)  
+       - 5.2.2.4 Permanency (perpetua causa)  
+       - 5.2.2.5 Passivity (servitus in faciendo non potest)  
+       - 5.2.2.6 Indivisibility  
+     - 5.2.3 Classification  
+       - 5.2.3.1 Rural servitudes  
+       - 5.2.3.2 Urban servitudes  
+6. **Personal servitudes**  
+   - 6.1 Definition  
+   - 6.2 Specific personal servitudes  
+     - 6.2.1 Usufruct  
+       - 6.2.1.1 Introduction  
+       - 6.2.1.2 Rights of usufructuary  
+       - 6.2.1.3 Duties of usufructuary  
+     - 6.2.2 Use (usus)  
+     - 6.2.3 Dwelling (habitatio)  
+7. **Termination of servitudes**  
+8. **Relationship between servitude holder and owner of burdened thing**  
+9. **Remedies**  
+10. **Public servitudes**  
+
+---
+
+## 1. INTRODUCTION  
+- Limited real right of servitude established through registration.  
+- Prior to registration, a servitude holder holds a personal right against the owner.  
+- Doctrine of notice applies to unregistered servitude agreements with aware third parties.  
+
+---
+
+## 2. DEFINITION  
+- Servitude: A limited real right to another's property.  
+- Entitlements may be based on land ownership (land servitude) or personal capacity (personal servitude).  
+- Term "land servitude" denotes praedial/real servitude to avoid conflation with personal servitudes.
+
+---
+
+## 3. ESTABLISHMENT  
+### 3.1 Source  
+- Arises from:  
+  - Agreement  
+  - Legislation  
+  - Court order  
+  - Prescription  
+- Only property owners may grant servitudes; co-owners and bonded property require consensus.  
+- Personal rights exist until registration.  
+
+### 3.2 Vesting  
+- Movable servitude vests upon delivery; immovable upon registration (Janse Van Rensburg v Koekemoer 2011 (1) SA 118 (GSJ)).  
+- Servitudes may be established via:  
+  - State grant reservations  
+  - Deed of transfer reservations  
+  - Notarial deeds  
+
+### 3.3 Doctrine of notice  
+- Non-registered servitude agreements create personal rights, enforceable against third parties with knowledge.  
+- Successors (gifts/wills/auctions) bound to respect servitude agreements regardless of prior knowledge (Grant v Stonestreet 1968 (4) SA 1 (A); Wahloo Sand Bpk v Trustees, Hambly Parker Trust 2002 (2) SA 776 (SCA)).
+
+---
+
+## 4. NATURE AND CLASSIFICATION  
+### 4.1 Significant differences between land and personal servitudes  
+### 4.2 Significant common characteristics of land and personal servitudes  
+
+---
+
+## 5. LAND (PRAEDIAL) SERVITUDES  
+### 5.1 Definition  
+### 5.2 Characteristics  
+#### 5.2.1 General  
+#### 5.2.2 Requirements for validity  
+- **5.2.2.1 Two or more properties**  
+- **5.2.2.2 Benefit (utilitas)**  
+- **5.2.2.3 Proximity (vicinitas)**  
+- **5.2.2.4 Permanency (perpetua causa)**  
+- **5.2.2.5 Passivity (servitus in faciendo non potest)**  
+- **5.2.2.6 Indivisibility**  
+#### 5.2.3 Classification  
+- **5.2.3.1 Rural servitudes**  
+- **5.2.3.2 Urban servitudes**  
+
+---
+
+## 6. PERSONAL SERVITUDES  
+### 6.1 Definition  
+### 6.2 Specific personal servitudes  
+#### 6.2.1 Usufruct  
+- **6.2.1.1 Introduction**  
+- **6.2.1.2 Rights of usufructuary**  
+- **6.2.1.3 Duties of usufructuary**  
+#### 6.2.2 Use (usus)  
+#### 6.2.3 Dwelling (habitatio)  
+
+---
+
+## 7. TERMINATION OF SERVITUDES  
+---
+
+## 8. RELATIONSHIP BETWEEN SERVITUDE HOLDER AND OWNER OF BURDENED THING  
+---
+
+## 9. REMEDIES  
+---
+
+## 10. PUBLIC SERVITUDES  
+---
+
+- Diagram references illustrate the concepts of servitude agreements, rights, actions, and remedies.
+----- END OF FILE -----
+**2. Q and R's Agreement with S Regarding Road Use**
+
+- *Personal Right*: S has a personal right (creditor’s right) under the lease contract.
+- *Force of Use*: S cannot compel Q to allow road use as a servitude holder.
+- *Court Order*: S may seek specific performance but courts hesitant to enforce.
+- *Remedy*: Likely outcome is a claim for damages; burden lies on S to prove damage.
+
+---
+
+**3. Rights upon S's Death**
+
+- **(a)** *S's Wife's Use of the Road*:
+  - No right to use the road; personal right existing only to S.
+  
+- **(b)** *Registered Agreement*:
+  - With registration, S's wife still cannot use the road; personal servitude ceases with S's death.
+
+---
+
+**4. Servitude Registration and Succession**
+
+- **(a)** *Wife's Rights Without Registration*:
+  - No rights; servitude not registered; no inheritance of contractual rights.
+  
+- **(b)** *Registered Servitude Upon S's Death*:
+  - If S’s wife succeeds S as owner of Highlands, she can exercise servitude rights.
+  
+- **(c)** *Z's Use Before Registration*:
+  - Z needs prior cession of the personal right to enforce servitude registration.
+  
+- **(d)** *Z’s Rights After Registration*:
+  - Z can exercise rights as owner of Highlands; same as S’s wife.
+  
+- **(e)** *Post-Sale Prevention of Use*:
+  - S can claim use if Z was aware of agreement; court may require enforcement based on the doctrine of notice.
+
+---
+
+**5. Doctrine of Notice in Unregistered Servitudes**
+
+- *Real Rights*: S did not obtain a real right; servitude requires registration.
+- *Case Reference*: Grant v Stonestreet doctrine obliges buyers knowing of servitude to honor it.
+- *Intent*: Attempted repudiation by the buyer deemed mala fide; court's refusal under fraudulent pretense.
+- *Burden of Proof*: S must prove buyer’s knowledge of the servitude agreement.
+
+---
+
+**6. Doctrine of Notice Overview**
+
+- *Definition*: Affects unregistered servitudes; protecting rights despite non-registration.
+- *Relevance*: Illustrated through Grant v Stonestreet; emphasizes buyer's duty to respect existing agreements.
+
+---
+
+**4. Nature and Classification of Servitudes**
+
+- *Classification*: Two types – personal servitudes and land servitudes.
+- *Characteristics*: 
+    - All servitudes are limited real rights.
+    - Personal servitudes have limited duration; land servitudes may last indefinitely.
+
+---
+
+**5. Land (Praedial) Servitudes**
+
+- **5.1 Definition**:
+  - Servitude grants defined entitlement of use over another’s land, consisting of dominant and servient tenements.
+
+- **5.2 Characteristics**:
+    - *General*: No closed number of land servitudes allowed.
+  
+  **5.2.2 Requirements for Validity**:
+  - *Two Properties*: Must be different owners; personal servitudes possible if not.
+  - *Benefit*: Must enhance dominant tenement.
+  - *Proximity*: Tenements must facilitate effective servitude use.
+  - *Permanency*: Servitude needs ongoing usability.
+  - *Passivity*: Owner of servient tenement cannot be compelled to act.
+  - *Indivisibility*: Relates to entire dominant tenement, not restricted.
+
+- **5.2.3 Classification**:
+  - *Rural vs. Urban*: Purpose-driven classification; rural typically relates to agriculture and urban to residential/commercial but differences less significant over time.
+----- END OF FILE -----
+# 5.2.3 Servitudes
+
+## 5.2.3.1 Rural servitudes
+- **Forms**:
+  - Rights of way 
+  - Rights to water 
+  - Rights to grazing 
+  - Outspan rights 
+- **Way of Necessity**:
+  - Existing on land without public road access.
+  - **Types**: 
+    - Temporary (no compensation).
+    - Permanent (compensation paid).
+  - Acquired via agreement & registration or court order.
+
+### Court Guidelines (Van Rensburg v Coetzee 1979 (4) SA 655 (A))
+- *Necessary particulars*:
+  1. Claim must specify the necessity (e.g., lack of access).
+  2. Nature of the necessity (e.g., for farming).
+  3. Terrain suitability for route.
+  4. Recommended route.
+  5. Width of the road.
+  6. Reasonable compensation amount.
+
+## 5.2.3.2 Urban servitudes
+- **Forms**:
+  - Light and view (servitus luminis immitendi; servitus altius non tollendi).
+  - Rain and drainage (servitus stillicidii avertendi; servitus fluminis recipiendi).
+  - Walls and structures (servitus oneris ferendi; servitus tigni immitendi).
+
+# 6 PERSONAL SERVITUDES
+
+## 6.1 Definition
+- Limited real right providing specific enjoyments of another’s property.
+- **Duration**: Lifelong or maximum of 100 years for legal persons.
+- Not transferable (Durban City Council v Woodhaven Ltd 1987 (3) SA 555 (A)).
+- Types: usufruct, use, dwelling, and irregular servitudes.
+
+### Diagram 15
+- **Personal Servitude**: Registered in favor of a specific person.
+- **Land Servitude**: Registered in favor of a dominant tenement.
+
+## 6.2 Specific Personal Servitudes
+
+### 6.2.1 Usufruct
+#### 6.2.1.1 Introduction
+- Right to use and reap fruits of another’s property (salva rei substantia).
+- Commonly reserved in wills or during land transfers.
+
+#### 6.2.1.2 Rights of Usufructuary
+- Rights to use, control, and enjoy the property and its fruits:
+  - **Natural fruits**: Crops, livestock produce.
+  - **Civil fruits**: Interest, rent.
+
+#### 6.2.1.3 Duties of Usufructuary
+- Use property reasonably and preserve its condition.
+- **Security Requirement**: Must provide security unless exceptions apply (e.g., parent-child transfers).
+- Responsible for ordinary maintenance; owner covers extraordinary expenses.
+
+### 6.2.2 Use (Usus)
+- Limited right to use another’s property for personal and household needs.
+- Cannot alienate the property or rights.
+
+### 6.2.3 Dwelling (Habitatio)
+- Limited right to occupy another’s house.
+- Retains the character of the dwelling.
+----- END OF FILE -----
+# STUDY NOTES
+
+## 1. TERMINATION OF SERVITUDES
+
+- **Termination Conditions:**
+  - Expiry of established period or fulfilment of resolutive condition (e.g., personal servitude by death of holder).
+  - **Kidson v Jimspeed Enterprises CC**: Right of habitation survives destruction of building; right "revives" with repairs.
+  
+- **Methods of Termination:**
+  - Agreement
+  - Prescription
+  - Expropriation
+  - Renunciation (abandonment)
+  - Merger
+  - Impossibility of exercising the right due to changes in dominant/servient tenement.
+
+---
+
+## 2. RELATIONSHIP BETWEEN SERVITUDE HOLDER AND OWNER OF BURDENED THING
+
+- **Rights of Servitude Holder:**
+  - Precedence over owner concerning exercise of servitude.
+  - Acts necessary for exercising servitude must be performed reasonably (civiliter modo).
+
+- **Owner of Servient Tenement:**
+  - Entitled to exercise ownership rights, provided they do not conflict with servitude holder's rights (Brink v Van Niekerk).
+
+---
+
+## 3. REMEDIES
+
+- **Available Remedies to Servitude Holders:**
+  1. **Actio Confessoria**: Prohibits limitation or impediment to reasonable exercise of servitude; allows for compensation claims.
+  2. **Actio Negatoria**: Action against servitude holder exceeding rights or against wrongful claims by others.
+  3. **Interdict**: See Willoughby’s Consolidated Co Ltd v Copthall Stores Ltd for precedent.
+  4. **Declaratory Order**: Establishes rights of parties.
+  5. **Spoliation Order**: Restores control disturbed unlawfully.
+  6. **Aquilian Action**: Available for damages caused by unlawful disturbances.
+
+---
+
+## 4. PUBLIC SERVITUDES
+
+- **Characteristics:**
+  - Established for public benefit (e.g., right of outspan, commonage).
+  - Not classified as land servitude (no dominant tenement) or personal servitude.
+  - Not subject to prescription or lapse through non-use.
+
+---
+
+## 5. RESTRICTIVE CONDITIONS
+
+### 1. INTRODUCTION
+
+- **Definition**: Limitations on ownership, including conditions of title and town planning conditions. Can be:
+  - Registered against title deeds.
+  - Imposed by statute or contract.
+  - Aimed at land-use planning.
+  
+- **Focus**: Conditions of title as limited real rights in title deeds imposed via legislation or contract.
+
+### 2. REMEDIES
+
+- **Available Remedies for Noncompliance**:
+  - Interdict
+  - Aquilian (delictual) claim for damages
+
+- **Methods for Removal/Modification**:
+  - Court order
+  - Statutory provisions (e.g., Spatial Planning and Land Use Management Act 16 of 2013).
+----- END OF FILE -----
+### S T U D Y U N I T 11  
+### REAL SECURITY RIGHTS  
+#### CONVENTIONAL MORTGAGES  
+
+**CONTENTS**  
+1. Introduction  
+2. Pledge  
+3. Mortgage  
+
+---
+
+### 1. Introduction  
+- Real security rights = limited real rights; includes pledge, mortgage, security through claims, tacit hypothecs, liens, judicial pledge.  
+- **Real security rights vs. Personal security**:  
+  - Real security: limited real rights over property (iura in re aliena).  
+  - Personal security: surety binds personally to creditor.  
+  - Real security holders = limited right over security object; personal security holders = personal rights against surety.  
+
+### 1.1 Real Security Rights and Personal Security  
+- Real security replaces the need for suretyship in credit security.  
+- Distinction between creditor's rights in personal security vs. real security: property law focuses on real security rights.
+
+### 1.2 Real Security Rights  
+#### 1.2.1 Limited Real Rights  
+- Creditor obtains limited real right over a thing (security object) as security for principal debt.  
+
+#### 1.2.2 Conventional and Tacit Real Security Rights  
+- **Conventional**: Based on agreement; requires registration.  
+- **Tacit**: Arises by law, without agreement; termed legal mortgages.  
+
+#### 1.2.3 Preferential Claim  
+- Strengthens creditor’s position amidst insolvency (concursus creditorum).  
+- Preferential claim allows creditor to satisfy debt from security before other creditors.  
+
+#### 1.2.4 Legal Acts Involved in Creation of Real Security Right  
+- Typically involves:  
+  - Loan contract: establishes principal debt.  
+  - Security contract: stipulates nature of the security (e.g., pledge or mortgage).  
+  - Constitution (vesting) of limited real right: may involve physical delivery with intent to pledge.  
+- Reference: Millman NO v Twiggs 1995 (3) SA 674 (A).
+
+#### 1.2.5 Accessory Nature  
+- Real security rights cannot exist without a principal debt.   
+- The discharge of principal debt extinguishes security right (ipso iure).  
+- Reference: Thienhaus v Metje & Ziegler Ltd 1965 (3) SA 25 (A); Kilburn v Estate Kilburn 1931 AD 501 506.  
+
+#### 1.2.6 Security Object  
+- Movable or immovable things may serve as security.  
+- Indivisible; secures entire claim (principal debt).  
+
+#### 1.2.7 Different Meanings of ‘‘Mortgage’’  
+- Mortgage refers generically to real security rights (pledge, mortgage, hypothec).  
+- Mortgage bond: document embodying terms of mortgage.  
+
+---
+
+### 2. Pledge  
+#### 2.1 Definition  
+- Pledge involves physical delivery of property as security.  
+
+#### 2.2 Constitution/Vesting  
+- Requires an agreement and physical delivery or transfer of possession.  
+
+#### 2.3 Clauses in Pledge Agreement  
+- **Summary Execution**: Allows creditor to enforce the pledge without court order (parate executie).  
+- **Retention Clause**: Allows pledgee to keep the thing if the pledgor defaults (pactum commissorium).  
+- **Purchase Clause**: Pledgee may buy the pledged item at a specified price.  
+- **Redemption Clause**: Pledge cannot be redeemed under certain conditions.  
+- **Pactum Antichresis**: Pledge for utility or profits derived from the property.  
+
+#### 2.4 Rights and Duties of Parties  
+- **Pledgee**: Rights include holding the property until debt satisfaction; duties include care of the property.  
+- **Pledgor**: Rights include reclaiming property upon satisfaction of the debt; obligations to fulfill terms of the pledge.  
+
+#### 2.5 Extinction of Pledge  
+- Pledge extinguished upon repayment of principal debt or mutual agreement.
+
+---
+
+### 3. Mortgage  
+#### 3.1 Definition  
+- Mortgage is a real security right tied to immovable property, enabling the creditor to enforce rights against the property.  
+
+#### 3.2 Kinds of Mortgages  
+- Distinction between various mortgage types (e.g., conventional, statutory).  
+
+#### 3.3 Kinds of Conventional or Express Mortgages  
+- **Notarial Bond**: Legal instrument evidencing mortgage; specific to movable property under the Security by Means of Movable Property Act 57 of 1993.  
+
+---
+----- END OF FILE -----
+# Study Notes
+
+## 3.3 Security by Means of Movable Property
+### 3.3.1.2.1 Position before enactment of Security by Means of Movable Property Act 57 of 1993
+- Limited security options for movable assets.
+  
+### 3.3.1.2.2 Position after enactment of Security by Means of Movable Property Act 57 of 1993
+- Enhanced legal framework for movable property security.
+- Recognition of various security interests.
+
+### 3.3.2 Special mortgage over immovable things
+- Creation of special rights for security over immovable properties.
+
+### 3.3.3 Kustingbrief
+- A document indicating specific rights concerning secured property arrangement.
+
+### 3.3.4 Covering bond
+- A bond that covers multiple properties or future debt.
+
+### 3.3.5 Participation bond
+- A bond that allows multiple lenders to participate in secured interests.
+
+### 3.4 Operation of special mortgage over immovable things
+- Mechanism of enforcing rights under special mortgage arrangements.
+
+### 3.5 Extinction of mortgage
+- Conditions and processes by which a mortgage can be extinguished.
+
+## 4 Security by Means of Claims
+### 4.1 Introduction
+- Discussion of pledge, mortgage, and claims as security mechanisms.
+
+### 4.2 Pledge
+#### 4.2.1 Definition
+- Limited real right over pledged item for securing a debt owed.
+
+#### 4.2.2 Constitution/vesting
+- Requires: 
+  - Principal debt,
+  - Pledge agreement,
+  - Delivery of the pledged item.
+
+- Accessory nature linked to principal debt existence.
+- Delivery must occur for the pledgee to obtain a real right; otherwise, it remains a personal right.
+
+#### Diagram Reference
+- Diagram 19: Vesting of pledge
+
+#### 4.2.3 Court Rulings
+- Emphasis on actual or constructive delivery (Vasco Dry Cleaners v Twycross 1979).
+- Non-possessory pledge arrangements viewed operationally problematic.
+
+### 2.3 Clauses in Pledge Agreement
+#### 2.3.1 Clause for summary execution 
+- Validity of parate executie clauses allowing sale without court order.
+- Post-debt satisfaction, excess proceeds returnable to pledgor (Osry v Hirsch).
+
+#### 2.3.2 Pactum commissorium
+- Invalid clause allowing pledgee to retain item post-default (Sun Life Insurance Co v Kuranda).
+
+#### 2.3.3 Clause allowing pledgee purchase at specific price
+- Limited validity based on timing relative to debt due (Mapenduka v Ashington).
+
+#### 2.3.4 Clause preventing redemption
+- Invalid clause that disallows repayment by pledgor (Michell v De Villiers).
+
+#### 2.3.5 Pactum antichresis
+- Parties may agree on pledgee using fruits of pledged item instead of interest.
+
+### Case Considerations
+- Legal intricacies illustrated by case law surrounding pledge agreements ensure clarity in rights and obligations.
+- Numerous precedents affirm the principles governing pledges, constituting a foundation for secured transactions.
+----- END OF FILE -----
+# Study Notes
+
+## 2.4 Rights and Duties of Parties
+
+### 2.4.1 Pledgee
+- **Limited Real Right**: Pledgee has a right to keep the pledged article until the debt is paid.
+- **Recovery of Control**: Can claim via **real actio quasi serviana** from anyone in control, including bona fide purchasers.
+- **Spoliation Remedy**: Can use against unlawful removal of control.
+- **Involuntary Loss**: If control is lost through chance, cannot recover the item (**mobilia non habent sequelam ex causa hypotheca**).
+- **Judgment and Sale**: Pledgee can obtain judgment to sell the pledged item to cover debt, paying surplus to pledgor.
+- **Preference in Insolvency**: Under **s83, Insolvency Act 24 of 1936**, enjoys preference from proceeds of sale.
+- **Fruits and Offspring**: Pledge extends to fruits and offspring of pledged items.
+- **Expense Recovery**: Can recover necessary maintenance expenses via **actio pigneraticia contraria** (Acton v Motau, 1909).
+- **Care Obligation**: Must take reasonable care (bonus paterfamilias) and liable for fault damage but not for chance damage (Nyabele v Pieterse, 1914).
+
+### 2.4.2 Pledgor
+- **Security Requirement**: Can require pledgee to refrain from unauthorized use.
+- **Action to Reclaim**: After debt payment, can reclaim pledged item via **actio pigneraticia directa** or **rei vindicatio**.
+- **Expense Reimbursement**: Obliged to refund pledgee for necessary maintenance expenses incurred.
+
+## 2.5 Extinction of Pledge
+- **Methods**: 
+  1. Discharge of debt
+  2. Destruction of pledged article
+  3. Effluxion of time (conditional pledges)
+  4. Pledgee's renunciation
+  5. Novation of principal debt
+  6. Merger (pledgee becomes owner)
+  7. Prescription
+  8. Voluntary loss of control
+  9. Court order
+  10. Sale in execution
+
+## 3 MORTGAGE
+
+### 3.1 Definition
+- A mortgage is a limited real right over mortgagor's property to secure debt repayment.
+
+### 3.2 Kinds of Mortgages
+- **Conventional or Express Mortgages**: Established by agreement and registration.
+- **Tacit Mortgages**: Created by operation of law.
+
+### 3.3 Kinds of Conventional or Express Mortgages
+
+#### 3.3.1 Notarial Bond
+##### 3.3.1.1 Introduction
+- Registered bond over movable property. 
+- Governs differences across provinces pre-Security by Means of Movable Property Act 57 of 1993.
+
+##### 3.3.1.2 Definition
+- **General Notarial Bond**: Burdens all movable property of mortgagor without limited real right; beneficial in debtor insolvency.
+- **Special Notarial Bond**: Attested and registered over specific movable property, creates limited real right upon registration without physical delivery.
+
+##### 3.3.1.3 Vesting
+- **General Notarial Bond**: No real right until perfection (attachment).
+- **Special Notarial Bond**: Real security right vests upon registration, must be directly recognizable (Ikea Trading Und Design AG v BOE Bank Ltd).
+
+##### 3.3.1.4 Legal Operation
+- **General Notarial Bond**: Unsecured until perfected; preference determined by registration date; can be attested to remain in mortgagee's favor post-perfection.
+- **Special Notarial Bond**: Carries real security right upon registration, secured creditor status, immediate realization rights under **s83, Insolvency Act 24 of 1936**.
+
+## Diagram References
+- **DIAGRAM 20**: Notarial bonds – security objects
+- **DIAGRAM 21**: Notarial bonds – vesting of real security right and preference
+----- END OF FILE -----
+# Law Study Notes
+
+## (ii) Vesting
+
+### General Notarial Bond
+- Real security right vests on perfection by attachment (1). 
+
+### Special Notarial Bond
+- Real security right vests in favour of the mortgagee upon registration (1) according to the Security by Means of Movable Property Act.
+
+## (iii) Secured Right and/or Preferent Right
+
+### General Notarial Bond
+- Before perfection: Bondholder has an unsecured claim (1) with preference over concurrent creditors (1).
+- After perfection: Bondholder has a secured claim (1), similar to a pledgee (1).
+
+### Special Notarial Bond
+- Bondholder has a real security right (1) and therefore a secured claim (1) against the insolvent estate.
+
+## Perfection Clause
+- General and special notarial bonds do not create real security rights over movable property without a perfection clause (1).
+- Perfection clause enables mortgagee to vest a limited right of pledge by taking control (1) of the movable property.
+- Control can be acquired if the mortgagor agrees (1) or via court order (1).
+
+## Case Scenario Analysis
+- Z contests the validity of S’s special notarial bond due to improper asset identification in the bond.
+- Reference: Section 1(1) of the Security by Means of Movable Property Act 57 of 1993; **Ikea Trading Und Design v BOE Bank** (2005 (2) SA 7 (SCA)).
+
+---
+
+## 3.3.2 Special Mortgage Over Immovable Things
+- A mortgage secures payment; the mortgagee can sell the property without court intervention if the debt is unpaid.
+
+### Endorsement Practice
+- A special mortgage is only valid on specific immovable property.
+- **Standard Bank van SA v Breitenbach** (1977(1) SA 151 (T)): Endorsement on the title deed not required for registration as per Deeds Registries Act 47 of 1937.
+
+---
+
+## 3.3.3 Kustingbrief
+- Defined as a special mortgage over immovable property to secure a debt incurred for its purchase; registered simultaneously with the transfer deed.
+
+## 3.3.4 Covering Bond
+- A special mortgage securing future debt; must declare future debt and stipulate maximum amount.
+
+## 3.3.5 Participation Bond
+- Investors lend money to companies secured by mortgage bonds; **Collective Investment Schemes Control Act 45 of 2002** allows for fragmentation without mortgagor consent.
+
+---
+
+## 3.4 Operation of Special Mortgage Over Immovables
+- Mortgagee acquires a limited real right; mortgagor retains control without mortgagee consent for further encumbrances, but may not establish additional real rights without consent.
+- Mortgagee’s rights extend to attachments (Venter v Graham and Muller (1906) 23 SC 729).
+- Mortgage extinguished upon debt discharge; foreclosure process if default occurs.
+- Urgent provisional sentence remedy for mortgagee; defense allowed only on signature/authorization basis.
+
+---
+
+## 3.5 Extinction of Mortgage
+- Extinguished by:
+  1. Discharge of principal debt
+  2. Destruction of mortgaged property
+  3. Extinction of mortgagor’s title
+  4. Renunciation by mortgagee
+  5. Merger with mortgagee’s ownership
+  6. Court order
+  7. Sale delivery post-execution
+  8. Prescription
+  9. Loss of control of lien
+  10. Removal of invecta et illata from rented premises.
+
+---
+
+## 4. SECURITY BY MEANS OF CLAIMS
+
+### 4.1 Introduction
+- Security granted via:
+  - Pledge of claims.
+  - Fiduciary security cession.
+  - Notarial bond of claims.
+
+### 4.2 Pledge
+- Governed by principles of property law; specific adaptations for incorporeal objects.
+
+### 4.3 Fiduciary Security Cessions
+- Full transfer of personal right against debtor occurs under fiduciary agreement; creditor must limit enforcement until debtor defaults.
+
+### Diagram Reference
+- **Diagram 22: Corporeal and incorporeal things as security objects**.
+
+---
+----- END OF FILE -----
+# Law Study Notes
+
+## 4.4 Notarial Bonds of Claims (Incorporeal Movable Things)
+- **Security by Means of Movable Property Act 57 of 1993**
+  - Only allows registration of notarial bonds over corporeal movables.
+  - **Section 1(3)** excludes special notarial bondholders of incorporeal things from preferent status.
+  - General notarial bondholders of incorporeal things have superior rights over special notarial bondholders.
+  - **Cooper NO v Die Meester (1992 (3) SA 60 (A))**: Special notarial bondholders cannot invoke section 102 of the **Insolvency Act 24 of 1936**; treated as non-preferent creditors and contribute under **section 106**.
+
+## Tacit Mortgages (Hypothecs)
+### 1. Introduction
+- Discusses real security rights (limited real rights) arising by law.
+- Tacit mortgages created by operation of law, independent of creditor/debtor agreement.
+- Can be over specific things or whole estate.
+- **Definition and differentiation** of rights is crucial.
+
+### 2. Tacit Hypothecs
+#### 2.1 Landlord (Lessor)
+- Hypothec arises automatically upon non-payment of rent.
+- **Legal Relationship**: Tenant's movables are subject to hypothec upon non-payment; includes third-party goods with knowledge/consent of owners (Bloemfontein Municipality v Jacksons Ltd 1929 AD 266).
+- Conditions for third-party goods:
+  - Goods brought with knowledge and intention to remain for tenant's use.
+  - Failure to notify landlord makes owners liable under landlord's hypothec.
+- **Section 2(1) of Security by Means of Movable Property Act 57 of 1993**: Excludes movables under special notarial bonds or instalment sales from hypothec.
+- **Insolvency Act 24 of 1936, Section 85** protects landlord's rights against liquidation.
+
+### 3. Liens (Rights of Retention)
+- Discuss various types of liens and their implications.
+  
+### 4. Judicial Pledge
+- Addresses judicial pledges and their legal applications.
+
+## Diagram References
+- **Diagram 23**: Distinguishes between pledge and fiduciary security cessions.
+- **Diagram 24**: Summarizes types of tacit mortgages.
+----- END OF FILE -----
+# Study Notes
+
+## Chapter 2: Farm Lease and Legal Implications
+
+### Learning Unit 2.1: Attachment of Movables on Farm
+
+#### Attachment of Movables Advice
+- **a) Foreman’s Furniture:**
+  - Requirement: Third-party property (foreman's) must be for lessee’s indefinite use.
+  - Principle: Based on *Bloemfontein Municipality v Jackson’s Ltd* (1929 AD 266).
+
+- **b) Tractor:**
+  - Legal Position: Owned by credit grantor (C); cannot be attached.
+  - Principle: Retention of ownership concept applies here due to credit agreement.
+
+- **c) Farm Implements:**
+  - Status: Subject to tacit hypothec as they belong to the lessee (Z).
+  - Principle: Applicable real rights protect creditor against debtor's assets.
+
+- **d) Trailer, Harvester, and Generator:**
+  - Impact of Legislation: Governed by *Security by Means of Movable Property Act 57 of 1993*.
+  - Importance of Notarial Bond: Notarial bond secures C's interests against Z's debts.
+
+#### Four Requirements from Case Law
+1. Property must be on lessor's premises, known to actual owner.
+2. Degree of permanence required, not just temporarily stored.
+3. Must be for the lessee's use and enjoyment.
+4. Lessor must not know the property doesn't belong to lessee.
+
+---
+
+## Chapter 4: Credit Transactions
+
+### Learning Unit 2.2: Credit Grantor Legal Context
+
+#### Credit Transaction Overview
+- **Retention of Ownership:**
+  - Seller retains ownership until full payment done.
+  - Credit grantor holds limited real right post-insolvency.
+
+### Section 84 of the Insolvency Act (Act 24 of 1936):
+- **Tacit Hypothec:** 
+  - Automatically conferred on goods delivered, enhancing grantor’s claim.
+  - Credit grantor becomes a secured creditor post-insolvency.
+
+---
+
+## Chapter 3: Liens (Rights of Retention)
+
+### General Definition of Liens
+- **Liens:** Limited real rights to secure claims from work/money spent on another's property.
+- **Categories:**
+  - **Debtor-and-Creditor Liens:** Arise from agreements; personal rights.
+  - **Enrichment Liens:** Arise from unjust enrichment; enforceable against third parties.
+
+### Types of Liens
+1. **Salvage Liens:** Secured for essential expenses preserving property.
+2. **Improvement Liens:** Secured for useful expenses enhancing market value.
+3. **Luxurious Expenses:** Not covered by unjustified enrichment; require a contract.
+
+### Key Principles from Case Law
+- **Buzzard Electrical (Pty) Ltd v 158 Jan Smuts Avenue Investments (Pty) Ltd (1996):**
+  - Enrichment lien requires proof of unjust enrichment and expense incurred by lienholder.
+- Requirements re-emphasized:
+  - Existence of a principal debt due to unjust enrichment essential for lien validity.
+  - Enrichment liability must arise at the expense of the lienholder.
+
+### Conclusion
+- **Lan's Security:** Liens secure outstanding claims, distinguished by their basis (enrichment vs. contract).
+- **Physical Control:** Loss of possession negates lien; restoration possible upon unlawful deprivation.
+
+*(References to diagrams, legislative provisions, and case law provide a comprehensive understanding while maintaining essential context and legal principles.)*
+----- END OF FILE -----
+# Study Unit 12: Mineral Rights, Water Rights, Lessee’s (Tenant’s) Rights
+
+## Contents
+1. Introduction
+2. Meaning of Concept "Mineral"
+3. Mineral Rights
+   - 3.1 Common Law
+   - 3.2 Mineral and Petroleum Resources Development Act 28 of 2002
+
+### 1. Introduction
+- **Mineral Rights**: Historically granted individuals the ability to prospect and extract minerals from the land. 
+- **MPRDA**: Established state as custodian of all petroleum and mineral resources in South Africa, abolishing private mineral rights.
+
+### 2. Meaning of Concept "Mineral"
+- **Broad Definition**: Refers to all earth substances excluding vegetable and animal origin.
+- **Scientific Definition**: Inorganic substances with definite chemical compositions (Finbro Furnishers (Pty) Ltd v Registrar of Deeds, Bloemfontein 1985 (4) SA 773 (A)).
+- **Popular Definition**: Typically excludes sand, stone, and clay; however, MPRDA includes these within the definition of "mineral."
+- **Legislative Intent**: Determined by contract context or statutory wording; requires whole interpretation for accurate meaning.
+
+### 3. Mineral Rights
+#### 3.1 Common Law
+- Prior legal frameworks allowed private ownership of mineral rights.
+  
+#### 3.2 Mineral and Petroleum Resources Development Act 28 of 2002
+- **Enforcement Date**: Effective from 1 May 2004.
+- **Key Provisions**:
+  - State as the sole custodian of mineral rights.
+  - Regulations provide framework for prospecting and mining activities.
+  - Definition of "mineral" includes various natural substances, expanding legal interpretation.
+
+### Judicial Pledge
+- **Nature**: Arises when sheriff attaches debtor's property to execute a judgment (Liquidators Union and Rhodesia Wholesale Ltd v Brown & Co 1922 AD 549).
+- **Effect**: Attachment mirrors that of a pledge (movables) or a mortgage (immovables).
+- **Property Sales**: Judgment creditor obtains preference, subject to competing claims (Liquidators Union decision).
+- **Insufficient Preference**: Diminished if insolvency occurs post-attachment; sheriff's proceeds controlled by the Master or trustee post-insolvency.
+- **Special Consideration for Mortgages**: Subsequent mortgages on attached property invalid (Thorne NO v Registrar of Deeds 1964 (3) SA 20 (N)).
+
+---
+
+### Case Summary: 
+1. **Buzzard Electric Case**: Reviewed lien based on unjustified enrichment, crucial for understanding Santam's case.
+2. **Singh v Santam Insurance (1997 (1) SA 291 (A))**: Emphasized requirements for proving lien and unjustified enrichment claims. 
+3. **Reference Legislation**: Detailed in MPRDA regarding custodianship and regulation of mineral prospecting and extraction.
+
+--- 
+
+**Note**: For a more intricate understanding or diagrams illustrating principles, refer to original case discussions and legislative texts.
+----- END OF FILE -----
+# MINERAL RIGHTS
+
+## 3.1 Common law
+- Owner of land is also owner of minerals until extraction or separation.  
+- Mineral rights entitle holder to prospect and mine minerals unless reserved/transferred.  
+- Can be severed via separate title or notarial cession.  
+- Considered "quasi servitudes", a unique class of real rights (sui generis).  
+- In **Agri South Africa v Minister of Minerals and Energy** (2013 (4) SA 1 (CC)), the right was defined as a limited real right allowing search and removal of minerals.
+
+## 3.2 Mineral and Petroleum Resources Development Act 28 of 2002
+- Section 3 of the Act: all mineral and petroleum resources vested in the State as custodian for South African people.  
+- Abolishes common law rule of landowner's ownership of unsevered minerals; interpretation of State ownership is open.  
+- Act does not define mineral rights but regulates prospecting and mining rights.  
+- Rights must be applied for; granted by State; subject to State control for maximum exploitation and utility.  
+- "Old order" rights terminate if not converted within prescribed transitional period.   
+- "Unused" rights expire if not applied for in transitional period; period has lapsed.  
+- Prospecting/mining rights are limited real rights; transfer requires Minister's consent.  
+- Rights and duties defined within the Act.  
+- Applications must be lodged in prescribed manner at Regional Manager’s office.  
+- Prospecting rights: max 5 years, renewable for 3 years; Mining rights: max 30 years, renewable for 30 years at a time.  
+- Repeals Deeds Registries Act 47 of 1937 regarding mineral rights registration; abolished registration in Deeds Office.  
+
+### Ownership of minerals
+- **MPRDA** abolishes cuius est solum principle.  
+- Sec 3(1): minerals and petroleum as common heritage.  
+- State as custodian, regulates access and ensures exploitation.  
+- Prospecting/mining rights require DMR application, are limited real rights, require Minister's consent for transfer.  
+- Right of access, to prospect, mine, and remove minerals.
+
+#### Diagram 26: Ownership of minerals 
+
+---
+
+# WATER RIGHTS
+
+## 1 Introduction
+- Prior to October 1998, regulated by **Water Act 54 of 1956**; retained distinction between public and private water.  
+- **National Water Act 36 of 1998** declares State as trustee of water resources, significantly altering legal positions regarding access and use.
+
+## 2 Water Act 54 of 1956
+- Consolidated previous water legislation; maintained distinction between public and private water.  
+  - (i) **Public water**: No ownership rights; regulated use and enjoyment.  
+  - (ii) **Private water**: Owner of land has exclusive use, but restrictions apply on transfer without Minister’s permit; upper owners must allow lower owners reasonable water access.
+
+## 3 National Water Act 36 of 1998
+
+### 3.1 General
+- Repealed all previous legislation related to water; currently regulated by **National Water Act 36 of 1998** and **Water Services Act 108 of 1997**.
+
+### 3.2 Purpose
+- Abolishes distinction between public and private water; promotes sustainable management of water resources to meet human needs, protect ecosystems, and manage water quality.  
+
+### 3.3 State as trustee
+- Sec 3(1)-(3): State ensures sustainable protection and equitable use of water for all, in line with the Constitution.  
+- Minister of Water and Sanitation responsible for equitable allocation and public interest use while promoting environmental values.
+----- END OF FILE -----
+# National Water Act 36 of 1998
+
+- **Public vs. Private Water**
+  - No distinction: all water resources are common heritage.
+  - State serves as trustee of water resources.
+
+- **Water Resource Management**
+  - Ensures protection, sustainable use, and conservation.
+  
+- **Licensing**
+  - License required for water use unless:
+    1. Dispensed by issuing authority.
+    2. For reasonable domestic use (Schedule 1 exceptions).
+
+# Water Act 54 of 1956
+
+- **Ownership and Licensing**
+  - Distinction between public and private water.
+  - Land owner is owner of water; permit required to sell water.
+
+---
+
+# LESSEE’S (TENANT’S) RIGHTS
+
+## 1. Introduction
+- Legal principle: **"huur gaat voor koop"** (lease overrides sale).
+- Developed from:
+  - **Johannesburg Municipal Council v Rand Townships Registrar** (1910)
+  - **Breytenbach v Frankel** (1913)
+  - **Graham v Local and Overseas Investments** (1942)
+  - **Genna-Wae Properties (Pty) Ltd v Medio-Tronics (Natal) (Pty) Ltd** (1995)
+  - **Spearhead Property Holdings Ltd v E & D Motors (Pty) Ltd** (2010).
+
+## 2. Applicable Only to Houses and Land
+- Rule originated for land but applies to movable property.
+
+## 3. Establishment of Lessee’s (Tenant’s) Real Right
+- Personal rights for contractual enforcement inter partes.
+- Control or registration required for limited real rights.
+
+### 3.1 Long Leases
+- Defined as leases for 10 years or more.
+- Registration required for enforcement against successors.
+
+**General Rules:**
+1. Successors under lucrative title bound for full lease period.
+2. Successors under onerous title bound if:
+   - Registered, or
+   - They had knowledge of the lease.
+   - For the first 10 years if unregistered and unaware but lessee in control.
+
+- **Kessoopersadh v Essop** (1970): Common law not amended; registration remains necessary under **Formalities in Respect of Leases of Land Act 18 of 1969**.
+
+### 3.2 Short Leases
+#### 3.2.1 General
+- Short-term lessees without control hold personal rights only.
+  
+#### 3.2.2 Gratuitous and Onerous Successors
+- Lessees may maintain leases against gratuitous successors irrespective of notice.
+- Cannot maintain against onerous successors.
+
+*Diagram Reference:* 
+- **Diagram 28:** Lease overrides sale (‘‘huur gaat voor koop’’).
+
+## 4. Effect of Lessee’s (Tenant’s) Real Right
+- Lessee’s rights prioritized over subsequent vested rights, including mortgages.
+- Transfers of property do not transfer contractual duties.
+  - New owners cannot refuse to recognize lessee’s rights but do not automatically inherit obligations.
+
+- Court stance: Upon property transfer, new owners assume rent obligations and lessor duties per **Genna-Wae Properties (Pty) Ltd v Medio-Tronics (Natal) (Pty) Ltd** (1995).
+----- END OF FILE -----
+# S T U D Y U N I T 13
+## CONSTITUTIONAL PROPERTY LAW 
+
+### CONTENTS
+1. Introduction
+2. Property clause
+   2.1. Meaning of "property" in terms of section 25
+   2.2. Deprivation
+   2.3. Expropriation
+
+---
+
+### 1. INTRODUCTION
+- Focus on "things," "ownership," and "limited real rights."
+- Expand scope of property law to include constitutional perspectives.
+- Importance of the right to property under section 25 of the Constitution (1996).
+
+### 2. PROPERTY CLAUSE
+- **Section 25 Summary:**
+  - (1) No arbitrary deprivation of property; must be lawful.
+  - (2) Expropriation only for public purpose, with compensation.
+  - (3) Compensation aspects: equitable balance, market value, etc.
+  - (4) “Property” includes more than just land; covers various rights.
+
+### 2.1 MEANING OF “PROPERTY” IN TERMS OF SECTION 25
+- Definition extends beyond traditional tangible assets.
+- Includes:
+  - Ownership and limited real rights.
+  - Intangible and immaterial rights (e.g., copyright).
+  - Customary land rights and new property rights.
+  
+- **Key Cases:**
+  - **Shoprite Checkers (Pty) Ltd v MEC for Economic Development**: A commercial trading license recognized as property.
+  - **National Credit Regulator v Opperman**: Right to recover money identified under property.
+  
+- **Constitutional Interpretation:** Requires extensive view of "property."
+
+### 2.2 DEPRIVATION
+- Deprivation differs from expropriation; may not involve taking away property.
+- Terms associated: regulation, limitation, restriction.
+- **Section 25(1)**: No deprivation without law; must not be arbitrary.
+
+- **Examples**: State regulations on land use, planning legislation.
+  
+- **Validity of Deprivation**:
+  1. Must be lawful under general application.
+  2. Must not be arbitrary as determined in **First National Bank case**.
+
+### 2.3 EXPROPRIATION
+- Expropriation defined under **Section 25(2)**:
+  - Involves actual acquisition of property by the State.
+  - Mandatory compensation payable, reflecting public purpose.
+
+---
+
+*Note: For diagrams related to deprivation and expropriation processes, refer to section illustrations where available.*
+----- END OF FILE -----
+# STUDY UNIT 14: LAND REFORM
+
+## CONTENTS
+1. Introduction
+2. Redistribution of land
+   2.1 Introduction
+   2.2 Provision of Land and Assistance Act 126 of 1993
+   2.3 Spatial Planning and Land Use Management Act 16 of 2013
+3. Land tenure reform
+   3.1 Introduction
+   3.2 Land Reform (Labour Tenants) Act 3 of 1996
+   3.3 Extension of Security of Tenure Act 62 of 1997
+   3.4 Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998
+4. Restitution of land rights 
+   4.1 Introduction
+   4.2 Restitution of Land Rights Act 22 of 1994
+
+---
+
+## 1. INTRODUCTION
+- Land reform is fundamental to South Africa's transformation.
+- Categories: 
+  - **Redistribution of land** (s 25(5))
+  - **Land tenure reform** (s 25(6))
+  - **Restitution of land rights** (s 25(7))
+
+## 2. REDISTRIBUTION OF LAND
+
+### 2.1 Introduction
+- **Constitution, 1996, s 25(5)**: State's obligation to foster equitable land access.
+- Aim: Address unequal land distribution by making land available to those without or with insufficient land.
+- Legislative measures include:
+  - Provision of Land and Assistance Act 126 of 1993
+  - Spatial Planning and Land Use Management Act 16 of 2013 (SPLUMA)
+  - Other acts relevant to land reform.
+
+### 2.2 Provision of Land and Assistance Act 126 of 1993
+- Legal framework for redistribution; supports Integrated Programme of Land Redistribution and Agricultural Development (LRAD) and Settlement and Land Acquisition Grant (SLAG).
+- Provides grants to those seeking land access.
+
+### 2.3 Spatial Planning and Land Use Management Act 16 of 2013
+- Aims to facilitate redistribution through regulations on spatial planning and land use.
+
+---
+
+## 3. LAND TENURE REFORM
+
+### 3.1 Introduction
+- Focuses on securing land rights and improving tenure security.
+
+### 3.2 Land Reform (Labour Tenants) Act 3 of 1996
+- Addresses rights of labor tenants to secure land tenure.
+
+### 3.3 Extension of Security of Tenure Act 62 of 1997
+- Protects rights of persons living on land without formal ownership.
+
+### 3.4 Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998
+- Safeguards against unlawful evictions; reinforces legal processes to protect occupants.
+
+---
+
+## 4. RESTITUTION OF LAND RIGHTS 
+
+### 4.1 Introduction
+- Aims to restore land rights to those dispossessed post-1913.
+
+### 4.2 Restitution of Land Rights Act 22 of 1994
+- Establishes mechanisms for claims by individuals and communities for the restoration of land rights. 
+
+---
+
+### LEGAL PRINCIPLES
+- **Expropriation Validity Requirements**:
+  1. Law of general application.
+  2. Public purpose or interest.
+  3. Compensation must be determined (s 25(3) of the Constitution, 1996).
+
+### KEY LEGISLATION
+- **Constitution, 1996**: Establishes principles of property rights and expropriation.
+- **Expropriation Bill, 2015**: Future implications on compensation calculations.
+
+### KEY CASE LAW
+- **First National Bank of SA Limited t/a Wesbank v Commissioner for the South African Revenue Services** (2002 (4) SA 768 (CC)): 
+  - Examines the scope of property under section 25 and the implications of arbitrary deprivation. 
+
+### DIAGRAM REFERENCES
+- Consider diagrams illustrating land reform processes and the interrelationships between different legislative acts. 
+
+--- 
+
+> Review respective statutes and cases for a deeper understanding of land reform implications in South Africa.
+----- END OF FILE -----
+# Chapter 1: Land Use Management and Planning  
+
+## 1.1 Introduction  
+- Planning laws during apartheid excluded individuals from land ownership and access.  
+- Resulted in fragmented and discriminatory land-use management.  
+- Addressed by the **Spatial Planning and Land Use Management Act 16 of 2013** (SPLUMA) effective 1 July 2015.  
+- SPLUMA repealed:  
+  - **Removal of Restrictions Act 84 of 1967**  
+  - **Physical Planning Act 88 of 1967**  
+  - **Less Formal Township Establishment Act 113 of 1991**  
+  - **Physical Planning Act 125 of 1991**  
+  - **Development Facilitation Act 67 of 1995**  
+
+## 1.2 Objectives of SPLUMA  
+- Establish a spatial planning system promoting:
+  - Social and economic inclusion.  
+  - Redressing past imbalances.  
+  - Equity in land-use application.  
+
+## 1.3 Development Principles (Section 3)  
+- **Spatial Justice** (s 7(a))  
+- **Spatial Sustainability** (s 7(b))  
+- **Efficiency** (s 7(c))  
+- **Spatial Resilience** (s 7(d))  
+- **Good Administration** (s 7(e))  
+- Guided by Constitutional values (Sections 24, 25, 26, 27(1)(b)).  
+
+## 1.4 Principle of Spatial Justice  
+- Redressing past imbalances and exclusions.  
+- Inclusion of previously excluded groups and upgrading of informal settlements.  
+
+---
+
+# Chapter 2: Land Tenure Reform  
+
+## 2.1 Introduction  
+- **Section 25(6) of the 1996 Constitution**:  
+  - Authorizes land tenure reform for those with insecure tenure due to past discrimination.  
+
+## 2.2 Purpose of Land Tenure Reform  
+- Legal recognition and protection of weak land rights.  
+- Legislation introduced:  
+  - **Upgrading of Land Tenure Rights Act 112 of 1991**  
+  - **Communal Property Associations Act 28 of 1996**  
+  - **Communal Land Rights Act 11 of 2004** (declared unconstitutional in **Tongoane v National Minister for Agriculture and Land Affairs**).  
+
+## 2.3 Protection from Eviction  
+- **Section 26(3)** of the Constitution protects against eviction without court order.  
+- Key statutes:  
+  - **Land Reform (Labour Tenants) Act 3 of 1996**  
+  - **Extension of Security of Tenure Act 62 of 1997**  
+  - **Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998 (PIE)**.  
+
+## 2.4 Land Reform (Labour Tenants) Act 3 of 1996  
+- Regulates labour tenants’ rights to reside and use land under fair conditions.  
+- Eviction requires court order based on just and equitable grounds.  
+
+## 2.5 Extension of Security of Tenure Act 62 of 1997  
+- Protects lawful occupiers from unlawful eviction upon proper grounds.  
+- Rights of landowners and occupiers balanced under court consideration.  
+
+## 2.6 Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998  
+- Protects unlawful occupiers; no eviction without court order.  
+- Factors for consideration: vulnerable groups, alternative accommodation.  
+- **Port Elizabeth Municipality v Various Occupiers**: eviction must be just and equitable.  
+
+---
+
+# Chapter 3: Restitution of Land Rights  
+
+## 3.1 Introduction  
+- **Section 25(7) of the 1996 Constitution**:  
+  - Addresses restitution for dispossessed individuals post-19 June 1913.  
+
+## 3.2 Purpose of Restitution  
+- Focus on returning specific lands taken during apartheid.  
+- Distinction from land redistribution which addresses overall land inequality.  
+
+## 3.3 Restitution Framework  
+- Governed by **Restitution of Land Rights Act 22 of 1994**.  
+- Claims initially accepted until **31 December 1998**; amended by the **Restitution of Land Rights Amendment Act 15 of 2014** for re-submission until **30 June 2019**.  
+- Constitutional Court declared the amendment unconstitutional due to lack of consultation (**Land Access Movement of South Africa v Chairperson of the National Council of Provinces**).  
+
+
+----- END OF FILE -----
+### 4.2 Restitution of Land Rights Act 22 of 1994
+- **Eligibility for restitution**: Entitlement if land was taken after **19 June 1913** due to racial discrimination; ineligible if just and equitable compensation was received during dispossession.
+  
+- **Restitution orders by the Land Claims Court**: 
+  - Restoration of land or rights in land
+  - Grant of alternative state-owned land
+  - Payment of compensation by the State
+  - Inclusion in State support programmes (housing, rural land)
+  - Alternative relief
+
+- **Limitations**: 
+  - Restoration may be impractical (e.g., land developed into commercial properties or occupied by others).
+  - Additional compensation possible if original compensation was inadequate.
+
+---
+
+### S T U D Y U N I T 15: ADDITIONAL FORMS OF STATUTORY LAND USE
+
+#### 1. INTRODUCTION
+- Overview of statutory land use beyond ownership, lawful occupation, and constitutional land use.
+- Discusses various Acts: **Sectional Titles Act 95 of 1986**, **Share Blocks Control Act 59 of 1980**, **Property Time-sharing Control Act 75 of 1983**, **Housing Development Schemes for Retired Persons Act 65 of 1988**.
+
+#### 2. SECTIONAL TITLES ACT 95 OF 1986
+- **Purpose**: Divides buildings and land into sections (separate ownership) and common property (co-ownership).
+- **Key Features**:
+  - Real right of ownership of sections (e.g., flats, garages) and common property.
+  - Joint ownership apportionment via participation quota.
+  - Addresses the transfer of ownership, registration of bonds, and establishment of a body corporate for management.
+
+#### 3. SHARE BLOCKS CONTROL ACT 59 OF 1980
+- **Regulation of share block schemes**: 
+  - Shareholder acquires personal right to use building/land related to shareholding.
+  - Rights linked to share ownership rather than independent immovable property.
+
+#### 4. PROPERTY TIME-SHARING CONTROL ACT 75 OF 1983
+- **Regulation of time-sharing schemes**: 
+  - Acquisition of rights for exclusive use during specified periods.
+  - Can be structured as:
+    - Sectional title scheme (real right)
+    - Share block scheme (personal right)
+    - Club membership (real or personal right)
+
+#### 5. HOUSING DEVELOPMENT SCHEMES FOR RETIRED PERSONS ACT 65 OF 1988
+- **Regulation of retirement housing schemes**:
+  - Acquisition of occupation rights via ownership or personal rights.
+  - Types of schemes:
+    - Sectional title (real right)
+    - Share block (personal right)
+    - Club participation (real or personal right)
+    - Registered long-term leases (limited real right)
+- **Note**: Cannot be structured as a time-sharing scheme.

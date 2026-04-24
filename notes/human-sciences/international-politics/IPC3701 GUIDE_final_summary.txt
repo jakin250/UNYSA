@@ -1,0 +1,868 @@
+# IPC3701/1: International Relations Theory Study Notes
+
+## THEME 1: Introduction to international relations theory
+
+### Learning Unit 1: What is theory, meta-theory, and methodology and why should we study it?
+- **Key words**: Theory, meta-theory, methodology
+- Importance of studying theory for interpreting international phenomena
+
+### Learning Unit 2: How is theory applied?
+- **Key words**: Application of theory in practice and research
+
+## THEME 2: Theories in international relations
+
+### Learning Unit 3: Realism
+- **Key words**: Power, state
+- **Main assumptions of realism**:
+  - Anarchic international system
+  - States as primary actors
+  - Focus on power and security
+- **Strands of realism**:
+  - **Classical realism**: Human nature and power politics
+  - **Neoclassical realism**: Internal factors influence state behavior
+  - **Neorealism (structural realism)**: Structure of the international system
+   
+- **Three levels of analysis according to realists**:
+  - **Individual Level**: Human behavior
+  - **State Level**: National interests
+  - **International Level**: Systemic structure
+
+- **Limitations of realism**: Reductionist, neglects non-state actors and global issues
+
+### Learning Unit 4: Liberalism
+- **Key words**: Cooperation, interdependence
+- **Main assumptions of liberalism**:
+  - Importance of international institutions
+  - Potential for cooperation
+- **Liberalism as an ideology**: Emphasis on democracy, human rights
+- **Liberalism and idealism**: Connection to international cooperation
+- **The three levels of analysis**:
+  - **Individual Level**: Role of individuals in promoting peace
+  - **State Level**: Democratic states tend to be peaceful
+  - **International System Level**: Influence of international organizations
+
+- **Limitations of liberalism**: Overemphasis on cooperation, neglect of power politics
+
+### Learning Unit 5: Constructivism
+- **Key words**: Identity, norms
+- **Constructivist challenge**: Questions rationalist assumptions
+- **Main assumptions of constructivism**:
+  - Ideas and identities shape state behavior
+  - Social constructs influence international relations
+
+- **Three levels of analysis according to constructivists**:
+  - **Individual Level**: Impact of personal beliefs
+  - **State Level**: National identity influencing behavior
+  - **International Level**: Norms and practices established
+
+- **Critique of constructivism**: Lack of predictive power, sometimes too theoretical
+
+### Learning Unit 6: Decoloniality
+- **Key concepts**: Coloniality, decolonization
+- **Background to decoloniality**: Critique Western-centric narratives
+- **Levels of analysis**:
+  - Recognition of diverse perspectives
+- **Coloniality of power**: Structural inequalities persisting post-colonialism
+- **Coloniality of being**: Impacts on identity and existence
+- **Coloniality of knowledge**: Challenging dominant epistemologies
+
+- **Responses by decolonial thinkers**: Calls for epistemic justice
+- **Difference between postcoloniality and decoloniality**: Postcoloniality focuses on the aftermath of colonialism; decoloniality seeks to disrupt colonial power dynamics.
+- **Criticisms against decoloniality**: Challenges in operationalizing theories
+- **Conclusion**: Importance of integrating decolonial perspectives into IR
+
+## THEME 3: Conclusions: The Future of International Relations Theory
+- **Future considerations**: Continuing evolution of theories, integration of diverse perspectives
+
+## BIBLIOGRAPHY
+- Relevant literature and texts in the field of international relations for further reading.
+----- END OF CHUNK -----
+# IPC3701/1
+
+### Preface
+- Importance of practice and critical reading
+- Application of theory: analysis of situations using theoretical principles
+- Analysis vs. experience: focus on theory-driven analysis
+- Critical thinking: essential for effective argumentation
+  - Understand the situation
+  - Identify the issue
+  - Structure the response
+  - Use evidence
+  - Anticipate counterarguments
+
+### How to Attempt Assignments
+- Understand assignment expectations (third-year level: theoretical analysis).
+- Importance of individual strengths and sources acknowledgement.
+- Seriousness of plagiarism prevention.
+
+### Preparing for Your Exam
+- Mastery of written expression is crucial.
+- Exam readiness steps:
+  1. Obtain exam scope from myUnisa.
+  2. Plan essays/questions.
+  3. Create detailed notes.
+  4. Expand notes into paragraphs.
+  5. Simplify responses to keywords.
+- Study methods can differ; consider recording or mind mapping for better understanding.
+
+### Study Guide
+- Structure aids in achieving learning outcomes.
+- Division into study units with introductions to topics.
+- Learning activities assist in self-evaluation.
+  
+### Prescribed and Recommended Reading
+- Importance of prescribed readings; check Tutorial Letter 101 annually.
+- Access to readings through e-reserves necessary for mastering the module.
+  
+---
+
+# 1 THEME I: Introduction to International Relations Theory
+
+## 1 LEARNING UNIT 1: What is Theory, Meta-Theory and Methodology, and Why Should We Study It?
+### Learning Outcomes
+- Define concepts: theory, meta-theory.
+- Distinguish between knowledge, theory, meta-theory, and methodology.
+
+### Key Words
+- **Theory, Meta-theory, Methodology,** and related concepts to be defined and understood.
+
+### Understanding Theory
+- Theory simplifies complex realities; essential for education (Mansbach & Taylor, 2012).
+- **Epistemology**: Knowledge divided into:
+  - **Empiricism**: Objective reasoning.
+  - **Normativism**: Subjective reasoning emphasizing moral considerations.
+
+### Notable Theoretical Paradigms
+- **Positivism:** Reliance on observable phenomena.
+- **Post-positivism:** Acknowledgment of subjective elements in research.
+
+### Relevant Legislation and Cases
+- N/A (No specific legislation or cases mentioned in the provided text).
+
+### Diagrams
+- Refer to diagram representations within the study units, where applicable.
+
+(Note: This condensed version retains the organizational structure while reducing length by approximately 50% and maintaining focus on key themes, theories, and principles without additional examples or explanations.)
+----- END OF CHUNK -----
+# IPC3701/1
+
+## 3
+### LEARNING UNIT 1: What is theory, meta-theory and methodology and why should we study it?
+
+- **Knowledge Objectives:**
+  - Explain, prescribe, and predict.
+  - Theories interrelate empirical and normative knowledge via methodology.
+  
+- **Methodology:**
+  - Approach for gathering, explaining, and interpreting knowledge.
+  - Controversies arose during the behavioral revolution in the 1950s and 60s.
+  
+- **Approaches to International Relations:**
+  - **Classical/Traditional Approach:**
+    - Derived from philosophy, history, law; no strict methodology; critical of empirical standards (Jackson & Sørensen, 2007:285-286).
+  
+  - **Behaviouralism:**
+    - Focuses on the explainable rather than normative; utilizes quantifiable data; rejects metaphysical interpretations (International Relations Theory, 2015).
+  
+  - **Positivism:**
+    - Linked to behavioralism; emphasizes scientific methodologies and quantitative data; criteria for theory (Vasquez, 1995; Jackson & Sørensen, 2007:290):
+      1. Accurate and limited in scope.
+      2. Applicable to most cases.
+      3. Verifiable or falsifiable.
+      4. Powerful in explanations.
+      5. Open to improvement.
+      6. Consistent with existing knowledge.
+      7. Clear parameters.
+  
+  - **Post-positivism:**
+    - Reaction to positivism; allows for "objective truth" in social phenomena; includes phenomenology, Marxism, critical theory, and postmodernism (Jackson & Sørensen, 2007:291; USC Libraries, 2013).
+
+---
+
+## 4
+### THEME I: INTRODUCTION TO INTERNATIONAL RELATIONS THEORY
+
+- **Importance of Theories:**
+  - Frameworks to describe and explain patterns in international relations.
+  - Theories are grounded in research methods that validate assumptions.
+
+- **Life Applications:**
+  - Theory is evident in daily analysis of the world; meta-theoretical analysis challenges existing knowledge.
+  - **Meta-theoretical Knowledge:**
+    - Not fully empirical; viewed as analytical lenses; informs the study of theories and ideologies (not interchangeable).
+
+---
+
+## 5
+### UNIT SUMMARY
+
+- **Knowledge Classification:**
+  - **Empirical Knowledge (Empiricism):** 
+    - Based on scientific evidence, objective observation.
+  - **Normative Knowledge (Normativism):**
+    - Subjective observation; deals with moral judgments.
+
+- **Theory & Meta-theory:**
+  - Theory allows for empirical testing; meta-theory lacks this empirical foundation.
+
+- **Applying Knowledge:**
+  - Methodology defines how international relations are studied; various methodologies exist.
+
+---
+
+## 6
+### LEARNING UNIT 2: How is theory applied?
+
+- **Learning Outcomes:**
+  - Understand and explain the three levels of analysis.
+
+- **Key Concepts:**
+  - **Three Levels of Analysis:**
+    - **Individual Level:** 
+      - Focuses on decisions influenced by leaders and elite; personal characteristics matter (Kegley, 2009; Mansbach & Taylor, 2012).
+    - **State Level:** 
+      - States as decision-makers influenced by economy, military, ideology (Kegley, 2009; Mansbach & Taylor, 2012).
+    - **International/Global Level:** 
+      - Involves various actors (states, NGOs, corporations) and their interactions shaping global dynamics (Kegley, 2009; Mansbach & Taylor, 2012).
+
+---
+
+## 7
+### UNIT SUMMARY
+
+- **Actor Definition:**
+  - Includes individuals, groups, organizations, states.
+
+- **Individual Level of Analysis:**
+  - Examines individual influence on decisions in international relations.
+
+- **State Level of Analysis:**
+  - Views the state as an authority impacting international relations.
+
+- **International Level of Analysis:**
+  - Involves multiple actors interacting based on shared interests and constraints.
+----- END OF CHUNK -----
+# IPC3701/1
+## 2 THEME II: Theories in International Relations
+
+### Study Objectives
+- Familiarize with theories: realism, liberalism, constructivism, decoloniality.
+- Explain tenets and differences of classical realism vs. structural/neorealism; classical liberalism vs. neoliberalism; constructivism vs. decoloniality.
+- Apply three levels of analysis to these theories.
+- Explain differences and similarities between theories.
+- Outline criticisms against the theories.
+
+### Summary of Theories and Analytical Concepts
+- **Realism**
+  - Core Concerns: War and security; states survive in uncertain environments.
+  - Key Actors: States.
+  - Central Concepts: Anarchy, self-help, national interest, relative gains, balance of power.
+  - Approach to Peace/Conflict: Protect autonomy via military preparedness; alliances.
+  - Change Beliefs: Gradual change through cooperation.
+
+- **Liberalism**
+  - Core Concerns: Cooperation among diverse actors to achieve peace.
+  - Key Actors: States, IGOs, NGOs, international/transnational organizations.
+  - Central Concepts: Freedom, reciprocity, complex interdependence, international rules.
+  - Approach to Peace/Conflict: Prefer peaceful solutions and cooperation.
+  - Change Beliefs: Change through cooperation, not radical.
+
+- **Constructivism**
+  - Core Concerns: Role of ideas and social identities in shaping politics.
+  - Key Actors: Individuals, NGOs, transnational networks.
+  - Central Concepts: Ideas, identities, discourses that lead to normative change.
+  - Approach to Peace/Conflict: Advocates for normative adherence and progressive ideas.
+  - Change Beliefs: Change through redefined understandings.
+
+- **Decoloniality**
+  - Core Concerns: Coloniality of power, being and knowledge.
+  - Key Actors: Individuals, states, MNCs, Bretton Woods institutions.
+  - Central Concepts: Influence of colonial legacies on current power dynamics.
+  - Approach to Peace/Conflict: Disrupt existing colonial systems and advocate new structures.
+  - Change Beliefs: Liberation and overthrow of oppressive systems.
+
+## 3 LEARNING UNIT 2: How is Theory Applied?
+### Realism
+- **Individual Level of Analysis**: Antagonistic, selfish; behavior impacts international relations.
+  
+- **State Level of Analysis**: States act in self-interest; seek to further national interests with some cooperation opportunities.
+
+- **International Level of Analysis**: Anarchical structure; pessimistic view of security competition; some potential for cooperation.
+
+---
+
+## 3 LEARNING UNIT 3: Realism
+### Learning Outcomes
+- Outline main tenets of realism; differences between classical, neoclassical, structural realism.
+- Apply analysis levels to realism.
+- Discuss limitations of realism.
+- Analyze case studies using realism.
+
+### Key Words
+- Anarchy, Power, Classical Realism, Neoclassical Realism, Structural Realism, Neorealism, Utilitarianism, Hard Power, Soft Power, WWI, WWII, Cold War, Polarity, Sovereignty.
+
+### The Main Assumptions of Realism in International Relations Theory
+1. Human nature is antagonistic and power-seeking; conflict is expected.
+2. States emulate human behavior, acting in self-interest, leading to potential conflicts.
+3. International relations are anarchic due to power competition.
+4. Stability achievable through balance of power.
+
+### Strands of Realism
+- Major theorists and historical perspectives analyze power distribution.
+- **Three Strands of Realism**:
+  - **Classical Realism**: Focuses on human nature and historical context.
+  - **Neoclassical Realism**: Incorporates societal factors influencing state behavior.
+  - **Structural Realism**: Emphasizes anarchy's role in the international system.
+
+--- 
+
+**Case Studies: WWII Importance**
+- Impact of power dynamics leading to WWII; the Treaty of Versailles created resentment and instability.
+- The necessity of equilibrium among powerful states; balance of power is crucial for stability in international relations. 
+
+Refer to **Alan Taylor (2011)** for detailed exploration of pre-WWII contexts and power distribution among Axis and Allied powers.
+----- END OF CHUNK -----
+# IPC3701/1  
+## 15  
+### LEARNING UNIT 3: Realism  
+#### 3.3.1 Classical realism  
+- Mainstream approach to international relations prior to the behavioural revolution.  
+- Key philosophers: **Thucydides**, **Machiavelli**, **Hobbes**.  
+  - **Thucydides**: Explored Greek city-states' power struggles.  
+  - **Machiavelli**: Emphasized leadership's role in state influence; viewed rulers' pragmatism over moral considerations.  
+  - **Hobbes**: Argued humans act on selfish desires; need for authoritative government (Leviathan) to control chaos.  
+- Power dynamics and self-interest dominate human interactions.  
+- Conflict is inevitable due to human nature; states exist in a constant state of competition.  
+
+#### 3.3.2 Neoclassical realism  
+- Humans driven by selfish desires for survival; interactions are unpredictable and chaotic.  
+- Concerns power dynamics and conflict arising from state interests; ethics crucial for stability despite anarchic structure.  
+- States are the main actors; absolute authority does not exist, only balance of power among states.  
+
+#### 3.3.3 Neorealism and structural realism  
+- Balance-of-power theory: states must enhance military capabilities to ensure security.  
+- **Hard power**: Coercive influence through military/economic means; often viewed negatively.  
+- **Soft power**: Influencing through culture and ideas.  
+- Example: **Pearl Harbor Bombing** illustrates hard power dynamics in state interactions.  
+
+### 3.4 THREE LEVELS OF ANALYSIS ACCORDING TO REALISTS  
+#### 3.4.1 Individual level of analysis  
+- Emphasizes human nature: self-centered, aggressive, power-seeking traits lead to conflict.  
+- Anarchy is intrinsic; without restraints, aggressive behavior is expected (Hobbes’ view).  
+- Power pursuit defines politics; the tragic presence of evil complicates state relations.  
+
+#### 3.4.2 State level of analysis  
+- States viewed as primary actors shaped by power dynamics; sovereignty began with **Treaty of Westphalia**.  
+- Realist scholars stress the authoritative exercise of state power to regulate societal behavior.  
+- States must protect sovereignty through military and economic strength; conflict persists due to human unpredictability.  
+- Hobbes’ Leviathan metaphor illustrates the state's role in maintaining order and justice, while legitimizing power.  
+
+#### 3.4.3 International level of analysis  
+- States are the critical actors; their interactions reflect and influence global power dynamics.  
+- Conflict results from states pursuing national interests amid potential anarchy.  
+- Predictive capacity of a state's behavior is limited due to sovereign autonomy.  
+----- END OF CHUNK -----
+# IPC3701/1  
+## 21  
+### LEARNING UNIT 3: Realism  
+
+- **Anarchy**  
+  - Critical feature of international relations.  
+  - States as self-help entities; security dilemma present.  
+  - Security pursuit generates insecurity among others (Holsti, 1985:25).  
+  
+- **Power Dynamics**  
+  - Unequal power distribution among states facilitates manipulation.  
+  - Anarchy prompts arms acquisition; arms races lead to insecurity.  
+  - Historical dynamics:  
+    - *Unipolar*: USA post-Cold War dominance.  
+    - *Bipolar*: USA vs. USSR during Cold War.  
+    - *Multipolar*: Pre-WWI scenario defined by multiple influential actors.  
+
+- **National Interests**
+  - States seek to maximize power and achieve national objectives.  
+  - Changes in power dynamics can prevent monopolization of power.  
+  - Consideration of economic power as a component of military and political leverage.  
+
+## 22  
+### THEME II: THEORIES IN INTERNATIONAL RELATIONS  
+#### Case Study: The end of WWII  
+- Post-WWII Europe/Asia devastation necessitated rebuilding efforts.  
+- Allied occupation aimed at dismantling Axis war-making capabilities.  
+- **Consequences**:  
+  - Formation of East/West Germany, North/South Korea divisions.  
+  - The Arab-Israeli conflict stemming from the UN Partition Plan for Palestine.  
+  - Cold War tensions escalated between Western and Soviet powers.  
+
+### 3.5 LIMITATIONS OF REALISM  
+- **Liberalist Critique**  
+  - Realism's focus on power and self-preservation overlooks morality.  
+  - Quest for security fosters broader insecurity (Heywood, 2007:130).  
+  - Change in dynamics not adequately addressed by realism (Kegley, 2009:31).  
+
+- **Decolonial Critique**  
+  - Realist power paradigms marginalize Global South perspectives.  
+  - Maintenance of status quo perpetuates power disparity between Global North and South (Mignolo, 2007).  
+  - Revolutionary change necessary for equitable power distribution.  
+
+#### Case Study: WWII in North Africa  
+- North African Campaign (1940-1943) marked by Axis-Allied conflict.  
+- Important battles and strategic outcomes shifted control and power in the region.  
+
+## 24  
+### SUMMARY  
+- **Core Concerns**:  
+  - The potential for cooperation amid anarchy for collective gains.  
+- **Key Actors**:  
+  - Include states, IGOs, NGOs, and transnational organizations.  
+- **Central Concepts**:  
+  - Anarchy, sovereignty, polarity.  
+- **Approach to Peace and Conflict**:  
+  - Preference for peaceful resolutions despite conflict existence.  
+- **Beliefs about Change**:  
+  - Reluctance to expect change in power dynamics.  
+- **Criticisms**:  
+  - Liberals advocate cooperation over conflict; constructivists highlight non-material factors; decolonialists argue against the exclusive focus on established power structures.  
+- **Major Theorists**:  
+  - Thucydides, St Augustine, Machiavelli, Hobbes, von Clausewitz, Morgenthau, Waltz, Gilpin.  
+
+## 26  
+### LEARNING UNIT 4: Liberalism  
+#### LEARNING OUTCOMES  
+- Familiarization with liberalism tenets: differences among classical liberalism, neoliberalism, etc.  
+- Application of analysis levels in context of liberalism and its limitations.  
+
+#### 4.2 THE MAIN ASSUMPTIONS OF LIBERALISM IN INTERNATIONAL RELATIONS THEORY  
+1. Human nature is fundamentally good and cooperative.  
+2. States possess diverse interests that can lead to cooperation.  
+3. Possibility for actors to form interdependent relationships despite anarchy exists.  
+----- END OF CHUNK -----
+# IPC3701/1
+## 27
+### LEARNING UNIT 4: Liberalism
+- **Definition of Terrorism** 
+  - No formal consensus on the definition; interpretations vary by state.
+  - Common characteristics:
+    - Use of indiscriminate violence.
+    - Purpose: instil fear.
+    - Objective: convey a political message.
+  - Scholarly debate on the messages, outcomes, and methodologies of terrorism.
+
+### 4.3 LIBERALISM AS AN IDEOLOGY
+- Prevails in modern democracies; inherent complexity and varied interpretations.
+- Emerged in the 1500s to promote inclusiveness beyond feudal privileges.
+- **Core Principles:**
+  - **Individualism:** Unique identities and societal value of individuals.
+  - **Freedom:** Rights to security and moral decision-making.
+  - **Reason:** Rationalism governs decision-making processes.
+  - **Equality:** Belief that individuals deserve rewards based on merit.
+  - **Toleration:** Acceptance of diverse interpretations for societal progress.
+  - **Constitutionalism:** Authority for order subject to rules protecting individuals.
+  - **Consent:** Permission for governance for collective good.  
+- **Philosophers:**
+  - Hobbes: Submission to authority to avoid chaos (Leviathan).
+  - Locke: Constitutional monarchy for protection of rights.
+
+### Case Study: Liberalism and Terrorism
+- Liberal belief in achievable peace; states prone to war for survival.
+- Terrorism represents a challenge to liberal values (Dunne, 2009).
+- **Example:** Lord’s Resistance Army (LRA)
+  - Active in Uganda and neighboring regions; known for violence and abductions.
+  - Indicted by the **International Criminal Court (ICC)** for war crimes.
+
+### 4.4 LIBERALISM AND IDEALISM
+- **Historical Context:**
+  - Influenced by Enlightenment thinkers.
+  - Post-WWI: Call for peaceful society; establishment of alliances.
+- **Key Figures:**
+  - Woodrow Wilson and Winston Churchill promoted a liberal order post-WWI.
+- **Idealism’s Decline:**
+  - Failure of the **League of Nations (LoN)** to prevent WWII showcased liberalism's inadequacy.
+- Continued to evolve through Cold War with emphasis on:
+  - Human security, trade, and social cooperation.
+
+### **Strands of Liberalism:**
+- **Sociological Liberalism:** Emphasizes transnational ties.
+- **Interdependence Liberalism:** Mutual dependence discourages conflict.
+- **Institutional Liberalism:** Structured cooperation through organizations (e.g., **IAEA**).
+- **Republican Liberalism:** Democratic governance fosters peace.
+
+### 4.5 THE THREE LEVELS OF ANALYSIS
+#### 4.5.1 Individual Level
+- **Boko Haram Example:**
+  - Affects through mass action eliciting international response (e.g., abductions).
+  - Prominent individuals can influence state behavior (e.g., **Dr. Oby Ezekwesili**).
+  
+#### 4.5.2 State Level
+- States as sovereign but interdependent; must balance autonomy with cooperation.
+- Boko Haram's insurgency prompted cooperative military responses from neighboring states.
+
+#### 4.5.3 International System Level
+- Conflict possible, but cooperation is viable.
+- Institutions facilitate rules and moderate interactions among diverse actors (e.g., **African Union** and other NGOs).
+----- END OF CHUNK -----
+# IPC3701/1
+## 33
+### LEARNING UNIT 4: Liberalism
+
+- **Core Principles**
+  - Cooperation among actors in the international system is possible.
+  - Actors agree to common rules and institutions, leading to mutual benefits.
+  - Anarchy exists but is not the primary source of conflict; instead, conflicts stem from totalitarian regimes, imperialism, and social issues.
+  
+- **Actors & Interdependence**
+  - Actors include states, international organizations, and non-state actors.
+  - Complex interdependence allows actors diverse cooperation options (coercion, bargaining, negotiation) (Moravcsik, 1992:13).
+
+- **Approach to Change**
+  - Change is welcomed, with an emphasis on negotiation.
+  - Incremental changes are more likely than radical transformations (Mingst, 2004:85).
+
+### Case Study: Boko Haram
+- Boko Haram's violence has escalated in Cameroon, leading to significant casualties and displacements.
+- It conducted over 500 attacks in two years, resulting in 1,300 civilian deaths and 120 soldiers killed.
+
+## 34
+### THEME II: THEORIES IN INTERNATIONAL RELATIONS
+
+#### 4.6 THE LIMITATIONS OF LIBERALISM
+- **Moral Idealism**
+  - Assumes moral behavior and equality, neglecting self-interest and power dynamics (Moravcsik, 1992:11).
+  
+- **Interventionism**
+  - R2P concept shows moralism's limits, as power structures can undermine state behavior (Keohane, 2012).
+
+- **Historical Context**
+  - Liberalism was ineffective during the lead-up to WWII; states focused on power politics rather than cooperation (Jackson & Sørensen, 2007:36).
+  
+- **Critiques of Liberal Institutions**
+  - Institutions fail to foster cooperation; power dynamics prevail (Blanton & Kegley, 2015:33).
+
+- **Global Context**
+  - Transnational actors may overshadow state power (Walt, 1998:32).
+  - Cooperation on trade/environment achieved, but security remains problematic (Blanton & Kegley, 2015:33).
+  
+- **Forced Migration**
+  - Liberalism struggles with forced migration policy responses amid economic anxiety and security concerns (Gibney, 1999:169–70).
+
+- **Decolonial Perspective**
+  - Liberal emphasis on equality does not change oppressive power dynamics in international relations, perpetuating dependency of Global South on Global North (Grosfoguel, 2007:219).
+
+## 36
+### 4.7 SUMMARY
+- **Core Concerns**
+  - Interdependence and cooperation are essential for peace and collective gains.
+  
+- **Key Actors**
+  - Includes states and various organizations.
+  
+- **Central Concepts**
+  - Freedom, reciprocity, complex interdependence, and the role of international institutions.
+
+- **Peace and Conflict Approach**
+  - Cooperation sought despite conflicts and anarchy.
+
+- **Beliefs about Change**
+  - Gradual change encouraged through cooperation; radical change unlikely.
+
+- **Levels of Analysis**
+  - **Individual:** Intrinsic goodwill and cooperation potential.
+  - **State:** Freedom limited by agreed-upon rules.
+  - **International:** Complex interdependence among actors; conflict arises from multiple sources, not solely anarchy.
+
+- **Criticisms**
+  - **Realists:** Emphasize anarchy-induced conflict and human selfishness over idealism.
+  - **Constructivists:** Focus on social constructs shaping international relations.
+  - **Decolonialists:** Critique liberalism's failure to recognize ongoing power imbalances.
+
+## 37
+### LEARNING UNIT 5: Constructivism
+#### 5.1 KEY WORDS
+- Constructivism, Post-Positivism, Norms, Intersubjectivity, Identity, Cold War, Capitalism, Knowledge, Material wealth, Communism, Verstehen, Learning.
+
+#### 5.2 CONSTRUCTIVIST CHALLENGE TO DOMINANT IR THEORIES
+- **Critique of Realism and Liberalism**
+  - Both overlook social dimensions (D’Anieri, 2014:97; Fierke, 2010:198).
+  
+- **Social Interactions' Role**
+  - Ideas, cultures, and identities critically influence international decisions.
+- **Uncertainty in Behavior**
+  - Social interactions introduce unpredictability but allow for behavioral predictions if studied adequately.
+----- END OF CHUNK -----
+### IPC3701/1
+#### LEARNING UNIT 5: Constructivism
+
+- **5.1 Overview**
+  - Constructivism posits that states form rules and agreements, impacting legitimacy and reducing anarchy (Lawson, 2015:156).
+  - Onuf (1989) argues that states moderate behavior based on common norms.
+
+- **5.2 Key Definitions of Power**
+  - Power defined as the ability to influence others against their will.
+  - Realists and liberals emphasize material resources, while constructivists focus on ideas and social influence.
+
+#### 5.3 MAIN ASSUMPTIONS OF CONSTRUCTIVISM IN INTERNATIONAL RELATIONS THEORY
+1. **Role of Individuals**
+   - Individuals influence community and governmental decisions and international politics based on background and culture.
+
+2. **Interpretation**
+   - No absolute right or wrong in understanding; perspectives are influenced by differences in culture and knowledge.
+
+3. **Multiple Influences**
+   - International politics shaped by quantifiable (material) and unquantifiable (experiential, values) factors.
+
+- **Historical Context**
+  - Emerged in response to inadequacies of realism and liberalism around the late Cold War period (Baylis, Smith & Owens, 2014:134).
+
+#### 5.4 THEORETICAL FRAMEWORK
+- **5.4.1 Individual Level of Analysis**
+  - Ideas and norms shape international relations, stressing shared experiences and identities (D’Anieri, 2014:97–98).
+  - **Noteworthy Case Study:** Mikhail Gorbachev's reforms during the Cold War enhanced his role in shaping perceptions.
+
+- **5.4.2 State Level of Analysis**
+  - State actions influenced by norms and identities that eventually become institutionalised (D’Anieri, 2014:101).
+  - Constructivism is essential for understanding international relations beyond materialism.
+
+  - **Key Concepts:**
+    - Shared norms and identities can predict actions and behaviors.
+    - Violations of social norms risk state legitimacy (Lawson, 2015:156).
+  
+  - **Case Study:** "Armageddon Letters" during the Cuban Missile Crisis illustrate varying perspectives of Cuba, USSR, and USA.
+
+- **5.4.3 International Level of Analysis**
+  - Interaction of norms, ideas and individual actions shapes the international system.
+  - Identity can oscillate between national and international spheres, facilitating a complex consensus based on social interactions.
+
+### Summary of Key Legislation and Cases
+- **Legislation:** Various social and cultural contexts as frameworks for constructing knowledge and identity within international relations.
+- **Cases:** Role of Gorbachev in the Cold War, Armageddon Letters during the Cuban Missile Crisis showcasing differing national perspectives.
+
+This reconstruction aims to capture the core principles of constructivism in international relations while preserving the document's structure and references to legislation and significant cases.
+----- END OF CHUNK -----
+# IPC3701/1  
+## 45  
+### LEARNING UNIT 5: Constructivism  
+
+- **Constructivism Overview**
+  - Focus on identity formation by non-governmental actors and institutions (Blanton & Kegley, 2015:37).
+  - Norms and principles influence behavior, ideas, and beliefs, creating mutual legitimacy for actions.
+  - Violations of collective norms lead to consequences, such as ICC or ICJ indictments or sanctions.
+
+- **Subjectivity of Norms**
+  - Norms are socially constructed; their validity is debated due to lack of a single objective reality (D’Anieri, 2014:102; Fierke, 2010:189, 191; Lawson, 2015:156).
+
+- **Concept of Power**
+  - Constructivism expands the definition of power to include the influence of ideas, contrasting with realism and liberalism's focus on material resources (D’Anieri, 2014:99).
+  - It critiques the simplistic categorization of international relations by acknowledging the complexity of ideas’ influence.
+
+- **Anarchy and Cooperation**
+  - Anarchy is deemed complex, not just a feature of international relations; cooperation is facilitated by agreed rules (Onuf, 2013; Lawson, 2015:156–157).
+  - States navigate anarchy through constructed identities and relationships, implying that these structures support cooperation.
+
+- **Comparative Analysis with Other Theories**
+  - Constructivists argue against realists’ views on anarchy and cooperation, proposing a more nuanced understanding of international relations (D’Anieri, 2014:97).
+
+- **Ideological Context: Capitalism vs. Communism**
+  - The Cold War illustrated ideological competition where USA (capitalism) and USSR (communism) employed economic and technological strategies (Marshall Plan vs. Molotov Plan).
+
+## 46  
+### THEME II: THEORIES IN INTERNATIONAL RELATIONS  
+- **Constructivist Cooperation**
+  - Shared identities and norms promote cooperation across state lines (D’Anieri, 2014:103).
+  - Constructivists acknowledge existing power structures but vary from decolonial perspectives.
+
+### 5.5 A CRITIQUE OF CONSTRUCTIVISM  
+- **Criticism of Constructivist Approach**
+  - Viewed as a lens rather than a cohesive theory; focuses on perceptions instead of categorical norms (Blanton & Kegley, 2015:35; D’Anieri, 2014:97).
+  - Critics argue lack of empirical methodology hampers constructivism's legitimacy (Fierke, 2010:181).
+
+- **Neorealism's Challenge**
+  - Neorealists emphasize material wealth as more determinative than social norms in state behavior (Blanton & Kegley, 2014:37).
+  - Norms are seen as superficial tools rather than deeply constructed social elements (Jackson & Sørensen, 2007:173).
+
+- **Liberalism's Perspective**
+  - Similar critiques focus on material capacity's role in determining states' capabilities within structures (Blanton & Kegley, 2014:37).
+
+- **Questions on Norms and Methodology**
+  - Ambiguity in how norms and identities are constructed and disseminated is noted (Blanton & Kegley, 2014:39).
+
+- **Decolonialist Critique**
+  - Constructivism is challenged for accepting prevailing power dynamics and relationships, questioning the creation of identities in frameworks of oppression.
+
+### UNIT SUMMARY AND COMPARATIVE SUMMARY  
+- **Core Concerns**  
+  - Cooperation amid potential anarchy is achievable through constructed norms and structures.
+  
+- **Key Actors**  
+  - Individuals and organizations significantly influence societal values and norms.
+  
+- **Levels of Analysis**  
+  - Individual, state, and international analyses highlight the interplay of beliefs and material constraints.
+
+- **Major Theorists**  
+  - Influential scholars include Immanuel Kant, Karl Deutsch, Ernst Haas, Nicholas Onuf, Alexander Wendt.
+
+### RECOMMENDED READINGS  
+- **Key Texts**  
+  - Deutsch (1968), Haas (1964, 1990), Onuf (2013), Wendt (1992).
+
+## 50  
+## 6 LEARNING UNIT 6: Decoloniality  
+### STUDY OBJECTIVES  
+- Understanding the decolonial approach, differentiating between postcoloniality and decoloniality.
+
+### 6.1 KEY CONCEPTS  
+- Key terms include coloniality, coloniality of power, being, knowledge, epistemology, de-Westernisation, and others.  
+
+### 6.2 BACKGROUND TO DECOLONIALITY  
+- Decoloniality identifies coloniality as the root of injustice in international relations.
+- Distinction between colonialism (historical) and coloniality (ongoing power dynamics) is crucial.
+----- END OF CHUNK -----
+**IPC3701/1**  
+**51**  
+**LEARNING UNIT 6: Decoloniality**  
+- Coloniality persists post-colonisation and is embedded in cultural, racial, and moral knowledge systems through Euro-American perspectives.  
+- Decoloniality advocates for a shift from dominant Euro-American viewpoints to include marginalized epistemologies and lived experiences.  
+- It necessitates re-evaluating history, geography, and biology, empowering an authentic understanding of international relations.
+
+### 6.3 LEVELS OF ANALYSIS  
+- Decolonial scholars argue against using Western analysis tools for international relations.  
+- Reject Western epistemology; decoloniality is the study unit's architectural framework, built on three pillars:
+  - **Coloniality of Power**  
+  - **Coloniality of Being**  
+  - **Coloniality of Knowledge**  
+
+### 6.4 COLONIALITY OF POWER  
+- **Definition:** Modern power dynamics rooted in racial classifications as posited by **Anibal Quijano** (2000, 2007).
+- **Key Points:**  
+  - **Economic Exploitation:** Dispossession and control of resources in the Global South.  
+  - **Military Control:** Global North's dominance in institutions like the UN.  
+  - **Education as Control:** European-centered education erases indigenous knowledge of gender and identity.  
+  - **Knowledge Colonization:** Indigenous knowledge deemed inferior, affecting legitimacy in international relations.  
+- Traditional approaches to international relations often dismiss decolonial perspectives, worsening power imbalances.
+- Rising economies (e.g., **BRICS**) misleadingly perceived as decolonisation examples; reality reflects persistent dominance and lack of structural change.
+
+### 6.5 COLONIALITY OF BEING  
+- Refers to the racial/imperial perspective shaping views on Global South states, deeming African peoples as inferior.
+- **Central Elements:**
+  - Systemic violence and dehumanization of African peoples.
+  - State violence reinforced by leaders using colonial institutions for oppression.
+- **Language's Role:** Language imposed by colonialism alienates individuals from their identity and culture.
+- Comparisons of individualism in Western vs. indigenous collectivist contexts highlight differing worldviews.
+- The Global North's narrative perpetuates the idea of Global South peoples as inferior, impacts their agency in international relations, and denies their historical depth.  
+- **Example Reference:** **Bernard M. Magubane**’s work on racial constructs illustrating the negative implications of coloniality of being on agency and identity.
+
+### **Diagram References**  
+- [Diagrams illustrating frameworks of coloniality: Coloniality of Power, Being, Knowledge]  
+
+**IPC3701/1**  
+**53**  
+**Learning Unit 6: Decoloniality (Continued)**  
+- Continued focus on the experiences of the Global South reflects an ongoing struggle against existing colonial frameworks.
+----- END OF CHUNK -----
+**IPC3701/1**  
+**58**  
+
+---
+
+### LEARNING UNIT 6: Decoloniality
+
+#### 6.6 COLONIALITY OF KNOWLEDGE
+- **Definition**: Final analysis level; critique against Eurocentric knowledge dominance in international relations.
+- **Key Argument**: Knowledge production is controlled by Eurocentric systems, limiting global South perspectives (Hountondji, 1992:242).
+- **Exploitation**: Knowledge colonization parallels material exploitation, enriching Western narratives while marginalizing local insights.
+
+#### 6.7 RESPONSES BY DECOLONIAL THINKERS
+- **Geo-Politics of Knowledge**: Recognizes multiple modernities; challenges the singular Euro-American narrative (Mignolo, 2009:15).
+- **Epistemic Disobedience**: Critical to challenge prevailing international relations knowledge; involves disengaging from colonial power narratives.
+- **Colonial Matrix of Power**: Must reveal the “darker side” of knowledge structures; aim to disrupt established Eurocentric epistemologies (Mignolo, 2012:xvi).
+
+#### 6.8 DIFFERENCE BETWEEN POSTCOLONIALITY AND DECOLONIALITY
+- **Postcoloniality**: Focuses on cultural criticisms of Eurocentric theories; highlights European theoretical vocabulary limitations (Hume, 2008:395).
+- **Decoloniality**: Critiques power, knowledge, and being systems; argues these maintain coloniality in international relations.
+
+---
+----- END OF CHUNK -----
+# IPC3701/1   
+## 63  
+### LEARNING UNIT 6: Decoloniality  
+- **Decoloniality vs. Postcoloniality**  
+  - Critiques Euro-American theories; emphasizes subjects' experiences.  
+  - Postcoloniality maintains Euro-American dominance (Maldonado-Torres, 2008).  
+  - Key theories: realism, liberalism, structuralism, constructivism.  
+  - Decoloniality critiques the colonial embeddings in these theories.  
+  - Aims to unmask inappropriateness for the Global South.
+
+### 6.9 CRITICISMS AGAINST DECOLONIALITY  
+- Early stage as a formalized knowledge system in international relations.  
+- **Criticisms**:  
+  1. **Reliance on Latin American Thinkers**:  
+     - Focus on thinkers like Mignolo, Grosfoguel, Quijano, and Torres.  
+     - Necessitates exploration of indigenous frameworks outside Latin America.   
+     - Suggests identifying African thinkers (e.g., Ndlovu-Gatsheni, Zondi).  
+  2. **Role of Language**:  
+     - Question assumptions of indigenous languages as intrinsically liberating.  
+     - Recognition of patriarchal structures in non-European societies.  
+  3. **Progress of Eurocentric Theories**:  
+     - Claims theories too developed for alternatives to “catch up.”  
+     - Acceptance of status quo by world leaders; African leaders cling to colonial state structures.
+
+### 6.10 CONCLUSION  
+- **Three Levels of Global Coloniality**:  
+  - Coloniality of Power: Contemporary domination and exploitation.  
+  - Coloniality of Knowledge: Western narratives dominate epistemology; represents epistemological colonization.  
+  - Coloniality of Being: Systemic dehumanization and inferiorization of Global South peoples.  
+- **Need for Decolonization**:  
+  - Current theories reinforce global coloniality and unjust international relations.  
+  - Emphasizes epistemic and ontological decolonization for legitimacy in international relations.  
+  - Advocates for an unapologetic, anti-Eurocentric framework for powering decolonization.
+
+## 66  
+### THEME III: Conclusions: The Future of International Relations Theory  
+- IR's inception post-WWI at Aberystwyth; valuable in understanding state relations.  
+- Dominance of Eurocentric theories fails to account for Global South's position.  
+- Modern world system arose from European modernity, hypocritical in nature.  
+- States in Global North hold privileged status over Global South, creating ontological disparities.  
+- **Decoloniality Perspective**:  
+  - Aims to dismantle racial, gender, geo-political hierarchies established in modern order (Maldonado-Torres, 2011).  
+  - Envisions a new, equitable humanity (Ndlovu-Gatsheni, 2015).  
+- **Integration of African Perspectives**:  
+  - Recognized as essential for advancing the understanding of IR, though facing resistance among scholars.  
+- **Case Study - NATO in Libya (2011)**:  
+  - Realist interpretation sees invasion as maintaining order and preventing civilian harm.  
+  - Decolonial interpretation views it as recolonization under guise of Responsibility-to-Protect (R2P).  
+- Critical examination of international actions exemplifies Euro-American interventionism without UN approval.
+----- END OF CHUNK -----
+### IPC3701/1
+
+---
+
+#### THEME III: Conclusions: The future of international relations theory
+
+- **Critique of Western Intervention**
+  - Intervention seen as noble in the North; McCormack (2011: 37) claims invasions of Afghanistan and Iraq harmed moral consensus.
+  - Recognition of crimes against humanity by dictators—Saddam Hussein, Muammar Gaddafi, Robert Mugabe.
+
+- **Nuanced Understanding of IR**
+  - Future IR theories must reflect unique experiences of the Global South.
+  - Eurocentric theories insufficient for explaining IR from a Global South perspective.
+  - Call for situated thinking beyond traditional Eurocentric theories (Ndlovu-Gatsheni 2015).
+
+- **Contextualizing Established Theories**
+  - Theories such as realism, liberalism, structuralism, and constructivism are relevant primarily to Euro-American contexts.
+  - Inadequacy in addressing African conflicts signals need for epistemic break from mainstream theories.
+
+- **Pluriversality of Knowing**
+  - International relations theory must embrace multiple understandings beyond Euro-American epistemologies.
+  - Emphasizes self-definition of relations and struggles by marginalized voices.
+
+- **Principle of Engagement**
+  - Mutual self-interest relies on ethical commitments; defines "benevolent cooperation."
+  - States in the Global North should recognize and respect interests of Global South states.
+  
+- **Decolonial Approach to IR**
+  - Acknowledges Global South’s emerging political and economic powers creating sustainable development through cooperation.
+  - Cooperation based on mutual respect, trust, and commitment to social justice.
+
+### BIBLIOGRAPHY
+
+(Full bibliography retained for reference but not displayed here for brevity.)

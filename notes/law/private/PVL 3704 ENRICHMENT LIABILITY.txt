@@ -1,0 +1,1088 @@
+## LEARNING UNIT 1: GENERAL OVERVIEW AND INTRODUCTION TO ESTOPPEL
+
+### 1.1 GENERAL OVERVIEW
+- Reference to general overview in Study Guide 1 for PVL3704 (Unjustified enrichment liability).
+- Study material: This unit relies on the study guide and pertinent case law listed under Prescribed Study Material.
+
+### 1.2 INTRODUCTION TO ESTOPPEL
+- **Estoppel**: Prevents a party from contradicting a previous statement or behavior that another party has relied upon.
+
+#### 1.2.1 Meaning of the concept “estoppel”
+- Generally seen in contexts where one party is prohibited from asserting something contrary to what is agreed upon or implied by previous conduct.
+
+---
+
+## LEARNING UNIT 2: THE ENGLISH AND SOUTH AFRICAN LAW OF ESTOPPEL
+
+### 2.1 ORIGIN AND DEVELOPMENT OF ESTOPPEL IN ENGLISH LAW
+- Traced from historical legal principles influencing current practices in estoppel.
+
+### 2.2 RECEPTION OF THE ENGLISH LAW PRINCIPLES OF ESTOPPEL BY REPRESENTATION
+- South African law adopts and modifies English principles for local context.
+
+### 2.3 REQUIREMENTS OF ENGLISH LAW FOR ESTOPPEL BY REPRESENTATION
+- Specific criteria must be established for invoking estoppel, assessing representation and reliance.
+
+---
+
+## LEARNING UNIT 3: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: INTRODUCTION; MISREPRESENTATION
+
+### 3.1 INTRODUCTION
+- Overview of prerequisites for successfully relying on estoppel.
+
+### 3.2 MISREPRESENTATION
+- Elements of misrepresentation crucial for establishing estoppel.
+
+#### 3.2.1 Representation
+- Definition and characteristics essential for valid claims of estoppel.
+
+#### 3.2.2 Misrepresentation
+- Types and implications of misrepresentation in estoppel.
+
+#### 3.2.3 Misrepresentation by omission (omissio)
+- Consequences of failing to disclose necessary information.
+
+#### 3.2.4 Misrepresentation involving property possession
+- Legal ramifications when property is entrusted based on misinformation.
+
+#### 3.2.5 The person to whom the misrepresentation must be made
+- Designated individuals necessary for establishing a case of estoppel.
+
+---
+
+## LEARNING UNIT 4: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: FAULT
+
+### 4.1 INTRODUCTION: INTENT AND NEGLIGENCE
+- Examination of fault criteria impacting estoppel claims.
+
+### 4.2 THE NEGLIGENCE REQUIREMENT IN SOUTH AFRICAN CASE LAW
+- Analysis of negligence in relevant case law and its influence on estoppel.
+
+### 4.3 CASES WHERE NEGLIGENCE IS NOT REQUIRED
+- Specific situations and exceptions outlined in legal precedents.
+
+#### 4.3.1 Cases where the rei vindicatio is not applicable
+- Instances where traditional property claims are overridden by estoppel principles.
+
+#### 4.3.2 A possible exception: the agent for sale or factor
+- Unique considerations for agents in relation to estoppel.
+
+### 4.4 FAULT ON THE PART OF THE DECEIVED PERSON
+- Assessment of the deceived party's actions and responsibility.
+
+---
+
+## LEARNING UNIT 5: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: PREJUDICE
+
+### 5.1 INTRODUCTION
+- Due consideration of prejudicial effects to the claimant in estoppel cases.
+
+### 5.2 TWO APPROACHES
+- Different methodologies in assessing prejudice for estoppel claims.
+
+---
+
+## LEARNING UNIT 6: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: CAUSATION
+
+### 6.1 INTRODUCTION: FACTUAL AND LEGAL CAUSATION
+- Distinction and application of causation in estoppel contexts.
+
+### 6.2 THE “PROXIMATE CAUSE” TEST
+- Framework for determining direct causation relevant to estoppel claims.
+
+---
+
+## LEARNING UNIT 7: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: THE RELIANCE ON ESTOPPEL MUST BE PERMISSIBLE IN LAW
+
+### 7.1 INTRODUCTION
+- Legal permissibility as a criterion for estoppel applications.
+
+### 7.2 ILLEGAL OR INVALID ACTS
+- Challenges faced when estoppel is invoked in prohibited transactions.
+
+### 7.3 ULTRA VIRES ACTS
+- Examination of acts beyond legal authority and implications for estoppel.
+
+### 7.4 STATUS AND LEGAL CAPACITY
+- Analysis of legal standing affecting estoppel claims.
+
+### 7.5 HIRE-PURCHASE CONTRACTS (CREDIT AGREEMENTS)
+
+#### 7.5.1 Introduction
+- Overview of estoppel's role in hire-purchase agreements.
+
+#### 7.5.2 Hire-purchase transactions in case law
+- Relevant rulings illustrating application of estoppel in these contracts.
+
+#### 7.5.3 Conclusion
+- Summarizing judicial views on estoppel in credit agreements.
+
+---
+
+## LEARNING UNIT 8: THE APPLICATION OF ESTOPPEL IN CERTAIN PRACTICAL INSTANCES
+
+### 8.1 INTRODUCTION
+- Understanding various contextual applications of estoppel.
+
+### 8.2 ESTOPPEL AND THE REI VINDICATIO
+
+#### 8.2.1 The effect of a successful reliance on estoppel against the rei vindicatio
+- Impact of estoppel on ownership recovery claims.
+
+### 8.3 ESTOPPEL AND REPRESENTATION IN TERMS OF MANDATE
+- Legal interpretations of estoppel regarding agency representations.
+
+### 8.4 ESTOPPEL AND PARTNERSHIP
+- Dynamics of estoppel within partnership agreements.
+
+### 8.5 ESTOPPEL AND THE CONCLUSION OF A CONTRACT
+- Role of estoppel in contract formation scenarios.
+
+### 8.6 ESTOPPEL AND WAIVER OF RIGHTS
+- Discussion on relinquishing rights and implications of estoppel.
+
+---
+
+## LEARNING UNIT 9: THE BASIS AND NATURE OF ESTOPPEL
+
+### 9.1 INTRODUCTION
+- Fundamental theories underpinning estoppel.
+
+### 9.2 THE EXCEPTIO DOLI
+- Relevant legal doctrine concerning estoppel versus wrongful acts.
+
+### 9.3 THE MAXIM NEMO CONTRA SUUM FACTUM VENIRE DEBET
+- Principle that prevents contradictory assertions regarding agreements.
+
+### 9.4 PROTECTION OF GOOD FAITH
+- Estoppel as a mechanism for safeguarding good faith transactions.
+
+### 9.5 MISREPRESENTATION
+- Reaffirmation of misrepresentation's role within estoppel.
+
+### 9.6 ESTOPPEL AS A RULE OF EVIDENCE
+- Framework for utilizing estoppel as an evidentiary rule in litigation.
+
+### 9.7 ESTOPPEL AS A LEGAL REMEDY SUI GENERIS
+- Characterizing estoppel as a unique legal remedy.
+----- END OF FILE -----
+# LEARNING UNIT 1: GENERAL OVERVIEW AND INTRODUCTION TO ESTOPPEL
+
+## 1.1 Types of Examination Questions
+- Straightforward theoretical questions
+- Problem-type questions
+  - Identify legal issue (1−2/10)
+  - Discuss applicable rules (3−4/10)
+  - Apply rules to facts (3−4/10)
+  - Provide solution (1−2/10)
+- Critical assessment questions
+  - Recognise the issue (1−2/10)
+  - Summarise varying viewpoints (3−4/10)
+  - Evaluate viewpoints critically (3−4/10)
+  - Present own reasoned viewpoint (1−2/10)
+
+## 1.2 INTRODUCTION TO ESTOPPEL
+
+### 1.2.1 Meaning of the Concept “Estoppel”
+- **Estop**: Comes from Latin *stuppa*, means to bar or preclude; legal preclusion under specific circumstances.
+- **Bower's Definition**: In English jurisprudence, “estop” and “estoppel” carry technical significance distinct from their general meanings.
+
+### Definition:
+- **Estoppel**: A doctrine preventing a person from asserting a fact different from what has been represented, which may have led another party to change their legal position to their detriment.
+
+### Example:
+- **Case**: *Thomas v Baumann & Gilfillan* 1914 TPD 197
+  - Mrs. Thomas undertook to pay a debt, leading B & G to rely on her misrepresentation, which prevented her from claiming protection under the law against her brother.
+
+### Summation:
+- Doctrine holds a person to representations made through actions or words, preventing reliance on the actual state of affairs after detrimental reliance.
+
+---
+
+# LEARNING UNIT 2: THE ENGLISH AND SOUTH AFRICAN LAW OF ESTOPPEL
+
+## 2.1 ORIGIN AND DEVELOPMENT OF ESTOPPEL IN ENGLISH LAW
+- **Lord Coke's Distinction**: Three estoppels: by matter of record, by matter in writing, and by matter in pais.
+- **Estoppel by Representation**: Developed from estoppel in pais.
+
+### Chronological Development:
+1. Estoppel by record.
+2. Estoppel by deed.
+3. Estoppel in pais.
+4. Estoppel by representation (originating from equity).
+
+### Meaning of Different Forms:
+- **Estoppel by Record**: Content of royal court documents cannot be denied.
+- **Estoppel by Deed**: Contents of official documents cannot be denied.
+- **Estoppel in Pais**: Concerned with land transfer, cannot be denied under specific circumstances.
+
+### Transfer of Land:
+- Historically linked to Germanic law; formal acts were required for valid land transfer.
+
+---
+
+## 2.2 RECEPTION OF THE ENGLISH LAW PRINCIPLES OF ESTOPPEL BY REPRESENTATION
+- South African law incorporates English law of estoppel, influenced by common law and principles of equity.
+
+### Prescribed Case Law:
+- *Trust Bank van Afrika Bpk v Eksteen* 1964 3 SA 402 (A)
+
+---
+
+## 2.3 REQUIREMENTS OF ENGLISH LAW FOR ESTOPPEL BY REPRESENTATION
+- Estoppel by representation applies when a party's misrepresentation leads another to change their position to their detriment.
+
+### Case Law Development:
+- **Hunt v Carew (1649)**: First case granting relief for intentional misrepresentation.
+- **Hobbs v Norton (1682)**: Established negligent misrepresentation also results in estoppel.
+- **Montefiori v Montefiori (1762)**: First application of estoppel by representation in common law.
+
+### Principle Formulation:
+- **Pickard v Sears (1837)**: Clear rule established regarding representations causing belief in a certain state of affairs leading to actions detrimental to the other party. 
+
+--- 
+
+### Additional Reading Material (Optional)
+- *Baumann v Thomas* 1920. AD 428.
+- Rabie, PJ. “Estoppel” in LAWSA Volume 9 2nd ed. 
+- Van der Merwe, S and Van Huyssteen, LF. “Elements of Estoppel by Representation” TSAR 1988.
+
+(Following diagrams refer to the history and development of estoppel.)
+----- END OF FILE -----
+# LEARNING UNIT 2: THE ENGLISH AND SOUTH AFRICAN LAW OF ESTOPPEL
+
+## 1. Cases of Unintentional Misrepresentation
+- **Freeman v Cooke**: Estoppel by representation applicable to unintentional misrepresentation.
+- English law's requirement for negligence in unintentional misrepresentation is debated.
+  
+## 2. Reception of the English Law Principles of Estoppel by Representation
+### 2.1 Introduction into South African Law
+- The gradual introduction of “estoppel” into South African legal terminology through judicial decisions.
+- Assertion that English estoppel principles align with Roman-Dutch law principles.
+
+### 2.2 Use of the Term “Estoppel”
+- **Lord de Villiers** (In re Reynolds Vehicle and Harness Factory Ltd 1906): Caution against the term "estoppel" had been issued, but it gained usage by then.
+
+### 2.3 Kotze’s Dictum
+- Kotze CJ acknowledged estoppel's existence in South African law through references to Roman-Dutch legal principles.
+
+### 2.4 Concept of Estoppel in Roman and Roman-Dutch Law
+- Roman-Dutch law had maxims similar to English estoppel but lacked a comprehensive doctrine.
+- **Waterval Estate & Gold Mining Co Ltd v New Bullion Gold Mining Co Ltd 1905**: Judicial endorsement of English doctrine.
+
+### 2.5 Curlewis re the Doctrine of Estoppel in Pais
+- **Curlewis J**: Estoppel in pais parallels the Roman law *exceptio doli mali*; legal outcomes are similar.
+  
+### 2.6 Meaning of Exceptio Doli
+- Supported by **Oakland Nominees (Pty) Ltd v Gelria Mining & Investment Co (Pty) Ltd 1976** and others.
+- **Bank of Lisbon and SA Ltd v De Ornelas 1988**: Declared *exceptio doli* not part of South African law, thus the prevailing legal interpretation.
+
+### 2.7 Appellate Division re Estoppel by Representation
+- **Baumann v Thomas 1920**: English estoppel by representation recognized as part of South African law.
+- Judicial reception of English doctrine is established.
+
+### 2.8 Naturalisation of the Doctrine of Estoppel by Representation
+- **Connock’s (SA) Motor Co Ltd v Sentraal-Westelike Kooperatiewe Maatskappy Bpk 1964**: English doctrine regarded as part of South African law.
+
+### 2.9 New Approach to the Law of Estoppel
+- **Trust Bank van Afrika Bpk v Eksteen 1964**: Appellate Division emphasizes the need to focus on South African law before relying on English authorities.
+
+## 3. Requirements of English Law for Estoppel by Representation
+### 3.1 Proof Required in English Law
+- **Bower** identified the necessary elements for estoppel by representation:
+  - (a) Valid representation deemed legally recognized.
+  - (b) Precise representation must have been made.
+  - (c) Later assertion contradicts earlier representation.
+  - (d) Original representation induced reliance to detriment.
+  - (e) Representation made by the party to be estopped or their representative.
+
+### 3.2 Requirement of Neither Intent Nor Negligence
+- English law does not mandate intent or negligence from the estoppel-denier (Bower avoids referencing negligence in estoppel discussions).
+
+# LEARNING UNIT 3: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: INTRODUCTION; MISREPRESENTATION
+
+## 3.1 Introduction
+- Exploration of conditions for successful estoppel, focusing on misrepresentation as the first requirement.
+
+## 3.2 Misrepresentation
+### 3.2.1 Representation
+### 3.2.2 Misrepresentation
+### 3.2.3 Misrepresentation by Omission (Omissio)
+### 3.2.4 Misrepresentation Concerning Property Entrusted
+### 3.2.5 The Individual to Whom Misrepresentation Must Be Made
+
+## Overview
+- Reliable estoppel requires proof of specific conditions/elements; the study units elaborate on misrepresentation as a primary requirement. 
+
+**Diagrams referenced in text are to be utilized in conjunction with content discussions accordingly.**
+----- END OF FILE -----
+### PRACTICAL SCENARIOS 
+
+- **Scenario 1**: A recognizes his cow at an auction but does not claim it before it is sold to B; assessment of the **principle of rei vindicatio**.
+- **Scenario 2**: C entrusts his car to D, who sells it to E; can E successfully plead **estoppel** when C claims his car?
+
+---
+
+### LEARNING OUTCOMES 
+
+- Requirements for successful reliance on estoppel
+- Definition and examples of representation
+- Definition and criteria for misrepresentation
+- Circumstances constituting omission as misrepresentation
+- Conditions under which an owner misrepresents by leaving property with another
+- Target of misrepresentation for invoking estoppel
+
+---
+
+### PRESCRIBED CASE LAW 
+
+- **Electrolux (Pty) Ltd v Khota** 1961 4 SA 244 (W) 
+
+---
+
+### LEARNING UNIT 3: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: INTRODUCTION; MISREPRESENTATION 
+
+#### 3.1 INTRODUCTION
+
+- **Doctrine of Estoppel**: Prevents denial of established beliefs if one party induces another to act detrimentally based on those beliefs.
+- **Requirements for Estoppel**:
+  1. Creation of a false belief by the estoppel-denier.
+  2. Fault (intent or negligence) of the estoppel-denier.
+  3. Prejudice to the estoppel-asserter.
+  4. Causation between the prejudice and the reliance on the misrepresentation.
+  5. Applicability of estoppel in law to the specific case. 
+
+#### 3.2 MISREPRESENTATION 
+
+- **Creation of False Impression**: Misrepresentation is inherent in the doctrine of estoppel.
+- **Requirements**: 
+  - A representation must be made that creates a false impression; both aspects are encompassed in misrepresentation.
+  
+##### 3.2.1 Representation 
+
+- Any word or conduct can constitute a representation, including silence.
+- **Nature of Representation**:
+  - Must pertain to facts, not future intentions. 
+  - Here, silence or non-action can imply representation.
+
+##### 3.2.2 Misrepresentation 
+
+- **Requirement**: Representation must reflect an untruth for it to be a misrepresentation.
+- **Determination Criteria**:
+  - Misrepresentation assessed based on community legal views (eoni mores).
+  - Tested against requirements like intention to mislead or reasonable expectations of misleading impacts.
+  
+---
+
+##### 3.2.3 Misrepresentation by Omission (Omissio)
+
+- An omission is misrepresentation if there’s a legal duty to act, failing which leads to detrimental reliance by another party.
+
+--- 
+
+### ADDITIONAL READING MATERIAL (OPTIONAL)
+
+- Rabie, PJ (updated by Daniels). "Estoppel" in LAWSA.
+- Rabie, PJ and Sonnekus, JC. *The law of estoppel in South Africa*.
+- Van der Merwe, S. “Estoppel as gevolg van ’n late en die sogenaamde plig om te spreek”. 
+- Van Huyssteen, LF and Van der Merwe, S. “Estoppel by representation”.
+- Visser, PJ and Potgieter, JM. *Estoppel: cases and materials*.
+
+--- 
+
+*For a detailed understanding, refer to the prescribed case law and additional readings for context and principles discussed.*
+----- END OF FILE -----
+# LEARNING UNIT 3:
+## REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: INTRODUCTION; MISREPRESENTATION
+
+### Duty to Act Positively
+- English law refers to the "duty to act or speak."
+- No unanimity on whether this duty is necessary for misrepresentation by omission leading to estoppel (See **De Wet 45-54; Van der Merwe 1964 THRHR 57-60**).
+- De Wet: duty to act does not create or fail to rectify a misconception.
+- Silence can induce reliance without a duty to speak (according to De Wet’s explanation).
+
+### Misrepresentation Contrary to Legal Duty
+- Establishing a misrepresentation demands assessing objective reasonableness.
+- A misrepresentation emerges only if the omission contravenes a legal duty under prevailing circumstances.
+
+### Duty to Act Positively
+- No general duty to rectify misconceptions (**Parsons v Langemann and Others 1948 4 SA 258 (C); Fellner v Donges NO 1953 3 SA 517 (T)**).
+- Legal duty may arise in specific contexts where community standards imply a duty to act.
+- Estoppel may occur when parties are expected to act positively based on the relationship.
+
+### Objective Reasonableness or Eoni Mores
+- Duty to speak or act arises if reasonable for avoiding detriment to another.
+- Assessment based on the relationship and surrounding circumstances (**LAWSA para 656**).
+
+### Misrepresentation in Terms of Entrustment
+- Misrepresentation can occur when property is entrusted to another.
+- Questions of whether possession implies ownership arise frequently in court cases.
+  
+#### Example: Adams v Mocke 23 SC 722
+- A's driver hired a mule, leading to misunderstandings about possession.
+  
+#### Example: Morum Bros Ltd v Nepgen 1916 CPD 392
+- A's sale subject to a suspensive condition; possession before payment does not imply ownership.
+
+### Separation of Ownership from Possession
+- Without clear evidence, mere possession does not infer ownership.
+- Misrepresentation is determined by how a reasonable person perceives the scenario.
+
+### Handing Over of Title Documents
+- Conduct that provides documents may imply a misrepresentation.
+  
+#### Example: Fawdon v Lelyveld 1937 TPD 339
+- Owner's false receipt allowed a misrepresentation regarding ownership, leading to estoppel claim success.
+
+### Person to Whom Misrepresentation Must Be Made
+- Misrepresentation must be directed to the party pleading estoppel.
+- It can be sufficient if made to a public group of which the claimant is a member (**LAWSA para 660; See also Fellner v Donges 1953 2 SA 517 (T)**). 
+
+### Diagrams & Illustrations
+- Refer to relevant diagrams for conceptual clarity on misrepresentation and estoppel.
+
+### References
+- **De Wet** (various pages), **Parsons**, **Fellner**, **Adams v Mocke**, **Morum Bros Ltd v Nepgen**, **Fawdon v Lelyveld**, **Electrolux case**, and applicable **LAWSA** guidelines.
+----- END OF FILE -----
+# LEARNING UNIT 4
+## REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: FAULT
+
+### CONTENTS
+- **4.1 INTRODUCTION: INTENT AND NEGLIGENCE** 29
+- **4.2 THE NEGLIGENCE REQUIREMENT IN SOUTH AFRICAN CASE LAW** 30
+- **4.3 CASES WHERE NEGLIGENCE IS NOT REQUIRED** 35
+  - **4.3.1 Cases where the rei vindicatio is not applicable** 35
+  - **4.3.2 A possible exception: the agent for sale or factor** 38
+- **4.4 FAULT ON THE PART OF THE DECEIVED PERSON** 38
+
+---
+
+### 4.1 INTRODUCTION: INTENT AND NEGLIGENCE
+- Fault: May be in the form of **intention** (dolus) or **negligence** (culpa).
+- **Intent** not required for estoppel; negligence requirement is debated.
+- Negligence test:
+  - Reasonable person must foresee loss to deceived; failure to prevent loss constitutes negligence.
+
+### 4.2 THE NEGLIGENCE REQUIREMENT IN SOUTH AFRICAN CASE LAW
+- Historical cases (1864): Absence of culpa led to liability escape (e.g., **Preuss v Seligmann & Prins 1864**).
+  
+**Key Cases:**
+- **Riddelsdell v Williams 1874**: Lessee misled; required culpable negligence from lessee for estoppel.
+- **Muller v Chennels 1923**: Estoppel raised against owner; no negligence from purchaser; negligence by seller.
+
+- **Grosvenor Motors case**: Steyn JA emphasized **culpa** must exist for estoppel in rei vindicatio context.
+- **Johaadien v Stanley Porter (Pty) Ltd 1970**: Majority held negligence required for estoppel; dissenting view did not require proof of negligence.
+
+### 4.3 CASES WHERE NEGLIGENCE IS NOT REQUIRED
+- **4.3.1 Cases where the rei vindicatio is not applicable**: Specific cases illustrate situations where estoppel can be invoked regardless of negligence requirement.
+- **4.3.2 A possible exception: the agent for sale or factor**: Discusses potential for estoppel without culpa against commercial agents.
+
+### 4.4 FAULT ON THE PART OF THE DECEIVED PERSON
+- Evaluates scenarios where the deceived individual's fault may impact estoppel invocation.
+- Positions explored where misled party's own negligence may limit reliance on estoppel.
+
+---
+
+### PRESCRIBED CASE LAW
+- **Akojee v Sibanyoni 1976 3 SA 440 (W)**
+- **Grosvenor Motors (Potchefstroom) Ltd v Douglas 1956 3 SA 420 (A)**
+- **Johaadien v Stanley Porter (Paarl) (Pty) Ltd 1970 1 SA 394 (A)**
+- **Oakland Nominees (Pty) Ltd v Gelria Mining & Investment Co (Pty) Ltd 1976 1 SA 441 (A)**
+- **Sonday v Surrey Estate Modern Meat Market (Pty) Ltd 1983 2 SA 521 (C)**
+
+--- 
+
+### ADDITIONAL READING MATERIAL (OPTIONAL)
+- Relevant academic articles and legal commentaries cited for further study.
+
+--- 
+
+Diagrams: Refer to accompanying study materials for visual representations of legal principles relevant to estoppel and negligence cases. 
+
+### Conclusion
+- Overall, discussion of intent, negligence, and the circumstances under which estoppel can be applied highlights practical implications within South African law, particularly regarding property rights and transactions.
+
+----- END OF FILE -----
+# REPUDIATION OF OWNER’S REI VINDICATIO
+
+- **Estoppel and Owner’s Representation**:  
+  - Easier for an estoppel-asserter to repudiate owner’s claim with reasonable representation.  
+  - Contrast with owner's awareness of truthfulness of statement.
+
+## INCOMPATIBILITY OF MAJORITY AND MINORITY JUDGMENTS
+
+- **Weighing Interests**:  
+  - True owner's interests vs. bona fide acquirer of possession.
+- **Roman Law Rule**:  
+  - **Ubi meam rem invenio, ibi vindico**: Ownership protection in SA law.
+  - Owner usually can reclaim possession except in exceptional cases like estoppel.
+- **Germanic Law Rule**:  
+  - **Mobilia non habent sequelam**: Favor bona fide acquirer of possession, not owner.
+
+## EXTENSION OF EXCEPTIONS
+
+- **Chief Justice’s Opinion (Grosvenor Motors)**:  
+  - **Expansion of exceptions** to ownership rule is not readily adopted.  
+  - Traditional ownership protection remains strong unless owner culpably misrepresents.
+
+## RESTRICTIONS ON THE EFFECT OF REI VINDICATIO
+
+- **Rumpff JA’s Minority Judgment**:  
+  - Commercial requirements may restrict owner’s rei vindicatio due to estoppel.
+  - Estoppel serves as a defence to limit owner's claim.
+  
+## LEARNING UNIT 4: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: FAULT
+
+### INFLUENCE OF THE JOHAADIEN CASE 
+
+- **Requirement of Fault**:  
+  - Potential abandonment of fault requirement in estoppel for contemporary considerations.
+  - Differentiation based on principles and fairness is suggested.
+
+### THE OAKLAND NOMINEES CASE
+
+- **Estoppel in Ownership**:  
+  - Owner is estopped from claiming property only if the possessor is misled by owner’s culpa or by fairness considerations.
+  
+### CASES WHERE NEGLIGENCE IS NOT REQUIRED
+
+- **General Position**:  
+  - Estoppel not strictly requiring fault in cases outside rei vindicatio.
+  
+### COETZEE V VAN DER WESTHUIZEN 
+
+- **Negligence Not Required**:  
+  - Court acknowledges general inclusion of a wronged party's actions affecting their defence in estoppel.
+  
+### PENNEFATHER V GOKUL 
+
+- **Fault Requirement**:  
+  - Some courts required culpability, others indicated otherwise based on prior findings.
+
+### TRUST BANK OF SOUTH AFRICA V MAHARAJ
+
+- **Estoppel Application**:  
+  - Established that fault (negligence) is not essential for estoppel, consistent with Coetzee.
+
+### CURRENT LEGAL POSITION
+
+- **Complexity**:  
+  - Divergence remains in estoppel application, with references to Johaadien.
+
+### FAULT ON THE PART OF THE DECEIVED PERSON
+
+- **Absence of Negligence**:  
+  - Estoppel defence requires the deceived party to be free from negligence.  
+  - Intentional misrepresentations override any negligence claim.
+
+---
+
+**NOTE**: Ensure to revise relevant case law and principles for comprehensive understanding.
+----- END OF FILE -----
+**LEARNING UNIT 4: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: FAULT**  
+  
+- **4.1 Intent Requirement**
+  - Intent not required for estoppel reliance.
+  
+- **4.2 Negligence as a Requirement**
+  - Test for negligence varies; significant in estoppel cases.
+  - Key cases: Consider decisions of the **Appellate Division**.
+  - Controversy exists over negligence as a prerequisite for estoppel.
+
+- **4.3 Types of Estoppel**  
+  - **4.3.1 Estoppel Against Rei Vindicatio**  
+    - Negligence is necessary.
+  - **4.3.2 Other Estoppel Cases**  
+    - Negligence not required; cases vary by context.
+
+- **4.4 Fault of Estoppel-Asserter**
+  - Fault affects reliance on estoppel.
+  - Intentional misrepresentation negates negligence requirement.
+
+**LEARNING UNIT 5: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: PREJUDICE**  
+
+- **5.1 Introduction**  
+  - Requirement of prejudice in estoppel established.
+
+- **5.2 Two Approaches**  
+  - **Patrimonial Prejudice**  
+    - Established by comparing actual position vs. hypothetical position if no misrepresentation occurred (case: **Jonker v Boland Bank Pks Bpk**).
+    - Prejudice often misunderstood in historical cases (case: **Baumann v Thomas**).
+  - **Sufficient Prejudice**  
+    - Prejudice can exist without actual loss; mere threat of loss suffices (case: **South British Insurance Co Ltd v Ellisson**).
+    - Examples given: **Autolec Ltd v Du Plessis** emphasizes that business matters, not philosophical or sentimental values, should be considered.
+
+- **Case Law Overview**
+  - **Peri-Urban Areas Health Board v Breet NO and Another**: Prejudice necessary even in instances of contractual errors.
+  - Change of legal position is crucial; entering into contracts or incurring liabilities can establish prejudice without proof of financial impact.
+----- END OF FILE -----
+# LEARNING UNIT 5: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: PREJUDICE
+
+## Operation of the Principle of Estoppel
+- Estoppel prevents prejudice; it operates only to the extent of the actual prejudice suffered.
+- Example: If B represents to A that she owes R2,000 and A, relying on this, wastes R100, estoppel can be pleaded only for the amount wasted (R100).
+- Reference Case: **Durban Corporation Superannuation Fund v Campbell 1949 3 1057 (N)**.
+
+## Need for Normative Judgment
+- Wider approach suggests that the requirement of prejudice for estoppel is non-patrimonial; any unreasonably unacceptable change in legal position constitutes sufficient prejudice (Van der Walt JC).
+
+## Inclusion of Future Patrimonial Loss
+- Views on prejudice requirement:
+  - Wider approach includes possible or uncertain future patrimonial loss.
+  - Must still be a patrimonial prejudice affecting the aggrieved’s position detrimentally (Van der Merwe and Van Huyssteen).
+
+# LEARNING UNIT 6: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: CAUSATION
+
+## 6.1 Introduction: Factual and Legal Causation
+- **Causal Link**: Required between misrepresentation by the estoppel-denier and eventual act leading to prejudice (Southern Life Association Ltd v Beyleveld NO 1989 1 SA 496 (A)).
+- Distinction between factual (condition sine qua non) and legal causation is not expressly made in estoppel cases.
+
+## 6.2 The “Proximate Cause” Test
+- **Proximate Cause**: Misrepresentation must be the proximate or real and direct cause of the estoppel-asserter’s action resulting in prejudice.
+- **Case Reference**: **Union Government v National Bank of South Africa Ltd 1921 AD 121**.
+  
+### Judgments of the Appellate Division
+- **Innes CJ**: No negligence by P; government not estopped.
+- **Solomon JA**: Negligence not proximate cause of the bank’s loss; intervening act by S was too remote.
+- **Juta JA**: P’s negligence was not the immediate cause; intervening events nullified proximate causation.
+
+### Practical Implications
+- The proximate cause test shows that estoppel cannot be invoked when an intermediary’s actions cause misrepresentation unless those acts are independent of the owner’s conduct.
+- Summary: The proximate cause test inherently includes considerations of both factual and legal causation, validating the extent of potential negligence’s remoteness to the loss.
+----- END OF FILE -----
+# STUDY NOTES
+
+## LEARNING UNIT 6: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: CAUSATION
+
+- **Causation in Estoppel**
+  - Both factual and legal causation integral for estoppel.
+  - Courts employ a combined test to assess the connection between misrepresentation and prejudice.
+
+- **Case Illustrations**
+  - **Kajee v H M Gough (1971)**
+    - Estoppel can be raised against a party enabling another to commit fraud through negligence.
+    - Important in establishing foreseeability of subsequent wrongful conduct.
+
+- **Causation Theories**
+  - Ongoing debate regarding the applicable causation theory.
+  - Reference: **Saambou-Nasionale Bouvereniging v Friedman (1979)** indicates unsettled nature of causation in estoppel.
+
+---
+
+## LEARNING UNIT 7: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: THE RELIANCE ON ESTOPPEL MUST BE PERMISSIBLE IN LAW
+
+### 7.1 INTRODUCTION
+- Estoppel maintains a false impression as the truth.
+- Cannot uphold impressions prohibiting public interest or statutory law.
+
+### 7.2 ILLEGAL OR INVALID ACTS
+- Supporting estoppel where prohibited acts committed is impermissible.
+- **Case Law Examples**
+  - **Brady v SA Turf Club**: estoppel not available for prohibited acts.
+  - **Long v Cape Town Municipality**: misled parties cannot escape lawful obligations.
+
+- **Specifics in Case Law**
+  - **Hoisain v Wynberg Municipality**: estoppel inapplicable when a trade licence was improperly granted—contradicts statute.
+  - **Fuls v Leslie Chrome (1962)**: estoppels cannot nullify statutory requirements for leases.
+  
+### 7.3 ULTRA VIRES ACTS
+- Estoppel cannot validate ultra vires actions beyond public power or legal constraints.
+- Example: Confirming a non-existent option cannot be upheld if it violates formalities required by law.
+
+### 7.4 STATUS AND LEGAL CAPACITY
+- Important to note that reliance on estoppel must fit within provided legal frameworks regarding status and capacity, where unlawful debts cannot be enforced.
+
+### 7.5 HIRE-PURCHASE CONTRACTS (CREDIT AGREEMENTS)
+#### 7.5.1 Introduction
+- Implications in hire-purchase contexts related to estoppel.
+  
+#### 7.5.2 Hire-purchase in Case Law
+- Examines how estoppel is applied in credit agreements, focusing on statutory adherence.
+
+#### 7.5.3 Conclusion
+- Key takeaway: reliance on estoppel must align with lawful principles, emphasizing adherence to statutory requirements in obligations.
+
+---
+
+## PRESCRIBED CASE LAW
+- **Autolec Ltd v Du Plessis (1965)**
+- **City of Tshwane Metropolitan Municipality v RPM Bricks (2008)**
+- **Credit Corporation of SA v Botha (1968)**
+- **Fuls v Leslie Chrome (1962)**
+- **Hauptfleisch v Caledon Divisional Council (1963)**
+- **Hoisain v Wynberg Municipality (1916)**
+- **Klerck NO v Van Zyl and Maritz NNO (1989)**
+- **Naidoo v Marine & Trade Insurance Co Ltd (1978)**
+- **Pharmaceutical Manufacturers Association of South Africa v President of the Republic of South Africa (2000)**
+- **Strydom v Die Land- en Landboubank van Suid-Afrika (1972)**
+- **Trust Bank van Afrika Bpk v Eksteen (1964)**
+- **Trust Bank van Afrika Bpk v Van der Walt (1962)**
+
+--- 
+
+- Key diagrams referenced throughout the lessons aid in visualizing the principles of estoppel and causation relations.
+----- END OF FILE -----
+### 7.3 ULTRA VIRES ACTS
+
+**Powers and Duties of Statutory Bodies**
+- Estoppel is unavailable to statutory bodies for ultra vires acts.
+- Statutory bodies act within powers conferred by statute; cannot be estopped to do beyond their powers or prevented from fulfilling legal duties.
+- **Case Reference**: Hoisain v Wynberg Municipality [1916 CPD 194], Maberley v Woodstock Municipality [1901 SC 443], Abrahamse v Connock’s Pension Fund [1963 2 SA 76 (W)].
+
+**Compliance with Internal Formalities**
+- Distinction between ultra vires acts and those valid upon internal formalities compliance.
+- Third parties may plead estoppel if they assume formalities are met unless they know otherwise.
+- **Case Reference**: City of Tshwane Metropolitan Municipality v RPM Bricks (Pty) Ltd [2007 3 All SA 17 (SCA)].
+
+**Constitution of the Republic of South Africa, 1996**
+- The Constitution influences public law estoppel; emphasizes balancing interests and prejudice.
+- Courts should assess individual vs. public interests when considering estoppel.
+- **Case References**: Pharmaceutical Manufacturers Association of SA; Eastern Metropolitan Substructure v Peter Klein Investments (Pty) Ltd [2001 (4) SA 661 (W)].
+
+**Possible Future Deviation from Established Approach**
+- Statutory bodies may be bound by estoppel regarding ultra vires acts after interest consideration.
+
+### 7.4 STATUS AND LEGAL CAPACITY
+
+**Conferral of Status, Legal Capacity or Jurisdiction Not Possessed**
+- Estoppel cannot confer legal status, capacity, or jurisdiction not recognized by law.
+- **Case Reference**: Rand Wholesale Outfitters v Cassels [1955 2 SA 66 (W)], Trust Bank of Africa Ltd v Appletime Engineering (Pty) Ltd [1981 1 SA 374 (D)], Louw v MJ & H Trust [1975 4 SA 268 (T)].
+
+### 7.5 HIRE-PURCHASE CONTRACTS (CREDIT AGREEMENTS)
+
+**7.5.1 Introduction**
+- The Hire-Purchase Act 36 of 1942 replaced by Credit Agreements Act 75 of 1980, followed by National Credit Act 34 of 2005 effective June 2006-June 2007.
+- Previous court decisions under the Hire-Purchase Act may apply mutatis mutandis to new laws.
+
+**Lack of Success with a Plea of Estoppel Under Certain Circumstances**
+- **Example**: A purchased a car from B; failed initial payment; signed forms misleadingly suggested payment was made; C discounted the contract and sued A.
+- The estoppel plea from C should fail as it promotes unlawful results.
+
+**Non-upholding of Appearance Due to Avoiding Unlawful Results**
+- Courts approach estoppel differently in discounted agreements; estoppel may succeed due to unique circumstances.
+
+**7.5.2 Hire-purchase Transactions in Case Law**
+
+**Trust Bank of Africa Ltd v Malan [1961 1 PH A 37 (T)]**
+- A bought a car, did not seek a contract with B; C discounted the hire-purchase agreement and sought payment from A.
+- Court ruled estoppel applied since documentation never covered a sale.
+
+**Trust Bank of Africa Ltd v Van der Walt [1962 1 SA 174 (T)]**
+- Two brothers signed forms intending to purchase a lorry conditionally; the seller misrepresented this to C.
+- Court's ruling centered on lack of representation by A.
+
+**Trust Bank van Afrika Bpk v Eksteen [1964 3 SA 402 (A)]**
+- Appeal Court distinguishes hire-purchase seller's role and surety implications.
+- Key issues centered on the enforceability of void contracts using estoppel.
+
+**Vinculum Juris**
+- The surety's impression recognizes obligation despite contract of suretyship.
+- Relevant was whether estoppel could enforce an unlawful contract.
+
+**Judgment of the Appeal Court**
+- Reiterated importance of the impression created versus the legality of the original contracts.
+- Concluded estoppel could apply to the surety, creating complexity over buyer liability.
+
+**Guidelines for Interpretation of the Hire-Purchase Act**
+- Sections must be understood to ensure buyers and sellers are not bound when compliance fails.
+- Innocent parties may raise estoppel where contracts are void, maintaining public interest principles.
+  
+**Comment on the Appeal Court Decision**
+- Interpretations suggest courts have broadened estoppel applications despite past principles.
+- Examined differing judicial opinions highlight nuances in equitable applications of estoppel.
+----- END OF FILE -----
+# LEARNING UNIT 7: REQUIREMENTS FOR A SUCCESSFUL RELIANCE ON ESTOPPEL: THE RELIANCE ON ESTOPPEL MUST BE PERMISSIBLE IN LAW
+
+## Later Judgments
+- **Trust Bank v Eksteen**: Plea of estoppel upheld despite invalidity; court's duty to examine public interest.
+- Estoppel must not promote illegal results (Scottish Rhodesian Finance Corporation Ltd v Olivier 1965 2 SA 716 (R)).
+- Differences in court findings post-Eksteen regarding estoppel against hire-purchase buyers.
+
+### Further Decisions
+1. **Scottish Rhodesian Finance Corporation**: Successful estoppel requires avoiding unlawful impressions.
+2. **Autolec case**: Fictitious contracts upheld; estoppel validated despite seller's intent to deceive.
+3. **Credit Corporation of SA Ltd v Botha 1968 4 SA 837 (N)**: Invalid contract scenario; estoppel raised successfully.
+
+## Distinction Between Fictitious and Invalid Hire-Purchase Agreements
+- **Fictitious Agreements**: No intentions to enter contracts; e.g., Autolec, Malan cases.
+- **Invalid Agreements**: Parties intend to contract but fail to meet legal requirements; e.g., Eksteen case.
+
+## Liability of the Buyer for Payment
+- Buyers may be liable for payments under fictitious agreements; no evasion of Hire-Purchase Act.
+
+## The Trust Bank Case
+- Some alleged hire-purchase contracts deemed fictitious; estoppel may apply even if statutory validity is absent.
+
+## Whether Estoppel Can be Raised in Case of Fictitious Hire-Purchase Agreements
+- Criticism exists against raising estoppel in fictitious agreements, seen as legitimizing invalid contracts.
+- Estoppel remains applicable for innocent discounters despite arguments against it.
+
+## Upholding of an Impression Must Not Promote an Illegal Result
+- Exceptions to the rule established; public policy favors protection of innocent discounters over parties in fictitious agreements.
+
+## Criticism of Approach of Courts
+- Courts’ approach may enable consequences for invalid agreements through estoppel, leading to potential legal inconsistencies.
+
+---
+
+# LEARNING UNIT 8: THE APPLICATION OF ESTOPPEL IN CERTAIN PRACTICAL INSTANCES
+
+## 8.1 INTRODUCTION
+- Discussion on practical applications of estoppel in various legal scenarios.
+
+## 8.2 ESTOPPEL AND THE REI VINDICATIO
+### 8.2.1 The effect of a successful reliance on estoppel against the rei vindicatio
+- Potential defenses against ownership claims.
+
+## 8.3 ESTOPPEL AND REPRESENTATION IN TERMS OF MANDATE
+- Impact on contractual obligations arising from representations.
+
+## 8.4 ESTOPPEL AND PARTNERSHIP
+- How estoppel influences partners' liabilities.
+
+## 8.5 ESTOPPEL AND THE CONCLUSION OF A CONTRACT
+- Role of estoppel in contract formation without consensus.
+
+## 8.6 ESTOPPEL AND WAIVER OF RIGHTS
+- Brief examination of rights waiver in relation to estoppel.
+
+### PRACTICAL SCENARIOS
+- **Scenario 1**: Ownership representation leading to potential claims.
+- **Scenario 2**: Partner's liability for debts incurred post-departure.
+- **Scenario 3**: Assessment of contract validity under mistaken price representation.
+
+## PRESCRIBED CASE LAW
+- **Van Ryn Wine and Spirit Co v Chandos Bar 1928 TPD 417**: Key case reference.
+
+## ADDITIONAL READING MATERIAL (OPTIONAL)
+- Various scholarly articles and case commentaries on estoppel applications in the South African context.
+
+--- 
+
+This structure presents highly condensed legal study notes while maintaining the essential information, case references, and headings as requested.
+----- END OF FILE -----
+# LEARNING UNIT 8: THE APPLICATION OF ESTOPPEL IN CERTAIN PRACTICAL INSTANCES
+
+### 8.1 Introduction
+- Overview of general requirements for reliance on estoppel.
+- Discussion of further principles regulating practical applications.
+  
+### 8.2 Estoppel and the Rei Vindicatio
+- **Rei Vindicatio**: Owner claims property based on Roman principle.  
+- **Germanic Principle**: Owner's claim restricted if possession was voluntarily surrendered.
+- Limitations on owner’s rei vindicatio:
+  - **Where a Factor Sells Goods**: Owner can reclaim only if buyer colluded with factor (e.g., *Pretorius v Loudon* 1985 3 SA 845 (A)).
+  - **Culpable Misrepresentation**: If an owner misrepresents another as the owner, they may be estopped from reclaiming property (cases: *Adams v Mocke* 1906 23 SC 782, *Morum Bros Ltd v Nepgen* 1916 CPD 392, etc.).
+
+##### 8.2.1 The Effect of a Successful Reliance on Estoppel Against the Rei Vindicatio
+- **Implication of Estoppel**: An owner (A) may not reclaim property from a third party (C) if estoppel applies, despite C buying from a misrepresented source (B) — adheres to *nemo plus iuris rule*.
+- **Legal Certainty**: To protect bona fide acquirers, acceptance that ownership may transfer through estoppel is essential (views of Van Heerden and Louw).
+
+### 8.3 Estoppel and Representation in Terms of Mandate
+- **Contract of Mandate**: Establishes the relationship and authority between mandans and mandatarius.
+- **Estoppel Application within Mandate**:
+  - Authority may appear (ostensible) or actually exist but be restricted.
+- **Key Principles**:
+  - Private instructions do not affect third-party dealings.
+  - Termination of authority does not negate liability to innocent third parties.
+
+### 8.4 Estoppel and Partnership
+- **Partnership Liability**: Partners can bind each other unless restricted by agreement.
+- **Liability for Misrepresentation**: Misleading others into believing one is a partner can invoke estoppel.
+- **Post-Resignation Liabilities**: Former partners may be held liable for debts incurred if third parties believed they were still partners.
+
+### 8.5 Estoppel and the Conclusion of a Contract
+- **Estoppel and Lack of Consensus**: Controversy exists regarding estoppel’s role when parties lack consensus due to mistake.
+- **Views on Estoppel in Mistake**:
+  - **Consent Theory**: Asserts no contract exists if consent is absent due to mistake (De Wet stance).
+  - **Apparent Consent**: Positive law may bind parties despite true dissent; estoppel may play a role.
+- **Traditional Theories of Contractual Liability**:
+  - **Consent Theory**: Contractual liability based solely on mutual agreement.
+  - **Declaration Theory**: Contract formation through corresponding expressions of intent.
+  - **Reliance Theory**: Emphasizes reliance on presumed intent despite misinterpretation (De Wet and Van Wyk critiques).
+
+### References to Further Readings
+- Rabie & Sonnekus; Visser & Potgieter; De Wet & Van Wyk on the law of estoppel and contractual liability.
+- Relevant cases listed to illustrate principles discussed throughout the unit.
+----- END OF FILE -----
+# LEARNING UNIT 8: THE APPLICATION OF ESTOPPEL IN CERTAIN PRACTICAL INSTANCES
+
+### Case Studies
+- **Pieters & Co v Solomon 1911 AD 121**
+  - Issue of mistake at contracting.
+  - P's offer interpreted as willingness to pay £490 based on S's letter, despite P's intention to pay £345.
+  - Court upheld S's reliance, finding a contract existed despite lack of consensus.
+
+- **Hodgson Bros v South African Railways & Harbours 1928 CPD 257**
+  - H offered a truck for £500; however, SAR offered £300 without mentioning price.
+  - Court found a contract existed based on H's reasonable impression of price, despite dissensus.
+
+- **Other Relevant Cases**
+  - Similar rulings accepted in cases like *Sonap Petroleum (South Africa) (Pty) Ltd v Pappadogianis 1992 3 SA 234 (A)* and *Steyn v LSA Motors Ltd 1994 1 SA 49 (A)*.
+
+### Estoppel Essentials
+- Estoppel retains parties to a contract in absence of real consensus.
+- Established principles in cases:
+  - **Van Ryn Wine and Spirit Co Case**
+    - X misrepresented prices to C, C acted on that conduct, leading R to claim based on estoppel.
+    - Court ruled C was reasonable and not estopped from proving dissensus.
+  
+### Distinction in Liability
+- Reliance theory and estoppel yield similar outcomes but differ in legal basis:
+  - **Estoppel**: No valid contract exists, but parties held liable as though one exists (fiction).
+  - **Reliance Theory**: Actual contract exists; liability stems from unreasonable creation of impression.
+
+### Objections to Estoppel Application
+- Concerns over complicating contract law; prejudice requirements can obstruct liability establishment.
+- Prevailing view: consensus is essential for contractual liability, though reliance theory may expand on this.
+
+### Appellate Division Approach
+- Initial acceptance of estoppel in dissensus cases (*Saambou-Nasionale Bouvereniging v Friedman 1979 3 SA 978 (A)*).
+- Rejection of estoppel applicability in reliance theory during *Sonap Petroleum* case.
+
+### Estoppel and Waiver of Rights
+- Waiver requires intention; estoppel can arise from conduct suggesting waiver.
+- In *Mahabeer v Sharma NO and Another 1985 3 SA 729 (A)*, conduct may lead to estoppel against denying waiver.
+
+---
+
+# LEARNING UNIT 9: THE BASIS AND NATURE OF ESTOPPEL
+
+### 9.1 INTRODUCTION
+- Overview of estoppel concepts and theory, elaborating on its relevance in South African law.
+
+### 9.2 THE EXCEPTIO DOLI
+- Historical context: estoppel viewed as a defense stemming from Roman law against benefiting from bad faith.
+
+### 9.3 THE MAXIM NEMO CONTRA SUUM FACTUM VENIRE DEBET
+- Establishes that one cannot contradict their own actions.
+
+### 9.4 PROTECTION OF GOOD FAITH
+- Notion of acting in good faith as a foundational principle for estoppel.
+
+### 9.5 MISREPRESENTATION
+- Discussion of how misrepresentation correlates with estoppel principles, particularly in establishing liability.
+
+### 9.6 ESTOPPEL AS A RULE OF EVIDENCE
+- How estoppel functions within evidential frameworks, asserting reliability of representations made.
+
+### 9.7 ESTOPPEL AS A LEGAL REMEDY SUI GENERIS
+- Explores the uniqueness of estoppel as a remedy, distinct from traditional legal avenues.
+
+### Prescribed Case Law
+- *Oakland Nominees (Pty) Ltd v Gelria Mining & Investment Co (Pty) Ltd 1976 1 SA 441 (A)* 
+
+### Additional Reading
+- References to critical literature detailing the principles and nuances of estoppel in South African law.
+----- END OF FILE -----
+# LEARNING UNIT 9: THE BASIS AND NATURE OF ESTOPPEL
+
+## 9.1 Basing of Estoppel on Exceptio Doli
+- **Estoppel and Exceptio Doli**: 
+  - Basing estoppel on Roman law's *exceptio doli* was acknowledged in *Baumann* and *Oakland Nominees* cases.
+  - In *Oceanair (Natal) (Pty) Ltd v Sher* 1980 (1) SA 317 (D), estoppel was linked to *exceptio doli*.
+- **De Ome Case**:
+  - Held that *exceptio doli* never became a part of Roman-Dutch law (De Ome 1988 (3) SA 580 (A)).
+
+## 9.2 Exceptio Doli Specialis and Generalis
+- **Exceptio Doli Specialis**:
+  - Targets fraudulent past misrepresentation, not encompassing all estoppel liabilities (liabilities can arise from negligent misrepresentation).
+- **Exceptio Doli Generalis**:
+  - Concerns fraud in the present, lacking a substantive principle of liability; reflects a tool to adapt existing law.
+  - Initially required bad faith, later abandoned; serves to introduce new law.
+- **Principles from Jansen J in North Vaal**: Emphasizes the generality supports various legal developments.
+- **Estoppel Comparison**:
+  - Requires examination of equity; *exceptio doli* is solely a defense, unlike estoppel, which allows plaintiff invocation.
+  - Estoppel's theoretical dependencies on *exceptio doli* have been critiqued.
+
+## 9.3 The Maxim Nemo Contra Suum Factum Venire Debet
+- **Nemo Contra Suum Factum**:
+  - Principles of estoppel are reflected, however, qualification is necessary; mere ownership or intent does not establish estoppel.
+- **Contractual Basis of Estoppel**:
+  - Some propose estoppel arises from implied agreements regarding factual representations.
+  - Often viewed as artificial; questions linger on presence of mutual consent in negligent misrepresentations.
+
+## 9.4 Protection of Good Faith
+- **Estoppel's Characteristic**:
+  - Centered around protecting good faith via maintenance of impressions created.
+- **Impression and Fault**:
+  - Justification for creators losing rights not solely based on good faith; fault must be established.
+  - Good faith must be linked to culpable misrepresentation for loss justification.
+
+## 9.5 Misrepresentation
+- **Reliance on Estoppel**:
+  - Can arise from intentional/negligent misrepresentation leading to delictual liability or estoppel.
+- **Actio de Dolo Malo and Actio Legis Aquiliae**:
+  - Historical shift from relying on fraudulent misrepresentation toward integrating *actio* principles.
+- **Fraudulent Misrepresentation Remedies**:
+  - Options include: action in delict, estoppel, or resiling from contract where material error is absent.
+- **Negligent Misrepresentation in English Law**:
+  - Initially limited but expanded to include liability in misrepresentation cases (*Hedley Byrne & Co Ltd v Heller & Partners Ltd* 1964 AC 465).
+- **Invocation of Estoppel**:
+  - Possible under negligence, establishing reliance in replication rather than as an exception.
+  
+### Key Cases
+- *Pandor’s Trustee v Veatley & Co* 1935 TPD 358: Interpretation of estoppel as defense.
+- *Biloden Properties (Pty) Ltd v Wilson* 1946 NPD 736: Confirmed estoppel's limited actionable characteristics.
+- *Mann v Sydney Hunt Motors (Pty) Ltd* 1958 2 SA 102 (G): Estoppel reaffirmed as a defense, not a cause of action.
+
+### Conclusion
+- Estoppel is primarily a defense rooted in negligent misrepresentation; it should not be conflated with delictual actions. The framework for its application is distinct and requires careful consideration of its principles and requirements.
+----- END OF FILE -----
+# LEARNING UNIT 9: THE BASIS AND NATURE OF ESTOPPEL
+
+## 9.1 Comparison of Estoppel and Delict
+- Requirements for estoppel: 
+  - Fault
+  - Prejudice
+  - Causation
+  - Legally permissible reliance
+- Delict differences:
+  - No requirement for permissible reliance
+  - Distinct nature and function of remedies
+
+## 9.2 Comparison of Estoppel, Actio Legis Aquiliae, and Interdict
+1. **Nature of Remedy**: 
+   - Estoppel serves as defense; not in declaration.
+2. **Scope of Application**: 
+   - Estoppel applicable in case of misrepresentation; both interdict and action ex delicto apply to any unlawful conduct.
+3. **Objectives**:
+   - Action ex delicto: Recover damages for loss.
+   - Interdict: Prohibit human conduct.
+   - Estoppel: Uphold created impressions, does not focus on recovery or prohibition.
+4. **Fault Requirement**:
+   - Interdict: No fault needed.
+   - Action ex delicto: Fault required.
+   - Estoppel: Fault needed only in certain cases.
+5. **Aim of Remedies**: 
+   - Action ex delicto: Damages recovery.
+   - Estoppel: Prevention of damage.
+
+## 9.3 Estoppel as a Rule of Evidence
+- Estoppel perceived as a rule of evidence:
+  - Precludes denial of previously made statements.
+  - Confusion between pleading and evidence.
+- Misleading view:
+  - Estoppel must be pleaded; it introduces facts at issue.
+  - Not an exclusion but allows for additional admissible evidence.
+
+## 9.4 Estoppel as a Legal Remedy Sui Generis
+- Sui generis nature:
+  - Distinct from exceptio doli and action ex delicto.
+  - Introduced to address legal gaps in South African law influenced by English law.
+- Importance of recognition:
+  - Understanding its uniqueness avoids categorization confusion.
+  - Principles should evolve without dogmatic constraints.
+
+## 9.5 Definition of Estoppel by Representation
+- **Core Definition**: 
+  - A person is estopped from denying the truth of a representation if:
+    - The other party relied on the representation.
+    - The reliance resulted in prejudice.
+
+---
+**Legislation and Cases Highlight**: 
+- Estoppel principle based on case law and influenced by legal frameworks.
+- Reference from Hoffmann & Zeffert regarding estoppel as part of evidence law.  
+
+**Diagram References**: Include diagrams illustrating the relationships between estoppel, delict, interdict, and their functions.
