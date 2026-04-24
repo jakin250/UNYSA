@@ -2075,6 +2075,17 @@
     }
 
     async function loadNoteText(note) {
+      if (note.path) {
+        try {
+          const res = await fetch(note.path, { cache: "no-store" });
+          if (!res.ok) throw new Error("TXT file not found");
+          const text = await res.text();
+          return text || "The TXT file is empty.";
+        } catch (error) {
+          return `Unable to load TXT content from:\n${note.path}\n\nReason: ${error.message}\n\nIf hosted, ensure the TXT file exists at that web path.`;
+        }
+      }
+
       if (note.chapters && note.chapterPathPattern) {
         const chunks = [];
 
@@ -2096,15 +2107,6 @@
 
       if (!note.path) {
         return "No TXT file path was provided for this note.";
-      }
-
-      try {
-        const res = await fetch(note.path, { cache: "no-store" });
-        if (!res.ok) throw new Error("TXT file not found");
-        const text = await res.text();
-        return text || "The TXT file is empty.";
-      } catch (error) {
-        return `Unable to load TXT content from:\n${note.path}\n\nReason: ${error.message}\n\nIf hosted, ensure the TXT file exists at that web path.`;
       }
     }
 
